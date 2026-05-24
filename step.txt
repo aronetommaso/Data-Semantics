@@ -1,0 +1,52 @@
+Step progetto Data Semantics:
+
+---
+
+Paper: (almeno 4/5)
+    - Trovare paper:
+    - paper KG su guerre;
+    - paper LLM su guerre;
+    - paper NER/NEL su guerre;
+    - paper GraphRAG (?). (paper Microsofts)
+
+    Deadline --> Mercoledì 27 maggio
+
+- Dati:
+    - ACLED --> (at today: 2013-2023 --> eventi con >50 morti + 2023-oggi tutti gli eventi);
+    - GDELT --> eventi e sentiment dell'evento; https://www.gdeltproject.org/
+    - Notizie --> Inseriamo? reliefweb api; (enrichment) https://apidoc.reliefweb.int/result-structure
+
+    --> Decidere quale usare, se unirle...
+
+- KG:
+    - Ontologia --> Entità, proprietà ecc...
+    - Annotazioni (per GraphRAG) --> (usare colonna notes?) oppure NEL?
+
+- LLM:
+    - GraphRAG --> seguire Microsofts paper, studiare GraphRAG.
+    - costi --> groq: https://console.groq.com/home (chiamate api), studiare bene i limiti api.
+
+- Interfaccia Grafica:
+    - streamlit interface?
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
