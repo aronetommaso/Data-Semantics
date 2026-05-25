@@ -4,7 +4,7 @@ Step progetto Data Semantics:
 
 Paper: (almeno 4/5)
     - Trovare paper:
-    - paper KG su guerre;
+    - paper KG su guerre; --> https://ceur-ws.org/Vol-3401/paper2.pdf
     - paper LLM su guerre;
     - paper NER/NEL su guerre;
     - paper GraphRAG (?). (paper Microsofts)
