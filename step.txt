@@ -33,6 +33,24 @@ Paper: (almeno 4/5)
 
 
 
+# IDEE:
+
+    - Temporal Knowledge Graph --> https://ceur-ws.org/Vol-3401/paper2.pdf
+        perchè:
+        GraphRAG di Microsoft non fa solo una ricerca vettoriale sui nodi; la sua vera forza sta nel creare dei cluster (comunità) 
+        usando l'algoritmo di Leiden e nel chiedere a un LLM di generare dei macro-riassunti (Community Reports) per ogni cluster.
+
+        Se inserisci tutti i dati storici di ACLED in un unico grafo statico:
+
+        L'algoritmo di Leiden raggrupperà i nodi in base alla connettività topologica, non in base al tempo. Quindi, un attore e 
+        una location finiranno nello stesso cluster perché hanno interagito tantissimo nel corso di 3 o 4 anni.
+
+        L'LLM, in fase di indicizzazione, leggerà tutti i tripli di quel cluster e scriverà un Community Report. Se in quel cluster 
+        ci sono eventi del 2023, 2024 e 2026, l'LLM cercherà di sintetizzarli insieme.
+
+        Il report finale del cluster conterrà una panoramica massiccia in cui gli eventi vecchi e nuovi sono fusi insieme nello 
+        stesso testo. Quando fai una query globale (Global Search), GraphRAG interroga i report delle comunità, non i singoli tripli 
+        grezzi. Di conseguenza, l'informazione temporale arriva all'LLM finale già "impastata" e diluita nei riassunti.
 
 
 

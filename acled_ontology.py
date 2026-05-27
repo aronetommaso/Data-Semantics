@@ -261,6 +261,8 @@ def main():
         return
         
     df = pd.read_csv(file_path)
+
+    print(df.shape)
     
     # Initialize RDF Graph
     g = Graph()

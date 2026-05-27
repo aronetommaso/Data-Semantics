@@ -165,10 +165,10 @@ def scarica_dati_middle_east(token):
     
     # Colonne ottimizzate per l'ingestion in un Knowledge Graph
     colonne_utili = [
-        'event_id_cnty', 'event_date', 'event_type', 'sub_event_type',
-        'actor1', 'inter1', 'actor2', 'inter2', 
-        'country', 'location', 'latitude', 'longitude', 
-        'fatalities', 'notes'
+        'event_id_cnty', 'event_date','disorder_type', 'event_type', 'sub_event_type',
+        'actor1','assoc_actor1', 'inter1', 'actor2','assoc_actor2', 'inter2', 'iso',
+        'country', 'location', 'latitude', 'longitude', 'source', 'source_scale',
+        'fatalities', 'notes', 'tags'
     ]
     
     df_pulito = df[[c for c in colonne_utili if c in df.columns]]
@@ -251,10 +251,10 @@ def scarica_backfill_storico(token):
     df = pd.DataFrame(tutti_gli_eventi)
     
     colonne_utili = [
-        'event_id_cnty', 'event_date', 'event_type', 'sub_event_type',
-        'actor1', 'inter1', 'actor2', 'inter2', 
-        'country', 'location', 'latitude', 'longitude', 
-        'fatalities', 'notes'
+        'event_id_cnty', 'event_date','disorder_type', 'event_type', 'sub_event_type',
+        'actor1','assoc_actor1', 'inter1', 'actor2','assoc_actor2', 'inter2', 'iso',
+        'country', 'location', 'latitude', 'longitude', 'source', 'source_scale',
+        'fatalities', 'notes', 'tags'
     ]
     
     df_pulito = df[[c for c in colonne_utili if c in df.columns]]
