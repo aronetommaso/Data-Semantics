@@ -32,6 +32,37 @@ Paper: (almeno 4/5)
 ---
 
 
+## GraphRAG --> se rimane tempo tool per query sparql
+
+KG:
+
+possibiilità:
+
+    - da csv --> KG (paper);
+    - a mano --> rml.io
+
+## RML.io
+
+
+Actor1 --> chi attacca;
+Inter1 --> generale;
+
+class: Inter --> Actor (subclass)
+
+# Ontology:
+
+Entities: Actor, Event, 
+
+Properties:
+
+
+
+
+
+
+
+
+
 
 # IDEE:
 
