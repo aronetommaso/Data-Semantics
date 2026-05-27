@@ -51,9 +51,13 @@ class: Inter --> Actor (subclass)
 
 # Ontology:
 
-Entities: Actor, Event, 
+Entities: Actor, Event, GeographicLocation, Source
 
-Properties:
+Literal: Eventdate
+
+Properties: 
+
+    - Actor --> 
 
 
 
