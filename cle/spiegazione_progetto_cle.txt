@@ -1,0 +1,615 @@
+================================================================================
+  ACLED CONFLICT KNOWLEDGE GRAPH — SPIEGAZIONE COMPLETA DEL PROGETTO
+  Data Semantics 2025/2026
+================================================================================
+
+Questo documento spiega ogni passaggio del progetto, dal dato grezzo al Knowledge
+Graph, in modo che chiunque possa capire cosa abbiamo fatto e perché.
+
+
+================================================================================
+  INDICE
+================================================================================
+
+  1. Il problema di partenza
+  2. La soluzione: il Knowledge Graph
+  3. Fase 1 — Download dei dati ACLED
+  4. Fase 2 — Esplorazione del dataset
+  5. Fase 3 — Preprocessing
+  6. Fase 4 — Ontologia OWL
+  7. Fase 5 — Mapping RML
+  8. Prossimi passi (GraphDB e GraphRAG)
+  9. Glossario
+
+
+================================================================================
+  1. IL PROBLEMA DI PARTENZA
+================================================================================
+
+Il punto di partenza è un file CSV con quasi 92.000 eventi di conflitto registrati
+da ACLED (Armed Conflict Location & Event Data Project). Ogni riga del CSV descrive
+un evento: chi ha combattuto, dove, quando, quante vittime, cosa dicono le fonti.
+
+Il problema è che un CSV è "piatto" — è una tabella, e le tabelle non hanno
+relazioni esplicite tra le entità. Se vuoi sapere "quali attori hanno operato in
+Siria E anche in Iraq", un CSV non te lo dice direttamente. Devi scrivere codice
+complesso per incrociare le informazioni.
+
+L'obiettivo del progetto è costruire un sistema che possa rispondere a domande
+complesse di questo tipo usando un LLM (Large Language Model). Non solo recuperare
+righe, ma ragionare su pattern, attori ricorrenti, escalation nel tempo.
+
+Un CSV da solo non basta. Serve qualcosa di più ricco: un Knowledge Graph.
+
+
+================================================================================
+  2. LA SOLUZIONE: IL KNOWLEDGE GRAPH
+================================================================================
+
+Un Knowledge Graph (KG) trasforma il CSV in una rete di entità collegate. Invece
+di righe e colonne, abbiamo NODI e RELAZIONI.
+
+Esempio concreto:
+
+  [Hamas Movement] <-- hasActor1 -- [Evento PSE42801] -- locatedIn --> [Palestine]
+                                           |
+                                      reportedBy
+                                           |
+                                    [Arab 48] [Twitter]
+
+In questo grafo:
+- Hamas Movement è un NODO di tipo conf:PoliticalMilitia
+- PSE42801 è un NODO di tipo conf:ConflictEvent
+- Palestine è un NODO di tipo conf:Country
+- Arab 48 e Twitter sono NODI di tipo conf:Source
+- hasActor1, locatedIn, reportedBy sono RELAZIONI (frecce) tra i nodi
+
+Ogni nodo ha un URI univoco — un identificatore globale che non si confonde mai
+con altri dati. Per esempio:
+  http://data-semantics-2526.org/acled/resource/event/PSE42801
+  http://data-semantics-2526.org/acled/resource/actor/hamas-movement
+
+Questo formato si chiama RDF (Resource Description Framework) ed è lo standard
+del Web Semantico. Il KG è costruito in RDF.
+
+
+--------------------------------------------------------------------------------
+  Perché usiamo OWL
+--------------------------------------------------------------------------------
+
+OWL (Web Ontology Language) è il linguaggio con cui definiamo lo SCHEMA del KG,
+cioè le regole e le categorie. Con OWL definiamo:
+- Le CLASSI: cosa esiste nel grafo (ConflictEvent, Actor, Country, Source)
+- Le RELAZIONI: come le entità si collegano (hasActor1, locatedIn, reportedBy)
+- La GERARCHIA: le sottoclassi (StateForces è sottoclasse di Actor)
+
+Il vantaggio della gerarchia OWL è il REASONING automatico. Se definisci che
+StateForces è sottoclasse di Actor, il database capisce da solo che un'istanza
+di StateForces è ANCHE un Actor, senza che tu debba scrivere triple ridondanti.
+Quando interroghi "tutti gli Actor", ottieni automaticamente anche le StateForces,
+le RebelGroup, le PoliticalMilitia ecc.
+
+
+--------------------------------------------------------------------------------
+  Perché usiamo RML
+--------------------------------------------------------------------------------
+
+RML (RDF Mapping Language) è il linguaggio standard per mappare dati tabulari
+(CSV) in RDF. Invece di scrivere codice Python che esegue la trasformazione,
+scriviamo REGOLE che la descrivono. La differenza è importante:
+
+- Python con rdflib: scrivi codice imperativo (fai questo, poi quello)
+- RML: scrivi regole dichiarative (questi dati diventano queste triple)
+
+RML è riproducibile, documentabile, indipendente dal linguaggio di programmazione.
+È lo standard usato nei paper accademici del settore.
+
+
+================================================================================
+  3. FASE 1 — DOWNLOAD DEI DATI ACLED
+================================================================================
+
+ACLED fornisce i dati tramite API con autenticazione OAuth 2.0. Abbiamo scritto
+uno script Python (preprocessing_cle2.py) che:
+
+  1. Ottiene un token di accesso con username e password
+  2. Scarica gli eventi per la Region Code 11 (Medio Oriente) dal 2023
+  3. Pagina automaticamente le richieste (massimo 5000 eventi per chiamata)
+  4. Esegue un backfill storico per gli anni 2015-2022 (solo eventi strategici
+     e con ≥50 vittime, per contenere la dimensione del dataset)
+  5. Unisce i due dataset e rimuove i duplicati
+
+Il risultato è il file: acled_unified_middle_east.csv
+
+STATISTICHE DEL DATASET FINALE:
+  - Righe: 91.893 eventi
+  - Copertura temporale: 2015-01-03 / 2023-12-31
+  - Paesi: 15 (Medio Oriente)
+  - Colonne selezionate: 19
+
+COLONNE SELEZIONATE E LORO SIGNIFICATO:
+
+  event_id_cnty   → Identificatore univoco dell'evento (es. PSE42801)
+                    Rimane costante anche se i dettagli vengono aggiornati.
+
+  event_date      → Data dell'evento (formato YYYY-MM-DD)
+
+  disorder_type   → Categoria macroscopica dell'evento:
+                    "Political violence", "Demonstrations", "Strategic developments"
+
+  event_type      → Tipo specifico (es. "Battles", "Riots", "Protests")
+
+  sub_event_type  → Sottotipo (es. "Armed clash", "Mob violence")
+
+  actor1          → Primo attore coinvolto (es. "Hamas Movement")
+  inter1          → Tipo del primo attore (es. "Political militia")
+  actor2          → Secondo attore (può essere vuoto)
+  inter2          → Tipo del secondo attore (può essere vuoto)
+
+  iso             → Codice ISO 3166-1 numerico del paese (es. 275 per Palestine)
+                    Usiamo il codice numerico e non il nome stringa perché
+                    il codice è stabile: "Syria", "SYRIA", "Syrie" sarebbero
+                    tre nodi diversi nel KG. Il codice 760 è sempre la Siria.
+
+  country         → Nome del paese
+  location        → Nome della località specifica
+  latitude        → Latitudine (4 decimali)
+  longitude       → Longitudine (4 decimali)
+
+  source          → Fonti dell'evento, SEPARATE DA PUNTO E VIRGOLA
+                    Es: "Arab 48; Twitter" → due fonti distinte
+                    Questo è il problema principale che il preprocessing risolve.
+
+  source_scale    → Vicinanza geografica della fonte all'evento
+                    Es: "Local partner-National", "New media-National"
+
+  fatalities      → Numero di vittime riportate (stima conservativa)
+                    Se non ci sono informazioni = 0
+
+  notes           → Descrizione testuale dell'evento (colonna più preziosa
+                    per GraphRAG — è il testo su cui l'LLM ragiona)
+
+  tags            → Tag strutturati aggiuntivi (es. "women targeted; sexual violence")
+                    Separati da punto e virgola. Tenuti come literal per
+                    eventual data enrichment futuro. Nulli nel 73% dei casi.
+
+
+================================================================================
+  4. FASE 2 — ESPLORAZIONE DEL DATASET
+================================================================================
+
+Prima di scrivere codice abbiamo analizzato il dataset per capire esattamente
+con cosa stavamo lavorando. Le scoperte principali:
+
+1. NESSUN DUPLICATO
+   Event ID unici: 91.893 = Totale righe: 91.893
+   Il dataset è pulito, non serve deduplicazione.
+
+2. ACTOR2 NULLO NEL 40% DEI CASI
+   36.809 righe senza actor2 — sono eventi con un solo attore
+   (proteste, azioni unilaterali). Il preprocessing deve gestire questi
+   null senza rompersi.
+
+3. IL PROBLEMA DEL PUNTO E VIRGOLA
+   source: 35.881 righe con ';'
+   tags: solo 15 righe con ';'
+   RML non sa spezzare una cella con valori multipli — lo facciamo noi
+   nel preprocessing prima del mapping.
+
+4. LE 8 CLASSI OWL SONO GIÀ NEI DATI
+   I valori di inter1 e inter2 definiscono esattamente le classi che
+   dobbiamo modellare nell'ontologia:
+
+   External/Other forces  → 23.474 occorrenze → conf:ExternalOther
+   State forces           → 21.885             → conf:StateForces
+   Protesters             → 18.048             → conf:Protesters
+   Political militia      → 12.682             → conf:PoliticalMilitia
+   Rebel group            →  7.518             → conf:RebelGroup
+   Rioters                →  6.304             → conf:Rioters
+   Identity militia        →  1.306             → conf:IdentityMilitia
+   Civilians              →    676             → conf:Civilian
+
+   Questi 8 valori coprono TUTTE le 91.893 righe — zero casi imprevisti.
+
+5. FONTI: 810 UNICHE, 157.173 RIGHE DOPO L'ESPLOSIONE
+   Fonte più citata: SOHR con 12.730 eventi.
+   Le fonti diventano NODI reali nel grafo — si può interrogare
+   "quali eventi con >50 vittime sono coperti solo da fonti social".
+
+
+================================================================================
+  5. FASE 3 — PREPROCESSING
+================================================================================
+
+Script: preprocessing_cle2.py
+Obiettivo: trasformare il CSV grezzo in 4 CSV puliti con URI precalcolati,
+pronti per il mapping RML.
+
+--------------------------------------------------------------------------------
+  La funzione slugify
+--------------------------------------------------------------------------------
+
+Per costruire URI stabili dagli nomi degli attori e delle fonti, usiamo una
+funzione che trasforma ogni stringa in un "slug" URI-safe:
+
+  "Hamas Movement"                    → hamas-movement
+  "Military Forces of Israel (2022-)" → military-forces-of-israel-2022
+  "PLO Negotiations Affairs Dept."    → plo-negotiations-affairs-dept
+  "Arab 48"                           → arab-48
+
+Regole applicate nell'ordine:
+  1. Tutto minuscolo
+  2. Rimozione caratteri speciali (parentesi, punti, virgole...)
+  3. Spazi → trattini
+  4. Trattini multipli → uno solo
+  5. Rimozione trattini iniziali e finali (fix per "(2022-)" → "2022-")
+
+Questo garantisce che lo stesso attore produca SEMPRE lo stesso URI,
+indipendentemente da maiuscole o variazioni minori.
+
+--------------------------------------------------------------------------------
+  Schema degli URI
+--------------------------------------------------------------------------------
+
+Usiamo due namespace:
+  conf: → http://data-semantics-2526.org/acled/ontology#   (schema OWL)
+  res:  → http://data-semantics-2526.org/acled/resource/   (istanze dati)
+
+Schema URI per ogni tipo di entità:
+
+  Evento  → res:event/{event_id_cnty}   es: res:event/PSE42801
+  Attore  → res:actor/{slug(nome)}       es: res:actor/hamas-movement
+  Paese   → res:country/{iso}            es: res:country/275
+  Fonte   → res:source/{slug(nome)}      es: res:source/sohr
+
+Nota: il dominio "data-semantics-2526.org" non è un sito reale che deve
+esistere. È semplicemente un identificatore univoco — come un codice fiscale.
+Serve a garantire che gli URI del nostro KG non collidano con quelli di
+altri KG che magari usano gli stessi ID.
+
+Nei CSV i prefissi non vengono salvati — solo lo slug:
+  actor/hamas-movement   (non res:actor/hamas-movement)
+Perché RML costruisce l'URI completo partendo dallo slug con rr:template.
+Se salvassimo il prefisso, RML produrrebbe un URI sbagliato tipo:
+  http://.../resource/res:actor/hamas-movement  ← SBAGLIATO
+
+--------------------------------------------------------------------------------
+  I 4 CSV prodotti
+--------------------------------------------------------------------------------
+
+EVENTS.CSV — 91.893 righe (1 per evento)
+  Colonne: event_uri, event_id_cnty, event_date, disorder_type, event_type,
+           sub_event_type, actor1_uri, inter1, actor2_uri, inter2,
+           country_uri, iso, country, location, latitude, longitude,
+           source_scale, fatalities, notes, tags
+  Note: source NON è qui — è in sources.csv separato. tags come literal.
+        actor2_uri è vuoto (NaN) dove actor2 non esiste.
+
+ACTORS.CSV — 1.323 righe (1 per attore unico)
+  Colonne: actor_uri, actor_name, inter, owl_class
+  Come si costruisce: prendiamo tutti i valori di actor1 e actor2,
+  li uniamo, rimuoviamo i duplicati per nome (stesso nome = stesso nodo).
+  La colonna owl_class mappa inter → classe OWL:
+    "State forces" → conf:StateForces
+    "Rebel group"  → conf:RebelGroup
+    ecc.
+
+SOURCES.CSV — 157.173 righe (1 per coppia evento-fonte)
+  Colonne: event_uri, source_uri, event_id_cnty, source
+  Come si costruisce: prendiamo event_id e source, splittiamo su ';',
+  usiamo .explode() di Pandas che trasforma ogni elemento della lista
+  in una riga separata mantenendo lo stesso event_id.
+  Esempio:
+    PRIMA:  SYR122137 | "Liveuamap; SHAAM; Telegram"
+    DOPO:   SYR122137 | Liveuamap
+            SYR122137 | SHAAM
+            SYR122137 | Telegram
+
+COUNTRIES.CSV — 15 righe (1 per paese)
+  Colonne: country_uri, iso, country
+  Costruito con drop_duplicates sulla colonna iso.
+
+
+================================================================================
+  6. FASE 4 — ONTOLOGIA OWL
+================================================================================
+
+File: acled_ontologyCle.ttl
+Formato: Turtle (serializzazione RDF leggibile)
+Validata con: Protégé + HermiT reasoner
+
+L'ontologia è lo SCHEMA del KG. Definisce le regole che GraphDB userà per
+ragionare sui dati. È separata dai dati — prima importi lo schema, poi i dati.
+
+--------------------------------------------------------------------------------
+  Struttura del file Turtle
+--------------------------------------------------------------------------------
+
+Un file Turtle inizia con i prefissi (abbreviazioni per i namespace):
+
+  @prefix owl:  <http://www.w3.org/2002/07/owl#> .
+  @prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+  @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+  @prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+  @prefix conf: <http://data-semantics-2526.org/acled/ontology#> .
+  @prefix res:  <http://data-semantics-2526.org/acled/resource/> .
+
+  owl:  → vocabolario OWL (Class, ObjectProperty, DatatypeProperty...)
+  rdf:  → vocabolario RDF base (type, Property...)
+  rdfs: → vocabolario RDFS (label, comment, subClassOf, domain, range...)
+  xsd:  → tipi di dato XML (string, integer, decimal, date...)
+  conf: → le nostre classi e proprietà (namespace dell'ontologia)
+  res:  → le nostre istanze (namespace dei dati)
+
+--------------------------------------------------------------------------------
+  Le 4 classi principali
+--------------------------------------------------------------------------------
+
+  conf:ConflictEvent → ogni evento ACLED è un'istanza di questa classe
+  conf:Actor         → classe ASTRATTA — non si istanzia direttamente
+  conf:Country       → ogni paese è un'istanza di questa classe
+  conf:Source        → ogni fonte giornalistica è un'istanza di questa classe
+
+"a owl:Class" è la forma abbreviata di "rdf:type owl:Class" — significa
+che questa risorsa è dichiarata come classe OWL.
+
+--------------------------------------------------------------------------------
+  Le 8 sottoclassi di Actor
+--------------------------------------------------------------------------------
+
+  conf:StateForces      rdfs:subClassOf conf:Actor
+  conf:RebelGroup       rdfs:subClassOf conf:Actor
+  conf:PoliticalMilitia rdfs:subClassOf conf:Actor
+  conf:IdentityMilitia  rdfs:subClassOf conf:Actor
+  conf:Rioters          rdfs:subClassOf conf:Actor
+  conf:Protesters       rdfs:subClassOf conf:Actor
+  conf:Civilian         rdfs:subClassOf conf:Actor
+  conf:ExternalOther    rdfs:subClassOf conf:Actor
+
+"rdfs:subClassOf" attiva il REASONING in GraphDB:
+→ una query su conf:Actor restituisce AUTOMATICAMENTE tutte le istanze
+  di tutte le sottoclassi, senza dover scrivere 8 query separate.
+→ se sai che qualcosa è conf:StateForces, sai automaticamente che è
+  anche conf:Actor, senza triple ridondanti.
+
+--------------------------------------------------------------------------------
+  Le 4 Object Properties (relazioni tra nodi)
+--------------------------------------------------------------------------------
+
+  conf:hasActor1   dominio: ConflictEvent   range: Actor
+  conf:hasActor2   dominio: ConflictEvent   range: Actor
+  conf:locatedIn   dominio: ConflictEvent   range: Country
+  conf:reportedBy  dominio: ConflictEvent   range: Source
+
+"rdfs:domain" dice che il SOGGETTO di questa proprietà è del tipo indicato.
+"rdfs:range"  dice che l'OGGETTO di questa proprietà è del tipo indicato.
+
+Questo permette inferenze automatiche: se il reasoner vede una risorsa
+usata come soggetto di conf:hasActor1, sa già che è conf:ConflictEvent.
+
+--------------------------------------------------------------------------------
+  Le Data Properties (attributi letterali)
+--------------------------------------------------------------------------------
+
+Su ConflictEvent:
+  conf:eventDate    → xsd:date     (es: "2023-12-31")
+  conf:disorderType → xsd:string
+  conf:eventType    → xsd:string
+  conf:subEventType → xsd:string
+  conf:fatalities   → xsd:integer  (es: 3)
+  conf:notes        → xsd:string   (testo descrittivo)
+  conf:tags         → xsd:string
+  conf:locationName → xsd:string
+  conf:latitude     → xsd:decimal  (es: 31.3424)
+  conf:longitude    → xsd:decimal
+  conf:sourceScale  → xsd:string
+
+Su Actor:
+  conf:actorName    → xsd:string
+
+Su Country:
+  conf:countryName  → xsd:string
+  conf:isoCode      → xsd:integer
+
+Su Source:
+  conf:sourceName   → xsd:string
+
+I tipi xsd: non sono tutti uguali per un motivo preciso:
+→ xsd:integer permette query tipo: FILTER(?fatalities > 50)
+→ xsd:date permette ordinamento temporale e query tipo: FILTER(?date > "2022-01-01")
+→ xsd:decimal permette calcoli geografici
+→ Se tutto fosse xsd:string, queste operazioni non funzionerebbero
+
+
+================================================================================
+  7. FASE 5 — MAPPING RML
+================================================================================
+
+File: acled_mappingCle.ttl
+Tool di esecuzione: Morph-KGC
+
+RML è un linguaggio dichiarativo che descrive come trasformare dati tabulari
+in triple RDF. Il file di mapping viene letto da Morph-KGC che produce il
+Knowledge Graph finale in formato Turtle.
+
+--------------------------------------------------------------------------------
+  Struttura di una TriplesMap
+--------------------------------------------------------------------------------
+
+Ogni TriplesMap ha 3 componenti:
+
+  1. LogicalSource → quale CSV leggere
+  2. SubjectMap    → come costruire l'URI del soggetto (il nodo principale)
+  3. PredicateObjectMap → quale proprietà collegare a quale valore
+
+Esempio minimo:
+
+  <#EventsMap>
+    a rr:TriplesMap ;
+    rml:logicalSource [
+        rml:source "events.csv" ;           ← leggi questo file
+        rml:referenceFormulation ql:CSV     ← è un CSV
+    ] ;
+    rr:subjectMap [
+        rr:template "http://.../event/{event_id_cnty}" ;  ← costruisci l'URI
+        rr:class conf:ConflictEvent                        ← e assegna la classe
+    ] ;
+    rr:predicateObjectMap [
+        rr:predicate conf:fatalities ;                     ← proprietà
+        rr:objectMap [ rml:reference "fatalities" ;        ← colonna CSV
+                       rr:datatype xsd:integer ]           ← tipo del valore
+    ] .
+
+"rr:template" usa le parentesi graffe per inserire i valori delle colonne CSV.
+"{event_id_cnty}" viene sostituito con il valore reale di quella colonna per
+ogni riga — quindi produce un URI diverso per ogni evento.
+
+"rml:reference" legge il valore grezzo di una colonna CSV e lo usa come
+valore letterale (stringa, numero, data...).
+
+--------------------------------------------------------------------------------
+  Le 4 TriplesMap nel dettaglio
+--------------------------------------------------------------------------------
+
+MAP 1 — EventsMap (da events.csv)
+  Soggetto: res:event/{event_id_cnty} → conf:ConflictEvent
+  Attributi letterali: eventDate, disorderType, eventType, subEventType,
+                       fatalities, locationName, latitude, longitude,
+                       sourceScale, notes, tags
+  Relazioni a altri nodi:
+    conf:hasActor1 → res:actor/{actor1_uri}  (slug già nel CSV)
+    conf:hasActor2 → res:actor/{actor2_uri}  (slug già nel CSV)
+    conf:locatedIn → res:country/{country_uri}
+
+MAP 2 — ActorsMap (da actors.csv)
+  Soggetto: res:actor/{actor_uri} → conf:Actor
+  Attributi: actorName
+  Nota: la classe specifica (StateForces, RebelGroup ecc.) non è assegnata
+  qui ma viene inferita dal reasoner tramite la colonna owl_class.
+  (Per assegnarla esplicitamente servirebbe una logica condizionale in RML
+  non standard — si gestisce in post-processing o con SPARQL Update)
+
+MAP 3 — SourcesMap (da sources.csv)
+  Soggetto: res:source/{source_uri} → conf:Source
+  Attributi: sourceName
+  Relazione: conf:reportedBy → res:event/{event_uri}
+  Nota: la relazione è definita "all'inverso" — dalla fonte all'evento,
+  ma nel KG la navigabilità funziona in entrambe le direzioni.
+
+MAP 4 — CountriesMap (da countries.csv)
+  Soggetto: res:country/{country_uri} → conf:Country
+  Attributi: countryName, isoCode
+
+--------------------------------------------------------------------------------
+  Cosa produce Morph-KGC
+--------------------------------------------------------------------------------
+
+Il tool legge i 4 CSV + il file di mapping e produce un file Turtle:
+  acled_kg.ttl
+
+Questo file contiene TUTTE le triple del Knowledge Graph — ogni nodo,
+ogni relazione, ogni attributo. Ha questa forma:
+
+  res:event/PSE42801
+      a conf:ConflictEvent ;
+      conf:eventDate "2023-12-31"^^xsd:date ;
+      conf:fatalities "0"^^xsd:integer ;
+      conf:hasActor1 res:actor/hamas-movement ;
+      conf:hasActor2 res:actor/military-forces-of-israel-2022 ;
+      conf:locatedIn res:country/275 ;
+      conf:notes "On 31 December 2023, Hamas militants clashed..." .
+
+  res:actor/hamas-movement
+      a conf:Actor ;
+      conf:actorName "Hamas Movement" .
+
+  res:country/275
+      a conf:Country ;
+      conf:countryName "Palestine" ;
+      conf:isoCode "275"^^xsd:integer .
+
+
+================================================================================
+  8. PROSSIMI PASSI
+================================================================================
+
+FASE 6 — Import in GraphDB
+  GraphDB è un database RDF con SPARQL endpoint e reasoner OWL integrato.
+  Procedura:
+    1. Creare un repository in GraphDB
+    2. Importare acled_ontologyCle.ttl (prima lo schema)
+    3. Importare acled_kg.ttl generato da Morph-KGC (poi i dati)
+    4. GraphDB espone un endpoint SPARQL per le query
+  
+  Esempio di query SPARQL che sarà possibile fare:
+    "Tutti gli eventi in Siria con più di 50 vittime nel 2022"
+    "Gli attori che hanno operato sia in Palestine che in Syria"
+    "Le fonti che hanno coperto più eventi con actor1 = State forces"
+
+FASE 7 — GraphRAG
+  GraphRAG di Microsoft non fa solo ricerca vettoriale come un RAG classico.
+  Usa l'algoritmo di Leiden per trovare comunità di nodi densamente connessi
+  nel grafo, poi chiede a un LLM di scrivere un "community report" per ogni
+  cluster — una sintesi tematica.
+  
+  Quando si fa una query, il sistema:
+    1. Individua i community report rilevanti
+    2. Li passa all'LLM come contesto
+    3. L'LLM risponde ragionando su pattern globali, non solo su singoli eventi
+  
+  La colonna "notes" del dataset è il testo principale su cui GraphRAG
+  costruisce questi report — è la colonna più preziosa per questa fase.
+
+
+================================================================================
+  9. GLOSSARIO
+================================================================================
+
+RDF     Resource Description Framework. Standard W3C per rappresentare
+        informazioni come triple (soggetto, predicato, oggetto).
+        Es: (Hamas Movement) → (è di tipo) → (PoliticalMilitia)
+
+URI     Uniform Resource Identifier. Identificatore univoco di una risorsa.
+        Es: http://data-semantics-2526.org/acled/resource/event/PSE42801
+
+Triple  L'unità base di RDF. Composta da (soggetto, predicato, oggetto).
+        Soggetto e predicato sono sempre URI. L'oggetto può essere URI o literal.
+
+Literal Valore testuale o numerico. Es: "Hamas Movement", 3, "2023-12-31".
+        Diverso da un URI — non punta a un nodo del grafo.
+
+Turtle  Formato di serializzazione RDF leggibile (file .ttl).
+        Alternativa a RDF/XML o JSON-LD — più compatto e leggibile.
+
+OWL     Web Ontology Language. Estende RDF per definire ontologie con
+        classi, proprietà, gerarchie e regole di inferenza.
+
+Reasoner Sistema che applica le regole OWL per inferire nuove conoscenze.
+        Es: se A è subClassOf B, ogni istanza di A è anche istanza di B.
+
+SPARQL  Linguaggio di query per grafi RDF. Come SQL ma per i KG.
+
+RML     RDF Mapping Language. Standard per mappare CSV/JSON/XML in RDF.
+
+Slug    Versione URI-safe di una stringa. Es: "Hamas Movement" → hamas-movement
+
+Namespace Prefisso comune a un gruppo di URI. Rende i file più leggibili.
+        @prefix conf: <http://...> permette di scrivere conf:Actor invece
+        dell'URI completo.
+
+KG      Knowledge Graph. Grafo di conoscenza — rete di entità collegate.
+
+GraphRAG Graph-augmented Retrieval Augmented Generation. Sistema che combina
+        un KG con un LLM per rispondere a domande complesse sui dati.
+
+Morph-KGC Tool open source che esegue il mapping RML e produce il file .ttl.
+
+GraphDB Database RDF con SPARQL endpoint e reasoner OWL integrato.
+        Prodotto da Ontotext.
+
+ACLED   Armed Conflict Location & Event Data Project. Organizzazione non-profit
+        che raccoglie dati su violenza politica e proteste nel mondo.
+
+================================================================================
+  Fine documento
+================================================================================
