@@ -16,6 +16,7 @@ def upload_to_graphdb(file_path, repo_id):
             
         if response.status_code in [200, 204]:
             print("KG caricato con successo su GraphDB localhost!")
+            print(f"Url: {url}")
         else:
             print(f"Errore durante il caricamento: {response.status_code} - {response.text}")
     except Exception as e:
@@ -23,4 +24,4 @@ def upload_to_graphdb(file_path, repo_id):
 
 if __name__ == '__main__':
 
-    upload_to_graphdb('acled_knowledge_graph.ttl', 'MiddleEastConflict')
+    upload_to_graphdb('./cle/acled_populated_kg.ttl', 'MiddleEastConflict')
