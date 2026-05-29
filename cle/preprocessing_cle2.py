@@ -1,6 +1,38 @@
-import pandas as pd
-import re
 import os
+import re
+from pathlib import Path
+import pandas as pd
+from dotenv import load_dotenv
+
+# ==========================================
+# CONFIGURAZIONE DINAMICA E SICURA AMBIENTE
+# ==========================================
+
+# Trova la cartella dove si trova FISICAMENTE questo script (es. la cartella /cle/)
+SCRIPT_DIR = Path(__file__).resolve().parent
+
+# Cerca il file .env nella cartella dello script o in quella superiore (Project/Data-Semantics)
+env_path = SCRIPT_DIR / ".env"
+if not env_path.exists():
+    env_path = SCRIPT_DIR.parent / ".env"
+
+# Carica esplicitamente il file .env trovato
+load_dotenv(dotenv_path=env_path)
+
+# Recupera il PATH dal .env. Se non esiste, usa la cartella superiore come fallback intelligente
+if os.getenv("PROJECT_DIR"):
+    PROJECT_DIR = Path(os.getenv("PROJECT_DIR"))
+else:
+    PROJECT_DIR = SCRIPT_DIR.parent
+
+print(f"[INFO] Cartella di progetto impostata su: {PROJECT_DIR}")
+
+# Definizione file di input e output (Tutti nella cartella principale)
+FILE_INPUT_ACLED   = PROJECT_DIR / "acled_unified_middle_east.csv"
+FILE_OUT_EVENTS    = PROJECT_DIR / "events.csv"
+FILE_OUT_ACTORS    = PROJECT_DIR / "actors.csv"
+FILE_OUT_SOURCES   = PROJECT_DIR / "sources.csv"
+FILE_OUT_COUNTRIES = PROJECT_DIR / "countries.csv"
 
 # ==========================================
 # FUNZIONE: genera uno slug da un nome
@@ -9,16 +41,19 @@ def slugify(text):
     if pd.isna(text):
         return None
     text = str(text).lower().strip()
-    text = re.sub(r'[^a-z0-9\s-]', '', text)   # rimuove caratteri speciali
-    text = re.sub(r'\s+', '-', text)             # spazi → trattini
-    text = re.sub(r'-+', '-', text)              # trattini multipli → uno solo
-    text = text.strip('-')                        # ← NUOVO: rimuove trattini iniziali/finali
-    return text
+    text = re.sub(r'[^a-z0-9\s-]', '', text)
+    text = re.sub(r'\s+', '-', text)
+    text = re.sub(r'-+', '-', text)
+    return text.strip('-')
+
 # ==========================================
 # CARICAMENTO
 # ==========================================
-df = pd.read_csv("acled_unified_middle_east.csv")
-print(f"Caricato: {len(df):,} eventi")
+if not FILE_INPUT_ACLED.exists():
+    raise FileNotFoundError(f"Impossibile trovare il dataset iniziale in: {FILE_INPUT_ACLED.resolve()}")
+
+df = pd.read_csv(FILE_INPUT_ACLED)
+print(f"Caricato: {len(df):,} eventi da {FILE_INPUT_ACLED}")
 
 # Verifica rapida
 print(df[['event_id_cnty', 'actor1', 'source']].head(3))
@@ -52,8 +87,8 @@ colonne_events = [
 df_events = df_events[colonne_events]
 
 # Salvataggio
-df_events.to_csv("events.csv", index=False)
-print(f"events.csv → {len(df_events):,} righe")
+df_events.to_csv(FILE_OUT_EVENTS, index=False)
+print(f"events.csv -> {len(df_events):,} righe")
 
 # Verifica: mostra una riga trasposta per leggere tutto
 print("\nEsempio riga 0:")
@@ -97,8 +132,8 @@ df_actors['owl_class'] = df_actors['inter'].map(inter_to_class)
 # Riordino colonne
 df_actors = df_actors[['actor_uri', 'actor_name', 'inter', 'owl_class']]
 
-df_actors.to_csv("actors.csv", index=False)
-print(f"actors.csv → {len(df_actors):,} attori unici")
+df_actors.to_csv(FILE_OUT_ACTORS, index=False)
+print(f"actors.csv -> {len(df_actors):,} attori unici")
 
 # Verifica
 print("\nEsempio prime 5 righe:")
@@ -128,8 +163,8 @@ df_sources['source_uri'] = 'res:source/' + df_sources['source'].apply(slugify)
 # Riordino colonne
 df_sources = df_sources[['event_uri', 'source_uri', 'event_id_cnty', 'source']]
 
-df_sources.to_csv("sources.csv", index=False)
-print(f"sources.csv → {len(df_sources):,} righe (evento-fonte)")
+df_sources.to_csv(FILE_OUT_SOURCES, index=False)
+print(f"sources.csv -> {len(df_sources):,} righe (evento-fonte)")
 
 # Verifica: mostra le righe dell'evento con più fonti
 esempio = df_sources[df_sources['event_id_cnty'] == 'SYR122137']
@@ -148,6 +183,6 @@ df_countries['country_uri'] = 'res:country/' + df_countries['iso'].astype(str)
 
 df_countries = df_countries[['country_uri', 'iso', 'country']]
 
-df_countries.to_csv("countries.csv", index=False)
-print(f"countries.csv → {len(df_countries):,} paesi unici")
+df_countries.to_csv(FILE_OUT_COUNTRIES, index=False)
+print(f"countries.csv -> {len(df_countries):,} paesi unici")
 print(df_countries)

@@ -500,35 +500,69 @@ MAP 4 — CountriesMap (da countries.csv)
   Soggetto: res:country/{country_uri} → conf:Country
   Attributi: countryName, isoCode
 
+--------------------------------────────────────────────────────----------------
+  La Pipeline di Materializzazione Custom in Python
+--------------------------------────────────────────────────────----------------
+
+Al posto di un motore di mapping dichiarativo esterno (come Morph-KGC), per la 
+generazione materiale del Knowledge Graph è stato ingegnerizzato uno script 
+Python proprietario (kg_builder_final.py) basato su una logica di streaming 
+e caricamento incrementale a blocchi. 
+
+Questa scelta architetturale risponde a tre requisiti fondamentali del progetto:
+
+1. Efficienza e scaling della memoria: L'elaborazione di oltre 91.000 eventi 
+   e 157.000 coppie evento-fonte tramite librerie RDF classiche in-memory caricherebbe 
+   milioni di oggetti in RAM, portando a colli di bottiglia prestazionali. Lo script 
+   sfrutta il chunking di Pandas (blocchi da 10k/20k righe) e scrive in append 
+   diretto su file, mantenendo l'uso della memoria costante e ridotto.
+
+2. Risoluzione dei vincoli sintattici di GraphDB: In sintassi Turtle, un prefisso 
+   contratto (es. res:) non può contenere caratteri di path come lo slash '/' al 
+   suo interno (es. res:actor/hamas-movement). Il costruttore intercetta dinamicamente 
+   questi pattern e li converte in URI assoluti racchiusi tra parentesi angolari 
+   (<...>), garantendo la totale validità formale del file in fase di parsing.
+
+3. Ottimizzazione delle relazioni ed Escaping: Le fonti non vengono scritte 
+   in modo ridondante, ma aggregate per ID evento sfruttando la sintassi Turtle 
+   contratta (più oggetti separati da virgola per lo stesso predicato). Inoltre, 
+   i testi liberi della colonna 'notes' vengono sanificati tramite una funzione di 
+   escaping dei caratteri speciali prima della serializzazione in xsd:string, 
+   impedendo che virgolette o newline spezzino la struttura del grafo.
+
+
 --------------------------------------------------------------------------------
-  Cosa produce Morph-KGC
+  Cosa produce lo script Python: Il file acled_kg.ttl
 --------------------------------------------------------------------------------
 
-Il tool legge i 4 CSV + il file di mapping e produce un file Turtle:
-  acled_kg.ttl
+Il tool elabora i 4 CSV generati nella fase di preprocessing e produce il file 
+definitivo "acled_kg.ttl", che contiene la totalità delle triple del Knowledge Graph 
+(nodi, attributi letterali tipizzati e relazioni oggettive), pronte per GraphDB.
 
-Questo file contiene TUTTE le triple del Knowledge Graph — ogni nodo,
-ogni relazione, ogni attributo. Ha questa forma:
+Il grafo risultante assume questa forma sintattica pulita:
 
-  res:event/PSE42801
+  <http://data-semantics-2526.org/acled/resource/event/PSE42801>
       a conf:ConflictEvent ;
       conf:eventDate "2023-12-31"^^xsd:date ;
       conf:fatalities "0"^^xsd:integer ;
-      conf:hasActor1 res:actor/hamas-movement ;
-      conf:hasActor2 res:actor/military-forces-of-israel-2022 ;
-      conf:locatedIn res:country/275 ;
-      conf:notes "On 31 December 2023, Hamas militants clashed..." .
+      conf:locatedIn <http://data-semantics-2526.org/acled/resource/country/275> ;
+      conf:hasActor1 <http://data-semantics-2526.org/acled/resource/actor/hamas-movement> ;
+      conf:hasActor2 <http://data-semantics-2526.org/acled/resource/actor/military-forces-of-israel-2022> ;
+      conf:notes "On 31 December 2023, Hamas militants clashed with Israeli forces..."^^xsd:string .
 
-  res:actor/hamas-movement
-      a conf:Actor ;
-      conf:actorName "Hamas Movement" .
+  <http://data-semantics-2526.org/acled/resource/actor/hamas-movement>
+      a conf:PoliticalMilitia ;
+      conf:actorName "Hamas Movement"^^xsd:string .
 
-  res:country/275
-      a conf:Country ;
-      conf:countryName "Palestine" ;
-      conf:isoCode "275"^^xsd:integer .
+  <http://data-semantics-2526.org/acled/resource/source/arab-48>
+      a conf:Source ;
+      conf:sourceName "Arab 48"^^xsd:string .
 
-
+  # Relazione aggregata e contratta per le fonti dell'evento
+  <http://data-semantics-2526.org/acled/resource/event/PSE42801>
+      conf:reportedBy <http://data-semantics-2526.org/acled/resource/source/arab-48> ,
+                      <http://data-semantics-2526.org/acled/resource/source/twitter> .
+                      
 ================================================================================
   8. PROSSIMI PASSI
 ================================================================================
