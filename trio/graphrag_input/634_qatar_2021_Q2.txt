@@ -1,0 +1,31 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Qatar (ISO Code: 634)
+Temporal Period: Year 2021 - Quarter Q2
+Total Events in Chunk: 2 / 2
+==================================================
+
+[EVENT: QAT25]
+Date: 2021-05-05
+Country: Qatar | Location: Doha
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Qatar (2013-) [State forces]
+Actor2: Civilians (Kenya) [Civilians]
+Fatalities: 0
+Sources: Al Jazeera [Regional]
+
+DESCRIPTION:
+On 5 May 2021, Qatari authorities arrested a security guard from Kenya in Doha (Ad Dawnah) for 'offences related to payments received by a foreign agent for the creation and distribution of disinformation'. According to sources, the security guard used his blog to describe human rights abuses of migrants in Qatar. He was released on June 2.
+
+---
+
+[EVENT: QAT29]
+Date: 2021-06-15
+Country: Qatar | Location: As Sailiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2021-2025) [External/Other forces]
+Fatalities: 0
+Sources: AhlulBayt News Agency; Asharq Al Awsat [Regional]
+
+DESCRIPTION:
+Movement of forces: Around 15 June 2021 (month of), the US army shut down three bases in Qatar: one in As Sailiyah, one in southern As Sailiyah (Ar Rayyan), and an ammunition supply point named Falcon at an undisclosed location. According to the source, the bases and the weapons in them were transported to Jordan. Sources speculate that this aims at decreasing the threat of an Iranian missile attack on US bases in the Gulf.

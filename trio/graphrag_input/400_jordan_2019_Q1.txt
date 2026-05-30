@@ -1,0 +1,188 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Jordan (ISO Code: 400)
+Temporal Period: Year 2019 - Quarter Q1
+Total Events in Chunk: 14 / 14
+==================================================
+
+[EVENT: JOR1456]
+Date: 2019-01-01
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Jo 24 [National]
+
+DESCRIPTION:
+Displacement: On 1 January 2019, 669 Syrian refugees returned to Syria from the Nassib border crossing at Jaber as Sirhan (Qasabat al Mafraq, Al Mafraq). The refugees included 341 children and 201 women.
+
+---
+
+[EVENT: JOR239]
+Date: 2019-01-07
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: On Jan 7, 400 Syrian refugees reportedly returned to Syria from Jordan through the Nabeeb border crossing.
+
+---
+
+[EVENT: JOR240]
+Date: 2019-01-12
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: On Jan 13 it was reported that over the last 24 hours 820 refugees returned from Jordan through the Naseeb crossing, including 246 women and 418 children.
+
+---
+
+[EVENT: JOR244]
+Date: 2019-01-23
+Country: Jordan | Location: Amman
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Jordan (1999-) [State forces]
+Actor2: Civilians (Jordan) [Civilians]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Arrests: On Jan 23 2019, several high-profile politicians were arrested in Jordan on corruption charges, including the former Water and Irrigation Minister Mounir Aweys and former Director of Customs Wadah al-Hamoud.
+
+---
+
+[EVENT: JOR1466]
+Date: 2019-01-24
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Jo 24 [National]
+
+DESCRIPTION:
+Displacement: On 24 January 2019, it was reported that 10,000 Syrian refugees returned to Syria from the Nassib border crossing since its re-opening in October at Jaber as Sirhan (Qasabat al Mafraq, Al Mafraq).
+
+---
+
+[EVENT: JOR253]
+Date: 2019-02-15
+Country: Jordan | Location: As Salt
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Jordan (1999-) [State forces]
+Actor2: Unidentified Armed Group (Jordan) [Political militia]
+Fatalities: 0
+Sources: Al Ghad (Jordan) [National]
+
+DESCRIPTION:
+Defusal: On Feb 15 2019, Jordanian Police found explosives buried in the ground, in the same place an explosion took place a day earlier in As Salt City. The Police confiscated the explosives and detonated them in a safe manner.
+
+---
+
+[EVENT: JOR261]
+Date: 2019-02-20
+Country: Jordan | Location: Amman
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: Between 19 and 20 of Feb 2019, over 700 Syrian refugees returned to Syria from Jordan and Lebanon.
+
+---
+
+[EVENT: JOR266]
+Date: 2019-02-21
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: Between 20 and 21 of Feb 2019, 787 Syrian refugees returned to Syria from Jordan through the Naseeb crossing.
+
+---
+
+[EVENT: JOR288]
+Date: 2019-03-03
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: In the last 24 hours, 484 Syrian refugees returned to Syria from Jordan, through the Nassib crossing with Syria.
+
+---
+
+[EVENT: JOR294]
+Date: 2019-03-09
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: As reported on March 9, over the last 24 hours over 800 Syrian refugees left Jordan for Syria through the Jaber/Nasib crossing.
+
+---
+
+[EVENT: JOR315]
+Date: 2019-03-19
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: In the last 24 hours, 621 Syrian refugees returned to Syria from Jordan, through the Nassib crossing with Syria.
+
+---
+
+[EVENT: JOR317]
+Date: 2019-03-20
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: In the last 24 hours, 733 Syrian refugees returned to Syria from Jordan, through the Nassib crossing with Syria.
+
+---
+
+[EVENT: JOR319]
+Date: 2019-03-28
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: In the last 24 hours, 689 Syrian refugees returned to Syria from Jordan, through the Nassib crossing with Syria.
+
+---
+
+[EVENT: JOR320]
+Date: 2019-03-30
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: In the last 24 hours, 643 Syrian refugees returned to Syria from Jordan, through the Nassib crossing with Syria.

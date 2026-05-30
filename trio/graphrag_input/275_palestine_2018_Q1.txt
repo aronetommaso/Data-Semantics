@@ -1,0 +1,3323 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Palestine (ISO Code: 275)
+Temporal Period: Year 2018 - Quarter Q1
+Total Events in Chunk: 239 / 239
+==================================================
+
+[EVENT: PSE25005]
+Date: 2018-01-01
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 1 January 2018, Israeli naval vessels fired at Palestinian fishing boats in Al Sudaniya area west of Bayt Lahya off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25009]
+Date: 2018-01-01
+Country: Palestine | Location: Dayr al Hatab
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Land seizure: On 1 January 2018, a group of Israeli settlers placed mobile homes, which they protected with barbed wire, on approximately 40 dunums of Palestinian lands as they stormed the Ras Al Ein area in Dayr al Hatab (Nablus).
+
+---
+
+[EVENT: PSE24993]
+Date: 2018-01-03
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 3 January 2018, Israeli naval vessels fired at Palestinian fishing boats in Al Sudaniya area west of Bayt Lahya off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE24991]
+Date: 2018-01-03
+Country: Palestine | Location: Al Maghazi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 3 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Maghazi (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE24997]
+Date: 2018-01-03
+Country: Palestine | Location: Al Jalamah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Looting: On 3 January 2018, Israeli forces confiscated 5 Palestinian caravans used as commercial shops at Al Jalamah border crossing (Jenin).
+
+---
+
+[EVENT: PSE24983]
+Date: 2018-01-04
+Country: Palestine | Location: Al Qararah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 4 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Al Qararah town (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE24982]
+Date: 2018-01-04
+Country: Palestine | Location: Deir al Balah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 4 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Dayr al Balah city (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE24967]
+Date: 2018-01-07
+Country: Palestine | Location: Bayt Jala
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 7 January 2018, Israeli forces fired stun and tear gas canisters at Palestinians during a raid in Bayt Jala city (Bethlehem) and stormed a Palestinian governmental hospital.
+
+---
+
+[EVENT: PSE3257]
+Date: 2018-01-07
+Country: Palestine | Location: Az Zawayda
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Hamas Movement [Political militia]
+Fatalities: 1
+Sources: Jerusalem Post; Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Detonation: A Hamas member died during an accidental explosion on January 7 near Az Zawayda.
+
+---
+
+[EVENT: PSE24952]
+Date: 2018-01-08
+Country: Palestine | Location: Gaza - Shujaiyya
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 8 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Gaza - Shujaiyya (Gaza City). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE24953]
+Date: 2018-01-08
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 8 January 2018, Israeli naval vessels fired at Palestinian fishing boats in Al Waha area west of Bayt Lahya off the Coast of North Gaza (North Gaza). There were no casualties. They detained 2 Palestinian fishers and confiscated 1 fishing boat. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE24937]
+Date: 2018-01-09
+Country: Palestine | Location: Al Quds - Old City
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 9 January 2018, Israeli forces demolished the wall of the Palestinian Yusufiya cemetery in Al Quds - Old City (Al Quds) and conducted excavation work in the area.
+
+---
+
+[EVENT: PSE24934]
+Date: 2018-01-09
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 9 January 2018, Israeli naval vessels fired at Palestinian fishing boats near Al Sudaniya area west of Bayt Lahya off the Coast of North Gaza (North Gaza). There were no casualties. They detained 6 Palestinian fishers, including 2 children, and confiscated 1 fishing boat. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE24920]
+Date: 2018-01-10
+Country: Palestine | Location: Juhr ad Dik
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 10 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Juhr ad Dik (Gaza City). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE24922]
+Date: 2018-01-10
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 10 January 2018, Israeli naval vessels fired at Palestinian fishing boats near Al Sudaniya area west of Bayt Lahya off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1380]
+Date: 2018-01-10
+Country: Palestine | Location: Nablus
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Security measures: Israeli forces set up roadblocks and deployed around Nablus on Wednesday in a manhunt for attackers who shot dead an Israeli settler. Entrances and exits to and from the towns and villages surrounding Nablus were blocked.
+
+---
+
+[EVENT: PSE24912]
+Date: 2018-01-11
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 11 January 2018, Israeli naval vessels fired at Palestinian fishing boats near Al Sudaniya area west of Bayt Lahya off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE24913]
+Date: 2018-01-11
+Country: Palestine | Location: Rafah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 11 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Rafah city (Rafah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE24879]
+Date: 2018-01-12
+Country: Palestine | Location: Al Qararah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 12 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Al Qararah town (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28528]
+Date: 2018-01-12
+Country: Palestine | Location: Jit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Land seizure: On 12 January 2018, a group of Israeli settlers, under the protection of the Israeli military forces, paved a road on a privately-owned Palestinian land between the villages of Jit (Qalqilya) and Till (Nablus) for the purpose of expanding Khavat Gilad settlement.
+
+---
+
+[EVENT: PSE1396]
+Date: 2018-01-13
+Country: Palestine | Location: An Nabi Salih
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Ma'an News Agency; Xinhua [National-International]
+
+DESCRIPTION:
+Security measures: The Israeli army declared the central occupied West Bank village of Nabi Saleh -- home to imprisoned teenage activist Ahed al-Tamimi -- a closed military zone on Saturday, closing off all entrances and exits. Israeli forces set up barriers on the main road that leads to Nabi Saleh and prevented Palestinians, including journalists, from entering the village.
+
+---
+
+[EVENT: PSE3260]
+Date: 2018-01-14
+Country: Palestine | Location: Azzun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Security Measures: Israeli forces settled new barriers at military checkpoints at the entrance to Azzun, east of Qalqilya on January 14.
+
+---
+
+[EVENT: PSE1502]
+Date: 2018-01-15
+Country: Palestine | Location: Ramallah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Property destruction: On January 15 2018, the Israeli authorities demolished in January six European Union-funded structures in Area C of the West Bank under the pretext of lack of building permits. United Nations Office for the Coordination of Humanitarian Affairs (OCHA) reported 44 schools have pending demolition orders.
+
+---
+
+[EVENT: PSE28402]
+Date: 2018-01-15
+Country: Palestine | Location: At Tuwani
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Land seizure: On 15 January 2018, a group of Israeli settlers from Migon and Havat Migon settlements installed barbed wire steel fences around a Palestinian plot of land near At Tuwani village (Hebron) in an attempt to seize it.
+
+---
+
+[EVENT: PSE28407]
+Date: 2018-01-16
+Country: Palestine | Location: Salim
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Looting: On 16 January 2018, Israeli forces confiscated a Palestinian vehicle after detaining the driver during a raid into Salim village (Nablus). The official reason for the confiscation was not reported.
+
+---
+
+[EVENT: PSE1403]
+Date: 2018-01-16
+Country: Palestine | Location: Balata Camp
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Jerusalem Post [Regional]
+
+DESCRIPTION:
+Defusal: On 16 January 2018, Israeli security forces removed a bomb on Monday from Joseph's Tomb in the West Bank, according to the IDF Spokesperson's Unit. The bomb, found in a cell phone during security checks for about 1,000 worshipers, was removed from the tomb and detonated by security forces (Balata Camp, Nablus).
+
+---
+
+[EVENT: PSE10306]
+Date: 2018-01-16
+Country: Palestine | Location: Nablus - An Nabi Yusuf
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Defusal: On 16 January 2018, Israeli military forces defused an IED planted by an unknown armed group, in Nablus - An Nabi Yusuf. Settlers pray there at the shared holy site.
+
+---
+
+[EVENT: PSE28411]
+Date: 2018-01-17
+Country: Palestine | Location: Al Quds - Bayt Hanina
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 17 January 2018, Israeli forces demolished a Palestinian home for being built without a license in Al Quds - Bayt Hanina town (Al Quds).
+
+---
+
+[EVENT: PSE1404]
+Date: 2018-01-17
+Country: Palestine | Location: Deir al Balah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Jordan News Agency [Regional]
+
+DESCRIPTION:
+Movement of forces: Israeli forces early Wednesday made an incursion into Palestinian lands east of Deir al-Balah in central Gaza and east of al-Qarara town, northeast of Khan Younis city.
+
+---
+
+[EVENT: PSE17488]
+Date: 2018-01-18
+Country: Palestine | Location: Maskiyot
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Peace Now [Other]
+
+DESCRIPTION:
+Land seizure: On 18 January 2018, Israeli settlers Israeli settlers established the Bentayim Farm outpost on Palestinian-owned land near the Maskiyot settlement (Tubas, West Bank).
+
+---
+
+[EVENT: PSE1408]
+Date: 2018-01-18
+Country: Palestine | Location: Wadi Burqin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Property destruction: On January 18 2018, Israeli forces withdrew from the Wadi Burqin, west of Jenin city, at dawn after demolishing four houses belonging to a family, members of which Israel says carried out the shooting attack on Jan. 9, leaving an Israeli man killed.
+
+---
+
+[EVENT: PSE28420]
+Date: 2018-01-18
+Country: Palestine | Location: Khan Yunis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 18 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Khan Yunis city (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE17489]
+Date: 2018-01-18
+Country: Palestine | Location: Havat Gilad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Peace Now [Other]
+
+DESCRIPTION:
+Land seizure: On 18 January 2018, Israeli settlers Israeli settlers established the Yetodot Farm (Havat Gilad) outpost (Qalqilya, West Bank) on Palestinian-owned land near the Kedumim settlement.
+
+---
+
+[EVENT: PSE1411]
+Date: 2018-01-19
+Country: Palestine | Location: Hizma
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Security measures: Israeli forces Friday blocked the main entrance of the town of Hizma to the northeast of occupied Jerusalem with concrete blocks following a late night military raid into the town.
+
+---
+
+[EVENT: PSE28439]
+Date: 2018-01-20
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 20 January 2018, Israeli naval vessels fired at Palestinian fishing boats off the shores of Al Sudaniya area in west Bayt Lahya, off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28445]
+Date: 2018-01-21
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 21 January 2018, Israeli naval vessels fired at Palestinian fishing boats off the shores of Al Wahah area in west Bayt Lahya, off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28457]
+Date: 2018-01-21
+Country: Palestine | Location: Juhr ad Dik
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 21 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Juhr ad Dik town (Gaza City). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28437]
+Date: 2018-01-21
+Country: Palestine | Location: Battir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Looting: On 21 January 2018, Israeli forces confiscated a vehicle owned by a Palestinian during a raid into Battir village (Bethlehem). The official reason for the confiscation was not reported.
+
+---
+
+[EVENT: PSE28444]
+Date: 2018-01-21
+Country: Palestine | Location: Huwwarah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Looting: On 21 January 2018, Israeli forces confiscated 3 vehicles owned by Palestinians at Huwwarah military checkpoint (Nablus). The reason for the confiscation was not reported.
+
+---
+
+[EVENT: PSE28455]
+Date: 2018-01-22
+Country: Palestine | Location: Madama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 22 January 2018, Israeli forces fired stun and tear gas canisters at Palestinians for attempting to obstruct [presumably verbally] a group of Israeli settlers who stormed the south area of Madama village (Nablus).
+
+---
+
+[EVENT: PSE28456]
+Date: 2018-01-22
+Country: Palestine | Location: Ariel
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 22 January 2018, Israeli forces leveled a plot of Palestinian land near Ariel settlement (Salfit).
+
+---
+
+[EVENT: PSE28446]
+Date: 2018-01-22
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 22 January 2018, Israeli naval vessels fired at Palestinian fishing boats off the shores of Al Sudaniya area in west Bayt Lahya, off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28476]
+Date: 2018-01-24
+Country: Palestine | Location: Al Qararah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 24 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Al Qararah town (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28473]
+Date: 2018-01-24
+Country: Palestine | Location: Al Jiftlik
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 24 January 2018, Israeli forces demolished a home owned by a Palestinian in Al Jiftlik village (Jericho) for being built without a license.
+
+---
+
+[EVENT: PSE28472]
+Date: 2018-01-24
+Country: Palestine | Location: Aqraba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 24 January 2018, Israeli forces demolished a livestock shed owned by a Palestinian east of Aqraba town (Nablus) for being built without a license.
+
+---
+
+[EVENT: PSE28479]
+Date: 2018-01-25
+Country: Palestine | Location: Al Qararah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 25 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Al Qararah town (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28498]
+Date: 2018-01-27
+Country: Palestine | Location: Khan Yunis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 27 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Khan Yunis city (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28497]
+Date: 2018-01-27
+Country: Palestine | Location: Al Maghazi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 27 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Mukhayyam al Magazi camp (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28496]
+Date: 2018-01-27
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 27 January 2018, Israeli naval vessels fired at Palestinian fishing boats off the shores of Al Wahah area in west Bayt Lahya, off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28506]
+Date: 2018-01-28
+Country: Palestine | Location: Al Maghazi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 28 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Mukhayyam al Magazi camp (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28502]
+Date: 2018-01-28
+Country: Palestine | Location: Bardalah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 28 January 2018, Israeli forces leveled agricultural lands owned by 5 Palestinians in the western part of Bardalah village (Tubas).
+
+---
+
+[EVENT: PSE28505]
+Date: 2018-01-28
+Country: Palestine | Location: Al Khadir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 28 January 2018, a group of Israeli settlers leveled a plot of land, approximately 4 dunums, owned by a Palestinian and destroyed its surrounding steel fence in Al Khadir town (Bethlehem).
+
+---
+
+[EVENT: PSE28517]
+Date: 2018-01-29
+Country: Palestine | Location: Al Maghazi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 29 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Mukhayyam al Magazi camp (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1435]
+Date: 2018-01-29
+Country: Palestine | Location: Bayt Jala
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestinian News Network [National]
+
+DESCRIPTION:
+Property destruction: On January 29 2018, Israeli forces demolished two Palestinian residential buildings in Bir Ona area in the town of Beit Jala, south of Jerusalem.
+
+---
+
+[EVENT: PSE28521]
+Date: 2018-01-30
+Country: Palestine | Location: Yabad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Looting: On 30 January 2018, Israeli forces seized the construction equipment of a Palestinian company contracted by the government of Denmark to build a multi-purpose public building for a kindergarten, a maternity center, and a children's center and park, in Yabad town (Jenin). The official reason for the seizure was not reported.
+
+---
+
+[EVENT: PSE28526]
+Date: 2018-01-31
+Country: Palestine | Location: Coast of Rafah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 31 January 2018, Israeli naval vessels fired at Palestinian fishing boats off the Coast of Rafah city (Rafah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE79966]
+Date: 2018-01-31
+Country: Palestine | Location: Beit Hanoun
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PCHR: Palestinian Centre for Human Rights [Other]
+
+DESCRIPTION:
+Other: On 31 January 2018, Israeli forces opened the fire towards agricultural land east of Beit Hanoun (North Gaza, Gaza Strip). These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25779]
+Date: 2018-01-31
+Country: Palestine | Location: Al Quds - Bayt Hanina
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 31 January 2018, Israeli forces demolished a Palestinian home for being built without a license in Al Quds - Bayt Hanina (Al Quds).
+
+---
+
+[EVENT: PSE1440]
+Date: 2018-01-31
+Country: Palestine | Location: Coast of Gaza City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Other: Israeli naval boats opened fire at Palestinian fishers off the coast of Gaza City and the northern Gaza Strip on Wednesday morning. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE25782]
+Date: 2018-01-31
+Country: Palestine | Location: Yuta
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 31 January 2018, Israeli forces demolished a Palestinian agricultural structure in a village located east of Yuta town (Hebron) for being built without a license.
+
+---
+
+[EVENT: PSE25775]
+Date: 2018-01-31
+Country: Palestine | Location: Al Maghazi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 31 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Maghazi (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25778]
+Date: 2018-01-31
+Country: Palestine | Location: Jabalya
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 31 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Jabalya (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25776]
+Date: 2018-01-31
+Country: Palestine | Location: Gaza - Shujaiyya
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 31 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Gaza - Shujaiyya (Gaza City). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25783]
+Date: 2018-01-31
+Country: Palestine | Location: Madama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 31 January 2018, Israeli forces fired stun and tear gas canisters towards Palestinians who attempted to prevent [presumably verbally] Israeli settlers from entering the southern area of Madama village (Nablus).
+
+---
+
+[EVENT: PSE25777]
+Date: 2018-01-31
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 31 January 2018, Israeli naval vessels fired at Palestinian fishing boats in Al Waha northwest of Bayt Lahya off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25787]
+Date: 2018-01-31
+Country: Palestine | Location: Kafr ad Dik
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 31 January 2018, Israeli forces leveled a plot of Palestinian agricultural land in the Thaher Sabah area in Kafr ad Dik (Salfit).
+
+---
+
+[EVENT: PSE25774]
+Date: 2018-01-31
+Country: Palestine | Location: Deir al Balah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 31 January 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Dayr al Balah (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1441]
+Date: 2018-01-31
+Country: Palestine | Location: Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Hamas Movement [Political militia]
+Fatalities: 1
+Sources: Times of Israel [Regional]
+
+DESCRIPTION:
+Non-violent activity: The group said Mahmoud Hay al-Safadi, 31, died while at work on a 'resistance tunnel.' It did not say how he was killed or where the tunnel was located.
+
+---
+
+[EVENT: PSE10316]
+Date: 2018-02-01
+Country: Palestine | Location: Bayt Dajan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Property destruction: On 1 February 2018, Israeli military forces demolished a Palestinian house under construction in Bayt Dajan village, claiming they didn't have a permit to build it.
+
+---
+
+[EVENT: PSE25789]
+Date: 2018-02-01
+Country: Palestine | Location: Coast of Gaza City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 1 February 2018, Israeli naval vessels fired at Palestinian fishing boats off the Coast of Gaza City (Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28531]
+Date: 2018-02-02
+Country: Palestine | Location: Al Quds - Silwan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Looting: On 2 February 2018, Israeli forces confiscated a Palestinian family's warehouse and its supplies, and prevented the family from using the warehouse, in Al Quds - Silwan (Al Quds). They also demolished a Palestinian farmer's livestock shed, and cut down trees on his land, The official reason for the confiscation and demolition was not reported.
+
+---
+
+[EVENT: PSE25799]
+Date: 2018-02-02
+Country: Palestine | Location: Al Burayj
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 2 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Al Burayj camp (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25801]
+Date: 2018-02-02
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 2 February 2018, Israeli naval vessels fired at Palestinian fishing boats in Al Waha northwest of Bayt Lahya off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28532]
+Date: 2018-02-02
+Country: Palestine | Location: Al Quds - Bayt Hanina
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 2 February 2018, Israeli forces demolished a Palestinian home for being built without a license in Al Quds - Bayt Hanina town (Al Quds).
+
+---
+
+[EVENT: PSE25817]
+Date: 2018-02-03
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 3 February 2018, Israeli naval vessels fired at Palestinian fishing boats in Al Sudaniya northwest of Bayt Lahya off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE79981]
+Date: 2018-02-03
+Country: Palestine | Location: Qawawis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PCHR: Palestinian Centre for Human Rights [Other]
+
+DESCRIPTION:
+Other: On 3 February 2018, two Israeli settler rioters threw stones at Palestinian shepherds near Qawawis (Hebron, West Bank), forcing them to leave the area.
+
+---
+
+[EVENT: PSE25825]
+Date: 2018-02-04
+Country: Palestine | Location: Al Burayj
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 4 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Al Burayj (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25831]
+Date: 2018-02-04
+Country: Palestine | Location: Urif
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 4 February 2018, Israeli forces leveled a plot of Palestinian land east of Urif village (Nablus).
+
+---
+
+[EVENT: PSE25830]
+Date: 2018-02-04
+Country: Palestine | Location: Bayt Dajan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 4 February 2018, Israeli forces demolished a Palestinian home southeast of Bayt Dajan (Nablus), located in Area C, for being built without a license.
+
+---
+
+[EVENT: PSE10322]
+Date: 2018-02-04
+Country: Palestine | Location: Abu Nuwwar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Property destruction: On 4 February 2018, Israeli military forces demolished a Palestinian school in Abu Nuwwar Bedouin village, claiming they didn't have a permit to build it.
+
+---
+
+[EVENT: PSE79969]
+Date: 2018-02-04
+Country: Palestine | Location: Al Quds - Maale Adumim
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PCHR: Palestinian Centre for Human Rights [Other]
+
+DESCRIPTION:
+Property destruction: On 4 February 2018, Israeli forces demolished a building belonging to the Abu Nawar Bedouin community near Al Quds - Maale Adumim settlement (Al Quds, West Bank). The building belonged to a school and was likely demolished under the pretext of unlicensed construction.
+
+---
+
+[EVENT: PSE1465]
+Date: 2018-02-04
+Country: Palestine | Location: Faratah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Cyprus Mail [International]
+
+DESCRIPTION:
+Non-violent activity: Israel granted legal status on Sunday to a previously unauthorised outpost, Havat Gilad, in the occupied West Bank in response to a Palestinian shooting attack last month that killed one of its residents.
+
+---
+
+[EVENT: PSE25833]
+Date: 2018-02-05
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 5 February 2018, Israeli naval vessels fired at Palestinian fishing boats in Al Waha northwest of Bayt Lahya off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1469]
+Date: 2018-02-05
+Country: Palestine | Location: Salfit
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Security Measures: Israeli forces Monday carried out wide-scale raids in villages and towns located to the north of Salfit, blocked roads anddeclared many areas there closed military zones following the killing of a settler near the Israeli settlement of Ariel.
+
+---
+
+[EVENT: PSE25842]
+Date: 2018-02-06
+Country: Palestine | Location: Deir al Balah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 6 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Dayr al Balah (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25844]
+Date: 2018-02-06
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 6 February 2018, Israeli naval vessels fired at Palestinian fishing boats in Al Sudaniya and Al Waha northwest of Bayt Lahya off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25853]
+Date: 2018-02-06
+Country: Palestine | Location: Al Yamun
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 6 February 2018, Israeli forces demolished a concrete fence and storage den and uprooted several olive trees owned by Palestinians during a raid into Al Yamun town (Jenin).
+
+---
+
+[EVENT: PSE25869]
+Date: 2018-02-07
+Country: Palestine | Location: Zatarah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Land seizure: On 7 February 2018, a group of Israeli settlers installed mobile homes on Palestinian lands in Jabal Subeih north of Zatarah village (Salfit) in an attempt to create a settlement outpost.
+
+---
+
+[EVENT: PSE1483]
+Date: 2018-02-07
+Country: Palestine | Location: Ramallah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Jerusalem Post [Regional]
+
+DESCRIPTION:
+Defusal: On 7 February 2018, a Palestinian suspect was arrested Wednesday afternoon for attempting to infiltrate the West Bank's Samaria Military Court house with a pipe bomb near Ramallah, marking the fourth such thwarted attack in recent months. No one was injured in the incident. The area was cordoned off and bomb disposal experts were called to the scene to inspect the device.
+
+---
+
+[EVENT: PSE25863]
+Date: 2018-02-07
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 7 February 2018, Israeli naval vessels fired at Palestinian fishing boats in Al Waha northwest of Bayt Lahya off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25862]
+Date: 2018-02-07
+Country: Palestine | Location: Beit Hanoun
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 7 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Bayt Hanun (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25864]
+Date: 2018-02-07
+Country: Palestine | Location: Al Quds - Silwan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 7 February 2018, Israeli forces demolished a Palestinian home in Al Quds - Silwan (Al Quds) for being built without a license.
+
+---
+
+[EVENT: PSE1484]
+Date: 2018-02-08
+Country: Palestine | Location: Al Qararah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 8 February 2018, several Israeli bulldozers entered into the 'buffer zone' along the Gaza border where they razed lands under heavy military protection. Four Israeli military bulldozers raided into eastern Al Qararah (Khan Yunis, Gaza Strip) adding that forces opened fire during the incursion.
+
+---
+
+[EVENT: PSE1490]
+Date: 2018-02-08
+Country: Palestine | Location: Dayr ar Razih
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Times of Israel [International]
+
+DESCRIPTION:
+Weapons Seizure: Israeli troops broke up a large gun-smuggling ring in the southern Hebron Hills early Thursday morning, arresting six suspects and seizing guns, knives and ammunition. According to the Israel Defense Forces, the weapons were discovered inside a compound in the village of Deir Razih, southwest of Hebron.
+
+---
+
+[EVENT: PSE25879]
+Date: 2018-02-08
+Country: Palestine | Location: Al Qararah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 8 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Al Qararah town (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25880]
+Date: 2018-02-08
+Country: Palestine | Location: Khan Yunis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 8 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Khan Yunis city (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25881]
+Date: 2018-02-08
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 8 February 2018, Israeli naval vessels fired at Palestinian fishing boats in Al Waha northwest of Bayt Lahya off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25892]
+Date: 2018-02-09
+Country: Palestine | Location: Coast of Gaza City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 9 February 2018, Israeli naval vessels fired at Palestinian fishing boats off the Coast of Gaza City (Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25897]
+Date: 2018-02-09
+Country: Palestine | Location: Rafah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 9 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Rafah city (Rafah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1498]
+Date: 2018-02-09
+Country: Palestine | Location: Huwwarah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Security Measures: Israeli army Friday shut down Huwwara checkpoint to the south of Nablus, in northern West Bank, which links the city with Ramallah and Jerusalem, in addition to other towns and villages.
+
+---
+
+[EVENT: PSE1494]
+Date: 2018-02-09
+Country: Palestine | Location: Bayta
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Palestinian News Network [National]
+
+DESCRIPTION:
+Security Measures: Israeli forces sealed the main entrance to Beita town, south of Nablus, declaring the village a closed military zone.
+
+---
+
+[EVENT: PSE25896]
+Date: 2018-02-09
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 9 February 2018, Israeli naval vessels fired at Palestinian fishing boats in Al Waha northwest of Bayt Lahya off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25916]
+Date: 2018-02-10
+Country: Palestine | Location: Khan Yunis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 10 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Khan Yunis (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25918]
+Date: 2018-02-10
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 10 February 2018, Israeli naval vessels fired at Palestinian fishing boats in Al Waha northwest of Bayt Lahya off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE25929]
+Date: 2018-02-11
+Country: Palestine | Location: Coast of Rafah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 11 February 2018, Israeli naval vessels fired at Palestinian fishing boats off the Coast of Rafah (Rafah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1505]
+Date: 2018-02-11
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestinian News Network [National]
+
+DESCRIPTION:
+Other: Israeli navy forces on Sunday morning shot at Gaza fishers with live ammunition, destroying their fishing boast, and then arrested two of them at the shores of northern Gaza. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE1506]
+Date: 2018-02-11
+Country: Palestine | Location: Al Quds
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Security Measures: Israeli authorities closed late Sunday roads to the Jerusalem-area town of Hezma and Issawiyeh neighborhood.
+
+---
+
+[EVENT: PSE1512]
+Date: 2018-02-12
+Country: Palestine | Location: Wadi Qana
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Property destruction: On February 12 2018, in Wadi Qana, near Salfit northern West Bank, Israeli bulldozers levelled a historic building and confiscated farmers' solar panels.
+
+---
+
+[EVENT: PSE25937]
+Date: 2018-02-12
+Country: Palestine | Location: Juhr ad Dik
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 12 February 2018, Israeli forces opened fire towards Palestinian agricultural lands in Juhr ad Dik (Gaza City). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1509]
+Date: 2018-02-12
+Country: Palestine | Location: Bayta
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Palestinian News Network [National]
+
+DESCRIPTION:
+Security measures: For the second day in a row, Israeli forces continue to close the entrances of Beita village near Nablus.
+
+---
+
+[EVENT: PSE28529]
+Date: 2018-02-13
+Country: Palestine | Location: Al Quds - Old City
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Land seizure: On 13 February 2018, Israeli forces installed caravans and cranes for the construction of a two-level building in the Palestinian Al Buraq area in Al Quds - Old City (Al Quds).
+
+---
+
+[EVENT: PSE25942]
+Date: 2018-02-13
+Country: Palestine | Location: Al Quds - Isawiya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 13 February 2018, Israeli forces demolished 3 Palestinian commercial shops in Al Quds - Isawiya (Al Quds) for being built without license.
+
+---
+
+[EVENT: PSE10329]
+Date: 2018-02-14
+Country: Palestine | Location: Beit Kahil
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Property destruction: On 14 February 2018, Israeli military forces demolished 2 Palestinian houses in Beer Al Mahjar area in Beit Kahil village, claiming they didn't have a permit to build it.
+
+---
+
+[EVENT: PSE28142]
+Date: 2018-02-14
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 14 February 2018, Israeli naval vessels fired at Palestinian fishing boats off the shores of Al Sudaniya area west of Bayt Lahya, off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE10328]
+Date: 2018-02-14
+Country: Palestine | Location: Al Quds - Bayt Safafa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48; PLO Negotiations Affairs Department [Other-National]
+
+DESCRIPTION:
+Property destruction: On 14 February 2018, Israeli police forces demolished a Palestinian house and 2 livestock dens in Al Quds - Bayt Safafa (Al Quds) claiming they did not have a license to build them.
+
+---
+
+[EVENT: PSE1522]
+Date: 2018-02-14
+Country: Palestine | Location: Ramallah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [International]
+
+DESCRIPTION:
+Arrests: Israeli forces arrested 29 Palestinians in overnight raids across the Israeli-occupied West Bank. Israeli forces raided several homes in the cities of Ramallah and Bethlehem in southern West Bank.
+
+---
+
+[EVENT: PSE28151]
+Date: 2018-02-15
+Country: Palestine | Location: Khuzaa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 15 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Khuzaa town (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1523]
+Date: 2018-02-15
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Other: Israeli naval forces opened fire on Palestinian fishing boats on Thursday morning as they were working off the coast of the northern Gaza Strip. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE4220]
+Date: 2018-02-15
+Country: Palestine | Location: Coast of Deir al Balah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Other: Israeli naval forces opened fire on Palestinian fishing boats on Thursday morning as they were working off the coast of the central Gaza Strip. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE28150]
+Date: 2018-02-15
+Country: Palestine | Location: Al Qararah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 15 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Al Qararah town (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1524]
+Date: 2018-02-15
+Country: Palestine | Location: Bayta
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Security measures: Israeli forces on Thursday closed all side roads surrounding the Beita village, south of Nablus city in the northern occupied West bank. .
+
+---
+
+[EVENT: PSE1526]
+Date: 2018-02-15
+Country: Palestine | Location: Yuta
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Jerusalem Post [Regional]
+
+DESCRIPTION:
+Weapons Seizure: Security forces in the West Bank launched a large-scale operation to locate weapons in the village of Yatta, during which they seized weapons, ammunition and other military equipment.
+
+---
+
+[EVENT: PSE28168]
+Date: 2018-02-17
+Country: Palestine | Location: Al Qararah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 17 February 2018, Israeli forces leveled a plot of Palestinian land with military bulldozers eastern Al Qararah town (Khan Yunis, Gaza Strip). They also opened fire during the process, presumed to be warning shots not directly targeted at Palestinians.
+
+---
+
+[EVENT: PSE28169]
+Date: 2018-02-17
+Country: Palestine | Location: Khuzaa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 17 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Khuzaa (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1550]
+Date: 2018-02-18
+Country: Palestine | Location: Bethlehem
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Arutz Sheva [International]
+
+DESCRIPTION:
+Weapons Seizure: On Sunday night, IDF forces searching Bethlehem area for weapons located a pipe bomb.
+
+---
+
+[EVENT: PSE28199]
+Date: 2018-02-19
+Country: Palestine | Location: Al Burayj
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 19 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Al Burayj camp (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28187]
+Date: 2018-02-19
+Country: Palestine | Location: Juhr ad Dik
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 19 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Juhr ad Dik town (Gaza City). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE10332]
+Date: 2018-02-20
+Country: Palestine | Location: Al Quds - Jabal al-Baba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Property destruction: On 20 February 2018, Israeli police forces demolished a Palestinian house in the Bedouin village of Jabal al Baba, claiming they didn't have a permit to build it.
+
+---
+
+[EVENT: PSE1554]
+Date: 2018-02-20
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Jordan News Agency [International]
+
+DESCRIPTION:
+Other: Israeli naval boats on Tuesday fired on Palestinian fishing boats off Al Sudaniya shores in northern Gaza Strip. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE28186]
+Date: 2018-02-20
+Country: Palestine | Location: Hebron
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Looting: On 20 February 2018, Israeli forces seized a Palestinian vehicle during a raid into Hebron city (Hebron). The official reason behind the seizure was not reported.
+
+---
+
+[EVENT: PSE28196]
+Date: 2018-02-20
+Country: Palestine | Location: Bayt Ummar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Looting: On 20 February 2018, Israeli forces seized a Palestinian man's construction crane, which was allegedly being used to build an unlicensed livestock den, during their raid into Bayt Ummar town (Hebron).
+
+---
+
+[EVENT: PSE28198]
+Date: 2018-02-20
+Country: Palestine | Location: Beit Lahiya
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 20 February 2018, Israeli forces opened fire towards Palestinian agricultural lands north of Bayt Lahya (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28197]
+Date: 2018-02-20
+Country: Palestine | Location: Hebron - Bab az Zawiyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Land seizure: On 20 February 2018, a group of Israeli settlers installed mobile trailers in a market, that was closed by Israeli military forces, in the Old City of Hebron (coded to Hebron - Bab az Zawiyah) to seize the property.
+
+---
+
+[EVENT: PSE28210]
+Date: 2018-02-21
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 21 February 2018, Israeli naval vessels fired at Palestinian fishing boats off the shores of Al Sudaniya and Al Wahah areas, off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE15356]
+Date: 2018-02-21
+Country: Palestine | Location: Al Quds - Bayt Hanina
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency; PLO Negotiations Affairs Department [Other-National]
+
+DESCRIPTION:
+Property destruction: On 21 February 2018, Israeli forces demolished a merchant shop and a hair salon owned by a Palestinian for being built without a license in Al Quds - Bayt Hanina (Al Quds).
+
+---
+
+[EVENT: PSE1562]
+Date: 2018-02-21
+Country: Palestine | Location: Kifil Haris
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Security Measures: Israeli forces escorted settlers into the town, fired stun grenades, prevented Palestinian residents from leaving their homes, and erected flying checkpoints throughout the town.
+
+---
+
+[EVENT: PSE1557]
+Date: 2018-02-21
+Country: Palestine | Location: Al Quds - Shuafat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency; PLO Negotiations Affairs Department [Other-National]
+
+DESCRIPTION:
+Property destruction: On 21 February 2018, Israeli forces demolished a live stock barn and a home owned by a Palestinian for being built without a license during a raid into Al Quds - Shuafat neighborhood (Al Quds).
+
+---
+
+[EVENT: PSE28205]
+Date: 2018-02-21
+Country: Palestine | Location: Dar al Malih
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 21 February 2018, Israeli forces leveled a plot of Palestinian land in Dar al Malih village (Jenin) in order to expand a wall near Shaked settlement.
+
+---
+
+[EVENT: PSE28209]
+Date: 2018-02-21
+Country: Palestine | Location: Kiryat Arba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 21 February 2018, Israeli forces leveled a plot of Palestinian agricultural land, during which they uprooted several olive trees, almond trees, grape vines, and vegetable crops owned by a Palestinian farmer, in Al Qubaa area near Kiryat Arba settlement (Hebron).
+
+---
+
+[EVENT: PSE1563]
+Date: 2018-02-22
+Country: Palestine | Location: Al Qararah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency; PLO Negotiations Affairs Department [Other-National]
+
+DESCRIPTION:
+Other: On 22 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Al Qararah town (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28226]
+Date: 2018-02-22
+Country: Palestine | Location: Deir al Balah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 22 February 2018, Israeli forces opened fire towards Palestinian agricultural lands in Dayr al Balah city (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28225]
+Date: 2018-02-22
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 22 February 2018, Israeli naval vessels fired at Palestinian fishing boats off the shores of Al Sudaniya area west of Bayt Lahya town, off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28236]
+Date: 2018-02-23
+Country: Palestine | Location: Madama
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 23 February 2018, a group of Israeli settlers, under the protection of Israeli military forces, leveled a plot of Palestinian land south of Madama village (Nablus).
+
+---
+
+[EVENT: PSE28240]
+Date: 2018-02-23
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 23 February 2018, Israeli naval vessels fired at Palestinian fishing boats off the shores of Al Sudaniya area west of Bayt Lahya town, off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28245]
+Date: 2018-02-24
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 24 February 2018, Israeli naval vessels fired at Palestinian fishing boats off Al Wahah coast, northwest of Bayt Lahya, off the Coast of North Gaza (North Gaza). There were no casualties. They temporarily detained 2 fishers and confiscated their fishing boat. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28246]
+Date: 2018-02-24
+Country: Palestine | Location: Coast of Gaza City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 24 February 2018, Israeli naval vessels fired at Palestinian fishing boats off the Coast of Gaza City (Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28249]
+Date: 2018-02-24
+Country: Palestine | Location: Coast of Deir al Balah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 24 February 2018, Israeli naval vessels fired at Palestinian fishing boats off the Coast of Deir al Balah city (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28251]
+Date: 2018-02-24
+Country: Palestine | Location: Coast of Rafah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 24 February 2018, Israeli naval vessels fired at Palestinian fishing boats off the Coast of Rafah city (Rafah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28250]
+Date: 2018-02-24
+Country: Palestine | Location: Khan Yunis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 24 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Khan Yunis city (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28248]
+Date: 2018-02-24
+Country: Palestine | Location: Deir al Balah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 24 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Dayr al Balah city (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28259]
+Date: 2018-02-25
+Country: Palestine | Location: Al Qararah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 25 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Al Qararah town (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28258]
+Date: 2018-02-25
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 25 February 2018, Israeli naval vessels fired at Palestinian fishing boats off Al Wahah coast, northwest of Bayt Lahya, off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1593]
+Date: 2018-02-25
+Country: Palestine | Location: Jalud
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: BBC News; PLO Negotiations Affairs Department [Other-International]
+
+DESCRIPTION:
+Land seizure: On 25 February 2018, a group of Israeli settlers from Adei Ad and Ahiya settlements leveled approximately 120 dunums of Palestinian agricultural land, started planting it with grape-vines and installed green house tents over their crops, in Jalud village (Nablus).
+
+---
+
+[EVENT: PSE28257]
+Date: 2018-02-25
+Country: Palestine | Location: Ar Ramadin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 25 February 2018, Israeli forces leveled 3 dunums of Palestinian agricultural land in Ar Ramadin village (Hebron).
+
+---
+
+[EVENT: PSE28264]
+Date: 2018-02-26
+Country: Palestine | Location: Hebron - Bab az Zawiyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Land seizure: On 26 February 2018, a group of Israeli settlers placed a caravan in an old vegetable market on Palestinian land in the Old City of Hebron (coded to Hebron - Bab az Zawiyah).
+
+---
+
+[EVENT: PSE1596]
+Date: 2018-02-26
+Country: Palestine | Location: Beit Lahiya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Jordan News Agency [Regional]
+
+DESCRIPTION:
+Movement of troops: Israeli forces early Monday made an incursion into Palestinian lands in Beit Lahyia, north of the Gaza Strip.
+
+---
+
+[EVENT: PSE28269]
+Date: 2018-02-27
+Country: Palestine | Location: Jibiya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Looting: On 27 February 2018, Israeli forces confiscated a cement mixer and a cement pump owned by a Palestinian company near Jibiya village (Ramallah and Al Bireh) for allegedly doing construction work on a Palestinian house that was not licensed.
+
+---
+
+[EVENT: PSE28272]
+Date: 2018-02-27
+Country: Palestine | Location: Deir al Balah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 27 February 2018, Israeli forces opened fire towards Palestinian agricultural lands in Dayr al Balah city (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28273]
+Date: 2018-02-27
+Country: Palestine | Location: Khan Yunis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 27 February 2018, Israeli forces opened fire towards Palestinian agricultural lands east of Khan Yunis city (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1598]
+Date: 2018-02-28
+Country: Palestine | Location: Khirbat Nasara
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: On 28 February 2018, dozens of students suffered tear gas inhalation from tear gas cannisters fired by Israeli forces at their school in Wadi al-Nasara (Khirbat Nasara) in Hebron for unknown reasons.
+
+---
+
+[EVENT: PSE10342]
+Date: 2018-02-28
+Country: Palestine | Location: Hizma
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Property destruction: On 28 February 2018, Israeli military forces demolished a building used for farming purposes belonging to a Palestinian farmer, in Hizma.
+
+---
+
+[EVENT: PSE10346]
+Date: 2018-02-28
+Country: Palestine | Location: Burin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Land seizure: On 28 February 2018, Israeli military forces seized 24 Dunams belonging to Palestinian farmers in Burin village.
+
+---
+
+[EVENT: PSE1601]
+Date: 2018-03-01
+Country: Palestine | Location: Khan Yunis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Movement of troops: Israeli forces Thursday made an incursion into Palestinian lands near Khan Yunis in the southern Gaza Strip and razed land.
+
+---
+
+[EVENT: PSE1600]
+Date: 2018-03-01
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: Israeli navy boats opened fire at fishers in northern Gaza without causing any harm. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE3264]
+Date: 2018-03-02
+Country: Palestine | Location: Burin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Non-Violent Activity: Around 2 March 2018, Israeli Military Forces fired tear gas at a Palestinian couple in Burin village, near Nablus.
+
+---
+
+[EVENT: PSE1613]
+Date: 2018-03-04
+Country: Palestine | Location: Al Quds
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Times of Israel [International]
+
+DESCRIPTION:
+Arrests: Israeli forces arrested 40 Palestinian men trying to enter Israel illegally early Sunday morning, nabbing them near the security fence south of Jerusalem.
+
+---
+
+[EVENT: PSE1615]
+Date: 2018-03-05
+Country: Palestine | Location: Al Quds - Anata
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestinian News Network [National]
+
+DESCRIPTION:
+Other: On 5 March 2018, Israeli forces fired large amounts of tear gas at the Anata High School in Al Quds - Anata. Israeli forces raided the school with heavy tear gas canisters, leaving dozens of students to suffer from tear gas inhalation. A reason for the use of tear gas was not provided.
+
+---
+
+[EVENT: PSE1619]
+Date: 2018-03-06
+Country: Palestine | Location: Tubas
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Land seizure: On March 6 2018, Israeli bulldozers Monday razed farmlands and installed tents in al-Farisiya village, east of Tubas, in the northern Jordan Valley.
+
+---
+
+[EVENT: PSE10352]
+Date: 2018-03-06
+Country: Palestine | Location: Al Qararah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Other: On 6 March 2018, Israeli soldiers opened live fire at Palestinian farmers, in Al Qararah village (Khan Yunis). These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE1618]
+Date: 2018-03-06
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Other: Israeli naval forces opened fire on Palestinian fishing boats off the coast of the northern Gaza Strip on Monday. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE10353]
+Date: 2018-03-06
+Country: Palestine | Location: Al Quds - Silwan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Property destruction: On 6 March 2018, Israeli police forces demolished a Palestinian car wash and a wall in Al Quds - Silwan, claiming they didn't have a permit to build them.
+
+---
+
+[EVENT: PSE1641]
+Date: 2018-03-08
+Country: Palestine | Location: Burin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Land seizure: On March 8 2018, the Israeli military authorities seized land near Burin high school south of Nablus under the pretext of security.
+
+---
+
+[EVENT: PSE3266]
+Date: 2018-03-09
+Country: Palestine | Location: Dayr Sharaf
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Israeli Link; Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Security Measures: Israeli forces built a military checkpoint in the town of Deir Sharaf, Nablus district at dawn, on March 9.
+
+---
+
+[EVENT: PSE1634]
+Date: 2018-03-10
+Country: Palestine | Location: Gaza
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PIJ: Palestinian Islamic Jihad [Political militia]
+Fatalities: 1
+Sources: Jerusalem Post [Regional]
+
+DESCRIPTION:
+Detonation: A member of the al-Quds Brigades, the military arm of Palestinian Islamic Jihad, was killed Saturday evening and two others wounded following an explosion in the Gaza Strip.
+
+---
+
+[EVENT: PSE1643]
+Date: 2018-03-11
+Country: Palestine | Location: Ramallah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Jerusalem Post [Regional]
+
+DESCRIPTION:
+Defusal: On 11 March 2018, two Palestinians were arrested at the entrance to the West Bank's Samaria Military Court house with a pipe bomb on Sunday morning near Ramallah, the sixth such attempt thwarted in recent months. The entrance to the court house was closed as a result and bomb disposal experts were dispatched to the scene.
+
+---
+
+[EVENT: PSE1649]
+Date: 2018-03-12
+Country: Palestine | Location: Al Quds
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Times of Israel [International]
+
+DESCRIPTION:
+Weapons Seizure: Weapons captured by police in an undercover operation in East Jerusalem. Israeli forces captured arms including bombs, assault rifles, handguns and ammunition.
+
+---
+
+[EVENT: PSE10362]
+Date: 2018-03-13
+Country: Palestine | Location: Qabatiyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Property destruction: On 13 March 2018, Israeli military forces demolished the house of a Palestinian in Qabatiyah who attacked and killed an Israeli settler.
+
+---
+
+[EVENT: PSE29060]
+Date: 2018-03-14
+Country: Palestine | Location: Beit Lahiya
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 14 March 2018, Israeli forces opened fire at Palestinian agricultural lands north of Bayt Lahya town (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE29053]
+Date: 2018-03-14
+Country: Palestine | Location: Al Quds
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 14 March 2018, Israeli forces demolished a Palestinian house and four mobile trailers south of Al Quds city (Al Quds) claiming they were built and installed without a license.
+
+---
+
+[EVENT: PSE29059]
+Date: 2018-03-14
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 14 March 2018, Israeli forces opened fire at Palestinian fishing boats near Al Wahah area off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE29050]
+Date: 2018-03-15
+Country: Palestine | Location: Khan Yunis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 15 March 2018, Israeli forces opened fire at Palestinian agricultural lands east of Khan Yunis city (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE29051]
+Date: 2018-03-15
+Country: Palestine | Location: Coast of Rafah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 15 March 2018, Israeli forces opened fire at Palestinian fishing boats off the Coast of Rafah (Rafah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE29049]
+Date: 2018-03-15
+Country: Palestine | Location: Coast of Gaza City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 15 March 2018, Israeli forces opened fire at Palestinian fishing boats off the Coast of Gaza City (Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE29048]
+Date: 2018-03-15
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 15 March 2018, Israeli forces opened fire at Palestinian fishing boats near Al Wahah area off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE30683]
+Date: 2018-03-15
+Country: Palestine | Location: Dura
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Land seizure: Around 15 March 2018 (month of), Israeli forces officially confiscated 210 dunums of Palestinian land west of Dura town (Hebron) for the purpose of expanding the Negohot settlement.
+
+---
+
+[EVENT: PSE1670]
+Date: 2018-03-16
+Country: Palestine | Location: Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: Israeli forces Saturday opened fire at Palestinian farmers and shepherds to the east of the city of Gaza and fishermen in the northern Gaza sea. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE29045]
+Date: 2018-03-16
+Country: Palestine | Location: Al Maghazi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 16 March 2018, Israeli forces opened fire at Palestinian agricultural lands east of Mukhayyam al Magazi (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1671]
+Date: 2018-03-16
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: Israeli forces opened fire on Palestinian fishers near Bayt Lahya, causing damage to their boats and forcing the fishers to leave the area in fear of getting shot. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE29031]
+Date: 2018-03-17
+Country: Palestine | Location: Al Fukhari
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 17 March 2018, Israeli forces opened fire at Palestinian agricultural lands east of Al Fukhari town (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE29032]
+Date: 2018-03-17
+Country: Palestine | Location: Al Qararah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 17 March 2018, Israeli forces opened fire at Palestinian agricultural lands east of Al Qararah town (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE29025]
+Date: 2018-03-17
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 17 March 2018, Israeli forces opened fire at Palestinian fishing boats near Al Sudaniya area off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE29026]
+Date: 2018-03-17
+Country: Palestine | Location: Gaza - Az Zaytun
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 17 March 2018, Israeli forces opened fire at Palestinian farmers and shepherds east of Gaza - Az Zaytun (Gaza City). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE29033]
+Date: 2018-03-17
+Country: Palestine | Location: Rafah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 17 March 2018, Israeli forces opened fire at Palestinian farmers east of Rafah city (Rafah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE29018]
+Date: 2018-03-18
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 18 March 2018, Israeli forces opened fire at Palestinian fishing boats near Al Wahah area off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE29019]
+Date: 2018-03-18
+Country: Palestine | Location: Al Burayj
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 18 March 2018, Israeli forces opened fire at Palestinian shepherds herding their goats east of Al Burayj camp (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1677]
+Date: 2018-03-18
+Country: Palestine | Location: Abasan al Kabirah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Jordan News Agency [Regional]
+
+DESCRIPTION:
+Property destruction: On 18 March 2018, Israeli forces crossed into the Gaza Strip and made an incursion into the eastern Abasan al Kabirah (Khan Yunis, Gaza strip) where military vehicles entered and razed land.
+
+---
+
+[EVENT: PSE17490]
+Date: 2018-03-18
+Country: Palestine | Location: Negohot Farm
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Peace Now [Other]
+
+DESCRIPTION:
+Land seizure: On 18 March 2018, Israeli settlers established the Negohot Farm outpost in near Negohot settlement (Hebron, West Bank).
+
+---
+
+[EVENT: PSE29012]
+Date: 2018-03-19
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 19 March 2018, Israeli forces opened fire at Palestinian fishing boats near Al Wahah area off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE29009]
+Date: 2018-03-19
+Country: Palestine | Location: Jalud
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 19 March 2018, Israeli settlers levelled a plot of Palestinian land in Jalud village (Nablus) near Shivat Arhil settlement.
+
+---
+
+[EVENT: PSE29013]
+Date: 2018-03-19
+Country: Palestine | Location: Abasan al Kabirah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 19 March 2018, Israeli forces opened fire at Palestinian agricultural lands east of Abasan al Kabirah town (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1682]
+Date: 2018-03-19
+Country: Palestine | Location: Tuqu
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Non-Violent Activity: Israeli forces on Monday attacked a school in Tuqu firing more than 10 tear gas canisters at the school, forcing its staff to close its doors in attempts to prevent soldiers from breaking into the school.
+
+---
+
+[EVENT: PSE28999]
+Date: 2018-03-20
+Country: Palestine | Location: Umm al Jamal
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 20 March 2018, Israeli forces destroyed crops planted on Palestinian agricultural lands in Umm al Jamal (Tubas).
+
+---
+
+[EVENT: PSE29005]
+Date: 2018-03-20
+Country: Palestine | Location: Al Burayj
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 20 March 2018, Israeli forces opened fire at Palestinian agricultural lands east of Al Burayj camp (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1686]
+Date: 2018-03-20
+Country: Palestine | Location: Khan Yunis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Jordan News Agency; Palestine News and Information Agency [National-Regional]
+
+DESCRIPTION:
+Movement of Forces: Israeli forces early Tuesday made an incursion into Palestinian lands east of Khan Younis in the Gaza Strip and opened fire at farmers without causing any injuries.
+
+---
+
+[EVENT: PSE1685]
+Date: 2018-03-20
+Country: Palestine | Location: Beit Hanoun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Jordan News Agency [Regional]
+
+DESCRIPTION:
+Movement of Forces: Israeli forces early Tuesday made an incursion into Palestinian lands east of Beit Hanoun town and Khan Younis in the Gaza Strip.
+
+---
+
+[EVENT: PSE28994]
+Date: 2018-03-21
+Country: Palestine | Location: Khuzaa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 21 March 2018, Israeli forces opened fire at Palestinian agricultural lands east of Khuzaa town (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28993]
+Date: 2018-03-21
+Country: Palestine | Location: Al Maghazi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 21 March 2018, Israeli forces opened fire at Palestinian agricultural lands east of Mukhayyam al Magazi (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28992]
+Date: 2018-03-21
+Country: Palestine | Location: Juhr ad Dik
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 21 March 2018, Israeli forces opened fire at Palestinian agricultural lands east of Juhr ad Dik (Gaza City). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE29006]
+Date: 2018-03-21
+Country: Palestine | Location: Coast of Khan Yunis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 21 March 2018, Israeli forces opened fire at Palestinian fishing boats near Al Sudaniya area off the Coast of Khan Yunis (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1692]
+Date: 2018-03-21
+Country: Palestine | Location: Gaza - Ijdeedeh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Jordan News Agency [Regional]
+
+DESCRIPTION:
+Property destruction: On 21 March 2018, Israeli forces crossed into the Gaza Strip and made an incursion into Palestinian lands east of Gaza city, coded to Gaza - Ijdeedeh (Gaza Strip). Israeli troops backed by bulldozers and military vehicles advanced dozens of meters into east Gaza and razed Palestinian-owned lands.
+
+---
+
+[EVENT: PSE29004]
+Date: 2018-03-21
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 21 March 2018, Israeli forces opened fire at Palestinian fishing boats near Al Sudaniya area off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28988]
+Date: 2018-03-22
+Country: Palestine | Location: Al Maghazi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 22 March 2018, Israeli forces opened fire at Palestinian agricultural lands east of Mukhayyam al Magazi (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1694]
+Date: 2018-03-22
+Country: Palestine | Location: Al Qararah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Jordan News Agency; Palestine News and Information Agency [National-International]
+
+DESCRIPTION:
+Other: On 22 March 2018, Israeli forces opened fire at Palestinian agricultural lands east of Al Qararah town (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28987]
+Date: 2018-03-22
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 22 March 2018, Israeli forces opened fire at Palestinian fishing boats near Al Sudaniya area off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28976]
+Date: 2018-03-23
+Country: Palestine | Location: Gaza - Az Zaytun
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 23 March 2018, Israeli forces opened fire at Palestinian agricultural lands east of Gaza - Az Zaytun neighborhood (Gaza City). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28975]
+Date: 2018-03-23
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 23 March 2018, Israeli forces opened fire at Palestinian fishing boats near Al Sudaniya area off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28966]
+Date: 2018-03-24
+Country: Palestine | Location: Rafah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 24 March 2018, Israeli forces opened fire towards Palestinian agricultural lands near Sufa crossing northeast of Rafah city (Rafah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28965]
+Date: 2018-03-24
+Country: Palestine | Location: Gaza - Shujaiyya
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 24 March 2018, Israeli forces opened fire at Palestinian agricultural land east of Gaza - Shujaiyya neighborhood (Gaza City). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28961]
+Date: 2018-03-25
+Country: Palestine | Location: Deir al Balah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 25 March 2018, Israeli forces opened fire at several Palestinians east of Dayr al Balah camp (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1714]
+Date: 2018-03-25
+Country: Palestine | Location: Al Fukhari
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Jordan News Agency [Regional]
+
+DESCRIPTION:
+Property destruction: On 25 March 2018, Israeli forces crossed into the Gaza Strip and entered lands east of Al Fukhari (Khan Yunis, Gaza Strip) with military vehicles and bulldozers and razed Palestinian owned lands.
+
+---
+
+[EVENT: PSE28953]
+Date: 2018-03-26
+Country: Palestine | Location: Al Maghazi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 26 March 2018, Israeli forces opened fire at Palestinian agricultural lands east of Mukhayyam al Magazi (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28944]
+Date: 2018-03-26
+Country: Palestine | Location: Al Quds - Shaykh Jarrah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 26 March 2018, Israeli forces demolished a tire repair shop and issued military orders to demolish several containers near the Red Crescent hospital in Al Quds - Shaykh Jarrah (Al Quds).
+
+---
+
+[EVENT: PSE28952]
+Date: 2018-03-26
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 26 March 2018, Israeli forces opened fire at Palestinian fishing boats near Bayt Lahya town off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28955]
+Date: 2018-03-26
+Country: Palestine | Location: Rafah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 26 March 2018, Israeli forces opened fire at Palestinian agricultural lands east of Rafah city (Rafah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28958]
+Date: 2018-03-26
+Country: Palestine | Location: Illar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 26 March 2018, Israeli forces levelled a plot of Palestinian land used as a vehicle repairing spot during their raid into Illar town (Tulkarm).
+
+---
+
+[EVENT: PSE1717]
+Date: 2018-03-26
+Country: Palestine | Location: Beit Hanoun
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Non-Violent Activity: Unidentified Palestinians reportedly fired shots toward Israeli forces in the northern Gaza Strip.
+
+---
+
+[EVENT: PSE1719]
+Date: 2018-03-26
+Country: Palestine | Location: Gaza
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Jordan News Agency [Regional]
+
+DESCRIPTION:
+Movement of Forces: Israeli forces early Monday entered Palestinian lands in Beit Lahia, Khan Younis in Gaza strip.
+
+---
+
+[EVENT: PSE28942]
+Date: 2018-03-27
+Country: Palestine | Location: Deir al Balah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 27 March 2018, Israeli forces opened fire at Palestinian agricultural lands east of Dayr al Balah town (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28943]
+Date: 2018-03-27
+Country: Palestine | Location: Khan Yunis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 27 March 2018, Israeli forces opened fire at Palestinian agricultural lands east of Khan Yunis city (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28935]
+Date: 2018-03-28
+Country: Palestine | Location: Deir al Balah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 28 March 2018, Israeli forces opened fire at Palestinians east of Dayr al Balah camp (Deir El Balah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE10366]
+Date: 2018-03-28
+Country: Palestine | Location: Al Walaja
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Property destruction: On 28 March 2018, Israeli police forces demolished a Palestinian house in Al Walaja village, claiming they didn't have a permit to build them.
+
+---
+
+[EVENT: PSE28936]
+Date: 2018-03-28
+Country: Palestine | Location: Khan Yunis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 28 March 2018, Israeli forces opened fire at Palestinians east of Khan Yunis city (Khan Yunis). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE79977]
+Date: 2018-03-28
+Country: Palestine | Location: Suseya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PCHR: Palestinian Centre for Human Rights [Other]
+
+DESCRIPTION:
+Property destruction: On 28 March 2018, Israeli forces demolished a a Palestinian-owned tent near Suseya settlement (Hebron, West Bank), under the pretext that it was built without a license.
+
+---
+
+[EVENT: PSE1723]
+Date: 2018-03-28
+Country: Palestine | Location: Al Burayj
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Property destruction: On 28 March 2018, Israeli forces crossed into the Gaza Strip in eastern Al Burayj (Deir El Balah) and razed lands while firing rounds.
+
+---
+
+[EVENT: PSE28929]
+Date: 2018-03-29
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 29 March 2018, Israeli forces opened fire at Palestinian fishing boats near Al Sudaniya off the Coast of North Gaza (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE28921]
+Date: 2018-03-30
+Country: Palestine | Location: Beit Hanoun
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 30 March 2018, Israeli forces opened fire at Palestinian agricultural land east of Bayt Hanun town (North Gaza). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.
+
+---
+
+[EVENT: PSE1746]
+Date: 2018-03-31
+Country: Palestine | Location: Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: Ma'an News Agency; Xinhua [National-International]
+
+DESCRIPTION:
+Strikes: Palestinians held a general strike in Gaza and the West Bank to mourn the 16 Palestinians who were killed on Friday.
+
+---
+
+[EVENT: PSE1745]
+Date: 2018-03-31
+Country: Palestine | Location: Ramallah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: Xinhua; Ma'an News Agency [National-International]
+
+DESCRIPTION:
+Strikes: Palestinians held a general strike in Gaza and the West Bank to mourn the 16 Palestinians who were killed on Friday.
+
+---
+
+[EVENT: PSE28668]
+Date: 2018-03-31
+Country: Palestine | Location: Coast of Rafah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Other: On 31 March 2018, Israeli naval vessels fired at Palestinian fishing boats off the Coast of Rafah City (Rafah). There were no casualties. *These shots are considered to be warning shots to keep Palestinians away from the border fence, that are not directly targeted at them.

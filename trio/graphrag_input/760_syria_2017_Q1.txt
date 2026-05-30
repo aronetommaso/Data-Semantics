@@ -1,0 +1,1571 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Syria (ISO Code: 760)
+Temporal Period: Year 2017 - Quarter Q1
+Total Events in Chunk: 115 / 115
+==================================================
+
+[EVENT: SYR34506]
+Date: 2017-01-02
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Arrests: Syrian regime forces arrested an unknown number of civilians at their checkpoints in Qamishli city of Al-Hasakeh to recruit them for 5th Corps as their compulsory military service. Neither injuries nor fatalities were reported.
+
+---
+
+[EVENT: SYR34516]
+Date: 2017-01-03
+Country: Syria | Location: Sa'sa'
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Displacement: Buses arrived to Sa'sa' town in Rural Damascus and began transporting the rebels refusing the reconciliation from Betima, Beit Saber, and Kafr Hoor villages to Idleb.
+
+---
+
+[EVENT: SYR114]
+Date: 2017-01-05
+Country: Syria | Location: Abtaa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: Government forces fired on Abtaa, a town in Dar'a province, with small arms, on January 5, 2017. No casualties were reported.
+
+---
+
+[EVENT: SYR170]
+Date: 2017-01-06
+Country: Syria | Location: Saan Elosud
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: Government forces fired small arms on a the village of Saan Elosud in Homs province, on January 6, 2017.
+
+---
+
+[EVENT: SYR188]
+Date: 2017-01-07
+Country: Syria | Location: Ein Elfijeh
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Agreement: Hezbollah reportedly ended a ceasefire with the rebel factions in the Wadi Barada region on January 7, 2017, according to SOHR.
+
+---
+
+[EVENT: SYR23151]
+Date: 2017-01-07
+Country: Syria | Location: Azaz
+Type: Explosions/Remote violence > Suicide bomb | Disorder: Political violence
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 61
+Sources: Liveuamap; SNHR [Local partner-Other]
+
+DESCRIPTION:
+On 7 January 2017, suspected Islamic State fighters detonated a SVBIED near the central court of Azaz city in the northern countryside of Aleppo governorate. As a result, 60 civilians were killed in addition to the operative, several others were injured and the central court building was severely damaged and rendered inoperable. 61 fatalities.
+
+---
+
+[EVENT: SYR43291]
+Date: 2017-01-07
+Country: Syria | Location: Bait Jan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 1
+Sources: SNHR [Local partner-Other]
+
+DESCRIPTION:
+Detonation: An HTS suicide bomber detonated his Body-Bourne Improvised Explosive Device near Beit Jan in Rural Damascus, at a Military Forces of Syria checkpoint. No other injuries or fatalities were recorded from the attack. 1 fatality coded for the suicide bomber.
+
+---
+
+[EVENT: SYR224]
+Date: 2017-01-08
+Country: Syria | Location: Ar-Raqqa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: The Islamic State pulled over 150 fighters from their fronts in the Ar-Raqqa countryside over the past 48 hours, sending them to fight on more eastern fronts, including the Al-Bokamal area and the Qa'im area of Iraq.
+
+---
+
+[EVENT: SYR382]
+Date: 2017-01-10
+Country: Syria | Location: Deir-ez-Zor
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 50
+Sources: SOHR [Other]
+
+DESCRIPTION:
+25 civilians including eight children and nine women were killed by aerial bombardment on Deir-ez-Zor city by suspected regime forces, while 25 more were killed in exchange of shelling between Syrian military and IS forces in the city.
+
+---
+
+[EVENT: SYR713]
+Date: 2017-01-15
+Country: Syria | Location: Abbasiyeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: A grenade from an unidentified armed group exploded in the Al-Abasia. No injuries or fatalities reported.
+
+---
+
+[EVENT: SYR23279]
+Date: 2017-01-15
+Country: Syria | Location: Idleb
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Jaysh al Nasr [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Army of Victory established a headquarters in Idleb province. No fatalities reported.
+
+---
+
+[EVENT: SYR23278]
+Date: 2017-01-15
+Country: Syria | Location: Idleb
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: AAS: Ahrar al Sham [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Ahrar al-Sham established a headquarters in Idleb province. No fatalities reported.
+
+---
+
+[EVENT: SYR946]
+Date: 2017-01-18
+Country: Syria | Location: Hazrama
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Syrian regime forces and Hezbollah have controlled 12 farms in east Hazrma in Rural Damascus.
+
+---
+
+[EVENT: SYR1078]
+Date: 2017-01-19
+Country: Syria | Location: Wadi Barada
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Agreement: Syrian regime and Hezbollah forces lifted the siege imposed on Barada valley after the United Nations delegation entered the area to complete the negotiations.
+
+---
+
+[EVENT: SYR1077]
+Date: 2017-01-19
+Country: Syria | Location: Wadi Barada
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: SHAAM; SOHR [Other-National]
+
+DESCRIPTION:
+Agreement: A cease-fire was announced after a meeting of representatives of the Syrian regime and the Red Cross with the dignitaries of Wadi Barada area in Rural Damascus. Representatives from the Syrian regime forces and military factions in Barada valley reached a deal after meeting between the two parties. The agreement included terms such as exempting the draft evaders from military service for six months; handling heavy, medium and light weapons; settling the security conditions of those who are wanted; sending rebels o Idleb in case they are from out of the region; Syrian army will not enter homes and it will station checkpoints across the main road connecting the ten villages; draft evaders of the villages of Barada valley can serve as National Defence Forces and it will considered as performing mandatory or reserve military service.
+
+---
+
+[EVENT: SYR1028]
+Date: 2017-01-19
+Country: Syria | Location: Deir-ez-Zor - Al-Bogeleyyah
+Type: Battles > Non-state actor overtakes territory | Disorder: Political violence
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 60
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 19 January 2017, IS attacked the regime forces in Al-Bogeleyyah north-west of Deir-ez-Zor and killed and executed around 150 members from the regime forces, militiamen loyal to them, QDW, families of QDW, national army members and members from the Ba'ath party from the city. IS was able to control large areas in the town.
+
+---
+
+[EVENT: SYR1145]
+Date: 2017-01-19
+Country: Syria | Location: Idleb
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Actor2: Al Qaeda [Rebel group]
+Fatalities: 100
+Sources: Airwars; SOHR [Other]
+
+DESCRIPTION:
+U.S. manned and unmanned aircraft conducted air raids on the Shaikh Suleiman camp in Idleb known to house Al-Qaeda militants. Over 100 Al-Qaeda soldiers were allegedly killed.
+
+---
+
+[EVENT: SYR989]
+Date: 2017-01-19
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Turkish forces have gone deeply into the territories of western countryside of Ayn Al-Arab where machines accompany the forces raised barriers and built separation walls.
+
+---
+
+[EVENT: SYR1092]
+Date: 2017-01-20
+Country: Syria | Location: Aleppo
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamist Militia (Syria) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: Islamist militia snipers targeted areas along the Mohandesin highway of Aleppo city. No casualties were reported.
+
+---
+
+[EVENT: SYR1095]
+Date: 2017-01-20
+Country: Syria | Location: Aleppo - Al-Zahraa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamist Militia (Syria) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: Islamist militia snipers targeted areas near the Petroluem School in Zahraa, Aleppo city. No casualties were reported.
+
+---
+
+[EVENT: SYR34796]
+Date: 2017-01-20
+Country: Syria | Location: Zakiyeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Displacement: More than 160 rebels along with their families left Zakiyeh town in the western countryside of Damascus towards Idleb in accordance with the reconciliation agreement with the regime.
+
+---
+
+[EVENT: SYR1196]
+Date: 2017-01-21
+Country: Syria | Location: Aleppo - Al-Zahraa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamist Militia (Syria) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: Snipers from Islamist militias opened fire on areas in Al-Zahraa, Aleppo. No casualties were reported.
+
+---
+
+[EVENT: SYR1258]
+Date: 2017-01-21
+Country: Syria | Location: Tadmor
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: The Islamic State raided ancient sites in Tadmor and destroyed some of its antiquities. No deaths were reported.
+
+---
+
+[EVENT: SYR23408]
+Date: 2017-01-22
+Country: Syria | Location: Deir-ez-Zor
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Allied Syrian and/or Russian Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 50
+Sources: Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Raids by the Syrian and/or Russian warplanes intensively targeted Deir ez-Zor. Reportedly killing and wounding about 100 fighters of IS. Fatalities coded as 50.
+
+---
+
+[EVENT: SYR23431]
+Date: 2017-01-23
+Country: Syria | Location: Tiba Elemam
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Jaysh al Izza [Rebel group]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+FSA Jaish Al-Izza downed this Russian surveillance drone (Orlan-10) over North Hama countryside.
+
+---
+
+[EVENT: SYR39409]
+Date: 2017-01-23
+Country: Syria | Location: Hama
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Jaysh al Izza [Rebel group]
+Actor2: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Jaish Al-Ezza downed, likely with a missile, a reconnaissance plane for the Syrian regime forces in Al-Zuwar area in northern Hama countryside east of Halfaya city.
+
+---
+
+[EVENT: SYR23485]
+Date: 2017-01-25
+Country: Syria | Location: Tiyas - Airbase
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+ISIS claimed to have shot down Russian Granat-4 unmanned aerial vehicle near Tiyas Airbase. No fatalities reported.
+
+---
+
+[EVENT: SYR23487]
+Date: 2017-01-25
+Country: Syria | Location: Wadi Barada
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Agreement: Government shelling ended on WadiBarada after meeting between Rebels, Russians and Assad government on a possible local ceasefire. No fatalities reported.
+
+---
+
+[EVENT: SYR1653]
+Date: 2017-01-27
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: Turkish military opened fire with light and medium weaponry on the Muzarah area of the eastern countryside of Qamishli near Malkiyyeh. No losses were reported.
+
+---
+
+[EVENT: SYR23534]
+Date: 2017-01-28
+Country: Syria | Location: Jarablus
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: YPG: Peoples Protection Units [Rebel group]
+Actor2: Operation Euphrates Shield [Rebel group]
+Fatalities: 0
+Sources: Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Defusal: Along with the defusal of a VBIED west of the city of Jarablus, two alleged YPG fighters were captured alive in the Jarabalus area with a video having later been released showing these two people on camera admit that the 'PKK' sent them from the city of Manbij to Jarablus so they can go and detonate their VBIED.
+
+---
+
+[EVENT: SYR23530]
+Date: 2017-01-28
+Country: Syria | Location: Ein Elfijeh
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Syrian Arab army and allied militias took full control over Ein Elfijeh town after the surrender of the rebel fighters. No fatalities reported.
+
+---
+
+[EVENT: SYR23533]
+Date: 2017-01-28
+Country: Syria | Location: Jarablus
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Euphrates Shield [Rebel group]
+Actor2: YPG: Peoples Protection Units [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Weapons seizure: A vehicle containing explosives was captured, by suspected Operation Euphrates Shield fighters, west of the city of Jarablus before it was detonated. Two alleged Peoples Protection Units, referred to as 'PKK' fighters were captured, admitting in a video that the 'PKK' sent them fto target a Turkish Army convoy. No fatalities reported.
+
+---
+
+[EVENT: SYR23517]
+Date: 2017-01-28
+Country: Syria | Location: Aleppo
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Actor2: Jabhat Fateh al Sham [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Change to armed group: On 28 January 2017, a major merger was announced, forming Hayat Tahrir al Sham from several factions including Nour al-Din al-Zinki Movement, Jabhat Ansar al-Din, Liwa al-Haqq, Jaysh al Sunna and Jabhat Fateh al Sham 'Al-Nusra Front previously' among others. Coded to Aleppo city.
+
+---
+
+[EVENT: SYR23518]
+Date: 2017-01-28
+Country: Syria | Location: Aleppo
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: AAS: Ahrar al Sham [Rebel group]
+Actor2: JaS: Levant Front [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Change to armed group: Several factions including the Levant Front in Aleppo, Ashbal al Ma'ara, Fastaqim Union, Suquor al Sham and Jaysh al Islam in Idleb among others merge into Ahrar al-Sham. No fatalities reported.
+
+---
+
+[EVENT: SYR23532]
+Date: 2017-01-28
+Country: Syria | Location: Hosh al-Dawahira
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Jaysh al Islam [Rebel group]
+Actor2: Military Forces of Iran (1989-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Jaysh al Islam shot down an Iranian drone over Hosh Eldawahreh in Rural Damascus. No fatalities reported.
+
+---
+
+[EVENT: SYR34900]
+Date: 2017-01-29
+Country: Syria | Location: Deir Maqran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Displacement: Buses arrived at Deir Maqran village in Rural Damascus and began transfering rebels and their families to northern Syria.
+
+---
+
+[EVENT: SYR34902]
+Date: 2017-01-29
+Country: Syria | Location: Deir Qanun
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Displacement: Buses arrived at Deir Qanun village in Rural Damascus and began transfering rebels and their families to northern Syria.
+
+---
+
+[EVENT: SYR23561]
+Date: 2017-01-30
+Country: Syria | Location: Sarhan
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Syrian Arab army takes control over the Islamic State held town of Sarhan. No information about clashes.
+
+---
+
+[EVENT: SYR23560]
+Date: 2017-01-30
+Country: Syria | Location: Qutbiyah
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Syrian Arab army takes full control over the Islamic State held village of Qutbiyah. No information about clashes.
+
+---
+
+[EVENT: SYR23581]
+Date: 2017-02-01
+Country: Syria | Location: Ash Shurfah
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Operation Euphrates Shield [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Fighters from Operation Euphrates Shield took control over IS held village of Ash Shurfah.
+
+---
+
+[EVENT: SYR23577]
+Date: 2017-02-01
+Country: Syria | Location: Al Bab
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Al Sham Corps [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Interception: On 1 February 2017, Al Sham Corps shut down an IS drone in Al Bab area in the countryside of Aleppo.
+
+---
+
+[EVENT: SYR23594]
+Date: 2017-02-01
+Country: Syria | Location: Quneitra
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: Israeli army tanks crossed into Syrian territories through the barbed wire fence in the Golan heights of Quneitra province.
+
+---
+
+[EVENT: SYR23610]
+Date: 2017-02-02
+Country: Syria | Location: Hassani
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Operation Euphrates Shield [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Fighters from Operation Euphrates Shield took control over IS held village of Hassani.
+
+---
+
+[EVENT: SYR23600]
+Date: 2017-02-02
+Country: Syria | Location: Al'awasi
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Operation Euphrates Shield [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Fighters from Operation Euphrates Shield took control over IS held village of Al'awasi.
+
+---
+
+[EVENT: SYR23609]
+Date: 2017-02-02
+Country: Syria | Location: Gajran
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Operation Euphrates Shield [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Fighters from Operation Euphrates Shield took control over IS held village of Gajran.
+
+---
+
+[EVENT: SYR23602]
+Date: 2017-02-02
+Country: Syria | Location: Alloahjeh
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Operation Euphrates Shield [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Fighters from Operation Euphrates Shield took control over IS held village of Alloahjeh.
+
+---
+
+[EVENT: SYR23638]
+Date: 2017-02-05
+Country: Syria | Location: Aleppo - International Airport
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 1
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Non-violent activity: Reports that a Su-22 Syrian jet has crashed near the International Airport of Aleppo 'Nayrab Airbase', killing its pilot 'Colonel Basil Salah' in Aleppo.
+
+---
+
+[EVENT: SYR35015]
+Date: 2017-02-05
+Country: Syria | Location: Hama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Non-violent activity: Syrian regime forces raided and searched the houses of civilians in Kraimesh village in the southern countryside of Hama. Neither injuries nor fatalities were reported.
+
+---
+
+[EVENT: SYR2207]
+Date: 2017-02-06
+Country: Syria | Location: Sahm El Golan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: HTS, rebel forces, and Islamist militias carried out raids on civilian areas in Sahm Al-Golan. No injuries or deaths were reported.
+
+---
+
+[EVENT: SYR35032]
+Date: 2017-02-06
+Country: Syria | Location: Aidoun
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Actor2: Unidentified Military Forces [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Rebels downed, likely with a missile, an unidentified reconnaissance plane in Aydun village in the southern countryside of Hama. Neither injuries nor fatalities were reported.
+
+---
+
+[EVENT: SYR23690]
+Date: 2017-02-07
+Country: Syria | Location: Halfaya
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Liwa al Aqsa [Rebel group]
+Actor2: JSH: Free Syrian Army [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Free Syrian Army surrendering Halfaya town to Liwa al Aqsa. No clashes reported.
+
+---
+
+[EVENT: SYR23707]
+Date: 2017-02-08
+Country: Syria | Location: Ar-Raqqa
+Type: Battles > Non-state actor overtakes territory | Disorder: Political violence
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 124
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Syrian Democratic Forces Third phase of the Ar-Raqqa operation in 9 days captured 98 villages and killed 124 Islamic State fighters in total in the countryside of Ar-Raqqa.
+
+---
+
+[EVENT: SYR23757]
+Date: 2017-02-10
+Country: Syria | Location: Ar-Raqqa
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Defusal: Syrian Democratic Forces prevented one of 7 suicide attacks by Islamic State north-east of Ar-Raqqa. No information about fatalities.
+
+---
+
+[EVENT: SYR2556]
+Date: 2017-02-11
+Country: Syria | Location: Homs
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: Rebel snipers fired on areas along the Homs-Tartous road. No deaths were documented.
+
+---
+
+[EVENT: SYR23820]
+Date: 2017-02-12
+Country: Syria | Location: Kafr Zeita
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Actor2: Liwa al Aqsa [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Hayat Tahrir al-Sham took the town of Kafr Zeita after the withdrawal of Liwa al Aqsa.
+
+---
+
+[EVENT: SYR2595]
+Date: 2017-02-12
+Country: Syria | Location: Aleppo - Al-Zahraa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamist Militia (Syria) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: Islamist factions targeted Al-Zahraa neighborhood of western Aleppo city with sniper fire. There were no reported fatalities.
+
+---
+
+[EVENT: SYR23863]
+Date: 2017-02-14
+Country: Syria | Location: Hama
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Liwa al Aqsa [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 60
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Liwa al Aqsa executed between 60 and 100 Free Syrian Army rebels that they captured in northern Hama's countryside. The victimes were mainly from Jaysh al Nasr, Free Idlib Army and Furqat al-Wusta. Coded 60 fatalities conservatively.
+
+---
+
+[EVENT: SYR23854]
+Date: 2017-02-14
+Country: Syria | Location: Ar-Ra'ee
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Muntasr Billah Battalion [Political militia]
+Fatalities: 0
+Sources: Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+FSA's Muntasr Billah Battalion established a headquarters east of Ar-Ra'ee. No fatalities reported.
+
+---
+
+[EVENT: SYR23889]
+Date: 2017-02-15
+Country: Syria | Location: Jabal al-Sheikh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Militia (Pro-Government) [Political militia]
+Actor2: AAS: Ahrar al Sham [Rebel group]
+Fatalities: 50
+Sources: Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Clashes between Ahrar al-Sham and the Syrian Army in Jabal al-Sheikh area, Ahrar al-Sham claim to have killed 50 pro-government militia soldiers.
+
+---
+
+[EVENT: SYR23896]
+Date: 2017-02-15
+Country: Syria | Location: Sarmada
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Defusal: An IED was planted on the road between the towns of Sarmada and Dana in the northern countryside of Idleb was disarmed.
+
+---
+
+[EVENT: SYR48889]
+Date: 2017-02-15
+Country: Syria | Location: Aleppo
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: LaQ: Quds Brigade [Political militia]
+Fatalities: 0
+Sources: SHAAM; Undisclosed Source [Local partner-Other]
+
+DESCRIPTION:
+Around 15 February 2017 (between 15 January - 15 April), Al-Quds Brigade was stationed in several areas of Aleppo city, including Al-Furqan neighbourhood and Handarat Camp. While unknown if the Brigade is still in these exact positions, they were thought to still be based in Aleppo city as of mid 2018.
+
+---
+
+[EVENT: SYR2807]
+Date: 2017-02-17
+Country: Syria | Location: Homs - Al-Waer
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamist Militia (Syria) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: Islamist militants used snipers to fire on areas just outside of Al-Waer in Homs province. There were no reported fatalities.
+
+---
+
+[EVENT: SYR23919]
+Date: 2017-02-17
+Country: Syria | Location: Al Tabqa - Dam
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Property destruction: Islamic State started pumping water from Al-Tabqa Dam lake into Al Jer canal to flood all the villages near Kwaires Airfield.
+
+---
+
+[EVENT: SYR2892]
+Date: 2017-02-19
+Country: Syria | Location: Ma'arrat An Nu'man
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Liwa al Aqsa [Rebel group]
+Actor2: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 186
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: Jund al Aqsa (Liwa al Aqsa) organisation declared that they were holding at least 186 bodies of fighters from rebel and Islamic factions and Hayyat Tahrir Al-Sham who died in clashes in the southern countryside of Idlib.
+
+---
+
+[EVENT: SYR23985]
+Date: 2017-02-20
+Country: Syria | Location: Khan Shaykun
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Actor2: Liwa al Aqsa [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Opposition rebels gained control of Khan Shaykun as the Liwa al Aqsa convoy left for Islamic State held areas east of Hama following reported body/prisoner exchange deal with rebels. No fatalities reported.
+
+---
+
+[EVENT: SYR23991]
+Date: 2017-02-20
+Country: Syria | Location: Sarghaya
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Rebels surrender the town of Sarghaya to government forces under the agreement to deport them to Idleb.
+
+---
+
+[EVENT: SYR23988]
+Date: 2017-02-20
+Country: Syria | Location: Murak
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Liwa al Aqsa [Rebel group]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Liwa al Aqsa convoy left Murak town for Islamic State held areas east of Hama following reported body/prisoner exchange deal with rebels.
+
+---
+
+[EVENT: SYR24011]
+Date: 2017-02-21
+Country: Syria | Location: Kassar
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Defusal: Syrian Democratic Forces stopped an Islamic State VBIED suicide car attack near Kassar and caught the driver alive. SDF detonated the car later safely in the desert.
+
+---
+
+[EVENT: SYR3024]
+Date: 2017-02-21
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 1
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Detonation: HTS detonated a suicide car in Daraa al-Balad. One fatality coded for the suicide attacker.
+
+---
+
+[EVENT: SYR24025]
+Date: 2017-02-21
+Country: Syria | Location: Tassil
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Khalid ibn al Walid Army [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 110
+Sources: Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Islamic State's affiliates 'Khalid ibn al Walid Army' reportedly executed about 110 Free Syrian Army captives and a number of civilians in western Dar'a province around Tassil town, with dozens still missing.
+
+---
+
+[EVENT: SYR3112]
+Date: 2017-02-22
+Country: Syria | Location: Hama
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Liwa al Aqsa [Rebel group]
+Actor2: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Fighters of Jund al Aqsa organization and their families have gotten out of the countryside of Idlib and Hama to areas controlled by the 'Islamic State' organization in the eastern countryside of Hama, following an agreement between Jund al Aqsa (Liwa al Aqsa) organization and Hayyaat Tahrir al-Sham of which Fateh al -Sham Front is its backbone. The exit operation coincided with the start of spreading of fighters of the Islamic Turkestan Party
+
+---
+
+[EVENT: SYR3118]
+Date: 2017-02-22
+Country: Syria | Location: Idleb
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Liwa al Aqsa [Rebel group]
+Actor2: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Fighters of Jund al Aqsa organization and their families have gotten out of the countryside of Idlib and Hama to areas controlled by the 'Islamic State' organization in the eastern countryside of Hama, following an agreement between Jund al Aqsa (Liwa al Aqsa) organization and Hayyaat Tahrir al-Sham of which Fateh al -Sham Front is its backbone. The exit operation coincided with the start of spreading of fighters of the Islamic Turkestan Party
+
+---
+
+[EVENT: SYR3098]
+Date: 2017-02-22
+Country: Syria | Location: Athamiya
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: Gunfire was heard in al-A'zamia neighborhood which is taken over by regime forces, no reports of losses.
+
+---
+
+[EVENT: SYR35227]
+Date: 2017-02-23
+Country: Syria | Location: Al-Khazanat Army Fueling Base
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SNHR [Local partner-Other]
+
+DESCRIPTION:
+Mass grave: An IS mass grave, containing an unknown number of victims, was found in al Khazanat area, at a former government facility where fuel was stored, near Khan Shaikhoun city in the southern suburbs of Idlib governorate.
+
+---
+
+[EVENT: SYR3203]
+Date: 2017-02-24
+Country: Syria | Location: Damascus
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Government of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Agreement: A round of unsuccessful negotiations took place in Damascus city between the regime's authorities and those in charge of the neighborhoods of Teshreen, Barza and Qaboun at the eastern outskirts of the city to reach a 'reconciliation and settlement of situations' in these areas.
+
+---
+
+[EVENT: SYR39553]
+Date: 2017-02-24
+Country: Syria | Location: Taloul al-Humr
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Non-violent activity: Syrian regime forces targeted Taloul al-Humr village in Hama with heavy machine gun artillery. Neither injuries nor fatalities were reported.
+
+---
+
+[EVENT: SYR3227]
+Date: 2017-02-24
+Country: Syria | Location: Tartous
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: A large explosion has been heard in southern Tartous, likely caused by a sound grenade exploded on a bridge in the area. No reports of injuries or fatalities.
+
+---
+
+[EVENT: SYR24090]
+Date: 2017-02-24
+Country: Syria | Location: Sosyan
+Type: Explosions/Remote violence > Suicide bomb | Disorder: Political violence
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: JSH: Free Syrian Army [Rebel group]
+Fatalities: 85
+Sources: Liveuamap; SNHR; SOHR; Twitter [Local partner-Other]
+
+DESCRIPTION:
+On 24 February 2017, 2 Islamic State SVBIEDs targeting the Free Syrian Army and civilians was detonated in Sosyan village in Aleppo governorate. As a result, 85 individuals were killed including the operatives, several were injured and a school was partially damaged. 85 fatalities.
+
+---
+
+[EVENT: SYR39554]
+Date: 2017-02-25
+Country: Syria | Location: Hama
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 1
+Sources: SNHR [Local partner-Other]
+
+DESCRIPTION:
+Detonation: A mine under preparation for being planted exploded and killed the opposition fighter attempting to plant it in Hama province.
+
+---
+
+[EVENT: SYR3433]
+Date: 2017-02-27
+Country: Syria | Location: Menbij
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+movement of forces: American forces working in the U.S led coalition sent fighters and vehicles around Menbej area in areas controlled by the military council of Menbej in the northern eastern countryside of Aleppo, After IS forces retreated from the city.
+
+---
+
+[EVENT: SYR3404]
+Date: 2017-02-27
+Country: Syria | Location: Jeb Sultan
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Operation Euphrates Shield [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+IS withdrew its members from 23 villages located to the west of the area between the villages of Jeb Sultan and Abu Mandil in Aleppo in battles with the Euphrates Shield forces. No reports on casualties.
+
+---
+
+[EVENT: SYR3351]
+Date: 2017-02-27
+Country: Syria | Location: Abu Mandil
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Operation Euphrates Shield [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+IS withdrew its members from 23 villages located to the west of the area between the villages of Jeb Sultan and Abu Mandil in Aleppo in battles with the Euphrates Shield forces. No reports on casualties.
+
+---
+
+[EVENT: SYR3480]
+Date: 2017-02-28
+Country: Syria | Location: Tadmor
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 1
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Detonation: IS targeted an area near Tadmur in Homs with a suicide car. One fatality coded for the suicide attacker.
+
+---
+
+[EVENT: SYR24234]
+Date: 2017-03-02
+Country: Syria | Location: Menbij
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Syrian Democratic Forces handover the western front of Menbij to Syrian government forces, in pretext of protecting the civilians, under a joint agreement which includes large territorial areas.
+
+---
+
+[EVENT: SYR24299]
+Date: 2017-03-06
+Country: Syria | Location: Ar-Raqqa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Non-violent activity: US-backed forces, suspected to be the Syrian Democratic forces from the Euphrates Wrath operation, cut key supply route to Ar-Raqqa.
+
+---
+
+[EVENT: SYR3714]
+Date: 2017-03-07
+Country: Syria | Location: Homs
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Agreement: A ceasefire agreement was made between the negotiating committee in al-Wa'er and a Russian delegation in the Wa'er neighborhood in the city of Homs.
+
+---
+
+[EVENT: SYR3797]
+Date: 2017-03-08
+Country: Syria | Location: Jabal al-Zawiya
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Actor2: AAS: Ahrar al Sham [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Agreement: After intense clashes, an agreement was reached between Hayyaat Tahrir al-Sham and Ahrar al-Sham in Jabal al-Zawiyah to withdraw armed manifestations from the area and release detainees.
+
+---
+
+[EVENT: SYR24347]
+Date: 2017-03-08
+Country: Syria | Location: Ar-Raqqa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: United States Marines were deployed and arrived in Ar-Raqqa in order to assist artillery shelling of Islamic State positions. No fatalities reported.
+
+---
+
+[EVENT: SYR24358]
+Date: 2017-03-08
+Country: Syria | Location: Menbij
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: Syrian Government forces entered Syrian Democratic Forces and Peoples Protection Units controlled territory heading towards west Manbij.
+
+---
+
+[EVENT: SYR24374]
+Date: 2017-03-09
+Country: Syria | Location: Bughaz
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Euphrates Shield [Rebel group]
+Actor2: YPG: Peoples Protection Units [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Defusal: Operation Euphrates Shield destroyed a remote controlled VBIED for the Peoples Protection Units in Bugas. No reported casualties.
+
+---
+
+[EVENT: SYR24386]
+Date: 2017-03-10
+Country: Syria | Location: Al-Rashdeen
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: JSH: Free Syrian Army [Rebel group]
+Actor2: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Free Syrian Army Division 23 downed a drone Dji Phantom over Al-Rashdeen used by pro-Government forces. No reported casualties.
+
+---
+
+[EVENT: SYR24404]
+Date: 2017-03-10
+Country: Syria | Location: Menbij
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Actor2: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: Russian Military Police with the Syrian Arab Army entered areas west of Menbij in an agreement with the Syrian Democratic Forces to hand out the control of these areas. No fatalities reported.
+
+---
+
+[EVENT: SYR24381]
+Date: 2017-03-10
+Country: Syria | Location: Afrin
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: JaT: Army of Revolutionaries [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Agreement: Army of Revolutionaries released 80 Euphrates Shield rebels that had been imprisoned in Afrin areas.
+
+---
+
+[EVENT: SYR3969]
+Date: 2017-03-11
+Country: Syria | Location: Damascus - Al-Shaghour
+Type: Explosions/Remote violence > Remote explosive/landmine/IED | Disorder: Political violence
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Militia (Pro-Government) [Political militia]
+Fatalities: 59
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Two explosions of unknown origin hit Shaghour area in the centre of the capital Damascus,where 47 visitors and most of them are of Iraqi nationality were killed, in addition to 12 members of the gunmen loyal to the Syrian regime.
+
+---
+
+[EVENT: SYR24425]
+Date: 2017-03-11
+Country: Syria | Location: Sarin
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+US estabished and air base near Sarrin
+
+---
+
+[EVENT: SYR4009]
+Date: 2017-03-12
+Country: Syria | Location: Damascus
+Type: Explosions/Remote violence > Suicide bomb | Disorder: Political violence
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 55
+Sources: SOHR [Other]
+
+DESCRIPTION:
+In addition to an IED explosion from an unidentified group, an unidentified suicide vehicle exploded in the Bab Sgheer Cemetery area of Shaghour at the center of Damascus city, killing 54 civilians
+
+---
+
+[EVENT: SYR4064]
+Date: 2017-03-13
+Country: Syria | Location: Afrin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: Turkish military forces opened fire on the Jaqlah village near Afrin. No deaths were reported.
+
+---
+
+[EVENT: SYR4174]
+Date: 2017-03-15
+Country: Syria | Location: Al-Hussainiyah
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Islamic state has taken the building of Agriculture College in Al-Hussainiyah village as a headquarters.
+
+---
+
+[EVENT: SYR4376]
+Date: 2017-03-19
+Country: Syria | Location: Homs - Al-Waer
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Displacement: A convoy carrying 2000 civilians and rebel fighters arrived in Idlib city from the Al-Waer neighborhood of Homs as part of a ceasefire agreement.
+
+---
+
+[EVENT: SYR4400]
+Date: 2017-03-20
+Country: Syria | Location: Damascus - Sarouja
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 72
+Sources: SNHR; SOHR [Local partner-Other]
+
+DESCRIPTION:
+Regime forces and loyalist militias managed to regain territory between Jobar district and Al-Abbasiyin area in the Sarouja district of Damascus city in clashes with Hayat Tahrir al-Sham, Ahrar al-Sham, and Rahman Corp. The clashes were accompanied by heavy artillery and airstrikes, which resulted in 34 rebel deaths and 38 regime fatalities.
+
+---
+
+[EVENT: SYR4388]
+Date: 2017-03-20
+Country: Syria | Location: Afrin
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Russian special forces and armored vehicles entered Arfin province as part of an agreement with local Kurdish forces whose aim is to establish a Russian military base that will serve as a buffer between Turkish and Kurdish forces in addition to training the latter.
+
+---
+
+[EVENT: SYR24552]
+Date: 2017-03-21
+Country: Syria | Location: Suran
+Type: Battles > Non-state actor overtakes territory | Disorder: Political violence
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Actor2: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 81
+Sources: Liveuamap; SHAAM; Twitter [Local partner-New media]
+
+DESCRIPTION:
+HTS targeted Syrian regime positions in Suran of Hama with Grad rockets and artillery. In addition, HTS targeted Syrian regime forces Al-Makateb checkpoint in Suran by a SVBIED. HTS later controlled the town and captured three tanks, with information about 80 fatalities. One additional fatality coded for the suicide attacker.
+
+---
+
+[EVENT: SYR4525]
+Date: 2017-03-22
+Country: Syria | Location: Krein
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+US Special Forces, supporting QSD forces, made a parachute landing into the city of Krein which was held by the Islamic State.
+
+---
+
+[EVENT: SYR35683]
+Date: 2017-03-23
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: YPG: Peoples Protection Units [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+YPG occupied houses of civilians and turned them into military HQs Al-Khatuniyeh Lake area in Al-Hasakeh.
+
+---
+
+[EVENT: SYR48923]
+Date: 2017-03-23
+Country: Syria | Location: Muhradah
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 5th Assault Corps [State forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On 23 March 2017, 5th Corps forces of the Syrian Arab Army were stationed around Mhardeh in northern Hama. The base was active by July 2018.
+
+---
+
+[EVENT: SYR35684]
+Date: 2017-03-23
+Country: Syria | Location: Hole
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: YPG: Peoples Protection Units [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+YPG occupied houses of civilians and turned them into military HQs in Hole area in Al-Hasakeh. Neither injuries nor fatalities reported.
+
+---
+
+[EVENT: SYR24589]
+Date: 2017-03-24
+Country: Syria | Location: Damascus - Jobar
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 1
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Detonation: HTS targeted Jobar by SVBIED. One fatality coded for the suicide bomber.
+
+---
+
+[EVENT: SYR4659]
+Date: 2017-03-25
+Country: Syria | Location: Maghir
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: AAS: Ahrar al Sham [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+The Islamic movement of Ahrar al-Sham, Jaysh al Nasr, Ajnad al-Sham, Jaysh al-Nukhba, Al Sham Corps and Al Wosta Division withdrew from the areas of Bridij, al-Shakr, and al-Moghir which they had advanced on the day before. No information about casualties.
+
+---
+
+[EVENT: SYR4629]
+Date: 2017-03-25
+Country: Syria | Location: Braideej
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: AAS: Ahrar al Sham [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent transfer of territory: The Islamic movement of Ahrar al-Sham, Jaysh al Nasr, Ajnad al-Sham, Jaysh al-Nukhba, Al Sham Corps and Al Wosta Division withdrew from the areas of Bridij, al-Shakr, and al-Moghir which they had advanced on the day before. No information about casualties.
+
+---
+
+[EVENT: SYR35715]
+Date: 2017-03-25
+Country: Syria | Location: Ali Kasun
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 2
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Detonation: Two Syrian regime members were killed in Ali Kason village in Hama when their car, which was carrying ammunition, exploded.
+
+---
+
+[EVENT: SYR4667]
+Date: 2017-03-25
+Country: Syria | Location: Tadaf
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Regime forces pulled out from the city of Tadaf a month after capturing it. The source notes that it is unclear whether the city is empty or has been retaken by rebel forces.
+
+---
+
+[EVENT: SYR4736]
+Date: 2017-03-27
+Country: Syria | Location: Homs - Al-Waer
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Displacement: The second batch of Syrians left al-Wa'er as part of surrender agreement between the regime and rebels. The displaced persons, which included rebel fighters, boarded buses bound for Jarablus.
+
+---
+
+[EVENT: SYR35751]
+Date: 2017-03-27
+Country: Syria | Location: Majdal
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Rebels downed, likely with a missile, an unidentified reconnaissance plane in Majdal village in Hama. Neither injuries nor fatalities were reported.
+
+---
+
+[EVENT: SYR24657]
+Date: 2017-03-29
+Country: Syria | Location: Jablah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Allied Syrian and/or Russian Forces [State forces]
+Actor2: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Interception: Hayat Tahrir al-Sham launched missiles targeting Jableh, and the Russian and Syrian air defence intercepted the attack.
+
+---
+
+[EVENT: SYR4865]
+Date: 2017-03-30
+Country: Syria | Location: Qamhana
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: AAS: Ahrar al Sham [Rebel group]
+Fatalities: 50
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Regime forces clashed with Ahrar al-Sham and other rebel fighters in battles centered around Qamhana, specifically in the villages of Azrar and Zowarand the Bredj and Maghir areas. Coded location to Qamhana with geoprecision 2 to account for the smaller clashes that made up the battle centered on Qamhana. Casualties were reported on both sides and the battle was accompanied by regime airstrikes on the aforementioned town as well as Latamina which itself resulted in 50 fatalities.

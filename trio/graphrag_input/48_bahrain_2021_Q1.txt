@@ -1,0 +1,45 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Bahrain (ISO Code: 48)
+Temporal Period: Year 2021 - Quarter Q1
+Total Events in Chunk: 3 / 3
+==================================================
+
+[EVENT: BHR9176]
+Date: 2021-02-03
+Country: Bahrain | Location: Manama - Alnaim
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Bahrain) [Political militia]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: The National [International]
+
+DESCRIPTION:
+Defusal: On 3 February 2021, security authorities defused two explosives at ATMs in Jidd Hafs (Capital) and Alnaim (Capital). The motive behind the attempted bombings is not known, but authorities are treating them as acts of terrorism.
+
+---
+
+[EVENT: BHR9175]
+Date: 2021-02-03
+Country: Bahrain | Location: Jidd Hafs
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Bahrain) [Political militia]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: The National [International]
+
+DESCRIPTION:
+Defusal: On 3 February 2021, security authorities defused two explosives at ATMs in Jidd Hafs (Capital) and Alnaim (Capital). The motive behind the attempted bombings is not known, but authorities are treating them as acts of terrorism.
+
+---
+
+[EVENT: BHR9196]
+Date: 2021-02-14
+Country: Bahrain | Location: Manama - Juffair
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Movement of forces: On 14 February 2021, Bahrain security forces deployed near the US military base in Juffair (Capital) in anticipation of protest activities on the 10th anniversary of the 14 February revolution.

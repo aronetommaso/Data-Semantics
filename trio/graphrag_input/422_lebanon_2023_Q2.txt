@@ -1,0 +1,3205 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Lebanon (ISO Code: 422)
+Temporal Period: Year 2023 - Quarter Q2
+Total Events in Chunk: 240 / 240
+==================================================
+
+[EVENT: LBN33732]
+Date: 2023-04-02
+Country: Lebanon | Location: Taalabaya
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 2 April 2023, armed clashes erupted between members of an unidentified clan militia in Taalabaya plains (Zahle), over unknown reasons. Casualties unknown.
+
+---
+
+[EVENT: LBN14696]
+Date: 2023-04-02
+Country: Lebanon | Location: Al Hermel
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Hamadah Clan Militia (Lebanon) [Identity militia]
+Actor2: Hamadah Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24; Murr TV [National]
+
+DESCRIPTION:
+On 2 April 2023, scuffles turned into exchange of fire between Hamadah clansmen in Al Hermel (Al Hermel), over unknown reasons. Casualties unknown. The army later deployed to contain the clashes.
+
+---
+
+[EVENT: LBN14699]
+Date: 2023-04-03
+Country: Lebanon | Location: Laylaki
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 3 April 2023, scuffles turned into exchange of fire presumably between clansmen in Laylaki (Baabda) over unknown reasons. Casualties unknown. Several armed clashes have erupted at the same location in the past few days.
+
+---
+
+[EVENT: LBN14697]
+Date: 2023-04-03
+Country: Lebanon | Location: Tripoli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 3 April 2023, protesters including dialysis patients, and unionists from the CGTL, held a protest outside the Mounla Hospital in Tripoli (Tripoli), against the price increase of a dialysis session to 20 dollars.
+
+---
+
+[EVENT: LBN14701]
+Date: 2023-04-03
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 3 April 2023, protesters including journalists and independent MPs, held a protest outside Justice Palace in Beirut - Achrafieh (Beirut), in support of a Megaphone News journalist who was summoned to court.
+
+---
+
+[EVENT: LBN14698]
+Date: 2023-04-03
+Country: Lebanon | Location: Nabatiye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 3 April 2023, protesters including social security employees, held a protest in Nabatiye (Al Nabatieh) against worsening living and economic conditions, and against the disbursement of their salaries at the Sayrafa rate.
+
+---
+
+[EVENT: LBN14700]
+Date: 2023-04-03
+Country: Lebanon | Location: Beirut - Mousseitbeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 3 April 2023, protesters including public school teachers, students and their parents, held a demonstration outside the Ministry of Education in Beirut - Mousseitbeh (Beirut), against the government's neglect of teachers' demands for a salary correction and medical insurance.
+
+---
+
+[EVENT: LBN33733]
+Date: 2023-04-03
+Country: Lebanon | Location: Braytal
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Ismail Clan Militia (Lebanon) [Identity militia]
+Actor2: Ismail Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 3 April 2023, scuffles turned into exchange of fire between Al Ismail clansmen in Braytal (Baalbek) over unknown reasons. Casualties unknown. The army later deployed to the area to arrest the perpetrators.
+
+---
+
+[EVENT: LBN14703]
+Date: 2023-04-04
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 4 April 2023, 2 separate groups of families of the Beirut Port Blast victims, held 2 separate sit-ins, the first outside gate 3 and the second at the immigrant statue in Beirut - Port (Beirut). Both groups demanded justice and accountability, and the resumption of the Beirut Port Blast case without political intervention.
+
+---
+
+[EVENT: LBN14702]
+Date: 2023-04-04
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 4 April 2023, protesters including gas station owners and unionists, held a protest outside the Ministry of Energy at Corniche Nahr in Beirut - Achrafieh (Beirut), to demand the dollarization of fuel prices.
+
+---
+
+[EVENT: LBN14712]
+Date: 2023-04-06
+Country: Lebanon | Location: Ez Zahrani
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Police Forces of Lebanon (2021-) [State forces]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 6 April 2023, physical clashes erupted between locals from nearby towns and police forces near Ez Zahrani (Sayda), after the police patrol was dispatched to remove illegally constructed buildings on public properties.
+
+---
+
+[EVENT: LBN14708]
+Date: 2023-04-06
+Country: Lebanon | Location: Zebqine
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 6 April 2023, Israeli military forces used heavy artillery to shell Zebqine (Tyr), in retaliation of a rocket attack towards Israel from around this location. There were no casualties.
+
+---
+
+[EVENT: LBN14704]
+Date: 2023-04-06
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 6 April 2023, protesters including public sector, army, police and university retirees, held a protest at Riad Solh square in Beirut - Port (Beirut) to demand a correction of their salaries.
+
+---
+
+[EVENT: LBN14706]
+Date: 2023-04-06
+Country: Lebanon | Location: Baalbek
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Zaiter Clan Militia (Lebanon) [Identity militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 2
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 6 April 2023, an armed individual presumably from Zaiter clan opened fire towards presumably 2 Zaiter clansmen siblings at Sharawneh neighborhood in Baalbek (Baalbek) over unknown reasons. The 2 siblings were killed.
+
+---
+
+[EVENT: LBN14705]
+Date: 2023-04-06
+Country: Lebanon | Location: Qlaileh
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 6 April 2023, Israeli military forces used heavy artillery to shell the outskirts of Qlaileh (Tyr), in retaliation of a rocket attack towards Israel from around this location. There were no casualties.
+
+---
+
+[EVENT: LBN20739]
+Date: 2023-04-06
+Country: Lebanon | Location: Furn el Chebbak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Akhbar al Saha [New media]
+
+DESCRIPTION:
+On 6 April 2023, protesters held a demonstration outside the Cybercrime office in Furn el Chebbak (Baabda), in support of a journalist who was summoned after a lawsuit was filed by the Lebanese Forces.
+
+---
+
+[EVENT: LBN14707]
+Date: 2023-04-06
+Country: Lebanon | Location: Maaliyeh
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 6 April 2023, Israeli military forces used heavy artillery to shell Maaliyeh (Tyr), in retaliation of a rocket attack towards Israel from around this location. There were no casualties.
+
+---
+
+[EVENT: LBN14709]
+Date: 2023-04-07
+Country: Lebanon | Location: Maaliyeh
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: AlManar TV; El Nashra; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 7 April 2023, at dawn, Israeli military forces conducted an airstrike that hit a civilian house in Maaliyeh (Tyr). There were no casualties. The event was part of a series of airstrikes conducted by the Israeli military against Hamas sites in the region, in retaliation against the rocket launching from Lebanon towards Israel earlier.
+
+---
+
+[EVENT: LBN14711]
+Date: 2023-04-07
+Country: Lebanon | Location: Qobet Chamra
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 7 April 2023, potato farmers held a protest at the marketplace in Qobet Chamra (Akkar), against the government's decision to allow Egyptian potato imports.
+
+---
+
+[EVENT: LBN14715]
+Date: 2023-04-07
+Country: Lebanon | Location: Bar Elias
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 7 April 2023, protesters including townspeople and members of the Qawlouna wal Aamal group, held a protest after Friday prayers in Bar Elias (Zahle) to condemn Israeli aggression towards Palestinians, and especially worshippers in Al Aqsa mosque.
+
+---
+
+[EVENT: LBN14713]
+Date: 2023-04-07
+Country: Lebanon | Location: Nahr el Bared
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 7 April 2023, Palestinian factions held a demonstration in Nahr el Bared refugee camp (Akkar), where they burned the Israeli flag, to condemn Israeli aggression towards Palestinians, and especially worshippers in Al Aqsa mosque.
+
+---
+
+[EVENT: LBN14714]
+Date: 2023-04-07
+Country: Lebanon | Location: Beddawi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 7 April 2023, Palestinian factions held a demonstration in Beddawi refugee camp (Al Miniyeh Al Danniyeh), where they burned the Israeli flag, to condemn Israeli aggression towards Palestinians, and especially worshippers in Al Aqsa mosque.
+
+---
+
+[EVENT: LBN14710]
+Date: 2023-04-07
+Country: Lebanon | Location: Er Rachidiye
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: AlManar TV; An-Nahar; El Nashra; Naharnet; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 7 April 2023, at dawn, Israeli military forces conducted 2 airstrikes near Er Rachidiye refugee camp (Tyr) damaging several houses and farmlands. There were no casualties. The event was part of a series of airstrikes against Hamas sites conducted by the Israeli military in retaliation against the rocket launching from Lebanon towards Israel earlier.
+
+---
+
+[EVENT: LBN14722]
+Date: 2023-04-08
+Country: Lebanon | Location: Qlaileh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2021-) [State forces]
+Actor2: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Weapons seizure: On 8 April 2023, the Lebanese army seized several rocket launching platforms and rockets in the Qlaileh plains (Tyr), that were intended to launch towards Israel as part of last week's strikes. There are conflicting reports that the rockets belong to Hamas and that the group was responsible for last week's rocket attacks on Israel from Lebanon.
+
+---
+
+[EVENT: LBN14718]
+Date: 2023-04-09
+Country: Lebanon | Location: Bkeftine
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Communal Militia (Lebanon) [Identity militia]
+Actor2: Arab Ethnic Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: El Nashra; Murr TV; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 April 2023, physical scuffles turned into armed clashes between al Ookaybe communal militia and Arab ethnic militiamen in Bkeftine (Al Kura) over unknown reasons. 4 individuals from both sides were injured during the clashes. The army later deployed to contain the clashes.
+
+---
+
+[EVENT: LBN14716]
+Date: 2023-04-09
+Country: Lebanon | Location: Al Tal
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 April 2023, a large crowd of protesters, including popular, social and political factions, held a sit-in at Jamal Abdel Nasser square in Al Tal (Tripoli), in support of the Palestinian people against Israeli aggression, especially against worshippers in Al Aqsa Mosque. Representatives from FENASOL, Fatah, and the Dignity movement were in attendance.
+
+---
+
+[EVENT: LBN14723]
+Date: 2023-04-10
+Country: Lebanon | Location: Tfail
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Tfail Communal Militia (Lebanon) [Identity militia]
+Actor2: Private Security Forces (Lebanon) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 10 April 2023, armed clashes erupted between residents from Tfail village and private security forces from Caesar group in Tfail (Baalbek), over summer season cultivations in disputed lands belonging to the Central Bank. Casualties unknown. The army later deployed to contain the clashes.
+
+---
+
+[EVENT: LBN14717]
+Date: 2023-04-12
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Strikes: On 12 April 2023, the union of EDL workers and employees, announced the start of a nationwide strike, in protest against the Ministry of Finance's refusal to provide EDL workers with electricity bills discounts. Coded to Beirut.
+
+---
+
+[EVENT: LBN14720]
+Date: 2023-04-14
+Country: Lebanon | Location: Houla
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Naharnet; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 14 April 2023, between 50 and 60 Hezbollah supporters hurled stones towards Israeli border guards who responded by firing stun guns and smoke grenades towards them near the technical fence at Houla junction (Marjayoun). Hezbollah supporters were riding motorbikes along the fence while commemorating Al Quds day, where they planted the group's flag. 1 Hezbollah supporter was injured.
+
+---
+
+[EVENT: LBN14719]
+Date: 2023-04-14
+Country: Lebanon | Location: El Qaa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 14 April 2023, protesters including locals and farmers, held a protest, and stood on the Homs road in El Qaa (Baalbek) to block it. The participants were demonstrating against recurring armed robberies against farmers and their products in the area.
+
+---
+
+[EVENT: LBN14721]
+Date: 2023-04-14
+Country: Lebanon | Location: Machgara
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 2
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 14 April 2023, unidentified clansmen, opened fire towards 2 individuals from another clan on the Ein Zarqa road near Machgara (West Bekaa), as a revenge act over old feuds between the 2 clans. Both individuals were killed. The army quickly deployed to Machgara to contain the situation.
+
+---
+
+[EVENT: LBN33734]
+Date: 2023-04-15
+Country: Lebanon | Location: Braytal
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Ismail Clan Militia (Lebanon) [Identity militia]
+Actor2: Tlais Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 15 April 2023, armed clashes erupted between Al Ismail and Tlais clan militias, where RPGs and machineguns were used in Braytal (Baalbek) over old feuds. As a result, several houses were damaged. There were no casualties.
+
+---
+
+[EVENT: LBN14729]
+Date: 2023-04-15
+Country: Lebanon | Location: Jezzine
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: An-Nahar; Lebanon24 [National]
+
+DESCRIPTION:
+On 15 April 2023, physical clashes erupted between demonstrators from Al Asmar clan group, and municipal members and employees outside the Municipal Palace in Jezzine (Jezzine). Demonstrators from Al Asmar were gathered outside the palace to oppose the establishment of a plant for composting organic waste, close to their houses.
+
+---
+
+[EVENT: LBN14725]
+Date: 2023-04-15
+Country: Lebanon | Location: Beddawi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 15 April 2023, protesters including Palestinian political and Islamic factions, and refugees, held a large rally in Beddawi refugee camp (Al Miniyeh Al Danniyeh), in support of Palestinian worshippers in Al Aqsa and against Israeli aggression towards them. The protesters were also gathered in support of Palestinian prisoners in Israeli prisons.
+
+---
+
+[EVENT: LBN14730]
+Date: 2023-04-15
+Country: Lebanon | Location: Braytal
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2021-) [State forces]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanese Army [Other]
+
+DESCRIPTION:
+Weapons seizure: On 15 April 2023, the Lebanese army raided several houses of wanted individuals presumed to belong to unidentified clan militias in Braytal (Baalbek). The army seized a machine used to produce fake dollar bills, alongside 3 weapons, ammunition and an unspecified amount of narcotics.
+
+---
+
+[EVENT: LBN14724]
+Date: 2023-04-15
+Country: Lebanon | Location: Ein el Hilweh
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Al Zubaydat Clan Militia (Palestine) [Identity militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: El Nashra; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 15 April 2023, an armed Al Zubaydat clansman opened fire from Al Briksat neighborhood towards individuals from As Safsaf neighborhood in Ein el Hilweh (Sayda), resulting in 3 injuries.
+
+---
+
+[EVENT: LBN14726]
+Date: 2023-04-15
+Country: Lebanon | Location: Burj Shemali
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 15 April 2023, Hamas movement members organized a sit-in in Burj Shemali refugee camp (Tyr), in support of Palestinian prisoners in Israeli prisons.
+
+---
+
+[EVENT: LBN14727]
+Date: 2023-04-16
+Country: Lebanon | Location: Aitaroun
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Other: On 16 April 2023, Israeli military forces hurled 2 smoke grenades towards farmers close to the border fence south of Aitaroun (Bint Jbeil). The patrol later retreated back and the farmers continued their work.
+
+---
+
+[EVENT: LBN14728]
+Date: 2023-04-16
+Country: Lebanon | Location: Bzal
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Daher Clan Militia (Lebanon) [Identity militia]
+Actor2: Al Hassan Clan Militia (Lebanon) [Identity militia]
+Fatalities: 1
+Sources: L'Orient Le Jour; Lebanon24 [National]
+
+DESCRIPTION:
+On 16 April 2023, scuffles turned into armed clashes between Daher Clan militia from one side, against Al Hassan and Al Akkari clans in Bzal (Akkar) over unknown reasons. The army quickly deployed to contain the situation. An individual who was a bystander was hit with a stray bullet during the clashes, killing him. A member of Daher clan was arrested later by the army, and is a wanted individual for weapons smuggling.
+
+---
+
+[EVENT: LBN14731]
+Date: 2023-04-17
+Country: Lebanon | Location: Al Tal
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 17 April 2023, protesters including Palestinian refugees and Muslim Sheikhs, marched the streets of Tripoli where they gathered at Al Tal square (Tripoli), in support of the Palestinian resistance, and against Israeli aggression towards Palestinians, especially worshippers in Al Aqsa mosque. The march was called on by the Islamic Resistance Current.
+
+---
+
+[EVENT: LBN33736]
+Date: 2023-04-17
+Country: Lebanon | Location: Bzal
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 17 April 2023, 6 unidentified gunmen opened fire and hurled grenades towards a cemetery, then proceeded to open fire towards individuals in Bzal (Akkar), presumably in relation to recent clashes between clan members, resulting in material damages. There were no casualties. A stray bullet hit a police patrol vehicle.
+
+---
+
+[EVENT: LBN33735]
+Date: 2023-04-17
+Country: Lebanon | Location: Bzal
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Daher Clan Militia (Lebanon) [Identity militia]
+Actor2: Al Hassan Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 17 April 2023, armed clashes renewed between Daher Clan militia from one side, against Al Hassan and Al Akkari clans in Bzal (Akkar) amid reports of the death of an individual during yesterday's clashes.
+
+---
+
+[EVENT: LBN14734]
+Date: 2023-04-18
+Country: Lebanon | Location: Bzal
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+Property destruction: On 18 April 2023, unidentified gunmen, presumed to be members of an unidentified clan militia, opened fire towards the house of the President of the Municipality in Bzal (Akkar), causing material damage. The house's windows and the car's windshield were sprayed with bullets.
+
+---
+
+[EVENT: LBN14741]
+Date: 2023-04-18
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 18 April 2023, landlords owning apartment buildings, held a protest at Riad Solh square in Beirut - Port (Beirut), to demand that the government allow them to impose higher rental prices.
+
+---
+
+[EVENT: LBN14738]
+Date: 2023-04-18
+Country: Lebanon | Location: Sidon
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 18 April 2023, protesters including, army and police retirees, public sector retirees, and public school teachers held a protest outside the government Serail in Sidon (Sayda), against the cabinet's economic policies, and to demand an increase in their salaries and transportation allowances.
+
+---
+
+[EVENT: LBN14732]
+Date: 2023-04-18
+Country: Lebanon | Location: El Aabde
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 18 April 2023, demonstrators used burning rubber tires and rocks to block the international highway at El Aabde junction (Akkar), in demonstration against the army's seizure of a boat used to transport migrants illegally.
+
+---
+
+[EVENT: LBN14740]
+Date: 2023-04-18
+Country: Lebanon | Location: Zahle
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 18 April 2023, protesters, including public sector retirees and former Lebanese University teachers, held a protest outside the government Serail in Zahle (Zahle), against the cabinet's economic policies, and to demand an increase in their salaries and the inclusion of better medical insurance and social funds.
+
+---
+
+[EVENT: LBN14735]
+Date: 2023-04-18
+Country: Lebanon | Location: Beirut - Port
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Military Forces of Lebanon (2021-) [State forces]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+On 18 April 2023, hundreds of demonstrators including public sector employees and retirees, and army and police retirees, hurled stones towards armed forces who responded by firing tear gas canisters towards them at Riad Solh square in Beirut - Port (Beirut). Hundreds of demonstrators were opposed to the Cabinet's policies and demanded higher salaries and transportation allowances. The clashes erupted when the demonstrators tried to break through the fence amid a Cabinet session. Several participants were injured including cases of suffocation from tear gas.
+
+---
+
+[EVENT: LBN14742]
+Date: 2023-04-18
+Country: Lebanon | Location: Baalbek
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 18 April 2023, protesters including, army and police retirees, and public school teachers held a protest outside the Baalbek - Hermel governorate in Baalbek (Baalbek), against the cabinet's economic policies, and to demand an increase in their salaries and social aid funds.
+
+---
+
+[EVENT: LBN14737]
+Date: 2023-04-18
+Country: Lebanon | Location: Hai Es Sellom
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 1
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 18 April 2023, scuffles turned into armed clashes between 2 unidentified clan militias in Hai Es Sellom (Aley) over old feuds. As a result, an individual was killed and several others were injured.
+
+---
+
+[EVENT: LBN14743]
+Date: 2023-04-18
+Country: Lebanon | Location: Al Hermel
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 18 April 2023, protesters including high school students and their parents, held a protest at the Hermel public high school in Al Hermel (Al Hermel), to demand the return of the teachers who are on strike.
+
+---
+
+[EVENT: LBN14739]
+Date: 2023-04-18
+Country: Lebanon | Location: Nabatiye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 18 April 2023, protesters including, army and police retirees, public sector retirees, and public school teachers held a protest outside the government Serail in Nabatiye (Al Nabatieh), against the cabinet's economic policies, and to demand an increase in their salaries and transportation allowances.
+
+---
+
+[EVENT: LBN14733]
+Date: 2023-04-19
+Country: Lebanon | Location: Khaldah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Military Forces of Lebanon (2021-) [State forces]
+Fatalities: 0
+Sources: El Nashra; Lebanon24; Naharnet [National]
+
+DESCRIPTION:
+On 19 April 2023, rioters from Arab Khaldah clan hurled stones towards soldiers, and used rocks and burning rubber tires to block the Beirut highway at Khaldah (Aley), in demonstration against the military court's ruling on the Khaldah clashes of 2021. Several Arab Khaldah clan detainees were sentenced to prison while 8 were sentenced to death. Soldiers fired shots in the air to disperse the demonstrators and open up the road. Several demonstrators were also hurling stones towards nearby restaurants, and smashed several cars while firing shots in the air.
+
+---
+
+[EVENT: LBN14736]
+Date: 2023-04-19
+Country: Lebanon | Location: Al Hermel
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 19 April 2023, scuffles turned into armed clashes between 2 unidentified clan militias in Ed Daoura neighborhood in Al Hermel (Al Hermel) over old feuds. Casualties unknown. The army later raided the area to look for the participants.
+
+---
+
+[EVENT: LBN14746]
+Date: 2023-04-19
+Country: Lebanon | Location: Beddawi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 19 April 2023, Palestinian refugee protesters, held a protest in Beddawi refugee camp (Al Miniyeh Al Danniyeh), in support of Palestinian prisoners in Israeli prisons, and in support of the Palestinian Resistance against Israeli aggression.
+
+---
+
+[EVENT: LBN33737]
+Date: 2023-04-20
+Country: Lebanon | Location: Qobet Chamra
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Dandash Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 20 April 2023, scuffles between a Dandash clansman and a Syrian, turned into armed clashes between the clan and an unidentified Syrian armed group in Qobet Chamra (Akkar) over unknown reasons. There were no casualties. Several houses and cars were hit by stray bullets. The army later deployed to contain the clashes and chase the participants.
+
+---
+
+[EVENT: LBN14747]
+Date: 2023-04-20
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+On 20 April 2023, protesters including activists, held a demonstration outside Justice Palace in Beirut - Achrafieh (Beirut), against the Beirut Bar Association's decision to summon a lawyer over comments he made.
+
+---
+
+[EVENT: LBN14744]
+Date: 2023-04-20
+Country: Lebanon | Location: Qalamoun
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 1
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 20 April 2023, gunmen presumed as members of an Arab clan militia, opened fire towards an individual likely from another Arab ethnic clan in Qalamoun (Tripoli), and killed him. Several reports have cited that the killing is a revenge act over old feuds between the 2 Arab families. The same individual had also been attacked and shot in the past in Balamand without being injured.
+
+---
+
+[EVENT: LBN14748]
+Date: 2023-04-20
+Country: Lebanon | Location: Khaldah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Military Forces of Lebanon (2021-) [State forces]
+Fatalities: 0
+Sources: El Nashra; Lebanon24 [National]
+
+DESCRIPTION:
+On 20 April 2023, demonstrators presumably members of Arab Khaldah clan, used burning rubber tires to block the main road in Khaldah (Aley), likely in demonstration against the latest military court ruling on the Khaldah clashes, which sentenced several members of the clan with prison or execution. Several demonstrators fired shots in the air, as the army deployed to open up the road.
+
+---
+
+[EVENT: LBN14745]
+Date: 2023-04-20
+Country: Lebanon | Location: Abi Samra
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Nashar Clan Militia (Lebanon) [Identity militia]
+Actor2: Al Harash Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 20 April 2023, armed clashes erupted between Nashar clan militia, and Al Harash clan militia at Al Rifaaiya neighborhood in Abi Samra (Tripoli) over unknown reasons. Casualties unknown. The army later deployed to contain the clashes. Several reports cited that the army arrested 6 participants during their raids.
+
+---
+
+[EVENT: LBN33738]
+Date: 2023-04-21
+Country: Lebanon | Location: Bzal
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Al Hassan Clan Militia (Lebanon) [Identity militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 21 April 2023, a gunman from Al Hassan clan, opened fire towards the houses of two Moussa clansmen in Bzal (Akkar), over clashes that happened several days ago. The bullets caused material damages.
+
+---
+
+[EVENT: LBN14749]
+Date: 2023-04-22
+Country: Lebanon | Location: Beit Chabeb
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: SSNP: Syrian Social Nationalist Party [Political militia]
+Actor2: SSNP: Syrian Social Nationalist Party [Political militia]
+Fatalities: 0
+Sources: L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 22 April 2023, armed clashes erupted between 2 rival group branches of the SSNP in Lebanon in Beit Chabeb (Al Matn) following the ransacking of the SSNP office in the town by armed men from the SSNP branch that is loyal to the former head of the party. There were no casualties. The SSNP is divided into 2 rival branches, the first is composed from loyalists of the former head of the SSNP, while the second is formed by supporters of the current head of the SSNP.
+
+---
+
+[EVENT: LBN14751]
+Date: 2023-04-22
+Country: Lebanon | Location: Beit Zoud
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 22 April 2023, physical clashes erupted presumably between rioters from rival clans, during which knives were used in Beit Zoud (Al Miniyeh Al Danniyeh) over land ownership disputes.
+
+---
+
+[EVENT: LBN14750]
+Date: 2023-04-23
+Country: Lebanon | Location: Beit Zoud
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: L'Orient Le Jour; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 23 April 2023, physical clashes renewed presumably between rioters from rival clans, during which knives were used in Beit Zoud (Al Miniyeh Al Danniyeh) over land ownership disputes. 4 individuals were critically injured.
+
+---
+
+[EVENT: LBN33739]
+Date: 2023-04-23
+Country: Lebanon | Location: Al Hermel
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hajj Hassan Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 23 April 2023, members of the Hajj Hassan clan militia fired 2 RPG rockets towards an unspecified location in Al Hermel area (Al Hermel), over a shooting incident that targeted a clansman at a nearby army checkpoint. There were no casualties.
+
+---
+
+[EVENT: LBN14757]
+Date: 2023-04-25
+Country: Lebanon | Location: Blat
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 25 April 2023, former employees of the Spanish Unit headquarters, held a protest outside the headquarters' main gate at the Blat plains (Marjayoun), against the recruitment company's mistreatment of employees, the arbitrary expulsion of a large number of them, and the replacement of employees from Hasbaya and Marjeyoun with employees from other areas of Lebanon.
+
+---
+
+[EVENT: LBN14756]
+Date: 2023-04-25
+Country: Lebanon | Location: Haret Hreik
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 25 April 2023, armed clashes erupted, presumably between unidentified clan militias in Haret Hreik (Baabda), over unknown reasons. An individual was injured.
+
+---
+
+[EVENT: LBN14752]
+Date: 2023-04-25
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Lebanon (2021-) [State forces]
+Fatalities: 0
+Sources: L'Orient Le Jour [National]
+
+DESCRIPTION:
+Security measures: On 25 April 2023, the interim Minister of Interior issued an urgent decision to forbid demonstrations by Syrian refugees and counter-demonstrations following calls by Syrian refugees to demonstrate outside the UNHCR the following day. Coded to Beirut.
+
+---
+
+[EVENT: LBN14753]
+Date: 2023-04-25
+Country: Lebanon | Location: Burj Shemali
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Police Forces of Lebanon (2021-) [State forces]
+Fatalities: 0
+Sources: El Nashra; L'Orient Le Jour; Murr TV [National]
+
+DESCRIPTION:
+On 25 April 2023, physical clashes erupted between police forces and locals during a demonstration in Burj Shemali (Tyr), to prevent security forces from removing and stopping an illegal construction in the area. The locals were demonstrating and blocking the main road in the town with burning rubber tires to prevent security forces from reaching the construction site. Police forces opened fire in the air to disperse the demonstrators during the clashes.
+
+---
+
+[EVENT: LBN14758]
+Date: 2023-04-25
+Country: Lebanon | Location: El Mina
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 25 April 2023, students of the Beirut Arab University, held a protest outside its campus in El Mina (Tripoli), against the administration's decision to dollarize and increase tuition fees amid worsening living and economic conditions.
+
+---
+
+[EVENT: LBN14759]
+Date: 2023-04-26
+Country: Lebanon | Location: Qlayaa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+On 26 April 2023, townspeople held a demonstration in Qlayaa (Marjayoun), in support of a municipal police officer who was assaulted by a Syrian individual. The demonstrators headed towards the relatives and the family of the Syrian individual to kick them out from their homes but they had already left.
+
+---
+
+[EVENT: LBN33740]
+Date: 2023-04-26
+Country: Lebanon | Location: Bebnine
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 26 April 2023, physical clashes erupted between 2 unidentified clans, during which shots were fired in the air in Bebnine (Akkar) over old disputes.
+
+---
+
+[EVENT: LBN14761]
+Date: 2023-04-26
+Country: Lebanon | Location: Chouaifat
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Zaiter Clan Militia (Lebanon) [Identity militia]
+Actor2: Msheik Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 26 April 2023, armed clashes erupted between Zaiter, and Msheik clan militias in Chouaifat (Aley), over unknown reasons. Casualties unknown.
+
+---
+
+[EVENT: LBN14755]
+Date: 2023-04-27
+Country: Lebanon | Location: Beirut - Mousseitbeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 27 April 2023, dozens of army and police retirees, held a protest outside the Ministry of Interior at Sanayeh neighborhood in Beirut - Mousseitbeh (Beirut), to demand fuel coupons which they usually receive as part of their pensions.
+
+---
+
+[EVENT: LBN14754]
+Date: 2023-04-27
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 27 April 2023, relatives of the Beirut Port blast firefighter victims, held a protest outside Justice Palace in Beirut - Achrafieh (Beirut), to demand the resumption of the Beirut Port Blast case.
+
+---
+
+[EVENT: LBN14760]
+Date: 2023-04-27
+Country: Lebanon | Location: Tripoli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 27 April 2023, employees from the Al Rassi hospital in Halba, held a protest outside a bank branch in Tripoli (Tripoli), against that bank's closure of their accounts, which prevented them from obtaining their salaries at the Sayrafa 'exchange' rate.
+
+---
+
+[EVENT: LBN14762]
+Date: 2023-04-27
+Country: Lebanon | Location: Al Hadath
+Type: Explosions/Remote violence > Remote explosive/landmine/IED | Disorder: Political violence
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 1
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 27 April 2023, an explosive device accidentally exploded in the apartment of a wanted individual who assembles explosives in Al Jamous neighborhood in Al Hadath (Baabda), resulting in the death of his aunt and the injury of another individual. An explosion happened at the same house formerly, and the wanted individual was arrested for assembling explosive devices. The explosion happened 2 days after the family was given the house back. It is unclear what exactly caused the explosion, or why it occurred.
+
+---
+
+[EVENT: LBN14764]
+Date: 2023-04-28
+Country: Lebanon | Location: Bohssas
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 28 April 2023, protesters presumably stood on both sides of the Tripoli highway in Bohssas (Al Kura) to block it, in protest against the arrest of 4 individuals. The protesters demanded their immediate release.
+
+---
+
+[EVENT: LBN14763]
+Date: 2023-04-28
+Country: Lebanon | Location: Tripoli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 28 April 2023, supporters of Hizb Ettahrir, held a demonstration outside the government serail in Tripoli (Tripoli), in support of Syrian refugees in Lebanon.
+
+---
+
+[EVENT: LBN14784]
+Date: 2023-04-29
+Country: Lebanon | Location: Ein el Hilweh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 29 April 2023, Palestinian national forces, unionists, popular committees, Palestinian women's offices, Palestinian civil society organizations, and crowds of workers and residents took to the streets in Ein el Hilweh (Sayda) to demonstrate. The protesters demanded that the UNRWA establish further economic projects that would ensure more job opportunities for camp residents. The demonstration was called on by Palestinian Democratic Women's Organization.
+
+---
+
+[EVENT: LBN14786]
+Date: 2023-04-29
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (International) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 29 April 2023, women foreign domestic workers, held a protest outside the National Museum in Beirut - Achrafieh (Beirut), against the Kafala system, which exposes them to physical and verbal violence.
+
+---
+
+[EVENT: LBN14785]
+Date: 2023-04-29
+Country: Lebanon | Location: Kfar Badda
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 29 April 2023, protesters including Palestinian refugees, unionists and political factions, held a demonstration in Kfar Badda (Sayda), in support of Palestinian prisoners in Israeli prisons, and to commemorate Labor Day. Representatives and officials from Fatah Movement and the PLO were in attendance.
+
+---
+
+[EVENT: LBN14782]
+Date: 2023-04-30
+Country: Lebanon | Location: Btedaai
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 30 April 2023, protesters including townspeople, priests, 'Makhatir (local administrator)' and municipal factions, held a protest outside the Saint Nohra church after Sunday Sermon in Btedaai (Baalbek), against the recent thefts and robberies associated with Syrian refugee gangs who live in a refugee camp at the town's entrance. The president of the Deir el Ahmar municipalities union, attended the demonstration.
+
+---
+
+[EVENT: LBN14783]
+Date: 2023-04-30
+Country: Lebanon | Location: Sir ed Danniye
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 30 April 2023, physical clashes erupted between rioters from 2 unidentified clan groups, during which one of the rioters stabbed another in the foot with a knife several times in Sir ed Danniye (Al Miniyeh Al Danniyeh), over old clan disputes. The two clans were also involved in a similar clash last week which renewed today. The stabbed individual was injured and taken to a nearby hospital for treatment.
+
+---
+
+[EVENT: LBN14788]
+Date: 2023-05-01
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: Akhbar al Saha; An-Nahar; Murr TV; Twitter [New media-National]
+
+DESCRIPTION:
+On 1 May 2023, protesters including unionists from FENASOL, local and international workers, marched from Cola intersection and met with an LCP rally in Riad Solh square in Beirut - Port (Beirut), to commemorate Labor Day, and to reject the cabinet's economic policies and a deal with the IMF. During the protest, rioters from the LCP and police forces assaulted several protesters over chants against the Syrian president, and chants against Syrian refugees.
+
+---
+
+[EVENT: LBN14787]
+Date: 2023-05-01
+Country: Lebanon | Location: Jbeil
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 1 May 2023, beekeepers held a protest outside the government serail in Jbeil (Jubayl), to demand the implementation of the laws regarding violations of private property including the cutting down of plants that bees feed on, which hurts the beekeepers' businesses.
+
+---
+
+[EVENT: LBN20637]
+Date: 2023-05-01
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Akhbar al Saha [New media]
+
+DESCRIPTION:
+On 1 May 2023, a group of students from the General Students Union, stormed the CGTL headquarters in Corniche al Nahr street in Beirut - Achrafieh (Beirut), in protest against the union's role in the assault on protesters at Riad Solh.
+
+---
+
+[EVENT: LBN14793]
+Date: 2023-05-02
+Country: Lebanon | Location: Beirut - Ras Beirut
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Murr TV; Naharnet [National]
+
+DESCRIPTION:
+On 2 May 2023, taxi drivers used several cars to block the road at Hamra street in Beirut - Ras Beirut (Beirut), in demonstration against worsening living and economic conditions, and to demand a government crackdown on illegal taxi drivers without a license plate.
+
+---
+
+[EVENT: LBN14794]
+Date: 2023-05-02
+Country: Lebanon | Location: Jounieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+On 2 May 2023, taxi drivers presumably stood on the highway in Jounieh (Keserwan), to block it, in demonstration against worsening living and economic conditions, and to demand a government crackdown on illegal taxi drivers without a license plate.
+
+---
+
+[EVENT: LBN14792]
+Date: 2023-05-02
+Country: Lebanon | Location: Beirut - Medawar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+On 2 May 2023, taxi drivers presumably stood on the Karantina highway in Beirut - Medawar (Beirut), to block it, in demonstration against worsening living and economic conditions, and to demand a government crackdown on illegal taxi drivers without a license plate.
+
+---
+
+[EVENT: LBN14795]
+Date: 2023-05-02
+Country: Lebanon | Location: Beirut - Mousseitbeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 2 May 2023, taxi drivers presumably stood on the ring bridge to block it, then headed towards Sanayeh neighborhood where they peacefully blocked the road outside the Ministry of Interior in Beirut - Mousseitbeh (Beirut), in demonstration against worsening living and economic conditions, and to demand a government crackdown on illegal taxi drivers without a license plate.
+
+---
+
+[EVENT: LBN14790]
+Date: 2023-05-02
+Country: Lebanon | Location: Tripoli
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 1
+Sources: El Nashra; L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 2 May 2023, scuffles turned into armed clashes, presumably between unidentified clansmen, at Al Maarad street in Tripoli (Tripoli) over a personal dispute. 1 individual was killed while 3 others were injured. Heavy gunfire was observed in Bab al Tabbaneh near the victim's house.
+
+---
+
+[EVENT: LBN14791]
+Date: 2023-05-02
+Country: Lebanon | Location: Beirut - Saifi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+On 2 May 2023, taxi drivers presumably stood on the main intersection in Beirut - Saifi (Beirut), to block it, in demonstration against worsening living and economic conditions, and to demand a government crackdown on illegal taxi drivers without a license plate.
+
+---
+
+[EVENT: LBN14796]
+Date: 2023-05-02
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra; Murr TV [National]
+
+DESCRIPTION:
+On 2 May 2023, taxi drivers held a central demonstration at Riad Solh square in Beirut - Port (Beirut), against worsening living and economic conditions, and to demand a government crackdown on illegal taxi drivers without a license plate. Following the demonstration, several groups of taxi drivers blocked several main roads throughout the day. The demonstrators also used cars to block the road at the Immigrant statue at the same location.
+
+---
+
+[EVENT: LBN14797]
+Date: 2023-05-02
+Country: Lebanon | Location: Jnah
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 2 May 2023, physical clashes erupted between depositors and rioters hired by BLC bank chairman outside his house in Jnah (Baabda). The depositors were headed to the BLC chairman's house to paint slogans against him on his walls, when they were ambushed by individuals hired by the chairman to intercept them. Sharp tools were used during the clashes and a depositor was injured.
+
+---
+
+[EVENT: LBN14800]
+Date: 2023-05-03
+Country: Lebanon | Location: Douris
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 3 May 2023, protesters including townspeople, 'Makhatir (local administrators)' and workers from the Douris Center for Maternal and Child Health, held a protest outside the center in Douris (Baalbek), against recurring thefts, after the center was robbed for a third time in two months.
+
+---
+
+[EVENT: LBN14801]
+Date: 2023-05-03
+Country: Lebanon | Location: El Mina
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 3 May 2023, workers from El Mina municipality, held a protest outside the municipal palace in El Mina (Tripoli), against the non-disbursement of their salaries. An official from FENASOL was in attendance.
+
+---
+
+[EVENT: LBN14798]
+Date: 2023-05-03
+Country: Lebanon | Location: Chiyah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 3 May 2023, demonstrators used burning rubber tires to block the Tayyouneh roundabout in Chiyah (Baabda) over unspecified reasons.
+
+---
+
+[EVENT: LBN33173]
+Date: 2023-05-04
+Country: Lebanon | Location: Beirut
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 4 May 2023, public taxi drivers held a protest outside of the Prime Minister's house in Beirut (Beirut), against their worsening living, working and economic conditions.
+
+---
+
+[EVENT: LBN14799]
+Date: 2023-05-04
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 4 May 2023, several depositors' groups including 'Amwalouna Lana' and groups of lawyers, held a protest outside Justice Palace in Beirut - Achrafieh (Beirut), in support of the European judges in Lebanon who are investigating the Central Bank governor over corruption allegations. The protesters also condemned political meddling in the judiciary.
+
+---
+
+[EVENT: LBN14805]
+Date: 2023-05-04
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 4 May 2023, relatives of the Beirut port blast victims, held their monthly sit-ins outside the Gate number 4 and the Immigrant statue in Beirut - Port (Beirut), to demand the resumption of the Beirut Port Blast case.
+
+---
+
+[EVENT: LBN14804]
+Date: 2023-05-04
+Country: Lebanon | Location: Ballouneh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 4 May 2023, supporters of the FPM held a protest outside the house of the President of the Supreme Judicial Council in Ballouneh (Keserwan) in support of a public prosecutor in Mount Lebanon who was dismissed.
+
+---
+
+[EVENT: LBN14803]
+Date: 2023-05-04
+Country: Lebanon | Location: Beirut - Ras Beirut
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 4 May 2023, the Khiam center for rehabilitation of torture victims, organized a protest outside the ICRC headquarters in Beirut - Ras Beirut (Beirut), against the death of a Palestinian prisoner who was on a hunger strike in an Israeli prison. Officials from several factions including DFLP, PIJ, PFLP and Popular Democratic Party were in attendance.
+
+---
+
+[EVENT: LBN14802]
+Date: 2023-05-04
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 4 May 2023, protesters stood on the road at the Aadliye roundabout outside Justice Palace in Beirut - Achrafieh (Beirut) to block it, in support of the public prosecutor in Mount Lebanon who was dismissed.
+
+---
+
+[EVENT: LBN33741]
+Date: 2023-05-06
+Country: Lebanon | Location: Burj el Barajneh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 6 May 2023, armed clashes erupted between 2 unidentified clan militias at Ain es Sekke neighborhood in the Beirut Suburbs in Burj el Barajneh (Baabda), likely over old clan feuds. Casualties unknown.
+
+---
+
+[EVENT: LBN14821]
+Date: 2023-05-06
+Country: Lebanon | Location: Beddawi
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Fatah Movement [Political militia]
+Actor2: Palestinian Arab Front (Palestine) [Political militia]
+Fatalities: 0
+Sources: El Nashra; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 6 May 2023, armed clashes erupted between Fatah and the Palestinian Arab Front factions in Beddawi refugee camp (Al Miniyeh Al Danniyeh), over old feuds between the 2 factions. As a result, 2 individuals were injured. The individuals who caused the clashes were later arrested.
+
+---
+
+[EVENT: LBN14806]
+Date: 2023-05-07
+Country: Lebanon | Location: Ballouneh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 7 May 2023, supporters of the FPM including and FPM MP held a protest outside the President of the Supreme Judicial Council's house in Ballouneh (Keserwan), against the judiciary's decision to dismiss a judge.
+
+---
+
+[EVENT: LBN14823]
+Date: 2023-05-08
+Country: Lebanon | Location: Deir Aamar
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 8 May 2023, physical clashes erupted between 2 rival clans during which sharp tools were used outside the municipal council's headquarters in Deir Aamar (Al Miniyeh Al Danniyeh) over old disputes. 12 individuals were injured including 5 who were transported to nearby hospitals.
+
+---
+
+[EVENT: LBN14825]
+Date: 2023-05-08
+Country: Lebanon | Location: Tfail
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Tfail Communal Militia (Lebanon) [Identity militia]
+Actor2: Private Security Forces (Lebanon) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 8 May 2023, armed clashes erupted between armed locals from Tfail village, and private security forces of a company, in Tfail village (Baalbek), over older feuds. There were no casualties. Armed clashes had erupted in the past between the two sides. The army later deployed to contain the clashes and to pursue the participants.
+
+---
+
+[EVENT: LBN14811]
+Date: 2023-05-08
+Country: Lebanon | Location: Sidon
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 8 May 2023, Palestinian refugee protesters stood on the parking lot of the UNRWA office in Sidon (Sayda) to block it, in protest against the UNRWA's decision to reduce financial aids for Palestinian cancer patients.
+
+---
+
+[EVENT: LBN33174]
+Date: 2023-05-08
+Country: Lebanon | Location: El Aabde
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 8 May 2023, farmers stood on the Homs road in El Aabde (Akkar), in protest against the import of potatoes and to prevent trucks carrying potatoes from entering.
+
+---
+
+[EVENT: LBN14818]
+Date: 2023-05-09
+Country: Lebanon | Location: Burj el Barajneh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 9 May 2023, protesters including Palestinian refugees and journalists held a sit-in in Burj el Barajneh refugee camp (Baabda), in support of the Palestinian resistance against Israel's murder of PIJ commanders in Gaza.
+
+---
+
+[EVENT: LBN14820]
+Date: 2023-05-09
+Country: Lebanon | Location: Beirut - Port
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Private Security Forces (Lebanon) [External/Other forces]
+Fatalities: 0
+Sources: L'Orient Le Jour; Naharnet; The National [National-International]
+
+DESCRIPTION:
+On 9 May 2023, clashes erupted between demonstrators from the Depositors Outcry group and a bank's private security in Bab Idriss street in Beirut - Port (Beirut). Private security forces used pepper spray against demonstrators and broke the arm of a participant. The demonstrators smashed an ATM machine, sprayed slogans on the wall of the bank, and burned rubber tires outside it. The demonstrators then headed to the residence of the PM in a nearby street in the same location where they also burned rubber tires. The depositors were demonstrating against illegal bank restrictions imposed on their deposits.
+
+---
+
+[EVENT: LBN14822]
+Date: 2023-05-09
+Country: Lebanon | Location: Beirut - Port
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Military Forces of Lebanon (2021-) [State forces]
+Fatalities: 0
+Sources: Murr TV; Naharnet [National]
+
+DESCRIPTION:
+On 9 May 2023, clashes erupted between police and military forces, and demonstrators from the Depositors Outcry Group outside of Parliament in Beirut - Port (Beirut). The depositors were demonstrating against illegal bank restrictions imposed on their deposits. Several participants were injured. A group of depositors then headed towards a bank where other clashes erupted with private security forces, as part of a wave of demonstration called on by the Depositors Outcry Group. An independent MP joined the demonstration before it turned violent.
+
+---
+
+[EVENT: LBN14827]
+Date: 2023-05-10
+Country: Lebanon | Location: El Mhammara
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 10 May 2023, locals from Qarqaf village presumably stood on both sides of the Nahr el Bared bridge in El Mhammara (Akkar) to block it, in demonstration against the arrest of 2 individuals involved in the illegal shooting of birds.
+
+---
+
+[EVENT: LBN14819]
+Date: 2023-05-10
+Country: Lebanon | Location: Tripoli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 10 May 2023, a number of teachers from the Dignity Uprising Coordination Committee held a protest and stood on the road outside the education administration in Tripoli (Tripoli) to block it. The protesters were demonstrating against the government's neglect of the public education sector amid worsening living, working and economic conditions of public school and university teachers.
+
+---
+
+[EVENT: LBN14824]
+Date: 2023-05-11
+Country: Lebanon | Location: Beirut - Mazraa
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 11 May 2023, physical clashes erupted between rioters from 2 clans at Tariq Jdideh in Beirut - Mazraa (Beirut) over a private generator. Police forces later deployed to contain the situation.
+
+---
+
+[EVENT: LBN14808]
+Date: 2023-05-11
+Country: Lebanon | Location: Adma
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 11 May 2023, employees from Casino du Liban held a protest outside the Casino in Adma (Keserwan) to demand their salaries.
+
+---
+
+[EVENT: LBN14826]
+Date: 2023-05-11
+Country: Lebanon | Location: Kfar Roummane
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+On 11 May 2023, townspeople stood on the Moussa Sadr road in Kfar Roummane (Al Nabatieh), to block it, in demonstration against the garbage crisis. The protesters complained of garbage on the streets that are harmful for the town residents' health.
+
+---
+
+[EVENT: LBN14810]
+Date: 2023-05-12
+Country: Lebanon | Location: Sidon
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 12 May 2023, demonstrators including supporters and officials from the Islamic Group and the INM, Palestinian refugees and political factions held a demonstration at the Martyrs' square in Sidon (Sayda), in support of the Palestinian resistance against Israeli aggression, especially towards the Gaza strip. The demonstration is part of a nationwide wave of rallies in Palestinian refugee camps and cities in Lebanon.
+
+---
+
+[EVENT: LBN14809]
+Date: 2023-05-12
+Country: Lebanon | Location: Tyr
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 12 May 2023, demonstrators including Lebanese political factions, Palestinian refugee protesters and political factions held a demonstration at the Aalam square in Tyr (Tyr), in support of the Palestinian resistance against Israeli aggression, especially towards the Gaza strip. The demonstration is part of a nationwide wave of rallies in Palestinian refugee camps and cities in Lebanon.
+
+---
+
+[EVENT: LBN14817]
+Date: 2023-05-12
+Country: Lebanon | Location: Al Bass
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 12 May 2023, Palestinian refugee protesters and political factions marched the streets then held a demonstration at the entrance of Al Bass refugee camp (Tyr), in support of the Palestinian resistance against Israeli aggression, especially towards the Gaza strip. The demonstration is part of a nationwide wave of rallies in Palestinian refugee camps and cities in Lebanon. An official from the DFLP in Lebanon was in attendance.
+
+---
+
+[EVENT: LBN14814]
+Date: 2023-05-12
+Country: Lebanon | Location: Mieh Mieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 12 May 2023, Palestinian refugee protesters and political factions held a demonstration in Mieh Mieh refugee camp (Sayda), in support of the Palestinian resistance against Israeli aggression, especially towards the Gaza strip. The demonstration is part of a nationwide wave of rallies in Palestinian refugee camps and cities in Lebanon.
+
+---
+
+[EVENT: LBN14815]
+Date: 2023-05-12
+Country: Lebanon | Location: Ein el Hilweh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 12 May 2023, Palestinian refugee protesters and political factions held a mass demonstration in Ein el Hilweh refugee camp (Sayda), in support of the Palestinian resistance against Israeli aggression, especially towards the Gaza strip. The demonstration is part of a nationwide wave of rallies in Palestinian refugee camps and cities in Lebanon.
+
+---
+
+[EVENT: LBN14807]
+Date: 2023-05-12
+Country: Lebanon | Location: Hazmiyeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 12 May 2023, activists gathered for a sit-in outside the Cybercrime Center in Hazmiyeh (Baabda), to protest against the summoning of 2 activists over their postings on social media. An independent MP joined the protesters.
+
+---
+
+[EVENT: LBN14812]
+Date: 2023-05-12
+Country: Lebanon | Location: Burj el Barajneh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 12 May 2023, hundreds of Palestinian refugee protesters and political factions held a demonstration in Burj el Barajneh refugee camp (Baabda), in support of the Palestinian resistance against Israeli aggression, especially towards the Gaza strip. The demonstration is part of a nationwide wave of rallies in Palestinian refugee camps and cities in Lebanon.
+
+---
+
+[EVENT: LBN14813]
+Date: 2023-05-12
+Country: Lebanon | Location: Burj Shemali
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 12 May 2023, Palestinian refugee protesters and political factions held a demonstration in Burj Shemali refugee camp (Tyr), in support of the Palestinian resistance against Israeli aggression, especially towards the Gaza strip. The demonstration is part of a nationwide wave of rallies in Palestinian refugee camps and cities in Lebanon.
+
+---
+
+[EVENT: LBN14816]
+Date: 2023-05-12
+Country: Lebanon | Location: Shatila
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 12 May 2023, dozens of Palestinian refugee protesters and political factions held a demonstration in Shatila refugee camp (Baabda), in support of the Palestinian resistance against Israeli aggression, especially towards the Gaza strip. The demonstration is part of a nationwide wave of rallies in Palestinian refugee camps and cities in Lebanon.
+
+---
+
+[EVENT: LBN14766]
+Date: 2023-05-13
+Country: Lebanon | Location: Ein el Hilweh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 13 May 2023, protesters including Palestinian refugees and supporters of the Democratic Reform Bloc, held a popular demonstration in Ein el Hilweh refugee camp (Sayda), in support of the Palestinian resistance, against Israeli aggression towards Palestinians in the West Bank and the Gaza Strip.
+
+---
+
+[EVENT: LBN33742]
+Date: 2023-05-14
+Country: Lebanon | Location: Deir Aamar
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 14 May 2023, scuffles turned into exchanges of fire, presumably between unidentified clan militias in Deir Aamar (Al Miniyeh Al Danniyeh), over provocations on social media related to the Turkish elections. Casualties unknown.
+
+---
+
+[EVENT: LBN14767]
+Date: 2023-05-14
+Country: Lebanon | Location: Er Rachidiye
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: El Nashra; Lebanon24 [National]
+
+DESCRIPTION:
+On 14 May 2023, scuffles turned into armed clashes between 2 unidentified Palestinian armed groups, during which heavy weapons and B7 rockets were used in Er Rachidiye refugee camp (Tyr) over unknown reasons. Casualties unknown.
+
+---
+
+[EVENT: LBN20740]
+Date: 2023-05-15
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Akhbar al Saha [New media]
+
+DESCRIPTION:
+On 15 May 2023, relatives of detained individuals in the UAE, held a protest outside the Ministry of Foreign Affairs in Beirut - Achrafieh (Beirut), against the death of one of the imprisoned individuals in custody in the UAE. The protesters believe that the prisoner was tortured to death.
+
+---
+
+[EVENT: LBN20652]
+Date: 2023-05-15
+Country: Lebanon | Location: El Mina
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 15 May 2023, street vendors used burning rubber tires to block the road near the PM's residence in El Mina (Tripoli), in demonstration against the municipality's decision to ban street carts. The demonstrators called on the PM to find a solution. The army intervened and peacefully ended the demonstration after a fire came close to the PM residence's garden.
+
+---
+
+[EVENT: LBN33743]
+Date: 2023-05-15
+Country: Lebanon | Location: Tripoli
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 15 May 2023, armed clashes erupted between 2 unidentified clan militias at the outskirts of Qobbeh neighborhood in Tripoli (Tripoli) over old clan feuds. 2 individuals were injured. Several cars were damaged from the heavy gunfire.
+
+---
+
+[EVENT: LBN14768]
+Date: 2023-05-16
+Country: Lebanon | Location: Furn el Chebbak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 16 May 2023, employees from Alfa and Touch telecommunication companies, held a protest outside the companies' headquarters in Furn el Chebbak (Baabda) to demand their financial rights amid worsening living and economic conditions.
+
+---
+
+[EVENT: LBN14774]
+Date: 2023-05-16
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 16 May 2023, lawyers of the FPM, held a protest outside Justice Palace in Beirut - Achrafieh (Beirut), in support of the Beirut Port Blast case, a lawyer and a judge who are close to the FPM.
+
+---
+
+[EVENT: LBN14770]
+Date: 2023-05-17
+Country: Lebanon | Location: Safra
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 17 May 2023, a number of FPM old guard supporters, held a protest outside the Central Bank governor's house in Safra (Keserwan), likely against his economic policies and to demand his dismissal.
+
+---
+
+[EVENT: LBN14773]
+Date: 2023-05-17
+Country: Lebanon | Location: Halba
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 17 May 2023, parents of international students, held a protest outside SGBL bank in Halba (Akkar) against the non-implementation of the Students' Dollar law.
+
+---
+
+[EVENT: LBN14772]
+Date: 2023-05-17
+Country: Lebanon | Location: Beirut
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 17 May 2023, protesters including Palestinian refugees and supporters of the DFLP, held a demonstration outside the U.N headquarters in central Beirut (Beirut), to commemorate the 75th anniversary of Al Nakba, and in support of the Palestinian resistance against Israeli aggression. A Hezbollah official attended the rally.
+
+---
+
+[EVENT: LBN14771]
+Date: 2023-05-17
+Country: Lebanon | Location: Ein el Hilweh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Palestine) [Identity militia]
+Actor2: Unidentified Clan Militia (Palestine) [Identity militia]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 17 May 2023, scuffles turned into an exchange of fire between unidentified Palestinian clans in Ein el Hilweh (Sayda), likely over old clan disputes. There were no casualties. The Joint Palestinian security force later intervened to contain the clashes.
+
+---
+
+[EVENT: LBN14769]
+Date: 2023-05-17
+Country: Lebanon | Location: Beirut - Mazraa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 17 May 2023, parents of Khaled Bin el Walid school students, held a demonstration outside the school in Beirut - Mazraa (Beirut), against the increase of its tuition fees. The protesters prevented the students from entering the school and closed down its doors.
+
+---
+
+[EVENT: LBN14775]
+Date: 2023-05-18
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: L'Orient Le Jour; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 18 May 2023, relatives of the firefighter victims in the Beirut Port Blast, held a demonstration and burned rubber tires outside the gates of Justice Palace in Beirut - Achrafieh (Beirut). The demonstrators demanded the resumption of the Beirut Port Blast case and warned of escalatory measures. The fires spread to the courtyard of the Justice Palace before being extinguished.
+
+---
+
+[EVENT: LBN14778]
+Date: 2023-05-18
+Country: Lebanon | Location: Beirut - Mazraa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 18 May 2023, a number of protesters stood on the road of Corniche el Mazraa in Beirut - Mazraa (Beirut) to partly block it, in demonstration against the arrest of a social media personality in Turkey.
+
+---
+
+[EVENT: LBN14777]
+Date: 2023-05-18
+Country: Lebanon | Location: Baalbek
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 18 May 2023, protesters including depositors, army and police officers and retirees, and employees, held a demonstration outside of Fransabank and peacefully blocked the road in Baalbek (Baalbek). The protesters were demonstrating against the bank's decision to close down the only remaining branch in Baalbek - Hermel.
+
+---
+
+[EVENT: LBN14776]
+Date: 2023-05-18
+Country: Lebanon | Location: Beddawi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 18 May 2023, protesters including townspeople, friends and relatives of a kidnapped individual, held a protest outside the municipality in Beddawi (Al Miniyeh Al Danniyeh) to demand the whereabouts of the kidnapped individual.
+
+---
+
+[EVENT: LBN14780]
+Date: 2023-05-19
+Country: Lebanon | Location: Aabra
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 19 May 2023, protesters including relatives of the Aabra clashes detainees, held a protest outside of Bilal Bin Rabah Mosque in Aabra (Sayda) to demand the implementation of the general amnesty law, and the release of all detained individuals of the Aabra clashes. The battle of Aabra erupted between the Lebanese Army and the followers of Sunni preacher Al-Assir in 2013, with the military defeating the Sunni militants within two days.
+
+---
+
+[EVENT: LBN14779]
+Date: 2023-05-19
+Country: Lebanon | Location: Jnah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 19 May 2023, students from the FPM, held a demonstration outside the UNHCR headquarters in Jnah (Baabda), against the international community's plan to integrate and settle Syrian refugees in Lebanon.
+
+---
+
+[EVENT: LBN14781]
+Date: 2023-05-19
+Country: Lebanon | Location: Al Hadath
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 19 May 2023, 2 armed clansmen, opened heavy gunfire towards the building of a rival clan member in Al Hadath (Baabda), over old clan feuds. A clan reconciliation that was supposed to be held did not happen. It is assumed there were no casualties.
+
+---
+
+[EVENT: LBN33744]
+Date: 2023-05-19
+Country: Lebanon | Location: Khraibeh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 19 May 2023, a dispute between cousins of the same clan, turned into an exchange of fire in Khraibeh (Baalbek). There were no casualties.
+
+---
+
+[EVENT: LBN14829]
+Date: 2023-05-20
+Country: Lebanon | Location: Batroun
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 20 May 2023, beekeepers held a demonstration outside the government serail in Batroun (Al Batroun), against random deforestation and private property violations by outsiders which harm the well being of bees.
+
+---
+
+[EVENT: LBN14830]
+Date: 2023-05-20
+Country: Lebanon | Location: Tyr
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 20 May 2023, supporters of the Arab Nationalist Guard, held a protest at the seaside Corniche in Tyr (Tyr), in support of the Palestinian resistance against Israeli aggression and in commemoration of the 75th anniversary of Al Nakba. Fatah and Amal officials were in attendance.
+
+---
+
+[EVENT: LBN14828]
+Date: 2023-05-21
+Country: Lebanon | Location: Sidon
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: El Nashra; L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 21 May 2023, physical clashes erupted between demonstrators from 2 opposing rallies in front of a public beach in Sidon (Sayda). The first group of demonstrators involved women and activists who demanded freedom for women to choose what to wear to the beach following a ban by the Sidon municipality on swimsuits. The opposing group of demonstrators called for modesty and supported the ban. 3 participants from both sides were injured while at least 1 participant was arrested.
+
+---
+
+[EVENT: LBN33745]
+Date: 2023-05-21
+Country: Lebanon | Location: Tripoli
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 21 May 2023, exchanges of fire erupted between clansmen from 2 different clans in Qobbeh neighborhood in Tripoli (Tripoli), over older clashes that happened the previous week. There were no casualties.
+
+---
+
+[EVENT: LBN26748]
+Date: 2023-05-22
+Country: Lebanon | Location: Kfar Zabad
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Shokr Clan Militia (Lebanon) [Identity militia]
+Actor2: Chahla Clan Militia (Lebanon) [Identity militia]
+Fatalities: 1
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 22 May 2023, armed clashes presumably erupted between Chahla and Shokr clansmen in Kfar Zabad (Zahle) likely over old clan feuds. 1 individual who was shot and wounded in the clash later succumbed to his injuries.
+
+---
+
+[EVENT: LBN14831]
+Date: 2023-05-22
+Country: Lebanon | Location: Nabatiye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 22 May 2023, parents of high school students held a protest outside the Evangelical school in Nabatiye (Al Nabatieh), against the school's decision to dollarize and increase tuition fees.
+
+---
+
+[EVENT: LBN14840]
+Date: 2023-05-23
+Country: Lebanon | Location: Hazmiyeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Akhbar al Saha; Twitter [New media]
+
+DESCRIPTION:
+On 23 May 2023, 4 protesters held a demonstration outside Carrefour supermarket in Hazmiyeh (Baabda), against the company's opening of over 50 branches in Israel.
+
+---
+
+[EVENT: LBN20741]
+Date: 2023-05-23
+Country: Lebanon | Location: Hazmiyeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Akhbar al Saha [New media]
+
+DESCRIPTION:
+On 23 May 2023, 4 protesters held a demonstration outside Carrefour supermarket in Hazmiyeh (Baabda), against the company's opening of over 50 branches in Israel.
+
+---
+
+[EVENT: LBN14833]
+Date: 2023-05-23
+Country: Lebanon | Location: Laylaki
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Zaiter Clan Militia (Lebanon) [Identity militia]
+Actor2: Zaiter Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 23 May 2023, armed clashes erupted between rival families of Zaiter clansmen in Laylaki (Baabda) likely over old feuds. Casualties unknown.
+
+---
+
+[EVENT: LBN14832]
+Date: 2023-05-23
+Country: Lebanon | Location: Ein el Hilweh
+Type: Explosions/Remote violence > Grenade | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 23 May 2023, unidentified armed men hurled a grenade at the Tahtani street in Ein el Hilweh refugee camp (Sayda), resulting in the injury of an individual.
+
+---
+
+[EVENT: LBN26733]
+Date: 2023-05-24
+Country: Lebanon | Location: Ed Dekouane
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 24 May 2023, activists from the Depositors Outcry group, held a protest outside the IMF headquarters in Ed Dekouane (Al Matn), against presuming deposits in banks as lost.
+
+---
+
+[EVENT: LBN33746]
+Date: 2023-05-24
+Country: Lebanon | Location: Bzal
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 24 May 2023, scuffles turned into an exchange of fire presumably between 2 unidentified clan militias in Bzal (Akkar) over old disputes. An individual was injured by a bullet to his leg.
+
+---
+
+[EVENT: LBN14839]
+Date: 2023-05-26
+Country: Lebanon | Location: Beirut - Mazraa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 26 May 2023, army and police retirees, held a protest outside the Military Court in Beirut - Mazraa (Beirut), against the summoning of an army retiree activist for wearing his military uniform during the storming of the Ministry of Foreign Affairs a while ago.
+
+---
+
+[EVENT: LBN14836]
+Date: 2023-05-26
+Country: Lebanon | Location: Bzal
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 26 May 2023, physical clashes erupted between relatives from the same clan, during which knives and sharp tools were used in Bzal (Akkar) over land ownership disputes. 3 individuals were injured.
+
+---
+
+[EVENT: LBN26749]
+Date: 2023-05-26
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 26 May 2023, Bank Misr employees, held a protest outside the Banks' street of Riad Solh square in Beirut - Port (Beirut) to demand their financial rights.
+
+---
+
+[EVENT: LBN14838]
+Date: 2023-05-26
+Country: Lebanon | Location: Ein el Hilweh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 26 May 2023, Palestinian refugee protesters who are victims of material damages from recurring clashes, presumably stood on the road in El Tahtani street in Ein el Hilweh refugee camp (Sayda) to block it, in protest against recurring clashes and to demand reimbursements for their damaged properties.
+
+---
+
+[EVENT: LBN14843]
+Date: 2023-05-27
+Country: Lebanon | Location: Aarqa
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 27 May 2023, rioters who are presumably either Masri or Hadara clansmen used burning rubber tires to block the Aabde - Halba road with burning rubber tires at Aarqa junction (Akkar), likely in demonstration against earlier clashes between the two clans in Kfar Melki.
+
+---
+
+[EVENT: LBN14844]
+Date: 2023-05-27
+Country: Lebanon | Location: Kfar Melki
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: An-Nahar; Lebanon24 [National]
+
+DESCRIPTION:
+On 27 May 2023, Hadara clansmen used burning rubber tires to block the main road with burning rubber tires in Kfar Melki (Akkar), likely in demonstration against earlier clashes between Hadara and the Masri clans in the town during which a Hadara clansman was injured.
+
+---
+
+[EVENT: LBN14842]
+Date: 2023-05-27
+Country: Lebanon | Location: Kfar Melki
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Al Masri Clan Militia (Lebanon) [Identity militia]
+Actor2: Hadara Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 27 May 2023, scuffles turned into exchanges of fire between presumed Masri and presumed Hadara clansmen in Kfar Melki (Akkar), over house rental bills. A Hadara clansman was injured and treated in a nearby hospital, while police forces later arrested a Masri clansman. Several roads were blocked following the clashes in the area.
+
+---
+
+[EVENT: LBN14846]
+Date: 2023-05-29
+Country: Lebanon | Location: Miniyeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 29 May 2023, protesters including Palestinian refugees and factions, local residents and factions held a demonstration outside the Yehya Skaff statue in Miniyeh (Al Miniyeh Al Danniyeh), against the transfer of the body of a former SLA officer from Israel to be buried in his hometown in Akkar district. Officials from the Baath party in Lebanon, the PIJ and DFLP were in attendance.
+
+---
+
+[EVENT: LBN14845]
+Date: 2023-05-29
+Country: Lebanon | Location: El Aabde
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar; L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 29 May 2023, nearly 200 local residents held demonstrations in El Aabde town (Akkar), against the transfer of the body of a former SLA officer from Israel to be buried in his hometown in Akkar district. The local residents called on other protesters to block the roads in the area against the transfer of the body.
+
+---
+
+[EVENT: LBN14847]
+Date: 2023-05-29
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: L'Orient Le Jour [National]
+
+DESCRIPTION:
+Strikes: On 29 May 2023, public administration employees announced a two week nationwide strike to demand their financial rights including transportation allowances and medical care. Coded to Beirut.
+
+---
+
+[EVENT: LBN14848]
+Date: 2023-05-30
+Country: Lebanon | Location: Baalbek
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Lebanon (2021-) [State forces]
+Actor2: Jaafar Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: An-Nahar; Lebanese Army; Lebanon24; Twitter [Other-New media]
+
+DESCRIPTION:
+On 30 May 2023, armed clashes erupted between the army and Jaafar clansmen during an army raid into a captagon factory in Ash Sharawneh neighborhood in Baalbek (Baalbek). Jaafar clansmen had opened fire towards an army barracks and the house of a soldier before clashing with the army during the raid. The LAF was also conducting the raid following the kidnapping of a Saudi national in which Jaafar clansmen are presumably involved. There were no casualties. Several Jaafar clansmen were arrested for their involvement in the clashes and the kidnapping of the Saudi national.
+
+---
+
+[EVENT: LBN14852]
+Date: 2023-05-30
+Country: Lebanon | Location: Jezzine
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 30 May 2023, Jezzine traders, religious figures, Makhatir and locals marched from Byblos Bank towards the electricity corporation in Jezzine (Jezzine), to demonstrate against the high electricity bills.
+
+---
+
+[EVENT: LBN14851]
+Date: 2023-05-30
+Country: Lebanon | Location: Kfar Chouba
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 30 May 2023, dozens of townspeople including the head of the Kfar Chouba municipality held a protest at the Beethnayel pond near the border in Kfar Chouba (Hasbeiya), against Israeli land works at the location.
+
+---
+
+[EVENT: LBN14853]
+Date: 2023-05-31
+Country: Lebanon | Location: Beirut - Port
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Military Forces of Lebanon (2021-) [State forces]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+On 31 May 2023, around 2000 demonstrators including car importers and traders used burning rubber tires to block the road facing the immigrant statue in Beirut - Port (Beirut), in demonstration against the increase of import fees in USD. Demonstrators clashed with the army when they tried to open the road, resulting in the injury of several participants.
+
+---
+
+[EVENT: LBN14849]
+Date: 2023-05-31
+Country: Lebanon | Location: Sidon
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 31 May 2023, a group of engineers held a protest outside the municipality in Sidon (Sayda), against the garbage crisis in the city.
+
+---
+
+[EVENT: LBN14850]
+Date: 2023-05-31
+Country: Lebanon | Location: Qusaya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PFLP-GC: Popular Front for the Liberation of Palestine - General Command [Political militia]
+Fatalities: 5
+Sources: El Nashra; Naharnet [National]
+
+DESCRIPTION:
+Detonation: On 31 May 2023, an explosion occurred at the headquarters of the PFLP-GC in Qusaya (Zahle), resulting in the death of 5 PFLP militants and the injury of 10. The explosion was likely caused by the accidental detonation of an old rocket stored in the location. Several news outlets reported the possibility of an Israeli strike. Israel denied its responsibility in the explosion.
+
+---
+
+[EVENT: LBN33747]
+Date: 2023-05-31
+Country: Lebanon | Location: Tripoli
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 31 May 2023, scuffles turned into an exchange of fire between relatives from the same clan in Qabr al Zini neighborhood in Tripoli (Tripoli), over inheritance feuds. As a result, 4 individuals were injured.
+
+---
+
+[EVENT: LBN14856]
+Date: 2023-06-01
+Country: Lebanon | Location: El Mina
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 1 June 2023, apple farmers, residents of Meshmesh town and traders held a demonstration at the Tripoli port in El Mina (Tripoli) against CMA company's unfair transportation policies.
+
+---
+
+[EVENT: LBN14858]
+Date: 2023-06-01
+Country: Lebanon | Location: Zahle
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 1 June 2023, social security users and workers held a protest outside the Social Security office in Zahle (Zahle), against social security services that are still provided at the USD rate of 1,500 LBP. The protesters demanded better medical care services.
+
+---
+
+[EVENT: LBN14857]
+Date: 2023-06-01
+Country: Lebanon | Location: Baalbek
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 1 June 2023, social security users and workers held a protest outside the Social Security office in Baalbek (Baalbek), against social security services that are still provided at the USD rate of 1,500 LBP. The protesters demanded better medical care services.
+
+---
+
+[EVENT: LBN14860]
+Date: 2023-06-01
+Country: Lebanon | Location: Nabatiye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 1 June 2023, social security users and workers held a protest outside the Social Security office in Nabatiye (Al Nabatieh), against social security services that are still provided at the USD rate of 1,500 LBP. The protesters demanded better medical care services.
+
+---
+
+[EVENT: LBN14859]
+Date: 2023-06-01
+Country: Lebanon | Location: Tebnine
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 1 June 2023, demonstrators including social security users, workers, Makhatir, health, education and social organizations held a protest outside the Social Security office in Tebnine (Bint Jbeil), against social security services that are still provided at the USD rate of 1,500 LBP. The protesters demanded better medical care services.
+
+---
+
+[EVENT: LBN20742]
+Date: 2023-06-01
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Akhbar al Saha [New media]
+
+DESCRIPTION:
+On 1 June 2023, activists held a protest outside of Justice Palace in Beirut - Achrafieh (Beirut), in support of a journalist who was summoned to court by a suspected sexual offender.
+
+---
+
+[EVENT: LBN14855]
+Date: 2023-06-01
+Country: Lebanon | Location: El Mina
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+On 1 June 2023, protesters including FENASOL and land transport unionists held a protest outside the social security office in El Mina (Tripoli), against social security services that are still provided at the USD rate of 1,500 LBP.
+
+---
+
+[EVENT: LBN14854]
+Date: 2023-06-01
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: L'Orient Le Jour; Naharnet [National]
+
+DESCRIPTION:
+On 1 June 2023, dozens of relatives of the Beirut Port Blast victims, burned rubber tires outside Justice Palace in Beirut - Achrafieh (Beirut), to demand the resumption of the Beirut Port blast case. The demonstrators threatened with escalation if their demands were not met.
+
+---
+
+[EVENT: LBN14861]
+Date: 2023-06-01
+Country: Lebanon | Location: El Faaour
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Al Hajj Clan Militia (Lebanon) [Identity militia]
+Actor2: Al Saloum Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: El Nashra; Lebanon24 [National]
+
+DESCRIPTION:
+On 1 June 2023, armed clashes erupted between presumed Al Saloum and presumed Al Hajj clan militias in El Faaour (Zahle), likely over old clan feuds. Casualties unknown.
+
+---
+
+[EVENT: LBN14862]
+Date: 2023-06-02
+Country: Lebanon | Location: Rayak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 2 June 2023, protesters including wives of current security forces, army and police retirees held a protest then stood on the international highway at Rayak (Zahle) to block it. The protesters were demonstrating against the Sayrafa dollar rate.
+
+---
+
+[EVENT: LBN14863]
+Date: 2023-06-02
+Country: Lebanon | Location: Baalbek
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Lebanon (2021-) [State forces]
+Actor2: Jaafar Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 2 June 2023, exchanges of fire erupted between the army and Jaafar clansmen during a raid in Kayyal neighborhood in Baalbek (Baalbek). 2 individuals were injured including a citizen by mistake. The army was able to arrest a Jaafar clansman who is the head of the gang that kidnapped a Saudi national several days ago.
+
+---
+
+[EVENT: LBN20743]
+Date: 2023-06-04
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Akhbar al Saha [New media]
+
+DESCRIPTION:
+On 4 June 2023, relatives of the Beirut Port Blast victims held their monthly protest at the Immigrant statue in Beirut - Port (Beirut), to demand the resumption of the Beirut Port blast case, and to commemorate the anniversary of the Beirut Port blast after 34 months.
+
+---
+
+[EVENT: LBN14878]
+Date: 2023-06-04
+Country: Lebanon | Location: Batroun
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Megaphone News; Twitter [New media]
+
+DESCRIPTION:
+On 4 June 2023, protesters marched the shores and seaside roads of Thoum and Kfarabida towns towards Batroun (Al Batroun) in demonstration against encroachments and constructions on public beach properties.
+
+---
+
+[EVENT: LBN14871]
+Date: 2023-06-05
+Country: Lebanon | Location: Nabatiye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+On 5 June 2023, social security employees held a demonstration outside the NSSF office and closed its doors in Nabatiye (Al Nabatieh) to demand better wages and working conditions.
+
+---
+
+[EVENT: LBN14879]
+Date: 2023-06-05
+Country: Lebanon | Location: Blida
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 5 June 2023, townspeople held a protest at Blida town (Marjayoun) against Israeli incursions by dumping waste and animal manure on their lands.
+
+---
+
+[EVENT: LBN14873]
+Date: 2023-06-05
+Country: Lebanon | Location: Chhim
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+On 5 June 2023, social security employees held a demonstration outside the NSSF office in Chhim (Chouf) to demand better wages and working conditions. The protesters also demanded the release of the social assistance funds and the increase of the NSSF's services including medical care.
+
+---
+
+[EVENT: LBN14869]
+Date: 2023-06-05
+Country: Lebanon | Location: Tyr
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+On 5 June 2023, social security employees held a demonstration outside the NSSF in Tyr (Tyr), against the Security Council, which refused to implement the decree of the Council of Ministers related to the release of the social assistance funds.
+
+---
+
+[EVENT: LBN14865]
+Date: 2023-06-05
+Country: Lebanon | Location: Deir Aamar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 5 June 2023, protesters including townspeople, activists, municipal officials and former MPs held a demonstration in Deir Aamar (Al Miniyeh Al Danniyeh) against the establishment of a waste dump in the town.
+
+---
+
+[EVENT: LBN14872]
+Date: 2023-06-05
+Country: Lebanon | Location: Halba
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+On 5 June 2023, social security employees held a demonstration at the NSSF office in Halba (Akkar) to demand better wages and working conditions. The protesters also demanded the release of the social assistance funds and the increase of the NSSF's services including medical care.
+
+---
+
+[EVENT: LBN14867]
+Date: 2023-06-05
+Country: Lebanon | Location: Tripoli
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 5 June 2023, army and police retirees and their relatives held a demonstration at Al Nour square and used burning rubber tires to block the road facing the Central Bank branch in Tripoli (Tripoli) to demand better wages and medical care amid worsening living and economic conditions.
+
+---
+
+[EVENT: LBN14874]
+Date: 2023-06-05
+Country: Lebanon | Location: Jbeil
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 5 June 2023, protesters including social security employees held a demonstration outside the NSSF office in Jbeil (Jubayl) to demand better wages and working conditions. The protesters also demanded the release of the social assistance funds and the increase of the NSSF's services including medical care.
+
+---
+
+[EVENT: LBN14880]
+Date: 2023-06-06
+Country: Lebanon | Location: Blida
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 6 June 2023, townspeople held a protest at Blida town (Marjayoun) against Israeli incursions by dumping waste and animal manure on their lands.
+
+---
+
+[EVENT: LBN14875]
+Date: 2023-06-06
+Country: Lebanon | Location: Nabatiye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+On 6 June 2023, social security employees held a demonstration outside the NSSF office and closed its doors in Nabatiye (Al Nabatieh) against the government's neglect of their demands for better wages and working conditions.
+
+---
+
+[EVENT: LBN14870]
+Date: 2023-06-07
+Country: Lebanon | Location: Beirut International Airport
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 7 June 2023, demonstrators used burning rubber tires to block the Beirut International Airport road (Aley) in demonstration against the arrest of an individual in Saudi Arabia.
+
+---
+
+[EVENT: LBN14881]
+Date: 2023-06-07
+Country: Lebanon | Location: Kfar Chouba
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 7 June 2023, protesters held a demonstration near the technical fence near Kfar Chouba (Hasbeiya) against Israeli construction works on their lands. The protesters demanded that the UNIFIL recognizes their rights to these lands.
+
+---
+
+[EVENT: LBN14866]
+Date: 2023-06-07
+Country: Lebanon | Location: Tripoli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 7 June 2023, army and police retirees stood on the road facing a bank in Tripoli (Tripoli) to block it, in demonstration against their low pensions. The protesters demanded a correction of their pensions.
+
+---
+
+[EVENT: LBN14876]
+Date: 2023-06-07
+Country: Lebanon | Location: Tripoli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 7 June 2023, public sector employees held a protest outside the government serail in Tripoli (Tripoli) against corruption and clientelism in public administrations.
+
+---
+
+[EVENT: LBN14877]
+Date: 2023-06-07
+Country: Lebanon | Location: Baalbek
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 7 June 2023, social security employees held a demonstration at the NSSF office in Baalbek (Baalbek) to demand better wages and working conditions. The protesters also demanded the release of the social assistance funds and the increase of the NSSF's services including medical care.
+
+---
+
+[EVENT: LBN14868]
+Date: 2023-06-08
+Country: Lebanon | Location: Kfar Chouba
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Lebanon) [Civilians]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Other: On 8 June 2023, locals and shepherds prevented Israeli bulldozers protected by tanks, from pursuing construction works near the technical fence near Kfar Chouba (Hasbeiya). The locals used their bodies to prevent the continuation of the works amid a presence of UNIFIL and Lebanese soldiers.
+
+---
+
+[EVENT: LBN14864]
+Date: 2023-06-09
+Country: Lebanon | Location: Kfar Chouba
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra; Naharnet [National]
+
+DESCRIPTION:
+On 9 June 2023, dozens of demonstrators hurled stones towards Israeli soldiers who responded by firing tear gas canisters towards them on the disputed hills near Kfar Chouba (Hasbeiya). Locals from Al Arkoub southern villages had gathered to demonstrate against recent Israeli digging and construction works on their lands. The demonstrators also rushed towards the technical fence while hurling stones towards the Israeli soldiers where they were able to dismantle 20 meters of newly established barbed wires. Lebanese and UNIFIL soldiers rushed to push the demonstrators back while some of the Lebanese troops took combat positions. A number of demonstrators and Lebanese soldiers and a journalist suffocated from tear gas.
+
+---
+
+[EVENT: LBN31951]
+Date: 2023-06-10
+Country: Lebanon | Location: Burj Shemali
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 10 June 2023, a dispute turned into armed clashes between unidentified Palestinian armed men in Burj Shemali refugee camp (Tyr), over unknown reasons. Fatalities unknown. The Palestinian joint security forces worked on containing the clashes and ending the dispute.
+
+---
+
+[EVENT: LBN14884]
+Date: 2023-06-11
+Country: Lebanon | Location: Kfar Chouba
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: L'Orient Le Jour; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 11 June 2023, dozens of rioters hurled stones towards Israeli vehicles and a tank protecting bulldozers during excavation works at the southern border near Kfar Chouba (Hasbeiya). The Israeli army responded by firing tear gas canisters towards them causing them to retreat. An Israeli military vehicle was damaged.
+
+---
+
+[EVENT: LBN14885]
+Date: 2023-06-12
+Country: Lebanon | Location: Sidon
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 12 June 2023, parents of Al Makassed high school students held a protest outside the Islamic Charitable Purposes Association in Sidon (Sayda), against the increase of tuition fees for the upcoming school year.
+
+---
+
+[EVENT: LBN14886]
+Date: 2023-06-14
+Country: Lebanon | Location: Hortaala
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Lebanon (2021-) [State forces]
+Actor2: Al Masri Clan Militia (Lebanon) [Identity militia]
+Fatalities: 1
+Sources: Lebanese Army [Other]
+
+DESCRIPTION:
+On 14 June 2023, armed clashes erupted between the army intelligence forces and a gang likely headed and formed by Al Masri clansmen in Hortaala (Baalbek). The armed clashes that first erupted in the town resulted in the death of a wanted Masri clansman who is the head of the gang and was involved in earlier clashes in February during an army raid on drug producing factories in the town [captagon] where 3 soldiers were killed. Armed clashes then erupted between the army and other Masri clansmen after they transported the body to a hospital where they tried to take civilian hostages and exchanged fire with the army. The LAF arrested a number of individuals from the gang and seized weapons and ammunition.
+
+---
+
+[EVENT: LBN14883]
+Date: 2023-06-14
+Country: Lebanon | Location: Kfar Chouba
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 14 June 2023, protesters including farmers held a protest at the border near Kfar Chouba (Hasbeiya), in support of the 'resistance' and to demand their rights to their lands.
+
+---
+
+[EVENT: LBN14887]
+Date: 2023-06-15
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Al Zubaydat Clan Militia (Palestine) [Identity militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Other: On 15 June 2023, Al Zubaydat clansmen opened heavy fire in the air in As Safsaf neighborhood in Ein el Hilweh (Sayda), following the arrest of a clansman by the army.
+
+---
+
+[EVENT: LBN14882]
+Date: 2023-06-15
+Country: Lebanon | Location: Sin El Fil
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: El Nashra; L'Orient Le Jour; Megaphone News; Twitter [New media-National]
+
+DESCRIPTION:
+On 15 June 2023, several dozen demonstrators including depositors and members of the depositors outcry group burned tires outside several banks and smashed their facades in Sin El Fil (Al Matn), in demonstration against banks' policies and to demand the release of their trapped deposits. The demonstrators had gathered in Martyrs' square where the Minister of Immigrantion attended the rally, before they headed to Sin El Fil where the riots erupted.
+
+---
+
+[EVENT: LBN14897]
+Date: 2023-06-17
+Country: Lebanon | Location: Aley
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Megaphone News; Twitter [New media]
+
+DESCRIPTION:
+On 17 June 2023, activists held a protest in Aley (Aley) against the municipality's decision to demolish an ancient staircase for a private residential project.
+
+---
+
+[EVENT: LBN14894]
+Date: 2023-06-18
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Akhbar al Saha; Megaphone News; Twitter [New media]
+
+DESCRIPTION:
+On 18 June 2023, protesters including foreign women domestic workers marched from Tayyouneh roundabout towards the National Museum in Beirut - Achrafieh (Beirut), where they held a protest on International Domestic Workers' day to demand the abolishment of the Kafala system, and the establishment of laws to protect them.
+
+---
+
+[EVENT: LBN33175]
+Date: 2023-06-19
+Country: Lebanon | Location: El Mina
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 19 June 2023, protesters including students from the Antonine high school and their parents held a protest in El Mina (Tripoli) against the increase of the school's tuition fees amid worsening living and economic conditions.
+
+---
+
+[EVENT: LBN14890]
+Date: 2023-06-20
+Country: Lebanon | Location: Al Hadath
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 20 June 2023, maintenance employees from the Lebanese university held a protest at the Lebanese University campus in Al Hadath (Baabda) to demand the disbursement of their 5 months unpaid salaries, and to demand that the new maintenance contractors treat them with justice and respect. The General secretary of the CGTL was in attendance.
+
+---
+
+[EVENT: LBN14896]
+Date: 2023-06-20
+Country: Lebanon | Location: Jnah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 20 June 2023, protesters including Palestinian refugees in Syria and Lebanon, and Hamas supporters held a protest outside the UNRWA headquarters in Jnah (Baabda), to demand the implementation of international decisions regarding the rights to return of refugees.
+
+---
+
+[EVENT: LBN14895]
+Date: 2023-06-20
+Country: Lebanon | Location: Ein el Hilweh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 20 June 2023, protesters including Palestinian refugees and DFLP supporters held a protest outside the UNRWA office in Ein el Hilweh refugee camp (Sayda) to demand funding from donor countries so that the UNRWA can resume medical, educational and social services for refugees.
+
+---
+
+[EVENT: LBN14898]
+Date: 2023-06-21
+Country: Lebanon | Location: El Majidiye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 21 June 2023, several rallies from Hasbeiya, Chouf and Rashayya headed towards El Majidiye (Hasbeiya) near the borders with the Golan Heights, to demonstrate in support of the Druze community in the Golan who are demonstrating against the Israeli army.
+
+---
+
+[EVENT: LBN14892]
+Date: 2023-06-21
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 21 June 2023, protesters including activists, lawyers and depositors from the Mouttahidoun group held a demonstration outside Justice Palace in Beirut - Achrafieh (Beirut) to demand the Lebanese judiciary be reformed.
+
+---
+
+[EVENT: LBN14889]
+Date: 2023-06-21
+Country: Lebanon | Location: Beirut - Ras Beirut
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 21 June 2023, employees from Tele Liban held a demonstration outside the company headquarters at Tallet Khayyat neighborhood in Beirut - Ras Beirut (Beirut), to demand the disbursement of their unpaid salaries.
+
+---
+
+[EVENT: LBN33176]
+Date: 2023-06-22
+Country: Lebanon | Location: Beddawi
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 22 June 2023, armed clashes erupted between unidentified Palestinian armed men in Beddawi refugee camp (Al Miniyeh Al Danniyeh) over unknown reasons. An individual was injured and hospitalized.
+
+---
+
+[EVENT: LBN14891]
+Date: 2023-06-22
+Country: Lebanon | Location: El Majidiye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 22 June 2023, a large number of demonstrators including locals from Hasbeiya and Marjayoun and LDP supporters held a protest in El Majidiye (Hasbeiya) in support of the Druze community in the Golan who are demonstrating against the Israeli army.
+
+---
+
+[EVENT: LBN33748]
+Date: 2023-06-22
+Country: Lebanon | Location: Hortaala
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 22 June 2023, armed clashes erupted likely between clansmen from unidentified clan militias in Hortaala (Baalbek), following scuffles between 2 individuals. RPGs and heavy machine guns were used during the clashes. Casualties unknown.
+
+---
+
+[EVENT: LBN14888]
+Date: 2023-06-23
+Country: Lebanon | Location: Beirut - Ras Beirut
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 23 June 2023, protesters including depositors and activists from the Depositors Outcry group held a demonstration outside the Central Bank in Beirut - Ras Beirut (Beirut), against the bank's fiscal policies that are unjust towards depositors.
+
+---
+
+[EVENT: LBN14893]
+Date: 2023-06-23
+Country: Lebanon | Location: Aabra
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 23 June 2023, relatives of the Aabra clashes detainees held a demonstration outside the Grand Mosque in Aabra (Sayda), to demand the release of all detainees. The detainees were followers of the Sheikh Ahmad al Assir who participated in armed clashes against the army in 2013 in Aabra.
+
+---
+
+[EVENT: LBN33749]
+Date: 2023-06-24
+Country: Lebanon | Location: Beddawi
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 24 June 2023, scuffles turned into armed clashes presumably between unidentified clansmen in Beddawi (Al Miniyeh Al Danniyeh) likely over old feuds. Machine guns were used in the clashes. There were no casualties.
+
+---
+
+[EVENT: LBN33750]
+Date: 2023-06-24
+Country: Lebanon | Location: Saraain
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 24 June 2023, unidentified armed men presumed as clansmen opened fire towards the house of a Shouman clansmen in Saraain (Baalbek), resulting in material damage. It is assumed there were no fatalities. Security forces presume the attack came over earlier scuffles between them.
+
+---
+
+[EVENT: LBN33751]
+Date: 2023-06-25
+Country: Lebanon | Location: Knaisse
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 25 June 2023, scuffles turned into an exchange of fire between 2 opposing clans in Knaisse (Akkar) likely over old feuds. There were no casualties.
+
+---
+
+[EVENT: LBN14902]
+Date: 2023-06-26
+Country: Lebanon | Location: Qarqaf
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+Property destruction: On 26 June 2023, unidentified individuals presumed as clansmen set fire to several school and municipal buses in Qarqaf (Akkar). The buses are owned by the former President of the Municipality of Qarqaf Sheikh Yahya Rifai, who is accused of killing his relative Sheikh Ahmad Rifai over clan feuds.
+
+---
+
+[EVENT: LBN14899]
+Date: 2023-06-26
+Country: Lebanon | Location: Machgara
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 26 June 2023, protesters including municipal officials and Makhatir from neighboring towns held a protest outside the Lebanon Electricity Corporation in Machgara (West Bekaa), against the increase of electricity bills and fees.
+
+---
+
+[EVENT: LBN14903]
+Date: 2023-06-26
+Country: Lebanon | Location: Zebqine
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+Interception: On 26 June 2023, Hezbollah shot down an Israeli reconnaissance drone that infiltrated 7 kilometers into the Lebanese airspace near Zebqine (Tyr).
+
+---
+
+[EVENT: LBN14905]
+Date: 2023-06-28
+Country: Lebanon | Location: Zouq Mosbeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 28 June 2023, protesters held a demonstration at the main square in Zouq Mosbeh (Keserwan) against recurring power outages and water shortages.
+
+---
+
+[EVENT: LBN14906]
+Date: 2023-06-28
+Country: Lebanon | Location: Bab al Tabbaneh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 28 June 2023, armed clashes erupted presumably between clansmen from different clans in Bab al Tabbaneh (Tripoli) over unknown reasons. 2 individuals were injured during the clashes.
+
+---
+
+[EVENT: LBN14904]
+Date: 2023-06-28
+Country: Lebanon | Location: Kfar Dajjal
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 28 June 2023, locals from Qsaybeh town stood on the main road at the entrance of Kfar Dajjal (Al Nabatieh) to block it, in demonstration against the spread of garbage on the streets.
+
+---
+
+[EVENT: LBN14901]
+Date: 2023-06-29
+Country: Lebanon | Location: Machgara
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 29 June 2023, physical clashes erupted between women from 2 rival clans in Machgara (West Bekaa), over old feuds. Several participants were injured.
+
+---
+
+[EVENT: LBN14900]
+Date: 2023-06-30
+Country: Lebanon | Location: Bar Elias
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 30 June 2023, the group 'Qawlouna wal Aamal' organized a sit-in in Bar Elias (Zahle), against the burning of the Quran in Sweden.

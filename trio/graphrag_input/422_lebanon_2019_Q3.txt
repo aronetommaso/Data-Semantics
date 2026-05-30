@@ -1,0 +1,352 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Lebanon (ISO Code: 422)
+Temporal Period: Year 2019 - Quarter Q3
+Total Events in Chunk: 26 / 26
+==================================================
+
+[EVENT: LBN1215]
+Date: 2019-07-01
+Country: Lebanon | Location: Aarsal
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2019-2020) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: AFP; Norwegian Refugee Council; ReliefWeb [Other-International]
+
+DESCRIPTION:
+Property destruction: On July 1 2019, Lebanese military forces demolished least 20 homes belonging to Syrian refugees in the village of Arsal. Syrian refuges previously were given time until July 1 to demolish shelters made of materials other than timber and plastic sheeting. A Lebanese security source claimed that only 4 uninhabited concrete houses were demolished.
+
+---
+
+[EVENT: LBN1228]
+Date: 2019-07-08
+Country: Lebanon | Location: Aarsal
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2019-2020) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Property destruction: On July 8 2019, Lebanese military forces demolished at least 20 homes belonging to Syrian refugees in the village of Arsal. Syrian refuges previously were given time until July 1 to demolish shelters made of materials other than timber and plastic sheeting.
+
+---
+
+[EVENT: LBN1233]
+Date: 2019-07-11
+Country: Lebanon | Location: Aarsal
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on July 11 2019, 200 Syrian refugees who had been living in the town of Arsal returned to Syria, in a voluntary return coordinated with the Lebanese red cross.
+
+---
+
+[EVENT: LBN1231]
+Date: 2019-07-12
+Country: Lebanon | Location: Ras al Naqoura
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Movement of forces: On July 12 2019, two Israeli naval force boats entered Lebanese waters opposite to Ras Naqoura, and tossed sonic bombs into the water.
+
+---
+
+[EVENT: LBN1251]
+Date: 2019-07-16
+Country: Lebanon | Location: Houla
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Property destruction: As reported on July 16 2019, Israeli forces installed a barbed wire fence while bulldozing dozens of trees near the Abad area in the town of Hula.
+
+---
+
+[EVENT: LBN1264]
+Date: 2019-07-18
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Non-violent activity: On July 18 2019, Hezbollah's MP Nawwaf Musawi submitted his resignation after he was accused of shooting at a police station.
+
+---
+
+[EVENT: LBN1257]
+Date: 2019-07-18
+Country: Lebanon | Location: Ras al Naqoura
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Movement of forces: On July 18 2019, two Israeli naval force boats entered Lebanese waters opposite to Ras Naqoura, and tossed four sonic bombs into the water.
+
+---
+
+[EVENT: LBN1263]
+Date: 2019-07-19
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Lebanon (2019-2020) [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Non-violent activity: On July 19 2019, Lebanon's parliament approved a 2019 austerity budget. The budget is aimed at stabilizing the economy and unlocking international aid.
+
+---
+
+[EVENT: LBN1271]
+Date: 2019-07-26
+Country: Lebanon | Location: Sidon
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Strikes: on 26 July 2019, Palestinians in all refugee camps in south Lebanon opened in a general strike in protest of the new labour Laws.
+
+---
+
+[EVENT: LBN1289]
+Date: 2019-08-08
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on August 8, in the last 24 hours, 346 Syrian refugees returned to Syria from Lebanon through the Yabos and Talaklakh crossing.
+
+---
+
+[EVENT: LBN14218]
+Date: 2019-08-08
+Country: Lebanon | Location: Tripoli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2019-2020) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Access Center for Human Rights (ACHR) [Local partner-National]
+
+DESCRIPTION:
+Around 8 August 2019 (as reported), military intelligence stormed a Syrian refugee camp and arrested around 50 refugees in North governorate (coded to Tripoli, Tripoli). No specific reason was given for the arrests.
+
+---
+
+[EVENT: LBN1290]
+Date: 2019-08-08
+Country: Lebanon | Location: Halba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2019-2020) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: AFP; Norwegian Refugee Council; ReliefWeb [Other-International]
+
+DESCRIPTION:
+Property destruction: On August 8 2019, Lebanese military forces partially demolished at least 350 homes belonging to Syrian refugees in four tented settlement in Akkar. Syrian refuges previously were given time until July 1 to demolish shelters made of materials other than timber and plastic sheeting.
+
+---
+
+[EVENT: LBN1292]
+Date: 2019-08-09
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on August 9, in the last 24 hours, 395 Syrian refugees returned to Syria from Lebanon through the Yabos and Talaklakh crossing.
+
+---
+
+[EVENT: LBN1296]
+Date: 2019-08-14
+Country: Lebanon | Location: Toul
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 1
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Explosive remnants of war: As reported on August 14 2019, a Lebanese child was killed and another injured in the town of Toul in the Nabatiyeh district by an unexploded Israeli cluster bomb from a previous war.
+
+---
+
+[EVENT: LBN1302]
+Date: 2019-08-16
+Country: Lebanon | Location: Houla
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+Property destruction: As reported on August 16 2019, an Israeli aircraft entered Lebanese airspace from the Bint Jbeil area and flew over the villages of Marjayoun district. The aircraft threw flammable materials onto several areas on the border and a large fire broke out that spread to the border with Israel.
+
+---
+
+[EVENT: LBN1304]
+Date: 2019-08-19
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on August 19, in the last 24 hours, 362 Syrian refugees returned to Syria from Lebanon through the Yabos and Talaklakh crossing.
+
+---
+
+[EVENT: LBN1309]
+Date: 2019-08-22
+Country: Lebanon | Location: Majdel Selm
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 1
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Explosive remnants of war: On August 22 2019, a Lebanese worker was killed in a field near Majdal Selm by an unexploded Israeli cluster bomb from a previous war.
+
+---
+
+[EVENT: LBN1326]
+Date: 2019-08-28
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Amnesty International; ReliefWeb [Other]
+
+DESCRIPTION:
+Displacement: As reported on August 28 2019, Lebanese authorities have forcibly displaced 2,447 Syrians between April 24 and August 9 2019.
+
+---
+
+[EVENT: LBN1328]
+Date: 2019-08-29
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: On August 29 2019, approximately 787 Syrian refugees returned to Syria from Lebanon in coordination with the UNHCR. Syrian refugees gathered at meeting points in Beirut, Al-Masna, Tripoli, Aboudieh, Nabatieh, Saida, Hasbaya, Bourj Hammoud, Al-Kaa and Arsal.
+
+---
+
+[EVENT: LBN1327]
+Date: 2019-08-29
+Country: Lebanon | Location: Ras al Naqoura
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2019-2020) [State forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Security measures: On August 29 2019, Lebanese military forces together with the UN Interim Force (UNIFIL) intensified their presence at the border with Israel amid recent tensions.
+
+---
+
+[EVENT: LBN1330]
+Date: 2019-08-30
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on August 30, in the last 24 hours, 423 Syrian refugees returned to Syria from Lebanon through the Yabos and Talaklakh crossing.
+
+---
+
+[EVENT: LBN1339]
+Date: 2019-09-04
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on September 4, in the last 24 hours, 420 Syrian refugees returned to Syria from Lebanon through the Yabos and Talaklakh crossing.
+
+---
+
+[EVENT: LBN1341]
+Date: 2019-09-05
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: ReliefWeb [Other]
+
+DESCRIPTION:
+Displacement: As reported on September 5 2019, Lebanese authorities have forcibly deported 2,731 Syrians between May 21 and August 28 2019. This affected all Syrian refugees who arrived irregularly after April 24.
+
+---
+
+[EVENT: LBN1345]
+Date: 2019-09-09
+Country: Lebanon | Location: Ramieh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: AP; Arutz Sheva [Regional-International]
+
+DESCRIPTION:
+Interception: On September 9, Hezbollah shot down an Israeli drone over the village of Ramyeh in southern Lebanon.
+
+---
+
+[EVENT: LBN1354]
+Date: 2019-09-16
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on September 16, in the last 24 hours, 354 Syrian refugees returned to Syria from Lebanon through the Yabos and Talaklakh crossing.
+
+---
+
+[EVENT: LBN1374]
+Date: 2019-09-28
+Country: Lebanon | Location: El Qaa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2019-2020) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+Property destruction: As reported on September 28 2019, Lebanese military and Police forces demolished buildings that were constructed by Syrians on the land of the El Qaa municipality with smuggled construction materials from Syria.

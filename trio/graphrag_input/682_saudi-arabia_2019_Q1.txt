@@ -1,0 +1,32 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Saudi Arabia (ISO Code: 682)
+Temporal Period: Year 2019 - Quarter Q1
+Total Events in Chunk: 2 / 2
+==================================================
+
+[EVENT: SAU4488]
+Date: 2019-01-29
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Aden al Ghad [Regional]
+
+DESCRIPTION:
+Interception: On 29 January 2019, Saudi forces intercepted a Houthi ballistic missile over Khamis Mushait (Khamis Mushait, Asir).
+
+---
+
+[EVENT: SAU4489]
+Date: 2019-01-30
+Country: Saudi Arabia | Location: Abha
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Interception: On 30 January 2019, The Saudi-led coalition announced that it had shot down a Houthi drone over the city of Abha on Wednesday. No injuries or fatalities were reported.

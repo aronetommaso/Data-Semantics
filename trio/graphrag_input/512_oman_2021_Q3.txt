@@ -1,0 +1,18 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Oman (ISO Code: 512)
+Temporal Period: Year 2021 - Quarter Q3
+Total Events in Chunk: 1 / 1
+==================================================
+
+[EVENT: OMN43]
+Date: 2021-07-05
+Country: Oman | Location: Coast of Sohar
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [External/Other forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: TankerTrackers; Tradewinds [International]
+
+DESCRIPTION:
+Non-violent activity:: Around 5 July 2021, presumed Islamic Revolutionary Guard Corps boarded crude oil tanker Winsome (IMO: 9192260) off the Coast of Sohar (Al Batinah North) as she had left the port in Oman en route to China. As of late July, news on the ship's location remained unconfirmed although she was suspected to be north of Qeshm Island near Bandar Abbas in Iran.

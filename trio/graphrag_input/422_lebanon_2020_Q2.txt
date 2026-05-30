@@ -1,0 +1,98 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Lebanon (ISO Code: 422)
+Temporal Period: Year 2020 - Quarter Q2
+Total Events in Chunk: 7 / 7
+==================================================
+
+[EVENT: LBN4798]
+Date: 2020-04-14
+Country: Lebanon | Location: Aadayseh Marjayoun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+Movement of forces: On 14 April 2020, Israeli forces entered Lebanese lands south of Adaysit Marjayoun with a Merkava tank and a bulldozer and set up a tent. It was reported that the Lebanese military deployed in the area, but UNIFIL forces prevented any clashes from taking place and the Israeli forces withdrew after 4 hours.
+
+---
+
+[EVENT: LBN4800]
+Date: 2020-04-16
+Country: Lebanon | Location: Houla
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 16 April 2020, Israeli forces worked to establish a military observation post on the southern side of the al Abad military site overlooking the town of Houla in the Marjayoun District. They razed lands and removed dirt from the Lebanese al Wazzani parks, and transported the dirt and rocks to the southern side of the Ghajar town.
+
+---
+
+[EVENT: LBN9268]
+Date: 2020-04-23
+Country: Lebanon | Location: Houla
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Headquarters or base established: On 23 April 2020, Israeli forces worked to establish a military observation post on the southern side of the al Abad military site overlooking the town of Houla in the Marjayoun District. They razed lands and removed dirt from the Lebanese al Wazzani parks, and crossed the fence at the Maskaff camp opposite the Lebanese Army checkpoint in Adaisseh.
+
+---
+
+[EVENT: LBN9274]
+Date: 2020-04-27
+Country: Lebanon | Location: Houla
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Headquarters or base established: On 27 April 2020, Israeli forces continued work to establish a military observation post on the southern side of the al Abad military site overlooking the town of Houla in the Marjayoun District. They razed lands and removed dirt from the Lebanese al Wazzani parks.
+
+---
+
+[EVENT: LBN9332]
+Date: 2020-05-12
+Country: Lebanon | Location: El Aabboudiye
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Explosive remnants of war: On 12 May 2020, a Lebanese shepherd was injured by an unexploded landmine likely from a previous war in the outskirts of the town of El Aabboudiye in Akkar. The shepherd was hospitalized for his injuries.
+
+---
+
+[EVENT: LBN5264]
+Date: 2020-05-29
+Country: Lebanon | Location: Chebaa
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Government of Lebanon (2020-2021) [State forces]
+Actor2: UNIFIL: United Nations Interim Force in Lebanon (1978-) [External/Other forces]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Agreement: On 29 May 2020, the Lebanese Government and UNIFIL forces agreed to a one-year extension of UNIFIL forces across the Lebanese-Israeli border, amid rising tensions in the past few weeks. Coded at border town of Chebaa with GP 2.
+
+---
+
+[EVENT: LBN5319]
+Date: 2020-06-03
+Country: Lebanon | Location: Jbeil
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Lebanon (2020-2021) [State forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+Arrests: On 3 June 2020, Lebanese security forces detained a prominent activist, Rabia al Zain, on the basis of two arrest warrants. He is known for being a leader in the movement against the political system in Tripoli and in February 2020 had an in-absentia arrest warrant issued against him. His arrest sparked numerous demonstrations.

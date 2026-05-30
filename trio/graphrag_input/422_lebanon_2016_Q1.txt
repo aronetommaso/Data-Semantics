@@ -1,0 +1,205 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Lebanon (ISO Code: 422)
+Temporal Period: Year 2016 - Quarter Q1
+Total Events in Chunk: 15 / 15
+==================================================
+
+[EVENT: LBN451]
+Date: 2016-01-02
+Country: Lebanon | Location: Tripoli
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2014-2016) [State forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Defusal: State security patrol found during the holidays a bag on a street side walk in Tripoli containing grenades and an explosive belt set to explode. A military expert dismantled the explosives
+
+---
+
+[EVENT: LBN463]
+Date: 2016-01-07
+Country: Lebanon | Location: Nabatiye
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Non-Violent Activity: Israeli planes have been repeatedly flying over Nabatieh and Iqlim Touffah in the south, since 8:30 pm, and have effectuated mock raids, at medium altitude.
+
+---
+
+[EVENT: LBN469]
+Date: 2016-01-09
+Country: Lebanon | Location: Majdlaya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2014-2016) [State forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Weapons Seizure: A Lebanese Armed Forces' Intelligence unit raided on Friday night the residence of a Syrian national in the town of Majdlaya in Zgharta. They confiscated numerous hand grenades and handed them along with the culprit to specialized authorities.
+
+---
+
+[EVENT: LBN495]
+Date: 2016-01-21
+Country: Lebanon | Location: Zgharta
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Arrests: A Lebanese Army patrol raided the displaced Syrians gatherings in Zghorta, Iaal and Marah Kfarsghab, and detained 40 persons for illegally entering Lebanon.
+
+---
+
+[EVENT: LBN511]
+Date: 2016-01-29
+Country: Lebanon | Location: Braytal
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2014-2016) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Arrests: The Lebanese army arrested 34 Syrians in the Bekaa town of Qob Elias on Friday.
+
+---
+
+[EVENT: LBN525]
+Date: 2016-02-02
+Country: Lebanon | Location: Tripoli
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2014-2016) [State forces]
+Fatalities: 0
+Sources: National News Agency Lebanon; Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Weapons Seizure: Lebanese forces raided several houses in Berranieh in Tripoli looking for those responsible for the incident the day before. They seized explosives and hand bombs, ammunitions, 9 camera surveillance and communication devices.
+
+---
+
+[EVENT: LBN10478]
+Date: 2016-02-10
+Country: Lebanon | Location: Hilta
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Movement of forces: On 10 February 2016, Israeli Military Forces crossed the technical fence 75 meters deep into Hilta (Hasbaya) and allegedly seized around 100 goats belonging to a Lebanese shepherd.
+
+---
+
+[EVENT: LBN540]
+Date: 2016-02-12
+Country: Lebanon | Location: Al Wazzani
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+Non-Violent Activity: Israeli soldiers threw stun grenades and smoke bombs towards shepherds in the southern Lebanese border region of al-Wazzani on Friday. No injuries reported.
+
+---
+
+[EVENT: LBN570]
+Date: 2016-03-06
+Country: Lebanon | Location: Mount Hermon
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Non-Violent Event: Israeli forces on Mar 6 fired machine guns and smoke bomb on a surveillance post in Jabal al Sheikh/Mount Hermon while Israeli drones flew overhead. No casualties or interaction with another group reported.
+
+---
+
+[EVENT: LBN572]
+Date: 2016-03-08
+Country: Lebanon | Location: Kfar Kila
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Palestinian News Network [Regional]
+
+DESCRIPTION:
+Non-Violent Activity: Israel forces threw tear gas at Lebanese farmers across the border in the area of Kfar Kila on March 8. A similar event happened a day earlier as well.
+
+---
+
+[EVENT: LBN575]
+Date: 2016-03-09
+Country: Lebanon | Location: Kfar Kila
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Daily Star (Lebanon); National News Agency Lebanon [National]
+
+DESCRIPTION:
+Non-Violent Activity: Israel forces fired tear gas at Lebanese farmers along the border near Kfer Kela on March 9. The violation was reported to UNIFIL.
+
+---
+
+[EVENT: LBN583]
+Date: 2016-03-16
+Country: Lebanon | Location: Aabbassiye
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Non-Violent Activity: On March 16, Israeli forces fired three smoke bombs at the eastern edge of Abbasiyeh near a mosque in the area.
+
+---
+
+[EVENT: LBN587]
+Date: 2016-03-21
+Country: Lebanon | Location: Nabatiye
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Non-violent activity: Israeli planes have been conducting mock raids over Nabatieh and Iklim Tuffah at a medium altitude on March 21.
+
+---
+
+[EVENT: LBN10510]
+Date: 2016-03-23
+Country: Lebanon | Location: Bustra
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Movement of forces: On 23 March 2016, 12 soldiers from the Israeli Military Forces crossed the southern border's blue line in the Basatra (Bustra) farm and moved 30km into the Lebanese territories attempting to kidnap a shepherd.
+
+---
+
+[EVENT: LBN601]
+Date: 2016-03-30
+Country: Lebanon | Location: Rayak
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Property destruction: An unidentified shooter opened fire on a candy shop in Riaq causing material damages but no injuries (Mar 30 2016). Not clear if anyone was present at the time.

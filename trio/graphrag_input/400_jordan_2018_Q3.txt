@@ -1,0 +1,44 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Jordan (ISO Code: 400)
+Temporal Period: Year 2018 - Quarter Q3
+Total Events in Chunk: 3 / 3
+==================================================
+
+[EVENT: JOR881]
+Date: 2018-07-06
+Country: Jordan | Location: Ar Ramtha
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Ghad (Jordan) [National]
+
+DESCRIPTION:
+Displacement: On 6 July 2018, thousands of Syrian refugees crossed the border from the Ar Ramtha district (Irbid) into Syria, following an agreement by the Syrian government, the Russian government, and rebel armed groups in south Syria.
+
+---
+
+[EVENT: JOR880]
+Date: 2018-07-06
+Country: Jordan | Location: Mafraq
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Ghad (Jordan) [National]
+
+DESCRIPTION:
+Displacement: On 6 July 2018, thousands of Syrian refugees crossed the border from the Al Mafraq governorate into Syria, following an agreement by the Syrian government, the Russian government, and rebel armed groups in south Syria.
+
+---
+
+[EVENT: JOR201]
+Date: 2018-07-22
+Country: Jordan | Location: Amman
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Agreement: Israeli forces evacuated hundreds of White Helmets to Jordan on July 22.

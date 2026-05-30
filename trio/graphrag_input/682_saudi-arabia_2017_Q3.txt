@@ -1,0 +1,46 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Saudi Arabia (ISO Code: 682)
+Temporal Period: Year 2017 - Quarter Q3
+Total Events in Chunk: 3 / 3
+==================================================
+
+[EVENT: SAU643]
+Date: 2017-07-26
+Country: Saudi Arabia | Location: King Fahd Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [External/Other forces]
+Fatalities: 0
+Sources: UN Panel of Experts; Xinhua; Yemen News Agency SABA [Other-Regional]
+
+DESCRIPTION:
+Interception: On 26 July 2017, Saudi forces intercepted a Houthi-Saleh Scud-C (possibly Burkan-2H) extended range (600+ km) short-range ballistic missile just before it reached King Fahd Air Base (At Taif, Mecca). Houthi-Saleh forces claimed to have hit the target accurately. The missile was launched from Harf Sufyan (Amran).
+
+---
+
+[EVENT: SAU23235]
+Date: 2017-08-27
+Country: Saudi Arabia | Location: Abha
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [External/Other forces]
+Fatalities: 0
+Sources: UN Panel of Experts [Other]
+
+DESCRIPTION:
+Interception: On 27 August 2017, Saudi forces intercepted an undetermined Houthi-Saleh free flight rocket/short-range ballistic missile targeting Abha (Asir).
+
+---
+
+[EVENT: SAU801]
+Date: 2017-09-24
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [External/Other forces]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Interception: On 24 September 2017, Saudi air defense forces shot down 1 Houthi-Saleh ballistic missile targeting Khamis Mushait city (Khamis Mushait, Asir). Saudi forces claimed to have destroyed the launch site in Yemen.

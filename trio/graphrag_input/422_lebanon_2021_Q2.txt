@@ -1,0 +1,365 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Lebanon (ISO Code: 422)
+Temporal Period: Year 2021 - Quarter Q2
+Total Events in Chunk: 27 / 27
+==================================================
+
+[EVENT: LBN9016]
+Date: 2021-04-01
+Country: Lebanon | Location: Tripoli
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Military Forces of Lebanon (2020-2021) [State forces]
+Fatalities: 0
+Sources: AlManar TV; An-Nahar [National]
+
+DESCRIPTION:
+Defusal: On 1 April 2021, a hand grenade left by an unidentified armed group was found on the street linking Al Qobba and Abi Samra areas in Tripoli city (Tripoli). The military defused it.
+
+---
+
+[EVENT: LBN9042]
+Date: 2021-04-03
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Lebanon (2020-2021) [State forces]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+Security measures: On 3 April 2021, Lebanese authorities implemented a three-day total nationwide lockdown from 3-5 April to prevent gatherings during the Easter holiday amid the coronavirus pandemic. Coded at Beirut (Beirut).
+
+---
+
+[EVENT: LBN9082]
+Date: 2021-04-11
+Country: Lebanon | Location: Mrayjat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Property destruction: On 11 April 2021, an unidentified armed group fired at a Mufti's car in Mrayjat (Zahleh) shortly after midnight. No injuries/fatalities occurred.
+
+---
+
+[EVENT: LBN9083]
+Date: 2021-04-12
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Lebanon (2020-2021) [State forces]
+Fatalities: 0
+Sources: GardaWorld [Other]
+
+DESCRIPTION:
+Security measures: On 12 April 2021, the Lebanese authorities imposed a new curfew from 5 AM to 9.30 PM during the month of Ramadan until 12 May to curb the spead of the coronavirus. Coded at Beirut.
+
+---
+
+[EVENT: LBN9086]
+Date: 2021-04-12
+Country: Lebanon | Location: Beddawi
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2020-2021) [State forces]
+Actor2: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+Defusal: On 12 April 2021, a bomb (with its detonator removed) was found near Salah al Din Mosque in Beddawi (Al Miniyeh Al Danniyeh). A military expert safely inspected and detonated it.
+
+---
+
+[EVENT: LBN9132]
+Date: 2021-04-20
+Country: Lebanon | Location: El Aabboudiye
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+Displacement: Around 20 April 2021, in the last 24 hours, 307 Syrian refugees (92 women and 157 children) returned to Syria from Lebanon through the Yabos and Talaklakh crossing [coded at Lebanese El Aabboudiye (Akkar) border crossing location].
+
+---
+
+[EVENT: LBN9156]
+Date: 2021-04-28
+Country: Lebanon | Location: Zaoutar ech Charqiye
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+Explosive remnants of war: On 28 April 2021, ordnance left by Israeli forces during the 2006 war exploded in Khilat al Shaqraoui near Zaoutar ech Charqiye (Al Nabatiyeh), injuring a worker planting trees.
+
+---
+
+[EVENT: LBN9175]
+Date: 2021-04-28
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Lebanon (2020-2021) [State forces]
+Fatalities: 0
+Sources: GardaWorld [Other]
+
+DESCRIPTION:
+Security measures: On 28 April 2021, the Lebanese government implemented a 24-hour nationwide lockdown from 1 May to 4 May during the Orthodox Easter holiday to curb the spread of the coronavirus. Coded at Beirut (Beirut).
+
+---
+
+[EVENT: LBN9188]
+Date: 2021-04-30
+Country: Lebanon | Location: Wadi Khaled
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+Explosive remnants of war: On 30 April 2021, a landmine planted by an unidentified armed group [likely in previous wars] exploded in Wadi Khaled (Akkar), injuring one person.
+
+---
+
+[EVENT: LBN11090]
+Date: 2021-05-01
+Country: Lebanon | Location: Chebaa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra; Murr TV [National]
+
+DESCRIPTION:
+Movement of forces: On 1 May 2021, Israeli military forces crossed the Blue Line 45 meters into the Lebanese territory at the outskirts of Chebaa (Hasbeiya) farms for ten minutes and allegedly attempted to abduct a shepherd.
+
+---
+
+[EVENT: LBN11129]
+Date: 2021-05-10
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+Strikes: On 10 May 2021, Lebanon's private hospitals announced a 6-day strike in protest of the court verdict against physicians in the case of a child who had lost her limbs because of a medical error. The order of Physicians also announced a one-week strike. Coded at Beirut, Beirut.
+
+---
+
+[EVENT: LBN11111]
+Date: 2021-05-11
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Lebanon (2020-2021) [State forces]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+Security measures: On 11 May 2021, Lebanon announced a two-day nationwide 24hr lockdown for Eid el Fitr [likely to curb the spread of the coronavirus]. Coded at Beirut.
+
+---
+
+[EVENT: LBN11153]
+Date: 2021-05-13
+Country: Lebanon | Location: Er Rachidiye
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2020-2021) [State forces]
+Actor2: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Weapons seizure: On 13 May 2021, the military forces of Lebanon seized three rockets left by an unidentified armed group around Er Rachidiye (Tyr) Palestinian refugee camp.
+
+---
+
+[EVENT: LBN11192]
+Date: 2021-05-18
+Country: Lebanon | Location: El Habbariye
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2020-2021) [State forces]
+Actor2: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+Weapons seizure: On 18 May 2021, the Lebanese military forces seized six empty rocket launchpad and one unfired rocket left by an unknown armed group on the outskirts of El Habbariye (Hasbeiya) town hours after six rockets were fired towards Israel but fell in Lebanon. The rocket was diffused and detonated.
+
+---
+
+[EVENT: LBN11196]
+Date: 2021-05-18
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+Strikes: On 18 May 2021, public administration employees announced a two-day strike in different governorates in protest of the worsening economic and living conditions and the deteriorating minimum wage. Coded as Beirut.
+
+---
+
+[EVENT: LBN11210]
+Date: 2021-05-19
+Country: Lebanon | Location: Saddiqine
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2020-2021) [State forces]
+Actor2: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Weapons seizure: On 19 May 2021, the Lebanese military forces seized a rocket launchpad with one unfired rocket left by an unknown armed group around Saddiqine (Tyr) town. They defused and likely successfully detonated the rocket.
+
+---
+
+[EVENT: LBN11300]
+Date: 2021-05-22
+Country: Lebanon | Location: Tripoli
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2020-2021) [State forces]
+Actor2: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+Weapons seizure: On 22 May 2021, the military forces found a bag filled with bombs and ammunition left by an unidentified armed group in a parking lot in Tripoli city (Tripoli). The military inspected it and transferred it to another location.
+
+---
+
+[EVENT: LBN11298]
+Date: 2021-05-25
+Country: Lebanon | Location: Aadayseh Marjayoun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Movement of forces: On 25 May 2021, an israeli military force patrol crossed 100m into the Lebanese territory on the outskirts of Aadayseh Marjayoun (Marjayoun) for two hours then withdrew.
+
+---
+
+[EVENT: LBN11292]
+Date: 2021-05-26
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: GardaWorld [Other]
+
+DESCRIPTION:
+Strikes: On 26 May 2021, the General Confederation of Lebanese Workers organized a nationwide (Akkar, Baalbek, Hermel, Nabatieh, Marjayoun, Saida, Tyr) strike to protest against the reduction of subsidized goods. It also called for government formation to implement economic reforms. Coded at Beirut.
+
+---
+
+[EVENT: LBN11316]
+Date: 2021-06-02
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar; El Nashra [National]
+
+DESCRIPTION:
+Strikes: On 2 June 2021, public administration workers across the country went on a three-day strike in protest against the worsening economic and living conditions the deteriorating purchasing power. Coded at Beirut.
+
+---
+
+[EVENT: LBN11352]
+Date: 2021-06-10
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Strikes: On 10 June 2021, public administration employees carried out a strike in different parts of the country in demonstration against the worsening economic and living conditions and deteriorating purchasing power for their salaries. Employees closed the offices in some areas while others continued to work to manage people's requests. Coded Beirut.
+
+---
+
+[EVENT: LBN11349]
+Date: 2021-06-11
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Daily Star (Lebanon); El Nashra [National]
+
+DESCRIPTION:
+Strikes: On 11 June 2021, Pharmacies went on a two-day nation-wide strike over the lack of supplies like baby milk, medicines, gasoline. Coded Beirut.
+
+---
+
+[EVENT: LBN11411]
+Date: 2021-06-16
+Country: Lebanon | Location: Aadayseh Marjayoun
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2021-2022) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Other: On 16 June 2021, Israeli military forces hurled tear gas at a coffee shop that had people in Aadayseh Marjayoun (Marjayoun) while the forces were doing maintenance to the security cameras on the separation wall.
+
+---
+
+[EVENT: LBN11407]
+Date: 2021-06-17
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+Strikes: On 17 June 2021, the General Labor Union organized a nationwide strike and demonstrations in protest against the failure to form a government to address the multiple crises. Trade Unions, the Association of Banks, and some traditional political parties participate in the movements. Coded Beirut.
+
+---
+
+[EVENT: LBN11537]
+Date: 2021-06-23
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Strikes: Around 23 June 2021 (from 22 - 24 June), public administration employees carried out a 3-day strike in protest against the worsening economic and living conditions. Coded Beirut.
+
+---
+
+[EVENT: LBN11695]
+Date: 2021-06-28
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+Strikes: On 28 June 2021, the Lebanese Banks' Association announced a nationwide strike starting June 29th in solidarity with the Lebanese Swiss Bank which was assaulted by a group of rioters earlier. Coded to Beirut.
+
+---
+
+[EVENT: LBN11726]
+Date: 2021-06-30
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Strikes: On 30 June 2021, official public institutions committed to the nationwide strike decision called on by the Public Sector Employees' Association as a protest against the worsening economic and living conditions. Coded to Beirut.

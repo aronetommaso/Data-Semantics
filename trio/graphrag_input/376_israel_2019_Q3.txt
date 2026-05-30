@@ -1,0 +1,335 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Israel (ISO Code: 376)
+Temporal Period: Year 2019 - Quarter Q3
+Total Events in Chunk: 24 / 24
+==================================================
+
+[EVENT: ISR1362]
+Date: 2019-07-08
+Country: Israel | Location: Karmiyya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Hamas Movement [Political militia]
+Actor2: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Arab News; Jerusalem Post [National-International]
+
+DESCRIPTION:
+Interception: On 8 July 2019, Israeli forces shot down an unarmed Palestinian reconnaissance drone that crossed from Gaza into Israel. The drone was seen flying over Karmiya and Zikim and is suspected to be Hamas'.
+
+---
+
+[EVENT: ISR1383]
+Date: 2019-07-19
+Country: Israel | Location: Jish
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Israel) [Political militia]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Property destruction: On July 19 2019, Israeli ultra-nationalists spray-painted racist anti-Arab and anti-Palestinian graffiti on Palestinian walls and slashed tires of Palestinian-owned cars in the Israeli town of Jish.
+
+---
+
+[EVENT: ISR1392]
+Date: 2019-07-27
+Country: Israel | Location: Kafr Qaseem
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Palestinian News Network [International]
+
+DESCRIPTION:
+Property destruction: on 27 July 2019, a group of settlers punctured tires and sprayed racist graffiti on houses, in Kafr Qaseem city.
+
+---
+
+[EVENT: ISR1396]
+Date: 2019-07-31
+Country: Israel | Location: Jisr ez Zarqa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Times of Israel [National]
+
+DESCRIPTION:
+Property destruction: on 31 July 2019, Israeli settlers slashed tires and sprayed racist graffiti on houses and cars in Jisr ez Zarqa village of Haifa district.
+
+---
+
+[EVENT: ISR1398]
+Date: 2019-08-05
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Al Ittihad [International]
+
+DESCRIPTION:
+Property destruction: Israeli authorities on August 5 2019, demolished the Bedouin village of al-Araqib in the Negev desert in southern Israel for the 149th time.
+
+---
+
+[EVENT: ISR1408]
+Date: 2019-08-16
+Country: Israel | Location: Sderot
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Interception: On August 16 2019, a rocket was fired from Gaza into southern Israel on Friday night. The rocket was intercepted by the Iron dome and no damage or injuries were caused. Sirens sounded near Sderot.
+
+---
+
+[EVENT: ISR1413]
+Date: 2019-08-17
+Country: Israel | Location: Sderot
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PIJ: Palestinian Islamic Jihad [Political militia]
+Actor2: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: AFP; Jerusalem Post [National-International]
+
+DESCRIPTION:
+Interception: On August 17 2019, three rockets were fired from Gaza into southern Israel. Two rockets were intercepted by the Iron dome, but a rocket fragment damaged a house in Sderot. Sirens sounded near Sderot. It is not clear what happened to the third rocket. Islamic Jihad has taken responsibility for the rockets fired.
+
+---
+
+[EVENT: ISR10992]
+Date: 2019-08-18
+Country: Israel | Location: Qiryat Gat
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [International]
+
+DESCRIPTION:
+Arrests: On 18 August 2019, Israeli military forces arrested 30 Palestinian workers near Qiryat Gat city, claiming they entered and worked in Israel illegally.
+
+---
+
+[EVENT: ISR1424]
+Date: 2019-08-22
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Al Ghad (Jordan) [International]
+
+DESCRIPTION:
+Property destruction: Israeli authorities on August 22 2019, demolished the Bedouin village of al-Araqib in the Negev desert in southern Israel for the 150th time.
+
+---
+
+[EVENT: ISR12927]
+Date: 2019-08-23
+Country: Israel | Location: Haifa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Israel) [Political militia]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Colbo News [Subnational]
+
+DESCRIPTION:
+Property destruction: On 23 August 2019, an unidentified assailant lit on fire and destroyed a part of a Muslim cemetery in Haifa city. Police forces later arrested an Israeli man from Jerusalem on suspicion of arson.
+
+---
+
+[EVENT: ISR1428]
+Date: 2019-08-25
+Country: Israel | Location: Sderot
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: AFP; Jerusalem Post; BBC News [National-International]
+
+DESCRIPTION:
+Interception: On August 25 2019, three rockets were fired from the Gaza Strip into southern Israel. Two of the rockets were intercepted by the Iron dome above an open-air concert in Sderot. No injuries were caused.
+
+---
+
+[EVENT: ISR1431]
+Date: 2019-08-28
+Country: Israel | Location: Tel Aviv
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Government of Israel (2009-2021) [State forces]
+Actor2: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Arutz Sheva [National]
+
+DESCRIPTION:
+Agreement: On August 28 2019, Israel and Hezbollah have reportedly reached an unwritten agreement on a ceasefire. Both sides have agreed that further attacks could risk a new war.
+
+---
+
+[EVENT: ISR1434]
+Date: 2019-08-29
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Al Ittihad [International]
+
+DESCRIPTION:
+Property destruction: Israeli authorities on August 29 2019, demolished the Bedouin village of al-Araqib in the Negev desert in southern Israel for the 156th time.
+
+---
+
+[EVENT: ISR1432]
+Date: 2019-08-29
+Country: Israel | Location: Metulla
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Al Nour; Arutz Sheva [National-Regional]
+
+DESCRIPTION:
+Security measures: On August 29 2019, Israeli forces placed soldiers along the Lebanese border implemented a curfew and instructed farmers in the area not to work near the border. They also used dummies dressed as soldiers and placed them in Military vehicles along the border.
+
+---
+
+[EVENT: ISR1442]
+Date: 2019-09-06
+Country: Israel | Location: Sderot
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Arutz Sheva [National]
+
+DESCRIPTION:
+Interception: On 6 September 2019, five rockets were fired from Gaza into southern Israel. At least one rocket exploded in an open field and caused a small fire to break out in an unnamed location, while the rest were presumably intercepted. Sirens were heard in Sderot (Ashqelon, HaDarom).
+
+---
+
+[EVENT: ISR1443]
+Date: 2019-09-06
+Country: Israel | Location: Ibbim
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Arutz Sheva [National]
+
+DESCRIPTION:
+Interception: On 6 September 2019, five rockets were fired from Gaza into southern Israel. At least one rocket exploded in an open field and caused a small fire to break out in an unnamed location, while the rest were presumably intercepted. Sirens were heard in Ibbim (Ashqelon, HaDarom).
+
+---
+
+[EVENT: ISR1444]
+Date: 2019-09-06
+Country: Israel | Location: Or HaNer
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Arutz Sheva [National]
+
+DESCRIPTION:
+Interception: On 6 September 2019, five rockets were fired from Gaza into southern Israel. At least one rocket exploded in an open field and caused a small fire to break out in an unnamed location, while the rest were presumably intercepted. Sirens were heard in Kibbutz Or HaNer (Ashqelon, HaDarom).
+
+---
+
+[EVENT: ISR1447]
+Date: 2019-09-08
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Al Ittihad [International]
+
+DESCRIPTION:
+Property destruction: Israeli authorities on September 8 2019, demolished the Bedouin village of al-Araqib in the Negev desert in southern Israel for the 159th time.
+
+---
+
+[EVENT: ISR1449]
+Date: 2019-09-10
+Country: Israel | Location: Ashqelon
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Israeli Defense Forces; Twitter [Other-New media]
+
+DESCRIPTION:
+Interception: On September 10 2019, two rockets were fired from the Gaza Strip towards the cities of Ashkelon and Ashdod in Israel. Both rockets were intercepted by the Iron dome. No injuries were caused.
+
+---
+
+[EVENT: ISR1448]
+Date: 2019-09-10
+Country: Israel | Location: Ashdod
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Twitter; Israeli Defense Forces [Other-New media]
+
+DESCRIPTION:
+Interception: On September 10 2019, two rockets were fired from the Gaza Strip towards the cities of Ashkelon and Ashdod in Israel. Both rockets were intercepted by the Iron dome. No injuries were caused. In Ashdod, the rocket fire caused Netanyahu to leave the stage at an election rally.
+
+---
+
+[EVENT: ISR1467]
+Date: 2019-09-22
+Country: Israel | Location: Qalansuwa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Al Ittihad; Al Ghad (Jordan) [International]
+
+DESCRIPTION:
+Property destruction: On September 22 2019, Israeli forces demolished a building under construction in the western plain area of Qalansuwa. Israeli policed had blocked the roads leading up to the house.
+
+---
+
+[EVENT: ISR1468]
+Date: 2019-09-24
+Country: Israel | Location: Shefaram
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Al Ittihad [International]
+
+DESCRIPTION:
+Property destruction: On September 24 2019, Israeli forces demolished a house under construction in Shefa Amr, owned by an Israeli Arab resident of Ablin.
+
+---
+
+[EVENT: ISR1470]
+Date: 2019-09-25
+Country: Israel | Location: Shefaram
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Al Ittihad [International]
+
+DESCRIPTION:
+Property destruction: On September 25 2019, Israeli forces demolished two houses in Shefa Amr, owned by an Israeli Arab residents.
+
+---
+
+[EVENT: ISR1473]
+Date: 2019-09-26
+Country: Israel | Location: Menara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [International]
+
+DESCRIPTION:
+Security measures: As reported on September 26 2019, Israeli forces installed machine guns in several positions along the northern border of Israel. The machine guns were installed in an area stretching from the Shebaa farms to al-Ghajar area.

@@ -1,0 +1,200 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Saudi Arabia (ISO Code: 682)
+Temporal Period: Year 2020 - Quarter Q1
+Total Events in Chunk: 14 / 14
+==================================================
+
+[EVENT: SAU6134]
+Date: 2020-01-14
+Country: Saudi Arabia | Location: Wadi al Jarah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Actor2: Military Forces of Saudi Arabia (2015-) [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Press Agency [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 14 January 2020, Houthi forces claimed to have shot down 1 Saudi reconnaissance drone over Jabal al Amud in Wadi al Jarah area (Al Harth, Jizan).
+
+---
+
+[EVENT: SAU6137]
+Date: 2020-01-19
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Media Center [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 19 January 2020, Saudi air defence systems reportedly intercepted and destroyed a ballistic missile launched by pro-Houthi forces towards Najran in southern Saudi Arabia with no report of fatalities nor injuries.
+
+---
+
+[EVENT: SAU6138]
+Date: 2020-01-23
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni - Pro-IRG; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 23 January 2020, the Saudi air defence reportedly intercepted and destroyed a pro-Houthi ballistic missile over Jizan city.
+
+---
+
+[EVENT: SAU6142]
+Date: 2020-01-27
+Country: Saudi Arabia | Location: Jizan - Saudi ARAMCO
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Ansar Allah; Twitter; Wall Street Journal; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: Around 27 January 2020 (as reported), pro-Houthi forces claimed to have carried out 62 operations on strategic targets within Saudi territory (41 using drones and 21 using missiles), including 26 on Abha airport (Abha, Asir), Jizan airport (Jizan, Jazan), Najran airport (Najran, Najran), King Khalid air base (Khamis Mushayt, Asir), and ARAMCO facilities in both the city of Jizan (Jazan, Jizan) and Jizan Economic City (Baysh, Jizan). Saudi officials claimed to have shot down missiles aimed at ARAMCO facilities.
+
+---
+
+[EVENT: SAU6141]
+Date: 2020-01-27
+Country: Saudi Arabia | Location: Jizan Economic City
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Ansar Allah; Twitter; Wall Street Journal; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: Around 27 January 2020 (as reported), pro-Houthi forces claimed to have carried out 62 operations on strategic targets within Saudi territory (41 using drones and 21 using missiles), including 26 on Abha airport (Abha, Asir), Jizan airport (Jizan, Jazan), Najran airport (Najran, Najran), King Khalid air base (Khamis Mushayt, Asir), and ARAMCO facilities in both the city of Jizan (Jazan, Jizan) and Jizan Economic City (Baysh, Jizan). Saudi officials claimed to have shot down missiles aimed at ARAMCO facilities.
+
+---
+
+[EVENT: SAU6149]
+Date: 2020-02-02
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Montasaf; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: Around 2 February 2020 (as reported), Saudi forces claimed to have thwarted a Houthi drone attack in Jizan governorate, shooting down several devices. No fatalities nor injuries were reported.
+
+---
+
+[EVENT: SAU82993]
+Date: 2020-02-22
+Country: Saudi Arabia | Location: Al Khobh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Actor2: Military Forces of Saudi Arabia (2015-) [State forces]
+Fatalities: 0
+Sources: Ansar Allah; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 22 February 2020, Houthi forces shot down 1 Saudi reconnaissance drone east of Al Khobh (Al Harth, Jizan).
+
+---
+
+[EVENT: SAU82994]
+Date: 2020-03-05
+Country: Saudi Arabia | Location: Al Khobh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Actor2: Military Forces of Saudi Arabia (2015-) [State forces]
+Fatalities: 0
+Sources: Ansar Allah; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 5 March 2020, Houthi forces shot down 1 Saudi reconnaissance drone west of Al Khobh (Al Harth, Jizan).
+
+---
+
+[EVENT: SAU22812]
+Date: 2020-03-07
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Wall Street Journal; Twitter [New media-International]
+
+DESCRIPTION:
+On 7 March 2020, Saudi police forces on the command of Muhammad bin Salman reportedly arrested former crown prince Muhammad bin Nayef, Ahmad bin Abdel Aziz, Nawad bin Nayef and several police, national guard and royal guard officers who considered themselves to be loyal to the arrested.
+
+---
+
+[EVENT: SAU22797]
+Date: 2020-03-15
+Country: Saudi Arabia | Location: Jeddah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Muhit Press; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Sometime in March 2020, Saudi security forces reportedly arrested the pro-Hadi Deputy Governor of Sanaa governorate in Yemen at the Jeddah international airport in Saudi Arabia before he could leave to MUscat, Oman, after a video of him criticizing the Saudi government allegedly circulated.
+
+---
+
+[EVENT: SAU22789]
+Date: 2020-03-24
+Country: Saudi Arabia | Location: Al Shumaisi Prison
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Saudi Arabia (2015-) [State forces]
+Actor2: Civilians (Saudi Arabia) [Civilians]
+Fatalities: 0
+Sources: Middle East Monitor [International]
+
+DESCRIPTION:
+On 24 March 2020, the government of Saudi Arabia released hundreds of prisoners from the Al Shumaisi prison (Makkah, Makkah) to combat the spread of coronavirus.
+
+---
+
+[EVENT: SAU22793]
+Date: 2020-03-27
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 27 March 2020, Saudi-led coalition forces reportedly intercepted and destroyed pro-Houthi unmanned drones directed against civilian targets in Abha and Khamis Mushait cities (Asir).
+
+---
+
+[EVENT: SAU22803]
+Date: 2020-03-27
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Civilians (Saudi Arabia) [Civilians]
+Fatalities: 0
+Sources: BBC News [International]
+
+DESCRIPTION:
+On 27 March 2020, Saudi security forces reportedly arrested Prince Faisal bin Abdullah Al Saud for unknown reasons. The location of his detention was also not known.
+
+---
+
+[EVENT: SAU22792]
+Date: 2020-03-27
+Country: Saudi Arabia | Location: Abha
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 27 March 2020, Saudi-led coalition forces reportedly intercepted and destroyed pro-Houthi unmanned drones directed against civilian targets in Abha and Khamis Mushait cities (Asir).

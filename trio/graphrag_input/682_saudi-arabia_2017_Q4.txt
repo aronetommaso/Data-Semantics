@@ -1,0 +1,32 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Saudi Arabia (ISO Code: 682)
+Temporal Period: Year 2017 - Quarter Q4
+Total Events in Chunk: 2 / 2
+==================================================
+
+[EVENT: SAU1035]
+Date: 2017-11-30
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [External/Other forces]
+Fatalities: 0
+Sources: AP; UN Panel of Experts [Other-International]
+
+DESCRIPTION:
+Interception: On 30 November 2017, Saudi forces intercepted an undetermined Houthi-Saleh free flight rocket/short-range ballistic missile targeting Khamis Mushait (Asir). Houthi-Saleh sources claimed that the missile accurately hit Saudi military targets.
+
+---
+
+[EVENT: SAU1151]
+Date: 2017-12-19
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: AFP; Reuters; UN Panel of Experts; Xinhua; Yemen News Agency (SABA) - Houthi [Other-Regional]
+
+DESCRIPTION:
+Interception: On 19 December 2017, Saudi forces intercepted a Houthi Burkan-2H extended range (900+) short-range ballistic missile over Riyadh (Ar Riyadh). Houthi forces claimed that they had targeted Al Yamama Palace amid a meeting of Saudi leaders.

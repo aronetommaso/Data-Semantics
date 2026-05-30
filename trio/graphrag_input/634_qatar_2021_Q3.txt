@@ -1,0 +1,31 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Qatar (ISO Code: 634)
+Temporal Period: Year 2021 - Quarter Q3
+Total Events in Chunk: 2 / 2
+==================================================
+
+[EVENT: QAT30]
+Date: 2021-08-09
+Country: Qatar | Location: Doha
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Qatar (2013-) [State forces]
+Actor2: Civilians (Qatar) [Civilians]
+Fatalities: 0
+Sources: AhlulBayt News Agency; Twitter [New media-Regional]
+
+DESCRIPTION:
+On 9 August 2021, Qatari police forces arrested 7 civilians from the Al Murrah tribe for denouncing the new Shura Council electoral law on social media (coded to capital city Doha) under charges of 'spreading misinformation and stirring up racial and tribal strife'. This took place ahead of the upcoming first elections for the Shura Council (the Qatar Consultative Council) in October 2021 and the subsequent controversial electoral law that prevents members of the Al Murrah tribe from contesting the election.
+
+---
+
+[EVENT: QAT32]
+Date: 2021-08-25
+Country: Qatar | Location: Doha
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Qatar (2013-) [State forces]
+Fatalities: 0
+Sources: Al Jazeera [Regional]
+
+DESCRIPTION:
+Other: On 25 August 2021, Qatari military forces received the first batch of F-15 combat aircraft produced by the United States and Boeing (coded to Doha) (Ad Dawnah). Minister of State for Defense Affairs Khalid bin Mohamed Al Attiyah said Qatar was acquiring the aircrafts for defense purposes.

@@ -1,0 +1,44 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Bahrain (ISO Code: 48)
+Temporal Period: Year 2020 - Quarter Q1
+Total Events in Chunk: 3 / 3
+==================================================
+
+[EVENT: BHR8983]
+Date: 2020-02-24
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: Gulf News (UAE); LuaLua TV [National-Regional]
+
+DESCRIPTION:
+Security measure: On 24 February 2020, Bahrain imposed a travel ban on Iran amidst fears over the spread of the coronavirus. The ban reportedly has led to hundreds of Shiite Bahrainis who are on pilgrims in Iran to be stranded outside Bahrain.
+
+---
+
+[EVENT: BHR8982]
+Date: 2020-02-25
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: Bahrain Center for Human Rights; Gulf Daily News; Gulf News (UAE) [Other-National]
+
+DESCRIPTION:
+Security measures: On 25 February 2020, amidst the spread of the coronavirus, Bahrain closed all schools, universities and educational institutes. On 18 March, Bahrain closed all cinemas and limited restaurant services to deliveries and takeaways, and on 26 March, it closed all shopping centers and all other nonessential businesses across Bahrain. On 7 May, the government eased restrictions, allowing shops and industrial enterprises to open. Due to the coronavirus, the Bahraini government prohibited the commemoration of Ashura in large gatherings and marches.
+
+---
+
+[EVENT: BHR8981]
+Date: 2020-03-17
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: Bahrain Center for Human Rights; HRW [Other]
+
+DESCRIPTION:
+Non-violent activity: On 17 March 2020, the Bahraini Interior Ministry announced it had released 1,486 detainees amidst the spread of the coronavirus. About 900 of them were granted royal pardons, while 585 were given non-custodial sentences. It is believed that this included about 300 political prisoners.

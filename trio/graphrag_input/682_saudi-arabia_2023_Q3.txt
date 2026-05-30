@@ -1,0 +1,111 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Saudi Arabia (ISO Code: 682)
+Temporal Period: Year 2023 - Quarter Q3
+Total Events in Chunk: 8 / 8
+==================================================
+
+[EVENT: SAU54241]
+Date: 2023-07-17
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Fatalities: 0
+Sources: Masa Press; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Movement of forces: On 17 July 2023, Saudi forces deployed several air defense systems including US Patriot batteries and other Chinese-made systems to the border governorates with Yemen (coded to Asir at Abha, Jizan, and Najran governorates). The source speculated that the deployment was a preparation for military escalation with the Houthis or with UAE-backed groups in Hadramawt.
+
+---
+
+[EVENT: SAU54242]
+Date: 2023-07-17
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Fatalities: 0
+Sources: Masa Press; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Movement of forces: On 17 July 2023, Saudi forces deployed several air defense systems including US Patriot batteries and other Chinese-made systems to the border governorates with Yemen (coded to Asir at Abha, Jizan, and Najran governorates). The source speculated that the deployment was a preparation for military escalation with the Houthis or with UAE-backed groups in Hadramawt.
+
+---
+
+[EVENT: SAU54240]
+Date: 2023-07-17
+Country: Saudi Arabia | Location: Abha
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Fatalities: 0
+Sources: Masa Press; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Movement of forces: On 17 July 2023, Saudi forces deployed several air defense systems including US Patriot batteries and other Chinese-made systems to the border governorates with Yemen (coded to Asir at Abha, Jizan, and Najran governorates). The source speculated that the deployment was a preparation for military escalation with the Houthis or with UAE-backed groups in Hadramawt.
+
+---
+
+[EVENT: SAU83008]
+Date: 2023-08-15
+Country: Saudi Arabia | Location: Riyadh
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Police Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Civilians (Saudi Arabia) [Civilians]
+Fatalities: 0
+Sources: Amnesty International [Other]
+
+DESCRIPTION:
+Around 15 August 2023 (month of), Saudi Police forces tortured a female prisoner and subjected her to other ill-treatment while she was held incommunicado in an unspecified location in Saudi Arabia (coded to Riyadh City) (Ar Riyadh). According to Amnesty International she was disappeared for promoting women's rights. She was held during the whole month of August 2023 before being released. She had previously been forcibly disappeared from October 2023 to April 2024, and again in December 2024 (coded as separate events).
+
+---
+
+[EVENT: SAU54246]
+Date: 2023-09-07
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [External/Other forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Change to armed group: On 7 September 2023, Saudi forces decided to demobilize the IRG Happy Yemen Brigades and the special forces in the southern borders (coded to Najran). The reasons behind the layoff was not reported.
+
+---
+
+[EVENT: SAU54255]
+Date: 2023-09-25
+Country: Saudi Arabia | Location: Al Aridah
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Actor2: Military Forces of Bahrain (1999-) [External/Other forces]
+Fatalities: 5
+Sources: Aden al Ghad; Al Arabiya; Bahrain News Agency; Jerusalem Post; Naba News; Reuters; South24 Center for News and Studies; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+On 25 September 2023, Houthi forces launched 2 attack drones (type unclear) against Bahraini and Saudi forces in Jizan province along the Saudi-Yemeni border (coded to Al Aridhah district at Al Aridah) (Jizan). The strikes killed 4 Bahraini soldiers including 1 officer -- 2 were killed on the spot and 3 died of their injuries days later -- and injured as many as 47 others according to one source. Unclear location coded to Al Aridhah district as the attack was reported to be a retaliation to 'provocations' in the Yemeni districts of Shadaa and Monabbih that border Al Aridhah.
+
+---
+
+[EVENT: SAU54256]
+Date: 2023-09-28
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Kuwait (2020-) [External/Other forces]
+Fatalities: 0
+Sources: Press TV [Regional]
+
+DESCRIPTION:
+Movement of forces: Around 28 September 2023 (as reported), Kuwaiti forces pulled out of the southern border of Saudi Arabia (coded to Jizan). The reason behind the move was not reported although it took place days after Bahraini forces were killed by a Houthi drone strike along with border.
+
+---
+
+[EVENT: SAU54257]
+Date: 2023-09-30
+Country: Saudi Arabia | Location: Al Maarif
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council [External/Other forces]
+Fatalities: 1
+Sources: Khabar News Agency (Yemen); Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+On 30 September 2023, Houthi forces launched a drone attack accompanied by Katyusha rockets and artillery shelling on IRG forces in Al Maarif (Dhahran Al Janub, Asir) in Saudi Arabia killing 1 soldier and injuring several others. The incident took place as IRG forces of the Alb Axis were holding a military parade commemorating the September 26 Revolution.

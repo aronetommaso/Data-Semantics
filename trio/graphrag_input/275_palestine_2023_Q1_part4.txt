@@ -1,0 +1,1544 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Palestine (ISO Code: 275)
+Temporal Period: Year 2023 - Quarter Q1
+Total Events in Chunk: 111 / 2511
+==================================================
+
+[EVENT: PSE32617]
+Date: 2023-03-26
+Country: Palestine | Location: Sinjil
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Israel) [Rioters]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency; Palestine News and Information Agency; Palestinian News Network; PCHR: Palestinian Centre for Human Rights; Press TV [Other-National]
+
+DESCRIPTION:
+On 26 March 2023, 4 Israeli settler rioters threw combustible materials at a Palestinian-owned home, with a family of 6, in Sinjil (Ramallah and Al Bireh, West Bank) setting fire to the home. The family was able to escape with no injuries.
+
+---
+
+[EVENT: PSE32627]
+Date: 2023-03-26
+Country: Palestine | Location: Avnei Hefetz
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arutz Sheva; Liveuamap; Quds News Network [Local partner-New media]
+
+DESCRIPTION:
+On 26 March 2023, an unidentified Palestinian(s) opened fire toward the Avnei Hefetz settlement (Tulkarm, West Bank). A bullet hit one of the homes with no injuries. One civilian was treated for a panic attack.
+
+---
+
+[EVENT: PSE32624]
+Date: 2023-03-26
+Country: Palestine | Location: Nur ash Shams Camp
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+On 26 March 2023, Palestinian rioters clashed with Israeli forces in Nur ash Shams (Tulkarm, West Bank) after raiding a number of houses in the area. Israeli forces fired rubber coated bullets, tear gas cannisters, and stun grenades to disperse the rioters.
+
+---
+
+[EVENT: PSE32629]
+Date: 2023-03-26
+Country: Palestine | Location: Al Jalamah
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Newpress; Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 26 March 2023, an unidentified Palestinian opened fire towards Al Jalamah crossing (Jenin, West Bank). No casualties occurred.
+
+---
+
+[EVENT: PSE32621]
+Date: 2023-03-26
+Country: Palestine | Location: Bayt Sira
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+On 26 March 2023, Israeli military forces severely beat up a Palestinian civilian in the Bayt Sira checkpoint (Ramallah and Al Bireh, West Bank). The civilian was hospitalized.
+
+---
+
+[EVENT: PSE32626]
+Date: 2023-03-26
+Country: Palestine | Location: Nur ash Shams Camp
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: PIJ: Palestinian Islamic Jihad [Political militia]
+Actor2: Military Forces of Israel (2022-) Special Forces [External/Other forces]
+Fatalities: 0
+Sources: Arab 48; Jerusalem Post; Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+On 26 March 2023, PIJ militants - from Saraya al Quds - joined by Katibat Tulkarm - Quick Response, clashed with Israeli special forces in Nur ash Shams (Tulkarm, West Bank) after the latter stormed the camp. Israeli reinforcements were called due to the clashes. Casualties unknown. Three PIJ members were arrested.
+
+---
+
+[EVENT: PSE86335]
+Date: 2023-03-26
+Country: Palestine | Location: Al Awja
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Quds News Network [National]
+
+DESCRIPTION:
+On 26 March 2023, Palestinian rioters hurled stones at an Israeli bus transporting settlers near Al Awja (Jericho, West Bank), presumably while it was passing by.
+
+---
+
+[EVENT: PSE86336]
+Date: 2023-03-26
+Country: Palestine | Location: Arrub Camp
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Quds News Network [National]
+
+DESCRIPTION:
+On 26 March 2023, Palestinian rioters threw Molotov cocktails at an Israeli bus transporting settlers near Arrub Camp (Hebron, West Bank) while it was passing by.
+
+---
+
+[EVENT: PSE86337]
+Date: 2023-03-26
+Country: Palestine | Location: Azzun
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Quds News Network [National]
+
+DESCRIPTION:
+On 26 March 2023, Palestinian rioters threw Molotov cocktails and improvised explosives at Israeli military forces near Azzun (Qalqilya, West Bank). Israeli forces fired live bullets at the rioters. Casualties unknown.
+
+---
+
+[EVENT: PSE32648]
+Date: 2023-03-26
+Country: Palestine | Location: Arrub Camp
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+On 26 March 2023, Palestinian rioters clashed with Israeli military forces at the entrance of Mukhayyam al Arrub (Hebron, West Bank). Israeli forces fired stun grenades, rubber coated bullets, and tear gas cannisters to disperse the rioters.
+
+---
+
+[EVENT: PSE32616]
+Date: 2023-03-26
+Country: Palestine | Location: Qalqilyah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Israel (2022-) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: On 26 March 2023, Israeli authorities issued a warrant for the seizure of 218 of Palestinian owned lands in the villages of Jinsafut, Al Funduq, and Al Hijja east of Qalqilyah governorate (Qalqilya, West Bank) for military purposes.
+
+---
+
+[EVENT: PSE32615]
+Date: 2023-03-26
+Country: Palestine | Location: Al Quds - Ar Ram
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Dunia Al Watan; Palestine News and Information Agency; PLO Negotiations Affairs Department [Other-National]
+
+DESCRIPTION:
+On 26 March 2023, Palestinian rioters clashed with Israeli forces in Al Quds - Ar Ram (Al Quds, West Bank). Israeli forces fired stun grenades and tear gas cannisters to disperse the rioters. No injuries occurred.
+
+---
+
+[EVENT: PSE32643]
+Date: 2023-03-26
+Country: Palestine | Location: Awarta
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Israel) [Rioters]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+On 26 March 2023, Israeli settler rioters set fire to grass near a Palestinian home on the outskirts of Awarta (Nablus, West Bank).
+
+---
+
+[EVENT: PSE32640]
+Date: 2023-03-27
+Country: Palestine | Location: Al Quds - Kafr Aqab
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department; Quds News Network [Other-National]
+
+DESCRIPTION:
+On 27 March 2023, Palestinian rioters clashed with Israeli military forces after raiding homes in Al Quds - Kafr Aqab (Al Quds, West Bank). Israeli forces fired stun grenades, rubber coated bullets, and tear gas cannisters to disperse the rioters. Israeli forces arrested 2 individuals.
+
+---
+
+[EVENT: PSE32635]
+Date: 2023-03-27
+Country: Palestine | Location: Aqabat Jabr Camp
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) Special Forces [External/Other forces]
+Fatalities: 0
+Sources: Joe Truzman; Palestine News and Information Agency; PCHR: Palestinian Centre for Human Rights [Other-National]
+
+DESCRIPTION:
+On 27 March 2023, Palestinian rioters clashed with Israeli special forces that raided and surrounded a Palestinian home in Mukhayyam Aqabat Jabr (Jericho, West Bank) during an arrest operation. Israeli forces fired live and rubber-coated bullets, causing 4 injuries from live ammunition and 2 other from rubber coated bullets. Among the injured was a child. The wanted person was arrested.
+
+---
+
+[EVENT: PSE86339]
+Date: 2023-03-27
+Country: Palestine | Location: Salim
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Quds News Network [National]
+
+DESCRIPTION:
+On 27 March 2023, an unidentified Palestinian opened fire towards an Israeli military forces on crossing of Salim (Nablus, West Bank). No casualties occurred.
+
+---
+
+[EVENT: PSE32637]
+Date: 2023-03-27
+Country: Palestine | Location: Al Quds
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Israel) [Rioters]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Newpress; Quds News Network [National]
+
+DESCRIPTION:
+On 27 March 2023, a group of Israeli settler rioters attacked a Palestinian taxi driver inside his vehicle in Al Quds city (Al Quds, West Bank).
+
+---
+
+[EVENT: PSE32642]
+Date: 2023-03-27
+Country: Palestine | Location: Askar al Qadim Camp
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+On 27 March 2023, Palestinian rioters clashed with Israeli forces in Mukhayyam Askar al Qadim (Nablus, West Bank) after storming houses in the refugee camp. Israeli forces fired rubber coated bullets, tear gas canisters, and stun grenades to disperse the rioters. Israeli forces arrested 2 individuals.
+
+---
+
+[EVENT: PSE32638]
+Date: 2023-03-27
+Country: Palestine | Location: Shavei Shomron
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Newpress [National]
+
+DESCRIPTION:
+On 27 March 2023, an unidentified Palestinian opened fire towards Israeli forces near Shavei Shomron settlement (Nablus, West Bank). No casualties occurred.
+
+---
+
+[EVENT: PSE32652]
+Date: 2023-03-27
+Country: Palestine | Location: Khirbat Humsah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48; Dunia Al Watan; Ma'an News Agency; Palestine News and Information Agency; PLO Negotiations Affairs Department; Press TV [Other-National]
+
+DESCRIPTION:
+Land seizure: On 27 March 2023, a group of Israeli settlers set up animal sheds in the al-Bikaia area near Khirbat Humsah (Tubas, West Bank) to establish a new settlement outpost, given that similar activities were conducted during the previous week. The new outpost will be based in 1800 dunams of Palestinian lands.
+
+---
+
+[EVENT: PSE86338]
+Date: 2023-03-27
+Country: Palestine | Location: Har Gerizim
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Quds News Network [National]
+
+DESCRIPTION:
+On 27 March 2023, an unidentified Palestinian opened fire towards an Israeli military checkpoint on Har Gerizim (Nablus, West Bank). No casualties occurred.
+
+---
+
+[EVENT: PSE32649]
+Date: 2023-03-27
+Country: Palestine | Location: Pesagot
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+On 27 March 2023, Palestinian rioters clashed with Israeli forces near the entrance of Pesagot settlement (Ramallah and Al Bireh, West Bank). Israeli forces fired tear gas cannisters and stun grenades to disperse the rioters.
+
+---
+
+[EVENT: PSE32639]
+Date: 2023-03-27
+Country: Palestine | Location: Aqabat Jabr Camp
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Al Aqsa Martyrs Brigade [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Newpress [National]
+
+DESCRIPTION:
+On 27 March 2023, militants from Al Aqsa Martyrs Brigade - the armed wing of the Fatah Movement - clashed with Israeli military forces in Mukhayyam Aqabat Jabr Camp (Jericho, West Bank). Casualties unknown.
+
+---
+
+[EVENT: PSE32634]
+Date: 2023-03-27
+Country: Palestine | Location: Huwwarah
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Israel) [Rioters]
+Actor2: Rioters (Palestine) [Rioters]
+Fatalities: 0
+Sources: Dunia Al Watan; Ma'an News Agency; Palestine News and Information Agency; PCHR: Palestinian Centre for Human Rights; Quds News Network [Other-National]
+
+DESCRIPTION:
+On 27 March 2023, Israeli settler rioters, under the protection of Israeli forces, attacked Palestinian civilians, their homes, and properties in Huwwarah (Nablus, West Bank) causing 6 injuries from physical assault and pepper spray, one of them was in the head and required hospitalization. Settlers also attacked a Palestinian Red Crescent ambulance that came to treat the injuries, and set fire to a truck. Palestinians tried to repel these attacks and threw stones at the settlers, injuring some of them.
+
+---
+
+[EVENT: PSE32633]
+Date: 2023-03-27
+Country: Palestine | Location: Asirah al Qibliyah
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Israel) [Rioters]
+Actor2: Rioters (Palestine) [Rioters]
+Fatalities: 0
+Sources: Dunia Al Watan; Palestine News and Information Agency; Quds News Network [National]
+
+DESCRIPTION:
+On 27 March 2023, Israeli setter rioters from the Yitzhar settlement, under the protection of Israeli forces, attacked Palestinian-owned homes in Asirah al Qibliyah (Nablus, West Bank) causing material damages to 2 homes. Israeli forces also fired bullets, and tear gas cannisters at the homes. Palestinian residents repelled the settler attack.
+
+---
+
+[EVENT: PSE32631]
+Date: 2023-03-27
+Country: Palestine | Location: Al Khadir
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Dunia Al Watan; Palestine News and Information Agency; PCHR: Palestinian Centre for Human Rights; Quds News Network [Other-National]
+
+DESCRIPTION:
+On 27 March 2023, Palestinian rioters clashed with Israeli military forces in Al Tal area in the Old Town section of Al Khadir (Bethlehem, West Bank). Israeli forces fired bullets, stun grenades, and tear gas cannisters to disperse the rioters causing several rioters to suffer the effect of tear gas. Israeli forces also detained a child near the site of the clashes. A female soldier was also injured during the clashes.
+
+---
+
+[EVENT: PSE32636]
+Date: 2023-03-27
+Country: Palestine | Location: Gaza
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: Arab 48; Ma'an News Agency [National]
+
+DESCRIPTION:
+On 27 March 2023, tens of Palestinian protesters and institutions that deals with prisoner issues held a protest in front of the ICRC headquarters in Gaza (Gaza City, Gaza Strip) in support of a Palestinian prisoner in Israeli jails whose health is deteriorating. Protesters raised pictures of the prisoner and chanted slogans demanding his freed. Protesters also demanded that he receive treatment outside of Israeli hospitals.
+
+---
+
+[EVENT: PSE32630]
+Date: 2023-03-27
+Country: Palestine | Location: Husan
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+On 27 March 2023, Palestinian rioters clashed with Israeli military forces in Al Matyana area in Husan (Bethlehem, West Bank). Israeli forces fired bullets, tear gas cannisters, and stun grenades to disperse the rioters. No injuries occurred.
+
+---
+
+[EVENT: PSE32632]
+Date: 2023-03-27
+Country: Palestine | Location: Bayta
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Israel) [Rioters]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+On 27 March 2023, Israeli settler rioters attacked a Palestinian vehicle belonging to the Palestinian Red Crescent near Bayta (Nablus, West Bank) while it was transporting lab samples. The vehicle's windows were broken, but there were no physical injuries.
+
+---
+
+[EVENT: PSE49303]
+Date: 2023-03-27
+Country: Palestine | Location: Askar al Qadim Camp
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Jerusalem Post; Quds News Network [National-Regional]
+
+DESCRIPTION:
+On 27 March 2023, an unidentified Palestinian opened fire towards an Israeli military forces that raided the Askar al Qadim Camp (Nablus, West Bank). No casualties occurred.
+
+---
+
+[EVENT: PSE32670]
+Date: 2023-03-28
+Country: Palestine | Location: Qalqilyah
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+On 28 March 2023, Israeli military forces shot and injured a Palestinian at a military checkpoint south of Qalqilyah city (Qalqilya, West Bank). He was taken to hospital.
+
+---
+
+[EVENT: PSE68007]
+Date: 2023-03-28
+Country: Palestine | Location: Sinjil
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: News 0404 [Regional]
+
+DESCRIPTION:
+On 28 March 2023, Palestinian rioters threw stones at passing settler cars near Sinjil (Ramallah and Al Bireh, West Bank), causing damage to a vehicle.
+
+---
+
+[EVENT: PSE32659]
+Date: 2023-03-28
+Country: Palestine | Location: Rummanah
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Newpress; Quds News Network; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On 28 March 2023, unidentified Palestinian militants opened fire and threw an explosive device from a passing car at the Israeli military checkpoint of Salem near Rummanah village (Jenin, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE32653]
+Date: 2023-03-28
+Country: Palestine | Location: As Sawahira ash Sharqiya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency; PLO Negotiations Affairs Department; Quds News Network; Twitter [Other-New media]
+
+DESCRIPTION:
+Property destruction: On 28 March 2023, Israeli military forces dismantled 3 Palestinian-owned agricultural rooms in As Sawahira ash Sharqiya (Al Quds, West Bank) under the pretext of not having a building permit.
+
+---
+
+[EVENT: PSE32661]
+Date: 2023-03-28
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department; Quds News Network; Twitter [Other-New media]
+
+DESCRIPTION:
+Other: On 28 March 2023, Israeli gunboats opened fire toward Palestinian fishing boats while chasing them at Al Sudaniya sea, off the Coast of North Gaza (North Gaza, Gaza Strip). These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. Also, they used Water cannons against fishers.
+
+---
+
+[EVENT: PSE32657]
+Date: 2023-03-28
+Country: Palestine | Location: Al Quds - Jabal al Mukabbir
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Police Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Dunia Al Watan; Newpress; Palestine News and Information Agency; PLO Negotiations Affairs Department; Quds News Network; Twitter [Other-New media]
+
+DESCRIPTION:
+On 28 March 2023, Palestinian rioters clashed with Israeli police who raided Al Quds - Jabal al Mukabbir (Al Quds, West Bank). Police fired rubber bullets, stun grenades, and tear gas canisters at rioters.
+
+---
+
+[EVENT: PSE32656]
+Date: 2023-03-28
+Country: Palestine | Location: Tulkarm
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+On 28 March 2023, Palestinians protested outside the ICRC office in Tulkarm (Tulkarm, West Bank) in support of Palestinian prisoners in Israeli detention, demanding an urgent intervention from the international community and human rights organizations to save the lives of sick prisoners, especially a cancer-ill detainee. Representatives from the Commission of Detainees and Ex-Detainees Affairs and the PPSF party attended the event.
+
+---
+
+[EVENT: PSE32669]
+Date: 2023-03-28
+Country: Palestine | Location: Turmus Ayya
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Israel) [Rioters]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+On 28 March 2023, a group of Israeli settlers assaulted [presumably physically] Palestinian shepherds between Turmus Ayya and Al Mughayyir villages (Ramallah and Al Bireh, West Bank).
+
+---
+
+[EVENT: PSE32651]
+Date: 2023-03-28
+Country: Palestine | Location: Husan
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Israel) [Rioters]
+Fatalities: 0
+Sources: Arab 48; Dunia Al Watan; Palestine News and Information Agency; PLO Negotiations Affairs Department [Other-National]
+
+DESCRIPTION:
+On 28 March 2023, a group of Israeli settlers from Beitar Illit cut 14 Palestinian-owned olive trees in Husan village (Bethlehem, West Bank).
+
+---
+
+[EVENT: PSE32671]
+Date: 2023-03-28
+Country: Palestine | Location: Burqah
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Israel) [Rioters]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+On 28 March 2023, a group of Israeli settlers vandalized a Palestinian-owned container on the outskirts of Burqah village (Nablus, West Bank).
+
+---
+
+[EVENT: PSE32658]
+Date: 2023-03-28
+Country: Palestine | Location: Al Khadir
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Dunia Al Watan; Palestine News and Information Agency; PLO Negotiations Affairs Department [Other-National]
+
+DESCRIPTION:
+On 28 March 2023, Palestinian rioters clashed with Israeli military forces positioned in Umm Rukbah area of Al Khadir village (Bethlehem, West Bank). Soldiers fired rubber bullets, stun grenades, and tear gas canisters. Several rioters suffered from tear gas inhalation.
+
+---
+
+[EVENT: PSE32662]
+Date: 2023-03-28
+Country: Palestine | Location: Jenin
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Palestine (1994-) [State forces]
+Fatalities: 0
+Sources: Joe Truzman; Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 28 March 2023, unidentified Palestinian militants threw explosive devices and opened fire at Al Mouqataa complex, the Palestinian civil and security headquarter in Jenin city (Jenin, West Bank), following the security forces attempt to arrest a PIJ militant. In response, security forces were deployed in the city. There were no casualties.
+
+---
+
+[EVENT: PSE32660]
+Date: 2023-03-28
+Country: Palestine | Location: Tuqu
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Newpress; Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 28 March 2023, Palestinian rioters clashed with Israeli military forces positioned at the northern entrance of Tuqu village (Bethlehem, West Bank).
+
+---
+
+[EVENT: PSE32654]
+Date: 2023-03-28
+Country: Palestine | Location: Dayr Ballut
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency; Palestine News and Information Agency; PCHR: Palestinian Centre for Human Rights; PLO Negotiations Affairs Department; Quds News Network; Twitter [Other-New media]
+
+DESCRIPTION:
+Property destruction: On 28 March 2023, Israeli military forces demolished a Palestinian-owned facility (350 m2) consisting of a carpentry workshop and a livestock shed in Dayr Ballut (Salfit, West Bank) under the pretext that it was built near the security fence.
+
+---
+
+[EVENT: PSE32655]
+Date: 2023-03-28
+Country: Palestine | Location: Dayr Ballut
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Jerusalem Post; Palestine News and Information Agency; Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 28 March 2023, Palestinian rioters clashed with Israeli military forces who raided Dayr Ballut village (Salfit, West Bank) to demolish a Palestinian-owned facility. Soldiers fired live bullets, stun grenades, and tear gas canisters and physically assaulted another 2 Palestinians.
+
+---
+
+[EVENT: PSE86342]
+Date: 2023-03-28
+Country: Palestine | Location: Gaza
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 28 March 2023, Palestinian worshipers performed the Tarawih prayer outside the ICRC office in Gaza City (Gaza Strip) in support of the Palestinian prisoners in Israeli jails.
+
+---
+
+[EVENT: PSE86341]
+Date: 2023-03-28
+Country: Palestine | Location: Bala
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 28 March 2023, an unidentified Palestinian militant(s) opened fire at Israeli military forces positioned near the entrance of Bala village (Tulkarm, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE86340]
+Date: 2023-03-28
+Country: Palestine | Location: Tarqumya
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 28 March 2023, Palestinian rioters hurled stones at Israeli military forces who raided Tarqumya village (Hebron, West Bank). Soldiers fired stun grenades and tear gas canisters at rioters.
+
+---
+
+[EVENT: PSE32650]
+Date: 2023-03-28
+Country: Palestine | Location: Al Yamun
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Dunia Al Watan; Jerusalem Post; Newpress; Palestine News and Information Agency; Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 28 March 2023, unidentified Palestinian militants exchanged fire with Israeli military forces who carried out arrest operations in Al Yamun village (Jenin, West Bank). Also, rioters clashed with soldiers. There were no casualties.
+
+---
+
+[EVENT: PSE86343]
+Date: 2023-03-28
+Country: Palestine | Location: Ramallah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 28 March 2023, Palestinians protested in Ramallah city (Ramallah and Al Bireh, West Bank) in support of the Palestinian prisoners in Israeli jails.
+
+---
+
+[EVENT: PSE86347]
+Date: 2023-03-28
+Country: Palestine | Location: Azzun
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 28 March 2023, a Palestinian vehicle attempted to run over Israeli soldiers near Azzun village (Qalqilya, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE32672]
+Date: 2023-03-28
+Country: Palestine | Location: Zatarah
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+On 28 March 2023, Israeli military forces randomly opened fire toward Palestinians while they were picking wild plants in the Dababa area southeast of Zatarah village (Salfit, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE86346]
+Date: 2023-03-28
+Country: Palestine | Location: Al Jalamah
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 28 March 2023, an unidentified Palestinian militant(s) opened fire at the Israeli military checkpoint of Al Jalamah (Jenin, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE86345]
+Date: 2023-03-28
+Country: Palestine | Location: Mevo Dotan
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 28 March 2023, an unidentified Palestinian militant(s) opened fire at the Israeli military checkpoint of Mevo Dotan (Jenin, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE86344]
+Date: 2023-03-28
+Country: Palestine | Location: Ramallah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 28 March 2023, Palestinians protested in Ramallah city (Ramallah and Al Bireh, West Bank) after the stabbing of a Palestinian judge that occurred in Tulkarm city, demanding that the perpetrator be held accountable.
+
+---
+
+[EVENT: PSE32676]
+Date: 2023-03-29
+Country: Palestine | Location: Rummanah
+Type: Explosions/Remote violence > Grenade | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Arab 48; Quds News Network; Times of Israel; Twitter [New media-National]
+
+DESCRIPTION:
+On 29 March 2023, unidentified Palestinian militants threw an explosive device from a passing car at Israeli troops near the military checkpoint of Salem near Rummanah village (Jenin, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE32673]
+Date: 2023-03-29
+Country: Palestine | Location: Nablus
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: PIJ: Katibat Nablus [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Al-Ittihad; Arab 48; Israeli Defense Forces; Long War Journal; PLO Negotiations Affairs Department; Quds News Network; Twitter [Other-New media]
+
+DESCRIPTION:
+On 29 March 2023, PIJ affiliated Katibat Nablus and Lion's Den militants opened fire toward Israeli military forces who raided Nablus city (Nablus, West Bank). Meanwhile, Palestinian rioters clashed with the soldiers who fired live and rubber bullets, stun grenades, and tear gas canisters. Israeli forces fired back and injured 1 Palestinian militant.
+
+---
+
+[EVENT: PSE32674]
+Date: 2023-03-29
+Country: Palestine | Location: Qabatiyah
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Arab 48; Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 29 March 2023, unidentified Palestinian militants opened fire toward Israeli military forces who raided Qabatiyah town (Jenin, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE32664]
+Date: 2023-03-29
+Country: Palestine | Location: Askar al Qadim Camp
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Al Aqsa Martyrs Brigade [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Al-Ittihad; Arab 48; Dunia Al Watan; Ma'an News Agency; Newpress; Palestine News and Information Agency; PLO Negotiations Affairs Department; Quds News Network; Twitter [Other-New media]
+
+DESCRIPTION:
+On 29 March 2023, Al Aqsa Martyrs Brigade - the military wing of Fatah - exchanged fire with Israeli military forces who carried out arrest operations in the Askar al Qadim Camp (Nablus, West Bank). Also, Palestinian rioters clashed with the soldiers who fired live and rubber bullets. A Palestinian was injured in the leg and another person was wounded by shrapnel. Also, explosive devices were thrown at troops. There were no casualties.
+
+---
+
+[EVENT: PSE33870]
+Date: 2023-03-29
+Country: Palestine | Location: Sanur
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: AAMB: Katibat Tulkarm - Quick Response [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Long War Journal [International]
+
+DESCRIPTION:
+On 29 March 2023, Fatah's Katibat Tulkarm - Quick Response militants opened fire at an Israeli forces at the Sanur checkpoint (Jenin, West Bank). No casualties occurred.
+
+---
+
+[EVENT: PSE32663]
+Date: 2023-03-29
+Country: Palestine | Location: Taybeh
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Israel) [Rioters]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Al-Ittihad; Dunia Al Watan; Palestine News and Information Agency; PLO Negotiations Affairs Department; Quds News Network; Twitter [Other-New media]
+
+DESCRIPTION:
+On 29 March 2023, 12 Israeli settlers from the Hilltop Youth group attacked a dwelling belonging to a Palestinian Bedouin family with tear gas canisters, physically attacked them, and pepper-sprayed a child who suffered from breathing difficulty near Taybeh village (Ramallah and Al Bireh, West Bank). Settlers also destroyed the dwelling's windows and equipment.
+
+---
+
+[EVENT: PSE32675]
+Date: 2023-03-29
+Country: Palestine | Location: An Nabi Salih
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Arab 48; Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 29 March 2023, Palestinian rioters hurled stones at Israeli military forces in An Nabi Salih village (Ramallah and Al Bireh, West Bank) while withdrawing from the nearby village of Bayt Rima.
+
+---
+
+[EVENT: PSE86348]
+Date: 2023-03-29
+Country: Palestine | Location: Askar al Qadim Camp
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Palestine) [Rioters]
+Fatalities: 0
+Sources: Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 29 March 2023, Palestinians set fire to rubber tires in front of Askar al Qadim Camp (Nablus, West Bank) in demonstration against the arrest of a militant by Palestinian security forces.
+
+---
+
+[EVENT: PSE86349]
+Date: 2023-03-29
+Country: Palestine | Location: Al Jalamah
+Type: Explosions/Remote violence > Grenade | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 29 March 2023, an unidentified Palestinian militant(s) threw explosive devices toward Israeli military forces positioned near Al Jalamah military checkpoint (Jenin, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE32688]
+Date: 2023-03-29
+Country: Palestine | Location: Hebron
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Israel) [Rioters]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+On 29 March 2023, Israeli settlers sprayed Chlorine and polluted water at Palestinians in Hebron city (Hebron, West Bank).
+
+---
+
+[EVENT: PSE32689]
+Date: 2023-03-29
+Country: Palestine | Location: Hebron
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+On 29 March 2023, an unidentified Palestinian militant(s) opened fire toward a passing Israeli vehicle in the Hebron area (Hebron, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE32677]
+Date: 2023-03-29
+Country: Palestine | Location: Turah al Gharbiyah
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Newpress; Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 29 March 2023, an unidentified Palestinian militant(s) opened fire toward the Israeli military checkpoint of Turah al Gharbiyah (Jenin, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE32667]
+Date: 2023-03-29
+Country: Palestine | Location: Shaked
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Dunia Al Watan; Newpress; Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 29 March 2023, an unidentified Palestinian militant(s) opened fire toward the Israeli settlement of Shaked (Jenin, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE32668]
+Date: 2023-03-29
+Country: Palestine | Location: Jenin
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Dunia Al Watan; Newpress; Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 29 March 2023, an unidentified Palestinian militant(s) opened fire toward Israeli military forces positioned near the security fence of Jezreel Valley west of Jenin city (Jenin, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE32666]
+Date: 2023-03-29
+Country: Palestine | Location: Kisan
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Israel) [Rioters]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Al-Ittihad; Dunia Al Watan; Ma'an News Agency; Newpress; Palestine News and Information Agency; PCHR: Palestinian Centre for Human Rights; PLO Negotiations Affairs Department; Twitter [Other-New media]
+
+DESCRIPTION:
+On 29 March 2023, a group of Israeli settlers from Amos physically assaulted Palestinian shepherds and vandalized their property in Kisan village (Bethlehem, West Bank). 2 persons were wounded and taken to hospital for treatment, including a 70-year-old man.
+
+---
+
+[EVENT: PSE32665]
+Date: 2023-03-29
+Country: Palestine | Location: Bayt Rima
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Dunia Al Watan; Palestine News and Information Agency; PLO Negotiations Affairs Department [Other-National]
+
+DESCRIPTION:
+On 29 March 2023, Palestinian rioters clashed with Israeli military forces who carried out arrest operations in Bayt Rima village (Ramallah and Al Bireh, West Bank). The soldiers fired rubber bullets, stun grenades, and tear gas canisters at rioters.
+
+---
+
+[EVENT: PSE86350]
+Date: 2023-03-30
+Country: Palestine | Location: Qalandia
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 30 March 2023, an unidentified Palestinian militant(s) opened fire at the Israeli military checkpoint of Qalandia (Al Quds, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE86351]
+Date: 2023-03-30
+Country: Palestine | Location: Tulkarm
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 30 March 2023, Palestinians held a sit-in protest in Tulkarm city (Tulkarm, West Bank) in solidarity with a militant killed in Shufa last week.
+
+---
+
+[EVENT: PSE32701]
+Date: 2023-03-30
+Country: Palestine | Location: Qalqilyah
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+On 30 March 2023, Palestinian rioters hurled stones at Israeli military forces positioned at the security fence in Khallet Nofal and Al Razazah areas near Qalqilyah city (Qalqilya, West Bank). Soldiers fired stun grenades and tear gas canisters.
+
+---
+
+[EVENT: PSE32687]
+Date: 2023-03-30
+Country: Palestine | Location: Bayta
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Newpress; PLO Negotiations Affairs Department; Quds News Network; Twitter [Other-New media]
+
+DESCRIPTION:
+On 30 March 2023, Palestinian rioters hurled stones at Israeli military forces who raided Palestinian homes in Bayta village (Nablus, West Bank). Soldiers fired rubber bullets, stun grenades, and tear gas canisters at rioters.
+
+---
+
+[EVENT: PSE86352]
+Date: 2023-03-30
+Country: Palestine | Location: Jenin
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 30 March 2023, Palestinians held a sit-in protest in Jenin city (Jenin, West Bank) in support of 2 Palestinian prisoners on hunger strike.
+
+---
+
+[EVENT: PSE32684]
+Date: 2023-03-30
+Country: Palestine | Location: Hebron
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: Ma'an News Agency; Palestine News and Information Agency; Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 30 March 2023, Palestinians held a sit-in protest called by the Commission of Detainees and Ex-Detainees Affairs in Hebron city (Hebron, West Bank) in support of the Palestinian prisoners in the Israeli jails. Also, the protesters commemorated Palestinian Land Day by waving Palestine flags and holding signs that called to protect the prisoners.
+
+---
+
+[EVENT: PSE32682]
+Date: 2023-03-30
+Country: Palestine | Location: Al Muarrajat
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Israel) [Rioters]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Dunia Al Watan; Palestine News and Information Agency; PLO Negotiations Affairs Department [Other-National]
+
+DESCRIPTION:
+On 30 March 2023, a group of Israeli settlers hurled stones at a Palestinian while driving his agricultural tractor in Al Muarrajat area northwest of Jericho city (Jericho, West Bank), injuring the Palestinian lightly and causing material damage to the tractor.
+
+---
+
+[EVENT: PSE32678]
+Date: 2023-03-30
+Country: Palestine | Location: Qabatiyah
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: PIJ: Katibat Qabatiyah [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Arab 48; Dunia Al Watan; Newpress; Palestine News and Information Agency; PLO Negotiations Affairs Department; Quds News Network; Twitter [Other-New media]
+
+DESCRIPTION:
+On 30 March 2023, Palestinian militants affiliated with the PIJ's Katibat Qabatiyah exchanged fire with Israeli military forces who carried out arrest operations in Qabatiyah town (Jenin, West Bank). Also, Palestinian rioters hurled stones at soldiers who fired live and rubber bullets, stun grenades, and tear gas canisters. 3 Palestinians were injured with by bullets. There were no casualties among soldiers.
+
+---
+
+[EVENT: PSE32690]
+Date: 2023-03-30
+Country: Palestine | Location: Al Jalamah
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Newpress; Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 30 March 2023, an unidentified Palestinian militant(s) threw an explosive device and opened fire at Israeli military forces positioned at Al Jalamah military checkpoint (Jenin, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE32681]
+Date: 2023-03-30
+Country: Palestine | Location: An Nuwayimah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Dunia Al Watan; Ma'an News Agency; Palestine News and Information Agency; PLO Negotiations Affairs Department; Quds News Network; Twitter [Other-New media]
+
+DESCRIPTION:
+Property destruction: On 30 March 2023, Israeli military forces demolished a Palestinian-owned house (150 m2) in An Nuwayimah village (Jericho, West Bank) under the pretext of not having a building permit.
+
+---
+
+[EVENT: PSE86353]
+Date: 2023-03-30
+Country: Palestine | Location: Yabad
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 30 March 2023, an unidentified Palestinian militant(s) opened fire at an Israeli military tower near Yabad town (Jenin, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE32683]
+Date: 2023-03-30
+Country: Palestine | Location: Gaza - Ijdeedeh
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Dunia Al Watan; Joe Truzman; Ma'an News Agency; Palestine News and Information Agency; PLO Negotiations Affairs Department; Times of Israel; Twitter [Other-New media]
+
+DESCRIPTION:
+On 30 March 2023, Israeli military forces positioned at the security fence east of Gaza City, coded to Gaza - Ijdeedeh (Gaza Strip) fired live bullets and tear gas canisters toward Palestinians who were commemorating the Land Day near the border. 5 persons were injured and taken to hospital for treatment and dozens of Palestinians suffered from tear gas inhalation. The event was called by Palestinian National and Islamic Forces.
+
+---
+
+[EVENT: PSE32679]
+Date: 2023-03-30
+Country: Palestine | Location: Tulkarm
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Dunia Al Watan; Palestine News and Information Agency; PLO Negotiations Affairs Department; Quds News Network; Twitter [Other-New media]
+
+DESCRIPTION:
+On 30 March 2023, unidentified Palestinian militants exchanged fire with Israeli military forces who carried out arrest operations in Tulkarm city (Tulkarm, West Bank). Also, Palestinian rioters hurled stones at the soldiers who fired live and rubber bullets, stun grenades, and tear gas canisters. A Palestinian was injured and there were no casualties among soldiers.
+
+---
+
+[EVENT: PSE32702]
+Date: 2023-03-30
+Country: Palestine | Location: Duma
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+Property destruction: On 30 March 2023, Israeli settlers razed Palestinian-owned lands Duma village (Nablus, West Bank).
+
+---
+
+[EVENT: PSE32691]
+Date: 2023-03-30
+Country: Palestine | Location: Mevo Dotan
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: PIJ: Katibat Jenin [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Newpress; Twitter [New media-National]
+
+DESCRIPTION:
+On 30 March 2023, Palestinian militants affiliated with the PIJ's Katibat Jenin exchanged fire with Israeli military forces positioned at the checkpoint of Mevo Dotan (Jenin, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE32680]
+Date: 2023-03-30
+Country: Palestine | Location: Bayt Ummar
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Ma'an News Agency; Palestine News and Information Agency; PLO Negotiations Affairs Department [Other-National]
+
+DESCRIPTION:
+On 30 March 2023, Palestinian rioters clashed with Israeli military forces who carried out arrest operations in Zaata area of Bayt Ummar village (Hebron, West Bank). The soldiers fired stun grenades and tear gas canisters, which several Palestinians suffered from tear gas inhalation.
+
+---
+
+[EVENT: PSE32685]
+Date: 2023-03-30
+Country: Palestine | Location: Al Quds - Ar Ram
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Dunia Al Watan; Ma'an News Agency; Palestine News and Information Agency; PLO Negotiations Affairs Department; Quds News Network; Twitter [Other-New media]
+
+DESCRIPTION:
+On 30 March 2023, Palestinian rioters hurled stones Israeli military forces who fired tear gas canisters toward Palestinians attending a football game in Faisal Al-Husseini Stadium in Al Quds - Ar Ram (Al Quds, West Bank). Several Palestinians suffered from tear gas inhalation inside the Stadium and 3 persons were taken to the hospital for treatment.
+
+---
+
+[EVENT: PSE32686]
+Date: 2023-03-30
+Country: Palestine | Location: Al Bireh
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+On 30 March 2023, Palestinian rioters hurled stones at Israeli military forces who raided Palestinian homes in Al Bireh city (Ramallah and Al Bireh, West Bank). The soldiers fired rubber bullets, stun grenades, and tear gas canisters at rioters.
+
+---
+
+[EVENT: PSE32699]
+Date: 2023-03-31
+Country: Palestine | Location: Qaryut
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Dunia Al Watan; PLO Negotiations Affairs Department; Quds News Network; Twitter [Other-New media]
+
+DESCRIPTION:
+On 31 March 2023, Palestinian rioters clashed with Israeli soldiers and settlers who raided the western area of Qaryut village (Nablus, West Bank). Soldiers fired live bullets, stun grenades, and tear gas canisters. Several Palestinians suffered from tear gas inhalation.
+
+---
+
+[EVENT: PSE32693]
+Date: 2023-03-31
+Country: Palestine | Location: Huwwarah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Dunia Al Watan; Ma'an News Agency; Palestine News and Information Agency; PLO Negotiations Affairs Department; Quds News Network; Twitter [Other-New media]
+
+DESCRIPTION:
+On 31 March 2023, Israeli military forces fired stun grenades and tear gas canisters toward Palestinian rioters who clashed with them during a demonstration against the closure imposed on Huwwarah and to commemorate the Palestinian Land Day in Huwwarah village (Nablus, West Bank). The soldiers also physically beat some Palestinians and arrested one person.
+
+---
+
+[EVENT: PSE32700]
+Date: 2023-03-31
+Country: Palestine | Location: Kafr Qaddum
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Dunia Al Watan; PLO Negotiations Affairs Department; Quds News Network; Twitter [Other-New media]
+
+DESCRIPTION:
+On 31 March 2023, Palestinians clashed with Israeli military forces during an anti-settlement demonstration in Kafr Qaddum village (Qalqilya, West Bank) against the closing of the village's entrance. Soldiers fired rubber bullets, stun grenades, and tear gas canisters. One person was injured and several Palestinians suffered from tear gas inhalation. Clashes erupted after demonstrators performed the Friday prayers.
+
+---
+
+[EVENT: PSE32705]
+Date: 2023-03-31
+Country: Palestine | Location: Zububah
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Newpress; Twitter [New media-National]
+
+DESCRIPTION:
+On 31 March 2023, unidentified Palestinian militants opened fire at Israeli military forces while they were withdrawing from Zububah village (Jenin, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE32706]
+Date: 2023-03-31
+Country: Palestine | Location: Jenin
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Newpress; Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 31 March 2023, an unidentified Palestinian militant(s) opened fire toward Israeli military forces positioned near the security fence of Jezreel Valley west of Jenin city (Jenin, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE32698]
+Date: 2023-03-31
+Country: Palestine | Location: Bayta
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Dunia Al Watan; PLO Negotiations Affairs Department; Quds News Network; Twitter [Other-New media]
+
+DESCRIPTION:
+On 31 March 2023, dozens of Palestinian demonstrators performed the Friday prayers and clashed with Israeli soldiers during the weekly anti-settlement demonstration in Jabal Abu Sobaih in Bayta village (Nablus, West Bank). Soldiers fired rubber bullets, stun grenades, and tear gas canisters at rioters. Several persons suffered from tear gas inhalation.
+
+---
+
+[EVENT: PSE32709]
+Date: 2023-03-31
+Country: Palestine | Location: Fawwar Camp
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department; Quds News Network; Twitter [Other-New media]
+
+DESCRIPTION:
+On 31 March 2023, Palestinian rioters clashed with Israeli soldiers positioned near the entrance of Mukhayyam al Fawwar refugee camp (Hebron, West Bank). Soldiers fired live and rubber bullets and tear gas canisters at rioters.
+
+---
+
+[EVENT: PSE32708]
+Date: 2023-03-31
+Country: Palestine | Location: Halhul
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Newpress; Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 31 March 2023, an unidentified Palestinian militant(s) opened fire toward an Israeli military post at Halhul bridge (Hebron, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE32697]
+Date: 2023-03-31
+Country: Palestine | Location: Al Quds - Old City
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Police Forces of Israel (2022-) Border Police [External/Other forces]
+Fatalities: 0
+Sources: Arutz Sheva; Haaretz; Times of Israel [Regional]
+
+DESCRIPTION:
+On 31 March 2023, Palestinian rioters clashed with Israeli Border Police in Al Quds - Old city (Al Quds, West Bank), following the killing of an Israeli Bedouin man by the police.
+
+---
+
+[EVENT: PSE86355]
+Date: 2023-03-31
+Country: Palestine | Location: Al Jalamah
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 31 March 2023, Palestinian rioters clashed with Israeli soldiers who raided Al Jalamah village (Jenin, West Bank).
+
+---
+
+[EVENT: PSE33872]
+Date: 2023-03-31
+Country: Palestine | Location: Yatir
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: AAMB: Katibat As Samu [Political militia]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Long War Journal [International]
+
+DESCRIPTION:
+On 31 March 2023, Katibat As Samu militants opened fire towards the Yatir settlement (Hebron, West Bank). Casualties unknown.
+
+---
+
+[EVENT: PSE32711]
+Date: 2023-03-31
+Country: Palestine | Location: Hebron
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+On 31 March 2023, Israeli soldiers severely beat a Palestinian in Tel Rumeida in Hebron city (Hebron, West Bank). He was injured and taken to hospital for treatment.
+
+---
+
+[EVENT: PSE32710]
+Date: 2023-03-31
+Country: Palestine | Location: Arrub Camp
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: PLO Negotiations Affairs Department [Other]
+
+DESCRIPTION:
+On 31 March 2023, Palestinian rioters hurled stones at Israeli military forces positioned near the entrance of Mukhayyam al Arrub (Hebron, West Bank). Soldiers fired stun grenades and tear gas canisters at rioters.
+
+---
+
+[EVENT: PSE32692]
+Date: 2023-03-31
+Country: Palestine | Location: Al Khadir
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Israel) [Rioters]
+Fatalities: 0
+Sources: Dunia Al Watan; Ma'an News Agency; Palestine News and Information Agency; PLO Negotiations Affairs Department [Other-National]
+
+DESCRIPTION:
+On 31 March 2023, Israeli settlers uprooted 250 olive saplings and 200 grape vines belonging to Palestinians in Al Khadir village (Bethlehem, West Bank). Also, settlers stole 150 olive saplings.
+
+---
+
+[EVENT: PSE32694]
+Date: 2023-03-31
+Country: Palestine | Location: Bayt Dajan
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Ma'an News Agency; Palestine News and Information Agency; PLO Negotiations Affairs Department [Other-National]
+
+DESCRIPTION:
+On 31 March 2023, Palestinian rioters clashed with Israeli soldiers during the weekly anti-settlement demonstration in Bayt Dajan village (Nablus, West Bank). Soldiers fired rubber bullets, stun grenades, and tear gas canisters at rioters. 10 persons suffered from tear gas inhalation.
+
+---
+
+[EVENT: PSE86354]
+Date: 2023-03-31
+Country: Palestine | Location: Al Quds - Old City
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 31 March 2023, Palestinians performed the Friday prayer and held a protest in Al Aqsa Mosque complex in Al Quds - Old City (Al Quds, West Bank) in support of Al Aqsa and the 'resistance'.
+
+---
+
+[EVENT: PSE32696]
+Date: 2023-03-31
+Country: Palestine | Location: Al Quds - Old City
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Police Forces of Israel (2022-) Border Police [External/Other forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 1
+Sources: Al-Ittihad; Arutz Sheva; Dunia Al Watan; Haaretz; Ma'an News Agency; Newpress; Palestine News and Information Agency; Quds News Network; Times of Israel; Twitter [New media-National]
+
+DESCRIPTION:
+On 31 March 2023, an Israeli Bedouin citizen from the village of Houra was shot dead by Israeli border police at the Chain Gate of Al Aqsa Mosque in Al Quds - Old City (Al Quds, West Bank). Police said that the man snatched the officer's gun and attempted to shoot before being shot dead. Palestinian witnesses said that the man was shot by the police after an argument erupted between Palestinians, including the Bedouin man, and the police after the latter attempted to forcibily expel a woman from area, but the man did not attemp to snach a gun. Israeli media revealed that a member of the Shin Bet visited the victim's family and informed them that the incident is under investigation. There were no casualties among police officers.
+
+---
+
+[EVENT: PSE32707]
+Date: 2023-03-31
+Country: Palestine | Location: Yabad
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Palestine) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Newpress; Twitter [New media-National]
+
+DESCRIPTION:
+On 31 March 2023, Palestinian rioters clashed with Israeli soldiers who raided Yabad village (Jenin, West Bank).
+
+---
+
+[EVENT: PSE32703]
+Date: 2023-03-31
+Country: Palestine | Location: Arabbunah
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Al Aqsa Martyrs Brigade [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Newpress; Twitter [New media-National]
+
+DESCRIPTION:
+On 31 March 2023, Palestinian militants from Katibat Birqin (PIJ) and Al Aqsa Martyrs Brigade - the military wing of Fatah - opened fire toward an Israeli military post near Arabbunah village (Jenin, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE32704]
+Date: 2023-03-31
+Country: Palestine | Location: Rummanah
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Newpress; Quds News Network; Twitter [New media-National]
+
+DESCRIPTION:
+On 31 March 2023, unidentified Palestinian militants opened fire at the Israeli military checkpoint of Salem near Rummanah village (Jenin, West Bank). There were no casualties.
+
+---
+
+[EVENT: PSE33861]
+Date: 2023-03-31
+Country: Palestine | Location: Bala
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: AAMB: Katibat Tulkarm - Quick Response [Political militia]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Long War Journal [International]
+
+DESCRIPTION:
+On 31 March 2023, Fatah affiliated Katibat Tulkarm - Quick Response opened fire at Israeli forces that raided Bala (Tulkarm, West Bank). No casualties occurred.
+
+---
+
+[EVENT: PSE32695]
+Date: 2023-03-31
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency; Palestine News and Information Agency; PLO Negotiations Affairs Department [Other-National]
+
+DESCRIPTION:
+Other: On 31 March 2023, Israeli gunboats opened fire toward Palestinian fishing boats while chasing them at Al Sudaniya sea, in front of Bayt Lahya area, off the Coast of North Gaza (North Gaza, Gaza Strip). These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them.

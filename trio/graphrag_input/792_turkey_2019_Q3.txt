@@ -1,0 +1,2680 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Turkey (ISO Code: 792)
+Temporal Period: Year 2019 - Quarter Q3
+Total Events in Chunk: 195 / 195
+==================================================
+
+[EVENT: TUR8762]
+Date: 2019-07-01
+Country: Turkey | Location: Palamutbuku
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On July 1, the HBDH destroyed a TV transmitter in Palmutbuku of Datca.
+
+---
+
+[EVENT: TUR8763]
+Date: 2019-07-02
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On July 2, the HBDH claimed attacking the Grand Otel and the hotels closeby in Izmir city. No other details were included, no casualty information.
+
+---
+
+[EVENT: TUR8553]
+Date: 2019-07-03
+Country: Turkey | Location: Esenyurt
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: On July 3rd, 93 migrants who entered Turkey illegally were detained in simultaneous operations of Gendarmerie forces in Esenyurt district, Istanbul.
+
+---
+
+[EVENT: TUR8634]
+Date: 2019-07-04
+Country: Turkey | Location: Dokuzcam
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On 4 July 2019, HBDH started a forest fire in the village of Dokuzcam in Erbaa district, Tokat. The 'sabotage action' aimed to target the tourist sector in the village.
+
+---
+
+[EVENT: TUR22624]
+Date: 2019-07-05
+Country: Turkey | Location: Gurpinar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 5 July 2019, a Turkish military operation had started in Gurpinar district of Van province. It is unknown if there were armed clashes.
+
+---
+
+[EVENT: TUR8559]
+Date: 2019-07-05
+Country: Turkey | Location: Yayladere
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Property destruction: As reported on July 5th, Gendarmerie Forces destroyed a shelter belonging to the PKK in Yayladere district, Bingol.
+
+---
+
+[EVENT: TUR22625]
+Date: 2019-07-05
+Country: Turkey | Location: Silvan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 5 July 2019, it was reported a Turkish military operation had started in a number of villages of Silvan district (Diyarbakir province). No information was available as to potential armed clashes or casualties thereof. A curfew was declared in the villages where the military operation took place.
+
+---
+
+[EVENT: TUR22620]
+Date: 2019-07-05
+Country: Turkey | Location: Balveren
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 5 July 2019, a Turkish military operation with use of helicopters had started in the Balveren area of Sirnak district (Merkez). No information was available as to potential armed clashes or casualties thereof.
+
+---
+
+[EVENT: TUR8614]
+Date: 2019-07-08
+Country: Turkey | Location: Kebeli
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Defusal: On July 8th, the Turkish Gendarmerie soldiers located explosives attached to the border fence close to Kebeli village in Cizre district in Sirnak, which they successfully destroyed through a controlled explosion. The explosives were being transported by militants from Syria but no specific group was mentioned.
+
+---
+
+[EVENT: TUR22630]
+Date: 2019-07-09
+Country: Turkey | Location: Hizan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 9 July 2019, a Turkish military operation had started in a pasture area in Hizan district (Bitlis) where civilians were present. No information was available as to potential casualties or resulting armed clashes.
+
+---
+
+[EVENT: TUR8613]
+Date: 2019-07-09
+Country: Turkey | Location: Kagizman
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Property destruction: As reported on July 9th, Gendarmerie Forces destroyed 10 shelter belonging to the PKK in Kagizman district, Kars.
+
+---
+
+[EVENT: TUR22637]
+Date: 2019-07-10
+Country: Turkey | Location: Hani
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 10 July 2019, a Turkish military operation had started in northern Hani district (Diyarbakir province). Special forces of the military, police and village guards were said to have been deployed. The operation ended two days later.
+
+---
+
+[EVENT: TUR8633]
+Date: 2019-07-11
+Country: Turkey | Location: Milas
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On 11 July 2019, HBDH started forest fires as 'sabotage actions' in Dalaman and Milas districts of Mugla province. Many villages in Mugla had to be evacuated as a result.
+
+---
+
+[EVENT: TUR8631]
+Date: 2019-07-11
+Country: Turkey | Location: Kartal
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On 11 July 2019, HBDH started a forest fire as a 'sabotage action' in Istanbul's Kartal district.
+
+---
+
+[EVENT: TUR8632]
+Date: 2019-07-11
+Country: Turkey | Location: Dalaman
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: HBDH reported that on July 11th they started forest fires as 'sabotage actions' in Dalaman and Milas districts of Mugla province. Many villages in Mugla had to be evacuated as a result.
+
+---
+
+[EVENT: TUR8645]
+Date: 2019-07-12
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete; Human Rights Foundation of Turkey [Other-National]
+
+DESCRIPTION:
+Security measures: On July 12th, the governor of Van announced that all public and political events in Van province were banned for 15 days from July 13th to July 27th.
+
+---
+
+[EVENT: TUR22636]
+Date: 2019-07-13
+Country: Turkey | Location: Hasankeyf
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 13 July 2019, the district governorship of Hasankeyf forbade all protests and other public events in Hasankeyf district (Batman) from 11 to 26 July 2019 (retroactive decision), citing security concerns. The district governorship also forbade entering the nearby Tigris river in these dates, while a 'big jump into the Tigris river' protest was planned by environmental groups.
+
+---
+
+[EVENT: TUR8663]
+Date: 2019-07-14
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency; Human Rights Foundation of Turkey [Other-National]
+
+DESCRIPTION:
+Security measures: On 14 July 2019, the governorate of Hakkari created 'a large number' of 'special security zones' across Hakkari province (in Hakkari central, Cukurca, Yuksekova and Derecik districts). Unauthorized entry to the zones was forbidden from 16 to 30 July due to upcoming military operations.
+
+---
+
+[EVENT: TUR8662]
+Date: 2019-07-14
+Country: Turkey | Location: Batman
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: On July 14th, the governor of Batman province announced that all forms of marches, the setting up of tents and stands, sit-ins and similar forms of protest are banned from July 15th to July 29th.
+
+---
+
+[EVENT: TUR8664]
+Date: 2019-07-15
+Country: Turkey | Location: Tunceli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: On July 15th, 29 areas within 5 districts (Merkez, Ovacik, Pulumur, Hozat and Nazmiye ) in Hakkari province were declared 'private security areas' with immediate affect until July 1st, 2020 due to upcoming counter-terrorism operations.
+
+---
+
+[EVENT: TUR8647]
+Date: 2019-07-17
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Security measures: On July 17th, Hakkari Governor's Office prohibited all forms of marches, the setting up of tents and stands, sit-ins and similar forms of protest between July 18 and August 16. The ban was put in place specifically to prevent any meetings taking place to commemorate the anniversary of the PKK's first armed action on August 15th 1984.
+
+---
+
+[EVENT: TUR8651]
+Date: 2019-07-18
+Country: Turkey | Location: Sanliurfa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+Security measures: On July 18th, Sanliurfa Governor's Office prohibited all forms of marches, the setting up of tents and stands, press releases, sit-ins and similar forms of protest between July 18 and July 25. The ban was put in place specifically to prevent any meetings taking place to commemorate the anniversary of the Suruc ISIS suicide bomb attack that killed 33 pro-Kurdish activists on July 20th 2015.
+
+---
+
+[EVENT: TUR22653]
+Date: 2019-07-19
+Country: Turkey | Location: Mus
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 19 July 2019, the governorate of Mus banned all protests and other public gatherings other than for economic or trade purposes across the province between 20 and 22 July 2019. The governorate claimed that 'marginal' groups were organizing on social media and were planning to organize 'provocations' on the anniversary of the Suruc bombings of 2015, and that the ban was issued in the interest of public security.
+
+---
+
+[EVENT: TUR8750]
+Date: 2019-07-21
+Country: Turkey | Location: Tatvan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ROJ News [Subnational]
+
+DESCRIPTION:
+Property destruction: On July 21, the PKK destroyed a cell tower in Tatvan of Bitlis.
+
+---
+
+[EVENT: TUR8693]
+Date: 2019-07-21
+Country: Turkey | Location: Kusadasi
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: As reported on July 21, 48 migrants attempting to cross the border illegally were detained off the coats of Kusadasi in Aydin. 16 migrants were from Central Africa, 11 from Congo, 7 from Syria, 7 from Iraq, 4 from Palestine, 1 from Senegal, 1 from Cameroon and 1 from Somalia.
+
+---
+
+[EVENT: TUR8692]
+Date: 2019-07-22
+Country: Turkey | Location: Ayvacik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: As reported on July 22, 46 migrants attempting to cross the border illegally to Midilli Island off the Babakale village of Ayvacik, Canakkale were arrested. The migrants were mostly from Afghanistan.
+
+---
+
+[EVENT: TUR8691]
+Date: 2019-07-23
+Country: Turkey | Location: Ayvalik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: As reported on July 23, 45 migrants attempting to cross the border illegally to Lesbos, Greece from Ayvalik, Baliksehir were arrested. The migrants were from Palestine, Central Africa, Congo, Togo and Guinea.
+
+---
+
+[EVENT: TUR8746]
+Date: 2019-07-23
+Country: Turkey | Location: Yuksekova
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ROJ News [Subnational]
+
+DESCRIPTION:
+Property destruction: On July 23, PKK militants destroyed three trucks, two ladles and other construction material of two people, who cooperated with the Turkish Military despite the warnings of the militants.
+
+---
+
+[EVENT: TUR8710]
+Date: 2019-07-23
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: On July 23, an indefinite curfew was announced in 15 villages in the Bitlis province. The villages under curfew are: Icgecit, Caliduzu, Yavuzlar, Yukariolek, Asagiolek, Ilicak, Ogulcak, Ucevler, Kalupat, Asagibalcilar, Yukaribalcilar, Basmakli, Karakus, Dutkoy, Bayramalan.
+
+---
+
+[EVENT: TUR8701]
+Date: 2019-07-23
+Country: Turkey | Location: Pervari
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Posta Gazetesi [National]
+
+DESCRIPTION:
+Weapons Seizure: As reported on July 23, the Turkish military seized 14 mines and 18 rocket launcher ammunition during an anti-PKK operation in the Pervari district of Siirt.
+
+---
+
+[EVENT: TUR8714]
+Date: 2019-07-23
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Yerepouni Daily News [International]
+
+DESCRIPTION:
+Displacement: As reported on July 23, in the last week Turkish authorities have deported approximately 1,000 Syrian refugees to Syria's Idlib province.
+
+---
+
+[EVENT: TUR8715]
+Date: 2019-07-23
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Yerepouni Daily News [International]
+
+DESCRIPTION:
+Arrests: As reported on July 23, in the past week more than 5,000 Syrian refugees were detained in Istanbul. The refugees detained had residence permits registered in cities other than Istanbul.
+
+---
+
+[EVENT: TUR8718]
+Date: 2019-07-25
+Country: Turkey | Location: Corlu
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Karar [Regional]
+
+DESCRIPTION:
+Arrests: As reported on July 25, 40 undocumented migrants attempting to cross the border illegally from the Corlu district of Tekirdag were arrested. 3 of the migrants were from Afghanistan, and 37 from Pakistan.
+
+---
+
+[EVENT: TUR8716]
+Date: 2019-07-25
+Country: Turkey | Location: Seferihisar
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: As reported on July 25, 35 undocumented migrants attempting to cross the border illegally to Greek Islands from the Seferihisar district of Izmir were arrested. 17 of the migrants were from Somalia, 13 from Kuwait, 4 from Eritrea and 1 from Syria.
+
+---
+
+[EVENT: TUR8722]
+Date: 2019-07-25
+Country: Turkey | Location: Dikili
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: As reported on July 26, 42 undocumented migrants attempting to cross the border illegally to Greek Islands from the Dikili district of Izmir were arrested. 20 of the migrants were from Syria, 14 from Congo, 4 from Palestine and 4 from Central Africa.
+
+---
+
+[EVENT: TUR8779]
+Date: 2019-07-26
+Country: Turkey | Location: Pinarbasi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On July 26, the HBDH destroyed a factory in Pinarbasi of Bornova, Izmir. They claim that the attack was against the owner, who cooperates with the AKP and MHP. The attack was dedicated to the victims of the Suruc attack.
+
+---
+
+[EVENT: TUR8778]
+Date: 2019-07-26
+Country: Turkey | Location: Pendik
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On July 26, the HBDH destroyed a luxury yacht in the Pendik of Istanbul. In their statement they said, that this was an attack against rich employers, who disrespect and fire employees. Two similar attacks happened on the same day in different locations.
+
+---
+
+[EVENT: TUR8777]
+Date: 2019-07-26
+Country: Turkey | Location: Bakirkoy
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On July 26, the HBDH destroyed a luxury yacht in the Atakoy Marina, in Bakirkoy of Istanbul. In their statement they said, that this was an attack against rich employers, who disrespect and fire employees. Two similar attacks happened on the same day in different locations.
+
+---
+
+[EVENT: TUR8788]
+Date: 2019-07-27
+Country: Turkey | Location: Bodrum
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property Destruction: On July 27, the HBDH destroyed a luxury yacht in Bodrum of Mugla. They claim that the attack was against rich people, who profit from the AKP and MHP ruled Government, while most of the people suffer in the country.
+
+---
+
+[EVENT: TUR8783]
+Date: 2019-07-27
+Country: Turkey | Location: Didim
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Arrests: On July 27, 66 undocumented migrants attempting to cross the border illegally to Greek Islands from the Didim district in the Aydin province were arrested. 38 of the migrants were from Syria, 11 from Iraq, and 17 from Palestine.
+
+---
+
+[EVENT: TUR8786]
+Date: 2019-07-27
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: On July 27, the governor of Van province announced that all forms of meetings, marches, press releases, rallies, tents, booths and similar activities in open areas are banned from July 28 to August 11.
+
+---
+
+[EVENT: TUR8730]
+Date: 2019-07-27
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Yeni Safak [National]
+
+DESCRIPTION:
+Property destruction: As reported on July 27, nine caves and a shelter used by PKK militants were destroyed in the southeastern Diyarbakir province.
+
+---
+
+[EVENT: TUR8736]
+Date: 2019-07-27
+Country: Turkey | Location: Tatvan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency; Aydinlik [National]
+
+DESCRIPTION:
+Security measures: On 27 July 2019, an curfew was declared in 16 villages and hamlets of the Tatvan district of Bitlis. The villages under curfew were: Teknecik, Sallica, Boblesur, Besikli, Donertas, Kepenek, Aktoprak, Ozekli, Kisikli, Suboyu, Yumrukaya, Ucankus, Corekli, Saridal, Guntepe and Besparmak. The curfew was lifted the same day at 23H00.
+
+---
+
+[EVENT: TUR8728]
+Date: 2019-07-27
+Country: Turkey | Location: Didim
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: As reported on July 27, 58 undocumented Afghan migrants attempting to cross the border illegally to Greek Islands from the Didim district in Aydin were arrested.
+
+---
+
+[EVENT: TUR8797]
+Date: 2019-07-28
+Country: Turkey | Location: Avcilar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On July 28, the HBDH attacked the Ambarli Port on Avcilar, Istanbul. No information about the type of the attack or the casualties.
+
+---
+
+[EVENT: TUR8791]
+Date: 2019-07-28
+Country: Turkey | Location: Mumunlu
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: As reported on July 28, 70 migrants attempting to cross the border illegally to Lesbos, Greece from Saricam in Adana were arrested. Migrants were from Uzbekistan, Pakistan and Afghanistan.
+
+---
+
+[EVENT: TUR8802]
+Date: 2019-07-29
+Country: Turkey | Location: Ayvalik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: As reported on July 29, 34 migrants attempting to cross the border illegally to Lesbos, Greece from Ayvalik, Balikesir were arrested.
+
+---
+
+[EVENT: TUR8806]
+Date: 2019-07-29
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: As reported on July 29, the HBDH destroyed a luxury yacht in Izmir. In their statement they said, that this was an attack against rich employers, who disrespect and fire employees.
+
+---
+
+[EVENT: TUR8800]
+Date: 2019-07-29
+Country: Turkey | Location: Varto
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Weapons seizure: As reported on July 29, the Turkish military seized a large number of ammunition belonging to the PKK in the Varto district of Mus. 25 thousand Kalashnikov infantry rifle bullets were seized, along with anti-aircraft ammunition and other supplies.
+
+---
+
+[EVENT: TUR8817]
+Date: 2019-07-30
+Country: Turkey | Location: Dikili
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: On July 30, 45 migrants attempting to cross the border illegally to Greece from the Dikili district in Izmir were arrested.
+
+---
+
+[EVENT: TUR8829]
+Date: 2019-07-30
+Country: Turkey | Location: Denizli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property Destruction: The HBDH destroyed a depot of the Ministry of Justice on July 30 in Denizli, where cars, that were seized, were kept. 36 cars were destroyed. The attack was organized to show that no one and nothing is safe.
+
+---
+
+[EVENT: TUR8828]
+Date: 2019-07-30
+Country: Turkey | Location: Beysehir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On July 30, the HBDH attacked a weapon factory as an act of retaliation for the killings of their own members in Beysehir of Konya.
+
+---
+
+[EVENT: TUR8816]
+Date: 2019-07-30
+Country: Turkey | Location: Urla
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Arrests: On July 30, 55 migrants attempting to cross the border illegally to Greece from the Urla district in Izmir were arrested. 49 migrants were from Congo, 3 from Central Africa, 2 from Somalia and 1 from Togo.
+
+---
+
+[EVENT: TUR8811]
+Date: 2019-07-30
+Country: Turkey | Location: Ayvalik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Arrests: As reported on July 30, 31 migrants attempting to cross the border illegally to Lesbos, Greece from Ayvalik, Balikesir were arrested. 15 of the migrants were from Congo, 13 from Syria, and 3 from South America.
+
+---
+
+[EVENT: TUR8830]
+Date: 2019-07-31
+Country: Turkey | Location: Avcilar
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Yerepouni Daily News [International]
+
+DESCRIPTION:
+Arrests: As reported on July 31, 40 undocumented migrants were detained by Police forces in Istanbul's Avcilar district and sent to a repatriation centre.
+
+---
+
+[EVENT: TUR8836]
+Date: 2019-07-31
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: The HBDH set on fire a depot of the Ministry of Justice on July 30 in Izmir, where cars, that were seized, were kept. 36 cars were destroyed.
+
+---
+
+[EVENT: TUR8832]
+Date: 2019-07-31
+Country: Turkey | Location: Hani
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Property destruction: On July 31st, Gendarmerie Forces destroyed 3 shelters belonging to PKK in Hani district of Diyarbakir.
+
+---
+
+[EVENT: TUR8833]
+Date: 2019-07-31
+Country: Turkey | Location: Ezine
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Arrests: As reported on July 31, 48 undocumented Afghan migrants attempting to cross the border illegally from the Ezine district of Canakkale were arrested.
+
+---
+
+[EVENT: TUR8840]
+Date: 2019-08-01
+Country: Turkey | Location: Didim
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Arrests: As reported on August 1, 78 undocumented migrants attempting to cross the border illegally to Greek Islands from the Didim district in the Aydin province were arrested. Migrants were mostly from Syria and Palestine.
+
+---
+
+[EVENT: TUR8838]
+Date: 2019-08-01
+Country: Turkey | Location: Yuksekova
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haberturk [National]
+
+DESCRIPTION:
+Weapons seizure: As reported on August 1, Turkish Gendarmerie military forces seized 11 units G-3 infantry rifles, 130 G-3 infantry rifle cartridges, 184 machine gun cartridges, EYP (hand-made explosive) belonging to the PKK in the Yuksekova district of Hakkari.
+
+---
+
+[EVENT: TUR8839]
+Date: 2019-08-01
+Country: Turkey | Location: Ayvalik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Arrests: As reported on August 1, 44 migrants attempting to cross the border illegally to Lesbos, Greece from the Kucukkoy neighbourhood in Ayvalik, Baliksehir were arrested. Migrants were from Democratic Republic of the Congo, Syria and Central Africa.
+
+---
+
+[EVENT: TUR8848]
+Date: 2019-08-01
+Country: Turkey | Location: Ayvalik
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On August 1, the HBDH attacked a factory belonging to the families of Cem Boyner and Ali Kursat in Ayvalik of Balikesir.
+
+---
+
+[EVENT: TUR8855]
+Date: 2019-08-02
+Country: Turkey | Location: Kesan
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: As reported August 2, 109 migrants attempting to cross the border illegally were detained off the coast of Kesan and Uzunkopru in Edirne district. Migrants were from Afghanistan, Morocco, Nepal, Bangladesh and Syria.
+
+---
+
+[EVENT: TUR8856]
+Date: 2019-08-02
+Country: Turkey | Location: Uzunkopru
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: As reported August 2, 109 migrants attempting to cross the border illegally were detained off the coast of Kesan and Uzunkopru in Edirne district. Migrants were from Afghanistan, Morocco, Nepal, Bangladesh and Syria.
+
+---
+
+[EVENT: TUR8862]
+Date: 2019-08-03
+Country: Turkey | Location: Cesme
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Karar; Takvim [National-International]
+
+DESCRIPTION:
+Arrests: On 3 August 2019, 75 migrants attempting to cross the border illegally were detained in two operations off the coats of Cesme in Izmir.
+
+---
+
+[EVENT: TUR8859]
+Date: 2019-08-03
+Country: Turkey | Location: Tunceli
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Weapons seizure: As reported on August 3, the Turkish military Gendarmerie Special Operations (JOH) seized ammunition belonging to the PKK in Bali Deresi district of Tunceli. 1 sniper rifle, 5 Kalashnikov rifles, 1 pistol, 2 thousand 470 cartridges, 5 sniper rifle magazines, 2 Kalashnikov magazines and a solar pane were seized.
+
+---
+
+[EVENT: TUR8860]
+Date: 2019-08-03
+Country: Turkey | Location: Ayvalik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Arrests: On August 3, 51 Afghan migrants attempting to cross the border illegally to Lesbos, Greece from Ayvalik, Baliksehir were arrested.
+
+---
+
+[EVENT: TUR8861]
+Date: 2019-08-03
+Country: Turkey | Location: Kusadasi
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: On August 3, 42 migrants attempting to cross the border illegally were detained off the coats of Kusadasi in Aydin.
+
+---
+
+[EVENT: TUR8867]
+Date: 2019-08-04
+Country: Turkey | Location: Denizli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property Destruction: On August 4, the HBDH attacked the industrial area of Denizli.
+
+---
+
+[EVENT: TUR8875]
+Date: 2019-08-05
+Country: Turkey | Location: Tuzla
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property Destruction: On August 5, the HBDH attacked military school Piyade in Tuzla of Istanbul. No injuries were reported.
+
+---
+
+[EVENT: TUR8877]
+Date: 2019-08-06
+Country: Turkey | Location: Alapli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: HBDH claimed responsibility of the fire that broke out in a factory on August 6 in Zonguldak city. No fatalities reported.
+
+---
+
+[EVENT: TUR8883]
+Date: 2019-08-06
+Country: Turkey | Location: Uskudar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property Destruction: On August 6, the HBDH attacked the Science Cener in Uskudar of Istanbul.
+
+---
+
+[EVENT: TUR8891]
+Date: 2019-08-08
+Country: Turkey | Location: Sirnak
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Security measures: On August 8th, the governor of Sirnak declared that all kind of rallies, demonstrations, political meetings or activities were banned across all the district centres of Sirnak province from 8th August for 15 days.
+
+---
+
+[EVENT: TUR21365]
+Date: 2019-08-08
+Country: Turkey | Location: Eyyubiye
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Unidentified Armed Group (Turkey) [Political militia]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Interception: On 8 August 2019, police forces stopped and captured a suspect person who was wearing an explosive belt at Hasimiye square in Eyyubiye, Sanliurfa. The area was secured and the explosive device was taken off by explosive ordnance specialists.
+
+---
+
+[EVENT: TUR8903]
+Date: 2019-08-09
+Country: Turkey | Location: Tuzla
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property Destruction: On August 9, the HBDH attacked a factory in Tuzla, Istanbul.
+
+---
+
+[EVENT: TUR8907]
+Date: 2019-08-10
+Country: Turkey | Location: Cigli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement; ANF News [Other-International]
+
+DESCRIPTION:
+Property destruction: HBDH claimed responsibility of the fire that broke out on August 10, in a mineral oil warehouse in the industrial zone of Izmir's Cigli district. No casualties reported
+
+---
+
+[EVENT: TUR8904]
+Date: 2019-08-10
+Country: Turkey | Location: Catak
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Property destruction: Between August 9 to August 11, Gendarmerie Forces destroyed a number of shelters and caves belonging to the PKK during the operations in Andicen, Ulasir, and Surik areas of Catak district in Van.
+
+---
+
+[EVENT: TUR8912]
+Date: 2019-08-10
+Country: Turkey | Location: Reyhanli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property Destruction: On August 10, the HBDH attacked a military depot in Reyhanli of Hatay.
+
+---
+
+[EVENT: TUR8920]
+Date: 2019-08-12
+Country: Turkey | Location: Bornova
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement; ANF News [Other-International]
+
+DESCRIPTION:
+Property destruction: HBDH claimed responsibility of the fire that broke out in a factory on August 12 in Bornova, Izmir, which is allegedly manufacturing water tanks and containers for Turkish Army. No fatalities reported.
+
+---
+
+[EVENT: TUR8919]
+Date: 2019-08-12
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+Security measures: On August 12th, the governor of Van announced that all types of demonstrations, marches, meetings and associations, press statements, sit-ins, opening of stands and other public and political events in Van province were banned for 15 days from August 12th to August 26th. The ban has been in place since November 2016, with the governor extending it regularly in 15 day periods.
+
+---
+
+[EVENT: TUR8926]
+Date: 2019-08-13
+Country: Turkey | Location: Sanliurfa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On August 13th, a unit of YPS called Sehit Ciyager Hevi Vengeance Unit has claimed responsibility for an arson attack on a factory producing explosive materials in Sanliurfa province.
+
+---
+
+[EVENT: TUR8928]
+Date: 2019-08-14
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete; Human Rights Foundation of Turkey [Other-National]
+
+DESCRIPTION:
+Security measures: On August 14th, the governor of Hakkari declared that 5 districts (Hakkari central, Cukurca, Yuksekova and Derecik) in Hakkari province were made into 'private security areas' from August 15th to August 29th due to upcoming counter-terrorism operations. On August 16th, this ban was extended until 15th September, and included all provincial and district centres across the province.
+
+---
+
+[EVENT: TUR8931]
+Date: 2019-08-14
+Country: Turkey | Location: Nusaybin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On August 14th, a group called Martyr Gelhat Gever Vengeance Unit, possibly under YPS, destroyed the customs gate between Nusaybin and Qamishlo, on account of the reason that it was used as a passageway for gangs and Turkish paramilitary forces, as well as MIT headquarters.
+
+---
+
+[EVENT: TUR8929]
+Date: 2019-08-14
+Country: Turkey | Location: Ayvacik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+Arrests: As reported on August 14th, 118 migrants from Afghanistan, Syria and Iran attempting to cross the border illegally to Greece from Ayvacik district of Canakkale were arrested.
+
+---
+
+[EVENT: TUR8938]
+Date: 2019-08-16
+Country: Turkey | Location: Uzungecit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction: As reported on August 16th, military forces destroyed a PKK shelter in Uzungecit village in Uludere district, Sirnak.
+
+---
+
+[EVENT: TUR8943]
+Date: 2019-08-17
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Security measures: On August 17, the governorship of Hakkari announced the extension of the current ban on all the public and political events in Hakkari province for another month, until 15 September at 11.59pm.
+
+---
+
+[EVENT: TUR8976]
+Date: 2019-08-19
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Property destruction: As reported on August 19th, Gendarmerie Forces destroyed 15 shelters belonging to PKK across Hakkari province.
+
+---
+
+[EVENT: TUR8956]
+Date: 2019-08-19
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+Other: On August 19th, the Turkish government removed the mayor of Diyarbakir, Mardin and Van (all who had entered office after winning the March local election as candidates of HDP), replacing the elected mayors with Ankara-appointed governors to act as trustees. Known as the 'kayyum', the policy have been imposed on mostly HDP-run municipalities in 2016. It has been claimed by the government that the removed mayors were identified to be engaged and affiliated with terrorist organisations.
+
+---
+
+[EVENT: TUR8962]
+Date: 2019-08-19
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey; Mezopotamya Agency; Bianet [Other-National]
+
+DESCRIPTION:
+Arrests: On 19 August 2019, 418 people were arrested in Diyarbakir-based police operations carried out in 29 provinces, claimed to be targeting PKK supporters. The majority of arrests took place in Diyarbakir, Van and Mardin. The detained were mostly the members of HDP and DBP, but also included a DAD executive. The arrests were made along with government's decision to appoint governors in place of HDP elected mayors in the 3 provinces. In Diyarbakir alone, 187 were arrested with 99 taken into custody.
+
+---
+
+[EVENT: TUR8967]
+Date: 2019-08-19
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+Security measures: On August 19th, Izmir Governor's Office prohibited all forms of marches and protests for 10 days in response to the protests organised by the HDP against the dismissal of the elected mayors in the south-east. The Izmir Bar Association have filed a lawsuit demanding the cancellation of such a ban on protests.
+
+---
+
+[EVENT: TUR8965]
+Date: 2019-08-19
+Country: Turkey | Location: Mardin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey; Bianet [Other-National]
+
+DESCRIPTION:
+Security measures: On August 19th, Mardin Governor's Office prohibited all forms of marches and protests for 30 days in response to the protests organised by the HDP against the dismissal of the elected mayor in the city.
+
+---
+
+[EVENT: TUR8966]
+Date: 2019-08-19
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey; Bianet [Other-National]
+
+DESCRIPTION:
+Security measures: On August 19th, Diyarbakir Governor's Office prohibited all forms of marches and protests for 15 days in response to the protests organised by the HDP against the dismissal of the elected mayor in the city.
+
+---
+
+[EVENT: TUR8978]
+Date: 2019-08-19
+Country: Turkey | Location: Sirnak
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Property destruction: As reported on August 19th, Gendarmerie Forces destroyed 12 shelters belonging to PKK across Sirnak province.
+
+---
+
+[EVENT: TUR8979]
+Date: 2019-08-19
+Country: Turkey | Location: Van
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Property destruction: As reported on August 19th, Gendarmerie Forces destroyed 16 shelters belonging to PKK across Van province.
+
+---
+
+[EVENT: TUR8997]
+Date: 2019-08-20
+Country: Turkey | Location: Corlu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On August 20, the HBDH destroyed a recycling factory in Corlu of Tekirdag.
+
+---
+
+[EVENT: TUR8991]
+Date: 2019-08-20
+Country: Turkey | Location: Mus
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: On August 20th, Mus Governor's Office prohibited all forms of marches and protests (including press releases and sit-in protests) for 15 days from August 21st. The security measure was in response to the protests organised by the HDP against the dismissal of the elected mayors in Diyarbakir, Van and Mardin.
+
+---
+
+[EVENT: TUR8986]
+Date: 2019-08-20
+Country: Turkey | Location: Kocaeli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+Security measures: On August 20th, Kocaeli Governor's Office prohibited all forms of marches, protests, sit-ins and other actions for 15 days across Kocaeli province in response to the protests organised by the HDP against the dismissal of the elected mayors in the south-east.
+
+---
+
+[EVENT: TUR8987]
+Date: 2019-08-20
+Country: Turkey | Location: Adana
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+Security measures: On August 20th, Adana Governor's Office prohibited all forms of marches, protests, sit-ins and other actions for 15 days across Adana province in response to the nationwide protests organised by the HDP against the dismissal of the elected mayors in the south-east.
+
+---
+
+[EVENT: TUR9128]
+Date: 2019-08-21
+Country: Turkey | Location: Bahcelievler
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement; ANF News [Other-International]
+
+DESCRIPTION:
+Property destruction: HBDH claimed responsibility of the fire that broke out on a towing truck belonging to Turkish Police forces on August 21 in Bahcelievler district of Istanbul.
+
+---
+
+[EVENT: TUR9002]
+Date: 2019-08-21
+Country: Turkey | Location: Kayapinar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Haberler; Demokrat Haber; ANF News; Beyaz Gazete [National-International]
+
+DESCRIPTION:
+Property destruction: On August 21st, a group of people stopped a minibus en route in Huzurevleri neighborhood of Kayapinar town, Diyarbakir, took passengers out and burned the minibus using molotov cocktails. The passengers also reported that the group was armed. The Martyr Cekwar Cubuk Vengeance Unit of the YPS claimed responsibility for the attack.
+
+---
+
+[EVENT: TUR9013]
+Date: 2019-08-21
+Country: Turkey | Location: Kucukcekmece
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On August 21, the HBDH destroyed a cosmetic and a chemical factory in Kucukcekmece in Istanbul.
+
+---
+
+[EVENT: TUR9014]
+Date: 2019-08-21
+Country: Turkey | Location: Basaksehir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On August 21, the HBDH destroyed a cosmetice factory in Basaksehir, Istanbul.
+
+---
+
+[EVENT: TUR9015]
+Date: 2019-08-21
+Country: Turkey | Location: Yildirim
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On August 21, the HBDH destroyed a parking lot with around 500 cars in Yildirim of Bursa.
+
+---
+
+[EVENT: TUR9009]
+Date: 2019-08-21
+Country: Turkey | Location: Bursa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Security measures: On August 21st, the Provincial Security Directorate has prohibited all forms of marches and protests (including press releases and sit-in protests) in Bursa province related to the dismissal of elected HDP mayors in Diyarbakir, Van and Mardin.
+
+---
+
+[EVENT: TUR9011]
+Date: 2019-08-21
+Country: Turkey | Location: Bahcelievler
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On August 21, the HBDH put a military garment factory on fire in Bahcelievler district of Istanbul.
+
+---
+
+[EVENT: TUR8993]
+Date: 2019-08-22
+Country: Turkey | Location: Gaziantep
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency; Human Rights Foundation of Turkey [Other-National]
+
+DESCRIPTION:
+Security measures: On 22 August 2019, Gaziantep Governor's Office prohibited all forms of marches and protests (including press releases and sit-in protests) for 30 days. The security measure was in response to nationwide protests organized by HDP supporters against the dismissal of the elected mayors in Diyarbakir, Van and Mardin.
+
+---
+
+[EVENT: TUR9020]
+Date: 2019-08-22
+Country: Turkey | Location: Tahil
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Property destruction: On August 22nd, Gendarmerie Forces destroyed 3 shelters/caves belonging to PKK in Tahil neighbourhood of Baskale district of Van.
+
+---
+
+[EVENT: TUR9087]
+Date: 2019-08-23
+Country: Turkey | Location: Sirnak
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey; Mezopotamya Agency [Other-National]
+
+DESCRIPTION:
+Security measures: On 23 August 2019, Sirnak Governor's Office prohibited all forms of marches protests, press conferences or sit-ins for 15 days until 6 September 2019, in response to the HDP-organized protests in the province against the dismissal of the elected mayors in Diyarbakir, Van and Mardin.
+
+---
+
+[EVENT: TUR9058]
+Date: 2019-08-24
+Country: Turkey | Location: Cukurca
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+On 24 August 2019, the PKK attacked construction workers in the Cukurca district of Hakkari. One vehicle was destroyed. The number of fatalities is unknown.
+
+---
+
+[EVENT: TUR21393]
+Date: 2019-08-24
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 24 August 2019, Hakkari governor's office declared two large rural regions extending across the central, Cukurca, Yuksekova and Semdinli districts of the province 'special security zones', effective until 29 August due to ongoing security operations.
+
+---
+
+[EVENT: TUR21394]
+Date: 2019-08-24
+Country: Turkey | Location: Battalgazi
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Arrests: Around 24 August 2019 (as reported), Gendarmerie forces stopped and detained a group of 39 Afghan migrants that entered Turkey illegally in Battalgazi district of Malatya.
+
+---
+
+[EVENT: TUR9075]
+Date: 2019-08-25
+Country: Turkey | Location: Yenisehir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property Destruction: On August 25, the Martyr Ciyager Hevi Vengeance unit of the YPS attacked a police office in Yenisehir district of Diyarbakir causing material damage.
+
+---
+
+[EVENT: TUR8968]
+Date: 2019-08-25
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+Around 25 August 2019 (from 12 July - 25 August), a total of 16,423 refugees have been arrested during the operations carried out by police forces in Istanbul province and placed in repatriation centers across the country between July 12th to August 25th.
+
+---
+
+[EVENT: TUR9095]
+Date: 2019-08-27
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: On August 27th, Van Governor's Office prohibited all forms of marches protests, press conferences or sit-ins for 15 days in response to the protests organised by the HDP against the dismissal of the elected mayor in the city.
+
+---
+
+[EVENT: TUR9133]
+Date: 2019-08-29
+Country: Turkey | Location: Aydin/Efeler
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: On August 29th, the Aydin's Governor's Office has prohibited all forms of marches and protests (including press releases and sit-in protests) in Aydin province for 30 days from August 31st related to the dismissal of elected HDP mayors in Diyarbakir, Van and Mardin.
+
+---
+
+[EVENT: TUR9113]
+Date: 2019-08-30
+Country: Turkey | Location: Mersin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Karar [Regional]
+
+DESCRIPTION:
+Security measures: On August 30th, the Mersin Governor's Office has prohibited all forms of marches and protests (including press releases and sit-in protests) in Mersin province for 10 days from August 30th related to the dismissal of elected HDP mayors in Diyarbakir, Van and Mardin.
+
+---
+
+[EVENT: TUR9134]
+Date: 2019-08-30
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency; Human Rights Foundation of Turkey [Other-National]
+
+DESCRIPTION:
+Security measures: On 30 August 2019, the governor of Hakkari declared 5 areas in the central, Cukurca, Yuksekova, Semdinli and Derecik districts of the province 'special security areas' effective until September 13th due to upcoming counter-terrorism operations.
+
+---
+
+[EVENT: TUR9143]
+Date: 2019-09-01
+Country: Turkey | Location: Marmaris
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement; ANF News [Other-International]
+
+DESCRIPTION:
+Property destruction: HBDH claimed responsibility of the fire that broke out on a luxury yacht sailing near Marmaris district of Mugla on September 1. Yacht totally burned down and sank.
+
+---
+
+[EVENT: TUR9151]
+Date: 2019-09-02
+Country: Turkey | Location: Tatvan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency; Rudaw [National-International]
+
+DESCRIPTION:
+Security measures: On September 2, an indefinite curfew was declared in 7 villages of the Tatvan district of Bitlis by the governorship due to ongoing military operations against PKK. The villages under curfew are: Donertas, Kisikli, Boblesur, Kepenek, Sallica, Suboyu and Dirlik.
+
+---
+
+[EVENT: TUR9157]
+Date: 2019-09-03
+Country: Turkey | Location: Adana
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: On September 3rd, Adana Governor's Office prohibited all forms of marches, protests, sit-ins and other actions for 15 days from September 3rd across Adana province in response to the protests organised by the HDP against the dismissal of the elected mayors in the south-east.
+
+---
+
+[EVENT: TUR9167]
+Date: 2019-09-04
+Country: Turkey | Location: Mus
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: On September 4th, the Mus's Governor's Office has prohibited all forms of marches and protests (including press releases and sit-in protests) in Mus province for 15 days from September 5th.
+
+---
+
+[EVENT: TUR9168]
+Date: 2019-09-04
+Country: Turkey | Location: Tunceli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Security measures: On September 4th, Tunceli Governor's Office prohibited all forms of marches, protests, sit-ins and other actions for 30 days from September 4th until October 3rd across Tunceli province in response to the protests organised by the HDP against the dismissal of the elected mayors in the south-east.
+
+---
+
+[EVENT: TUR9179]
+Date: 2019-09-04
+Country: Turkey | Location: Horasan
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+Arrests: As reported on September 4, 39 migrants were detained by the Police on Erzurum-Horasan motorway in Horasan district of Erzurum.
+
+---
+
+[EVENT: TUR9189]
+Date: 2019-09-05
+Country: Turkey | Location: Bursa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: On September 5th, Bursa Governor's Office prohibited all forms of marches, protests, sit-ins and other actions for 15 days from September 5th across Bursa province in response to the protests organised by the HDP against the dismissal of the elected mayors in the south-east.
+
+---
+
+[EVENT: TUR9207]
+Date: 2019-09-06
+Country: Turkey | Location: Pendik
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: HBDH claimed responsibility of the fire that broke out in a polyester manufacturing factory on September 6 in Pendik, Istanbul. No fatalities reported.
+
+---
+
+[EVENT: TUR22778]
+Date: 2019-09-06
+Country: Turkey | Location: Hozat
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 6 September 2019, a Turkish military operation started in the Alibogazi area of Hozat district (Tunceli). Drones, armored vehicles and army helicopters were deployed to the area. It is unknown if armed clashes took place.
+
+---
+
+[EVENT: TUR9208]
+Date: 2019-09-06
+Country: Turkey | Location: Sultanbeyli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: HBDH claimed responsibility of the fire that broke out in a mattress manufacturing factory on September 6 in Sultanbeyli, Istanbul. No fatalities reported.
+
+---
+
+[EVENT: TUR9216]
+Date: 2019-09-08
+Country: Turkey | Location: Ayvalik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: On September 8, 25 Syrian migrants attempting to cross the border illegally to Lesbos, Greece from Ayvalik, Baliksehir by boat were detained by Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR9219]
+Date: 2019-09-08
+Country: Turkey | Location: Enez
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: On September 8, 38 Afghan migrants attempting to cross the border illegally to Greece from Enez, Edirne by boats were detained by Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR9218]
+Date: 2019-09-08
+Country: Turkey | Location: Besyol
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: On September 8, 29 migrants attempting to cross the border illegally were detained by Gendarmerie Forces in Besyol village of Eceabat, Canakkale.
+
+---
+
+[EVENT: TUR9217]
+Date: 2019-09-08
+Country: Turkey | Location: Kusadasi
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency; Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: On September 8, 38 Syrian migrants attempting to cross the border illegally to Samos, Greece from Kusadasi, Aydin by boat were held and detained by Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR22787]
+Date: 2019-09-08
+Country: Turkey | Location: Akcakale
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 8 September 2019, a convoy of Turkish and US military vehicles departed Akcakale district (Sanliurfa) towards the nearby border with Syria. The Turkish Ministry of Defense stated common patrols would continue to be carried out in North-Eastern Syria together with American forces.
+
+---
+
+[EVENT: TUR9232]
+Date: 2019-09-09
+Country: Turkey | Location: Kirklareli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 9, 27 migrants from Iraq were detained by Turkish Gendarmerie forces across three different districts of Kirklareli for attempting to cross illegally into Greece.
+
+---
+
+[EVENT: TUR9231]
+Date: 2019-09-09
+Country: Turkey | Location: Ayvacik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 9, 127 migrants attempting to cross the border illegally to Lesbos, Greece from Ayvacik, Canakkale by boats were detained by Coast Guard Command of Turkish Army. Also in the same day, 97 Afghan migrants hiding in the olive groves between Bademli and Gulpinar villages of Ayvacik were detained by Turkish Gendarmerie forces.
+
+---
+
+[EVENT: TUR9229]
+Date: 2019-09-09
+Country: Turkey | Location: Dikili
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 9, 151 migrants attempting to cross the border illegally to Greece from Dikili, Izmir by boats were held and detained by Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR9233]
+Date: 2019-09-09
+Country: Turkey | Location: Edirne
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 9, 753 undocumented migrants were detained by Turkish Gendarmerie forces in five different districts of Edirne province. The migrants were from Afghanistan, Egypt, Syria, Algeria, Morocco, Sri Lanka, Bangladesh, Pakistan, Nepal, Somalia, Palestine and Iran.
+
+---
+
+[EVENT: TUR9230]
+Date: 2019-09-09
+Country: Turkey | Location: Karaburun
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 9, 52 migrants attempting to cross the border illegally to Greece from Karaburun, Izmir by boat were held and detained by Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR9239]
+Date: 2019-09-09
+Country: Turkey | Location: Enez
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: On September 9, 31 migrants attempting to cross the border illegally to Greece from Enez, Edirne by boats were detained by Coast Guard Command of Turkish Army. Later in the day another boat carrying 19 more migrants was also held, raising the total number of detainees to 50. The migrants were from Afghanistan, Uzbekistan and Iran.
+
+---
+
+[EVENT: TUR9240]
+Date: 2019-09-09
+Country: Turkey | Location: Iskenderun
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: HBDH claimed responsibility of the fire that broke out on a cargo ship in Iskenderun district of Hatay. No fatality but severe damage on the ship and its load reported.
+
+---
+
+[EVENT: TUR22793]
+Date: 2019-09-10
+Country: Turkey | Location: Kursunlu
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 10 September 2019, Turkish army units started a military operation in Kursunlu village of Dicle district (Diyarbakir province). Gunfire was heard by locals, but no information was available as to potential casualties. Two people were detained by soldiers in the village as a result of the operation.
+
+---
+
+[EVENT: TUR9246]
+Date: 2019-09-10
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Cumhuriyet; Turkey Purge [New media-National]
+
+DESCRIPTION:
+Arrests: Ankara prosecutor's office announced on September 10 that 39 of the suspects had been detained over alleged Gulen links, accusing the suspects of using ByLock, a smartphone application believed to have been used among the Gulen movement followers for communication.
+
+---
+
+[EVENT: TUR9254]
+Date: 2019-09-10
+Country: Turkey | Location: Veysel Karani
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: On 10 September 2019, 32 migrants were detained by Gendarmerie forces after the minibus carrying them tried to escape a traffic stop in Veysel Karani neighborhood of Siirt's central district.
+
+---
+
+[EVENT: TUR9252]
+Date: 2019-09-10
+Country: Turkey | Location: Anakoy
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency; Ihlas News Agency [National]
+
+DESCRIPTION:
+Property destruction: As reported on September 10, Gendarmerie Forces destroyed 3 shelters belonging to PKK near Anakoy neighbourhood of Gevas district of Van. After weapons and materials were confiscated, the shelters were destroyed by security forces.
+
+---
+
+[EVENT: TUR9253]
+Date: 2019-09-10
+Country: Turkey | Location: Saricam
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+Arrests: As reported on September 10, 61 migrants were found on the trailer of a truck during a traffic stop and detained by the Police forces in Saricam district of Adana. The migrants were from Afghanistan, Bangladesh and Pakistan.
+
+---
+
+[EVENT: TUR22796]
+Date: 2019-09-10
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 10 September 2019, the governorate of Van issued a ban on marches, open-air gatherings, press statements, sit-ins, opening of stands and all other forms of public protest across Van province, from 11 September to 26 September 2019. The ban was still in place by 21 November 2019.
+
+---
+
+[EVENT: TUR9267]
+Date: 2019-09-11
+Country: Turkey | Location: Keremkoy
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 11, 76 migrants hiding in the olive groves in Keremkoy neighborhood of Gomec, Balikesir were detained by Turkish Gendarmerie forces. The migrants were from Uzbekistan, Afghanistan and Pakistan.
+
+---
+
+[EVENT: TUR9263]
+Date: 2019-09-11
+Country: Turkey | Location: Dikili
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on 11 September, 84 migrants attempting to cross the border illegally to Greece by boat were held and detained by Coast Guard Command of Turkish Army off the shore of Guvercinlik and Madra Cayi in Dikili district of Izmir. 36 of the migrants were from Syria, and 48 were from Afghanistan.
+
+---
+
+[EVENT: TUR9264]
+Date: 2019-09-11
+Country: Turkey | Location: Seferihisar
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency; Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on 11 September, 53 migrants attempting to cross the border illegally to Greece by boat were held and detained by Coast Guard Command of Turkish Army off the shore of Sigacik in Seferihisar district of Izmir. Thee migrants were from Syria, Somalia, Egypt, Palestine, Nigeria and Central African Republic.
+
+---
+
+[EVENT: TUR9266]
+Date: 2019-09-11
+Country: Turkey | Location: Ayvacik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 9, total 141 migrants attempting to cross the border by boats illegally to Lesbos, Greece from Ayvacik, Canakkale were detained off the shores of Burunucu, Sivrice and Yesil Liman by Coast Guard Command of Turkish Army. The migrants were from DR Congo, Angola, Central African Republic and Afghanistan.
+
+---
+
+[EVENT: TUR9260]
+Date: 2019-09-11
+Country: Turkey | Location: Kucukkoy
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: On September 11, 63 migrants attempting to cross the border illegally to Lesbos, Greece were detained by Gendarmerie forces in Kucukkoy neighborhood of Ayvalik district of Balikesir. The migrants were from Syria, DR Congo, Guinea, Central African Republic,
+
+---
+
+[EVENT: TUR9265]
+Date: 2019-09-11
+Country: Turkey | Location: Hanoglu
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Somalia) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on 11 September, suspected vehicles carrying migrants to Greek border were stopped by Gendarmerie forces in Hanoglu neighborhood of Muratli district of Tekirdag. 43 Migrants from Somalia, Pakistan, Egypt and Bangladesh were detained.
+
+---
+
+[EVENT: TUR9262]
+Date: 2019-09-11
+Country: Turkey | Location: Cesme
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency; Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: On September 11, 180 migrants attempting to cross the border illegally to Greece by boats were held and detained by Coast Guard Command of Turkish Army in Cesme district of Izmir. In the same day, 39 migrants were detained on land by immigration agents in the same district and 47 other migrants by Gendarmerie forces. Later in the day 44 migrants were also caught on another boat. The migrants were from Syria, Afghanistan, Iraq and Palestine.
+
+---
+
+[EVENT: TUR9261]
+Date: 2019-09-11
+Country: Turkey | Location: Kusadasi
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on 11 September, 45 migrants attempting to cross the border illegally to Samos, Greece from Kusadasi, Aydin by boat were held and detained by Coast Guard Command of Turkish Army. 44 of the migrants were from Syria, and 1 from Palestine.
+
+---
+
+[EVENT: TUR9314]
+Date: 2019-09-13
+Country: Turkey | Location: Enez
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency; Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: On September 13, 30 migrants attempting to cross the border illegally to Greece by boats were held and detained by Coast Guard Command of Turkish Army in Enez district of Edirne. The migrants were from Afghanistan and Iran.
+
+---
+
+[EVENT: TUR9282]
+Date: 2019-09-13
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: On September 13, 83 people were detained in a police operation conducted by Ankara Prosecutor's office in 45 provinces targeting the Gulen movement, accused of planning the military coup attempt of July 2016.
+
+---
+
+[EVENT: TUR9310]
+Date: 2019-09-14
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Demokrat Haber; Kurdistan24 [National-International]
+
+DESCRIPTION:
+Arrests: On September 14, 141 on duty soldiers were detained in an Istanbul-based police operation conducted in 54 cities targeting Gulen Movement, accused of planning the military coup attempt of July 2016.
+
+---
+
+[EVENT: TUR9324]
+Date: 2019-09-15
+Country: Turkey | Location: Bursa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: HBDH claimed responsibility of the fire that broke out on September 15 in a depository garage in Bursa province, where seized & legally disputed vehicles are kept. Dozens of cars were reportedly destroyed. HBDH claims Turkish intelligence service & other state agencies are using these cars for their operations. No fatalities reported.
+
+---
+
+[EVENT: TUR9328]
+Date: 2019-09-15
+Country: Turkey | Location: Altinozu
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 15, 64 Syrian migrants who entered Turkey illegally were detained by border patrol units in Altinozu district of Hatay province.
+
+---
+
+[EVENT: TUR9340]
+Date: 2019-09-16
+Country: Turkey | Location: Altinozu
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 17, 103 Syrian migrants who entered Turkey illegally were detained by border patrol units in Altinozu district of Hatay province.
+
+---
+
+[EVENT: TUR9339]
+Date: 2019-09-16
+Country: Turkey | Location: Kocasinan
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on 16 September, 49 migrants who entered Turkey illegally were detained by Police forces in Kocasinan district of Kayseri. The migrants were from Afghanistan, Pakistan and Bangladesh.
+
+---
+
+[EVENT: TUR9361]
+Date: 2019-09-17
+Country: Turkey | Location: Adana
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: On September 17rd, Adana Governor's Office prohibited all forms of marches, protests, sit-ins and other actions for 15 days from September 18th across Adana province in response to the protests organised by the HDP against the dismissal of the elected mayors in the south-east. This was the third time in a row that such measures have been imposed in Adan province since the mayors were dismissed.
+
+---
+
+[EVENT: TUR9345]
+Date: 2019-09-17
+Country: Turkey | Location: Datca
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported between 15 and 19 September, 230 migrants were detained attempting to cross the border illegally to Greece by boats were held and detained by Coast Guard Command of Turkish Army in Mugla. The migrants were from Afghanistan, Syria, Iraq, Togo, Nigeria, Haiti, Ghana, Mali, Somalia, Lebanon and Palestine.
+
+---
+
+[EVENT: TUR9347]
+Date: 2019-09-17
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Rudaw; Anadolu Agency; Demokrat Haber [National-International]
+
+DESCRIPTION:
+Security measures: On September 16, Hakkari Governor's Office prohibited all forms of marches, protests, sit-ins and other actions for 30 days from September 16 across Hakkari province in response to the protests organised by the HDP against the dismissal of the elected mayors in the south-east.
+
+---
+
+[EVENT: TUR9357]
+Date: 2019-09-17
+Country: Turkey | Location: Mersin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Security measures: On September 17, Icel (Mersin) Governor's Office prohibited all forms of marches, protests, press conferences, sit-ins and other actions for 15 days as of September 17 across Icel province in response to the protests organised by the HDP against the dismissal of the elected mayors in the south-east.
+
+---
+
+[EVENT: TUR9346]
+Date: 2019-09-17
+Country: Turkey | Location: Kas
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on 17 September, 34 Syrian migrants attempting to cross the border illegally to Greece by boat were held and detained by Coast Guard Command of Turkish Army off the coast of Kas district of Antalya.
+
+---
+
+[EVENT: TUR9367]
+Date: 2019-09-18
+Country: Turkey | Location: Mardin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Security measures: On September 18, Mardin Governor's Office extended the current ban on all forms of marches, protests, sit-ins and other actions for another 30 days from September 18 across Mardin province in response to the protests organised by the HDP against the dismissal of the elected mayors in the south-east.
+
+---
+
+[EVENT: TUR9365]
+Date: 2019-09-18
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency; Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: As reported between 16 and 20 September, around 1674 migrants were arrested in Izmir province. Migrants were from Afghanistan, Central African Republic, Syria, Iraq, Somalia, DR Congo, Togo, Guinea, Palestine, Sudan, Egypt, Yemen, Eritrea, Burkina Faso and Sierra Leone.
+
+---
+
+[EVENT: TUR9374]
+Date: 2019-09-18
+Country: Turkey | Location: Tuzla
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: HBDH claimed responsibility of the fire that broke out in a chemical plant in Tuzla district of Istanbul on September 18. HBDH claims the factory was producing chemicals and military equipment, providing support to the government and army of Turkey.
+
+---
+
+[EVENT: TUR9370]
+Date: 2019-09-18
+Country: Turkey | Location: Inanli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Pakistan) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 18, suspected vehicle carrying migrants to Greek border were stopped by Gendarmerie forces in Inanli neighborhood of Muratli district of Tekirdag. Total 28 migrants from Pakistan and Bangladesh were detained.
+
+---
+
+[EVENT: TUR9364]
+Date: 2019-09-18
+Country: Turkey | Location: Edirne
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported between September 16 and 20, vehicles carrying migrants en route to Greek border were stopped by Police forces in Edirne, 677 Afghan migrants were detained. The migrants were from Afghanistan, Syria, Algeria, Eritrea, Morocco, Iran, Palestine, Egypt, Pakistan, Bangladesh and Yemen. An additional, 669 migrants attempting to cross the border illegally to Greece were detained in the operations of Gendarmerie forces in Enez, Ipsala, Uzunkopru and Meric districts of Edirne province. The migrants were from Syria, Palestine, Egypt, Sri Lanka, Algeria, Morocco, Iran, Pakistan, Bangladesh.
+
+---
+
+[EVENT: TUR9363]
+Date: 2019-09-18
+Country: Turkey | Location: Canakkale
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported between September 16 and 21, 646 migrants attempting to cross the border illegally to Greece by boats were held and detained by Coast Guard Command of Turkish Army in Canakkale. Migrants were primarily from Afghanistan and Syria. 92 Afghan migrants hiding in the olive groves near Bademli and Kocakoy villages of Ayvacik, Canakkale were detained by Gendarmerie forces. On September 19, suspected vehicles carrying migrants were stopped by Gendarmerie forces in Koyunevi village of Ayvacik district, Canakkale. Total 72 migrants of unknown nationality were detained.
+
+---
+
+[EVENT: TUR9388]
+Date: 2019-09-19
+Country: Turkey | Location: Altinozu
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 19, 70 Syrian migrants who entered Turkey illegally were detained by border patrol units in Altinozu district of Hatay province.
+
+---
+
+[EVENT: TUR9387]
+Date: 2019-09-19
+Country: Turkey | Location: Balikesir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported between Sept 17 and 21, 241 migrants attempting to cross the border illegally to Lesbos, Greece were detained by Gendarmerie forces in Balikesir. The migrants were from Syria, Afghanistan DR Congo, Central African Republic and Mali. Gendarmerie forces also detained 204 migrants from Afghanistan, Syria, DR Congo, South Africa, Angola and Central African republic in Ayvalik.
+
+---
+
+[EVENT: TUR9380]
+Date: 2019-09-19
+Country: Turkey | Location: Aydin/Efeler
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency; Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: Between Sept 17 and 21, suspected vehicles carrying migrants were stopped by Gendarmerie forces in Aydin. 75 migrants of unknown nationality were detained. 211 migrants attempting to cross the border illegally to Greece by boats were held and detained by Coast Guard Command of Turkish Army off the coast of Aydin. Migrants were from Syria, Kuwait, Palestine and other countries.
+
+---
+
+[EVENT: TUR9396]
+Date: 2019-09-20
+Country: Turkey | Location: Mus
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Security measures: On September 19, Mus Governor's Office announced a ban on all forms of marches, protests, press conferences, sit-ins and other actions across Mus province for 15 days as of September 20.
+
+---
+
+[EVENT: TUR9397]
+Date: 2019-09-20
+Country: Turkey | Location: Kozluk
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 19, total 99 migrants from Afghanistan, Pakistan and Bangladesh were detained by Gendarmerie forces in Kozluk district of Batman.
+
+---
+
+[EVENT: TUR9400]
+Date: 2019-09-20
+Country: Turkey | Location: Sanliurfa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Security measures: On September 20, Sanliurfa Governor's Office announced a ban on all forms of marches, protests, press conferences, sit-ins and other actions across Sanliurfa province for 15 days as of September 20.
+
+---
+
+[EVENT: TUR9399]
+Date: 2019-09-20
+Country: Turkey | Location: Gaziantep
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Security measures: On September 20, Gaziantep Governor's Office announced a ban on all forms of marches, protests, press conferences, sit-ins and other actions across Gaziantep province for 15 days as of September 20.
+
+---
+
+[EVENT: TUR9398]
+Date: 2019-09-20
+Country: Turkey | Location: Adana
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 20, total 100 migrants who entered Turkey illegally were detained in the Police checkpoints on the main highways of Adana province. The migrants were from Afghanistan, Pakistan, Sri Lanka, Ghana, Mali and Togo.
+
+---
+
+[EVENT: TUR9432]
+Date: 2019-09-22
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 22-27, a total of 1,209 migrants attempting to cross the border illegally to Greece from Cesme district of Izmir were detained in the operations carried out by Coast Guard Command of Turkish Army and Police forces of Turkey. The migrants were from Syria, Afghanistan, Iraq, Somalia, Palestine, Sierra Leone, Kuwait, Cuba, Yemen, Pakistan, DR Congo, Angola, Mali, Central African Republic, Togo, Iran, Senegal and South Africa.
+
+---
+
+[EVENT: TUR9435]
+Date: 2019-09-22
+Country: Turkey | Location: Ula
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 22-26, 359 Afghan migrants who entered Turkey illegally or who were attempting to cross the border with Greece were detained by border patrol units in Mugla.
+
+---
+
+[EVENT: TUR9433]
+Date: 2019-09-22
+Country: Turkey | Location: Aydin/Efeler
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 22-26, 426 migrants attempting to cross the border illegally to Greece from Izmir were detained by the Coast Guard Command of Turkish Army. The migrants were from Syria, Palestine and Cuba.
+
+---
+
+[EVENT: TUR9434]
+Date: 2019-09-22
+Country: Turkey | Location: Altinozu
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 22-26, 74 Syrian migrants who entered Turkey illegally were detained by border patrol units in Altinozu district of Hatay province.
+
+---
+
+[EVENT: TUR9447]
+Date: 2019-09-23
+Country: Turkey | Location: Balikesir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 23-27, suspected vehicle carrying Afghan migrants en route to coastal areas was stopped by Gendarmerie forces in Edremit district of Balikesir. Total 37 migrants were detained. 271 migrants attempting to cross the border to Greece from Balikesir province were detained by Gendarmerie forces. The migrants were from Afganistan, Syria, Pakistan, Uzbekistan and Turkmenistan.
+
+---
+
+[EVENT: TUR9438]
+Date: 2019-09-23
+Country: Turkey | Location: Adana
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: On September 23, police arrested 100 people in Adana for the racist attack on Syrians in the city on September 19th.
+
+---
+
+[EVENT: TUR9462]
+Date: 2019-09-24
+Country: Turkey | Location: Canakkale
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 24-28, total 725 Afghan migrants attempting to cross the border illegally by boats to Greece were detained by the Coast Guard Command of Turkish Army in Aydin.
+
+---
+
+[EVENT: TUR9461]
+Date: 2019-09-24
+Country: Turkey | Location: Kirklareli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 23-25, total 159 migrants attempting to cross the border illegally were detained in the operations carried out by Gendarmerie forces in Kirklareli. The migrants were from Afganistan, Algeria, Iraq and Iran, among other places.
+
+---
+
+[EVENT: TUR9467]
+Date: 2019-09-25
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency; Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 25 September 2019, Van Governor's Office announced a ban on all forms of marches, protests, press conferences, sit-ins and other actions across Van province for 15 days as of 26 September until 10 October.
+
+---
+
+[EVENT: TUR22837]
+Date: 2019-09-26
+Country: Turkey | Location: Hasankeyf
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 26 September 2019, the Hasankeyf district governorship announced a ban on all forms of marches, protests, press conferences, sit-ins and other actions across Hasankeyf district (Batman) for 15 days as of September 26 until October 10. It was also reported that the ban preceded the planned flooding of the UNESCO world heritage site in Hasankeyf due to the opening of the Ilisu dam.
+
+---
+
+[EVENT: TUR9512]
+Date: 2019-09-27
+Country: Turkey | Location: Edirne
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 22-27, total 941 migrants en route to cross the border illegally to Greece were detained by the operations of the Gendarmerie forces and Border patrol units in Edirne province. The migrants were from Syria, Pakistan, Bangladesh, Palestine, Iraq, Iran, Algeria, Morocco, Afghanistan, Eritrea, Somalia and Egypt.
+
+---
+
+[EVENT: TUR9513]
+Date: 2019-09-27
+Country: Turkey | Location: Kirikkale
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on September 27, suspected bus carrying migrants who entered Turkey illegally was stopped by the police forces in the central district of Kirikkale. 30 migrants of unknown nationality were detained.
+
+---
+
+[EVENT: TUR9510]
+Date: 2019-09-27
+Country: Turkey | Location: Esenyamac
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Property destruction: As reported on September 27, Turkish Gendarmerie Forces destroyed PKK shelters and supplies in the security operations carried out in Esenyamac neighborhood of Baskale district, Van.
+
+---
+
+[EVENT: TUR9590]
+Date: 2019-09-28
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey; Mezopotamya Agency [Other-National]
+
+DESCRIPTION:
+Security measures: On 28 September 2019, the governor of Hakkari declared that 15 areas in the boundaries of 5 districts (Hakkari central, Cukurca, Yuksekova, Semdinli and Derecik) of Hakkari province were made into 'special security areas' from September 29th to October 13th due to upcoming counter-terrorism operations. Unauthorized entry to the areas was forbidden.
+
+---
+
+[EVENT: TUR9817]
+Date: 2019-09-29
+Country: Turkey | Location: Besiktas
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Police Forces of Turkey (2016-) National Intelligence Organization [State forces]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property Destruction: On September 29, the Martyr Ciyager- Martyr Zeryan Vengeance units of the YPS conducted an arson attack in Bagcilar, Istanbul targeting a vehicle that was allegedly used by undercover police.
+
+---
+
+[EVENT: TUR9818]
+Date: 2019-09-29
+Country: Turkey | Location: Bagcilar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property Destruction: On September 29, the Martyr Ciyager- Martyr Zeryan Vengeance units of the YPS attacked two armored police vehicles patrolling in Demirtas neighborhood of Toroslar district, Mersin. No casualties reported.

@@ -1,0 +1,265 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iran (ISO Code: 364)
+Temporal Period: Year 2021 - Quarter Q3
+Total Events in Chunk: 19 / 19
+==================================================
+
+[EVENT: IRN10187]
+Date: 2021-07-04
+Country: Iran | Location: Kermanshah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 2
+Sources: Hengaw; Iran International [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 4 July 2021, 2 civilians were killed while sorting through scrap metal at the Jalalieh neighborhood of Kermanshah city (Kermanshah) when an unexploded mortar shell dating from the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN10184]
+Date: 2021-07-04
+Country: Iran | Location: Tehran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Al Jazeera; AP; Iranian Student News Agency; Jerusalem Post; Manoto; Reuters [National-Regional]
+
+DESCRIPTION:
+Security measures: On 4 July 2021, restrictions on most jobs and closing of non-essential businesses and domestic travel were reimposed through around half of Iran's provinces, including the capital Tehran, amidst a 5th wave of new coronavirus infections, with southeastern Sistan and Baluchestan Province especially affected. Restrictions were further enhanced 2 weeks later in several provinces, and a week-long lockdown imposed on Tehran and Alborz Provinces. By 4 August restrictions and shutdowns were further enhanced in several provinces as cases continued to rise.
+
+---
+
+[EVENT: IRN10185]
+Date: 2021-07-07
+Country: Iran | Location: Tehran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Free Union of Iranian Workers; Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Strikes: Around 7 July 2021 (week of), over 20,000 full-time, temporary and contract workers employed in over 96 oil and petrochemical subsidiary companies of the Ministry of Petroleum and National Iranian Oil Company went on strike for a third week at their workplaces throughout the country (at least 8 provinces). Their demands centered on increased wages and off-days in their work shifts. Coded at national capital Tehran.
+
+---
+
+[EVENT: IRN10186]
+Date: 2021-07-08
+Country: Iran | Location: Batsam
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 2
+Sources: Hengaw; Kurdistan Human Rights Network [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 8 July 2021, 2 Kurdish civilians were killed while grazing their livestock near Batsam village (Kurdistan) when an unexploded mortar shell dating from the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN10356]
+Date: 2021-07-14
+Country: Iran | Location: Tehran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Radio Farda; VOA; Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Strikes: Around 14 July 2021 (week of), over 20,000 full-time, temporary and contract workers employed in over 100 oil and petrochemical subsidiary companies of the Ministry of Petroleum and National Iranian Oil Company went on strike for a fourth week at their workplaces throughout the country (at least 12 provinces). Their demands centered on increased wages and off-days in their work shifts. Coded at national capital Tehran.
+
+---
+
+[EVENT: IRN10381]
+Date: 2021-07-19
+Country: Iran | Location: Kermanshah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Unidentified Military Forces [External/Other forces]
+Fatalities: 0
+Sources: Islamic Republic News Agency [National]
+
+DESCRIPTION:
+Defusal: On 19 July 2021, an undetonated mortar shell dating from the Iran-Iraq War was discovered and defused by police in the Jafarabad neighborhood of Kermanshah city (Kermanshah).
+
+---
+
+[EVENT: IRN10578]
+Date: 2021-07-21
+Country: Iran | Location: Ahvaz
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Iran International; Javanehha; Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Around 21 July 2021 (between 16 - 26 July) police, Islamic Revolutionary Guard Corps, and other security forces arrested at least 102 and, according to some sources, as many as 1000 civilians in cities throughout Khuzestan Province in connection to the suppression of protests and demonstrations over water shortages in the province. Some arrests were carried out with extreme violence and raids of private homes, as well as the arrest of minors, were also reported. 300 arrests were reported in the city of Susangerd alone. Coded at provincial capital Ahvaz.
+
+---
+
+[EVENT: IRN10383]
+Date: 2021-07-21
+Country: Iran | Location: Ahvaz
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Twitter; Iran International [New media-International]
+
+DESCRIPTION:
+Non-violent activity: Around 21 July 2021 (week of), internet and mobile connections were severely slowed down or cut off completely in Khuzestan Province as a measure to help suppress and quell the unrest over water shortages during that week. These internet shutdowns continued for a second week. Coded at provincial capital Ahvaz.
+
+---
+
+[EVENT: IRN10384]
+Date: 2021-07-21
+Country: Iran | Location: Tehran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Radio Zamaneh; VOA [International]
+
+DESCRIPTION:
+Strikes: Around 21 July 2021 (week of), over 20,000 full-time, temporary and contract workers employed in over 110 oil and petrochemical subsidiary companies of the Ministry of Petroleum and National Iranian Oil Company went on strike for a fourth week at their workplaces throughout the country (at least 12 provinces). Their demands centered on increased wages and off-days in their work shifts. Coded at national capital Tehran.
+
+---
+
+[EVENT: IRN10557]
+Date: 2021-07-24
+Country: Iran | Location: Bukan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [State forces]
+Fatalities: 0
+Sources: Kurdistan Human Rights Network [Other]
+
+DESCRIPTION:
+Security measures: On 24 July 2021, securitization measures and patrols were enacted by the Islamic Revolutionary Guard Corps (IRGC) in villages all over Bukan County (Kurdistan) following an armed clash with PJAK earlier that day. The security lockdown lasted at least 4 days during which time at least 10 Kurdish activists were arrested in the area by IRGC intelligence forces.
+
+---
+
+[EVENT: IRN10558]
+Date: 2021-07-28
+Country: Iran | Location: Deh e Rais
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Bahadarzehi Baloch Tribal Militia (Iran) [Identity militia]
+Actor2: Heidarzehi Baloch Tribal Militia (Iran) [Identity militia]
+Fatalities: 0
+Sources: Baloch Campaign [Other]
+
+DESCRIPTION:
+On 28 July 2021, a peace agreement was concluded between the Bahadarzehi and Heidarzehi tribes in the Irandegan District (Sistan and Baluchestan) ending 5 years of inter-tribal conflict during which an individual from the Heidarzehi tribe was killed. Coded at district capital Deh e Rais.
+
+---
+
+[EVENT: IRN10641]
+Date: 2021-07-30
+Country: Iran | Location: Piranshahr
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 30 July 2021, 2 Kurdish cross-border porters or Kolbars were injured in the Shakheh Rukhaw border heights of Piranshahr County (West Azerbaijan) when Islamic Revolutionary Guard Corps forces shot in their direction. The shooting and killing of Kolbars by government forces has led to protests in the past.
+
+---
+
+[EVENT: IRN10679]
+Date: 2021-08-03
+Country: Iran | Location: Zahedan
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Narouei Baloch Tribal Militia (Iran) [Identity militia]
+Actor2: Fatehi Baloch Tribal Militia (Iran) [Identity militia]
+Fatalities: 0
+Sources: Baloch Campaign [Other]
+
+DESCRIPTION:
+On 3 August 2021, a peace and reconciliation agreement was reached between the Narouei and Fatehi tribes in Sistan and Baluchestan Province, ending 7 years of inter-tribal conflict. Coded at provincial capital Zahedan.
+
+---
+
+[EVENT: IRN10682]
+Date: 2021-08-03
+Country: Iran | Location: Roshan Kouh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Iran Wire; VOA [Local partner-Other]
+
+DESCRIPTION:
+Property destruction: On 3 August 2021, police and local municipal forces demolished 3 homes without warning in Rowshan Kuh village (Mazandaran) belonging to Iran's Baha'i religious minority. The government said the houses were built illegally but locals and non-government reports ascribed the demolition to continued state persecution on religious grounds.
+
+---
+
+[EVENT: IRN10661]
+Date: 2021-08-08
+Country: Iran | Location: Naqadeh
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+On 8 August 2021, 3 Kurdish citizens were arrested and over 50 summoned for interrogation around the same time in Naqadeh city (West Azerbaijan) as part of a crackdown following protests the day before which began following a murder and resulted in another death after protesters were shot.
+
+---
+
+[EVENT: IRN10751]
+Date: 2021-08-15
+Country: Iran | Location: Dehloran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 2
+Sources: Hengaw; Human Rights Activists in Iran (HRA); Iran Kargar; Iranian Labour News Agency; Iranian Student News Agency; Javanehha; Mehr News Agency [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 15 August 2021, a mine left over from the Iran-Iraq war detonated in Dehloran county (Ilam) killing two civilians and injuring one.
+
+---
+
+[EVENT: IRN10861]
+Date: 2021-09-06
+Country: Iran | Location: Barvish Kani
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw; Iran Kargar [Local partner-Other]
+
+DESCRIPTION:
+Other: On 6 September 2021, Iranian border police shot at Kolbars or Kurdish cross-border porters at the border area near Barvish Kani city (Kurdistan) injuring two of them as a result. The shooting of Kolbars has led to protests in the past.
+
+---
+
+[EVENT: IRN11058]
+Date: 2021-09-21
+Country: Iran | Location: Rasak
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Baloch Campaign [Other]
+
+DESCRIPTION:
+Property destruction: On 21 September 2021, Iranian security forces demolished Balochi civilians' homes and beat them in Nosairabad village near Rasak city (Sistan and Balochestan), a move condemned by local clerics.
+
+---
+
+[EVENT: IRN11060]
+Date: 2021-09-30
+Country: Iran | Location: Zabol
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Baloch Campaign [Other]
+
+DESCRIPTION:
+Other: On 30 September 2021, Zabol police officers fired at a Sukhtbar or Balochi fuel smuggler near Mohammadabad village (presumably) near Zabol city (Sistan and Balochestan). The car caught fire but the driver was able to get out. The shooting of Sukhtbars has led to protests in the past.

@@ -1,0 +1,157 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iran (ISO Code: 364)
+Temporal Period: Year 2017 - Quarter Q3
+Total Events in Chunk: 11 / 11
+==================================================
+
+[EVENT: IRN15581]
+Date: 2017-07-06
+Country: Iran | Location: Sardasht
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 6 July 2017, a civilian was injured while following his livestock on the borders of Sardasht County when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN121]
+Date: 2017-07-07
+Country: Iran | Location: Kuh e Sefid
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) [State forces]
+Actor2: Army of Justice [Rebel group]
+Fatalities: 0
+Sources: Press TV [National]
+
+DESCRIPTION:
+Weapons seizure: Iranian security forces seized a large cache of weapons belonging to the so-called Jeish al-Adl group near the town of Saravan, in the heights of Kouh Sefid.
+
+---
+
+[EVENT: IRN120]
+Date: 2017-07-07
+Country: Iran | Location: Bushehr
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Saudi Arabia) [Civilians]
+Fatalities: 0
+Sources: Iran News Agency [National]
+
+DESCRIPTION:
+Arrests: The Navy of Iran's Islamic Revolution Guards Corps has seized a Saudi vessel after trespassing on the Iran's territorial waters in the Persian Gulf. The vessel, which had set off from the Saudi port of Dareen, was seized in the waters off the southern Iranian province of Bushehr on Friday.
+
+---
+
+[EVENT: IRN127]
+Date: 2017-07-21
+Country: Iran | Location: Bushehr
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Saudi Arabia) [Civilians]
+Fatalities: 0
+Sources: Islamic Republic News Agency [National]
+
+DESCRIPTION:
+Arrests: Iran's Revolutionary Guards detained a Saudi Arabian fishing boat that had crossed into Iranian territorial waters in Persian Gulf and arrested its crew.
+
+---
+
+[EVENT: IRN15598]
+Date: 2017-07-24
+Country: Iran | Location: Sar Takaltu
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Rokna; Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: Around 24 July 2017 (as reported), 2 minesweepers were injured at Sar Takaltu village when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN15619]
+Date: 2017-07-28
+Country: Iran | Location: Tamarchin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Kurd Press [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 28 July 2017, a civilian was injured near the border village of Tamarchin in Piranshahr County when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN15419]
+Date: 2017-08-11
+Country: Iran | Location: Ahvaz
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Mehr News Agency [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 11 August 2017, a civilian was injured in Ahvaz city when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN15425]
+Date: 2017-08-19
+Country: Iran | Location: Bagh e Malek
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Mizan [Local partner-Other]
+
+DESCRIPTION:
+Arrests: Around 19 August 2017 (as reported), 120 members of the Mohammadi and Mousayi Tribes were arrested in Bagh e Malek County to affect an end to a 2-year-old inter-tribal conflict over agricultural land which had left 18 people dead.
+
+---
+
+[EVENT: IRN146]
+Date: 2017-08-31
+Country: Iran | Location: Ahvaz
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Al Arabiya [International]
+
+DESCRIPTION:
+Arrests: Iranian security forces arrested dozens of Arab activists and citizens in Ahwaz to prevent marches and celebrations during Eid al-Adha.
+
+---
+
+[EVENT: IRN15438]
+Date: 2017-09-02
+Country: Iran | Location: Sumar
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 2 September 2017, a civilian was injured near Sumar when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN15447]
+Date: 2017-09-06
+Country: Iran | Location: Sardasht
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 6 September 2017, a Kurdish cross-border porter or Kolbar was injured on the borders of Sardasht County when a landmine planted during the Iran-Iraq War exploded.

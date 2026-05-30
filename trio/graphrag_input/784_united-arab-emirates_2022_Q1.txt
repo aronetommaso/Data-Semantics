@@ -1,0 +1,128 @@
+==================================================
+DOCUMENT CONTEXT
+Country: United Arab Emirates (ISO Code: 784)
+Temporal Period: Year 2022 - Quarter Q1
+Total Events in Chunk: 9 / 9
+==================================================
+
+[EVENT: ARE20]
+Date: 2022-01-24
+Country: United Arab Emirates | Location: Al Dhafrah Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of the United Arab Emirates (2004-2022) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: 26 September News - Houthi; AFP; AP; Yemen Data Project [National-Regional]
+
+DESCRIPTION:
+Interception: On 24 January 2022, UAE and US forces intercepted with Patriot missile batteries 2 Houthi ballistic missiles launched towards Al Dhafrah Air Base (Abu Dhabi) as part of Operation Yemen Hurricane II. Missile fragments fell over Abu Dhabi with no casualties or damage. The Houthi attack disrupted operations at Abu Dhabi International Airport for 1 hour.
+
+---
+
+[EVENT: ARE22]
+Date: 2022-01-26
+Country: United Arab Emirates | Location: Abu Dhabi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of the United Arab Emirates (2004-2022) [State forces]
+Actor2: Civilians (United Arab Emirates) [Civilians]
+Fatalities: 0
+Sources: Al Arabiya [International]
+
+DESCRIPTION:
+Other: On 26 January 2022, UAE state prosecutors summoned civilians in Abu Dhabi that were sharing videos of the Houthi missile attack on the UAE. The UAE's Attorney General said that: 'Deterrent legal measures will be taken against those who publish these materials.' This attracted a lot of media coverage.
+
+---
+
+[EVENT: ARE23]
+Date: 2022-01-31
+Country: United Arab Emirates | Location: Abu Dhabi
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of the United Arab Emirates (2004-2022) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Reuters; Yemen Data Project [National-International]
+
+DESCRIPTION:
+Interception: On 31 January 2022, UAE forces intercepted 1 Houthi ballistic missile launched towards Abu Dhabi as part of Operation Yemen Hurricane III. There were no casualties as missile fragments fell over an uninhabited area with no damage. US forces also activated Patriot missile defenses but the missile was struck by UAE surface-to-air interceptors. This took place as Israeli President Isaac Hertzog was there on a state visit.
+
+---
+
+[EVENT: ARE26]
+Date: 2022-02-01
+Country: United Arab Emirates | Location: Zayid Port
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2021-) Marine Corps [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project; Al Masdar [National-International]
+
+DESCRIPTION:
+Movement of forces: On 1 February 2022, US Secretary of Defense Lloyd J. Austin III announced the deployment of US Navy destroyer USS Cole (DDG 67) to partner with the UAE Navy and to make a port in Abu Dhabi (coded to Zayid Port) (Abu Dhabi) in addition to fifth-generation fighter jets. This came amid recent Houthi missile attacks targeting the UAE.
+
+---
+
+[EVENT: ARE27]
+Date: 2022-02-02
+Country: United Arab Emirates | Location: Abu Dhabi
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of the United Arab Emirates (2004-2022) [State forces]
+Actor2: Al Waad Al Haq Brigades [Political militia]
+Fatalities: 0
+Sources: AFP; Al Jazeera; Ministry of Defense (United Arab Emirates); Twitter [New media-National]
+
+DESCRIPTION:
+Interception: On 2 February 2022, UAE forces claimed to have intercepted 3 drones in its airspace over unpopulated areas before Iraqi militia group Al Waad Al Haq Brigades claimed the attack announcing to have launched 4 bomb-laden drones targeting vital facilities in Abu Dhabi (Abu Dhabi).
+
+---
+
+[EVENT: ARE28]
+Date: 2022-02-04
+Country: United Arab Emirates | Location: Al Dhafrah Air Base
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of the United Arab Emirates (2004-2022) [State forces]
+Actor2: Military Forces of France (2017-) [External/Other forces]
+Fatalities: 0
+Sources: Al Jazeera; Reuters; The National (UAE); Twitter [New media-National]
+
+DESCRIPTION:
+Around 4 February 2022 (as reported), the UAE activated a joint defense agreement with France amid increased missile attacks targeting its territory. France announced that it will reinforce the UAE's air defense system through aircraft operations conducted from Al Dhafrah Air Base (Abu Dhabi) in coordination with UAE air forces.
+
+---
+
+[EVENT: ARE29]
+Date: 2022-02-10
+Country: United Arab Emirates | Location: Abu Dhabi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2021-2025) [External/Other forces]
+Actor2: Military Forces of the United Arab Emirates (2004-2022) [State forces]
+Fatalities: 0
+Sources: Al Arabiya; Al Jazeera; Press TV; Reuters [Regional-International]
+
+DESCRIPTION:
+Other: On 10 February 2022, head of US Central Command General Frank McKenzie said during his visit to Abu Dhabi that the US will replenish the UAE's missile interceptors -- including THAAD and Patriot systems -- amid increased missile attacks targeting the UAE. This came after US Secretary of Defense Lloyd J. Austin III had already announced the deployment of a US Navy destroyer and fifth-generation fighter jets to the UAE on 1 February.
+
+---
+
+[EVENT: ARE30]
+Date: 2022-02-12
+Country: United Arab Emirates | Location: Al Dhafrah Air Base
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2021-2025) [External/Other forces]
+Fatalities: 0
+Sources: AhlulBayt News Agency; Khaleej Times [National-Regional]
+
+DESCRIPTION:
+Movement of forces: On 12 February 2022, 5 US F-22 fighters jets landed in Al Dhafrah Air Base (Abu Dhabi) as part of US support to the UAE amid increasing missile and drone attacks on the country.
+
+---
+
+[EVENT: ARE31]
+Date: 2022-03-04
+Country: United Arab Emirates | Location: Dubai International Airport
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of the United Arab Emirates (2004-2022) [State forces]
+Actor2: Government of Israel (2021-2022) [External/Other forces]
+Fatalities: 0
+Sources: AhlulBayt News Agency [International]
+
+DESCRIPTION:
+Non-violent activity: On 4 March 2022, Israeli and UAE authorities agreed to provide extra security to flights between Tel Aviv and Dubai International Airport (Sector 2, Dubai).

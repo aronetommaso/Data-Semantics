@@ -1,0 +1,533 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iraq (ISO Code: 368)
+Temporal Period: Year 2018 - Quarter Q2
+Total Events in Chunk: 38 / 38
+==================================================
+
+[EVENT: IRQ6139]
+Date: 2018-04-02
+Country: Iraq | Location: Khalawi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency [Regional]
+
+DESCRIPTION:
+Property destruction: On 2 April 2018, Iraqi military forces destroyed a number of IS hideouts in Khalawiya, northeast of Baquba, during a security operation there. The source did not mention actual fighting.
+
+---
+
+[EVENT: IRQ6166]
+Date: 2018-04-05
+Country: Iraq | Location: Mosul - Old City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Yaqein [National]
+
+DESCRIPTION:
+Mass Grave: on Apr 05, security forces discovered the remains of at least 75 civilians, mostly women, and children, shot in the head and chest, most likely by IS militants in al Medan area in Old City Mosul.
+
+---
+
+[EVENT: IRQ6198]
+Date: 2018-04-08
+Country: Iraq | Location: Jalawla
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) Popular Mobilization Forces [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Digital Media Source; NRT News [Other-National]
+
+DESCRIPTION:
+Looting: on Apr 08, all groups affiliated with the PMF have been taking part in the looting of civilian homes and assets and are forcing people to pay them money, and gunmen from the Arab Karawi tribe are also taking part in the town of Jalawla in the disputed areas of Diyala province.
+
+---
+
+[EVENT: IRQ6212]
+Date: 2018-04-09
+Country: Iraq | Location: Mosul - Al-Salam
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Mass Grave: on Apr 09, security forces discovered the remains of more than 22 civilians, most of them employees in the electoral commission, who were are believed to have been executed by IS militants, by firing squad in Bab al-Shams area (Al Salam district), Mosul. No details about when the killings occurred.
+
+---
+
+[EVENT: IRQ6226]
+Date: 2018-04-11
+Country: Iraq | Location: Qaryat as Saidi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Amaq [New media]
+
+DESCRIPTION:
+Property destruction: On 11 April 2018, the house of a TMF member was burned by IS militants in al-Saidi village, southern Daquq district. No casualties reported.
+
+---
+
+[EVENT: IRQ6257]
+Date: 2018-04-12
+Country: Iraq | Location: At Tarabshah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Iraqi and/or Coalition Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Mass Grave: on Apr 12, security forces discovered a mass grave containing the burnt remains of what residents of Tarabshah area, north of Ramadi city believe were IS militants killed by coalition or Iraqi airstrikes. Burned by IS militants to make them unrecongizable. No details on when these deaths may have occurred.
+
+---
+
+[EVENT: IRQ6282]
+Date: 2018-04-17
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 2
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Detonation: on Apr. 17, two IS militants were killed by the roadside bomb they tried to plant in al Hawi area in Diyala province, north of Baqubah (coded at provincial capital).
+
+---
+
+[EVENT: IRQ6310]
+Date: 2018-04-20
+Country: Iraq | Location: Mosul - Old City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Yaqein [National]
+
+DESCRIPTION:
+Mass Grave: on Apr 20, Iraqi security forces discovered a mass grave in central Old City Mosul containing the remains of 60 people with gunshot wounds to the head and chest, believed to have been executed by IS militants. No details given of when these fatalities may have occurred.
+
+---
+
+[EVENT: IRQ6322]
+Date: 2018-04-23
+Country: Iraq | Location: Hajj Umran
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Kurdish News Network [Subnational]
+
+DESCRIPTION:
+Property destruction: On 23 April 2018, unidentified perpetrators set ablaze the election office of the Iraqi Kurdish opposition Change Movement (Gorran) party in the Haji Omaran town located near the Iran border, only material damages were sustained.
+
+---
+
+[EVENT: IRQ6364]
+Date: 2018-04-23
+Country: Iraq | Location: Dibis
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Amaq [New media]
+
+DESCRIPTION:
+Property destruction: On 23 April 2018, IS militants burnt two vehicles belonging to an oil company near Qoush Kaya in Dibis district.
+
+---
+
+[EVENT: IRQ6449]
+Date: 2018-05-09
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Arrests: on May 09, Iraqi security forces announced the capture of 5 major IS commanders including Sadam al-Jamal, the commander of the 'Euphrates Wilayat' area, Mohamad Hussain Kheder, the commander of the al-Mayadin area, and Issam al-Zobai, the commander of the 'strike force' (location unknown, believed to be in Ninewa province).
+
+---
+
+[EVENT: IRQ6487]
+Date: 2018-05-13
+Country: Iraq | Location: Shaykh Hamad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Amaq [New media]
+
+DESCRIPTION:
+Property destruction: On 13 May 2018, IS militants destroyed the vehicle of a civilian calling for participation in the elections in Shaykh Hamad area. It is not clear whether the civilian was also injured.
+
+---
+
+[EVENT: IRQ6478]
+Date: 2018-05-13
+Country: Iraq | Location: Sulaymaniyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Kurdish Ethnic Militia (Iraq) [Identity militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [International]
+
+DESCRIPTION:
+Property destruction: On 13 May 2018, gunmen suspected to have been affiliated with the Patriotic Union of Kurdistan (PUK), attacked the headquarters of the Gorran Movement in Iraq's northern city of Sulaimaniyah, the attack came shortly after the movement complained about alleged vote violations. No casualties reported.
+
+---
+
+[EVENT: IRQ6493]
+Date: 2018-05-14
+Country: Iraq | Location: Al-Zubair
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 14 May 2018, unidentified armed men opened fire at a house belonging to an Iraqi police officer in the al-Zubair district, west of Basra, causing no reported injuries.
+
+---
+
+[EVENT: IRQ6551]
+Date: 2018-05-16
+Country: Iraq | Location: Hamza
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Amaq [New media]
+
+DESCRIPTION:
+Property destruction: On 16 May 2018, IS militants burned farms belonging to TMF fighters in al Hamza area, north of Fallujah.
+
+---
+
+[EVENT: IRQ6586]
+Date: 2018-05-25
+Country: Iraq | Location: Haweeja
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Property destruction: On 25 May 2018, IS militants launched an attack on a power line, cutting the electricity in Haweejah district, during the heatwave.
+
+---
+
+[EVENT: IRQ6758]
+Date: 2018-05-25
+Country: Iraq | Location: Dibis
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Amaq [New media]
+
+DESCRIPTION:
+Property destruction: On 25 May 2018, IS militants burned 10 farms belonging to the TMF near Alu Al Mahmud village, west of Dibis.
+
+---
+
+[EVENT: IRQ6587]
+Date: 2018-05-25
+Country: Iraq | Location: Tikrit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Property destruction: On 25 May 2018, IS militants launched an attack on a power line, cutting the electricity in Tikrit city, during the heatwave.
+
+---
+
+[EVENT: IRQ6596]
+Date: 2018-05-26
+Country: Iraq | Location: Imam Ways
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Yaqein [National]
+
+DESCRIPTION:
+Property destruction: On 26 May 2018, unidentified armed men completely burned agricultural crops in Beni Wes in Nahiyat al Saadiyah.
+
+---
+
+[EVENT: IRQ6600]
+Date: 2018-05-26
+Country: Iraq | Location: Yanakjah Balan Basas
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Amaq [New media]
+
+DESCRIPTION:
+Property destruction: On 26 May 2018, IS militants targeted the home of a TMF fighter in Yankajah, west of Tooz, destroying it.
+
+---
+
+[EVENT: IRQ6614]
+Date: 2018-05-28
+Country: Iraq | Location: Al-Khalis
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Property destruction: On 28 May 2018, Iraqi security forces destroyed an IS IED factory in al Khalis. No clashes or casualties reported.
+
+---
+
+[EVENT: IRQ19675]
+Date: 2018-05-28
+Country: Iraq | Location: Chiya-e Gara
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Interception: HPG (PKK) reported that on May 28, PKK shot down a drone of Turkish forces in Gare (Chiya-e Gara) region, north Iraq.
+
+---
+
+[EVENT: IRQ6624]
+Date: 2018-05-29
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: TMF: Tribal Mobilization Forces [Identity militia]
+Fatalities: 0
+Sources: Amaq [New media]
+
+DESCRIPTION:
+Property Destruction: on May 29, IS militants burned two vehicles belonging to the TMF near Ayn al Islam intersection on the road linking Baghdad and Mosul.
+
+---
+
+[EVENT: IRQ19690]
+Date: 2018-05-30
+Country: Iraq | Location: Amadiya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Interception: HPG (PKK) reported that on May 30, PKK shot down a drone of Turkish forces in Zap (Amadiya) region, northern Iraq.
+
+---
+
+[EVENT: IRQ6642]
+Date: 2018-06-03
+Country: Iraq | Location: Mosul - Al-Rabee
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons Seizure: on June 03, security forces found and seized a cache containing 400 containers filled with explosives and explosive parts Hay Al-Tanak (Al Rabee district), Mosul.
+
+---
+
+[EVENT: IRQ6671]
+Date: 2018-06-07
+Country: Iraq | Location: Kirkuk
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Police Forces of Iraq (2014-2018) Asayish [State forces]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Property destruction: On 7 June 2018, an unidentified group burned down the Asayish police headquarters in central Kirkuk in the Rahim Awah area, causing only material damages.
+
+---
+
+[EVENT: IRQ6670]
+Date: 2018-06-07
+Country: Iraq | Location: Samarra
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Property destruction: On 7 June 2018, Iraqi forces destroyed 10 IS hideouts in the city of Samarra, along with detonating 5 explosive devices found inside them.
+
+---
+
+[EVENT: IRQ13452]
+Date: 2018-06-08
+Country: Iraq | Location: Qaryat Mahuz
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 8 June 2018, IS militants burned a farm in the village of Mahawazin the district of Hawija because of the refusal of its people to cooperate with them.
+
+---
+
+[EVENT: IRQ6684]
+Date: 2018-06-10
+Country: Iraq | Location: Baghdad - Rusafa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Property destruction: On 10 June 2018, unknown individuals supposedly set fire on the largest ballot storage in the Rusafa district of Baghdad.
+
+---
+
+[EVENT: IRQ6696]
+Date: 2018-06-11
+Country: Iraq | Location: Qaryat al Mukhaysah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Property destruction: On June 11, a joint force destroyed two Islamic State boats on the river bank near Mukhaysa.
+
+---
+
+[EVENT: IRQ6714]
+Date: 2018-06-12
+Country: Iraq | Location: Garhat Ghazan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 12 June 2018, Islamic State militants burned houses and farms in the village of Ghazan in order to punish harvesters who refused to pay taxes (zakat). No casualties reported.
+
+---
+
+[EVENT: IRQ6722]
+Date: 2018-06-12
+Country: Iraq | Location: Nahiyat ar Riyad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: As reported on June 12 2018, Islamic State militants burned farmlands in Riyad of Kirkuk due to the landowners' refusal to pay taxes (zakat). No casualties reported by source.
+
+---
+
+[EVENT: IRQ6723]
+Date: 2018-06-12
+Country: Iraq | Location: Dibis
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: As reported on June 12 2018, Islamic State militants burned farmlands in Dibis of Kirkuk due to the landowners' refusal to pay taxes (zakat). No casualties reported by source.
+
+---
+
+[EVENT: IRQ6715]
+Date: 2018-06-12
+Country: Iraq | Location: Kirkuk
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: As reported on June 12 2018, Islamic State militants had burned farmlands in the Moltaka area of Kirkuk governorate due to the landowners' refusal to pay taxes (zakat). No casualties reported by source.
+
+---
+
+[EVENT: IRQ6731]
+Date: 2018-06-13
+Country: Iraq | Location: Baghdad - Adhamiya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On June 13, Iraqi police defused a car bomb in the Shaab area (Adhamiya district) of Baghdad.
+
+---
+
+[EVENT: IRQ6769]
+Date: 2018-06-17
+Country: Iraq | Location: Daquq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Amaq [New media]
+
+DESCRIPTION:
+Property destruction: On 17 June 2018, IS militants burned farmland belonging to the PMF near Yarkun village, south of Daquq.
+
+---
+
+[EVENT: IRQ13362]
+Date: 2018-06-27
+Country: Iraq | Location: Garhat Ghazan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Property destruction: On 27 June 2018, IS militants burned 5 civilian houses in the village of Qerha Qazan, the province of Hawija west of Kirkuk.
+
+---
+
+[EVENT: IRQ13361]
+Date: 2018-06-27
+Country: Iraq | Location: As Saadiyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Property destruction: On 27 June 2018, joint security forces destroyed four IS hideouts and dismantled 4 explosive devices in Hamrin Basin, near Saadiya in Diyala province.

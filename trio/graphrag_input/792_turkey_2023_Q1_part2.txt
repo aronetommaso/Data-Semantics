@@ -1,0 +1,3506 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Turkey (ISO Code: 792)
+Temporal Period: Year 2023 - Quarter Q1
+Total Events in Chunk: 265 / 1065
+==================================================
+
+[EVENT: TUR29078]
+Date: 2023-03-10
+Country: Turkey | Location: Cankaya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+On 10 March 2023, members and executives of Zafer Party staged a demonstration in front of Supreme Election Board in Kavaklidere neighborhood of Cankaya, Ankara to protest against the board's decision about not using finger paints as an election security precaution.
+
+---
+
+[EVENT: TUR29094]
+Date: 2023-03-10
+Country: Turkey | Location: Coast of Didim
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; TRT Haber [National]
+
+DESCRIPTION:
+Around 10 March 2023 (as reported), 44 migrants attempting to cross the border illegally to Greece via boats were stopped off the coast of Didim, Aydin and detained by the Coast Guard Command of the Turkish Army.
+
+---
+
+[EVENT: TUR29049]
+Date: 2023-03-10
+Country: Turkey | Location: Beyoglu
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel; Sozcu [National]
+
+DESCRIPTION:
+On 10 March 2023, doctors of Taksim Training and Research Hospital staged a demonstration in front of the hospital at the Taksim area in Beyoglu town, Istanbul, to protest against the transfer of a section of Cerrahpasa Medicine Faculty to their hospital. Doctors claim this transfer will force them to leave the Taksim Training and Research Hospital.
+
+---
+
+[EVENT: TUR41747]
+Date: 2023-03-10
+Country: Turkey | Location: Tarsus
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 10 March 2023, workers staged a demonstration in front of the factory at the Organized Industrial Zone in Tarsus, Mersin, over the firing of 6 unionized workers.
+
+---
+
+[EVENT: TUR41749]
+Date: 2023-03-10
+Country: Turkey | Location: Marmaris
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Sendika.org [Other]
+
+DESCRIPTION:
+On 10 March 2023, protesters staged a demonstration in Hisaronu area of Marmaris (Mugla) to protest the municipality, which is claimed to be cutting down trees and filling wetlands with debris.
+
+---
+
+[EVENT: TUR41746]
+Date: 2023-03-10
+Country: Turkey | Location: Osmangazi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel; Sendika.org [Other-National]
+
+DESCRIPTION:
+On 10 March 2023, DISK affiliated workers staged a demonstration in front of the Ulug Energy Company in Osmangazi, Bursa, to protest against the salary increase offer made by the employer, which was deemed unsatisfactory by the workers.
+
+---
+
+[EVENT: TUR41748]
+Date: 2023-03-10
+Country: Turkey | Location: Kadikoy
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Sendika.org [Other]
+
+DESCRIPTION:
+On 10 March 2023, women rights groups staged a demonstration in front of Sureyya Opera House in Kadikoy, Istanbul, to protest against the harsh police intervention women were subjected to during 8 March Protests as well as to protest various issues women face, including femicides.
+
+---
+
+[EVENT: TUR29125]
+Date: 2023-03-11
+Country: Turkey | Location: Baglar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 11 March 2023, IHD's provincial branch members and relatives of people who went missing under state detention staged a demonstration at Kosuyolu park in Baglar town, Diyarbakir to demand justice.
+
+---
+
+[EVENT: TUR29129]
+Date: 2023-03-11
+Country: Turkey | Location: Beyoglu
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 11 March 2023, IHD members staged a demonstration outside the association's office building in Beyoglu town, Istanbul, in protest of the prison policies which prevent ill prisoners from accessing adequate health service. An HDP MP also attended the event.
+
+---
+
+[EVENT: TUR29126]
+Date: 2023-03-11
+Country: Turkey | Location: Batman
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 11 March 2023, IHD's provincial branch members and relatives of people who went missing under state detention staged a demonstration in Batman town to demand justice.
+
+---
+
+[EVENT: TUR29151]
+Date: 2023-03-11
+Country: Turkey | Location: Mentese
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Cumhuriyet; Sozcu [National]
+
+DESCRIPTION:
+On 11 March 2023,environmentalists held a protest in Mentese town, Mugla, demanding the closure of the thermal power plants operating in Mugla province.
+
+---
+
+[EVENT: TUR29150]
+Date: 2023-03-11
+Country: Turkey | Location: Sariyer
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Karar; Sendika.org [Other-Regional]
+
+DESCRIPTION:
+On 11 March 2023, Galatasaray football club fans staged a protest during the match the team played with Kasimpasa club in Sariyer, Istanbul, calling for the resignation of the government.
+
+---
+
+[EVENT: TUR41750]
+Date: 2023-03-11
+Country: Turkey | Location: Avcilar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Sendika.org [Other]
+
+DESCRIPTION:
+On 11 March 2023, members of a platform representing various left-wing labor groups and political organizations staged a demonstration in Avcilar town, Istanbul, demanding government take the necessary safety measures for the major earthquake that is expected to hit Istanbul by 2050.
+
+---
+
+[EVENT: TUR29128]
+Date: 2023-03-11
+Country: Turkey | Location: Cankaya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 11 March 2023, IHD members and executives staged a demonstration in Cankaya town center, Ankara, in protest of the prison policies which prevent ill prisoners from accessing adequate health service.
+
+---
+
+[EVENT: TUR29105]
+Date: 2023-03-11
+Country: Turkey | Location: Dereler
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK-YJA STAR: Kurdistan Workers Party-YJA STAR [Rebel group]
+Fatalities: 6
+Sources: Beyaz Gazete; Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 11 March 2023, 6 PKK-YJA STAR militants were killed in Bestler-Dereler area of Sirnak, during a military operation carried out by gendarmerie forces. One of the killed militants was a high-ranking member of PKK-YJA STAR.
+
+---
+
+[EVENT: TUR29127]
+Date: 2023-03-11
+Country: Turkey | Location: Konak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 11 March 2023, IHD members staged a demonstration in Konak town, Izmir, in protest of the prison policies which prevent ill prisoners from accessing adequate health service.
+
+---
+
+[EVENT: TUR41752]
+Date: 2023-03-11
+Country: Turkey | Location: Pendik
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 11 March 2023, women groups staged a demonstration in Pendik town center, Istanbul, over a recent femicide case in the town. Local CHP executives also attended the event.
+
+---
+
+[EVENT: TUR41751]
+Date: 2023-03-11
+Country: Turkey | Location: Cankaya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Sendika.org [Other]
+
+DESCRIPTION:
+On 11 March 2023, members of a union representing private school teachers staged a demonstration in Cankaya town, Ankara to draw attention to hardship faced by teachers who had to move to other cities following the earthquake.
+
+---
+
+[EVENT: TUR29107]
+Date: 2023-03-11
+Country: Turkey | Location: Sisli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 11 March 2023, a demonstration was staged in Sisli town, Istanbul to commemorate Berkin Elvan who was killed by police tear gas when he was 15 years old during the 2013 Gezi protests. HDP and TIP MPs, CHP executives, Saturday Mothers and Suruc Families initiative members attended the event. The group demand justice for the case.
+
+---
+
+[EVENT: TUR29096]
+Date: 2023-03-11
+Country: Turkey | Location: Judi Mountain
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Ihlas News Agency; TRT Haber [National]
+
+DESCRIPTION:
+Property destruction: Around 11 March 2023, Turkish Gendarmerie forces destroyed a shelter used by the PKK militants in Judi Mountain area (Cizre, Sirnak), together with the large number of weapons, explosives and ammunition they found inside, within the scope of 'Eren-Blockade Autumn-Winter 19' operation.
+
+---
+
+[EVENT: TUR29180]
+Date: 2023-03-11
+Country: Turkey | Location: Reyhanli
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 2
+Sources: Bianet; Human Rights Foundation of Turkey [Other-National]
+
+DESCRIPTION:
+On 11 March 2023, Turkish soldiers assaulted and tortured 8 Syrian civilians they captured after they illegally crossed the border in Reyhanli district of Hatay. The torture started on the vehicle they were put in after they were captured, and continued during their detention at the military station. Some of the victims were forced to drink diesel fuel. 2 of the victims died and 2 others were severely injured due to the violence. 3 ranked military personnel of the station were arrested after the incident.
+
+---
+
+[EVENT: TUR29152]
+Date: 2023-03-12
+Country: Turkey | Location: Karabaglar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Haber 7; Ihlas News Agency [National]
+
+DESCRIPTION:
+On 12 March 2023, local residents protested against the municipality in Karabaglar town, Izmir, for delaying the construction of new houses that will replace their old houses, which had been demolished years ago as part of an urban transformation project launched in their neighborhood.
+
+---
+
+[EVENT: TUR29147]
+Date: 2023-03-12
+Country: Turkey | Location: Omeryan Mountains
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 3
+Sources: Anadolu Agency; Haber 7; Ihlas News Agency [National]
+
+DESCRIPTION:
+On 12 March 2023, 3 PKK militants were killed during the clashes with Turkish gendarmerie forces in Omeryan mountains area, in Nusaybin district of Mardin.
+
+---
+
+[EVENT: TUR41754]
+Date: 2023-03-12
+Country: Turkey | Location: Bakirkoy
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Sendika.org [Other]
+
+DESCRIPTION:
+On 12 March 2023, members of a union representing private school teachers staged a demonstration in Bakirkoy town, Istanbul to protest a private school group for firing two union member teachers.
+
+---
+
+[EVENT: TUR29099]
+Date: 2023-03-12
+Country: Turkey | Location: Sultangazi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Bianet; Evrensel; Mezopotamya Agency; Sendika.org [Other-National]
+
+DESCRIPTION:
+On 12 March 2023, thousands of people staged a demonstration march in Gazi Quarter of Sultangazi, Istanbul, mostly inhabited by Alevis, to commemorate the 28th anniversary of the Gazi Quarter incidents, in which 23 people were killed in 1995 during the interventions of the security forces in the four-day riots that started after an Alevite leader was killed in a gun attack. The protesters demanded justice for the case. Alevi Muslim groups. HDP MPs, EMEP executives and ESP members attended the protest.
+
+---
+
+[EVENT: TUR41753]
+Date: 2023-03-12
+Country: Turkey | Location: Cayirova
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 12 March 2023, factory workers staged a protest in Cayirova, Kocaeli, protesting their dismissals due to their union memberships. EMEP executives attended the event to express support.
+
+---
+
+[EVENT: TUR29111]
+Date: 2023-03-12
+Country: Turkey | Location: Ipekyolu
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; Sozcu; TRT Haber [National]
+
+DESCRIPTION:
+Around 12 March 2023 (as reported), gendarmerie forces captured a total of 66 Afghan migrants that entered Turkey illegally, during an operation they carried out in Ipekyolu district of Van.
+
+---
+
+[EVENT: TUR29118]
+Date: 2023-03-12
+Country: Turkey | Location: Yenisehir
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+On 12 March 2023, a demonstration was staged in Yenisehir town, Diyarbakir to commemorate over 500 health workers who lost their lives during the recent earthquake, protesting the government for its responsibility in the disaster by not taking necessary measures. TTB executives and SES members attended the event.
+
+---
+
+[EVENT: TUR29131]
+Date: 2023-03-12
+Country: Turkey | Location: Yuregir
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel; Mezopotamya Agency; Sendika.org [Other-National]
+
+DESCRIPTION:
+On 12 March 2023, workers of a textile factory staged a protest in Yuregir town, Adana, demanding payment of their indemnity pays fully, as the employer offered only some part of the amount they are legally entitled, after shutting down the factory.
+
+---
+
+[EVENT: TUR29108]
+Date: 2023-03-12
+Country: Turkey | Location: Meram
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Bianet; Haberler; Karar [National-Regional]
+
+DESCRIPTION:
+On 12 March 2023, a conservative/Muslim group organized on social media staged a protest in Meram town, Konya, during the opening of a beaty salon, owned by a transgender internet celebrity. The owner was present at the scene as she was launching the local branch of her beauty salon chain, whilst the group gathered outside and chanted Islamic slogans and takbir, shouting 'Get out of Konya' due to the owner's transgender identity. The group then attempted to march towards the store but prevented by the police, who then closed the beauty salon for security reasons.
+
+---
+
+[EVENT: TUR29153]
+Date: 2023-03-13
+Country: Turkey | Location: Bayrakli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+On 13 March 2023, a group of earthquake victims who lost their houses during the Izmir earthquake on 30 October 2020 staged a demonstration in Bayrakli town, Izmir, protesting against the decision imposing them to evacuate their temporary residences.
+
+---
+
+[EVENT: TUR29140]
+Date: 2023-03-13
+Country: Turkey | Location: Altindag
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Aydinlik [National]
+
+DESCRIPTION:
+On 13 March 2023, a labor group staged a demonstration at Ulus square in Altindag town, Ankara to demand the time they were employed as interns be taken into account for the social security calculations. Local VP executives also attended the event to express support.
+
+---
+
+[EVENT: TUR29121]
+Date: 2023-03-13
+Country: Turkey | Location: Haliliye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Bianet [National-International]
+
+DESCRIPTION:
+On 13 March 2023, SES and TTB member health workers staged a demonstration in Haliliye town, Sanliurfa to mark 14 March, the date celebrated as the medicine day in Turkey, and protested the government for the destruction of 9 health clinics in the city during the recent earthquakes.
+
+---
+
+[EVENT: TUR29113]
+Date: 2023-03-13
+Country: Turkey | Location: Pazarcik
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Bianet [National-International]
+
+DESCRIPTION:
+On 13 March 2023, SES member health workers staged a demonstration in Pazarcik town, Kahramanmaras to mark 14 March, the date celebrated as the medicine day in Turkey, and expressed various demands, mostly related to needs of earthquake victims regarding health and sanitation. KESK and Egitim Sen members, and local HDP executives attended the event.
+
+---
+
+[EVENT: TUR29112]
+Date: 2023-03-13
+Country: Turkey | Location: Zeytinburnu
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Cumhuriyet; Evrensel; Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 13 March 2023, SES member health workers staged a protest outside a hospital in Zeytinburnu town, Istanbul over an incident occurred at the hospital, in which a nurse was sexually assaulted by a doctor.
+
+---
+
+[EVENT: TUR29122]
+Date: 2023-03-13
+Country: Turkey | Location: Adiyaman
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+On 13 March 2023, SES and TTB member health workers staged a demonstration in Adiyaman town to mark 14 March, the date celebrated as the medicine day in Turkey, and protested the government for the destruction of building providing health service (hospitals, clinics etc.) in the recent earthquakes.
+
+---
+
+[EVENT: TUR29137]
+Date: 2023-03-14
+Country: Turkey | Location: Atasehir
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Evrensel; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 14 March 2023, around 100 construction workers staged a protest in Atasehir town, Istanbul, demanding the payment of salary arrears and compensations owed to them. DISK members were involved in the protest.
+
+---
+
+[EVENT: TUR29124]
+Date: 2023-03-14
+Country: Turkey | Location: Beyoglu
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Cumhuriyet; Evrensel; Sendika.org [Other-National]
+
+DESCRIPTION:
+On 14 March 2023, health workers of Taksim Training and Research Hospital staged a demonstration in front of the hospital at the Taksim area in Beyoglu town, Istanbul, to protest against the transfer of a section of Cerrahpasa Medicine Faculty to their hospital. Protesters claimed the transfer will force them to leave the Taksim Training and Research Hospital. Members of various unions including SES, TTB, HAK IS, DISK and Saglik Sen attended the event.
+
+---
+
+[EVENT: TUR29115]
+Date: 2023-03-14
+Country: Turkey | Location: Siirt
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Ihlas News Agency; Rudaw [National-Regional]
+
+DESCRIPTION:
+Security measures: On 14 March 2023, Siirt Governor's office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 15 days. Similar measures have been imposed in the province (and several other south-eastern provinces) for some years to maintain public order, presumably against political events that can be organized by the Kurdish movement.
+
+---
+
+[EVENT: TUR29119]
+Date: 2023-03-14
+Country: Turkey | Location: Adiyaman
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 14 March 2023, health workers staged a demonstration in Adiyaman town to mark 14 March, the date celebrated as the medicine day in Turkey, protesting the government for its responsibility in the death of over 500 health workers victims of the recent earthquake. TTB executives and SES members attended the event.
+
+---
+
+[EVENT: TUR29120]
+Date: 2023-03-14
+Country: Turkey | Location: Ipekyolu
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 14 March 2023, TTB member health workers staged a demonstration in Ipekyolu town, Van, to mark 14 March, the date celebrated as the medicine day in Turkey, protesting the government for its responsibility in the death of over 500 health workers victims of the recent earthquake.
+
+---
+
+[EVENT: TUR29117]
+Date: 2023-03-14
+Country: Turkey | Location: Malatya
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Rioters (Turkey) [Rioters]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Rudaw; Sozcu [National-Regional]
+
+DESCRIPTION:
+Other: On 14 March 2023, a local executive of CHP was physically assaulted by an assailant with unknown political motives as he visited earthquake victims in Malatya province. The victim was punched by the attacker but no injury was reported.
+
+---
+
+[EVENT: TUR29154]
+Date: 2023-03-15
+Country: Turkey | Location: Haliliye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 15 March 2023, a group staged a demonstration in Haliliye, Sanliurfa, protesting the Sanliurfa mayor who came to inspect the situation and rescue efforts after the city was hit by a flash flood.
+
+---
+
+[EVENT: TUR29132]
+Date: 2023-03-15
+Country: Turkey | Location: Atasehir
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+On 15 March 2023, construction workers of the Istanbul Finance center staged a demonstration at the construction site in Atasehir, Istanbul, to protest against the Limak construction firm which has not paid the salaries of the workers past 3 months.
+
+---
+
+[EVENT: TUR29123]
+Date: 2023-03-15
+Country: Turkey | Location: Caglayan
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: ANF News; Human Rights Foundation of Turkey; Mezopotamya Agency; Sendika.org [Other-National]
+
+DESCRIPTION:
+On 15 March 2023, a group including members of ESP, SGDF and a socialist-women organization of protesters staged a demonstration in front of the Caglayan courthouse in Kagithane district of Istanbul, to protest against the arrests of a number of left-wing political activists who are affiliated with various organizations including ESP and SGDF, during a police operation on 12 March. Police intervened and detained 45 protesters.
+
+---
+
+[EVENT: TUR29148]
+Date: 2023-03-15
+Country: Turkey | Location: Yunusemre
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+On 15 March 2023, Turk Metal-Sen affiliated workers staged a demonstration in front of the factory at the organized industrial zone in Yunusemre, Manisa, to protest the dismissal of 12 workers due to their affiliation with the union.
+
+---
+
+[EVENT: TUR29098]
+Date: 2023-03-15
+Country: Turkey | Location: Atasehir
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 15 March 2023, thousands of people staged a demonstration at the Pir Sultan Abdal Culture Foundation Cemevi [the worship place for Alevis] in Atasehir, Istanbul to commemorate the 27th anniversary of the Gazi Quarter incidents, in which 23 people were killed in 1995 during the interventions of the security forces in the four-day riots that started after an Alevite leader was killed in a gun attack. The protesters demanded justice for the case. Alevi Muslim groups, HDP, HDK, ESP, and EMEP executives attended the protest.
+
+---
+
+[EVENT: TUR41759]
+Date: 2023-03-15
+Country: Turkey | Location: Cayirova
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 15 March 2023, Petrol-is affiliated workers staged a demonstration in front of the factory in Cayirova, Kocaeli, to demand higher wages.
+
+---
+
+[EVENT: TUR29114]
+Date: 2023-03-15
+Country: Turkey | Location: Eyup
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel; Sendika.org [Other-National]
+
+DESCRIPTION:
+On 15 March 2023, Health Workers of Eyup State Hospital staged a demonstration in front of the hospital in Eyup, Istanbul to protest the transfer of Istanbul University Medical Faculty Compound's relocation to Eyup State Hospital premises. SES, Saglik-Sen and Turk Saglik-Sen members and executives attended the protest.
+
+---
+
+[EVENT: TUR41756]
+Date: 2023-03-15
+Country: Turkey | Location: Yenisehir
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 15 March 2023, protesters staged a demonstration in front of the townhall in Yenisehir, Diyarbakir, to protest against the zoning amnesties which allowed thousands people getting permits for buildings that were not up to code. HDP members and executives, including an MP and TMMOB representatives attended.
+
+---
+
+[EVENT: TUR41755]
+Date: 2023-03-15
+Country: Turkey | Location: Semdinli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 15 March 2023, people gathered in Semdinli, Hakkari for Newroz celebrations, during which anti-AKP and MHP slogans were chanted. Members and executives of DBP, TJA, DTK, HDP, including MPs, attended the event. The group also protested against the government for its responsibility in both the human and material damage the recent earthquake disaster.
+
+---
+
+[EVENT: TUR41758]
+Date: 2023-03-15
+Country: Turkey | Location: Seyhan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 15 March 2023, workers staged a demonstration outside the office of the social security organization in Seyhan town, Adana, to protest against their employer who has been attempting to usurp the money he owed to employees.
+
+---
+
+[EVENT: TUR41757]
+Date: 2023-03-15
+Country: Turkey | Location: Eyup
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel; Sendika.org [Other-National]
+
+DESCRIPTION:
+On 15 March 2023, Health Workers of Eyup State Hospital staged a demonstration in front of the hospital in Eyup, Istanbul to protest the transfer of Istanbul University Medical Faculty Compound's relocation to Eyup State Hospital premises. SES, Saglik-Sen and Turk Saglik-Sen members and executives attended the protest.
+
+---
+
+[EVENT: TUR29155]
+Date: 2023-03-15
+Country: Turkey | Location: Kartal
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+On 15 March 2023, about 100 students and their parents staged a demonstration in front of Medine Tayfur Sokmen School in Kartal district of Istanbul, demanding the school to be demolished and rebuilt, as they claimed despite reinforcement efforts, the building is not resilient against earthquakes.
+
+---
+
+[EVENT: TUR29101]
+Date: 2023-03-16
+Country: Turkey | Location: Dogubayazit
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 16 March 2023, a demonstration was held outside the office of DBP in Dogubeyazit, Agri, to commemorate the victims of the Halabja chemical attack that was committed on March 16, 1988 against the Kurdish people in Iraq. DBP and HDP attended.
+
+---
+
+[EVENT: TUR29156]
+Date: 2023-03-16
+Country: Turkey | Location: Haliliye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Actor2: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Daily Sabah; Ihlas News Agency; Karar; Sozcu [National-Regional]
+
+DESCRIPTION:
+On 16 March 2023, a group staged a demonstration in Haliliye, Sanliurfa, protesting the opposition CHP leader Kemal Kilicdaroglu and IYI leader Meral Aksener who were visiting the area that was affected by the recent major flood. Another group staged a counter protest at the same location opposing the demonstrators, and chanted slogans calling for the resignation of the government. Also on the same day, another demonstration was staged in the same town, to protest the Minister of Internal Affairs Suleyman Soylu who came to inspect the situation.
+
+---
+
+[EVENT: TUR29109]
+Date: 2023-03-16
+Country: Turkey | Location: Muratpasa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 16 March 2023, a demonstration was held outside the office of Egitim-Sen in Muratpasa, Antalya, to commemorate the victims of the Halabja chemical attack that was committed on March 16, 1988 against the Kurdish people in Iraq. HDP attended.
+
+---
+
+[EVENT: TUR29193]
+Date: 2023-03-16
+Country: Turkey | Location: Kirklareli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 16 March 2023 (from 10 - 16 March), gendarmerie forces captured and detained a total of 339 migrants that entered Turkey illegally, during the operations they carried out in Kirklareli province.
+
+---
+
+[EVENT: TUR29100]
+Date: 2023-03-16
+Country: Turkey | Location: Mus
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 16 March 2023, a demonstration was held outside the office of DBP in Mus town, to commemorate the victims of the Halabja chemical attack that was committed on March 16, 1988 against the Kurdish people in Iraq. DBP and HDP members attended.
+
+---
+
+[EVENT: TUR29097]
+Date: 2023-03-16
+Country: Turkey | Location: Fatih
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel; Mezopotamya Agency; Sendika.org [Other-National]
+
+DESCRIPTION:
+On 16 March 2023, a demonstration was held in front of the Istanbul University's faculty of pharmacy building in Fatih, Istanbul to commemorate the victims of the 16 March 1978 Beyazit Massacre as well as Halabja chemical attack that was committed on March 16, 1988 against the Kurdish people in Iraq. 78ers initiative, HDP, HDK as well as university students attended.
+
+---
+
+[EVENT: TUR29104]
+Date: 2023-03-16
+Country: Turkey | Location: Sarigol
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 16 March 2023, hundreds of farmers staged a demonstration in Sarigol, Manisa, to protest against the construction project of six geothermal Plants.
+
+---
+
+[EVENT: TUR41762]
+Date: 2023-03-16
+Country: Turkey | Location: Umraniye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 16 March 2023, health workers staged a demonstration in front of a hospital in Umraniye, Istanbul to protest the hospital administration which has fired workers for unionizing and to demand their jobs back. TTB and SES members attended the event.
+
+---
+
+[EVENT: TUR41761]
+Date: 2023-03-16
+Country: Turkey | Location: Kagithane
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel; Sendika.org [Other-National]
+
+DESCRIPTION:
+On 16 March 2023, protesters staged a demonstration in front of Profilo vocational school in Kagithane, Istanbul to protest AKP's Kagithane municipality, which they claim plans to sell the school building that was temporarily evicted as the building needs to be reinforced. Egitim-Sen and Egitim-Is attended the protest.
+
+---
+
+[EVENT: TUR41760]
+Date: 2023-03-16
+Country: Turkey | Location: Seyhan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 16 March 2023, BES members and executives staged a demonstration in front of the social security institution in Seyhan, Adana, to demand better working conditions and higher wagers, claiming their workload has substantially increased with the EYT bill, which granted right to instant retirement to millions of workers.
+
+---
+
+[EVENT: TUR29149]
+Date: 2023-03-16
+Country: Turkey | Location: Bornova
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+On 16 March 2023, Turk-is affiliated health workers staged a demonstration in front of Ege University hospital in Bornova, Izmir, over the firing of a union affiliated worker as well as the conflict concerning the collective Labor agreement between the workers and the employee.
+
+---
+
+[EVENT: TUR29138]
+Date: 2023-03-16
+Country: Turkey | Location: Coast of Ayvalik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Haberler; Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 16 March 2023 (as reported), 24 migrants attempting to cross the border illegally into Greece via boats were stopped off the Coast of Ayvalik, Balikesir and detained by the Coast Guard Command of the Turkish army.
+
+---
+
+[EVENT: TUR29145]
+Date: 2023-03-16
+Country: Turkey | Location: Batman
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel; Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 16 March 2023, a demonstration was held outside the provincial building of HDP in Batman town, to commemorate the victims of the Halabja chemical attack that was committed on March 16, 1988 against the Kurdish people in Iraq. The Peace Mothers, TJA, DBP, Green Left Party and HDP attended.
+
+---
+
+[EVENT: TUR29139]
+Date: 2023-03-16
+Country: Turkey | Location: Coast of Kusadasi
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Aydinlik; TRT Haber [National]
+
+DESCRIPTION:
+Around 16 March 2023 (as reported), Turkish Coast Guard captured and detained 56 migrants that were attempting to cross to Greece, off the coast of Kusadasi, Aydin.
+
+---
+
+[EVENT: TUR29106]
+Date: 2023-03-16
+Country: Turkey | Location: Sirnak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 16 March 2023, a demonstration was held outside the provincial building of HDP in Sirnak town, to commemorate the victims of the Halabja chemical attack that was committed on March 16, 1988 against the Kurdish people in Iraq.
+
+---
+
+[EVENT: TUR29130]
+Date: 2023-03-16
+Country: Turkey | Location: Ipekyolu
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 16 March 2023, KESK members and executives staged a demonstration in front of Perihan Aydin Shopping Mall in Ipekyolu, Van, to commemorate the victims of the Halabja chemical attack that was committed on March 16, 1988 against the Kurdish people in Iraq.
+
+---
+
+[EVENT: TUR29116]
+Date: 2023-03-16
+Country: Turkey | Location: Fatih
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel; Sendika.org; Sozcu [Other-National]
+
+DESCRIPTION:
+On 16 March 2023, Health Workers of Samatya Hospital staged a demonstration in front of the hospital in Fatih, Istanbul to protest the transfer of Cerrahpasa University Medical Faculty Compound's relocation to Samatya Hospital premises. Executives and members of SES, Saglik-Sen, Turk Saglik-Sen and CHP's district office attended the protest.
+
+---
+
+[EVENT: TUR29143]
+Date: 2023-03-17
+Country: Turkey | Location: Sirnak
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency; ANF News; Beyaz Gazete; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+Security measures: On 17 March 2023, Sirnak Governor's Office declared total 14 zones in Cizre, Silopi, Uludere, Guclukonak, Beytussebap and the central districts of the province 'special security zones', banning citizens' entry for 15 days.
+
+---
+
+[EVENT: TUR29142]
+Date: 2023-03-17
+Country: Turkey | Location: Saray
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 17 March 2023, gendarmerie forces captured and detained a total of 86 Afghani migrants who entered Turkey illegally, during the operations they carried out in the Saray district of Van province.
+
+---
+
+[EVENT: TUR29141]
+Date: 2023-03-17
+Country: Turkey | Location: Coast of Ayvacik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Aydinlik; Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 17 March 2023 (as reported), the Turkish Coast Guard captured and detained 40 migrants that were attempting to cross to Greece, off the coast of Ayvacik, Canakkale.
+
+---
+
+[EVENT: TUR29144]
+Date: 2023-03-17
+Country: Turkey | Location: Cermik
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Haberler [National]
+
+DESCRIPTION:
+On 17 March 2023, unidentified perpetrators (likely an armed group) attacked and wounded two shepherds via rifles in Yabanardi neighborhood of Cermik, Diyarbakir.
+
+---
+
+[EVENT: TUR29134]
+Date: 2023-03-17
+Country: Turkey | Location: Beykoz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+On 17 March 2023, construction workers of the Istanbul Finance center staged a demonstration in front of the Eurasia Hotel in Beykoz, Istanbul, to protest against the Limak construction firm which has not paid the salaries of the workers past 3 months.
+
+---
+
+[EVENT: TUR29135]
+Date: 2023-03-17
+Country: Turkey | Location: Muratpasa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+On 17 March 2023, Public workers staged a demonstration in front of the Social Security Institution in Muratpasa, Antalya, to demand better working conditions and higher wagers, claiming their workload has substantially increased with the EYT bill, which granted right to instant retirement to millions of workers.
+
+---
+
+[EVENT: TUR29146]
+Date: 2023-03-17
+Country: Turkey | Location: Konak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 17 March 2023, protesters staged a demonstration at the Gundogdu square in Konak, Izmir to protest the government's shortcomings after the recent earthquake disaster. Lawyers from Izmir Bar association, members of TMMOB, TTB and KESK attended the protest.
+
+---
+
+[EVENT: TUR29110]
+Date: 2023-03-17
+Country: Turkey | Location: Seyhan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 17 March 2023, protesters staged a demonstration at the Inonu Park in Seyhan, Adana, to commemorate the earthquake victims. HDP MPs attended the protest.
+
+---
+
+[EVENT: TUR29136]
+Date: 2023-03-17
+Country: Turkey | Location: Konak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+On 17 March 2023, public workers staged a demonstration in front of the Social Security Institution in Konak, Izmir, to demand better working conditions and higher wagers, claiming their workload has substantially increased with the EYT bill, which granted right to instant retirement to millions of workers.
+
+---
+
+[EVENT: TUR29102]
+Date: 2023-03-17
+Country: Turkey | Location: Karsiyaka
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel; Ihlas News Agency [National]
+
+DESCRIPTION:
+On 17 March 2023, DISK affiliated municipality workers staged a demonstration in front of the townhall in Karsiyaka, Izmir, over underpaid salaries.
+
+---
+
+[EVENT: TUR41763]
+Date: 2023-03-17
+Country: Turkey | Location: Iskenderun
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 17 March 2023, protesters staged a demonstration at the Mustafa Kemal Neighborhood in Iskenderun, Hatay, to protest the sub-governor's decision to remove the tents set up by various labor unions and NGOs in the ne providing aid for the earthquake victims. IHD, TMMOB, Egitim-sen, DISK, Emekli Sen and EMEP members and executives attended the protest.
+
+---
+
+[EVENT: TUR29103]
+Date: 2023-03-17
+Country: Turkey | Location: Tepebasi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 17 March 2023, protesters staged a demonstration in front of a private school in Tepebasi, Eskisehir over the claim that an earthquake victim girl was not allowed to enroll to the school because she was wearing hijab. Egitim-bir-sen members attended the protest.
+
+---
+
+[EVENT: TUR29133]
+Date: 2023-03-17
+Country: Turkey | Location: Esenler
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Beyaz Gazete; Cumhuriyet [National]
+
+DESCRIPTION:
+On 17 March 2023, the workers of the Istanbul subway company staged a demonstration at the municipality's compound in the Esenler district of Istanbul, to demand higher wages.
+
+---
+
+[EVENT: TUR29183]
+Date: 2023-03-18
+Country: Turkey | Location: Viransehir
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 18 March 2023, young Kurdish people staged a demonstration in Viransehir town, Sanliurfa to celebrate Nowroz, the Kurdish new year and protested the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK.
+
+---
+
+[EVENT: TUR29176]
+Date: 2023-03-18
+Country: Turkey | Location: Konak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+On 18 March 2023, IHD's provincial branch members staged a demonstration in Konak town, Izmir to demand justice for those who went missing under state detention. TIHV and HDP executives attended the event.
+
+---
+
+[EVENT: TUR29160]
+Date: 2023-03-18
+Country: Turkey | Location: Beyoglu
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+On 18 March 2023, a lawyer group staged a demonstration outside the Istanbul Bar association in Beyoglu town, Istanbul to commemorate the victims of the recent earthquake disaster and protest the government's shortcomings after the recent earthquake disaster. A TIP MP also attended the protest.
+
+---
+
+[EVENT: TUR29167]
+Date: 2023-03-18
+Country: Turkey | Location: Kadikoy
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+On 18 March 2023, a demonstration was staged in Kadikoy town, Istanbul to mark the International Day of Political Prisoners and demand freedom for political prisoners. HDP MPs attended the event.
+
+---
+
+[EVENT: TUR29169]
+Date: 2023-03-18
+Country: Turkey | Location: Samandag
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 18 March 2023, a women group staged a demonstration march in Samandag town, Hatay to commemorate the victims of the recent earthquake disaster and protest the government's shortcomings after the recent earthquake disaster. HDP and SYKP executives attended the protest.
+
+---
+
+[EVENT: TUR29172]
+Date: 2023-03-18
+Country: Turkey | Location: Beyoglu
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Bianet; Evrensel [National-International]
+
+DESCRIPTION:
+On 18 March 2023, IHD members staged a demonstration outside the association's office building in Beyoglu town, Istanbul, in protest of the prison policies which prevent ill prisoners from accessing adequate health service.
+
+---
+
+[EVENT: TUR29175]
+Date: 2023-03-18
+Country: Turkey | Location: Cankaya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+On 18 March 2023, IHD members and executives staged a demonstration in Cankaya town center, Ankara, in protest of the prison policies which prevent ill prisoners from accessing adequate health service.
+
+---
+
+[EVENT: TUR29221]
+Date: 2023-03-18
+Country: Turkey | Location: Judi Mountain
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7; Takvim [National]
+
+DESCRIPTION:
+Property destruction: Around 18 March 2023, Turkish Gendarmerie forces destroyed 3 shelters used by the PKK militants in Judi Mountain area (Cizre, Sirnak), together with the large number of weapons, explosives and ammunition they found inside, within the scope of 'Eren-Blockade Autumn-Winter 19' operation.
+
+---
+
+[EVENT: TUR29174]
+Date: 2023-03-18
+Country: Turkey | Location: Batman
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+On 18 March 2023, IHD's provincial branch members and relatives of people who went missing under state detention staged a demonstration in Batman town to demand justice.
+
+---
+
+[EVENT: TUR29173]
+Date: 2023-03-18
+Country: Turkey | Location: Baglar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+On 18 March 2023, IHD's provincial branch members and relatives of people who went missing under state detention staged a demonstration at Kosuyolu park in Baglar town, Diyarbakir to demand justice.
+
+---
+
+[EVENT: TUR29239]
+Date: 2023-03-18
+Country: Turkey | Location: Bakirkoy
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Haberler; Sozcu [National]
+
+DESCRIPTION:
+On 18 March 2023, local residents of Zeytinlik neighborhood staged a protest in Bakirkoy town, Istanbul, against the construction of a building on a land designated as an emergency gathering point in case of earthquake.
+
+---
+
+[EVENT: TUR29188]
+Date: 2023-03-19
+Country: Turkey | Location: Aydin/Efeler
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 19 March 2023, demonstrators, including Kurdish people gathered in Efeler town, Aydin to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. An HDP MP attended the event.
+
+---
+
+[EVENT: TUR41764]
+Date: 2023-03-19
+Country: Turkey | Location: Kadikoy
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Sendika.org [Other]
+
+DESCRIPTION:
+On 19 March 2023, TTB member health workers staged a demonstration march in Kadikoy town, Istanbul to mark the medicine day in Turkey, protesting the government for its responsibility in the death of over 500 health workers victims of the recent earthquake.
+
+---
+
+[EVENT: TUR41765]
+Date: 2023-03-19
+Country: Turkey | Location: Seyhan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 19 March 2023, workers of a textile factory staged a protest in Seyhan town, Adana, demanding payment of their indemnity pays fully, as the employer offered only some part of the amount they are legally entitled, after shutting down the factory.
+
+---
+
+[EVENT: TUR41766]
+Date: 2023-03-19
+Country: Turkey | Location: Merkezefendi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 19 March 2023, a labor group staged a protest in Merkezefendi town, Denizli over the EYT bill, which granted right to instant retirement to millions who could not claim retirement benefits due to minimum age requirements even though they fulfilled the necessary service years. The group claimed the bill fails to fulfil their expectations and should be more inclusive.
+
+---
+
+[EVENT: TUR41767]
+Date: 2023-03-19
+Country: Turkey | Location: Melikgazi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 19 March 2023, a labor group staged a protest in Melikgazi town, Kayseri over the EYT bill, which granted right to instant retirement to millions who could not claim retirement benefits due to minimum age requirements even though they fulfilled the necessary service years. The group claimed the bill fails to fulfil their expectations and should be more inclusive.
+
+---
+
+[EVENT: TUR29195]
+Date: 2023-03-19
+Country: Turkey | Location: Ipekyolu
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Turkey) [Rioters]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 19 March 2023, hundreds of thousands, mostly Kurdish people gathered in Ipekyolu town center, Van to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs and executives, DBP, DTK, TJA, DTK, HDK and KKP members attended the event. Police intervened in the event by using water cannons and tear gas. Some demonstrators attacked police by hurling stones.
+
+---
+
+[EVENT: TUR29189]
+Date: 2023-03-19
+Country: Turkey | Location: Merkezefendi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 19 March 2023, hundreds of demonstrators, including Kurdish people gathered in Merkezefendi town, Denizli to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. An HDP MP attended the event.
+
+---
+
+[EVENT: TUR29208]
+Date: 2023-03-19
+Country: Turkey | Location: Kiziltepe
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Turkey) [Rioters]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency; Sozcu [National]
+
+DESCRIPTION:
+On 19 March 2023, demonstrators, mostly Kurdish people gathered in Kiziltepe town, Mardin to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs, DBP and Green Left Party members attended the event. Police intervened in the event by using tear gas and water cannon, whilst some of the demonstrators attacked police by hurling stones. Some civilian vehicles in the area were also damaged due to hurled stones. A number of demonstrators were detained by police.
+
+---
+
+[EVENT: TUR29206]
+Date: 2023-03-19
+Country: Turkey | Location: Igdir
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 19 March 2023, demonstrators, mostly Kurdish people gathered in Igdir town to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs, DBP, TJA and Green Left Party members attended the event.
+
+---
+
+[EVENT: TUR29213]
+Date: 2023-03-19
+Country: Turkey | Location: Mersin
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 19 March 2023, tens of thousands, mostly Kurdish people gathered in Akdeniz town center, Mersin to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs, members of Green Left Party, SYKP and TOP attended the event.
+
+---
+
+[EVENT: TUR29199]
+Date: 2023-03-19
+Country: Turkey | Location: Yuksekova
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Turkey) [Rioters]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 19 March 2023, thousands of Kurdish people gathered in Yuksekova town center, Hakkari, to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs and the Peace Mothers attended the event. Some of the demonstrators attacked police officers by hurling stones, and police intervened and detained a number of people.
+
+---
+
+[EVENT: TUR29186]
+Date: 2023-03-19
+Country: Turkey | Location: Cankaya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 19 March 2023, thousands of demonstrators, mostly Kurdish people gathered in Cankaya town, Ankara to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP, DBP, TJA, HDK, DTK and Green Left Party members attended the event.
+
+---
+
+[EVENT: TUR29187]
+Date: 2023-03-19
+Country: Turkey | Location: Yildirim
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 19 March 2023, demonstrators, including Kurdish people gathered in Yildirim town, Bursa to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP executives and MPs attended the event.
+
+---
+
+[EVENT: TUR29185]
+Date: 2023-03-19
+Country: Turkey | Location: Ayvalik
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 19 March 2023, demonstrators, including Kurdish people gathered in Ayvalik town, Balikesir to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP members attended the event.
+
+---
+
+[EVENT: TUR29222]
+Date: 2023-03-19
+Country: Turkey | Location: Konak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 19 March 2023, thousands, including Kurdish people gathered in Konak town, Izmir to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP and TIP MPs, the Peace Mothers, DTK and Green Left Party members attended the event.
+
+---
+
+[EVENT: TUR29229]
+Date: 2023-03-19
+Country: Turkey | Location: Altindag
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Haberler [National]
+
+DESCRIPTION:
+On 19 March 2023, teachers staged a demonstration at Ulus square in Altindag town, Ankara, protesting their current contract-based temporary employment status and demanding permanent positions.
+
+---
+
+[EVENT: TUR29197]
+Date: 2023-03-19
+Country: Turkey | Location: Muratpasa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 19 March 2023, thousands demonstrators, mostly Kurdish people gathered in Muratpasa town center, Antalya to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP members and a MP and Green Left Party members attended the event.
+
+---
+
+[EVENT: TUR29201]
+Date: 2023-03-19
+Country: Turkey | Location: Fatih
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Kurdistan24; Mezopotamya Agency; Rudaw [National-Regional]
+
+DESCRIPTION:
+On 19 March 2023, hundreds of thousands, including Kurdish people gathered at Yenikapi square in Fatih town, Istanbul to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs, the Peace Mothers, TJA, HDK, DBP. BMG, EMEP, TOP, TIP and Green Left Party members attended the event. Police intervened in the event and detained 224 protesters.
+
+---
+
+[EVENT: TUR29202]
+Date: 2023-03-19
+Country: Turkey | Location: Tatvan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 19 March 2023, thousands, mostly Kurdish people gathered in Tatvan town, Bitlis to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs, DBP and Green Left Party members attended the event.
+
+---
+
+[EVENT: TUR29209]
+Date: 2023-03-19
+Country: Turkey | Location: Izmit
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 19 March 2023, demonstrators, including Kurdish people gathered in Izmit town center, Kocaeli to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs, members of DBP, TJA, Green Left Party and EHP attended the event.
+
+---
+
+[EVENT: TUR29203]
+Date: 2023-03-19
+Country: Turkey | Location: Mus
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 19 March 2023, demonstrators, mostly Kurdish people gathered in Mus town to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs, DBP and Green Left Party members attended the event.
+
+---
+
+[EVENT: TUR29240]
+Date: 2023-03-19
+Country: Turkey | Location: Muratpasa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+On 19 March 2023, local residents staged a protest in Muratpasa town, Antalya, over the soaring rental prices in the city, driven up by the influx of large number of Ukrainians and Russians since the beginning of armed clashes last year.
+
+---
+
+[EVENT: TUR29216]
+Date: 2023-03-19
+Country: Turkey | Location: Yunusemre
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 19 March 2023, demonstrators, including Kurdish people gathered in Yunusemre town, Manisa to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP, DBP and Green Left Party members attended the event.
+
+---
+
+[EVENT: TUR29219]
+Date: 2023-03-19
+Country: Turkey | Location: Bingol
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency; Sozcu [National]
+
+DESCRIPTION:
+On 19 March 2023, demonstrators, mostly Kurdish people gathered in Bingol town to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP, DBP, TJA, HDK, DTK and Green Left Party members attended the event.
+
+---
+
+[EVENT: TUR29212]
+Date: 2023-03-19
+Country: Turkey | Location: Siirt
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 19 March 2023, demonstrators, mostly Kurdish people gathered in Siirt town to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs, DBP, TJA, Green Left Party members and the Peace Mothers attended the event.
+
+---
+
+[EVENT: TUR29211]
+Date: 2023-03-19
+Country: Turkey | Location: Tunceli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel; Mezopotamya Agency; Rudaw [National-Regional]
+
+DESCRIPTION:
+On 19 March 2023, hundreds of demonstrators, mostly Kurdish people gathered in Tunceli town center, to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs, members of DBP, TJA, Green Left Party, DAD and EMEP attended the event.
+
+---
+
+[EVENT: TUR29210]
+Date: 2023-03-19
+Country: Turkey | Location: Batman
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Turkey) [Rioters]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency; Sozcu [National-International]
+
+DESCRIPTION:
+On 19 March 2023, thousands of demonstrators, mostly Kurdish people gathered in Batman town to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP, DBP, TJA, HDK, Green-Left Party and DTK members attended the event. The group attacked the police by hurling stones and via fireworks. Police intervened and detained 27 demonstrators.
+
+---
+
+[EVENT: TUR29215]
+Date: 2023-03-19
+Country: Turkey | Location: Bodrum
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 19 March 2023, demonstrators, including Kurdish people gathered in Bodrum town, Mugla to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP and Green Left Party members attended the event.
+
+---
+
+[EVENT: TUR41769]
+Date: 2023-03-20
+Country: Turkey | Location: Bornova
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 20 March 2023, Turk-is affiliated health workers staged a demonstration in front of Ege University hospital in Bornova, Izmir, over the firing of a union affiliated worker as well as the conflict concerning the collective Labor agreement between the workers and the employee.
+
+---
+
+[EVENT: TUR41768]
+Date: 2023-03-20
+Country: Turkey | Location: Konak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 20 March 2023, workers of Izmir municipality staged a demonstration outside the municipality building in Konak, Izmir, following the failure to reach an agreement with the administration during the collective labor bargaining process.
+
+---
+
+[EVENT: TUR29207]
+Date: 2023-03-20
+Country: Turkey | Location: Ardahan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+On 20 March 2023, demonstrators, mostly Kurdish people gathered in Ardahan town to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs and members of DBP, TJA and Green-Left party attended the event.
+
+---
+
+[EVENT: TUR29228]
+Date: 2023-03-20
+Country: Turkey | Location: Elbeyli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Haber 7; Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 20 March 2023 (as reported), Turkish Gendarmerie captured and detained 30 Syrian migrants that entered Turkey illegally, in Elbeyli district, Kilis.
+
+---
+
+[EVENT: TUR29241]
+Date: 2023-03-20
+Country: Turkey | Location: Coast of Dikili
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; Sozcu [National]
+
+DESCRIPTION:
+On 20 March 2023, 43 migrants attempting to cross the border illegally to Greece via boats were captured and detained off the coast of Dikili, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR29198]
+Date: 2023-03-20
+Country: Turkey | Location: Hakkari
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+On 20 March 2023, thousands of Kurdish people gathered in Hakkari town to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs and members of Green-Left party attended the event.
+
+---
+
+[EVENT: TUR29205]
+Date: 2023-03-20
+Country: Turkey | Location: Malazgirt
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency; Sozcu [National]
+
+DESCRIPTION:
+On 20 March 2023, demonstrators, mostly Kurdish people gathered in Malazgirt town, Mus to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs, DBP and TJA members attended the event.
+
+---
+
+[EVENT: TUR29204]
+Date: 2023-03-20
+Country: Turkey | Location: Karayazi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 20 March 2023, thousands, mostly Kurdish people gathered in Karayazi town, Erzurum to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. A HDP MP, members of HDP, DBP and Green-Left party attended the event.
+
+---
+
+[EVENT: TUR29226]
+Date: 2023-03-20
+Country: Turkey | Location: Altindag
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Aydinlik [National]
+
+DESCRIPTION:
+On 20 March 2023, a group of lawyers working in public sector institutions staged a protest outside Ankara courthouse in Altindag town, demanding better work conditions and rights.
+
+---
+
+[EVENT: TUR29196]
+Date: 2023-03-20
+Country: Turkey | Location: Agri
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 20 March 2023, thousands, mostly Kurdish people gathered in Agri town to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs, DISK and KESK members attended the event.
+
+---
+
+[EVENT: TUR29220]
+Date: 2023-03-20
+Country: Turkey | Location: Kars
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency; Sozcu [National]
+
+DESCRIPTION:
+On 20 March 2023, demonstrators, mostly Kurdish people gathered in Kars town to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP, DBP, TJA, HDK, DTK and Green Left Party members attended the event.
+
+---
+
+[EVENT: TUR29217]
+Date: 2023-03-20
+Country: Turkey | Location: Elazig
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency; Sozcu [National]
+
+DESCRIPTION:
+On 20 March 2023, demonstrators, mostly Kurdish people gathered in Elazig town, to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP, DBP and Green Left Party members attended the event.
+
+---
+
+[EVENT: TUR29224]
+Date: 2023-03-20
+Country: Turkey | Location: Cizre
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 20 March 2023, Kurdish people gathered in Cizre town, Sirnak celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. Police intervened in the event via water cannons and tear gas.
+
+---
+
+[EVENT: TUR29227]
+Date: 2023-03-20
+Country: Turkey | Location: Kadikoy
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 20 March 2023, the Suruc Families Initiative staged a demonstration in Kadikoy town center, Istanbul to commemorate the victims of the 2015 Suruc massacre committed by IS and called for justice. SGDF, HDP, ESP, IHD and the Saturday Mothers members attended the event.
+
+---
+
+[EVENT: TUR29242]
+Date: 2023-03-20
+Country: Turkey | Location: Coast of Cesme
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; Sozcu [National]
+
+DESCRIPTION:
+On 20 March 2023, 111 migrants attempting to cross the border illegally to Italy via boats were captured and detained off the coast of Cesme, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR29225]
+Date: 2023-03-20
+Country: Turkey | Location: Suleymanpasa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 20 March 2023, private minibus drivers providing transport services staged a demonstration in Suleymanpasa town, Tekirdag to protest the municipality over the changes made on the routes on which they can provide services.
+
+---
+
+[EVENT: TUR29184]
+Date: 2023-03-21
+Country: Turkey | Location: Suruc
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 21 March 2023, a Kurdish group staged a demonstration march in Suruc town, Sanliurfa to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK.
+
+---
+
+[EVENT: TUR29231]
+Date: 2023-03-21
+Country: Turkey | Location: Baglar
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency; Rudaw [National-Regional]
+
+DESCRIPTION:
+On 21 March 2023, hundreds of thousands, mostly Kurdish people gathered in Baglar town, Diyarbakir to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs and executives, members of Green Left party, DTK, SGDF, ESP, DBP, KKP attended the event. Police intervened in the event and detained at least 160 people.
+
+---
+
+[EVENT: TUR29214]
+Date: 2023-03-21
+Country: Turkey | Location: Seyhan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 21 March 2023, a group including Alevi and Kurdish people gathered in Seyhan town center, Adana to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP, HDK, CHP and Green Left party members attended the event.
+
+---
+
+[EVENT: TUR29218]
+Date: 2023-03-21
+Country: Turkey | Location: Canakkale
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+On 21 March 2023, demonstrators, including Kurdish people gathered in Canakkale town to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP, DBP, TJA, HDK and Green-Left party members attended the event.
+
+---
+
+[EVENT: TUR41771]
+Date: 2023-03-21
+Country: Turkey | Location: Ilkadim
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 21 March 2023, demonstrators, including Kurdish people, gathered in Ilkadim tow center, Samsun, to celebrate Newroz, and protested over various matters, including government's responsibility for the death of thousands in the recent earthquakes.
+
+---
+
+[EVENT: TUR29190]
+Date: 2023-03-21
+Country: Turkey | Location: Patnos
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 21 March 2023, Kurdish people gathered in Patnos town center, Agri, to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs attended the event.
+
+---
+
+[EVENT: TUR29192]
+Date: 2023-03-21
+Country: Turkey | Location: Bandirma
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 21 March 2023, hundreds of demonstrators, including Kurdish people gathered in Bandirma town, Balikesir to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs, members of TJA, HDK, EMEP, TIP and STYKP attended the event.
+
+---
+
+[EVENT: TUR29200]
+Date: 2023-03-21
+Country: Turkey | Location: Gole
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 21 March 2023, Kurdish people gathered in Gole town center, Ardahan, to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs and Green Left party members attended the event.
+
+---
+
+[EVENT: TUR41770]
+Date: 2023-03-21
+Country: Turkey | Location: Izmit
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 21 March 2023, EMEP members staged a demonstration in Izmit town, Kocaeli, to demand government take the necessary measures and strengthen the buildings, as a major earthquake is expected in the region in the upcoming decades.
+
+---
+
+[EVENT: TUR29235]
+Date: 2023-03-21
+Country: Turkey | Location: Kadikoy
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+On 21 March 2023, women's groups staged a protest in Kadikoy town, Istanbul, on the 2nd anniversary of the government decision to withdraw from the Istanbul Convention on preventing and combating violence against women and domestic violence. The protesters claimed the withdrawal is a serious setback for women's rights.
+
+---
+
+[EVENT: TUR29234]
+Date: 2023-03-21
+Country: Turkey | Location: Cizre
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Turkey) [Rioters]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 21 March 2023, tens of thousands of Kurdish people gathered in Cizre town center, Sirnak to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP, DBP and Green Left party members attended the event. Some of the demonstrators attacked police officers by hurling stones, and police responded by using tear gas and water cannons.
+
+---
+
+[EVENT: TUR41772]
+Date: 2023-03-21
+Country: Turkey | Location: Sivas
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 21 March 2023, demonstrators, including Kurdish people, gathered in Sivas town center, to celebrate Newroz, and protested over various matters, including government's responsibility for the death of thousands in the recent earthquakes.
+
+---
+
+[EVENT: TUR41773]
+Date: 2023-03-21
+Country: Turkey | Location: Cankaya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 21 March 2023, students of Middle East Technical University staged a demonstration on the university's campus in Cankaya town, Ankara, protesting against the disciplinary sanctions imposed on some students for taking part in a protest.
+
+---
+
+[EVENT: TUR41775]
+Date: 2023-03-21
+Country: Turkey | Location: Kadikoy
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 21 March 2023, a demonstration was staged in Kadikoy town (Istanbul), to express solidarity with migrants and refugees, protesting against the rising anti-migrant sentiment in Turkey.
+
+---
+
+[EVENT: TUR41774]
+Date: 2023-03-21
+Country: Turkey | Location: Besiktas
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 21 March 2023, Bogazici University academics continued their demonstrations on the university's campus in Besiktas, Istanbul, against the appointment of a new president for the university by the government, even though he was not one of the 17 candidates that were selected and proposed via votes by the academics.
+
+---
+
+[EVENT: TUR29163]
+Date: 2023-03-21
+Country: Turkey | Location: Baglar
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Turkey) [Rioters]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Bianet; Human Rights Foundation of Turkey [Other-National]
+
+DESCRIPTION:
+On 21 March 2023, an unknown number of people gathered for Nowroz celebrations at the Nowroz park in Baglar district of diyarbakir province. During the celebrations a Kurdish nationalist group attacked members of a pro-LGBTQ+ group as well as members of TIP and IHD who attempted to intervene, wounding several of them.
+
+---
+
+[EVENT: TUR29161]
+Date: 2023-03-21
+Country: Turkey | Location: Lice
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Bianet; Human Rights Foundation of Turkey; Mezopotamya Agency; Rudaw [Other-National]
+
+DESCRIPTION:
+On 21 March 2023, Turkish police attacked Kurdish children who were celebrating Nowroz in Lice district of Diyarbakir province. Reportedly, a 14 year old kid was subjected to physical violence, his legs and arms were tied by the police and he was left near a swamp.
+
+---
+
+[EVENT: TUR29244]
+Date: 2023-03-21
+Country: Turkey | Location: Odunpazari
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+On 21 March 2023, members of an NGO staged a protest in Odunpazari town, Eskisehir, demanding authorities find the children that went missing in the recent earthquake disaster.
+
+---
+
+[EVENT: TUR29243]
+Date: 2023-03-21
+Country: Turkey | Location: Cankaya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Aydinlik; Takvim [National]
+
+DESCRIPTION:
+On 21 March 2023, members of a solidarity association for the relatives of security personnel who lost their lives in the Turkish-PKK conflict staged a protest in Cankaya town, Ankara to protest against the main opposition party CHP, for its collaboration with the pro-Kurdish HDP in the upcoming elections.
+
+---
+
+[EVENT: TUR29233]
+Date: 2023-03-21
+Country: Turkey | Location: Nusaybin
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Turkey) [Rioters]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 21 March 2023, thousands of Kurdish people gathered in Nusaybin town center, Mardin, to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs attended the event. Some of the demonstrators attacked police officers by hurling stones, and police responded by using tear gas and water cannons.
+
+---
+
+[EVENT: TUR29191]
+Date: 2023-03-21
+Country: Turkey | Location: Dogubayazit
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 21 March 2023, thousands of Kurdish people gathered in Dogubeyazit town center, Agri, to celebrate Newroz, and expressed various demands, including the end of the strict isolation policy and visitor ban imposed on Abdullah Ocalan, the jailed leader of PKK. HDP MPs, DBP, TJA, HDK and DTK members attended the event.
+
+---
+
+[EVENT: TUR29194]
+Date: 2023-03-22
+Country: Turkey | Location: Genc
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Aydinlik; Haber 7 [National]
+
+DESCRIPTION:
+Weapons seizure: Around 22 March 2023 (as reported), Turkish gendarmerie forces seized weapons and ammunition belonging to PKK, during an operation carried out in Genc district of Bingol. The seized supplies included 100kg of explosive as well as assault rifles.
+
+---
+
+[EVENT: TUR29157]
+Date: 2023-03-22
+Country: Turkey | Location: Kadikoy
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+On 22 March 2023, DISK affiliated workers of Kartal and Kadikoy municipalities staged a demonstration in Kadikoy, Istanbul, to protest DISK executives, over the unions decision to divide a branch of union and then appoint representatives instead of the representatives that were elected by the union member workers.
+
+---
+
+[EVENT: TUR29165]
+Date: 2023-03-22
+Country: Turkey | Location: Baglar
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Turkey) [Rioters]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Aydinlik [National]
+
+DESCRIPTION:
+Around 22 March 2023 (as reported), in a Nowruz event organized by HDP and CHP and attended by mainly by Kurdish groups in central Baglar district of Diyarbakir province, some demonstrators threw stones and plastic bottles at police, injuring some officers. Demonstrators shouted slogans praising PKK leader Abdullah Ocalan. Following an investigation conducted by the prosecutor, 186 people who attended the celebrations were arrested by police on the charges of 'making propoganda for the 'terrorist organization' the PKK' and resisting law enforcement.
+
+---
+
+[EVENT: TUR29162]
+Date: 2023-03-22
+Country: Turkey | Location: Erdek
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+On 22 March 2023, CHP's Mayor of Erdek district was attacked and wounded by an undisclosed perpetrator in front of the townhall in Erdek, Balikesir.
+
+---
+
+[EVENT: TUR29238]
+Date: 2023-03-22
+Country: Turkey | Location: Cankaya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Aydinlik; Haber 7; Ihlas News Agency; TRT Haber [National]
+
+DESCRIPTION:
+On 22 March 2023, friends and families of war veterans and martyrs staged a demonstration in front of CHP headquarters in Cankaya, Ankara, to protest the implicit support pro-Kurdish HDP gave to CHP and the Millet Alliance for the upcoming Presidential elections.
+
+---
+
+[EVENT: TUR29223]
+Date: 2023-03-22
+Country: Turkey | Location: Yenikapi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 22 March 2023, a group of people gathered for Nowroz celebrations at the Yenikapi square in Fatih district of Istanbul province, during which speakers demanded an end to 'isolation', in reference to the visit ban imposed on the imprisoned founder of PKK and more largely regarding the Turkish government's policies towards the ethnic Kurdish minority. Some protesters were carrying Green Left Party Banners.
+
+---
+
+[EVENT: TUR29237]
+Date: 2023-03-22
+Country: Turkey | Location: Batman
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 22 March 2023, HDP members, executives as well as city council members staged a demonstration in front of the HDP office in Batman to mark the anniversary of the dismissal and replacement of the local HDP mayor by a government-appointed 'trustee' (kayyum). TJA, Peace Mothers, DBP, Green Left Party attended the protest.
+
+---
+
+[EVENT: TUR29181]
+Date: 2023-03-22
+Country: Turkey | Location: Karacabey
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 22 March 2023, a group of people gathered for Nowroz celebrations at the Cumhuriyet square in Karacabey district of Bursa province, during which speakers demanded an end to 'isolation', in reference to the visit ban imposed on the imprisoned founder of PKK and more largely regarding the Turkish government's policies towards the ethnic Kurdish minority.
+
+---
+
+[EVENT: TUR41777]
+Date: 2023-03-22
+Country: Turkey | Location: Konak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 22 March 2023, protesters staged a demonstration in Konak, Izmir to mark the dwindling water resources due to climate change and protest government's wrong practices. representatives of TMMOB, TTB, lawyers from Izmir Bar association, DISK, KESK and Environment groups attended the protest.
+
+---
+
+[EVENT: TUR29230]
+Date: 2023-03-22
+Country: Turkey | Location: Osmangazi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 22 March 2023, protesters staged a demonstration at the Nilufer Dam in Osmangazi, Bursa to mark the dwindling water resources due to climate change. CHP's Nilufer Mayor, representatives of TMMOB, TTB, lawyers from Bursa Bar association and Environment groups attended the protest.
+
+---
+
+[EVENT: TUR41776]
+Date: 2023-03-22
+Country: Turkey | Location: Osmangazi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Sendika.org [Other]
+
+DESCRIPTION:
+On 22 March 2023, an environment group staged a protest in front of the provincial directorate for environment and urbanization in Osmangazi district of Bursa province, to mark the 22 March World Water day and protest the government practices that are harmful for the environment.
+
+---
+
+[EVENT: TUR29178]
+Date: 2023-03-23
+Country: Turkey | Location: Fatih
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+On 23 March 2023, social security institution workers staged a demonstration in front of the Social Securities Institution in Fatih, Istanbul, to demand overall better conditions. They claim their workload has increased immensely due to the EYT bill which has granted retirement to millions of people. KESK and BES representatives attended.
+
+---
+
+[EVENT: TUR41778]
+Date: 2023-03-23
+Country: Turkey | Location: Adana
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 23 March 2023, social security institution workers staged a demonstration in front of the provincial directorate of Social Security in Seyhan, Adana, to demand overall better conditions. They claim their workload has increased immensely due to the EYT bill which has granted retirement to millions of people. KESK and BES representatives attended.
+
+---
+
+[EVENT: TUR29170]
+Date: 2023-03-23
+Country: Turkey | Location: Lice
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 23 March 2023, members and executives of HDP' Lice branch staged a demonstration near the townhall in Lice district of Diyarbakir province, to mark the anniversary of the dismissal and replacement of the local HDP mayor by a government-appointed 'trustee' (kayyum). Representatives from TJA and DBP attended.
+
+---
+
+[EVENT: TUR29168]
+Date: 2023-03-23
+Country: Turkey | Location: Muradiye
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Haber 7; Ihlas News Agency; Kurdistan24 [National-Regional]
+
+DESCRIPTION:
+Around 23 March 2023 (as reported), Turkish Gendarmerie detained and captured 60 Afghani migrants in Muradiye district of Van province.
+
+---
+
+[EVENT: TUR29166]
+Date: 2023-03-23
+Country: Turkey | Location: Ergani
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 23 March 2023, members and executives of HDP's Ergani branch staged a demonstration at the botanical garden in the Ergani district of Diyarbakir, to mark the anniversary of the dismissal and replacement of the local HDP mayor by a government-appointed 'trustee' (kayyum).
+
+---
+
+[EVENT: TUR29276]
+Date: 2023-03-23
+Country: Turkey | Location: Kirklareli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Haber 7; TRT Haber [National]
+
+DESCRIPTION:
+Around 23 March 2023 (from 17 - 23 March), gendarmerie forces captured and detained a total of 300 migrants that entered Turkey illegally, during the operations they carried out in Kirklareli province.
+
+---
+
+[EVENT: TUR29159]
+Date: 2023-03-23
+Country: Turkey | Location: Mentese
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+On 23 March 2023, an environmental group staged a demonstration in Mentese, Mugla, to protest a court verdict which extends the time for the expert report concerning the construction of a cement factory in the district. Protesters claimed, since the construction is underway, extending the deadline for the expert report may have irreversible implications.
+
+---
+
+[EVENT: TUR29236]
+Date: 2023-03-23
+Country: Turkey | Location: Silvan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 23 March 2023, members and executives of HDP' Silvan branch staged a demonstration in front of the townhall in Silvan district of Diyarbakir province, to mark the anniversary of the dismissal and replacement of the local HDP mayor by a government-appointed 'trustee' (kayyum). Representatives of DBP and Green Left party attended.
+
+---
+
+[EVENT: TUR29182]
+Date: 2023-03-23
+Country: Turkey | Location: Cukurca
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: TRT Haber [National]
+
+DESCRIPTION:
+Weapons seizure: Around 23 March 2023 (as reported), Turkish gendarmerie forces seized weapons and ammunition belonging to PKK, during Eren Abluka Sonbahar Kis-5 Sehit Operation near Kavakli village area in Cukurca district of Hakkari. The seized supplies included assault rifles, explosives, grenades and RPGs.
+
+---
+
+[EVENT: TUR41779]
+Date: 2023-03-23
+Country: Turkey | Location: Merkezefendi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 23 March 2023, social security institution workers staged a demonstration in front of the provincial directorate of Social Security in Merkezefendi, Denizli, to demand overall better conditions. They claim their workload has increased immensely due to the EYT bill which has granted retirement to millions of people. KESK and BES representatives attended.
+
+---
+
+[EVENT: TUR41780]
+Date: 2023-03-23
+Country: Turkey | Location: Kadikoy
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 23 March 2023, striking workers of a company called Mata, staged a demonstration in front of the office of one of the company's shareholders in Caddebostan neighborhood of Kadikoy, Istanbul, to demand higher wages and better working conditions.
+
+---
+
+[EVENT: TUR41781]
+Date: 2023-03-23
+Country: Turkey | Location: Datca
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 23 March 2023, a women rights group staged a demonstration in Datca, Mugla, to protest a restaurant owner, who physically abused one of his female employees.
+
+---
+
+[EVENT: TUR41782]
+Date: 2023-03-23
+Country: Turkey | Location: Balikesir
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 23 March 2023, around a thousand supporters/members of the components of the Labour and Democracy Alliance (TIP, EMEP, HDP, TOP, EHP and Green Party) celebrated Nowruz in Balikesir province, during the celebrations attendees protested the divisive and polarizing policies of the government.
+
+---
+
+[EVENT: TUR29260]
+Date: 2023-03-23
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: A Haber [National]
+
+DESCRIPTION:
+Around 23 March 2023 (from 17 - 23 March), Turkish security forces (coded as police) arrested 2,527 migrants who entered Turkey illegally, in nationwide operations. Coded to capital, Ankara city.
+
+---
+
+[EVENT: TUR29177]
+Date: 2023-03-23
+Country: Turkey | Location: Konak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+On 23 March 2023, social security institution workers staged a demonstration in front of the Social Securities Institution in Konak, Izmir, to demand overall better conditions. They claim their workload has increased immensely due to the EYT bill which has granted retirement to millions of people. KESK and BES representatives attended.
+
+---
+
+[EVENT: TUR29179]
+Date: 2023-03-23
+Country: Turkey | Location: Cankaya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+On 23 March 2023, social security institution workers staged a demonstration in front of the General Directorate of Insurance Premiums Building in Cankaya, Ankara, to demand overall better conditions. They claim their workload has increased immensely due to the EYT bill which has granted retirement to millions of people. KESK and BES representatives attended.
+
+---
+
+[EVENT: TUR29158]
+Date: 2023-03-23
+Country: Turkey | Location: Merkezefendi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+On 23 March 2023, Egitim-is affiliated teachers staged a demonstration in front of the provincial directorate of national education in Merkezefendi, Denizli to demand higher salary promotion.
+
+---
+
+[EVENT: TUR29232]
+Date: 2023-03-24
+Country: Turkey | Location: Yenisehir
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 24 March 2023, a group of Kurdish protesters staged a demonstration in Yenisehir, Diyarbakir, to protest the physical violence a Kurdish childish was subjected to during Nowruz celebrations, by the Turkish police. TMMOB representatives attended the protest.
+
+---
+
+[EVENT: TUR41783]
+Date: 2023-03-24
+Country: Turkey | Location: Uskudar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Sendika.org [Other]
+
+DESCRIPTION:
+On 24 March 2023, workers staged a demonstration in front of Cengiz Holding office in Uskudar, Istanbul to protest the firing of 18 unionized workers. DISK representatives attended the protest.
+
+---
+
+[EVENT: TUR41784]
+Date: 2023-03-24
+Country: Turkey | Location: Samsun
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 24 March 2023, protesters staged a demonstration in Ilkadim, Samsun, to protest the negligence and the incompetence of the government over the earthquake disaster that claimed tens of thousands of lives.
+
+---
+
+[EVENT: TUR29164]
+Date: 2023-03-24
+Country: Turkey | Location: Karayazi
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+On 24 March 2023, a street vendor and his two sons were subjected to physical violence and were subsequently arrested by Turkish police in Karayazi, Erzurum,
+
+---
+
+[EVENT: TUR29171]
+Date: 2023-03-24
+Country: Turkey | Location: Atasehir
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 24 March 2023, health workers staged a protest in the 1 Mayis Neighborhood of Atasehir, Istanbul, to protest the Ministry of Health, who had decided to relocate a family health center from a non-earthquake-resistant building to another non-earthquake-resistant building. HDP members, including an MP attended the protest
+
+---
+
+[EVENT: TUR29261]
+Date: 2023-03-25
+Country: Turkey | Location: Beyoglu
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 25 March 2023, IHD members staged a demonstration outside the association's office building in Beyoglu town, Istanbul, in protest of the prison policies which prevent ill prisoners from accessing adequate health service.
+
+---
+
+[EVENT: TUR29269]
+Date: 2023-03-25
+Country: Turkey | Location: Karsiyaka
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency; Sendika.org [Other-National]
+
+DESCRIPTION:
+On 25 March 2023, various labor unions and left-wing political organizations including CHD, Halkevleri and TOP staged a demonstration in Karsiyaka town, Izmir over the recent earthquakes, protesting the government's responsibility as well as the shortcomings after the disaster.
+
+---
+
+[EVENT: TUR29263]
+Date: 2023-03-25
+Country: Turkey | Location: Konak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 25 March 2023, IHD members staged a demonstration in Konak town, Izmir, in protest of the prison policies which prevent ill prisoners from accessing adequate health service.
+
+---
+
+[EVENT: TUR29262]
+Date: 2023-03-25
+Country: Turkey | Location: Cankaya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 25 March 2023, IHD members and executives staged a demonstration in Cankaya town center, Ankara, in protest of the prison policies which prevent ill prisoners from accessing adequate health service. A HDP MP also attended the event.
+
+---
+
+[EVENT: TUR29268]
+Date: 2023-03-25
+Country: Turkey | Location: Gaziosmanpasa
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Turkey) [Rioters]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Haberler; Human Rights Foundation of Turkey; Sozcu [Other-National]
+
+DESCRIPTION:
+On 25 March 2023, Islamic theologian and religious education teacher Cemil Kilic was attacked by unknown assailants who shouted 'takbirs' outside of his house in Gaziosmanpasa town, Istanbul. The attackers used clubs during the attack and injured the victim. Kilic is known for his progressive/secular views and harsh criticisms against Islamic cults and their leaders in Turkey.
+
+---
+
+[EVENT: TUR29264]
+Date: 2023-03-25
+Country: Turkey | Location: Samandag
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Bianet; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 25 March 2023, local earthquake victims staged a protest in Yesilkoy neighborhood of Samandag town, Hatay, against the dumping of debris and rubbles from the earthquake hit buildings in an area next to the tent camp they use as temporary accommodation, which they claim harms their health.
+
+---
+
+[EVENT: TUR29266]
+Date: 2023-03-25
+Country: Turkey | Location: Batman
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 25 March 2023, IHD's provincial branch members and relatives of people who went missing under state detention staged a demonstration in Batman town to demand justice.
+
+---
+
+[EVENT: TUR29270]
+Date: 2023-03-25
+Country: Turkey | Location: Yenisehir
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 25 March 2023, KESK members staged a demonstration at Hazal park in Yenisehir town, Diyarbakir to protest against the legislative decrees that dismissed thousands of public employees after the July 2016 coup attempt and demanded their jobs back.
+
+---
+
+[EVENT: TUR29265]
+Date: 2023-03-25
+Country: Turkey | Location: Baglar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 25 March 2023, IHD's provincial branch members and relatives of people who went missing under state detention staged a demonstration at Kosuyolu park in Baglar town, Diyarbakir to demand justice.
+
+---
+
+[EVENT: TUR29267]
+Date: 2023-03-25
+Country: Turkey | Location: Beyoglu
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Rioters (Turkey) [Rioters]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Demokrat Haber; Rudaw [National-Regional]
+
+DESCRIPTION:
+Other: On 25 March 2023, a sole perpetrator (assumed to be rioter) paint-sprayed the door and exterior walls of the HDP's provincial office in Beyoglu town, Istanbul, causing minor material damage. The same person had previously entered the same office on 21 February, yelled and threw objects around, causing nuisance.
+
+---
+
+[EVENT: TUR41785]
+Date: 2023-03-25
+Country: Turkey | Location: Sisli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Sendika.org [Other]
+
+DESCRIPTION:
+On 25 March 2023, a demonstration was held in Sisli town, Istanbul in protest of the decision to convert the historic Sisli Etfal hospital building into an office complex, even though the building had been evacuated last year and the hospital's departments had been moved to different locations in the city, on the ground that the building has structural problems and was not quakeproof. TTB, SES and TMMOB members attended the event.
+
+---
+
+[EVENT: TUR41786]
+Date: 2023-03-25
+Country: Turkey | Location: Hozat
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 25 March 2023, a women group staged a protest in Hozat town, Tunceli over a recent sexual assault incident occurred in the town, in which the victim was a minor.
+
+---
+
+[EVENT: TUR29273]
+Date: 2023-03-26
+Country: Turkey | Location: Bakirkoy
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel; Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 26 March 2023, a group held a demonstration in Bakirkoy town, Istanbul, demanding the delivery of the houses they boughed from a construction project years ago. EMEP members, HDP and CHP MPs attended the event.
+
+---
+
+[EVENT: TUR29271]
+Date: 2023-03-26
+Country: Turkey | Location: Yuksekova
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: Around 26 March 2023 (as reported), gendarmerie forces destroyed the windows and doors of the houses and felled the trees belonging to villagers in Kawle Gund, Pagenk and Ele villages (Kurdish names) in Yuksekova district of Hakkari, during an ongoing miliary operation against PKK.
+
+---
+
+[EVENT: TUR29272]
+Date: 2023-03-26
+Country: Turkey | Location: Gaziosmanpasa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Haberler [National]
+
+DESCRIPTION:
+On 26 March 2023, Egitim-Is members staged a protest in Gaziosmanpasa town, Istanbul, over the violence that targeted religious education teacher Cemil Kilic on the previous day.
+
+---
+
+[EVENT: TUR29274]
+Date: 2023-03-26
+Country: Turkey | Location: Kayapinar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 26 March 2023, HDP, DBP and Green-Left Party members staged a demonstration in Kayapinar town, Diyarbakir, to protest the decision of the government-appointed 'trustee' that is running the municipality to sell large amount of public land and property to private groups. Former HDP-member district mayors who were removed and replaced with trustees attended the event.
+
+---
+
+[EVENT: TUR29284]
+Date: 2023-03-27
+Country: Turkey | Location: Ipekyolu
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 27 March 2023, the Peace mothers held a protest in Ipekyolu town, Mardin to demand the release of imprisoned Peace Mothers members.
+
+---
+
+[EVENT: TUR41789]
+Date: 2023-03-27
+Country: Turkey | Location: Canakkale
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 27 March 2023, SES member cafeteria workers and their union representatives staged a protest outside Canakkale state hospital, claiming their employing sub-contractor company forces them to sign a contract that has unfair terms.
+
+---
+
+[EVENT: TUR41788]
+Date: 2023-03-27
+Country: Turkey | Location: Bakirkoy
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 27 March 2023, health workers of Prof.Dr. Murat Dilmener hospital staged a demonstration in front of the hospital in Bakirkoy, Istanbul to protest the decision to transfer of 270 health workers to other hospitals.
+
+---
+
+[EVENT: TUR29282]
+Date: 2023-03-27
+Country: Turkey | Location: Coast of Ayvacik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 27 March 2023 (as reported), the Turkish Coast Guard captured and detained 35 migrants that were attempting to cross to Greece, off the coast of Ayvacik, Canakkale.
+
+---
+
+[EVENT: TUR29285]
+Date: 2023-03-27
+Country: Turkey | Location: Samandag
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 27 March 2023, a protest was staged in Yesilkoy neighborhood of Samandag town, Hatay, against the dumping of debris and rubbles from the earthquake hit buildings in an area next to the tent camp earthquake victims use as temporary accommodation, which they claim harms their health.
+
+---
+
+[EVENT: TUR29277]
+Date: 2023-03-27
+Country: Turkey | Location: Coast of Cesme
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Around 27 March 2023 (as reported), 49 migrants attempting to cross the border illegally to Greece via boats were captured and detained off the coast of Cesme, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR29278]
+Date: 2023-03-27
+Country: Turkey | Location: Tuzla
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Cumhuriyet; Evrensel; Sendika.org [Other-National]
+
+DESCRIPTION:
+On 27 March 2023, 600 workers of an automotive factory held a demonstration outside their factory building in Tuzla, Istanbul, to demand better work conditions and higher wages. Police intervened in the event by using tear gas.
+
+---
+
+[EVENT: TUR29279]
+Date: 2023-03-27
+Country: Turkey | Location: Karabuk
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (International) [Protesters]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+On 27 March 2023, international students staged a protest outside the administrative building of Karabuk University, over the death of a foreign student from Gabon on the previous day. The group demanded justice for the case and perpetrators be found by authorities.
+
+---
+
+[EVENT: TUR41787]
+Date: 2023-03-27
+Country: Turkey | Location: Gebze
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 27 March 2023, Egitim-Sen members staged a protest in Gebze town, Kocaeli, over the violence that targeted religious education teacher Cemil Kilic on the previous day.
+
+---
+
+[EVENT: TUR29288]
+Date: 2023-03-27
+Country: Turkey | Location: Sarkoy
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+On 27 March 2023, parents of students staged a demonstration in front of Nese Alten primary school in Sarkoy town, Tekirdag, demanding the school to be demolished and rebuilt, as they claimed despite reinforcement efforts, the building is not resilient against earthquakes.
+
+---
+
+[EVENT: TUR29286]
+Date: 2023-03-27
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Other: On 27 March 2023, Bese Hozat, the senior executive of PKK and KCK announced that PKK ceased its armed activities within Turkey until the upcoming national elections on 14 May. Coded to capital, Ankara.
+
+---
+
+[EVENT: TUR29280]
+Date: 2023-03-27
+Country: Turkey | Location: Suruc
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+On 27 March 2023, 25 members of HDP and DBP were arrested during the police operations carried out in Suruc district of Sanliurfa.
+
+---
+
+[EVENT: TUR29281]
+Date: 2023-03-27
+Country: Turkey | Location: Suruc
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+On 27 March 2023, HDP, DBP and TJA members staged a protest in Suruc town, Sanliurfa, against the police operations carried out on the day, which arrested 25 HDP and DBP members.
+
+---
+
+[EVENT: TUR29287]
+Date: 2023-03-27
+Country: Turkey | Location: Hakkari
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 27 March 2023, a group staged a protest in Hakkari town, against the court decision on a fatal violence case. The group claimed the decision was not fair and demanded justice.
+
+---
+
+[EVENT: TUR29283]
+Date: 2023-03-27
+Country: Turkey | Location: Artuklu
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 27 March 2023, the Peace mothers held a protest in Artuklu town, Mardin to demand the release of imprisoned Peace Mothers members.
+
+---
+
+[EVENT: TUR29275]
+Date: 2023-03-27
+Country: Turkey | Location: Bakirkoy
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Haber 7; Haberler [National]
+
+DESCRIPTION:
+On 27 March 2023, 10 former workers of Bakirkoy municipality staged a protest outside the municipality building in Bakirkoy town, Istanbul, against their dismissal.
+
+---
+
+[EVENT: TUR29293]
+Date: 2023-03-28
+Country: Turkey | Location: Sehzadeler
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Cumhuriyet; Mezopotamya Agency; Sozcu [National]
+
+DESCRIPTION:
+On 28 March 2023, environmental groups staged a demonstration in Sehzadeler town, Manisa, to protest against the construction project of 18 geothermal plants.
+
+---
+
+[EVENT: TUR29289]
+Date: 2023-03-28
+Country: Turkey | Location: Viransehir
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 1
+Sources: Rudaw [Regional]
+
+DESCRIPTION:
+On 28 March 2023, head (Mukhtar) of Yenisehir neighborhood was targeted in a firearm attack carried out by unidentified assailants in Viransehir town, Sanliurfa. The victim was severely injured in the attack and later succumbed to his injuries.
+
+---
+
+[EVENT: TUR31026]
+Date: 2023-03-28
+Country: Turkey | Location: Alanduz
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 2
+Sources: ANF News [International]
+
+DESCRIPTION:
+On 28 March 2023, Turkish army soldiers had an armed clash with PKK and YJA-Star militants in the Alanduz area of Hakkari province. 1 PKK militant and 1 YJA Star militant were killed.
+
+---
+
+[EVENT: TUR41790]
+Date: 2023-03-28
+Country: Turkey | Location: Cayirova
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 28 March 2023, Veli-Der and Egitim-Sen members staged a protest in Cayirova town, Kocaeli, following an incident in which a school bus carrying the students of Guzeltepe primary school caught fire as it was travelling on a highway. The protesters claimed necessary safety measures are not taken for school busses. Representatives of CHP, Iyi Party, EMEP, SOL: Left Party, TIP and TMMOB attended the event.
+
+---
+
+[EVENT: TUR29290]
+Date: 2023-03-28
+Country: Turkey | Location: Daglica
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 3
+Sources: Ihlas News Agency; TRT Haber [National]
+
+DESCRIPTION:
+Around 28 March 2023, 3 PKK militants were killed and one PKK militant was captured during the clashes with gendarmerie forces in Daglica area of Yuksekova district, Hakkari.
+
+---
+
+[EVENT: TUR29291]
+Date: 2023-03-28
+Country: Turkey | Location: Coast of Dikili
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Around 28 March 2023 (as reported), 36 migrants attempting to cross the border illegally to Greece via boats were captured and detained off the coast of Dikili, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR29292]
+Date: 2023-03-28
+Country: Turkey | Location: Coast of Ayvalik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 28 March 2023 (as reported), 37 migrants attempting to cross the border illegally to Greece via boats were captured and detained off the coast of Ayvalik, Balikesir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR29294]
+Date: 2023-03-28
+Country: Turkey | Location: Cankaya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 28 March 2023, a demonstration was staged in Cankaya town, Ankara to demand justice for the victims of Roboski airstrikes of 2011 in which 34 villagers (mainly Kurdish) were killed in a bombing by Turkish fighter jets on December 28, 2011 in Uludere, Sirnak. IHD members attended the event.
+
+---
+
+[EVENT: TUR29253]
+Date: 2023-03-29
+Country: Turkey | Location: Viransehir
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+On 29 March 2023, a group of protesters staged a demonstration in Kadikoy village in Viransehir, Urfa, to protest against the construction of Solar Panels. Police intervened with pepper spray and detained 9 protesters.
+
+---
+
+[EVENT: TUR41791]
+Date: 2023-03-29
+Country: Turkey | Location: Sisli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 29 March 2023, workers of Sisli municipality staged a demonstration in front of the townhall in Sisli, Istanbul to protest following the failure to reach an agreement with the administration during the collective labor bargaining process.
+
+---
+
+[EVENT: TUR41792]
+Date: 2023-03-29
+Country: Turkey | Location: Konak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 29 March 2023, workers of Izmir municipality associated transport and water firms staged a demonstration at the Kultur Park in Konak, Izmir, to protest following the failure to reach an agreement with the administration during the collective labor bargaining process.
+
+---
+
+[EVENT: TUR41793]
+Date: 2023-03-29
+Country: Turkey | Location: Osmangazi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 29 March 2023, lawyers working in the public sector staged a demonstration in front of the Bar Association in Osmangazi, Bursa to demand higher wages and better working conditions.
+
+---
+
+[EVENT: TUR29377]
+Date: 2023-03-29
+Country: Turkey | Location: Alanduz
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 3
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+On 29 March 2023, 3 PKK militants were killed and another was captured during the clashes with Turkish soldiers in Alanduz area of Hakkari.
+
+---
+
+[EVENT: TUR41798]
+Date: 2023-03-30
+Country: Turkey | Location: Buharkent
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Sendika.org [Other]
+
+DESCRIPTION:
+On 30 March 2023, a group of protesters staged a demonstration at the Kizildere area in Buharkent, Aydin to commemorate Mahir Cayan and his friends (THKO ve THKP-C fighters) who have been killed 51 years ago by Turkish security forces.
+
+---
+
+[EVENT: TUR41799]
+Date: 2023-03-30
+Country: Turkey | Location: Akdeniz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Sendika.org [Other]
+
+DESCRIPTION:
+On 30 March 2023, a group of protesters staged a demonstration at the Ozgur Cocuk park in Akdeniz, Mersin to commemorate Mahir Cayan and his friends (THKO ve THKP-C fighters) who have been killed 51 years ago by Turkish security forces.
+
+---
+
+[EVENT: TUR41800]
+Date: 2023-03-30
+Country: Turkey | Location: Koycegiz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 30 March 2023, protesters including members of environment groups, staged a demonstration in Koycegiz, Mugla, to protest a bill that will lead to deforestation in the area.
+
+---
+
+[EVENT: TUR41795]
+Date: 2023-03-30
+Country: Turkey | Location: Mudanya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 30 March 2023, teachers staged a demonstration in front of a vocational high school in Mudanya, Bursa, over a teacher being subjected to physical assault by a student and his parents. Members and executives of Egitim Sen, Egitim Bir-sen and Egitim-is attended the protest.
+
+---
+
+[EVENT: TUR41794]
+Date: 2023-03-30
+Country: Turkey | Location: Osmangazi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Sendika.org [Other]
+
+DESCRIPTION:
+On 30 March 2023, DISK affiliated workers staged a demonstration in Osmangazi, Bursa to protest following the failure to reach an agreement with the administration during the collective labor bargaining process.
+
+---
+
+[EVENT: TUR41796]
+Date: 2023-03-30
+Country: Turkey | Location: Sivas
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 30 March 2023, protesters including lawyers, staged a demonstration in front of the courtyard in Sivas to protest a 10 month prison sentence a school principal has received for abusing a student. Protesters claimed that the verdict is too lenient.
+
+---
+
+[EVENT: TUR41797]
+Date: 2023-03-30
+Country: Turkey | Location: Ayvacik
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 30 March 2023, SES affiliated heath workers staged a demonstration in front of State Hospital in Ayvacik, Canakkale, to protest the repression and the mobbing health workers are subjected to.
+
+---
+
+[EVENT: TUR29247]
+Date: 2023-03-30
+Country: Turkey | Location: Bismil
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey; Mezopotamya Agency [Other-National]
+
+DESCRIPTION:
+On 30 March 2023, police officers physically assaulted a disabled man at the police headquarters in Bismil, Diyarbakir. The victim has been taken to the hospital to request an assault incident report.
+
+---
+
+[EVENT: TUR29296]
+Date: 2023-03-30
+Country: Turkey | Location: Kirklareli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 30 March 2023 (from 24 - 30 March), gendarmerie forces captured and detained a total of 394 migrants that entered Turkey illegally, during the operations they carried out in Kirklareli province.
+
+---
+
+[EVENT: TUR29251]
+Date: 2023-03-30
+Country: Turkey | Location: Konak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+On 30 March 2023, public workers of the Social Security Institution (SSI) staged a demonstration in front of the SSI Office in Konak, Izmir, to demand higher wages and better working conditions as their workload has substantially increased with the EYT bill, which has granted millions of people instant retirement. BES members attended the protest.
+
+---
+
+[EVENT: TUR29246]
+Date: 2023-03-30
+Country: Turkey | Location: Bayrakli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+On 30 March 2023, IHD members staged a demonstration in front of the courtyard in Bayrakli, Izmir, to protest against the on going trial of the IHD's Izmir Office director. HDP executives attended the protest.
+
+---
+
+[EVENT: TUR29250]
+Date: 2023-03-30
+Country: Turkey | Location: Konak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Cumhuriyet; Evrensel [National]
+
+DESCRIPTION:
+On 30 March 2023, Tum Emekli Sen affiliated pensioners staged a demonstration in Konak, Izmir, to demand the minimum pensioner wage to be at least as much as the minimum wage.
+
+---
+
+[EVENT: TUR29249]
+Date: 2023-03-30
+Country: Turkey | Location: Fatih
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Cumhuriyet; Evrensel; Sendika.org [Other-National]
+
+DESCRIPTION:
+On 30 March 2023, doctors of the Cerrahpasa Medicine Faculty Hospital staged a demonstration in front of the hospital in Fatih, Istanbul to protest against the relocation of the hospital as a measure against the anticipated Istanbul Earthquake. TTB members attended the protest.
+
+---
+
+[EVENT: TUR29252]
+Date: 2023-03-30
+Country: Turkey | Location: Caglayan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Bianet; Sendika.org [Other-National]
+
+DESCRIPTION:
+On 30 March 2023, a group of protesters staged a demonstration outside the Caglayan courthouse in Kagithane, Istanbul to protest against the trial of Pinar Selek. Even though sociologist Selek was previously acquitted four times in the case related to the 1998 Spice Bazaar explosion, the high court keeps disagreeing with the verdict, and she now faces terror-related charges.
+
+---
+
+[EVENT: TUR29257]
+Date: 2023-03-31
+Country: Turkey | Location: Cankaya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Cumhuriyet; Sozcu [National]
+
+DESCRIPTION:
+On 31 March 2023, public workers of the Social Security Institution (SSI) staged a demonstration in front of the SSI Office in Cankaya, Ankara, to demand higher wages and better working conditions as their workload has substantially increased with the EYT bill, which has granted millions of people instant retirement.
+
+---
+
+[EVENT: TUR29255]
+Date: 2023-03-31
+Country: Turkey | Location: Haliliye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+On 31 March 2023, protesters staged a demonstration in Haliliye, Sanliurfa to protest the arrest of 23 people who are affiliated with various pro-Kurdish organizations. TJA, HDP, DBP and Green Left Party representatives attended the protest.
+
+---
+
+[EVENT: TUR29258]
+Date: 2023-03-31
+Country: Turkey | Location: Baglar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Haberler [National]
+
+DESCRIPTION:
+On 31 March 2023, AKP government's Minister of Justice Bekir Bozdag attended the ongoing demonstration in front of HDP office in Baglar, Diyarbakir, where families of PKK fighters protest against HDP, claiming the political party facilitated the 'kidnapping' of their children.
+
+---
+
+[EVENT: TUR29259]
+Date: 2023-03-31
+Country: Turkey | Location: Karayazi
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Haberler [National]
+
+DESCRIPTION:
+Around 31 March 2023 (as reported), Turkish Gendarmerie detained and captured 33 Afghani and Pakistani migrants near Yenikoy neighborhood in Karayazi district of Erzurum province.
+
+---
+
+[EVENT: TUR29248]
+Date: 2023-03-31
+Country: Turkey | Location: Siirt
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+Security measures: On 31 March 2023, Siirt Governor's office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 15 days in order to maintain public order and security. Similar measures have been imposed in the province (and several other southeastern provinces) for some years to maintain public order, presumably against political events that can be organized by Kurdish movements.
+
+---
+
+[EVENT: TUR29245]
+Date: 2023-03-31
+Country: Turkey | Location: Zeytinburnu
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Bianet; Karar; Kurdistan24; Mezopotamya Agency; Rudaw; Sozcu [National-Regional]
+
+DESCRIPTION:
+On 31 March 2023, an unidentified perpetrator opened fire on the IYI Party provincial office in Zeytinburnu, Istanbul. There were no casualties. The attack occurred a day after President Erdogan 'threatened' IYI Party leader Meral Aksener for harshly criticizing him.
+
+---
+
+[EVENT: TUR41804]
+Date: 2023-03-31
+Country: Turkey | Location: Karsiyaka
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 31 March 2023, health workers staged a demonstration in Karsiyaka, Izmir to commemorate health worker who lost their lives during the coronavirus pandemic. Health workers also protested various policies that amplified the impact of the pandemic. TTB representatives and CHP's Karsiyaka mayor attended.
+
+---
+
+[EVENT: TUR41802]
+Date: 2023-03-31
+Country: Turkey | Location: Pamukkale
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 31 March 2023, SES union affiliated health workers staged a demonstration in front of the University Hospital in Pamukkale, Denizli to protest following the failure to reach an agreement with the administration during the collective labor bargaining process.
+
+---
+
+[EVENT: TUR41801]
+Date: 2023-03-31
+Country: Turkey | Location: Tunceli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 31 March 2023, SES affiliated Heath Workers staged a demonstration in front of the directorate of social services in Tunceli, to protest the repression and the mobbing health workers are subjected to.
+
+---
+
+[EVENT: TUR41803]
+Date: 2023-03-31
+Country: Turkey | Location: Mentese
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 31 March 2023, health workers staged a demonstration in Mentese, Mugla to commemorate health worker who lost their lives during the coronavirus pandemic. Health workers also protested various policies that amplified the impact of the pandemic. TTB representatives attended.
+
+---
+
+[EVENT: TUR41805]
+Date: 2023-03-31
+Country: Turkey | Location: Konak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel [National]
+
+DESCRIPTION:
+On 31 March 2023, members of a women rights group staged a demonstration in Alsancak Neighborhood in Konak, Izmir, to protest the arrest of 11 Women over the week.
+
+---
+
+[EVENT: TUR29254]
+Date: 2023-03-31
+Country: Turkey | Location: Kartal
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Evrensel; Sendika.org [Other-National]
+
+DESCRIPTION:
+On 31 March 2023, women rights groups staged a demonstration in front of the courtyard in Kartal, Istanbul, before a trial about a child marriage scandal involving influential Ismailaga Religious Order (Cemaat)-affiliated Hiranur foundation became public. We Will Stop Femicides Movement representatives attended the protest.
+
+---
+
+[EVENT: TUR29295]
+Date: 2023-03-31
+Country: Turkey | Location: Ipekyolu
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+On 31 March 2023, gendarmerie forces captured 33 Afghan migrants that entered Turkey illegally, during an operation they carried out in Ipekyolu district of Van.

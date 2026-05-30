@@ -1,0 +1,32 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Bahrain (ISO Code: 48)
+Temporal Period: Year 2018 - Quarter Q4
+Total Events in Chunk: 2 / 2
+==================================================
+
+[EVENT: BHR1015]
+Date: 2018-11-04
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Al Wefaq National Islamic Society [Political militia]
+Actor2: Government of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: Reuters; BBC News [International]
+
+DESCRIPTION:
+Non-violent activity: On 4/11/2018, overturning a previous acquittal, a Bahraini court handed life sentences to three senior opposition members, Ali Salman, secretary-general of the opposition al-Wefaq group, and Sheikh Hassan Sultan and Ali Alaswad, members of the same group, for allegedly transferring confidential information and receiving financial support from Qatar.
+
+---
+
+[EVENT: BHR1200]
+Date: 2018-12-31
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: VOA [International]
+
+DESCRIPTION:
+Non-violent activity: On 31/12/2018, Bahrain's highest court upheld the five-year sentence of Nabeel Rajab, the prominent human rights activist and opposition leader, for 'spreading false news and rumours in time of war'.

@@ -1,0 +1,205 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Lebanon (ISO Code: 422)
+Temporal Period: Year 2021 - Quarter Q3
+Total Events in Chunk: 15 / 15
+==================================================
+
+[EVENT: LBN11747]
+Date: 2021-07-08
+Country: Lebanon | Location: Tripoli
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Strikes: On 8 July 2021, pharmacists of Lebanon's north took part in a strike, in protest against the increasing assaults on the pharmaceutical sector and their blame for the absence of medicines from the marketplace. Coded to Tripoli.
+
+---
+
+[EVENT: LBN11748]
+Date: 2021-07-09
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Strikes: On 9 July 2021, Pharmacy owners started an open nationwide strike on all Lebanese lands to demand the implementation a deal between Medicine importers and the Central Bank to release medicines into the pharmacies. Coded to Beirut.
+
+---
+
+[EVENT: LBN11902]
+Date: 2021-07-15
+Country: Lebanon | Location: Baabda
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Other: On 15 July 2021, Prime Minister designate Saad Hariri [Future Party] stepped down from forming a new government in the Presidential Palace in Baabda (Baabda).
+
+---
+
+[EVENT: LBN11906]
+Date: 2021-07-23
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Strikes: On 23 July 2021, pharmacy owners in Lebanon started a nationwide strike that is expected to last until they can agree with the Lebanese government on a mechanism that would allow medicine importers to release medicines from their warehouses based on a price increase for medicines that are not subsidized. Coded to Beirut.
+
+---
+
+[EVENT: LBN11978]
+Date: 2021-07-25
+Country: Lebanon | Location: Kfar Chouba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2021-2022) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Looting: On 25 July 2021, Israeli soldiers fired their weapons into the air overhead of a Lebanese shepherd west of Kfar Chouba (Hasbeiya) in an intimidation tactic and stole his 500 sheep.
+
+---
+
+[EVENT: LBN11992]
+Date: 2021-07-26
+Country: Lebanon | Location: Baabda
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Lebanon (2020-2021) [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Other: On 26 July 2021, Lebanese lawmakers tasked Najib Mikati with the formation of a new government after consultations were held in the Presidential Palace in Baabda (Baabda).
+
+---
+
+[EVENT: LBN12000]
+Date: 2021-07-28
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Strikes: On 28 July 2021, a nationwide strike started in the public sector departments called on by the Public Sector Employees Committee until August 6th, in protest against worsening living and economic conditions and to demand the fixation of public employees' wages. Coded to Beirut.
+
+---
+
+[EVENT: LBN12178]
+Date: 2021-08-01
+Country: Lebanon | Location: El Ouzaai
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2020-2021) [State forces]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+Security measures: On 1 August 2021, Lebanese military forces closed down both sides of the main road at El Ouzaai (Baabda) to prevent Hezbollah members and supporters from heading towards Khaldah where clashes took place.
+
+---
+
+[EVENT: LBN12310]
+Date: 2021-08-15
+Country: Lebanon | Location: Et Tleil
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Lebanon) [Civilians]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 28
+Sources: AFP [International]
+
+DESCRIPTION:
+Other: On 15 August 2021, a fuel tanker exploded in the village of Et Tleil (Akkar) killing 28 and injuring 80, among them soldiers. The military said the fuel tank had been confiscated by the army to distribute to citizens before it exploded. Soldiers were among the victims. The incident has led to further unrest in Lebanon.
+
+---
+
+[EVENT: LBN12300]
+Date: 2021-08-16
+Country: Lebanon | Location: Kfar Tebnit
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Explosive remnants of war: On 16 August 2021, a cluster bomb from previous conflicts exploded in a house in Kfar Tebnit (Al Nabatieh) injuring 5 Syrian civilians of which 1 is in critical condition.
+
+---
+
+[EVENT: LBN12394]
+Date: 2021-08-24
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+Strikes: On 24 August 2021, the federation of freelance jobs started a nationwide strike for a week likely in protest against worsening living and economic conditions. Coded to Beirut.
+
+---
+
+[EVENT: LBN12429]
+Date: 2021-09-07
+Country: Lebanon | Location: Wadi Khaled
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Explosive remnants of war: On 7 September 2021, a landmine planted by an unidentified armed group [likely in previous wars] exploded near the town of Aamayer - Rajem Issa in the area of Wadi Khaled (Akkar). A civilian was critically injured to the leg and transported to a nearby hospital for treatment.
+
+---
+
+[EVENT: LBN12432]
+Date: 2021-09-10
+Country: Lebanon | Location: Baabda
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Lebanon (2021-) [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Other: On 10 September 2021, Prime Minister designate Najib Mikati and President Michel Aoun signed off a new Lebanese Cabinet during their meeting at Baabda (Baabda) palace, ending a 13 months long political deadlock amid financial and economic crises.
+
+---
+
+[EVENT: LBN12551]
+Date: 2021-09-23
+Country: Lebanon | Location: Aadchit
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2021-2022) [External/Other forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 1
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Explosive remnants of war: On 23 September 2021, a cluster bomb from the remnants of the Israeli aggression on Lebanon, exploded in the town of Aadchit (Al Nabatieh), killing a Syrian boy and injuring his younger brother who is in stable condition in a nearby hospital.
+
+---
+
+[EVENT: LBN12561]
+Date: 2021-09-30
+Country: Lebanon | Location: Yater
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2021-2022) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Interception: On 30 September 2021, Hezbollah members shot down an Israeli drone in Wadi Maryamin near the town of Yater (Al Nabatieh) after it entered Lebanese airspace.

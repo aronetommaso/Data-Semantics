@@ -1,0 +1,242 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Israel (ISO Code: 376)
+Temporal Period: Year 2021 - Quarter Q4
+Total Events in Chunk: 17 / 17
+==================================================
+
+[EVENT: ISR11484]
+Date: 2021-10-04
+Country: Israel | Location: Ramla
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Al Aqsa Martyrs Brigade [Political militia]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Haderi Ha Haredeem [National]
+
+DESCRIPTION:
+Property destruction: On 4 October 2021, a Palestinian militant affiliated with the Al Aqsa Martyrs Brigade set on fire an empty Sukkah [an outdoor hut built for the Jewish holiday of Sukkut] in Ramla (HaMerkaz, Ramla) with a nationalist motive. The Palestinian, who illegally infiltrated Israel from Gaza Strip, carried out a similar attack on a bus in the city on September 30. He was arrested on October 12 by the Shin Bet and admitted that he had been assigned by the Al Aqsa Martyrs Brigade to carry out deadly militant attacks in Israel.
+
+---
+
+[EVENT: ISR11517]
+Date: 2021-10-12
+Country: Israel | Location: Kafr Qaseem
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Al-Ittihad; Arab 48 [National-Regional]
+
+DESCRIPTION:
+Property destruction: On 12 October 2021, Israeli police forces demolished a house belonging to an Israeli Arab family in Kafr Qaseem (Petah Tiqwa, HaMerkaz), under the pretext of not having a building permit.
+
+---
+
+[EVENT: ISR11518]
+Date: 2021-10-13
+Country: Israel | Location: Qalansuwa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [Regional]
+
+DESCRIPTION:
+Property destruction: On 13 October 2021, Israeli police forces demolished an under-construction house belonging to an Israeli Arab family in Qalansuwa (Eastern Sharon, HaMerkaz), under the pretext of not having a building permit.
+
+---
+
+[EVENT: ISR11467]
+Date: 2021-10-21
+Country: Israel | Location: Rahat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [International]
+
+DESCRIPTION:
+Property destruction: On 21 October 2021, the Israeli authorities (coded as Police Force of Israel) demolished a house in the outskirts of the Bedouin town Rahat (HaDarom, Beer Sheva) which was built without a permit. The step is part of a years-long ownership dispute between the state and many of Israel's Bedouins residents over lands in the Negev Desert.
+
+---
+
+[EVENT: ISR11477]
+Date: 2021-10-28
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [International]
+
+DESCRIPTION:
+Property destruction: On 28 October 2021, Israeli authorities (coded as Police Force of Israel) demolished several improvised dwellings recently built in the unrecognized Bedouin village Al Araqeeb (HaDarom, Beer Sheva). The authorities have thwarted attempts of local Bedouins to rebuild dwellings in the village since its demolition in 2010, as the government does not recognize their claim to the land and demands them to move to alternative lots in nearby towns.
+
+---
+
+[EVENT: ISR11491]
+Date: 2021-10-30
+Country: Israel | Location: Sakhnin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Israel) [Political militia]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: N12 [National]
+
+DESCRIPTION:
+Property destruction: On 30 October 2021, unknown armed people opened fire overnight toward a chapter of Hadash Party in Sakhnin (HaZafon, Akko) when the place was empty, inflicting damage to the building. The nature of the event is unclear.
+
+---
+
+[EVENT: ISR11487]
+Date: 2021-10-31
+Country: Israel | Location: Lod
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [Regional]
+
+DESCRIPTION:
+Property destruction: On 31 October 2021, the Israeli authorities (coded as Police Forces of Israel) demolished a house in an Arab neighborhood of Lod (HaMerkaz, Ramla), under the pretext that it was built without a permit.
+
+---
+
+[EVENT: ISR11516]
+Date: 2021-11-01
+Country: Israel | Location: Qalansuwa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [Regional]
+
+DESCRIPTION:
+Property destruction: On 1 November 2021, Israeli police forces demolished a pergola belonging to an Israeli Arab family in Qalansuwa (Eastern Sharon, HaMerkaz), under the pretext of not having a building permit.
+
+---
+
+[EVENT: ISR11489]
+Date: 2021-11-03
+Country: Israel | Location: Hura
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [Regional]
+
+DESCRIPTION:
+Property destruction: On 3 November 2021, the Israeli authorities (coded as Police Forces of Israel) demolished a house in the Bedouin town Hura (HaDArom, Beer Sheva) under the pretext that it was built illegally. The Bedouin population living in scattered localities in Southern Israel are locked in a dispute with the state regarding their land ownership.
+
+---
+
+[EVENT: ISR11499]
+Date: 2021-11-08
+Country: Israel | Location: Coast of Ashqelon
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2021-2022) [State forces]
+Actor2: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Times of Israel [National]
+
+DESCRIPTION:
+Interception: On 8 November 2021, the Iron Dome defense system shot down a drone launched by the Hamas Movement from the Gaza Strip above the sea off the shore of Israel [coded to Coast of Ashqelon]. Hamas fired the drone together with a barrage of rockets toward the sea to test the movement's capabilities. Israel usually does not interfere when Hamas conducts trial launches, but it does shoot down any drones flying out of the Gaza Strip, and it is the second time such an incident transpired since the last round of violence between the parties in May 2021.
+
+---
+
+[EVENT: ISR12435]
+Date: 2021-11-15
+Country: Israel | Location: Tel Aviv
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Haaretz; Ma'ariv [National]
+
+DESCRIPTION:
+Land seizure: On 15 November 2021, a large police force forcibly evacuated dozens of residents of Giva'at Amal neighbourhood in Tel Aviv (Tel Aviv, Tel Aviv) whose land was sold for the construction of a luxury tower. One resident was arrested during the evacuation for attacking an officer. The dispute over the neighbourhood's land derived from the residents' claim that their fathers, who had been settled there by the government in 1950, weren't allowed to purchase their lots due to discrimination of Middle Eastern Jews by the European-Jewish elite. Most of the neighbourhood's residents accepted the compensation offered to them and left in advance of the eviction.
+
+---
+
+[EVENT: ISR11520]
+Date: 2021-11-18
+Country: Israel | Location: Rahat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [International]
+
+DESCRIPTION:
+Property destruction: On 18 November 2021, Israeli police forces demolished 2 houses belonging to an Israeli Arab family in Rahat (Beer Sheva, HaDarom), under the pretext of not having a building permit.
+
+---
+
+[EVENT: ISR11515]
+Date: 2021-11-22
+Country: Israel | Location: Bet Shemesh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Haderi Ha Haredeem [National]
+
+DESCRIPTION:
+Property destruction: On 22 November 2021, municipality workers (coded as military) destroyed a Haredi synagogue in Bet Shemesh (Jerusalem, Jerusalem) built without permits. The town of Bet Shemesh is grappled with an internal struggle between its Haredi and non-Haredi residents, hence, the building of Haredi institutes is considered as undermining the sensitive demographic balance.
+
+---
+
+[EVENT: ISR11597]
+Date: 2021-12-14
+Country: Israel | Location: Rahat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [International]
+
+DESCRIPTION:
+Property destruction: On 14 December 2021, the Israeli authorities [coded as Police Force of Israel] demolished two dwellings in the Bedouin town Rahat (HaDarom, Beer Sheva) that had been built without a warrant. The Israeli government and some of southern Israel's Bedouin population are locked in a decades-long dispute over land ownership.
+
+---
+
+[EVENT: ISR11593]
+Date: 2021-12-28
+Country: Israel | Location: Tel Sheva
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Palestine Information Center [Other]
+
+DESCRIPTION:
+Property destruction: On 28 December 2021, the Israeli authorities [coded as Police Force of Israel) under the protection of police, destroyed in Naqa, east of Tel Sheva (HaDarom, Beer Sheva) Bedouin-owned agricultural land and confiscated crops. The Israeli government and some of the country's south Bedouin population are locked in a decades-long dispute over lands ownership in the Negev Desert.
+
+---
+
+[EVENT: ISR11592]
+Date: 2021-12-29
+Country: Israel | Location: Beersheba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Palestine Information Center [Other]
+
+DESCRIPTION:
+Property destruction: On 29 December 2021, the Israeli authorities [coded as Police Force of Israel) demolished dwellings in the unrecognized Bedouin village of Al Ruwais in the Negev Region [Coded as Beersheba]. The Israeli government and some of the country's south Bedouin population are locked in a decades-long dispute over lands ownership in the Negev Desert.
+
+---
+
+[EVENT: ISR11591]
+Date: 2021-12-29
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Palestine Information Center [Other]
+
+DESCRIPTION:
+Property destruction: On 29 December 2021, the Israeli authorities [coded as Police Force of Israel) demolished improvised dwellings built without a permit in Al Araqeeb (HaDarom, Beer Sheva) Bedouin village. Attempts to rebuild the village, which had been demolished in 2010, are consistently thwarted. The Israeli government and some of the country's south Bedouin population are locked in a decades-long dispute over lands ownership in the Negev Desert.

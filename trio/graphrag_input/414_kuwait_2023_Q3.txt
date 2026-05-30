@@ -1,0 +1,30 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Kuwait (ISO Code: 414)
+Temporal Period: Year 2023 - Quarter Q3
+Total Events in Chunk: 2 / 2
+==================================================
+
+[EVENT: KWT118]
+Date: 2023-09-17
+Country: Kuwait | Location: Kuwait University (Ash Shadadiyah)
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Kuwait) [Protesters]
+Fatalities: 0
+Sources: Arab Times [National]
+
+DESCRIPTION:
+On 17 September 2023, Kuwait University students union held a sit-in at Kuwait University (Ash Shadadiyah) (Al Farwaniyah) to denounce the recent administrative decision to ban coeducation classes. Representatives of the students unions and Kuwait University lecturers also participated in the sit-in.
+
+---
+
+[EVENT: KWT117]
+Date: 2023-09-18
+Country: Kuwait | Location: Kuwait University (Ash Shadadiyah)
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Kuwait) [Protesters]
+Fatalities: 0
+Sources: Kuwait Times [National]
+
+DESCRIPTION:
+On 18 September 2023, Kuwait University students unions held a protest at Kuwait University (Ash Shadadiyah) (Al Farwaniyah) to denounce the recent administrative decision to ban coeducation classes.

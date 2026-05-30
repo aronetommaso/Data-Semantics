@@ -1,0 +1,18 @@
+==================================================
+DOCUMENT CONTEXT
+Country: United Arab Emirates (ISO Code: 784)
+Temporal Period: Year 2022 - Quarter Q4
+Total Events in Chunk: 1 / 1
+==================================================
+
+[EVENT: ARE39]
+Date: 2022-12-08
+Country: United Arab Emirates | Location: Abu Dhabi
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Government of Yemen (2022-2026) Presidential Leadership Council [External/Other forces]
+Actor2: Government of the United Arab Emirates (2022-) [State forces]
+Fatalities: 0
+Sources: 26 September News - IRG; Aden al Ghad; South24 Center for News and Studies; Yemen Data Project [National-Regional]
+
+DESCRIPTION:
+On 8 December 2022, the IRG of Yemen and the UAE government signed a military and security cooperation agreement in Abu Dhabi. The agreement included counter terrorism provisions.

@@ -1,0 +1,31 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Jordan (ISO Code: 400)
+Temporal Period: Year 2016 - Quarter Q2
+Total Events in Chunk: 2 / 2
+==================================================
+
+[EVENT: JOR155]
+Date: 2016-05-04
+Country: Jordan | Location: Ar Ramtha
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Jordan (1999-) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Weapons Seizure: On Wednesday May 4, the Jordanian Military Forces seized a spying drone the Islamic State (IS) sent over Jordanian territories.
+
+---
+
+[EVENT: JOR160]
+Date: 2016-06-21
+Country: Jordan | Location: Rukban
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Jordan (1999-) [State forces]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Security measures: the Jordanian government closed the border with Syria in the aftermath of an attack which killed 7 members of the Jordanian security on June 21. The measure has been defined problematic by the U.N. refugee agency worried for the destiny of thousands of refugees who are waiting to enter Jordan on the border with Syria.

@@ -1,0 +1,139 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Lebanon (ISO Code: 422)
+Temporal Period: Year 2018 - Quarter Q4
+Total Events in Chunk: 10 / 10
+==================================================
+
+[EVENT: LBN916]
+Date: 2018-10-18
+Country: Lebanon | Location: Mieh Mieh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Security measures: On 18 October 2018, members of the Lebanese army entered Mieh Mieh refugee camp to take over a number of points from the joint Palestinian security force. 100 personnel were also sent to the entrances to the camp. Palestinian refugee camps have been off limits to Lebanese forces since 1969 and security forces unaffiliated with Lebanese forces expressed concern that the army's presence would exacerbate issues rather than diffuse them.
+
+---
+
+[EVENT: LBN918]
+Date: 2018-10-25
+Country: Lebanon | Location: Mieh Mieh
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Fatah Movement [Political militia]
+Actor2: Ansar Allah [Political militia]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Agreement: On Oct 25, a late night ceasefire was established between Fatah and Ansar Allah in Mieh Mieh, Palestinian refugee camp.
+
+---
+
+[EVENT: LBN922]
+Date: 2018-10-28
+Country: Lebanon | Location: Mieh Mieh
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Fatah Movement [Political militia]
+Actor2: Ansar Allah [Political militia]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Agreement: On Oct 28, Fatah and Ansar Allah reached a three-pronged agreement to end the clashes that have dominated the Mieh Mieh Palestinian refugee camp in recent weeks. The agreement went into effect less than 48 hours after a separate cease-fire agreement had been reached and subsequently failed.
+
+---
+
+[EVENT: LBN5938]
+Date: 2018-10-29
+Country: Lebanon | Location: Aarsal
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Lebanon Support; National News Agency Lebanon [Local partner-Other]
+
+DESCRIPTION:
+On 29 October 2018, in an operation by Lebanese military forces, 121 Syrian refugees were arrested for having illegal papers, in Aarsal.
+
+---
+
+[EVENT: LBN933]
+Date: 2018-11-28
+Country: Lebanon | Location: Aarsal
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Local Source [International]
+
+DESCRIPTION:
+Arrests: On Nov 28, Lebanese forces arrested over 300 Syrian refugees in a camp in the town of Arsal, during an inspection operation. The refugees were arrested because of expired documentation and for being on the 'wanted' list.
+
+---
+
+[EVENT: LBN938]
+Date: 2018-12-06
+Country: Lebanon | Location: Tripoli
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: On Dec 6, 600 Syrian refugees left Tripoli to return to Syria.
+
+---
+
+[EVENT: LBN939]
+Date: 2018-12-07
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: On Dec 7, the Russian Defense Ministry said that 134 Syrian refugees returned to Syria from Lebanon in the last 24 hours through the Jabos and Tulkarem crossings.
+
+---
+
+[EVENT: LBN941]
+Date: 2018-12-08
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: On Dec 8, the Russian Defense Ministry said that 1357 Syrian refugees returned to Syria from Lebanon in the last 24 hours.
+
+---
+
+[EVENT: LBN955]
+Date: 2018-12-24
+Country: Lebanon | Location: Aarida Border Crossing
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: Between 23 and 24 of Dec, over 1000 Syrian refugees returned to Syria through the Arida and Talkalakh crossings (coded to Aarida Border Crossing).
+
+---
+
+[EVENT: LBN958]
+Date: 2018-12-27
+Country: Lebanon | Location: Kfar Kila
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Property destruction: On Dec 27, Israeli forces flooded a Hezbollah tunnel with cement causing cement to flood some areas of the village. The tunnel stretched from Kufr Kela in Lebanon to Metula in northern Israel.

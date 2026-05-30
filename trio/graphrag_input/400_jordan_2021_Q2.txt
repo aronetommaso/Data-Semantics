@@ -1,0 +1,85 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Jordan (ISO Code: 400)
+Temporal Period: Year 2021 - Quarter Q2
+Total Events in Chunk: 6 / 6
+==================================================
+
+[EVENT: JOR655]
+Date: 2021-04-01
+Country: Jordan | Location: Amman
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Jordan (1999-) [State forces]
+Fatalities: 0
+Sources: Al Ghad (Jordan) [National]
+
+DESCRIPTION:
+Security measures: On 1 April 2021, Jordan implemented a complete lockdown from 1 April to 3 April to curb the spread of the coronavirus. Coded at Amman (Qasabat Amman).
+
+---
+
+[EVENT: JOR644]
+Date: 2021-04-04
+Country: Jordan | Location: Amman
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Jordan (1999-) [State forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Amman Voice; CNN; France24; Reuters; Washington Post [National-International]
+
+DESCRIPTION:
+Around 4 April 2021, the Jordanian military forces reportedly placed Prince Hamzah bin Al Hussein under house arrest in Dabbouq area in Amman (Qasabat Amman). Authorities also arrested between 16 to 20 people, including a high-profile political figure. According to the Jordanian authorities, the Prince was part of a foreign-backed plot to destabilize the country's security.
+
+---
+
+[EVENT: JOR645]
+Date: 2021-04-08
+Country: Jordan | Location: Amman
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Jordan (1999-) [State forces]
+Fatalities: 0
+Sources: Al Ghad (Jordan) [National]
+
+DESCRIPTION:
+Security measures: On 8 April 2021, Jordan implemented a complete lockdown from 8 April to 10 April to curb the spread of the coronavirus. Coded at Amman (Qasabat Amman).
+
+---
+
+[EVENT: JOR2781]
+Date: 2021-04-22
+Country: Jordan | Location: Amman
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Jordan (1999-) [State forces]
+Fatalities: 0
+Sources: Al Ghad (Jordan) [National]
+
+DESCRIPTION:
+Security measures: On 22 April 2021, Jordan implemented a complete lockdown from 22 April to 24 April to curb the spread of the coronavirus. Coded at Amman (Qasabat Amman, Amman).
+
+---
+
+[EVENT: JOR1808]
+Date: 2021-06-23
+Country: Jordan | Location: Kufrinjah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Jordan (1999-) [State forces]
+Actor2: Unidentified Armed Group (Jordan) [Political militia]
+Fatalities: 0
+Sources: Jo 24 [National]
+
+DESCRIPTION:
+Defusal: On 23 June 2021, Ajlun security forces defused four grenades left by an unknown armed group that were found in the Mushirfah area in Kufrinjah (Qasabat Ajlun, Ajlun).
+
+---
+
+[EVENT: JOR2816]
+Date: 2021-06-30
+Country: Jordan | Location: Ash Shunah al Janubiyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Jordan) [Political militia]
+Actor2: Civilians (Jordan) [Civilians]
+Fatalities: 0
+Sources: Amman Net [National]
+
+DESCRIPTION:
+Property destruction: On 30 June 2021, unidentified armed men opened fire towards a pumping water station in the area of Ash Shunah al Janubiyah (Ash Shunah al Janubiyah, Al Balqa) which caused a disruption in the water pumping of several surrounding areas.

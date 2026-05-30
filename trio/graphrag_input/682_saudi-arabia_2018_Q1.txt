@@ -1,0 +1,116 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Saudi Arabia (ISO Code: 682)
+Temporal Period: Year 2018 - Quarter Q1
+Total Events in Chunk: 8 / 8
+==================================================
+
+[EVENT: SAU1268]
+Date: 2018-01-11
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Anadolu Agency; Yemen News Agency SABA [National-Regional]
+
+DESCRIPTION:
+Interception: On 11 January 2018, Saudi air defense forces claimed to have intercepted a Houthi missile targeting Najran city (Najran). Houthi forces claimed that the missile successfully struck a parked military Apache helicopter near the airport.
+
+---
+
+[EVENT: SAU1296]
+Date: 2018-01-16
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Interception: On 16 January 2018, The Saudi airforce announced that it intercepted a ballistic missile fired by pro-Houthi forces at Jizan, in Saudi Arabia.
+
+---
+
+[EVENT: SAU1321]
+Date: 2018-01-20
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Reuters; Yemen News Agency (SABA) - Houthi [Regional-International]
+
+DESCRIPTION:
+Interception: On 20 January 2018, Saudi air defense forces intercepted 1 Houthi short-range ballistic missile targeting the Saudi Quah military camp in Najran district (Najran).
+
+---
+
+[EVENT: SAU1388]
+Date: 2018-02-05
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Xinhua; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 5 February 2018, Saudi air defense forces claimed to have intercepted a Houthi ballistic missile targeting Khamis Mushait city (Khamis Mushait, Asir).
+
+---
+
+[EVENT: SAU1701]
+Date: 2018-03-25
+Country: Saudi Arabia | Location: Najran - Najran Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Saudi Press Agency; Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 25 March 2018, Saudi air defense forces claimed to have intercepted 1 Houthi ballistic missile towards Najran (Najran) as Houthi forces said that they fired several Badr type artillery rockets targeting Najran and Najran - Najran Airport.
+
+---
+
+[EVENT: SAU1698]
+Date: 2018-03-25
+Country: Saudi Arabia | Location: Abha Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Saudi Press Agency; Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 25 March 2018, Saudi air defense forces claimed to have intercepted 1 Houthi ballistic missile towards Khamis Mushait (Asir) as Houthi forces said that they fired 1 Qahir-2M unguided land-attack rocket targeting Abha Regional Airport.
+
+---
+
+[EVENT: SAU1700]
+Date: 2018-03-25
+Country: Saudi Arabia | Location: Jizan - Jizan Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Saudi Press Agency; Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 25 March 2018, Saudi air defense forces claimed to have intercepted 2 Houthi ballistic missiles towards Jizan (Jizan) as Houthi forces said that they fired several Badr type artillery rockets targeting Jizan and Jizan - Jizan Regional Airport.
+
+---
+
+[EVENT: SAU1725]
+Date: 2018-03-29
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 29 March 2018, Saudi air defense forces intercepted a Houthi missile over Jizan province. Houthi forces later claimed to have targeted ARAMCO facilities.

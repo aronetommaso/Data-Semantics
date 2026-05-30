@@ -1,0 +1,59 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Israel (ISO Code: 376)
+Temporal Period: Year 2017 - Quarter Q4
+Total Events in Chunk: 4 / 4
+==================================================
+
+[EVENT: ISR234]
+Date: 2017-10-03
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [International]
+
+DESCRIPTION:
+Property destruction: On October 3 2017, Israeli forces demolished on Tuesday the Bedouin village of al-Araqib in the Naqab region of southern Israel for the 119th time since 2010.
+
+---
+
+[EVENT: ISR289]
+Date: 2017-12-11
+Country: Israel | Location: Ashqelon
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Kikar HaShabbat; Xinhua [National-International]
+
+DESCRIPTION:
+Interception: On 11 December 2017, Israel's anti-rocket system Iron Dome intercepted a rocket fired at southern Israel by militants in Gaza Strip. The rocket triggered sirens in Ashqelon city (HaDarom) and its surrounding areas.
+
+---
+
+[EVENT: ISR8877]
+Date: 2017-12-13
+Country: Israel | Location: Sderot
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: N12 [National]
+
+DESCRIPTION:
+Interception: On 13 December 2017, at night, Israel's anti-rocket system Iron Dome intercepted two rocket fired at the Israel by militants in Gaza Strip, the Israeli military said. The rockets did not cause any damage. * Note that the event location is coded to Sderot.
+
+---
+
+[EVENT: ISR294]
+Date: 2017-12-14
+Country: Israel | Location: Kerem Shalom
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Palestine News and Information Agency [International]
+
+DESCRIPTION:
+Security measures: Israel said on Thursday that it has decided to shut down Erez (Beit Hanoun) crossing for people and Kerem Shalom (Karem Abu Salem) crossing for goods, which come as a collective punishment following days of rocket attacks from Gaza into southern Israel.

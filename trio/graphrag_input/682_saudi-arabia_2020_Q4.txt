@@ -1,0 +1,295 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Saudi Arabia (ISO Code: 682)
+Temporal Period: Year 2020 - Quarter Q4
+Total Events in Chunk: 21 / 21
+==================================================
+
+[EVENT: SAU22865]
+Date: 2020-10-06
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Mashhad Al Araby; Al Omanaa; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 6 October 2020, the Saudi military shot down 1 Houthi drone on its way to Najran city (Najran).
+
+---
+
+[EVENT: SAU22867]
+Date: 2020-10-24
+Country: Saudi Arabia | Location: Abha Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Ansar Allah; Khabar News Agency (Yemen); Saudi Press Agency; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 24 October 2020, Saudi forces claimed to have intercepted and destroyed Houthi bomb-laden drones launched towards southern Saudi Arabia. Houthi forces had earlier claimed to have launched 2 Qasif-2K drones at Abha Regional Airport (Abha, Asir) and King Khalid Air Base (Khamis Mushayt, Asir).
+
+---
+
+[EVENT: SAU22868]
+Date: 2020-10-24
+Country: Saudi Arabia | Location: King Khalid Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Ansar Allah; Khabar News Agency (Yemen); Saudi Press Agency; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 24 October 2020, Saudi forces claimed to have intercepted and destroyed Houthi bomb-laden drones launched towards southern Saudi Arabia. Houthi forces had earlier claimed to have launched 2 Qasif-2K drones at Abha Regional Airport (Abha, Asir) and King Khalid Air Base (Khamis Mushayt, Asir).
+
+---
+
+[EVENT: SAU22872]
+Date: 2020-10-25
+Country: Saudi Arabia | Location: Abha Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Saudi Press Agency; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 25 October 2020, Saudi forces shot down 1 Houthi Sammad-3 drone targeting residential areas in southern Saudi Arabia. In what is understood to be the same event Houthi forces claimed a successful attack on Abha Regional Airport (Asir). One source said that Saudi forces claimed to have shot down 4 drones on their way to Saudi Arabia.
+
+---
+
+[EVENT: SAU22875]
+Date: 2020-10-26
+Country: Saudi Arabia | Location: King Khalid Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Reuters; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 26 October 2020, Saudi forces claimed to have intercepted Houthi Qasif-2K drones targeting Abha Regional Airport (Abha, Asir) and King Khalid Air Base (Khamis Mushayt, Asir).
+
+---
+
+[EVENT: SAU22874]
+Date: 2020-10-26
+Country: Saudi Arabia | Location: Abha Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Reuters; Saudi Press Agency; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 26 October 2020, Saudi forces claimed to have intercepted Houthi Qasif-2K drones targeting Abha Regional Airport (Abha, Asir) and King Khalid Air Base (Khamis Mushayt, Asir).
+
+---
+
+[EVENT: SAU22876]
+Date: 2020-10-27
+Country: Saudi Arabia | Location: Abha Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Ansar Allah; Saudi Press Agency; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 27 October 2020, Saudi forces shot down 1 Houthi Qasif-2K drone targeting residential areas in southern Saudi Arabia. In what is understood to be the same event Houthi forces claimed a successful attack on Abha Regional Airport (Asir).
+
+---
+
+[EVENT: SAU22877]
+Date: 2020-10-28
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 28 October 2020, Saudi forces claimed to have intercepted 3 Houthi ballistic missiles and 6 drones including 1 Sammad and 1 Qasif targeting Najran (coded to district level), Jizan (coded to district level), and Khamis Mushait (coded to district level at Khamis Mushait) (Asir).
+
+---
+
+[EVENT: SAU22879]
+Date: 2020-10-28
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 28 October 2020, Saudi forces claimed to have intercepted 3 Houthi ballistic missiles and 6 drones including 1 Sammad and 1 Qasif targeting Najran (coded to district level), Jizan (coded to district level), and Khamis Mushayt (coded to district level at Khamis Mushait) (Asir).
+
+---
+
+[EVENT: SAU22878]
+Date: 2020-10-28
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 28 October 2020, Saudi forces claimed to have intercepted 3 Houthi ballistic missiles and 6 drones including 1 Sammad and 1 Qasif targeting Najran (coded to district level), Jizan (coded to district level), and Khamis Mushayt (coded to district level at Khamis Mushait) (Asir).
+
+---
+
+[EVENT: SAU22886]
+Date: 2020-11-01
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United Kingdom (2010-2024) [External/Other forces]
+Fatalities: 0
+Sources: Al Masdar [Regional]
+
+DESCRIPTION:
+Movement of forces: Around 1 November 2020 (beginning of month), British military forces deployed military personnel and assets, including those from the 16th Royal Artillery Regiment, to Riyadh (Ar Riyad, Ar Riyad) to accompany the deployment of radar systems designed to detect drones. The deployment was to protect oil installations and is continuing through November.
+
+---
+
+[EVENT: SAU22880]
+Date: 2020-11-05
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Asharq Al Awsat; Saudi Press Agency; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 5 November 2020, Saudi forces claimed to have intercepted and destroyed 1 Houthi bomb-laden drone launched towards southern Saudi Arabia (coded to Najran).
+
+---
+
+[EVENT: SAU22884]
+Date: 2020-11-13
+Country: Saudi Arabia | Location: Coast of Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: AP; Saudi Press Agency; Washington Post; Yemen Data Project; Yemen Window [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 13 November 2020, Saudi forces intercepted two bomb-laden boats launched by Houthi forces off the Coast of Jizan, resulting in a fire breaking out near an Aramco oil distribution center.
+
+---
+
+[EVENT: SAU22885]
+Date: 2020-11-21
+Country: Saudi Arabia | Location: Mecca
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Civilians (China) [Civilians]
+Fatalities: 0
+Sources: Twitter; HRW [Other-New media]
+
+DESCRIPTION:
+Arrests: On 21 November 2020, Saudi police arrested a Uyghur religious scholar who has been legally residing in Turkey but travelling in Saudi Arabia, reportedly at the behest of the Chinese government, fearing deportation. He was arrested with another helper, also a Uyghur man, near the Kaaba in Makkah (Makkah, Makkah) and brought to Buraiman prison in Jeddah city. The scholar had been arrested in China twice, in 2013 and 2014.
+
+---
+
+[EVENT: SAU22890]
+Date: 2020-12-04
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Saudi Press Agency; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 4 December 2020, the Saudi military intercepted 1 bomb-laden drone launched by Houthi forces towards southern Saudi Arabia (coded to Najran).
+
+---
+
+[EVENT: SAU22889]
+Date: 2020-12-04
+Country: Saudi Arabia | Location: Prince Sultan Air Base
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2017-2021) [External/Other forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Movement of forces: Around 4 December 2020 (as reported), US forces deployed a THAAD missile system next to the Prince Sultan airbase in Al Kharj (Al Kharj, Ar Riyad), pointing towards northeast. It includes 6 THAAD anti ballistic missile launchers and two Patriot launcher and is supported by the AN/TPY-2 Radar. The system covers Riyadh, some airbases and Khurays oil fields.
+
+---
+
+[EVENT: SAU22893]
+Date: 2020-12-07
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Watan Al Youm; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 7 December 2020, the Saudi military shot down 1 Houthi drone that was targeting residential areas in southern Saudi Arabia (coded to Najran).
+
+---
+
+[EVENT: SAU22892]
+Date: 2020-12-08
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Government of Yemen (2012-2022) Hadi [External/Other forces]
+Actor2: STC: Southern Transitional Council of South Arabia [Political militia]
+Fatalities: 0
+Sources: Aden al Ghad [Regional]
+
+DESCRIPTION:
+Agreement: On 8 December 2020, the Hadi-led government of Yemen and the Southern Transitional Council reportedly reached a new agreement in Riyadh (Ar Riyad, Ar Riyad) regarding the implementation of the Riyadh Agreement and the deescalation of tensions between pro-Hadi military and pro-STC forces in the Abyan governorate. The agreement includes the redeployment of pro-Hadi and pro-STC forces from their current positions and the formation of a military committee to oversee the redeployments.
+
+---
+
+[EVENT: SAU22894]
+Date: 2020-12-09
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Saudi Press Agency; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 9 December 2020, the Saudi military shot down 1 Houthi drone that was targeting residential areas in southern Saudi Arabia (coded to Najran).
+
+---
+
+[EVENT: SAU22904]
+Date: 2020-12-15
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 15 December 2020, the Saudi military reportedly shot down a Houthi drone that was targeting Saudi areas. Location is unclear and is coded in Najran (Najran) as it is close to the border.
+
+---
+
+[EVENT: SAU22906]
+Date: 2020-12-20
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Saudi Arabia (2015-) [State forces]
+Fatalities: 0
+Sources: Al Masdar [International]
+
+DESCRIPTION:
+Security measures: On 20 December 2020, Saudi officials announced the suspension of international flights and of entry through ports and border crossings for one week, following the spread of a new strain of Coronavirus in the United Kingdom. Reportedly, the transportation of goods from countries without the new strain was excluded from the decision. On 28 December 2020, Saudi officials extended suspension of international flights and of entry through ports and border crossings for one week while allowing foreigners in the country to leave.

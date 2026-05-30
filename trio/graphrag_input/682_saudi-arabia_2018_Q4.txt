@@ -1,0 +1,74 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Saudi Arabia (ISO Code: 682)
+Temporal Period: Year 2018 - Quarter Q4
+Total Events in Chunk: 5 / 5
+==================================================
+
+[EVENT: SAU3981]
+Date: 2018-10-02
+Country: Saudi Arabia | Location: Al Khadra
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Actor2: Military Forces of Saudi Arabia (2015-) [State forces]
+Fatalities: 0
+Sources: Press TV [Regional]
+
+DESCRIPTION:
+Interception: On 2 October 2018, pro-Houthi forces claimed to have shot down a Saudi reconnaissance drone over Al Khadra border crossing (Khubash, Najran).
+
+---
+
+[EVENT: SAU4020]
+Date: 2018-10-09
+Country: Saudi Arabia | Location: Ash Shabakah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Actor2: Military Forces of Saudi Arabia (2015-) [State forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [Regional]
+
+DESCRIPTION:
+Interception: On 9 October 2018, pro-Houthi forces claimed to have shot down two Saudi reconnaissance drones over Ash Shabakah (Al Harth, Jizan).
+
+---
+
+[EVENT: SAU4028]
+Date: 2018-10-10
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Saudi Press Agency [National]
+
+DESCRIPTION:
+Interception: On 10 October 2018, Saudi air defence forces claimed to have intercepted a ballistic missile over Najran governorate, fired by pro-Houthi forces from Sadah governorate in Yemen. No casualties were reported.
+
+---
+
+[EVENT: SAU4213]
+Date: 2018-11-16
+Country: Saudi Arabia | Location: Coast of Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Ajil Net [National]
+
+DESCRIPTION:
+Interception: On 16 November 2018, Saudi gunboats claimed to have intercepted and destroyed a suspected Houthi explosive-laden boat headed toward Saudi territorial waters off the Coast of Jizan.
+
+---
+
+[EVENT: SAU54227]
+Date: 2018-12-29
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya [National]
+
+DESCRIPTION:
+Interception: On 29 December 2018, Saudi air defense forces claimed to have intercepted 2 Houthi ballistic missiles targeting Najran city (Najran) in 24 hours.

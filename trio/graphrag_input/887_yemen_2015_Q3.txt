@@ -1,0 +1,648 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Yemen (ISO Code: 887)
+Temporal Period: Year 2015 - Quarter Q3
+Total Events in Chunk: 47 / 47
+==================================================
+
+[EVENT: YEM36014]
+Date: 2015-07-01
+Country: Yemen | Location: Al Anad
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency SABA [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 1 July 2015, local security forces reportedly defused an IED planted in Al-Annad market of Tuban district, Lhaij Governorate.
+
+---
+
+[EVENT: YEM36061]
+Date: 2015-07-03
+Country: Yemen | Location: Thamar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency SABA [Local partner-National]
+
+DESCRIPTION:
+Interception: On 3 July 2015, anti-aircrafts guns shot down a Saudi reconnaissance drone in Thamar area of Dhamar city, Dhamar.
+
+---
+
+[EVENT: YEM36073]
+Date: 2015-07-04
+Country: Yemen | Location: Ahim Junction
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 65
+Sources: Bellingcat; HRW; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 4 July 2015, Saudi-led coalition air raids were reported on a market in Ahim junction in Hajjah governorate. Initial reports mentioned between 20 and 35 fatalities, but a HRW investigation later concluded to a total of 65 fatalities and 105 injuries.
+
+---
+
+[EVENT: YEM36077]
+Date: 2015-07-04
+Country: Yemen | Location: Shamlan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency SABA [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 4 July 2015, security forces reportedly defused an IED planted near Otaibah mosque in Shamlan area of Hamdan district of Sanaa.
+
+---
+
+[EVENT: YEM36166]
+Date: 2015-07-08
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency SABA [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 8 July 2015, Houthi security forces reportedly defused a VBIED near the Agriculture and Irrigation Office in Ataq city, Shabwah Governorate.
+
+---
+
+[EVENT: YEM36171]
+Date: 2015-07-09
+Country: Yemen | Location: Sanaa
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Government of Yemen (2012-2022) Hadi [State forces]
+Actor2: Government of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency SABA [Local partner-National]
+
+DESCRIPTION:
+Agreement: The United Nations has announced an unconditional ceasefire in Yemen starting at midnight on Friday. The UN has urged all parties to commit to the week-long humanitarian pause and allow the delivery of aid into Yemen.
+
+---
+
+[EVENT: YEM36273]
+Date: 2015-07-14
+Country: Yemen | Location: Taizz
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Fajr Al Yemeni; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Unknown armed men reportedly burn a car belonging to the director of the endowments office.
+
+---
+
+[EVENT: YEM36253]
+Date: 2015-07-14
+Country: Yemen | Location: Aden
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Asharq Al Awsat; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 14 July 2015, pro-Hadi forces supported by Southern Resistance fighters and coalition's airstrikes, heavy weaponry, and equipment launched 'Operation Golden Arrow' to regain control of territories in Aden from pro-Houthi forces.
+
+---
+
+[EVENT: YEM36281]
+Date: 2015-07-15
+Country: Yemen | Location: Sanaa - Bani Hawat
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Al Fajr Al Yemeni; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 15 July 2015, security forces reportedly defused an IED planted under Amran junction bridge in Bani Al-Harith district.
+
+---
+
+[EVENT: YEM36276]
+Date: 2015-07-15
+Country: Yemen | Location: Aden - Al Burayqah
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project; Amnesty International [Local partner-National]
+
+DESCRIPTION:
+The UAE established a military base in the Al Burayqah district of Aden. The base would be completed in the following year.
+
+---
+
+[EVENT: YEM36284]
+Date: 2015-07-15
+Country: Yemen | Location: Amran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 15 July 2015, yhe security forces reportedly defused several IEDs planted near a factory in Amran city.
+
+---
+
+[EVENT: YEM49147]
+Date: 2015-07-16
+Country: Yemen | Location: Aden - Hayy al Qati
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: UN Panel of Experts [Other]
+
+DESCRIPTION:
+On 16 July 2015, Houthi-Saleh fighters looted many of the pieces exhibited at the Military Museum in Qati neighborhood in Craiter, Aden city.
+
+---
+
+[EVENT: YEM36303]
+Date: 2015-07-17
+Country: Yemen | Location: Aden
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Southern Resistance [Political militia]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Asharq Al Awsat; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 17 July 2015, Southern Resistance forces arrested forty-five Houthi fighters and around 30 Houthis were held up in the central Aden hotel.
+
+---
+
+[EVENT: YEM36310]
+Date: 2015-07-19
+Country: Yemen | Location: Aden - Dar Sad
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 52
+Sources: AP; UN Panel of Experts; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 19 and 20 July, pro-Houthi forces shelled Dar Sad neighborhood killing around 107 civilians and injuring 198. The UN PoE reported that 107 civilians (including 32 women and 29 children) were killed and 198 injured in total.
+
+---
+
+[EVENT: YEM36315]
+Date: 2015-07-20
+Country: Yemen | Location: Aden - Dar Sad
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 55
+Sources: Asharq Al Awsat; UN Panel of Experts; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 19 and 20 July, pro-Houthi forces shelled Dar Sad neighborhood killing around 107 civilians and injuring 198. The UN PoE reported that 107 civilians (including 32 women and 29 children) were killed and 198 injured in total.
+
+---
+
+[EVENT: YEM36349]
+Date: 2015-07-24
+Country: Yemen | Location: Al Mukha Power Station
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 65
+Sources: Amnesty International; HRW; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+The Saudi-air forces carried out several air raids on residential compounds of the Al Mukha city power station, Taizz governorate. At least 65 civilians were killed and 50 others were injured.
+
+---
+
+[EVENT: YEM36471]
+Date: 2015-08-02
+Country: Yemen | Location: Aden - Al Burayqah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project; Hadramout Press [Local partner-National]
+
+DESCRIPTION:
+Reports of up to 4,000 troops from the UAE military arrived in Aden as reinforcements to recover Al Anad airforce base in Lahj Governorate from Houthi forces. One reports said troops were much less in number (2,000).
+
+---
+
+[EVENT: YEM36500]
+Date: 2015-08-03
+Country: Yemen | Location: Al Anad
+Type: Battles > Non-state actor overtakes territory | Disorder: Political violence
+Actor1: Southern Resistance [Political militia]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 64
+Sources: AFP; Al Arabiya; Xinhua; Yemen 24; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 3 August 2015, coalition-backed Southern Resistance forces recaptured the Al Anad airbase after fierce clashes with Houthi forces. 3,000 ground troops, including Saudi and Emirati special forces, participated in the battle. The clashes killed 40 pro-Houthi soldiers and 24 Southern Resistance soldiers, and injured 24 others including 1 Saudi soldier. **Other reports say that up to 70 pro-Houthi forces were killed.
+
+---
+
+[EVENT: YEM36516]
+Date: 2015-08-04
+Country: Yemen | Location: Al Hawtah
+Type: Battles > Non-state actor overtakes territory | Disorder: Political violence
+Actor1: Southern Resistance [Political militia]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 71
+Sources: Al Badeel; AP; Yemen Data Project; Yemenat [Local partner-National]
+
+DESCRIPTION:
+Southern Resistance fighters took control of Al-Hawta district after clashes with Houthi forces, killing 39 and 17 resistance forces. Also, during their push towards Al Hawta, 15 resistance fighters were killed by two landmines planted by pro-Houthi forces.
+
+---
+
+[EVENT: YEM44449]
+Date: 2015-08-06
+Country: Yemen | Location: Aden - Rubat
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Actor2: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: AP; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 6 August 2015, pro-AQAP forces without any fights took control of Aden - Rubat, Al Lahum (just by Al Karaa), and Al Masaabin towns in Dar Sad district (Aden). The group seized government buildings and turned them into military bases.
+
+---
+
+[EVENT: YEM36553]
+Date: 2015-08-06
+Country: Yemen | Location: Aden
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Actor2: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: AP; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 6 August 2015, pro-AQAP forces without any fights took control of the Rabat, al-Lahoum and al-Masaabin towns in Aden. The group seized government buildings and turned them into military bases.
+
+---
+
+[EVENT: YEM36556]
+Date: 2015-08-06
+Country: Yemen | Location: Wadiah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: AFP; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 6 August 2015, hundreds of Yemeni military reinforcements with tanks, armored vehicles and personnel carriers coming from KSA entered from Al Wadiah border post in Sadah. The reinforcements were headed towards Marib, east of Sanaa, and Shabwa governorates.
+
+---
+
+[EVENT: YEM36554]
+Date: 2015-08-06
+Country: Yemen | Location: Al Wadiah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Stratfor; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Dozens of tanks, armored vehicles and personnel carriers entered Yemen on August 6 via the al-Wadiya border crossing carrying hundreds of Saudi-trained Yemeni troops.
+
+---
+
+[EVENT: YEM44450]
+Date: 2015-08-06
+Country: Yemen | Location: Aden - Dar Sad
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Actor2: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: AP; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 6 August 2015, pro-AQAP forces without any fights took control of Aden - Rubat, Al Lahum (just by Al Karaa), and Al Masaabin towns in Dar Sad district (Aden). The group seized government buildings and turned them into military bases.
+
+---
+
+[EVENT: YEM36663]
+Date: 2015-08-11
+Country: Yemen | Location: Uzlat Bani Mansur
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 1
+Sources: Yemen Data Project; Yemen News Agency SABA [Local partner-National]
+
+DESCRIPTION:
+On 11 August 2015, a man was killed when he was carrying an IED that exploded by mistake before he reached his target in Bani Mansur area of Al Haymah Al Kharijiyah district.
+
+---
+
+[EVENT: YEM36716]
+Date: 2015-08-14
+Country: Yemen | Location: Al Janadib
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Popular Resistance [Political militia]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Houthi military forces destroyed houses belonging to Popular Resistance supporters in the al Janadib in Arhab district, Sanaa governorate. No casualties were reported.
+
+---
+
+[EVENT: YEM36705]
+Date: 2015-08-14
+Country: Yemen | Location: Al Husayniyah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 1
+Sources: Yemen News Agency SABA; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+An unknown man attempted to plant an IED in the al Husseiniyah area of Al Hudayah governorate, but detonated prematurately and killed him.
+
+---
+
+[EVENT: YEM36742]
+Date: 2015-08-15
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Southern Resistance [Political militia]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Al Badeel; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Southern Resistance forces reportedly took control of the Shabwah governorate after Houthi forces withdrew from the area.
+
+---
+
+[EVENT: YEM36729]
+Date: 2015-08-15
+Country: Yemen | Location: Suq ar Rubu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Popular Resistance [Political militia]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Houthi military forces destroyed several houses of Popular Resistance supporters around Utmah district, Dhamar governorate.
+
+---
+
+[EVENT: YEM36841]
+Date: 2015-08-20
+Country: Yemen | Location: Taizz - Salah
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 65
+Sources: Yemen Data Project; MSF; Mwatana [Local partner-National]
+
+DESCRIPTION:
+On 20 August 2015, Saudi-led coalition air strikes hit a neighbourhood in the east of the city of Taiz in Salah district, killing 65 civilians, including 23 children, and injuring 31 others.
+
+---
+
+[EVENT: YEM36846]
+Date: 2015-08-21
+Country: Yemen | Location: Najr
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2015-2017) Houthi-Saleh - Special Security Forces [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency SABA [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 21 August 2015, Security forces reportedly defused an IED planted near a mosque in Najr area of Amran city.
+
+---
+
+[EVENT: YEM36863]
+Date: 2015-08-21
+Country: Yemen | Location: Wadiah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project; Asharq Al Awsat [Local partner-National]
+
+DESCRIPTION:
+On 21 August 2015, an unspecified number of UAE soldier troops reinforcements entered Yemen from KSA through Wadiah border crossing in Sadah governorate.
+
+---
+
+[EVENT: YEM36876]
+Date: 2015-08-22
+Country: Yemen | Location: Aden - Dar Sad
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: AP; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 22 August 2015, pro-AQAP forces peacefully took control of several areas within Craiter district and the Aden's commercial center. No injuries nor fatalities reported.
+
+---
+
+[EVENT: YEM36875]
+Date: 2015-08-22
+Country: Yemen | Location: Aden
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: AP; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 22 August 2015, pro-AQAP forces peacefully took control of several areas within Craiter district and the Aden's commercial center. No injuries nor fatalities reported.
+
+---
+
+[EVENT: YEM36901]
+Date: 2015-08-24
+Country: Yemen | Location: Hammam Damt
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Popular Resistance [Political militia]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Bu Yemen; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Anti Houthi groups announced that they gained control of Damt district of Al Dhalie governorate from Houthi forces.
+
+---
+
+[EVENT: YEM36933]
+Date: 2015-08-24
+Country: Yemen | Location: Mukayras
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Ababiil Net; Aviation Safety Network; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 24 August 2015, Houthi-Saleh forces shot down 1 UAE Schiebel Camcopter S-100 drone over Mukayras district (Al Bayda).
+
+---
+
+[EVENT: YEM37027]
+Date: 2015-08-29
+Country: Yemen | Location: Ad Dabab
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Popular Resistance [Political militia]
+Fatalities: 0
+Sources: Yemen Data Project; Yemenat [Local partner-National]
+
+DESCRIPTION:
+Pro-Houthi forces advanced into the western areas, including the Al-Dhabab area, of Taiz city after the withdrawal of anti-Houthi groups from the area.
+
+---
+
+[EVENT: YEM37074]
+Date: 2015-09-01
+Country: Yemen | Location: Sanaa - Sanaa International Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 12
+Sources: Al Arabiya; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 1 September 2015, dozens of pro-Houthi forces were killed by mistake after a Scud missile went off while it was being launched from the Al Daylami Air Base in Bani Al Harith district. Unknown fatalities coded as 12.
+
+---
+
+[EVENT: YEM46532]
+Date: 2015-09-02
+Country: Yemen | Location: Taizz - Taizz University
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: GCPEA [Other]
+
+DESCRIPTION:
+On 2 September 2015, pro-Houthi/Saleh forces reportedly took up fighting positions on the campus of Taizz University west of the city in southwestern Yemen (Al-Mudhaffar district).
+
+---
+
+[EVENT: YEM37167]
+Date: 2015-09-04
+Country: Yemen | Location: Safir
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 100
+Sources: CNN; Yemen Data Project; Yemen News Agency SABA [Local partner-National]
+
+DESCRIPTION:
+Houthi-Saleh forces fired a OTR-21 Tochka ballistic missile at Yemeni, Saudi, Emirati and Bahraini troops of the Saudi-led coalition in the Safir military camp in Marib governorate. At least 100 soldiers (52 Emirati, 10 Saudi, 5 Bahrain and at least 33 Yemeni) were allegedly killed.
+
+---
+
+[EVENT: YEM37278]
+Date: 2015-09-07
+Country: Yemen | Location: Marib
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: AP; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 7 September 2015, 1,000 Qatari ground forces have reportedly been deployed in Marib to help with the fights against pro-Houthi forces.
+
+---
+
+[EVENT: YEM37564]
+Date: 2015-09-17
+Country: Yemen | Location: Dhamar
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi - Special Security Forces [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Al Motamar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 17 September 2015, Security forces defused an IED next to a police station in Dhamar City.
+
+---
+
+[EVENT: YEM37675]
+Date: 2015-09-19
+Country: Yemen | Location: Al Maqna
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 50
+Sources: Bellingcat; Mwatana; Sahafa Yemen; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 19 September 2015, Saudi-led coalition airstrikes targeted a market in a village of Al-Maqna area in Monabbih border district, northwestern Yemen, killing between 50 and 72 citizens and injuring dozens of others. The attack also hit a health unit nearby and partially destroyed it. A medical workers was killed by shrapnel to his neck. The unit opened several months after the attack.
+
+---
+
+[EVENT: YEM37669]
+Date: 2015-09-21
+Country: Yemen | Location: Safir
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Al Montasaf; Aviation Week Network; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 21 September 2015, UAE Patriot batteries intercepted 1 Houthi-Saleh OTR-21 Tochka guided rocket that was targeting the Saudi-led coalition military base in Safir (Marib, Marib).
+
+---
+
+[EVENT: YEM37897]
+Date: 2015-09-28
+Country: Yemen | Location: Wahijah
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 131
+Sources: UNOCHA; Yemen Data Project; Yemen News Agency SABA [Local partner-National]
+
+DESCRIPTION:
+A Saudi-led coalition airstrike struck a wedding near the city of Al Mukha, Taizz governorate. More than 131 people were killed.
+
+---
+
+[EVENT: YEM37929]
+Date: 2015-09-29
+Country: Yemen | Location: Ash Shuqayrah
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Press [Local partner-National]
+
+DESCRIPTION:
+On 29 September 2015, pro-Houthi forces reportedly acquired control of the whole Al Waziiyah district from pro-Hadi forces. No violence, injuries or fatalities reported.
+
+---
+
+[EVENT: YEM37926]
+Date: 2015-09-29
+Country: Yemen | Location: Khalid Ibn al Waleed Military Camp
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Security measures/movement of forces: On 29 September, following coalition airstrikes that reportedly targeted pro-Houthi troops in Jabal Wahid Abjar, Kirsh area, Al Qabbaytah district, pro-Houthi troops, including tanks and armored divisions, left Khalid Ibn al Waleed military camp in Al Mukha district headed towards Lahij.

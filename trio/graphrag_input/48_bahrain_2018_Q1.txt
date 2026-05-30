@@ -1,0 +1,60 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Bahrain (ISO Code: 48)
+Temporal Period: Year 2018 - Quarter Q1
+Total Events in Chunk: 4 / 4
+==================================================
+
+[EVENT: BHR7949]
+Date: 2018-01-02
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: LuaLua TV [National]
+
+DESCRIPTION:
+On 2 January 2018, police arrested the President of the Islamic Ulama Council, prominent Shiite cleric Mahmoud Al Aali, in Manama for participating in a sit-in in Diraz.
+
+---
+
+[EVENT: BHR231]
+Date: 2018-01-21
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: AFP; Al Arabiya; Xinhua [International]
+
+DESCRIPTION:
+Arrests: The Bahraini police said on January 21 that it had arrested 47 militants and filed charges against 290 other wanted persons, without specifying the dates of the arrests. Authorities said that the arrested had links to Iran and Iran-linked groups throughout the region, and that most of them were part of the Al Ashtar Brigades (Saraya al Ashtar), the Popular Resistance Brigades (Saraya al Muqawama al Shabiya) and the Chosen Brigades (Saraya al Mukhtar). This came as the interior minister said that police forces had arrested a total of 357 people in 2017, during 105 counter-terrorism operations.
+
+---
+
+[EVENT: BHR232]
+Date: 2018-01-21
+Country: Bahrain | Location: Al Diraz
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: Press TV [International]
+
+DESCRIPTION:
+Arrests: The Bahraini police, backed by masked militiamen, arrested Shia cleric Sayed Adnan Sayed Hashim at his house in the village of Diraz, to the west of the capital Manama.
+
+---
+
+[EVENT: BHR10694]
+Date: 2018-01-31
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: ADHRB [National]
+
+DESCRIPTION:
+Other: On 31 January 2018, a Bahraini court held a mass trial sentencing 58 individuals to prison and death sentences. ADHRB claimed that the trial was marred by allegations of torture and due process violations (event coded to Manama) (Capital).

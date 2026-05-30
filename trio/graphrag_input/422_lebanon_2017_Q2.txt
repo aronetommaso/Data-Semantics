@@ -1,0 +1,357 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Lebanon (ISO Code: 422)
+Temporal Period: Year 2017 - Quarter Q2
+Total Events in Chunk: 26 / 26
+==================================================
+
+[EVENT: LBN6428]
+Date: 2017-04-08
+Country: Lebanon | Location: El Qaa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: El Nashra; Lebanon Support [Local partner-Other]
+
+DESCRIPTION:
+On 8 April 2017, in an operation by Lebanese military forces, 25 Syrian refugees were arrested for having illegal papers, in El Qaa of Baalbek district.
+
+---
+
+[EVENT: LBN120]
+Date: 2017-04-11
+Country: Lebanon | Location: Hasbaya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Detonation: Israeli forces threw a number of flare bombs over border Arqoub towns.
+
+---
+
+[EVENT: LBN121]
+Date: 2017-04-12
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Lebanon (2016-2019) [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Non-violent activity: Lebanese President Michel Aoun suspended parliament on Wednesday to prevent it extending its own term for the third time in less than four years.
+
+---
+
+[EVENT: LBN126]
+Date: 2017-04-17
+Country: Lebanon | Location: Sidon
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Detonation: A sonic bomb exploded in Nijasa Street in Sidon behind Falafel Antar restaurant
+
+---
+
+[EVENT: LBN6303]
+Date: 2017-04-20
+Country: Lebanon | Location: Deir al Ahmar
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Daily Star (Lebanon); Lebanon Support [Local partner-Other]
+
+DESCRIPTION:
+On 20 April 2017, in an operation by Lebanese military forces, 25 Syrian refugees were arrested for having illegal papers, in Deir al Ahmar refugee camp of Baalbek district.
+
+---
+
+[EVENT: LBN10661]
+Date: 2017-04-27
+Country: Lebanon | Location: Chebaa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Movement of forces: On 27 April 2017, an Israeli army force of 10 soldiers crossed the technical line in Talet el Chahl area in the outskirts of Chebaa (Hasbaya, Nabatiye) and went 30 meters into the Lebanese side to chase a Lebanese shepherd. They reportedly took 50 goats he owned to the Israeli side of the borders.
+
+---
+
+[EVENT: LBN6701]
+Date: 2017-05-04
+Country: Lebanon | Location: Miniyeh
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Lebanon Support; El Nashra [Local partner-Other]
+
+DESCRIPTION:
+On 4 May 2017, in an operation by Lebanese military forces, 25 Syrian refugees were arrested for having illegal papers, in Miniyeh.
+
+---
+
+[EVENT: LBN154]
+Date: 2017-05-08
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Military Forces of Lebanon (2016-2019) [State forces]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+Detonation: A man hurled a hand grenade that failed to explode during a personal dispute Monday at a Lebanese army checkpoint at the entrance of the Ain el-Hilweh. A bomb technician defused the grenade.
+
+---
+
+[EVENT: LBN6210]
+Date: 2017-05-08
+Country: Lebanon | Location: Bent Jbeil
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Daily Star (Lebanon); Lebanon Support [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 8 May 2017, a Syrian child was badly injured by an old landmine while working in a tobacco field, the landmine was leftover by an unknown military force, in Bent Jbeil.
+
+---
+
+[EVENT: LBN155]
+Date: 2017-05-11
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Property destruction: On May 11 2017, an Al-Jadeed live coverage van was set on fire by unidentified assailants at its headquarters in Beirut at dawn. This is the 4th attack on Al Jadeed in under 6 months.
+
+---
+
+[EVENT: LBN159]
+Date: 2017-05-12
+Country: Lebanon | Location: Maaraboun
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Lebanon (2016-2019) [State forces]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+Hizbullah handed over Friday to the Lebanese army its military posts in the outskirts of the eastern border towns of Tufail, Brital, Ham and Maaraboun. The move comes a day after Hizbullah leader Sayyed Hassan Nasrallah declared that the group is dismantling its military posts along Lebanon's eastern border with Syria.
+
+---
+
+[EVENT: LBN157]
+Date: 2017-05-12
+Country: Lebanon | Location: Braytal
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Lebanon (2016-2019) [State forces]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+Hizbullah handed over Friday to the Lebanese army its military posts in the outskirts of the eastern border towns of Tufail, Brital, Ham and Maaraboun. The move comes a day after Hizbullah leader Sayyed Hassan Nasrallah declared that the group is dismantling its military posts along Lebanon's eastern border with Syria.
+
+---
+
+[EVENT: LBN160]
+Date: 2017-05-12
+Country: Lebanon | Location: Tfail
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Lebanon (2016-2019) [State forces]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+Hizbullah handed over Friday to the Lebanese army its military posts in the outskirts of the eastern border towns of Tufail, Brital, Ham and Maaraboun. The move comes a day after Hizbullah leader Sayyed Hassan Nasrallah declared that the group is dismantling its military posts along Lebanon's eastern border with Syria.
+
+---
+
+[EVENT: LBN158]
+Date: 2017-05-12
+Country: Lebanon | Location: Ham
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Lebanon (2016-2019) [State forces]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+Hizbullah handed over Friday to the Lebanese army its military posts in the outskirts of the eastern border towns of Tufail, Brital, Ham and Maaraboun. The move comes a day after Hizbullah leader Sayyed Hassan Nasrallah declared that the group is dismantling its military posts along Lebanon's eastern border with Syria.
+
+---
+
+[EVENT: LBN6429]
+Date: 2017-05-15
+Country: Lebanon | Location: El Qaa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Daily Star (Lebanon); Lebanon Support [Local partner-Other]
+
+DESCRIPTION:
+On 15 May 2017, in an operation by Lebanese military forces, 37 Syrian refugees were arrested for having illegal papers, in El Qaa.
+
+---
+
+[EVENT: LBN6908]
+Date: 2017-05-16
+Country: Lebanon | Location: Tripoli
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Lebanon Support; Daily Star (Lebanon) [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 16 May 2017, a Syrian construction worker was injured by an old unexploded shell while working in Tripoli, the shell was leftover by an unknown military force.
+
+---
+
+[EVENT: LBN6631]
+Date: 2017-05-18
+Country: Lebanon | Location: Khirbet Daoud
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: El Nashra; Lebanon Support [Local partner-Other]
+
+DESCRIPTION:
+On 18 May 2017, in an operation by Lebanese military forces, 45 Syrian refugees were arrested for having illegal papers, in Khirbet Daoud of Aakkar.
+
+---
+
+[EVENT: LBN164]
+Date: 2017-05-20
+Country: Lebanon | Location: Darb es Sim
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Detonation: A hand grenade went-off Saturday morning near the military checkpoint of the Palestinian National Security Forces in the area of Darb al-Sim at the southern end of Ain el-Helweh refugee camp, without causing any injuries.
+
+---
+
+[EVENT: LBN167]
+Date: 2017-05-22
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Detonation: A bomb exploded last night in Ein Helwe refugee camp. The explosion resulted from a bomb that was tossed in Arab Ghweir northern street. However, no casualties have been reported.
+
+---
+
+[EVENT: LBN166]
+Date: 2017-05-22
+Country: Lebanon | Location: Aita ech Chaab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Movement of forces: An Israeli reconnaissance drone on Monday crashed on the outskirts of the Aita al-Shaab village in the southern district of Bint Jbeil.
+
+---
+
+[EVENT: LBN168]
+Date: 2017-05-24
+Country: Lebanon | Location: Ras Baalbek
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+Detonation: Two hand grenades exploded Wednesday evening inside a garbage container in the Bekaa border town of Ras Baalbek, causing no casualties.
+
+---
+
+[EVENT: LBN5948]
+Date: 2017-05-31
+Country: Lebanon | Location: Aita ech Chaab
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Lebanon Support; National News Agency Lebanon [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 31 May 2017, 1 Lebanese civilian was injured when an old Israeli landmine exploded under him, in Aita Ech Chaab.
+
+---
+
+[EVENT: LBN181]
+Date: 2017-06-07
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Detonation: Abombhas launched after midnight inside the Palestinian refugee camp of Ain-el-Hilwe, but caused nocasualties.
+
+---
+
+[EVENT: LBN182]
+Date: 2017-06-09
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Detonation: A bomb was launched inside Ain El Hilweh camp, with nocasualtiesreported.
+
+---
+
+[EVENT: LBN185]
+Date: 2017-06-11
+Country: Lebanon | Location: Aarsal
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Asharq Al Awsat [Regional]
+
+DESCRIPTION:
+Displacement: Over 50 Syrian families, about 400 people, residing in Arsal have decided to return to Syria. Safe passage was provided to the refugees by the Lebanese army.
+
+---
+
+[EVENT: LBN192]
+Date: 2017-06-30
+Country: Lebanon | Location: Aarsal
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Naharnet; Xinhua [National-International]
+
+DESCRIPTION:
+Arrests: Large scale security raids in Arsal arrest 355 Syrians.

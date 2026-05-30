@@ -1,0 +1,3081 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iraq (ISO Code: 368)
+Temporal Period: Year 2022 - Quarter Q2
+Total Events in Chunk: 225 / 225
+==================================================
+
+[EVENT: IRQ54845]
+Date: 2022-04-02
+Country: Iraq | Location: Mintaqat Jalabi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 2 April 2022, IS militants shot at and destroyed a Rapid Reaction Force (emergency police) thermal camera in Mintaqat Jalabi (Al Muqdadiya, Diyala).
+
+---
+
+[EVENT: IRQ37065]
+Date: 2022-04-02
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: NRT News; Rudaw [National]
+
+DESCRIPTION:
+Other: On 2 April 2022, 162 IDPs from 34 families 'voluntarily' returned from the Peshmerga administered camps of Hassan Sham and Khazer to to their homes in Ninewa province. The families had been displaced by IS militants. Coded as provincial capital Mosul city.
+
+---
+
+[EVENT: IRQ37043]
+Date: 2022-04-02
+Country: Iraq | Location: Haditha
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Defusal: On 2 April 2022, the Popular Mobilization Forces discovered and defused an IS roadside IED in the desert of Haditha district, Anbar. The IED posed an imminent threat to Popular Mobilization Forces vehicles conducting security operations in the area. A Popular Mobilization Forces spokesperson stated IS militants in the Haditha area disguise themselves as shepherds to avoid detection.
+
+---
+
+[EVENT: IRQ37089]
+Date: 2022-04-02
+Country: Iraq | Location: Sinjar
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Around 2 April 2022 (as reported), Iraq army forces have set up 10 new bases/outposts in Sinjar district of Ninewa, in the border areas with Rojava region of Syria.
+
+---
+
+[EVENT: IRQ37064]
+Date: 2022-04-03
+Country: Iraq | Location: Ramadi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Property destruction: On 3 April 2022, Iraqi army discovered and destroyed an IS hideout containing small quantities of weapons in the Dabaa area of Anbar province. Coded as provincial capital Ramadi city.
+
+---
+
+[EVENT: IRQ37029]
+Date: 2022-04-03
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security measures: On 3 April 2022, Anbar police deployed a large number of undercover police in civilian clothing in the markets of Fallujah city, Anbar. The deployment is intended to protect the market during the Muslim Holy month of Ramadan and to prevent food sellers from speculating with food prices. Iraq is experiencing a period of high food price inflation due to disruptioned global food supply chains and a weak Iraqi Dinar against the US Dollar.
+
+---
+
+[EVENT: IRQ37026]
+Date: 2022-04-04
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: GardaWorld [Other]
+
+DESCRIPTION:
+Security measures: On 4 April 2022, the Iraqi Prime Minister announced nationwide security measures to protect civilians against IS attacks during the Muslim holy month of Ramadan. The measures include patrols and checkpoints near public and religious places. Coded as national capital Baghdad city.
+
+---
+
+[EVENT: IRQ37037]
+Date: 2022-04-04
+Country: Iraq | Location: Najaf
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Mass grave: On 4 April 2022, Iraqi police discovered a mass grave in a construction site on the southern Hawally road near Radwaniya on the southern outskirts of Najaf city. The grave contained an unknown number of victims executed by the Saddam regime during the 1991 Iraqi Uprising.
+
+---
+
+[EVENT: IRQ37030]
+Date: 2022-04-04
+Country: Iraq | Location: Baghdad - Karkh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Security measures: On 4 April 2022, Iraqi police forces deployed reinforcements to public places and religious sites in Baghdad - Karkh. The deployment is a security measures intended to protect civilians during the Muslim Holy month of Ramadan.
+
+---
+
+[EVENT: IRQ37031]
+Date: 2022-04-04
+Country: Iraq | Location: Baghdad - Rusafa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Security measures: On 4 April 2022, Iraqi police forces deployed reinforcements to public places and religious sites in Baghdad - Rusafa. The deployment is a security measures intended to protect civilians during the Muslim Holy month of Ramadan.
+
+---
+
+[EVENT: IRQ54846]
+Date: 2022-04-05
+Country: Iraq | Location: Qaryat Abu Khanazir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 5 April 2022, IS militants shot at and destroyed a rapid reaction force (emergency police) thermal camera in Qaryat Abu Khanazir village (Al Muqdadiya, Diyala).
+
+---
+
+[EVENT: IRQ37032]
+Date: 2022-04-05
+Country: Iraq | Location: Lake Hamrin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Security measures: On 5 April 2022, Iraqi police forces banned the use of motorcycles in the Hamrin Basin area and surrounding villages, Diyala. The ban is in effect from 6 evening to 6 in the morning. The ban is motivated by unspecified security reason. Coded as lake Hamrin.
+
+---
+
+[EVENT: IRQ37040]
+Date: 2022-04-05
+Country: Iraq | Location: Haditha
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 5 April 2022, the Popular Mobilization Forces discovered and destroyed an unspecified number of IS hideouts and tunnels in the Haditha area of the western Anbar desert. The hideouts were used for storage, hiding, and abductions. The hideouts and tunnels were discovered during a large operation intended to degrade IS abduction capabilities in the desert areas of Haditha district extending towards Ninewa province.
+
+---
+
+[EVENT: IRQ37041]
+Date: 2022-04-05
+Country: Iraq | Location: Buhriz
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Weapons seizure: On 5 April 2022, an Iraqi joint police force discovered and seized 5 Strela MANPADS in the orchards of Buhriz district, Diyala. Iraqi police sources stated the MANPADS constituted an imminent threat by IS militants and Iraqi police forces launched a follow-up search and destroy operation to find other IS hideouts in the same area.
+
+---
+
+[EVENT: IRQ37062]
+Date: 2022-04-06
+Country: Iraq | Location: Agargof
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) Iraqi National Intelligence Service [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Property destruction: On 6 April 2022, Iraqi national intelligence discovered and destroyed an IS hideout in the Agargof district of Baghdad. The hideout contained bomb making equipment.
+
+---
+
+[EVENT: IRQ37027]
+Date: 2022-04-06
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Security measures: On 6 April 2022, the Popular Mobilization Forces doubled the size of its Ramadan response task force from 750 to 1,500 fighters and began deploying 1,000 of them in Diyala province. The task force is intended to protect civilians against attacks during the Muslim Holy month of Ramadan. Coded as provincial capital Baquba city.
+
+---
+
+[EVENT: IRQ37056]
+Date: 2022-04-07
+Country: Iraq | Location: Hit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 7 April 2022, the Popular Mobilization Forces discovered and destroyed an IS tunnel in Hit district, Anbar.
+
+---
+
+[EVENT: IRQ37033]
+Date: 2022-04-07
+Country: Iraq | Location: Nassriya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security measures: On 7 April 2022, Iraqi police announced new security measures in Thi Qar province. The security measures include reinforcing religious and tourist sites and random stop-and-searches. The measures are intended to protect civilians during the Muslim Holy month of Ramadan. Province-wide event coded as provincial capital Nassriya city.
+
+---
+
+[EVENT: IRQ37034]
+Date: 2022-04-07
+Country: Iraq | Location: Qaryat al Abbarah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Security measures: On 7 April 2022, Iraqi police forces completed the first phase of a security project in Qaryat al Abbarah district, Diyala. Police forces established a 15 km perimeter and installed thermal cameras in 12 villages within the district. The cameras are intended to provide advance warning if IS hit-and-run attacks.
+
+---
+
+[EVENT: IRQ37060]
+Date: 2022-04-07
+Country: Iraq | Location: Ain Assad Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Interception: On 7 April 2022, overnight CRAM air-defense systems shot down 2 rockets and 2 drones approaching the Ain Assad Air Base in Anbar.
+
+---
+
+[EVENT: IRQ37028]
+Date: 2022-04-07
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security measures: On 7 April 2022, the 1st Brigade (Badr Organization and Liwa al Imam Muhammad al Jawad) deployed 'unprecedented' security measures in Fallujah district, Anbar. The deployment covers Fallujah city, Amiriyah sub-district of Fallujah, and Lake Razazza. The deployment is intended to protect civilians and prevent IS infiltration attempts using waterways.
+
+---
+
+[EVENT: IRQ54801]
+Date: 2022-04-08
+Country: Iraq | Location: Qaryat al Abayichi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 8 April 2022, IS snipers destroyed an army thermal camera in Qaryat al Abayichi village (Balad, Salah Al Din).
+
+---
+
+[EVENT: IRQ54837]
+Date: 2022-04-08
+Country: Iraq | Location: Nahiyat ar Riyad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 8 April 2022, IS militants shot at and destroyed a police thermal camera in Albu Sayf village west of Nahiyat ar Riyad (Al Hawiga, Kirkuk).
+
+---
+
+[EVENT: IRQ54839]
+Date: 2022-04-09
+Country: Iraq | Location: Daquq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 9 April 2022, IS militants shot at and destroyed a police thermal camera in Banchagh village in Daquq district (Kirkuk).
+
+---
+
+[EVENT: IRQ37135]
+Date: 2022-04-09
+Country: Iraq | Location: As Safrah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security measures: On 9 April 2022, the Popular and Tribal Mobilization Forces announced a two-day state of alert in the Saftra triangle area between Diyala and Salah al Din province. The state of alert is a temporary preventative measure intended to prevent IS attacks taking advantage of dust storms. Coded as As Safrah district, Diyala.
+
+---
+
+[EVENT: IRQ54844]
+Date: 2022-04-10
+Country: Iraq | Location: Qaryat Abd al Hamid
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 10 April 2022, IS militants shot at and destroyed a rapid reaction force (SWAT) thermal camera in Qaryat Abd al Hamid village (Baquba, Diyala).
+
+---
+
+[EVENT: IRQ37128]
+Date: 2022-04-10
+Country: Iraq | Location: Baghdad - Karadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 10 April 2022, Iraqi police forces conducted an extensive deployment into Baghdad - Karadah. Security forces also closed down cafes.
+
+---
+
+[EVENT: IRQ37219]
+Date: 2022-04-10
+Country: Iraq | Location: Penjwin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: ROJ News [Regional]
+
+DESCRIPTION:
+Explosive remnants of war: On 10 April 2022, a landmine from the Iraq-Iran war detonated, maiming a civilian in Kuna village in the Panjwin district (coded to district center Penjwin) (Al Sulaymaniyah). There were no fatalities.
+
+---
+
+[EVENT: IRQ37145]
+Date: 2022-04-10
+Country: Iraq | Location: Qaryat Kubbat Jadah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Other: On 10 April 2022, 25 IS families arrived from the Hole Camp in Syria in the Jada camp in Qaryat Kubbat Jadah, Ninewa. The families will be transferred to civilian areas after security checks. Most of them are women and children.
+
+---
+
+[EVENT: IRQ37186]
+Date: 2022-04-11
+Country: Iraq | Location: Hilla
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Security measures: On 11 April 2022, Babil police ordered the closing down off all Hussayniyas (religious sites) and offices affiliated with the movement of Shiite Cleric Mahmoud Al Sharkhi in Babil province. Coded as provincial capital Hilla city.
+
+---
+
+[EVENT: IRQ37146]
+Date: 2022-04-11
+Country: Iraq | Location: Imam Ways
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Other: On 11 April 2022, over 30 displaced families returned to Sayid Adnan village in the Imam Ways basin, Diyala. The civilians had been displaced by terrorism in 2014. They are the first group of civilians who have returned to Imam Ways, according to the Popular Mobilization Forces.
+
+---
+
+[EVENT: IRQ37221]
+Date: 2022-04-11
+Country: Iraq | Location: Kut
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Security measures: On 11 April 2022, the Wassit provincial government instructed police forces to prevent the entry of the followers of Sarkhi in to religious shrines and mosques in Wassit province adding that security forces will arrest all Sarkhi preachers who incite violence against religious sites in Iraq. The governor stated Sarkhi followers only have 3 sites in Wassit province adding security forces will prevent entry into these locations. The governor also called on Iraqis not to associate with anyone from the followers of Sarkhi. Coded as provincial capital Kut city.
+
+---
+
+[EVENT: IRQ37141]
+Date: 2022-04-11
+Country: Iraq | Location: Hilla
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Property destruction: On 11 April 2022, an unknown militant damaged symbols and shrines of Ahl Al Bayt (descendants of the Muslim prophet) in an unspecified location in Babil province. Local police arrested the militant. The extent and nature of the damages inflicted is unspecified. Coded as provincial capital Hilla city.
+
+---
+
+[EVENT: IRQ37140]
+Date: 2022-04-12
+Country: Iraq | Location: Al Qasim
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Property destruction: On 12 April 2022, Iraqi police demolished a mosque of the Sarkhi Imam in Al Qasim district, Babil.
+
+---
+
+[EVENT: IRQ37222]
+Date: 2022-04-12
+Country: Iraq | Location: Ramadi
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Security measures: On 12 April 2022, police forces deployed additional patrols along international highways and smaller roads in Anbar province. The deployments are a temporary security measure intended to prevent IS militants from taking advantage of dust and sand storms to conduct attacks. Coded as provincial capital Ramadi city.
+
+---
+
+[EVENT: IRQ37134]
+Date: 2022-04-12
+Country: Iraq | Location: Ain Assad Air Base
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Security measures: On 12 April 2022, Iraqi army implemented new security measures including a 4 KM exclusion zone around the Ain Assad Air Base in Anbar province. The measures are in response to expected attacks in the coming days.
+
+---
+
+[EVENT: IRQ37185]
+Date: 2022-04-12
+Country: Iraq | Location: Hilla
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Other: On 12 April 2022, Babil police ordered the closure of all offices and Hussainiyas affiliated with the Sharkhi preacher who called for the demolition of the Shrines of Ahl al Bayt (descendants of the prophet) in Babil province. Coded as provincial capital Hilla city.
+
+---
+
+[EVENT: IRQ37127]
+Date: 2022-04-12
+Country: Iraq | Location: Al Majd
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+On 12 April 2022, Iraqi police forces arrested a preacher who is a follower of the Sarkhi Imam in Al Majd district, Muthanna. The preacher had given a sermon calling for the demolition of certain Shrines and triggered demonstrations in various parts of Iraq.
+
+---
+
+[EVENT: IRQ37142]
+Date: 2022-04-12
+Country: Iraq | Location: As Samawah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Property destruction: On 12 April 2022, unknown persons set fire to a Mosque and Hussainiya belonging to the followers of the Sarkhi cleric in As Samawah city.
+
+---
+
+[EVENT: IRQ54813]
+Date: 2022-04-13
+Country: Iraq | Location: Nahiyat ar Riyad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 13 April 2022, IS militants shot at and destroyed a police thermal camera in Salam village in Nahiyat ar Riyad sub-district (Al Hawiga, Kirkuk).
+
+---
+
+[EVENT: IRQ37147]
+Date: 2022-04-13
+Country: Iraq | Location: Najaf
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Other: On 13 April 2022, Najaf Police Command issued arrest warrants against all leaders affiliated with Sarkhi in Najaf province. Coded as provincial capital Najaf city.
+
+---
+
+[EVENT: IRQ37143]
+Date: 2022-04-13
+Country: Iraq | Location: Hindyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Property destruction: On 13 April 2022, unknown arsonists set fire to a mosque belonging to the cleric Mahmoud al Sarkhi in the Hindyah district of Kerbala.
+
+---
+
+[EVENT: IRQ37138]
+Date: 2022-04-13
+Country: Iraq | Location: Shay Valley
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Mirbad; National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 13 April 2022, Iraqi army, Counter-Terrorism Service, and Popular Mobilization Forces with air support destroyed 3 IS hideouts and 2 tunnels during two days of Operation Iron Hammer covering Shay Valley and Wadi Zaghaytun in Kirkuk province. 5 hideouts and 3 tunnels divided across 2 events.
+
+---
+
+[EVENT: IRQ37220]
+Date: 2022-04-13
+Country: Iraq | Location: Soran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Kurdistan24 [National]
+
+DESCRIPTION:
+Explosive remnants of war: On 13 April 2022, a landmine from the Iraq-Iran war detonated injuring a farmer in Speendarok village, Soran Independent Administration, Erbil province. Coded as Soran district.
+
+---
+
+[EVENT: IRQ37136]
+Date: 2022-04-14
+Country: Iraq | Location: Baghdad International Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Defusal: On 14 April 2022, Iraqi police forces discovered and defused a roadside IED on the road connecting Baghdad International Airport to the Green Zone in Baghdad city.
+
+---
+
+[EVENT: IRQ37144]
+Date: 2022-04-14
+Country: Iraq | Location: Mosul - Al-Rabee
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 14 April 2022, unknown militants cut the main optical cable providing internet to western Ninewa in the Saha neighborhood of Mosul - Al-Rabee. Internet outages occurred in Telafr, Sinjar, Rabia, and Zammar districts, Ninewa. 8 Internet Service Providers were affected.
+
+---
+
+[EVENT: IRQ37139]
+Date: 2022-04-14
+Country: Iraq | Location: Shay Valley
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Mirbad; National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 14 April 2022, Iraqi army, Counter-Terrorism Service, and Popular Mobilization Forces with air support destroyed 2 IS hideouts and 1 tunnel during two days of Operation Iron Hammer covering Shay Valley and Wadi Zaghaytun in Kirkuk province. 5 hideouts and 3 tunnels divided across 2 events.
+
+---
+
+[EVENT: IRQ54815]
+Date: 2022-04-15
+Country: Iraq | Location: Nahiyat ar Riyad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 15 April 2022, IS snipers destroyed a police thermal camera in Hamran village of Nahiyat ar Riyad (Al Hawiga, Kirkuk).
+
+---
+
+[EVENT: IRQ37383]
+Date: 2022-04-16
+Country: Iraq | Location: Haditha
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 16 April 2022, the Popular Mobilization Forces discovered and destroyed an IS hideout in the Jazeerat al Shamiya area of Haditha district, Anbar. The hideout contained an unspecified quantity of weapons and was used to support IS hit-and-run attacks.
+
+---
+
+[EVENT: IRQ54776]
+Date: 2022-04-16
+Country: Iraq | Location: Arab Koy
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 16 April 2022, IS snipers destroyed an army thermal camera in Arab Koy village (Daquq, Kirkuk).
+
+---
+
+[EVENT: IRQ37385]
+Date: 2022-04-16
+Country: Iraq | Location: Shay Valley
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Property destruction: On 16 April 2022, Iraqi Federal Police discovered and destroyed 3 IS hideouts in Kikrkuk province. The hideouts were discovered during the Iron Hammer search-and-destroy operation covering Shay Valley and Wadi Zaghaytun in Kirkuk province. The hideouts contained small quantities of weapons and other war materiel.
+
+---
+
+[EVENT: IRQ37375]
+Date: 2022-04-16
+Country: Iraq | Location: Baghdad - Karadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Security measures: On 16 April 2022, Iraqi security forces closed streets in the Saaideen area of Baghdad - Karadah. The roads were closed as part of security measures anticipating potential, but unspecified, attacks.
+
+---
+
+[EVENT: IRQ37367]
+Date: 2022-04-16
+Country: Iraq | Location: Tikrit
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Movement of forces: On 16 April 2022, US force conducted an airborne operation with rotary-wing aircraft targeting IS hideouts in an unspecified mountainous desert area in Salah Al Din province near the Anbar provincial border. It is unclear if any clashes took place. Coded as Salah al Din provincial capital Tikrit city.
+
+---
+
+[EVENT: IRQ37553]
+Date: 2022-04-17
+Country: Iraq | Location: Dahuk
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) Asayish [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Rudaw; TRT Haber [National-Regional]
+
+DESCRIPTION:
+Weapons seizure: On 17 April 2022, Asayish forces seized a large amount of explosives and weapons belonging to PKK in an operation they carried out in Duhok (Dahuk) province. The seized weapons included one ton of explosives, 10 anti-tank missiles, 1200 gas masks and 23 engines for unmanned aerial vehicles.
+
+---
+
+[EVENT: IRQ37372]
+Date: 2022-04-17
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security measures: On 17 April 2022, the Popular Mobilization Forces began implementing security measures to protect power transmission lines against IS attacks in Diyala province. When fully implemented, the measures will cover 10 districts or sectors under the Popular Mobilization Forces' area of responsibility in Diyala province. The Popular Mobilization Forces plans to increase its force posture by 50%. Provincewide event coded as provincial capital Baquba city.
+
+---
+
+[EVENT: IRQ37384]
+Date: 2022-04-17
+Country: Iraq | Location: Kirkuk
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Property destruction: On 17 April 2022, Iraqi Federal Police discovered and destroyed an IS hideout containing a small quantity of weapons in Wadi Muzilah valley in Kirkuk. The hideout was discovered during operation Iron Hammer. Coded as provincial capital Kirkuk city.
+
+---
+
+[EVENT: IRQ37373]
+Date: 2022-04-17
+Country: Iraq | Location: Amadiya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Beyaz Gazete; Mezopotamya Agency; TRT Haber [Regional]
+
+DESCRIPTION:
+Movement of forces: On 17 April 2022, overnight, Turkish Military forces launched a major operation named 'Claw-Lock' against PKK forces in Northern Iraq. The operation consists of a ground offensive with the participation of high number of troops (both regular and special forces) in Metina and Zap regions of Al Amadiya district of Duhok, and the Ava Sin region (Al Zibar, Erbil), in conjunction with heavy airstrikes and artillery shellings targeting the PKK targets in these areas. Zap region (Al Amadiya district) coded as the location, as it is the central area of the operation.
+
+---
+
+[EVENT: IRQ37387]
+Date: 2022-04-17
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Ashab Al Kahf; National Iraqi News Agency [Other-National]
+
+DESCRIPTION:
+Other: On 17 April 2022, 70 Christian families returned to Mosul city. The families had been displaced in 2017.
+
+---
+
+[EVENT: IRQ37382]
+Date: 2022-04-18
+Country: Iraq | Location: Haditha
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 18 April 2022, the Popular Mobilization Forces 3rd Brigade (Badr Organization) with Iraqi Army support discovered and destroyed an IS hideout containing small quantities of weapons in an unspecified desert location in Haditha district, Anbar.
+
+---
+
+[EVENT: IRQ54777]
+Date: 2022-04-18
+Country: Iraq | Location: Qaryat al Abayichi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 18 April 2022, IS militants shot at and destroyed an army thermal camera in Qaryat al Abayichi village (Balad, Salah Al Din).
+
+---
+
+[EVENT: IRQ37386]
+Date: 2022-04-18
+Country: Iraq | Location: Jabal Matin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Displacement: On 18 April 2022, dozens of families were displaced from unspecified villages near the Jabal Kuzar summit on the Jabal Matin mountain range in Amadiya district, Duhok province. The families fled to the district capital in response to Turkish shelling of Jabal Matin.
+
+---
+
+[EVENT: IRQ37371]
+Date: 2022-04-18
+Country: Iraq | Location: Sheladiz
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Peshmerga [State forces]
+Fatalities: 0
+Sources: ANF News; Rudaw [National-International]
+
+DESCRIPTION:
+Movement of forces: On 18 April 2022, Peshmerga forces deployed high number of troops and armored vehicles to Sheladiz town of Al Amadiya district, Duhok, supposedly aiming to protect civilians from the ongoing clashes between Turkish forces and PKK militants in the region, which intensified due to Turkey's new 'Claw-Lock' operation. Pro-PKK sources claimed Peshmerga movement is in cooperation with Turkish forces, but this was not confirmed by any other sources.
+
+---
+
+[EVENT: IRQ37378]
+Date: 2022-04-18
+Country: Iraq | Location: Kirkuk
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Defusal: On 18 April 2022, the Popular Mobilization Forces 16th Brigade (Turkmen Brigades and Badr Organization) discovered and defused and unspecified number of IED intended to target security forces in in unspecified area in southwestern Kirkuk province. The IEDs were discovered during a sweep operation in the area. Coded as provincial capital Kirkuk city
+
+---
+
+[EVENT: IRQ37368]
+Date: 2022-04-18
+Country: Iraq | Location: Al Waleed Border Crossing
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Ashab Al Kahf; National Iraqi News Agency [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 18 April 2022, Russia Today claimed the US moved 60 tankers, 40 trucks, and 8 armored vehicles from Khrab Jir Airbase in Syria to Iraqi through the Al Waleed Border Crossing between Iraqi and Syria in Hasakeh province. The final destination of the vehicles was no specified.
+
+---
+
+[EVENT: IRQ37380]
+Date: 2022-04-19
+Country: Iraq | Location: Baghdad - 9 Nissan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On 19 April 2022, Iraqi security forces discovered and defused an IED placed in front of a civilian residence in the Amin neighborhood of Baghdad - 9 Nissan.
+
+---
+
+[EVENT: IRQ37377]
+Date: 2022-04-19
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Security measures: On 19 April 2022, Iraqi security forces entered into alert level C in all provinces in the country. Alert level C will be in place for 72 hours and is intended to protect civilians during the last days of Ramadan ahead of the Eid Al Fitr. Nationwide event coded as Baghdad city.
+
+---
+
+[EVENT: IRQ37379]
+Date: 2022-04-20
+Country: Iraq | Location: Amadiya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Takvim; TRT Haber [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 20 April 2022 (as reported), Turkish army forces seized a number of weapons allegedly belonging to PKK in the 'Claw-Lock' operation area, presumed to be the Zap region (Al Amadiya district) of Duhok. The weapons seized included 11 assault weapons, 3 sniper weapons, 3 heavy machine guns, one anti-aircraft gun, 69 hand grenades, 2,500 rounds of ammunition and at least 49 IEDs.
+
+---
+
+[EVENT: IRQ37374]
+Date: 2022-04-20
+Country: Iraq | Location: Shatra
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Security measures: On 20 April 2022, Iraqi security forces imposed a comprehensive curfew in northern Thi Qar province and deployed force in Shatra district, Thi Qar. The security measures were in response to a tribal clash in Shatra city on 19 April.
+
+---
+
+[EVENT: IRQ54819]
+Date: 2022-04-20
+Country: Iraq | Location: Al Azim
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 20 April 2022, IS militants shot at and destroyed a Maghawir police thermal camera south of Al Azim area (Al Khalis, Diyala).
+
+---
+
+[EVENT: IRQ37376]
+Date: 2022-04-20
+Country: Iraq | Location: Sadun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Security measures: On 20 April 2022, Iraqi security forces established a security cordon around Sadun village in the Shatra district of Thi Qar. The security cordon was erected in response to tribal clashes in the district the day before.
+
+---
+
+[EVENT: IRQ37370]
+Date: 2022-04-20
+Country: Iraq | Location: Shatra
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Counter-Terrorism Service [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Movement of forces: On 20 April 2022, a unit from the Iraqi Counter-Terrorism Service arrived in Shatra district, Thi Qar. The force intends to arrest tribal militants and impose security measures. The deployment is in response to tribal clashes in the district.
+
+---
+
+[EVENT: IRQ54850]
+Date: 2022-04-20
+Country: Iraq | Location: Rashad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: TMF: Tribal Mobilization Forces [Identity militia]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 20 April 2022, IS militants shot at and destroyed a TMF thermal camera in Debaa village in Rashad subdistrict (Daquq, Kirkuk).
+
+---
+
+[EVENT: IRQ54820]
+Date: 2022-04-21
+Country: Iraq | Location: Daquq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 21 April 2022, IS militants shot at and destroyed a police thermal camera in Khasha village in Daquq district (Kirkuk).
+
+---
+
+[EVENT: IRQ37369]
+Date: 2022-04-21
+Country: Iraq | Location: Shatra
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Movement of forces: On 21 April 2022, an Iraqi army unit moved from Baghdad to outskirts of Shatra city, Thi Qar. The movement was due to tribal clashes in Shatra.
+
+---
+
+[EVENT: IRQ54851]
+Date: 2022-04-21
+Country: Iraq | Location: At Tarmiyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: TMF: Tribal Mobilization Forces [Identity militia]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 21 April 2022, IS militants destroyed unspecified properties belonging to senior TMF members in Al Quseir area near At Tarmiyah town (Al Kadhmiyah, Baghdad), using unspecified means.
+
+---
+
+[EVENT: IRQ46674]
+Date: 2022-04-21
+Country: Iraq | Location: Ciloye Bicuk
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: A Haber [Regional]
+
+DESCRIPTION:
+Around 21 April 2022 (as reported), Turkish army forces established new bases in the Ciloye Bicuk area in Zap region (Al Amadiya district) of Duhok, as part of the ongoing 'Claw-Lock' operation.
+
+---
+
+[EVENT: IRQ46675]
+Date: 2022-04-21
+Country: Iraq | Location: Koordine
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: A Haber [Regional]
+
+DESCRIPTION:
+Around 21 April 2022 (as reported), Turkish army forces established new bases in the Koordine area in Zap region (Al Amadiya district) of Duhok, as part of the ongoing 'Claw-Lock' operation.
+
+---
+
+[EVENT: IRQ46673]
+Date: 2022-04-21
+Country: Iraq | Location: Karker
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: A Haber [Regional]
+
+DESCRIPTION:
+Around 21 April 2022 (as reported), Turkish army forces established new bases in the Karker area in Zap region (Al Amadiya district) of Duhok, as part of the ongoing 'Claw-Lock' operation.
+
+---
+
+[EVENT: IRQ37381]
+Date: 2022-04-21
+Country: Iraq | Location: Amadiya
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: A Haber [Regional]
+
+DESCRIPTION:
+Around 21 April 2022 (as reported), Turkish army forces established new bases in Rubar, Cehennem, Sahin and Petrut hills in Zap region (Al Amadiya district) of Duhok, as part of the ongoing 'Claw-Lock' operation.
+
+---
+
+[EVENT: IRQ37227]
+Date: 2022-04-22
+Country: Iraq | Location: Shatra
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Unidentified Tribal Militia (Iraq) [Identity militia]
+Actor2: Unidentified Tribal Militia (Iraq) [Identity militia]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+On 22 April 2022, two unidentified tribal militias agreed to a ceasefire in Shatra district, Thi Qar. The ceasefire came after 2 days of clashes on 19 and 20 April. The agreement allows for the security forces to conduct disarmament operations in the district.
+
+---
+
+[EVENT: IRQ37388]
+Date: 2022-04-22
+Country: Iraq | Location: Al Shalamijah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 2
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Explosive remnants of war: On 22 April 2022, n missile from the Iran-Iraq war detonated killing 2 civilians in the Al Shalamijah area of Basrah province. The missile detonated when two civilians attempted to disarm it.
+
+---
+
+[EVENT: IRQ37550]
+Date: 2022-04-23
+Country: Iraq | Location: Seedan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Sozcu [Regional]
+
+DESCRIPTION:
+Defusal: Around 23 April 2022 (from 17 - 23 April), Turkish army forces discovered and disabled a total of 137 IEDs planted by PKK militants in Sida (Seedan) region of Al Amadiya district, Duhok.
+
+---
+
+[EVENT: IRQ37532]
+Date: 2022-04-23
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: YBS: Sinjar Resistance Units [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+On 23 April 2022, Iraqi Army raided a Sinjar Resistance Units (YBS) headquarters in an unspecified location in northern Iraq. There were no clashes. The army arrested an unspecified number of YBS fighters, including foreigners, and seized weapons. Coded as Mosul city, Ninewa
+
+---
+
+[EVENT: IRQ37545]
+Date: 2022-04-23
+Country: Iraq | Location: Qaryat al Abbarah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Security measures: On 23 April 2022, Iraqi police forces completed the construction of a new security fence equipped with cameras to secure 20 villages against IS attacks in the Waqf Basin area of Qaryat al Abbarah district, Diyala.
+
+---
+
+[EVENT: IRQ37546]
+Date: 2022-04-23
+Country: Iraq | Location: Nassriya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Security measures: On 23 April 2022, Iraqi police forces removed sit-in tents in front of government buildings and the Thi Qar Oil Company building in Nassriya city. Security forces stated the tents were removed as part of security measures in the province. It is unclear if the sit-in tents were in use during the removal. The tents had been previously used by labor protesters.
+
+---
+
+[EVENT: IRQ37555]
+Date: 2022-04-23
+Country: Iraq | Location: Ramadi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 23 April 2022, Iraqi army and police forces launched the second phase of Operation Solid Will and destroyed dozens of IS hideouts and tunnels in the deserts of western Anbar province. The hideouts connected western Anbar to Salah al Din, Ninewa, and Kerbala provinces. Coded as provincial capital Ramadi city.
+
+---
+
+[EVENT: IRQ37548]
+Date: 2022-04-24
+Country: Iraq | Location: Ar Rutba
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Movement of forces: On 24 April 2022, the Rapid Reaction Force and Global Coalition forces conducted an airdrop operation against IS hideouts and smugglers in the desert of Ar Rutba district, Anbar. There were no clashes.
+
+---
+
+[EVENT: IRQ37551]
+Date: 2022-04-24
+Country: Iraq | Location: Amara
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Defusal: On 24 April 2022, Maysan police discovered and destroyed 5 IEDs hidden near Independence Square in the Thawra neighborhood of Amara city. It is unclear if the IEDs posed an imminent threat or were hidden for later use.
+
+---
+
+[EVENT: IRQ37552]
+Date: 2022-04-25
+Country: Iraq | Location: Samarra
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 1
+Sources: Al Mirbad; Al Sumaria TV [National]
+
+DESCRIPTION:
+Interception: On 25 April 2022, Iraqi security forces opened fire at an approaching unidentified militant with an SVEST in an unspecified location under the area of responsibility of the Samarra Operations Command in Salah Al Din. The SVEST detonated, killing the militant wearing it. There were no other casualties. Coded as Samarra district, Salah Al Din.
+
+---
+
+[EVENT: IRQ37542]
+Date: 2022-04-25
+Country: Iraq | Location: Sinjar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Movement of forces: On 25 April 2022, Iraqi army forces deployed high number of troops, tanks and other armored vehicles to Sinjar town in Ninewa.
+
+---
+
+[EVENT: IRQ37557]
+Date: 2022-04-25
+Country: Iraq | Location: Aradi al Ayth
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 25 April 2022, the Popular Mobilization Forces 22nd Brigade (Badr Organization) discovered and destroyed 2 IS hideouts as part of Operation Solid Will in the Aradi al Ayth area of Salah al Din. The hideouts contained logistical materials.
+
+---
+
+[EVENT: IRQ37558]
+Date: 2022-04-26
+Country: Iraq | Location: Ar Rutba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 26 April 2022, the Popular Mobilization Forces 45th Brigade (Kataib Hezbollah) discovered and destroyed 7 IS hideouts and a booby-trapped house during a search-and-destroy operation covering the area stretching from Wadi al Muani in Al Karabla subdistrict in Al Kaim district through Wadi Al Daa, Central Wadi al Munia, Wadi al Madisis, and Wadi Al Matitah to Wadi Mudaysis in Al Nekhaeeb subdistrict in Ar Rutba of Anbar. The exact locations of the IS hideouts are not specified. The operation was part of Operation Solid Will. Coded as Ar Rutba city to mark mid-point of operational area.
+
+---
+
+[EVENT: IRQ37559]
+Date: 2022-04-26
+Country: Iraq | Location: Al Jarmiyat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 26 April 2022, the Popular Mobilization Forces discovered and destroyed 3 IS hideouts during a raid under Operation Solid will in the Al Jarmiyat area of Anbar province. The hideouts contained small quantities of IEDs.
+
+---
+
+[EVENT: IRQ37543]
+Date: 2022-04-26
+Country: Iraq | Location: Sinjar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Movement of forces: On 26 April 2022, Iraqi army deployed reinforcements and heavy weapons to Sinjar district, Ninewa. The deployment was in anticipation of potential clashes in the district.
+
+---
+
+[EVENT: IRQ37549]
+Date: 2022-04-26
+Country: Iraq | Location: Al Shib Border Crossing
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Weapons seizure: On 26 April 2022, Iraqi army seized 255 mortar and artillery shells in the Al Shib Border Crossing area in Maysan province. The shells were destroyed later the same day.
+
+---
+
+[EVENT: IRQ37547]
+Date: 2022-04-27
+Country: Iraq | Location: Baghdad - Karadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Security measures: On 27 April 2022, Iraqi riot police deployed to the streets near the Layth complex in Baghdad - Karadah. The deployment is in anticipation of a demonstration by shop owners who oppose unspecified security measures in the area.
+
+---
+
+[EVENT: IRQ54789]
+Date: 2022-04-28
+Country: Iraq | Location: Buhriz
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 28 April 2022, IS snipers destroyed an army thermal camera in Buhriz town (Baquba, Diyala).
+
+---
+
+[EVENT: IRQ54788]
+Date: 2022-04-28
+Country: Iraq | Location: Daquq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 28 April 2022, IS snipers destroyed an army thermal camera in Albu Muhammad village in Daquq district (Kirkuk).
+
+---
+
+[EVENT: IRQ37556]
+Date: 2022-04-28
+Country: Iraq | Location: Ar Rutba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Counter-Terrorism Service [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 28 April 2022, Iraqi Counter-Terrorism Service conducted 3 airdrop operations destroying 3 IS hideouts in the desert south of the highway in Ar Rutba district, Anbar. No clashes took place.
+
+---
+
+[EVENT: IRQ37544]
+Date: 2022-04-29
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Basnews [National]
+
+DESCRIPTION:
+Security measures: On 29 April 2022, Iraqi army entered a state of alert in Baghdad city. The alert is in effect until 5 May. The state of alert is a security measures in response to intelligence indication a planned IS attack using SVEST intended to target civilians during the Eid Al Firt festival which marks the end of Ramadan.
+
+---
+
+[EVENT: IRQ54791]
+Date: 2022-04-29
+Country: Iraq | Location: Khazir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 29 April 2022, IS snipers destroyed an army thermal camera near Khazir village (Al Hawiga, Kirkuk).
+
+---
+
+[EVENT: IRQ54828]
+Date: 2022-04-29
+Country: Iraq | Location: Rubaydah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 29 April 2022, IS snipers destroyed a police thermal camera near Rubaydah intersection in Daquq district (Kirkuk).
+
+---
+
+[EVENT: IRQ37680]
+Date: 2022-05-02
+Country: Iraq | Location: Birifkah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Peshmerga [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Ihlas News Agency; Kurdistan24 [National-Regional]
+
+DESCRIPTION:
+Defusal: On 2 May 2022, the Peshmerga forces discovered and destroyed a bomb with 200 kilograms of explosive material, planted by PKK militants under a road near Birifkah village in Al Amadiya district of Duhok.
+
+---
+
+[EVENT: IRQ37710]
+Date: 2022-05-02
+Country: Iraq | Location: Sinuni
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 2 May 2022, Iraqi army deployed tanks and armored vehicles to Sinuni district, Sinjar, Ninewa. The deployment is in response to clashes between the Sinjar Resistance Units and the Iraqi army in the district which took place the previous day.
+
+---
+
+[EVENT: IRQ37703]
+Date: 2022-05-02
+Country: Iraq | Location: Nassriya
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Explosive remnants of war: On 2 May 2022, an landmine from the Saddam era detonated injuring a female shepherd in the Hashash area south of Nassriya city. There were no fatalities.
+
+---
+
+[EVENT: IRQ37715]
+Date: 2022-05-02
+Country: Iraq | Location: Sinjar
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Rudaw; Shafaaq News [National]
+
+DESCRIPTION:
+Displacement: On 2 May 2022, fighting between YBS militants and the Iraq army displaced about 4,000 Yazidis from 600 families from Sinjar district, Ninewa. The IDPs fled to Duhok province.
+
+---
+
+[EVENT: IRQ37705]
+Date: 2022-05-02
+Country: Iraq | Location: Al Azim
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security measures: On 2 May 2022, Iraqi police forces imposed unspecified security measures near Al-Butaraz village along the Diyala-Salah Al Din provincial border. The security measures are in response to a fatal IS attack which took place the previous day. Coded as Al Azim District, Diyala.
+
+---
+
+[EVENT: IRQ37732]
+Date: 2022-05-03
+Country: Iraq | Location: Sinjar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: YBS: Sinjar Resistance Units [Rebel group]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Change to armed group: On 3 May 2022, hundreds from the Arab component of the YBS deserted the group and laid down their arms after refusing to participate in the clashes between the YBS and the Iraqi army in the Al Shamal subdistrict of Sinjar, Ninewa.
+
+---
+
+[EVENT: IRQ37730]
+Date: 2022-05-03
+Country: Iraq | Location: Qalat Salih
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Security measures: On 3 May 2022, Iraqi rapid reaction force deployed forces to roads entering and leaving Qalat Salih district, Maysan. The deployment is a security measures intended to search vehicles and seize unlicensed weapons in an effort to combat tribal violence. The deployment began in response to the killing of tribal sheikh in the area.
+
+---
+
+[EVENT: IRQ37749]
+Date: 2022-05-04
+Country: Iraq | Location: Chiya-e Gara
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) Peshmerga [State forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Interception: On 4 May 2022, PKK militants shot down a drone belonging to Peshmerga forces in Gare (Chiya-e Gara) region of Duhok. HPG (PKK) claimed the drone was operating in the area on a reconnaissance mission.
+
+---
+
+[EVENT: IRQ37733]
+Date: 2022-05-04
+Country: Iraq | Location: Sinjar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Kurdistan24 [National]
+
+DESCRIPTION:
+Movement of forces: On 4 May 2022, Iraqi army forces deployed additional troops to the west of Shengal (Sinjar) mountain region in Ninewa.
+
+---
+
+[EVENT: IRQ37735]
+Date: 2022-05-04
+Country: Iraq | Location: Amadiya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; TRT Haber [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 4 May 2022 (as reported), Turkish army forces seized a number of weapons belonging to PKK in the 'Claw-Lock' operation area, presumed to be the Zap region (Al Amadiya district) of Duhok. The weapons seized included 3 assault rifles, one sniper weapon, one heavy machine gun, one rocket launcher, 14 RPGs, 67 mortar shells, 20 hand grenades, 13 IEDs and various other ammunition .
+
+---
+
+[EVENT: IRQ37772]
+Date: 2022-05-05
+Country: Iraq | Location: Sinjar
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Other: On 5 May 2022, more than 20 families returned to Sinjar district, Ninewa. The families had been displaced earlier in the week by clashes between YBS militants and the Iraqi army.
+
+---
+
+[EVENT: IRQ37780]
+Date: 2022-05-06
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security measures: On 6 May 2022, The Popular Mobilization Forces extended a security alert in 6 districts, including Imam Ways and Hamreen, in Diyala province. The state of alert is a precautionary security measures motivated by dust storms which are used by IS militants to conduct attacks. Coded as provincial capital Baquba city.
+
+---
+
+[EVENT: IRQ37781]
+Date: 2022-05-06
+Country: Iraq | Location: Baghdad - Sadr City
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Defusal: On 6 May 2022, Iraqi police forces defused an IED planted in front of the home of the Dean of the Administration and Economics Faculty of the Mustansirya University in Baghdad - Sadr City.
+
+---
+
+[EVENT: IRQ37900]
+Date: 2022-05-08
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Property destruction: On 8 May 2022, military forces of Iraq intelligence division discovered and destroyed 2 IS hideouts in Ninewa province. Coded as provincial capital Mosul city.
+
+---
+
+[EVENT: IRQ37895]
+Date: 2022-05-09
+Country: Iraq | Location: Harir Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Rudaw [National]
+
+DESCRIPTION:
+Interception: On 9 May 2022, overnight Global Coalition forces shot down an armed drone over Harir airbase in Harir city, Erbil. Base air defenses damaged at least 11 houses and 1 car. There were no casualties.
+
+---
+
+[EVENT: IRQ37903]
+Date: 2022-05-10
+Country: Iraq | Location: Sinjar
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Other: On 10 May 2022, more than Yazidi 300 families of IDPs returned from Duhok province to their homes in Sinjar district, Ninewa. A total of some 700 families were displaced last week due to fighting in Sinjar district. 400 families remain displaced.
+
+---
+
+[EVENT: IRQ37972]
+Date: 2022-05-11
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Change to armed group: On 11 May 2022, the Popular Mobilization Forces announced it has assumed direct control over more than 300 villages in 13 districts in Diyala province. Seven Popular Mobilization Forces Brigades are permanently stationed in Diyala and will be responsible for the security of the unspecified 13 districts. These are all areas cleared from IS militants during past operations. Coded as provincial capital Baquba city.
+
+---
+
+[EVENT: IRQ37901]
+Date: 2022-05-11
+Country: Iraq | Location: Haditha
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 11 May 2022, the Popular Mobilization Forces discovered and destroyed an unspecified number of IS hideouts and tunnels in western Anbar province. The tunnels and hideouts were discovered during a sweeping operation stretching from Haditha district in Anbar towards urban areas in Ninewa province. Coded as Haditha district, Anbar.
+
+---
+
+[EVENT: IRQ37896]
+Date: 2022-05-11
+Country: Iraq | Location: Tikrit
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Interception: On 11 May 2022, the Global Coalition Against Daesh shot down an armed drone above Camp Speicher in Tikrit city.
+
+---
+
+[EVENT: IRQ37902]
+Date: 2022-05-12
+Country: Iraq | Location: Wadi Balkanah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) Rapid Reaction Force [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Property destruction: On 12 May 2022, Iraqi Rapid Reaction Forces with air support discovered and destroyed 7 IS hideouts in Salah Al Din province. The hideouts were discovered during an operation covering an area between Tuz Khurma mountains and the Balkanah area in Salah Al Din. Coded as Wadi Balkanah.
+
+---
+
+[EVENT: IRQ37973]
+Date: 2022-05-13
+Country: Iraq | Location: Turaybil
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security measures: On 13 May 2022, Iraqi security forces installed new scanners on the Turaybil border crossing with Jordan in Anbar province. The move is a security measure implemented ahead of a planned increase in the volume of trade crossing the Jordanian-Iraqi border.
+
+---
+
+[EVENT: IRQ38188]
+Date: 2022-05-14
+Country: Iraq | Location: Tuz Khurma
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Sumaria TV; National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 14 May 2022, the 8th Division of the Iraqi army discovered and destroyed 4 IS hideouts in Tuz Khurma district (Salah Al Din). The hideouts contained an IED container (20 liters) containing C4, an iron cylinder explosive device containing C4, 4 damaged 120 mm mortar rounds, 5 damaged 81 mm mortar rounds, and 3 damaged 60 mm mortar rounds, two damaged artillery shells, a quantity of 75 mm artillery ordnance, a damaged SPG9 missile, a damaged SPG9 missile filling. On the same day, the 3rd division of the Iraqi police forces destroyed 2 IS hideouts and seized ammunition in Tuz Khurma district. The ammunition were 2 mortar shells and 120 mm caliber, mortar shell of 60 mm caliber.
+
+---
+
+[EVENT: IRQ38189]
+Date: 2022-05-14
+Country: Iraq | Location: Tuz Khurma
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Weapons seizure: On 14 May 2022, the 5th division of the Iraqi police forces seized a number of ammunition in Tuz Khurma district (Salah Al Din). The ammunitions were 10 locally made IED, 2 blasting rulers, 2 C4 containers.
+
+---
+
+[EVENT: IRQ38132]
+Date: 2022-05-14
+Country: Iraq | Location: Hiroor
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Kurdistan24 [National]
+
+DESCRIPTION:
+On 14 May 2022, Iraqi Army forces set up a new permanent outpost in Hirure (Hiroor) village in Al Amadiya district of Duhok.
+
+---
+
+[EVENT: IRQ38187]
+Date: 2022-05-15
+Country: Iraq | Location: Tubraq Ziyarah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Property destruction: On 15 May 2022, the 30th Brigade of the PMF (Shabak Militia and Badr Organization) discovered and destroyed 15 IS IEDs in a farmland in the vicinity of Tubraq Ziyarah village (Ninewa).
+
+---
+
+[EVENT: IRQ38126]
+Date: 2022-05-15
+Country: Iraq | Location: Amadiya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; Takvim [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 15 May 2022 (as reported), Turkish army forces seized a number of weapons belonging to PKK in the 'Claw-Lock' operation area, presumed to be the Zap region (Al Amadiya district) of Duhok. The weapons seized included 2 RPG launchers, 108 hand grenades, one anti-aircraft gun, 6 assault rifles, 5 sniper rifles, one heavy machine gun and various other supplies and bomb-making material.
+
+---
+
+[EVENT: IRQ38130]
+Date: 2022-05-17
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On 17 May 2022, Iraqi security forces discovered and defused a roadside IED on the Army Canal Road north of Baghdad city.
+
+---
+
+[EVENT: IRQ38129]
+Date: 2022-05-17
+Country: Iraq | Location: Amadiya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PKK-YJA STAR: Kurdistan Workers Party-YJA STAR [Rebel group]
+Actor2: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Interception: On 17 May 2022, PKK-YJA STAR militants shot down a Turkish army drone in Sehid Sahin area (Kurdish names) in Zap region (Al Amadiya district) of Duhok province.
+
+---
+
+[EVENT: IRQ38127]
+Date: 2022-05-17
+Country: Iraq | Location: Amadiya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7; TRT Haber [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 17 May 2022 (as reported), Turkish army forces seized a number of weapons belonging to PKK in the 'Claw-Lock' operation area, presumed to be the Zap region (Al Amadiya district) of Duhok. The weapons seized included one RPG launcher, 74 hand grenades, 6 assault rifles, 2 land mines, 30 mortar shells, 30 RPGs, a total of 2,500 rounds of ammunition, large amount of various other supplies and bomb-making material.
+
+---
+
+[EVENT: IRQ38027]
+Date: 2022-05-18
+Country: Iraq | Location: Baiji
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security measures: On 18 May 2022, the Popular Mobilization Forces 88th Brigade deployed into Baiji district in Salah Al Din. The deployment is a security measures intended to secure the Baiji - Kirkuk power transmission line against militant attacks.
+
+---
+
+[EVENT: IRQ38131]
+Date: 2022-05-18
+Country: Iraq | Location: Baghdad - Adhamiya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On 18 May 2022, Iraqi security forces discovered and defused 3 IEDs near the Passport office in the Sulaykh area of Baghdad - Adhamiya.
+
+---
+
+[EVENT: IRQ54818]
+Date: 2022-05-18
+Country: Iraq | Location: Qaryat Al Abbasiyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 18 May 2022, IS snipers destroyed two police thermal cameras in Qaryat Al Abbasiyah (Samarra, Salah Al Din).
+
+---
+
+[EVENT: IRQ38128]
+Date: 2022-05-18
+Country: Iraq | Location: Amadiya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Takvim; TRT Haber [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 18 May 2022 (as reported), Turkish army forces seized a large number of weapons belonging to PKK in the 'Claw-Lock' operation area, presumed to be the Zap region (Al Amadiya district) of Duhok. The weapons seized included 4 rocket launchers, 136 hand grenades, 66 anti-tank RPGs, a total of 48,000 rounds of ammunition, machine guns, IEDs and large amount of various other supplies and bomb-making material.
+
+---
+
+[EVENT: IRQ54756]
+Date: 2022-05-20
+Country: Iraq | Location: Al Murrah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 20 May 2022, IS militants set fire to farms belonging to a local mayor (Mukhtar) near Al Murrah village (Al Hawiga, Kirkuk). There were no casualties.
+
+---
+
+[EVENT: IRQ54753]
+Date: 2022-05-20
+Country: Iraq | Location: Daquq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 20 May 2022, IS militants set fire to civilian- owned farms in Daquq district (Kirkuk). There were no casualties.
+
+---
+
+[EVENT: IRQ38318]
+Date: 2022-05-21
+Country: Iraq | Location: Amara
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Property destruction: On 21 May 2022, unknown militants set fire to a civilian's vehicle which was parking in front of his house in Al Mahmudiyah area in Amara district (Maysan). Material damages only.
+
+---
+
+[EVENT: IRQ38325]
+Date: 2022-05-21
+Country: Iraq | Location: Amadiya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; TRT Haber [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 21 May 2022 (as reported), Turkish army forces seized a large number of weapons belonging to PKK in the 'Claw-Lock' operation area, presumed to be the Zap region (Al Amadiya district) of Duhok. The weapons seized included one heavy machine gun with 2,000 rounds of ammunition, 210 mortar shells and 51 RPGs.
+
+---
+
+[EVENT: IRQ38328]
+Date: 2022-05-22
+Country: Iraq | Location: Kirkuk
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 22 May 2022, the 19th Brigade of the 15th Division of Iraqi Police Forces with the collaboration of the Intelligence Service discovered and destroyed an IS hideout in Al-Khurdaat area in the southwest of Kirkuk.
+
+---
+
+[EVENT: IRQ38326]
+Date: 2022-05-22
+Country: Iraq | Location: Wadi ath Tharthar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ahad TV; Baghdad Today [National]
+
+DESCRIPTION:
+Property destruction: On 22 May 2022, the Iraqi army discovered and destroyed an IS tunnel during a security operation that contained different kinds of weapons in Wadi ath Tharthar (Salah Al Din). The security forces also found a vehicle containing several IEDs prepared for detonation, detonating wires, and various weapons.
+
+---
+
+[EVENT: IRQ38323]
+Date: 2022-05-22
+Country: Iraq | Location: Adayah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Weapons seizure: On 22 May 2022, the 20th Infantry Brigade of the Iraqi army found 2 IS militant's hideouts and several weapons in raiding operations in the mountains of Adayah sub-district of (Ninewa). The seized weapons were 3 jerrycans of 20 litres packed with siphore, 3 different mortars, 3 pomegranates against shields, 3 different projectiles, 2 IEDs, and 2 (106 mm) cannon capsules.
+
+---
+
+[EVENT: IRQ54765]
+Date: 2022-05-23
+Country: Iraq | Location: Daquq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 23 May 2022, IS militants set fire to a farm and destroyed an electric transformer near Al Kawamat village in Daquq district (Kirkuk). There were no casualties.
+
+---
+
+[EVENT: IRQ54755]
+Date: 2022-05-23
+Country: Iraq | Location: Bashir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 23 May 2022, IS militants set fire to civilian- owned farms near Bashir village (Kirkuk). There were no casualties.
+
+---
+
+[EVENT: IRQ54754]
+Date: 2022-05-23
+Country: Iraq | Location: Qalata Soran
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 23 May 2022, IS militants set fire to agricultural crops and equipment near Qalata Soran village (Makhmur, Erbil). IS accused the owner of being a government informant. There were no casualties.
+
+---
+
+[EVENT: IRQ54759]
+Date: 2022-05-24
+Country: Iraq | Location: Zanqar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 24 May 2022, IS militants set fire to a farm belonging to Kakai farmers and destroyed an electric transformer near Zanqar village (Daquq, Kirkuk). There were no casualties.
+
+---
+
+[EVENT: IRQ38324]
+Date: 2022-05-24
+Country: Iraq | Location: Baghdad International Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Interception: On 24 May 2022, Iraqi air defenses shot down a drone which approached the Martyr Muhammed Alaa Airbase in the Baghdad International Airport.
+
+---
+
+[EVENT: IRQ38322]
+Date: 2022-05-25
+Country: Iraq | Location: Baghdad - Rusafa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Security measures: On 25 May 2022, Baghdad police deployed to areas and streets near Tahrir Square in Baghdad - Rusafa. The security measures are in response to protest planned in the area.
+
+---
+
+[EVENT: IRQ38458]
+Date: 2022-05-25
+Country: Iraq | Location: Koordine
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On 25 May 2022, PKK militants destroyed surveillance cameras planted by Turkish army in Gire Koordine area of Al Amadiya district, Duhok.
+
+---
+
+[EVENT: IRQ38329]
+Date: 2022-05-26
+Country: Iraq | Location: As Saybah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Explosive remnants of war: On 26 May 2022, a landmine from the Iran-Iraq War detonated injuring a municipal worker in the As Saybah district, Basrah. There were no fatalities.
+
+---
+
+[EVENT: IRQ38327]
+Date: 2022-05-26
+Country: Iraq | Location: Haditha
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 26 May 2022, the Popular Mobilization Forces discovered and destroyed 2 IS hideouts in the Haditha desert in Anbar Province in the direction of Ninewa province.
+
+---
+
+[EVENT: IRQ54787]
+Date: 2022-05-27
+Country: Iraq | Location: Qaryat al Kif
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 27 May 2022, IS snipers destroyed an army thermal camera in the vicinity of Qaryat al Kif (Dibis, Kirkuk).
+
+---
+
+[EVENT: IRQ38404]
+Date: 2022-05-28
+Country: Iraq | Location: Adhaim Dam
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) Iraqi National Intelligence Service [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: On 28 May 2022, Iraqi National Intelligence Service seized an IS cache of explosives containing a variety of equipment within Hawi Al Atheem district on the border separating Diyala and Salah Al Din Province.
+
+---
+
+[EVENT: IRQ38406]
+Date: 2022-05-28
+Country: Iraq | Location: Wadi Hauran
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 28 May 2022, the PMF discovered and destroyed a number of IS tunnels and hideouts in Wadi Hauran area in the west of Al Anbar province.
+
+---
+
+[EVENT: IRQ38402]
+Date: 2022-05-28
+Country: Iraq | Location: Kani Masi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Maloomah; ROJ News; Sotaliraq [National-International]
+
+DESCRIPTION:
+Displacement: On 28 May 2022, dozens of families were displaced from Kani Masi villages in Al Amadiya district, Duhok province. The families fled to the district capital in response to the Turkish shelling of these villages.
+
+---
+
+[EVENT: IRQ54790]
+Date: 2022-05-28
+Country: Iraq | Location: Khan Bani Saad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 28 May 2022, IS snipers destroyed an army thermal camera in Khan Bani Saad (Baquba, Diyala).
+
+---
+
+[EVENT: IRQ38427]
+Date: 2022-05-28
+Country: Iraq | Location: Sikefta Birindara
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PKK-YJA STAR: Kurdistan Workers Party-YJA STAR [Rebel group]
+Actor2: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Interception: On 28 May 2022, PKK-YJA STAR militants shot down a Turkish army drone in Sikefta Birindara area of Al Amadiya district, Duhok province.
+
+---
+
+[EVENT: IRQ38403]
+Date: 2022-05-29
+Country: Iraq | Location: Daquq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Patriotic Union of Kurdistan [Subnational]
+
+DESCRIPTION:
+Property destruction: On 29 May 2022, IS militants set fire to the crops of local Kurdish farmers in an unspecified location in Daquq district, Kirkuk province.
+
+---
+
+[EVENT: IRQ38522]
+Date: 2022-05-29
+Country: Iraq | Location: Wadi Khakurik
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK-YJA STAR: Kurdistan Workers Party-YJA STAR [Rebel group]
+Actor2: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On 29 May 2022, PKK-YJA STAR militants destroyed surveillance cameras planted by Turkish army in Gire Sehid Axin area (Kurdish name) in the Xakurke (Wadi Khakurik) region of Erbil.
+
+---
+
+[EVENT: IRQ38521]
+Date: 2022-05-30
+Country: Iraq | Location: Qaryat Kubbat Jadah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Other: On 30 May 2022, QSD transferred custody of 5 IS families to the Jadda camp near Qaryat Kubbat Jadah district, Ninewa. Iraqi police forces are to vet the families before allowing them to return to their homes in Anbar province.
+
+---
+
+[EVENT: IRQ38462]
+Date: 2022-05-30
+Country: Iraq | Location: Amadiya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On 30 May 2022, PKK militants destroyed surveillance cameras planted by Turkish army in Sehid Sahin and Gire Azad areas (Kurdish names) in Zap region of Al Amadiya district, Duhok.
+
+---
+
+[EVENT: IRQ38524]
+Date: 2022-05-30
+Country: Iraq | Location: Tal Shawr
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 30 May 2022, Iraqi police forces discovered and destroyed an unspecified number of IS hideouts in Tal Shawr village, Ninewa.
+
+---
+
+[EVENT: IRQ54797]
+Date: 2022-05-31
+Country: Iraq | Location: Qaryat an Naqib
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 31 May 2022, IS snipers destroyed two army thermal cameras in Qaryat an Naqib (Baquba, Diyala).
+
+---
+
+[EVENT: IRQ38515]
+Date: 2022-06-01
+Country: Iraq | Location: Rabia
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Other: On 1 June 2022, the Syrian Democratic Forces transferred custody of 50 IS fighters to the Iraqi Federal Investigation agency through the Rabia border-crossing in Ninewa.
+
+---
+
+[EVENT: IRQ38429]
+Date: 2022-06-01
+Country: Iraq | Location: Ar Rutba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 1 June 2022, the Popular Mobilization Forces discovered and destroyed 2 IS hideouts in the desert between Haditha and Ar Rutba in Anbar.
+
+---
+
+[EVENT: IRQ54770]
+Date: 2022-06-01
+Country: Iraq | Location: Qaryat al Abayichi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 1 June 2022, IS snipers destroyed an army thermal camera in Qaryat al Abayichi (Balad, Salah Al Din).
+
+---
+
+[EVENT: IRQ38517]
+Date: 2022-06-02
+Country: Iraq | Location: Al Qaim
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Other: On 2 June 2022, 143 displaced families returned to their homes in western Anbar province. The families returned to various areas including Haditha and an Al Qaim district. Coded as Al Qaim, Anbar.
+
+---
+
+[EVENT: IRQ38526]
+Date: 2022-06-02
+Country: Iraq | Location: Zaylkan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: Liwa Ahrar Al Iraq [Political militia]
+Fatalities: 0
+Sources: Shafaaq News; The Washington Institute [Other-National]
+
+DESCRIPTION:
+Interception: On 2 June 2022, Turkish forces shot down 5 or 6 armed drones above the Zaylkan base in Ninewa province. Liwa Ahrar Al Iraq later claimed ownership of drones.
+
+---
+
+[EVENT: IRQ54793]
+Date: 2022-06-03
+Country: Iraq | Location: Qaryat al Abayichi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 3 June 2022, IS snipers destroyed an army thermal camera in Qaryat al Abayichi village (Balad, Salah Al Din).
+
+---
+
+[EVENT: IRQ38637]
+Date: 2022-06-04
+Country: Iraq | Location: Amadiya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; Aydinlik [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 4 June 2022 (as reported), Turkish army forces seized a large number of weapons belonging to PKK in the 'Claw-Lock' operation area, presumed to be the Zap region (Al Amadiya district) of Duhok. The weapons seized included 9 assault rifles with a total of 13,840 rounds of ammunition, 2 RPG launchers, 74 anti-tank RPGs, 99 hand grenades and explosive material.
+
+---
+
+[EVENT: IRQ38693]
+Date: 2022-06-04
+Country: Iraq | Location: Harir Air Base
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2021-2025) [External/Other forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Movement of forces: On 4 June 2022, a US military convoy consisting of around 15 military Hummers reached the Harir air base. The convoy was backed by US air support.
+
+---
+
+[EVENT: IRQ38636]
+Date: 2022-06-04
+Country: Iraq | Location: Al Qayyarah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Sumaria TV; Baghdad Today [National]
+
+DESCRIPTION:
+Weapons seizure: On 4 June 2022, the Explosives Department of Iraqi military forces seized 6 RBG7 missiles in the vicinity of Al Qayyarah area, Ninewa province.
+
+---
+
+[EVENT: IRQ54757]
+Date: 2022-06-05
+Country: Iraq | Location: Qaryat al Mansiyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 5 June 2022, IS militants set fire to a farm and destroyed an electric transformer belonging to a police officer near Qaryat al Mansiyah (Dibis, Kirkuk). There were no casualties.
+
+---
+
+[EVENT: IRQ38638]
+Date: 2022-06-05
+Country: Iraq | Location: Al Khidr
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Defusal: On 5 June 2022, security forces dismantled an IED planted by unidentified militants to blow up one of the electric power towers in Al Khidr district in Al Muthanna province.
+
+---
+
+[EVENT: IRQ38639]
+Date: 2022-06-06
+Country: Iraq | Location: Baghdad - Rusafa
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: National Iraqi News Agency; Shafaaq News [National]
+
+DESCRIPTION:
+Interception: On 6 June 2022, Iraqi police shot down an unarmed drone above a prison in Baghdad - Rusafa.
+
+---
+
+[EVENT: IRQ54800]
+Date: 2022-06-07
+Country: Iraq | Location: Albu Siraj
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 7 June 2022, IS snipers destroyed two army thermal cameras in Albu Siraj village (Daquq, Kirkuk).
+
+---
+
+[EVENT: IRQ54835]
+Date: 2022-06-07
+Country: Iraq | Location: Rashad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 7 June 2022, IS snipers destroyed a police thermal camera in Al Mahdiyah village in Rashad subdistrict (Daquq, Kirkuk).
+
+---
+
+[EVENT: IRQ54836]
+Date: 2022-06-07
+Country: Iraq | Location: Qaryat al Mansiyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 7 June 2022, IS snipers destroyed a thermal camera above a police position near Qaryat al Mansiyah (Dibis, Kirkuk).
+
+---
+
+[EVENT: IRQ38641]
+Date: 2022-06-08
+Country: Iraq | Location: Hawr Al Dalmaj
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Interception: On 8 June 2022, Iraqi police arrested 3 people who attempted to release poisons into the Hawr Al Dalmaj marsh in Qadissiya province.
+
+---
+
+[EVENT: IRQ54838]
+Date: 2022-06-08
+Country: Iraq | Location: Daquq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 8 June 2022, IS snipers destroyed a police thermal camera in Al Khasha village in Daquq district (Daquq, Kirkuk).
+
+---
+
+[EVENT: IRQ38694]
+Date: 2022-06-08
+Country: Iraq | Location: Baghdad - Karkh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Security measures: On 8 June 2022, Iraqi police deployed to the Green zone in Baghdad - Karkh. The deployment is a security measures implemented in anticipation of demonstrations related to the voting on the Food Security Law in parliament. The law has been a source of demonstrations in Iraq recently.
+
+---
+
+[EVENT: IRQ38640]
+Date: 2022-06-08
+Country: Iraq | Location: Amara
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Defusal: On 8 June 2022, Iraqi police discovered and defused an IED near a notary office in the Shabanah area of Amara city.
+
+---
+
+[EVENT: IRQ38642]
+Date: 2022-06-08
+Country: Iraq | Location: Werexel
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK-YJA STAR: Kurdistan Workers Party-YJA STAR [Rebel group]
+Actor2: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On 8 June 2022, PKK-YJA STAR militants destroyed a radar unit and surveillance cameras planted by Turkish army in Werxele (Werexel) area in Al Amadiya district of Duhok.
+
+---
+
+[EVENT: IRQ54841]
+Date: 2022-06-09
+Country: Iraq | Location: Daquq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 9 June 2022, IS snipers destroyed a police thermal camera near Irsim Darb village in Daquq district (Kirkuk).
+
+---
+
+[EVENT: IRQ54840]
+Date: 2022-06-09
+Country: Iraq | Location: Rashad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 9 June 2022, IS snipers destroyed a police thermal camera in Al Rash village in Rashad subdistrict (Daquq, Kirkuk).
+
+---
+
+[EVENT: IRQ38696]
+Date: 2022-06-09
+Country: Iraq | Location: Zurbatiyah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 1
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Explosive remnants of war: On 9 June 2022, a landmine from the Iraq-Iran war detonated killing a shepherd grazing his flock in Zurbatiyah district near the Iranian border in Wassit.
+
+---
+
+[EVENT: IRQ38861]
+Date: 2022-06-11
+Country: Iraq | Location: Amadiya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 11 June 2022 (as reported), Turkish army forces seized a large number of weapons belonging to PKK in the 'Claw-Lock' operation area, presumed to be the Zap region (Al Amadiya district) of Duhok. The weapons seized included 10 assault rifles, 2 heavy machine guns, one anti-aircraft gun, 3 RPG launchers, 13 RPGs, 45 IEDs, 164 hand grenades, total 10,600 rounds of ammunition and various other military supplies.
+
+---
+
+[EVENT: IRQ38858]
+Date: 2022-06-11
+Country: Iraq | Location: Samarra
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah; Baghdad Today; Radio Nawa [National]
+
+DESCRIPTION:
+Defusal: On 11 June 2022, the 42nd Brigade of the PMF (Asaib Ahl Al Haq) found and dismantled 2 IEDs planted by IS militants in Said Ghareeb sub-district near Samarra district (Salah Al Din).
+
+---
+
+[EVENT: IRQ38859]
+Date: 2022-06-11
+Country: Iraq | Location: Al Qaim
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Weapons seizure: On 11 June 2022, the 57th Brigade of the PMF (Haditha Brigade) and the Iraqi National Intelligence Service found and seized a number of weapons belonging to IS militants during a security operation in Al Qaim district in Al Anbar province.
+
+---
+
+[EVENT: IRQ54811]
+Date: 2022-06-12
+Country: Iraq | Location: Nahiyat ar Riyad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 12 June 2022, IS snipers destroyed a thermal camera above a police position near Al Himran village in Nahiyat ar Riyad (Al Hawiga, Kirkuk).
+
+---
+
+[EVENT: IRQ38862]
+Date: 2022-06-12
+Country: Iraq | Location: Amadiya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: TRT Haber [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 12 June 2022 (as reported), Turkish army forces seized a large number of weapons belonging to PKK in the 'Claw-Lock' operation area, presumed to be the Zap region (Al Amadiya district) of Duhok. The weapons seized included one anti-aircraft gun, 11 assault rifles, 3 RPG launchers, 42 RPGs, 28 IEDs, 41 hand grenades, 6 mortar shells, total 32,160 rounds of ammunition and various other military supplies.
+
+---
+
+[EVENT: IRQ38864]
+Date: 2022-06-12
+Country: Iraq | Location: Haditha
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 12 June 2022, the PMF discovered and destroyed 2 IS hideouts during a raid and search operation in the desert areas of Haditha district of Al Anbar province.
+
+---
+
+[EVENT: IRQ54814]
+Date: 2022-06-13
+Country: Iraq | Location: Rashad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 13 June 2022, IS snipers destroyed two police thermal cameras in Al Tamaima and Al Jadida villages of Rashad subdistrict (Daquq, Kirkuk).
+
+---
+
+[EVENT: IRQ38866]
+Date: 2022-06-13
+Country: Iraq | Location: Gire FM
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK-YJA STAR: Kurdistan Workers Party-YJA STAR [Rebel group]
+Actor2: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On 13 June 2022, PKK-YJA STAR militants destroyed a surveillance camera system planted by Turkish army in Gire FM area (Kurdish name) in the Zap region (Al Amadiya district) of Duhok.
+
+---
+
+[EVENT: IRQ54774]
+Date: 2022-06-13
+Country: Iraq | Location: Buhriz
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 13 June 2022, IS snipers destroyed an army thermal camera and electric transformer in Taha Al Rashid village south of Buhriz town (Baquba, Diyala).
+
+---
+
+[EVENT: IRQ38860]
+Date: 2022-06-15
+Country: Iraq | Location: Al Azim
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Defusal: On 15 June 2022, the Popular Mobilization Forces 16th Brigade (Turkmen Brigades and Badr Organization) discovered and defused an IED posing an imminent danger to Popular Mobilization Forces conducting patrols in the Wadi Al Azim area of Diyala province. Coded as Al Azim district, Diyala.
+
+---
+
+[EVENT: IRQ38857]
+Date: 2022-06-15
+Country: Iraq | Location: Al Qaim
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Security measures: On 15 June 2022, the Rapid Reaction Force began conducting new vehicle patrols along the international highway in connecting Iraq and Syria in Anbar province. The vehicle patrols are a security measures intended to protect pilgrims travelling between Iraq and Syria. Coded as Al Qaim, Anbar.
+
+---
+
+[EVENT: IRQ54775]
+Date: 2022-06-15
+Country: Iraq | Location: Dibis
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 15 June 2022, IS snipers destroyed an army thermal camera in Samilawa village of Dibis district (Kirkuk).
+
+---
+
+[EVENT: IRQ38865]
+Date: 2022-06-15
+Country: Iraq | Location: Al Azim
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 15 June 2022, the Popular Mobilization Forces 22nd Brigade (Badr Organization) discovered and destroyed an IS hideout in the Maytah area of Hawi al Azim in Diyala. Coded as Al Azim district, Diyala.
+
+---
+
+[EVENT: IRQ38852]
+Date: 2022-06-16
+Country: Iraq | Location: Kerbala
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Security measures: On 16 June 2022, Iraqi Federal Police began conducting new vehicle patrols along the highway connecting Kerbala city with Anbar province. The vehicle patrols are a security measures intended to protect pilgrims travelling between Iraq and Syria.
+
+---
+
+[EVENT: IRQ38856]
+Date: 2022-06-17
+Country: Iraq | Location: Jadidat Arar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security measures: On 17 June 2022, the Popular Mobilization Forces and Iraqi police forces began conducting began conducting new vehicle patrols along the international highway in connecting western Anbar province to the Jadidat Arar area on the Saudi border. The vehicle patrols are a security measures intended to protect pilgrims travelling between Iraq and Saudi Arabia.
+
+---
+
+[EVENT: IRQ54762]
+Date: 2022-06-17
+Country: Iraq | Location: Al Azari
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 17 June 2022, IS militants set a civilian house on fire in Al Azari town (Al Kadhmiyah, Baghdad). IS accused its owner of being a government informant. There were no casualties.
+
+---
+
+[EVENT: IRQ38854]
+Date: 2022-06-17
+Country: Iraq | Location: Baghdad - Al Rashid
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security measures: On 17 June 2022, Iraqi police forces removed several checkpoints and concrete barriers in the Amil and Bayaa areas of Baghdad - Al Rashid.
+
+---
+
+[EVENT: IRQ38855]
+Date: 2022-06-17
+Country: Iraq | Location: Baghdad - Karadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security measures: On 17 June 2022, Iraqi police forces removed several checkpoints and concrete barriers in the Rabea area of Baghdad - Karadah.
+
+---
+
+[EVENT: IRQ38853]
+Date: 2022-06-17
+Country: Iraq | Location: Baghdad - Karkh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security measures: On 17 June 2022, Iraqi police forces removed several checkpoints and concrete barriers in the Adl area of Baghdad - Karkh.
+
+---
+
+[EVENT: IRQ38867]
+Date: 2022-06-17
+Country: Iraq | Location: Ar Rutba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 17 June 2022, Iraqi police forces discovered and destroyed an IS hideout in the Ar Rutba desert in Anbar.
+
+---
+
+[EVENT: IRQ39051]
+Date: 2022-06-18
+Country: Iraq | Location: Harir Air Base
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2021-2025) [External/Other forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security measures: On 18 June 2022, US forces deployed a new anti-missile system in Harir air base in Erbil province.
+
+---
+
+[EVENT: IRQ39004]
+Date: 2022-06-20
+Country: Iraq | Location: Zerga
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 20 June 2022, Iraqi security forces discovered and destroyed an unspecified number of militant hideouts and explosive devices in the area between the Zerga valley in Kirkuk and Tuz Khurma in Salah Al Din province. Coded as Zerga, Kirkuk.
+
+---
+
+[EVENT: IRQ39054]
+Date: 2022-06-20
+Country: Iraq | Location: Rabia
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Other: On 20 June 2022, QSD transferred custody of 206 IS-affiliated juveniles to the Iraqi National Intelligence and Counter Terrorism Forces through the Rabia border crossing in Ninewa.
+
+---
+
+[EVENT: IRQ38998]
+Date: 2022-06-20
+Country: Iraq | Location: At Tib
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Defusal: On 20 June 2022, Iraqi EOD squads discovered and destroyed over 500 explosive ordinances including explosives, shells, and projectiles in the At Tib district, Maysan.
+
+---
+
+[EVENT: IRQ38996]
+Date: 2022-06-20
+Country: Iraq | Location: Amadiya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7; TRT Haber [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 20 June 2022 (as reported), Turkish army forces seized a large number of weapons belonging to PKK in the 'Claw-Lock' operation area, presumed to be the Zap region (Al Amadiya district) of Duhok. The weapons seized included 11 mortars, 65 mortar shells, 5 hand grenades, a total of 730 rounds of ammunition, 25 kilograms of explosive material and various other military supplies.
+
+---
+
+[EVENT: IRQ39001]
+Date: 2022-06-20
+Country: Iraq | Location: Tuz Khurma
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah; Al Sumaria TV [National]
+
+DESCRIPTION:
+Property destruction: On 20 June 2022, Iraqi Rapid Reaction Forces and National Intelligence with air support discovered and destroyed 6 IS hideouts in the Wadi Mahasin area west of Tuz Khurma district, Salah Al Din.
+
+---
+
+[EVENT: IRQ39000]
+Date: 2022-06-21
+Country: Iraq | Location: Sharwain
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 21 June 2022, IS militants set fire to a quarry on the Najm Al Abdullah village on the outskirts of Sharwain district, Diyala. The fire destroyed a generator and 4 vehicles.
+
+---
+
+[EVENT: IRQ39003]
+Date: 2022-06-21
+Country: Iraq | Location: Ar Rutba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 21 June 2022, the Popular Mobilization Forces discovered and destroyed 2 IS hideouts containing logistical supplies in the desert of Ar Rutba district, Anbar.
+
+---
+
+[EVENT: IRQ39055]
+Date: 2022-06-21
+Country: Iraq | Location: Qaryat Kubbat Jadah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Other: On 21 June 2022, QSD repatriated 36 IS families from the Hole camp in Syria to the Jada camp in Iraq. Coded as Qaryat Kubbat Jadah, Ninewa.
+
+---
+
+[EVENT: IRQ39005]
+Date: 2022-06-21
+Country: Iraq | Location: Hilla
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 21 June 2022, unknown militants set fire to the car of the head of the Engineering Department in Hilla city. The car was located in front of the engineer's home in the Ibrahimiya neighborhood of Hilla.
+
+---
+
+[EVENT: IRQ39052]
+Date: 2022-06-22
+Country: Iraq | Location: Baghdad - Karkh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Security measures: On 22 June 2022, Iraqi police began removing concrete barriers from the Zaytuna area of Baghdad - Karkh.
+
+---
+
+[EVENT: IRQ39050]
+Date: 2022-06-23
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Sumaria TV; Al Mirbad [National]
+
+DESCRIPTION:
+Security measures: On 23 June 2022, Iraqi army deployed to several gas stations in in Khalish district and several other unspecified districts in Diyala province. The locations and total number of gas stations is not specified. The deployments are a security measure intended to prevent smuggling and maintain order at congested gas stations. Iraq is experiencing a fuel shortage. Coded as provincial capital Baquba city.
+
+---
+
+[EVENT: IRQ38997]
+Date: 2022-06-23
+Country: Iraq | Location: Amadiya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Sozcu; TRT Haber [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 23 June 2022 (as reported), Turkish army forces seized a large number of weapons belonging to PKK in the 'Claw-Lock' operation area, presumed to be the Zap region (Al Amadiya district) of Duhok. The weapons seized included one anti-aircraft gun, 5000 rounds of anti-aircraft gun ammunition, 123 mortar shells and various other military supplies.
+
+---
+
+[EVENT: IRQ39053]
+Date: 2022-06-24
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Security measures: On 24 June 2022, the Falcons Intelligence Cell of the Iraqi Police established checkpoints Baghdad city. The police enforced a ban on the entry civilians who are not Baghdad residents into the city. The checks and ban are security measures intended to secure the capital ahead of anticipated demonstrations.
+
+---
+
+[EVENT: IRQ39189]
+Date: 2022-06-26
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+On 26 June 2022, police forces arrested an individual on charges of terrorism in Baghdad city.
+
+---
+
+[EVENT: IRQ39190]
+Date: 2022-06-26
+Country: Iraq | Location: Hamdaniya
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+On 26 June 2022, police forces arrested an individual over charges of terrorism in Hamdaniya village in Ninewa province.
+
+---
+
+[EVENT: IRQ54827]
+Date: 2022-06-28
+Country: Iraq | Location: Qaryat Samum
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 28 June 2022, IS snipers destroyed a police thermal camera in Qaryat Samum (Samarra, Salah Al Din).
+
+---
+
+[EVENT: IRQ39207]
+Date: 2022-06-28
+Country: Iraq | Location: Sinjar
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Kurdistan24; National Iraqi News Agency; NRT News; ROJ News [National-Regional]
+
+DESCRIPTION:
+Mass grave: On 28 June 2022, a mass grave was discovered containing dozens bodies of Yazidi civilians executed by IS militants in 2014 in Qani village east of Sinjar city, Ninewa.
+
+---
+
+[EVENT: IRQ54829]
+Date: 2022-06-29
+Country: Iraq | Location: Qaryat Nadim al Ulah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 29 June 2022, IS snipers destroyed a security forces (coded as police) thermal camera in Qaryat Nadim al Ulah village (Al Kadhmiyah, Baghdad).

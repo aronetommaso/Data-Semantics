@@ -1,0 +1,217 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Lebanon (ISO Code: 422)
+Temporal Period: Year 2020 - Quarter Q1
+Total Events in Chunk: 16 / 16
+==================================================
+
+[EVENT: LBN3293]
+Date: 2020-01-02
+Country: Lebanon | Location: Aarida Border Crossing
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on January 2, in the last 24 hours, 312 Syrian refugees returned to Syria from Lebanon through the Yabos and Talaklakh crossing (coded to Aarida Border Crossing).
+
+---
+
+[EVENT: LBN3347]
+Date: 2020-01-05
+Country: Lebanon | Location: Halba
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Strikes: On 5 January 2020, banks in the northern region of Akkar (coded to Halba) were closed, following a call from the Association of Banks for them to shut their doors until further notice. After lenders balked at customer anger over a liquidity crisis.
+
+---
+
+[EVENT: LBN3600]
+Date: 2020-01-21
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Lebanon (2020-2021) [State forces]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Non-violent activity: On 21 January 2020, Lebanese PM Hasan Diab formed a new 20-member cabinet. Many of the new members are specialists. Coded to Beirut.
+
+---
+
+[EVENT: LBN3616]
+Date: 2020-01-24
+Country: Lebanon | Location: Bebnine
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2020-2021) [State forces]
+Actor2: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+Defusal: On 24 January 2020, Lebanese Military forces carried out a controlled explosion of an explosive found near a car in the town of Bebnine.
+
+---
+
+[EVENT: LBN3685]
+Date: 2020-01-26
+Country: Lebanon | Location: Jibchit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+Property destruction: On 26 January 2020, the house of the former director general of the Ministry of Information was burned in Jebchit. No injuries were reported.
+
+---
+
+[EVENT: LBN3694]
+Date: 2020-01-27
+Country: Lebanon | Location: Beirut - Port
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2020-2021) [State forces]
+Fatalities: 0
+Sources: Al Ghad (Jordan) [Regional]
+
+DESCRIPTION:
+Security measures: On 27 January 2020, the Lebanese Military closed all entrances to the house of representatives in central Beirut, in anticipation of protests during the 2020 Budget session.
+
+---
+
+[EVENT: LBN3690]
+Date: 2020-01-27
+Country: Lebanon | Location: Aarida Border Crossing
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on 27 January 2020, in the last 24 hours, 244 Syrian refugees returned to Syria from Lebanon through the Yabos and Talaklakh crossing (coded to Aarida Border Crossing).
+
+---
+
+[EVENT: LBN3723]
+Date: 2020-01-30
+Country: Lebanon | Location: Aarida Border Crossing
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on 30 January 2020, in the last 24 hours, 191 Syrian refugees returned to Syria from Lebanon through the Yabos and Talaklakh crossing (coded to Aarida Border Crossing).
+
+---
+
+[EVENT: LBN3848]
+Date: 2020-02-06
+Country: Lebanon | Location: Halba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: FPM: Free Patriotic Movement [Political militia]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+Property destruction: On 6 February 2020, an unidentified group started a fire at the office of the Free Patriotic Movement on the main road of Minyara - Halba.
+
+---
+
+[EVENT: LBN3857]
+Date: 2020-02-10
+Country: Lebanon | Location: Aarida Border Crossing
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on February 10, in the last 24 hours, 157 Syrian refugees returned to Syria from Lebanon through the Yabos and Talaklakh crossing (coded to Aarida Border Crossing).
+
+---
+
+[EVENT: LBN3856]
+Date: 2020-02-12
+Country: Lebanon | Location: Mays el Jabal
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2020-2021) [State forces]
+Actor2: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Interception: On 12 February 2020, Lebanese Military forces shot at an Israeli drone over the Marjayoun town of Mais al Jabal and forced it to retreat.
+
+---
+
+[EVENT: LBN3915]
+Date: 2020-02-13
+Country: Lebanon | Location: El Qaa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: On 13 February 2020, 250 Syrian refugees voluntarily returned to Syria from Lebanon's Bekaa area, through the border crossing near el Qaa to Jousieh in northern Bekaa, and the Mansaa and Babus crossing in Central Bekaa.
+
+---
+
+[EVENT: LBN3891]
+Date: 2020-02-13
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: On 13 February 2020, 100 Syrian refugees returned to Syria from Lebanon's Sidon area. It is unknown which border crossing they used into Syria.
+
+---
+
+[EVENT: LBN3907]
+Date: 2020-02-14
+Country: Lebanon | Location: Aarida Border Crossing
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on February 14, in the last 24 hours, 224 Syrian refugees returned to Syria from Lebanon through the Yabos and Talaklakh crossing (coded to Aarida Border Crossing).
+
+---
+
+[EVENT: LBN3993]
+Date: 2020-02-25
+Country: Lebanon | Location: Braytal
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2020-2021) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+Property destruction: On 25 February 2020, Lebanese Military forces demolished tents of Syrian refugees in Braytal and arrested a number of them.
+
+---
+
+[EVENT: LBN4346]
+Date: 2020-03-18
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Lebanon (2020-2021) [State forces]
+Fatalities: 0
+Sources: Al Nour; Daily Star (Lebanon); GardaWorld; Megaphone News; Reuters; Xinhua [Other-New media]
+
+DESCRIPTION:
+Security measures: On 18 March 2020, Lebanon closed its land and sea borders as well as its airports as a lockdown measure in the fight against the coronavirus pandemic. Furthermore, lockdown measures were imposed, allowing people to leave their homes only to buy food and medicine and all non-essential businesses have been closed. On 26 March, Lebanon imposed a partial curfew from 7 pm to 5 am to slow the spread of the virus. The lockdown measures were extended 6 times, lasting until 5 July. As the number of coronavirus infections increased, a complete lockdown was imposed from 13 May to 18 May.Coded at Beirut.

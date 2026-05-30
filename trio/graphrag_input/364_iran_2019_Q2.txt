@@ -1,0 +1,186 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iran (ISO Code: 364)
+Temporal Period: Year 2019 - Quarter Q2
+Total Events in Chunk: 13 / 13
+==================================================
+
+[EVENT: IRN18887]
+Date: 2019-04-01
+Country: Iran | Location: Saqqez
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Military Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 1 April 2019, 2 Iranian soldiers of were wounded after stepping on a landmine that's a remnant from the Iran-Iraq War wile patrolling near their military base in Saqqez district (Kurdistan).
+
+---
+
+[EVENT: IRN4023]
+Date: 2019-04-01
+Country: Iran | Location: Marivan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Iranian Labour News Agency; Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 1/4/2019, a civilian was injured by a landmine, laid during the Iran-Iraq War in the 1980s, in the border area of Kurdistan province.
+
+---
+
+[EVENT: IRN4046]
+Date: 2019-04-08
+Country: Iran | Location: Tehran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Actor2: Military Forces of the United States (2017-2021) [External/Other forces]
+Fatalities: 0
+Sources: CNN [International]
+
+DESCRIPTION:
+Security measures: On 8/4/2019, Iran designated the United States Central Command (CENTCOM) in the Middle-East and all its affiliates as a terrorist entity in response to US President Trump's announcement that the US will formally designate Iran's Islamic Revolutionary Guard Corps as a Foreign Terrorist Organization.
+
+---
+
+[EVENT: IRN18888]
+Date: 2019-04-13
+Country: Iran | Location: Musian
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 13 April 2019, a driver was wounded at Sharhani area in Musian subdistrict (Dehloran, Ilam) after driving over on a landmine that is a remnant from the Iran-Iraq war with an excavator.
+
+---
+
+[EVENT: IRN4055]
+Date: 2019-04-14
+Country: Iran | Location: Ahvaz
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 14 April 2019, at least 25 Arab citizens who were voluntarily involved in providing relief to the flood survivors were arrested in Ahvaz's Molashiyeh neighbourhood by the IRGC intelligence unit. Iranian officials announced their arrest was connected to spreading false rumours on social media about the recent flooding. There are also reports of further similar arrests in other arears of Khuzestan province, including in Hamidiyeh.
+
+---
+
+[EVENT: IRN18889]
+Date: 2019-04-16
+Country: Iran | Location: Marivan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 16 April 2019, a farmer was wounded at his farm in Marivan district (Kurdistan) after stepping on a landmine that's a remnant from the Iran-Iraq War.
+
+---
+
+[EVENT: IRN4737]
+Date: 2019-05-07
+Country: Iran | Location: Zahedan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iran) [Political militia]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Tasnim News Agency; Tehran Times [National]
+
+DESCRIPTION:
+Property destruction: On 5/7/2019, a sound bomb went off in Jame-Jam neighbourhood in Zahedan, shattering windows in the area.
+
+---
+
+[EVENT: IRN4238]
+Date: 2019-05-14
+Country: Iran | Location: Baneh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 1
+Sources: Human Rights Activists in Iran (HRA); Young Journalists Club [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 14/5/2019, a civilian was killed and another civilian was injured by a landmine, laid during the Iran-Iraq War in the 1980s, in Baneh county.
+
+---
+
+[EVENT: IRN18890]
+Date: 2019-05-14
+Country: Iran | Location: Niravan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 1
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 14 May 2019, a Kurdish cross-border porter or Kolbar was killed and another Kolbar was wounded at the mountains near Niravan village(Baneh, Kurdistan) on the Iran-Iraq border after stepping on a landmine that is a remnant from the Iran-Iraq war.
+
+---
+
+[EVENT: IRN4330]
+Date: 2019-05-31
+Country: Iran | Location: Sanandaj
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Unidentified Armed Group (Iran) [Political militia]
+Fatalities: 0
+Sources: Radio Farda [International]
+
+DESCRIPTION:
+Weapons Seizure: On 31/5/2019, the chief of police forces of Kurdestan province announced that three people who had planned to carry out a 'terrorist attack' during Quds Day rally in Sanandaj were arrested, and 3 guns, 13 magazines and 390 cartridges were seized.
+
+---
+
+[EVENT: IRN18891]
+Date: 2019-06-07
+Country: Iran | Location: Kani Zard
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 7 June 2019, a Kurdish cross-border porter or Kolbar was wounded at the mountain pass in Kani Zard village (Sardasht, West Azerbaijan) after stepping on a landmine that is a remnant from the Iran-Iraq war.
+
+---
+
+[EVENT: IRN18892]
+Date: 2019-06-15
+Country: Iran | Location: Ilam
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 15 June 2019, a member of an investigation team for finding the bodies of Iran-Iraq war victims was wounded in Kaleh-Ghandi mountains in the border areas of Ilam province after stepping on a landmine that's a remnant from the Iran-Iraq War.
+
+---
+
+[EVENT: IRN4659]
+Date: 2019-06-20
+Country: Iran | Location: Tehran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2017-2021) [External/Other forces]
+Actor2: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [State forces]
+Fatalities: 0
+Sources: BBC News; Washington Post [International]
+
+DESCRIPTION:
+Non-violent activity: On 20/6/2019, the US launched a cyber-attack on Iranian weapons systems, which reportedly disabled computer systems controlling rocket and missile launchers.

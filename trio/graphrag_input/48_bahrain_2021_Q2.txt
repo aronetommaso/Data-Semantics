@@ -1,0 +1,31 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Bahrain (ISO Code: 48)
+Temporal Period: Year 2021 - Quarter Q2
+Total Events in Chunk: 2 / 2
+==================================================
+
+[EVENT: BHR9286]
+Date: 2021-04-06
+Country: Bahrain | Location: Jaw Prison
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: LuaLua TV; BBC News [National-International]
+
+DESCRIPTION:
+Other: On 6 April 2021, Abbas Malallah died in Jaw Prison (Southern) after being subjected to torture and years of medical negligence, sparking further protests. Malallah had been held in solitary confinement for two years and was denied contact with relatives for a year. He also recounted the last moments of his life, stating that Malallah collapsed in his cell around midnight after complaining of a burning sensation in his chest and had difficulty breathing
+
+---
+
+[EVENT: BHR10017]
+Date: 2021-06-30
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: AhlulBayt News Agency; Al Jazeera; LuaLua TV; SALAM DHR [National-Regional]
+
+DESCRIPTION:
+On 30 June 2021, Bahraini authorities arrested ex-MP Osamah Tamimi from the hospital where he was receiving treatment (coded to Manama) (Capital). In a voice note circulated in social media, Tamimi said that he was hospitalized after the authorities tried to assassinate him through the injection of chemicals during a previous arrest a few days prior. The authorities also raided the ex-MP's house. According to sources, Tamimi's arrest was the result of his anti-regime views, including his opinion on normalizing relations with Israel.

@@ -1,0 +1,17 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Qatar (ISO Code: 634)
+Temporal Period: Year 2017 - Quarter Q1
+Total Events in Chunk: 1 / 1
+==================================================
+
+[EVENT: QAT1]
+Date: 2017-03-01
+Country: Qatar | Location: Doha
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Qatar) [Protesters]
+Fatalities: 0
+Sources: MENAFN [International]
+
+DESCRIPTION:
+Strikes: Hundreds of drivers with ride-hailing service Uber in Qatar went on strike on Monday for the second time in a year to protest against fare cuts.

@@ -1,0 +1,69 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Kuwait (ISO Code: 414)
+Temporal Period: Year 2023 - Quarter Q2
+Total Events in Chunk: 5 / 5
+==================================================
+
+[EVENT: KWT112]
+Date: 2023-04-09
+Country: Kuwait | Location: Kuwait City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Kuwait (2020-) [State forces]
+Fatalities: 0
+Sources: Al Jazeera [Regional]
+
+DESCRIPTION:
+Other: On 9 April 2023, a royal decree appointed a new Kuwaiti government headed by Prime Minister Sheikh Ahmad Nawaf al-Ahmad al-Sabah (coded to capital Kuwait City). Sheikh Ahmad Nawaf al-Ahmad al-Sabah had been reappointed as PM on 5 March 2023 and tasked with forming a new cabinet after the previous cabinet, also headed by Sheikh Ahmad Nawaf al-Ahmad al-Sabah, had resigned on 23 January 2023. This also came after the Kuwaiti Constitutional Court dissolved the parliament following tensions between the previous cabinet and the parliament.
+
+---
+
+[EVENT: KWT114]
+Date: 2023-04-17
+Country: Kuwait | Location: Kuwait City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Kuwait (2020-) [State forces]
+Fatalities: 0
+Sources: Gulf News (UAE) [Regional]
+
+DESCRIPTION:
+Other: On 17 April 2023, Kuwait's emir, in a speech read by Crown Prince Sheikh Meshal al-Ahmad al-Sabah, dissolved the 2020 parliament that had been reinstated by the Kuwaiti Constitutional Court a month prior (coded to capital Kuwait city). The Kuwaiti Constitutional Court had invalidated the National Assembly elections of September 2022 on 19 March 2023 and reinstated the previous parliament that had also been dissolved before that. The emir called for new parliamentary elections. On 1 May the Kuwait Cabinet approved the decree to dissolve the 2020 parliament.
+
+---
+
+[EVENT: KWT113]
+Date: 2023-04-19
+Country: Kuwait | Location: Kuwait City
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Kuwait) [Protesters]
+Fatalities: 0
+Sources: GardaWorld; Twitter [Other-New media]
+
+DESCRIPTION:
+On 19 April 2023, protesters held a demonstration at Erada square in Kuwait City (Al Asimah) to denounce the political deadlock in the country following the emir's decision to dissolve the 2020 parliament that had been reinstated a month prior after the Kuwaiti Constitutional Court invalidated the National Assembly elections of September 2022.
+
+---
+
+[EVENT: KWT115]
+Date: 2023-06-06
+Country: Kuwait | Location: Kuwait City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Kuwait (2020-) [State forces]
+Fatalities: 0
+Sources: Al Jazeera [Regional]
+
+DESCRIPTION:
+Other: On 6 June 2023, parliamentary elections were held in Kuwait after the Kuwaiti Constitutional Court invalidated the September 2022 elections in March 2023 and the emir dissolved the parliament in April 2023 (coded to capital Kuwait City). The elections resulted in the formation of an opposition-led parliament with 29 seats of 50 seat won by the opposition.
+
+---
+
+[EVENT: KWT116]
+Date: 2023-06-18
+Country: Kuwait | Location: Kuwait City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Kuwait (2020-) [State forces]
+Fatalities: 0
+Sources: Gulf News (UAE) [Regional]
+
+DESCRIPTION:
+Other: On 18 June 2023, Kuwait's emir, in a written statement, appointed a new government (coded to capital Kuwait city) by reappointing Sheikh Ahmad Nawaf al-Ahmad al-Sabah as Prime Minister along with 15 other ministers. This appointment followed a new parliamentary election that took place on 6 June 2023 and led to an opposition-led parliamentary with 29 seats of 50 seat won by the opposition. Sheikh Ahmad Nawaf al-Ahmad al-Sabah had already been reappointed as PM ain March 2023 after resigning in January 2023.

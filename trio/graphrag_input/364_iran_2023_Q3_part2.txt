@@ -1,0 +1,1330 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iran (ISO Code: 364)
+Temporal Period: Year 2023 - Quarter Q3
+Total Events in Chunk: 101 / 901
+==================================================
+
+[EVENT: IRN24365]
+Date: 2023-09-19
+Country: Iran | Location: Jask
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Iran) [Rioters]
+Actor2: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [State forces]
+Fatalities: 0
+Sources: Baloch Campaign [Other]
+
+DESCRIPTION:
+On 19 September 2023, an excavator, a loader, a tractor and a truck belonging to the Islamic Revolutionary Guard Corps were set on fire by rioters in Jegin village near Jask city (Hormozgan) to demonstrate against the confiscation of people's lands by the Islamic Revolutionary Guard Corps.
+
+---
+
+[EVENT: IRN24345]
+Date: 2023-09-19
+Country: Iran | Location: Kermanshah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Free Union of Iranian Workers; Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 19 September 2023, retired teachers rallied in front of the civil servants pension organization in Kermanshah city (Kermanshah) over the lack of equalization of salaries and poor living conditions. They also demanded the release of imprisoned teachers.
+
+---
+
+[EVENT: IRN24346]
+Date: 2023-09-19
+Country: Iran | Location: Sanandaj
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Free Union of Iranian Workers; Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 19 September 2023, retired teachers rallied in front of the civil servants pension organization in Sanandaj city (Kurdistan) over the lack of equalization of salaries and poor living conditions. They also demanded the release of imprisoned teachers.
+
+---
+
+[EVENT: IRN24347]
+Date: 2023-09-19
+Country: Iran | Location: Hamadan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Free Union of Iranian Workers; Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 19 September 2023, retired teachers rallied in front of the civil servants pension organization in Hamadan city (Hamadan) over poor living conditions and their demands not being met.
+
+---
+
+[EVENT: IRN24370]
+Date: 2023-09-19
+Country: Iran | Location: Qom
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Free Union of Iranian Workers [Other]
+
+DESCRIPTION:
+On 19 September 2023, retired teachers rallied in front of the civil servants pension organization in Qom city (Qom) over the lack of equalization of salaries and poor living conditions.
+
+---
+
+[EVENT: IRN24360]
+Date: 2023-09-20
+Country: Iran | Location: Sanandaj
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Movement of forces: On 20 September 2023, extensive deployment of police forces was reported on the streets in Sanandaj city (Kurdistan) on the anniversary of Mahsa Amini's death to prevent any protests.
+
+---
+
+[EVENT: IRN24359]
+Date: 2023-09-20
+Country: Iran | Location: Orumiyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Eteraze Bazar; Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Movement of forces: On 20 September 2023, large numbers of police forces were deployed into Balov village near Orumiyeh city (West Azerbaijan) on the first anniversary of the death of Farjad Darvishi, who was killed during the Mahsa Amini movement, to prevent any protests and the anniversary funeral ceremony.
+
+---
+
+[EVENT: IRN24348]
+Date: 2023-09-20
+Country: Iran | Location: Shush
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 20 September 2023, retirees of the Social Security Organization staged a protest in front of the Social Security Organization's office in Shush city (Khuzestan) over poor living conditions. They demanded the implementation of Articles 96 and 111 of the Social Security Law.
+
+---
+
+[EVENT: IRN24373]
+Date: 2023-09-20
+Country: Iran | Location: Kerman
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar; Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 20 September 2023, workers and maintenance staff of the railway line and technical facilities of Rezvan Darood district rallied in front of the provincial governor's office in Kerman city (Kerman) over the non-payment of salaries.
+
+---
+
+[EVENT: IRN24374]
+Date: 2023-09-20
+Country: Iran | Location: Qazvin
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+On 20 September 2023, employees of Qazvin Sugar Factory rallied at their workplace in Qazvin city (Qazvin) over the non-payment of salaries.
+
+---
+
+[EVENT: IRN24376]
+Date: 2023-09-20
+Country: Iran | Location: Isfahan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+On 20 September 2023, workers of Machine Sazi staged a protest at their workplace in Isfahan city (Isfahan) due to non-payment of salaries and benefits, including workers' lunch.
+
+---
+
+[EVENT: IRN24383]
+Date: 2023-09-20
+Country: Iran | Location: Karaj
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Manoto [International]
+
+DESCRIPTION:
+Movement of forces: On 20 September 2023, extensive deployment of police forces was reported in Gohardasht district in Karaj city (Alborz) on the anniversary of the Mahsa Amini movement to prevent protests and gatherings.
+
+---
+
+[EVENT: IRN24388]
+Date: 2023-09-21
+Country: Iran | Location: Kerman
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 21 September 2023, workers and maintenance staff of the railway line and technical facilities of Rezvan Darood district rallied in front of the provincial governor's office in Kerman city (Kerman) over the non-payment of salaries.
+
+---
+
+[EVENT: IRN24380]
+Date: 2023-09-21
+Country: Iran | Location: Bukan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [State forces]
+Fatalities: 0
+Sources: BBC News [International]
+
+DESCRIPTION:
+Movement of forces: On 21 September 2023, large numbers of Islamic Revolutionary Guard Corps increased their presence on the streets in Bukan city (West Azerbaijan) on the anniversary of the Mahsa Amini movement to prevent protests and gatherings.
+
+---
+
+[EVENT: IRN24382]
+Date: 2023-09-21
+Country: Iran | Location: Nowshahr
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Iran International [International]
+
+DESCRIPTION:
+Movement of forces: On 21 September 2023, large numbers of police forces were deployed into Nowshahr city (Mazandaran) on the anniversary of the Mahsa Amini movement to prevent protests and gatherings.
+
+---
+
+[EVENT: IRN24381]
+Date: 2023-09-21
+Country: Iran | Location: Dehgolan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [State forces]
+Fatalities: 0
+Sources: BBC News; Kurdistan Human Rights Network [Other-International]
+
+DESCRIPTION:
+Movement of forces: On 21 September 2023, large numbers of Islamic Revolutionary Guard Corps were deployed and blocked the way to the cemetery in Dehgolan city (Kurdistan) on the anniversary of the Mahsa Amini movement to prevent protests and gatherings.
+
+---
+
+[EVENT: IRN24377]
+Date: 2023-09-21
+Country: Iran | Location: Isfahan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+On 21 September 2023, workers of Machine Sazi staged a protest at their workplace in Isfahan city (Isfahan) due to non-payment of salaries and benefits, including workers' lunch.
+
+---
+
+[EVENT: IRN24363]
+Date: 2023-09-21
+Country: Iran | Location: Saqqez
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [State forces]
+Fatalities: 0
+Sources: BBC News; Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Movement of forces: On 21 September 2023, large numbers of Islamic Revolutionary Guard Corps increased their presence on the streets, specifically around Mahsa Amini's family house in Saqqez city (Kurdistan) on the anniversary of Mahsa Amini movement, to prevent any protests and gatherings.
+
+---
+
+[EVENT: IRN24375]
+Date: 2023-09-21
+Country: Iran | Location: Khorramabad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+Movement of forces: On 21 September 2023, extensive deployment of police forces was reported on the streets and blocked the way to the cemetery in Khorramabad city (Lorestan) on the first anniversary of the death of Nika Sharemi, who was killed during Mahsa Amini movement, to prevent any protests and gathering.
+
+---
+
+[EVENT: IRN24362]
+Date: 2023-09-21
+Country: Iran | Location: Orumiyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Movement of forces: On 21 September 2023, large numbers of police forces were deployed into Balov village near Orumiyeh city (West Azerbaijan) on the first anniversary of the death of Danesh Rahnam and Abdollah Mahmudpour, who were killed during the Mahsa Amini movement, to prevent any protests and the anniversary funeral ceremony.
+
+---
+
+[EVENT: IRN24364]
+Date: 2023-09-21
+Country: Iran | Location: Ilam
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Actor2: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: BBC News; Eteraze Bazar; Free Union of Iranian Workers; Hengaw [Local partner-Other]
+
+DESCRIPTION:
+On 21 September 2023, local residents, including women, gathered at the Behesht e Reza cemetery in Ilam city (Ilam) on the first anniversary of the death of Mohsen Qeysari, who was killed during the Mahsa Amini movement, to protest against the state. Police forces arrested 5 members of the victim's family and beat several attendees.
+
+---
+
+[EVENT: IRN24361]
+Date: 2023-09-21
+Country: Iran | Location: Eslamabad-e Gharb
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [State forces]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Movement of forces: On 21 September 2023, large numbers of IRGC forces were deployed into Eslamabad-e Gharb city (Kermanshah) to block the way to Bagh e Rezvan cemetery on the first anniversary of the death of 3 young men who were killed during the Mahsa Amini movement, to prevent any protests and the anniversary funeral ceremony.
+
+---
+
+[EVENT: IRN24387]
+Date: 2023-09-22
+Country: Iran | Location: Saqqez
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Kurdpa [Other]
+
+DESCRIPTION:
+Movement of forces: On 22 September 2023, large numbers of police forces were present on the streets in Saqqez city (Kurdistan) on the anniversary of the Mahsa Amini movement to prevent any protests and gatherings.
+
+---
+
+[EVENT: IRN24378]
+Date: 2023-09-22
+Country: Iran | Location: Qazvin
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+On 22 September 2023, clients of the Novin Taravat Khodro Rezayat Company staged a protest at the Friday prayer in Qazvin city (Qazvin) to demand the company deliver the services the clients paid for.
+
+---
+
+[EVENT: IRN24366]
+Date: 2023-09-22
+Country: Iran | Location: Zahedan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Baloch Campaign [Other]
+
+DESCRIPTION:
+On 22 September 2023, local residents, including Baloch worshipers, held a rally after Friday prayer at Jameh Mosque of Makki in Zahedan city (Sistan and Baluchestan) for the 51 consecutive week to protest against the state and to commemorate the first anniversary of Mahsa Amini's death. The rallies after Friday prayer have been organized continuously in the past months following the beginning of Mahsa Amini movement.
+
+---
+
+[EVENT: IRN24430]
+Date: 2023-09-22
+Country: Iran | Location: Qazvin
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+On 22 September 2023, investors in the automobile industry from Takestan protested at the Nabi Mosque in Qazvin city (Qazvin) to demand the company deliver the services the clients paid for.
+
+---
+
+[EVENT: IRN24394]
+Date: 2023-09-23
+Country: Iran | Location: Shush
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Free Union of Iranian Workers; Human Rights Activists in Iran (HRA); VOA [Local partner-Other]
+
+DESCRIPTION:
+On 23 September 2023, employees of Abfa Company held a rally in front of their workplace in Shush city (Khuzestan) over the non-payment of salaries.
+
+---
+
+[EVENT: IRN24429]
+Date: 2023-09-23
+Country: Iran | Location: Natanz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+On 23 September 2023, local residents held a rally in Tar village near Natanz city (Isfahan) over the environmental affects of mining activities in their area.
+
+---
+
+[EVENT: IRN24413]
+Date: 2023-09-23
+Country: Iran | Location: Yasuj
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 23 September 2023, municipal workers held a rally in Yasuj city (Kohgiluyeh and Boyer-Ahmad) over poor living conditions and demanded payment of wage arrears.
+
+---
+
+[EVENT: IRN24415]
+Date: 2023-09-24
+Country: Iran | Location: Kerman
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar; Human Rights Activists in Iran (HRA); Radio Zamaneh; VOA [Local partner-Other]
+
+DESCRIPTION:
+On 24 September 2023, workers and maintenance staff of the railway line and technical facilities of Rezvan Dorood district rallied in front of the provincial governor's office in Kerman city (Kerman) over the non-payment of salaries.
+
+---
+
+[EVENT: IRN24464]
+Date: 2023-09-24
+Country: Iran | Location: Karaj
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Police Forces of Iran (1989-) Ministry of Intelligence [State forces]
+Actor2: Islamic State Khorasan Province (ISKP) [Rebel group]
+Fatalities: 0
+Sources: BBC News; FARS News Agency (Iran); Tasnim News Agency [National-International]
+
+DESCRIPTION:
+On 24 September 2023, Iranian Ministry of Intelligence forces clashed with IS members during a raid against an IS safe house at unspecified city in Alborz province (coded to Karaj) as part of state-wide arrest operations. 2 policemen were injured and an unidentified number of IS members were arrested.
+
+---
+
+[EVENT: IRN24440]
+Date: 2023-09-24
+Country: Iran | Location: Tehran
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Ministry of Intelligence [State forces]
+Actor2: Islamic State Khorasan Province (ISKP) [Rebel group]
+Fatalities: 0
+Sources: BBC News; FARS News Agency (Iran); Tasnim News Agency [National-International]
+
+DESCRIPTION:
+On 24 September 2023, Iranian intelligence agents arrested 28 members of the Islamic State across the country (coded to Tehran) (Tehran). Ministry of Intelligence sources claimed that the arrestees were planning 30 simultaneous explosions at the crowded centers in Tehran province. Many weapons, explosives, explosive vests and mobile remote controls were seized. At least 15 of the arrestees were arrested in West Azerbaijan province. No other information has been reported about the place of other arrestees. During the operation, at least 2 intelligence agents were injured in an operation in Albroz province (coded separately).
+
+---
+
+[EVENT: IRN24407]
+Date: 2023-09-25
+Country: Iran | Location: Saqqez
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, retirees of the service center for landline and mobile phone subscribers held a rally in front of the telecommunication company's central office in Saqqez city (Kurdistan), presumably over their ongoing dispute with the recent change in insurance rates and demanded payment of wage arrears.
+
+---
+
+[EVENT: IRN24406]
+Date: 2023-09-25
+Country: Iran | Location: Zanjan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, retirees of the telecommunication company of Iran staged a protest in front of the provincial telecommunication company's central office in Zanjan city (Zanjan), presumably over their ongoing dispute with the recent change in insurance rates and demanded payment of wage arrears.
+
+---
+
+[EVENT: IRN24404]
+Date: 2023-09-25
+Country: Iran | Location: Sanandaj
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, retirees of the telecommunication company of Iran held a rally in front of the provincial telecommunication company's central office in Sanandaj city (Kurdistan), presumably over their ongoing dispute with the recent change in insurance rates and demanded payment of wage arrears.
+
+---
+
+[EVENT: IRN24408]
+Date: 2023-09-25
+Country: Iran | Location: Hamadan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, retirees of the telecommunication company of Iran staged a rally in front of the provincial telecommunication company's central office in Hamadan city (Hamadan), presumably over their ongoing dispute with the recent change in insurance rates and demanded payment of wage arrears.
+
+---
+
+[EVENT: IRN24409]
+Date: 2023-09-25
+Country: Iran | Location: Bandar Abbas
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, retirees of the telecommunication company of Iran staged a protest in front of the provincial telecommunication company's central office in Bandar Abbas city (Hormozgan), presumably over their ongoing dispute with the recent change in insurance rates and demanded payment of wage arrears.
+
+---
+
+[EVENT: IRN24411]
+Date: 2023-09-25
+Country: Iran | Location: Tehran - District 6
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Free Union of Iranian Workers; Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, retirees of the Oil Company rallied in front of the civil servants pension organization in Tehran - District 6 (Tehran) over their demands not being met.
+
+---
+
+[EVENT: IRN24401]
+Date: 2023-09-25
+Country: Iran | Location: Isfahan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, retirees of the telecommunication company of Iran staged a protest in front of the provincial telecommunication company's central office in Isfahan city (Isfahan), presumably over their ongoing dispute with the recent change in insurance rates and demanded wage arrears payment.
+
+---
+
+[EVENT: IRN24400]
+Date: 2023-09-25
+Country: Iran | Location: Shiraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, retirees of the telecommunication company of Iran staged a rally in front of the provincial telecommunication company's central office in Shiraz city (Fars), presumably over their ongoing dispute with the recent change in insurance rates and demanded payment of wage arrears.
+
+---
+
+[EVENT: IRN24399]
+Date: 2023-09-25
+Country: Iran | Location: Ahvaz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Free Union of Iranian Workers; Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, retirees of the telecommunication company of Iran staged a rally in front of the provincial telecommunication company's central office in Ahvaz city (Khuzestan), presumably over their ongoing dispute with the recent change in insurance rates and demanded payment of wage arrears.
+
+---
+
+[EVENT: IRN24410]
+Date: 2023-09-25
+Country: Iran | Location: Dogonbadan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, dismissed employees of Gachsaran Oil and Gas Exploitation Company gathered in front of the company's central building in Dogonbadan city (Kohgiluyeh and Boyer-Ahmad) against their former employers for not rehiring them even though after their re-employment permits were issued more than a year ago.
+
+---
+
+[EVENT: IRN24431]
+Date: 2023-09-25
+Country: Iran | Location: Khark
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+On 25 September 2023, workers on the oil rigs rallied at their workplaces in Khark Island (Bushehr) over their demands not being met.
+
+---
+
+[EVENT: IRN24432]
+Date: 2023-09-25
+Country: Iran | Location: Shahr e Kord
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+On 25 September 2023, local residents held a rally in Shahr e Kord city (Chaharmahal and Bakhtiari) over changing the use of Farabi School to an addiction treatment camp in Ashfatak.
+
+---
+
+[EVENT: IRN24433]
+Date: 2023-09-25
+Country: Iran | Location: Tehran - District 6
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+On 25 September 2023, livestock breeders of Dam Gostar Fashafoye animal husbandry complex protested outside the Inspection Organization Of Iran in Tehran - District 6 (Tehran) over the recent municipal constructions activities in this animal husbandry complex.
+
+---
+
+[EVENT: IRN24398]
+Date: 2023-09-25
+Country: Iran | Location: Khorramabad
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, retirees of the telecommunication company of Iran held a protest in front of the provincial telecommunication company's central office in Khorramabad city (Lorestan), presumably over their ongoing dispute with the recent change in insurance rates and demanded wage arrears payment.
+
+---
+
+[EVENT: IRN24396]
+Date: 2023-09-25
+Country: Iran | Location: Rasht
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, retirees of the telecommunication company of Iran staged a rally in front of the provincial telecommunication company's central office in Rasht city (Gilan), presumably over their ongoing dispute with the recent change in insurance rates and demanded payment of wage arrears.
+
+---
+
+[EVENT: IRN24424]
+Date: 2023-09-25
+Country: Iran | Location: Bandar e Emam Khomeyni
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, workers of a contracted company held a rally in front of the Imam Khomeini Special Economic Zone's site in Bandar e Emam Khomeyni city (Khuzestan) to demand payment of wage arrears.
+
+---
+
+[EVENT: IRN24405]
+Date: 2023-09-25
+Country: Iran | Location: Ahvaz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, retirees of the Social Security Organization staged a rally in front of the Social Security Organization's office in Ahvaz city (Khuzestan) over poor living conditions. They demanded the equalization of wages, an increase in pension payments and health insurance.
+
+---
+
+[EVENT: IRN24397]
+Date: 2023-09-25
+Country: Iran | Location: Ardabil
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, retirees of the telecommunication company of Iran rallied in front of the provincial telecommunication company's central office in Ardabil city (Ardabil), presumably over their ongoing dispute with the recent change in insurance rates and demanded wage arrears payment.
+
+---
+
+[EVENT: IRN24403]
+Date: 2023-09-25
+Country: Iran | Location: Arak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, retirees of the telecommunication company of Iran held a rally in front of the provincial telecommunication company's central office in Arak city (Markazi), presumably over their ongoing dispute with the recent change in insurance rates and demanded payment of wage arrears.
+
+---
+
+[EVENT: IRN24412]
+Date: 2023-09-25
+Country: Iran | Location: Ahvaz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: BBC News; Eteraze Bazar; Free Union of Iranian Workers; Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, former employees of the Persian Gulf Haveyzeh Gas Refining Company rallied in front of the company's office near Ahvaz city (Khuzestan) in protest of the recruitment of non-local workers and their dismissal.
+
+---
+
+[EVENT: IRN24395]
+Date: 2023-09-25
+Country: Iran | Location: Kermanshah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, retirees of the telecommunication company of Iran staged a rally in front of the provincial telecommunication company's central office in Kermanshah city (Kermanshah), presumably over their ongoing dispute with the recent change in insurance rates and demanded payment of wage arrears.
+
+---
+
+[EVENT: IRN24402]
+Date: 2023-09-25
+Country: Iran | Location: Tehran - District 7
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar; Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 25 September 2023, retirees of the telecommunication company of Iran staged a rally at the Andisheh Park in Tehran - District 7 (Tehran), presumably over their ongoing dispute with the recent change in insurance rates and demanded payment of wage arrears. The police did not allow them to rally in front of the telecommunications building; therefore, they moved the protest to the Andisheh park.
+
+---
+
+[EVENT: IRN24423]
+Date: 2023-09-26
+Country: Iran | Location: Qom
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 26 September 2023, retired teachers rallied in front of the civil servants pension organization in Qom city (Qom) over the lack of equalization of salaries and poor living conditions.
+
+---
+
+[EVENT: IRN24422]
+Date: 2023-09-26
+Country: Iran | Location: Ahvaz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 26 September 2023, retired teachers rallied in front of the civil servants pension organization in Ahvaz city (Khuzestan) over the lack of equalization of salaries and poor living conditions. They also demanded the release of imprisoned teachers.
+
+---
+
+[EVENT: IRN24446]
+Date: 2023-09-26
+Country: Iran | Location: Kermanshah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+On 26 September 2023, local bakers and wheat farmers staged a rally in front of the provincial governor's office in Kermanshah city (Kermanshah) in protest against the government's failure to subsidize for wheat purchases.
+
+---
+
+[EVENT: IRN24448]
+Date: 2023-09-26
+Country: Iran | Location: Qir
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Qashqai Tribal Militia (Iran) [Identity militia]
+Actor2: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [State forces]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+On 26 September 2023, an armed clash erupted between the unidentified gunmen from the Qashqai tribe and IRGC forces in Zinabad mountains near Qir city (Fars). There were no casualties. The reason behind clashes is unclear.
+
+---
+
+[EVENT: IRN24434]
+Date: 2023-09-26
+Country: Iran | Location: Bushehr
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+On 26 September 2023, teachers rallied in Bandar e Bushehr city (Bushehr) over the suppression of teachers and poor living conditions.
+
+---
+
+[EVENT: IRN24428]
+Date: 2023-09-26
+Country: Iran | Location: Dehloran
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar; Free Union of Iranian Workers [Other-New media]
+
+DESCRIPTION:
+On 26 September 2023, ELED workers of the Dehloran Petrochemical held a rally and blocked the road near Dehloran city (Ilam) over the dismissal and non-payment of their wage arrears.
+
+---
+
+[EVENT: IRN24451]
+Date: 2023-09-26
+Country: Iran | Location: Zahedan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Haalvash [Other]
+
+DESCRIPTION:
+Movement of forces: On 26 September 2023, large numbers of military forces were deployed from neighboring provinces into Zahedan city (Sistan and Baluchestan), and extensive deployment of military forces were reported on the streets on the anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki, to prevent protests and gatherings.
+
+---
+
+[EVENT: IRN24439]
+Date: 2023-09-26
+Country: Iran | Location: Zarand
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: VOA [International]
+
+DESCRIPTION:
+On 26 September 2023, landowners of Jihad Deh Chenar town rallied in front of the county governor's office in Zarand city (Kerman) over their demands not being met.
+
+---
+
+[EVENT: IRN24435]
+Date: 2023-09-26
+Country: Iran | Location: Shahr e Kord
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+On 26 September 2023, for the second consecutive day, local residents held a rally in Shahr e Kord city (Chaharmahal and Bakhtiari) over changing the use of Farabi School to an addiction treatment camp in Ashfatak.
+
+---
+
+[EVENT: IRN24421]
+Date: 2023-09-26
+Country: Iran | Location: Hamadan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 26 September 2023, retired teachers rallied in front of the civil servants pension organization in Hamadan city (Hamadan) over the lack of equalization of salaries and poor living conditions.
+
+---
+
+[EVENT: IRN24420]
+Date: 2023-09-26
+Country: Iran | Location: Qazvin
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 26 September 2023, retired teachers rallied in front of the civil servants pension organization in Qazvin city (Qazvin) over the lack of equalization of salaries and poor living conditions.
+
+---
+
+[EVENT: IRN24418]
+Date: 2023-09-26
+Country: Iran | Location: Ilam
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 26 September 2023, retired teachers rallied in front of the civil servants pension organization in Ilam city (Ilam) over the lack of equalization of salaries and poor living conditions.
+
+---
+
+[EVENT: IRN24417]
+Date: 2023-09-26
+Country: Iran | Location: Sanandaj
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 26 September 2023, retired teachers rallied in front of the civil servants pension organization in Sanandaj city (Kurdistan) over the lack of equalization of salaries and poor living conditions. They also demanded the release of imprisoned teachers.
+
+---
+
+[EVENT: IRN24416]
+Date: 2023-09-26
+Country: Iran | Location: Kermanshah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); VOA [Local partner-Other]
+
+DESCRIPTION:
+On 26 September 2023, retired teachers rallied in front of the civil servants pension organization in Kermanshah city (Kermanshah) over the lack of equalization of salaries and poor living conditions. They also demanded the release of imprisoned teachers.
+
+---
+
+[EVENT: IRN24419]
+Date: 2023-09-26
+Country: Iran | Location: Qazvin
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar; Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 26 September 2023, clients of the Reyhan Tak Khodro Company staged a protest outside the provincial governor's office in Qazvin city (Qazvin) to demand the company deliver the services the clients paid for.
+
+---
+
+[EVENT: IRN24425]
+Date: 2023-09-27
+Country: Iran | Location: Shush
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Rokna; VOA [Local partner-Other]
+
+DESCRIPTION:
+On 27 September 2023, retirees of the Social Security Organization staged a protest in front of the county governor's office and member of parliament's office in Shush city (Khuzestan) over poor living conditions. They demanded the implementation of Articles 96 and 111 of the Social Security Law.
+
+---
+
+[EVENT: IRN24438]
+Date: 2023-09-27
+Country: Iran | Location: West Coast of Hormozgan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [State forces]
+Actor2: Military Forces of the United States (2021-2025) [External/Other forces]
+Fatalities: 0
+Sources: BBC News; Radio Farda [International]
+
+DESCRIPTION:
+Other: On 27 September 2023, the IRGC naval vessels targeted a Bell AH-1Z Viper helicopter of the US Marine Corps with laser light on the West Coast of Hormozgan (Hormozgan) to make a disturbance to the US forces. There were no injuries.
+
+---
+
+[EVENT: IRN24427]
+Date: 2023-09-27
+Country: Iran | Location: Tehran - District 6
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: BBC News; Eteraze Bazar; Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 27 September 2023, parents of students at the Farzangan Girls' School rallied in front of the education district department in Tehran - District 6 (Tehran) over the change of the school manager, dismissal of some male teachers and installing the CCTV cameras in the washrooms.
+
+---
+
+[EVENT: IRN24426]
+Date: 2023-09-27
+Country: Iran | Location: Rasht Industrial Town
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Iranian Labour News Agency [Local partner-Other]
+
+DESCRIPTION:
+On 27 September 2023, workers of Khazar Steel Factory staged a protest at their workplace in the Rasht Industrial Town (Shahr-e Sanati-ye Rasht, Gilan) over the lack of job security and the uncertain job status after the closure of the factory.
+
+---
+
+[EVENT: IRN24436]
+Date: 2023-09-27
+Country: Iran | Location: Tehran - District 11
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 27 September 2023, families of Cystic Fibrosis patients rallied outside the Presidential Administration of Iran in Tehran - District 11 (Tehran) to demand the government import their necessary medicine, including medicine need for 'gene therapy'.
+
+---
+
+[EVENT: IRN24437]
+Date: 2023-09-27
+Country: Iran | Location: Tehran - District 12
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+On 27 September 2023, investors of the Negin Gharb housing project rallied in front of the justice department in Tehran - District 12 (Tehran) over the uncertainty of their contract status and the project's failure to deliver their houses.
+
+---
+
+[EVENT: IRN24442]
+Date: 2023-09-27
+Country: Iran | Location: Qir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+Movement of forces: On 27 September 2023, extensive deployment of police forces alongside IRGC and Basij forces was reported on the streets in Qir city (Fars) after an armed clash of an unspecific nature took place in Hengam village.
+
+---
+
+[EVENT: IRN24441]
+Date: 2023-09-27
+Country: Iran | Location: Hangam
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Qashqai Tribal Militia (Iran) [Identity militia]
+Actor2: Police Forces of Iran (1989-) [State forces]
+Fatalities: 7
+Sources: Eteraze Bazar; FARS News Agency (Iran); Islamic Republic News Agency [New media-National]
+
+DESCRIPTION:
+On 27 September 2023, armed Qashqai tribesmen fired at the police patrol vehicle in Hangam village (Qir-o-Karzin, Fars). As a result, 5 police officers, including an intelligence agent, an Afghan civilian, and a Water and Sewage Company client, were killed, and 15 other police officers were wounded. State sources claimed that at first two local residents were shot and killed by a gunman who had previously threatened the police on social media. After the first shooting, the police were present, then the gunman opened fire at the police vehicle. The reason behind this clash is unknown, and state sources claimed that 'local miscreants' and a 'fugitive killer' sparked the armed clash.
+
+---
+
+[EVENT: IRN24450]
+Date: 2023-09-27
+Country: Iran | Location: Zahedan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: BBC News; Haalvash [Other-International]
+
+DESCRIPTION:
+Movement of forces: On 27 September 2023, large numbers of military forces were deployed from neighboring provinces into Zahedan city (Sistan and Baluchestan), and extensive deployment of military troops were reported on the streets on the first anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki, to prevent protests and gatherings.
+
+---
+
+[EVENT: IRN24447]
+Date: 2023-09-27
+Country: Iran | Location: Kermanshah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+On 27 September 2023, local bakers and wheat farmers staged a rally in front of the provincial governor's office in Kermanshah city (Kermanshah) for the second day in a row in protest against the government's subsidize to pay for wheat purchases.
+
+---
+
+[EVENT: IRN24445]
+Date: 2023-09-27
+Country: Iran | Location: Qom
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+On 27 September 2023, investors at the Arad Branding Company rallied in front of the company's office in Qom city (Qom) to demand a refund of their investments after allegations of fraud.
+
+---
+
+[EVENT: IRN24444]
+Date: 2023-09-27
+Country: Iran | Location: Firuzabad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+Movement of forces: On 27 September 2023, extensive deployment of police forces alongside IRGC and Basij forces was reported on the streets in Firuzabad city (Fars) after an armed clash of an unspecific nature took place in Hengam village.
+
+---
+
+[EVENT: IRN24443]
+Date: 2023-09-27
+Country: Iran | Location: Farashband
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+Movement of forces: On 27 September 2023, extensive deployment of police forces alongside IRGC and Basij forces was reported on the streets in Farashband city (Fars) after an armed clash of an unspecific nature took place in Hengam village.
+
+---
+
+[EVENT: IRN24453]
+Date: 2023-09-28
+Country: Iran | Location: Saravan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Haalvash [Other]
+
+DESCRIPTION:
+Movement of forces: On 28 September 2023, large numbers of military forces were deployed from neighboring provinces into Saravan city (Sistan and Baluchestan) on the anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki to prevent protests and gatherings.
+
+---
+
+[EVENT: IRN24452]
+Date: 2023-09-28
+Country: Iran | Location: Zahedan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Haalvash [Other]
+
+DESCRIPTION:
+Movement of forces: On 28 September 2023, large numbers of military forces were deployed from neighboring provinces into Zahedan city (Sistan and Baluchestan) on the anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki, to prevent protests and gatherings.
+
+---
+
+[EVENT: IRN24449]
+Date: 2023-09-28
+Country: Iran | Location: Qir
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Qashqai Tribal Militia (Iran) [Identity militia]
+Actor2: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Eteraze Bazar [New media]
+
+DESCRIPTION:
+On 28 September 2023, an armed clash erupted between the unidentified gunmen from the Qashqai tribe and the police forces alongside IRGC and Basij forces in Mishi mountain near Qir city (Fars). At least, 3 police officers were wounded. The reason behind clashes is unclear.
+
+---
+
+[EVENT: IRN24499]
+Date: 2023-09-29
+Country: Iran | Location: Piranshahr
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 29 September 2023, a Kurdish cross-border smuggler or Kolbar was injured at the border heights area of Haji Omran near Piranshahr city (West Azerbaijan) when a landmine planted likely during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN24459]
+Date: 2023-09-29
+Country: Iran | Location: Zahedan
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Iran) [Rioters]
+Actor2: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Baloch Campaign; BBC News; Haalvash; Iran International; Kolbar News; Tasnim News Agency; UN HRC; VOA [Other-National]
+
+DESCRIPTION:
+On 29 September 2023, around 300 demonstrators inclduing local residents and worshipers held a rally after Friday prayer at Jameh Mosque of Makki in Zahedan city (Sistan and Baluchestan) on the anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki, to demonstrate against the state. Rioters blocked roads with burning tires and the police, alongside Basij and IRGC forces, dispersed the demonstrations with tear gas and opened fire with plastic-covered bullets and shotguns at the demonstartors in Shirabad, Beesat and Moshtarak neighborhoods. At least 50 demonstrators were arrested, and 29 demonstrators, including 8 children under the age of 14, were shot and injured.
+
+---
+
+[EVENT: IRN24465]
+Date: 2023-09-29
+Country: Iran | Location: Zahedan
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Iran) [Rioters]
+Fatalities: 0
+Sources: Baloch Campaign; BBC News; Haalvash; Iran International; Kolbar News; Tasnim News Agency; VOA [Other-National]
+
+DESCRIPTION:
+On 29 September 2023, anti-government demonstrators set tires of fire and blocked streets in Zahedan city (Sistan and Baluchestan) in demonstration against the violent suppression of an earlier peaceful demonstration in the city by government forces on the anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki.
+
+---
+
+[EVENT: IRN24457]
+Date: 2023-09-29
+Country: Iran | Location: Iranshahr
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Haalvash [Other]
+
+DESCRIPTION:
+Movement of forces: On 29 September 2023, extensive deployment of military forces was reported on the streets in Iranshahr city (Sistan and Baluchestan) to prevent protests and gatherings on the first anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki.
+
+---
+
+[EVENT: IRN24463]
+Date: 2023-09-29
+Country: Iran | Location: Mirjaveh
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Actor2: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Haalvash [Other]
+
+DESCRIPTION:
+On 29 September 2023, local residents held a rally in Mirjaveh city (Sistan and Baluchestan) on the anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki, to protest against the state. Police arrested 4 protesters.
+
+---
+
+[EVENT: IRN24462]
+Date: 2023-09-29
+Country: Iran | Location: Suran
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Haalvash [Other]
+
+DESCRIPTION:
+On 29 September 2023, local residents held a rally in Suran city (Sistan and Baluchestan) on the anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki to protest against the state.
+
+---
+
+[EVENT: IRN24461]
+Date: 2023-09-29
+Country: Iran | Location: Rasak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Baloch Campaign; Haalvash [Other]
+
+DESCRIPTION:
+On 29 September 2023, local residents protested in Rasak city (Sistan and Baluchestan) on the anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki to protest against the state.
+
+---
+
+[EVENT: IRN24458]
+Date: 2023-09-29
+Country: Iran | Location: Khash
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Actor2: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Haalvash [Other]
+
+DESCRIPTION:
+On 29 September 2023, local residents held a rally in Khash city (Sistan and Baluchestan) on the first anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki to protest against the state. Police arrested 5 protesters.
+
+---
+
+[EVENT: IRN24455]
+Date: 2023-09-29
+Country: Iran | Location: Khash
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Haalvash [Other]
+
+DESCRIPTION:
+Movement of forces: On 29 September 2023, large numbers of military forces were deployed from neighboring provinces into Khash city (Sistan and Baluchestan) to prevent protests and gatherings on the anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki.
+
+---
+
+[EVENT: IRN24454]
+Date: 2023-09-29
+Country: Iran | Location: Zahedan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Baloch Campaign; Haalvash; Radio Farda; Radio Zamaneh [Other-International]
+
+DESCRIPTION:
+Movement of forces: On 29 September 2023, extensive deployment of military forces, including snipers and police officers, was reported on the streets around the Jameh Mosque of Makki in Zahedan city (Sistan and Baluchestan) to prevent protests and gatherings on the first anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki. The military forces used surveillance drones to identify protesters and established 70 checkpoints in the city.
+
+---
+
+[EVENT: IRN24456]
+Date: 2023-09-29
+Country: Iran | Location: Chabahar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Haalvash [Other]
+
+DESCRIPTION:
+Movement of forces: On 29 September 2023, extensive deployment of military forces was reported on the streets in Chabahar city (Sistan and Baluchestan) to prevent protests and gatherings on the first anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki.
+
+---
+
+[EVENT: IRN24460]
+Date: 2023-09-29
+Country: Iran | Location: Nok Abad
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Haalvash [Other]
+
+DESCRIPTION:
+On 29 September 2023, local residents held a rally in Nok Abad city (Sistan and Baluchestan) on the anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki to protest against the state.
+
+---
+
+[EVENT: IRN24505]
+Date: 2023-09-30
+Country: Iran | Location: Zahedan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Haalvash [Other]
+
+DESCRIPTION:
+Movement of forces: On 30 September 2023, extensive deployment of military forces, including anti-riot police, IRGC and Basij, was reported on the streets in Zahedan city (Sistan and Baluchestan) to prevent protests and gatherings on the first anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki. Several youths were arrested in the city. This increase in the presence of military and police forces is expected to last all week.
+
+---
+
+[EVENT: IRN24506]
+Date: 2023-09-30
+Country: Iran | Location: Zahedan
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Iran) [Rioters]
+Actor2: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Baloch Campaign; Haalvash [Other]
+
+DESCRIPTION:
+On 30 September 2023, rioters gathered and blocked the streets with tire burning in Zahedan city (Sistan and Baluchestan) on the anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki to demonstrate against the state. Police used aerial shot and tear gas to disperse the demonstrators. Several youths were arrested in the city, and at least 7 rioters were injured by shotgun.
+
+---
+
+[EVENT: IRN24504]
+Date: 2023-09-30
+Country: Iran | Location: Sarbaz
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Iran) [Rioters]
+Fatalities: 0
+Sources: Haalvash [Other]
+
+DESCRIPTION:
+On 30 September 2023, Baloch youth gathered and blocked the road of Sarbaz-Chabahar by tire burning in Sarbaz city (Sistan and Baluchestan) on the anniversary of the Zahedan massacre 2022 in the Jameh Mosque of Makki to demonstrate against the state.
+
+---
+
+[EVENT: IRN24466]
+Date: 2023-09-30
+Country: Iran | Location: Tabriz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Eteraze Bazar; Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+On 30 September 2023, retirees of the telecommunication company of Iran alongside permanent and contractual employees, staged a rally in front of the provincial telecommunication company's central office in Tabriz city (East Azerbaijan), presumably over their ongoing dispute with the recent change in insurance rates and demanded payment of wage arrears.

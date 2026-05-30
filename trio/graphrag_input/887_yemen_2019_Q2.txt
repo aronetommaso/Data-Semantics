@@ -1,0 +1,1855 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Yemen (ISO Code: 887)
+Temporal Period: Year 2019 - Quarter Q2
+Total Events in Chunk: 138 / 138
+==================================================
+
+[EVENT: YEM30172]
+Date: 2019-04-01
+Country: Yemen | Location: Hadibu
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Asharq Al Awsat; Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+On 1 April 2019, a video showing construction work allegedly perpetuated by the UAE in Suqutra island was circulated by several media outlets. According to the sources, the UAE is building a private port and a military base next to the island's regular port. The video shows a compound protected by a long wall and surveillance cameras.
+
+---
+
+[EVENT: YEM30177]
+Date: 2019-04-01
+Country: Yemen | Location: Humar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Security Belt Forces) [Political militia]
+Fatalities: 0
+Sources: Samaa TV (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Security measures: On 1 April 2019, Security Belt forces launched a campaign targeting alleged pro-Houthi individuals and individuals accused of working with Houthi forces in Qatabah city and Humar (Qaatabah, Ad Dali).
+
+---
+
+[EVENT: YEM30134]
+Date: 2019-04-01
+Country: Yemen | Location: Hammam Damt
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 3
+Sources: Al Mawqea; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+A number of pro-Houthi fighters were reported killed in Jabal Shami area of Damt district in Al-Dali governorate, southern Yemen, in a failed missile launch that resulted in the explosion of the device. Unknown reported fatalities in a low-intensity event coded as 3.
+
+---
+
+[EVENT: YEM30139]
+Date: 2019-04-01
+Country: Yemen | Location: Qatabah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Security Belt Forces) [Political militia]
+Fatalities: 0
+Sources: Samaa TV (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Security Belt forces reportedly launched a security campaign against alleged pro-Houthi individuals or individuals accused of working with Houthi forces in Qa'tabah city and Humar area of Al-Dali governorate in southern Yemen.
+
+---
+
+[EVENT: YEM30133]
+Date: 2019-04-01
+Country: Yemen | Location: Al Wuday
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Security Belt Forces) [Political militia]
+Actor2: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: Al Masdar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Security Belt forces, backed by UAE forces, reportedly arrested one of the most prominent explosives experts of AQAP, Abdelqadir Al-Mawt, after storming his house south of Al-Wuday district in Abyan governorate, southern Yemen.
+
+---
+
+[EVENT: YEM30141]
+Date: 2019-04-01
+Country: Yemen | Location: Aden - Al Mimdarah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Yafa News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 1 April 2019, Security forces reportedly dismantled an explosive device of unknown origin in Mimdrah area of Aden port city, the country's interim capital in southwestern Yemen, after another device exploded while a vehicle of the 1st Brigade of the Presidential Guard was driving through the area. No fatalities nor injuries were reported.
+
+---
+
+[EVENT: YEM30241]
+Date: 2019-04-04
+Country: Yemen | Location: Al Fazzah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Sputnik News Service; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 4 April 2019, Anti-Houthi forces shot down an alleged Houthi-operated drone flying over anti-Houthi forces in Al Fazzah coastal area (At Tuhayta, Al Hudaydah), western Yemen, with no report of fatalities nor injuries.
+
+---
+
+[EVENT: YEM30274]
+Date: 2019-04-05
+Country: Yemen | Location: Al Jah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: 2 December News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 5 April 2019, pro-Houthi forces reportedly redeployed towards Al Jah area of Bayt al Faqiah,northwest of Zabid city, western Yemen.
+
+---
+
+[EVENT: YEM30331]
+Date: 2019-04-06
+Country: Yemen | Location: Sayun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Al Motabaat; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 6 April 2019, more than 300 Saudi soldiers were reportedly deployed to the city of Sayun in Hadramawt governorate, eastern Yemen, along with an anti-missile Patriot system, to protect the upcoming parliamentary session that will be held in the city.
+
+---
+
+[EVENT: YEM30315]
+Date: 2019-04-06
+Country: Yemen | Location: Hizyaz
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 30
+Sources: Aden al Ghad [National]
+
+DESCRIPTION:
+30 Houthi rocket--engineers were reportedly killed when a missile pre-detonated as they were transporting it through Haziz neighborhood in Sana'a.
+
+---
+
+[EVENT: YEM30333]
+Date: 2019-04-07
+Country: Yemen | Location: Al Mahfid
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Security Belt Forces) [Political militia]
+Fatalities: 0
+Sources: Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 7 April 2019, Security Belt forces reportedly launched a security campaign targeting a wanted AQAP militant in Al-Mahfad district of Abyan governorate, southern Yemen.
+
+---
+
+[EVENT: YEM30362]
+Date: 2019-04-08
+Country: Yemen | Location: Wadi Himarah
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Security Belt Forces) [Political militia]
+Fatalities: 0
+Sources: Aden al Ghad; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 8 April 2019, Security Belt forces reportedly regained control of Wadi Himarah area of Abyan governorate, southern Yemen, after AQAP militants fled the site.
+
+---
+
+[EVENT: YEM30388]
+Date: 2019-04-08
+Country: Yemen | Location: Mustaba
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Window [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 8 April 2019, pro-Hadi forces claimed to have dismantled 120 alleged Houthi-planted explosive devices from Al-Hamra village and surrounding areas in Mustaba district of Hajjah border governorate, northwestern Yemen, with no report of fatalities nor injuries.
+
+---
+
+[EVENT: YEM30457]
+Date: 2019-04-10
+Country: Yemen | Location: Al Ayn
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi - 35th Armored Brigade [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Freedom (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Weapons seizure: On 10 April 2019, the 35th Armoured Brigade reportedly seized a truck loaded with weapons at a checkpoint in Al-Mawasit district of Taizz governorate, as it was on its way to pro-Houthi forces in Al-Hawban area. The truck contained RPGs and large amounts of small to heavy caliber ammunitions.
+
+---
+
+[EVENT: YEM30449]
+Date: 2019-04-10
+Country: Yemen | Location: Sayun
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 10 April 2019, Saudi forces shot down 1 Houthi drone over Sayun city (Hadramawt). This was the first Houthi drone to be shot down in 12 hours with the second one being coded the day after. Saudi forces had deployed 300 soldiers and an anti-missile Patriot system in Sayun on April 6 in preparation for the upcoming parliamentary session to be held in the city.
+
+---
+
+[EVENT: YEM30468]
+Date: 2019-04-11
+Country: Yemen | Location: Al Jah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 11 April 2019, pro-Houthi forces were spotted while moving towards Al Jah area of Bayt al Faqiah district, northwest of Zabid city in Al Hudaydah governorate.
+
+---
+
+[EVENT: YEM30475]
+Date: 2019-04-11
+Country: Yemen | Location: Sayun
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 11 April 2019, Saudi forces shot down 1 Houthi drone over Sayun city (Hadramawt). This was the second Houthi drone to be shot down in 12 hours with the first one being coded the day prior. Saudi forces had deployed 300 soldiers and an anti-missile Patriot system in Sayun on April 6 in preparation for the upcoming parliamentary session to be held in the city.
+
+---
+
+[EVENT: YEM30508]
+Date: 2019-04-12
+Country: Yemen | Location: Sayun
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: STC Aden; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 12 April 2019, pro-Hadi forces reportedly arrested the leader of Sayun Southern Transitional Council, Tahir Ba Ubad, and one of his relatives. The spokesperson of the STC condemned the event as an act of war and called the people of Hadhramawt to prepare to liberate the governorate.
+
+---
+
+[EVENT: YEM30552]
+Date: 2019-04-13
+Country: Yemen | Location: Sayun
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Al Sharia Press; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 13 April 2019, the pro-Hadi members of the Yemeni parliament reportedly held its first session since 4 years in Sayun city, Hadramawt governorate. 141 parliament members attended the session and appointed Sultan Al Barakani as head of the parliament.
+
+---
+
+[EVENT: YEM30551]
+Date: 2019-04-13
+Country: Yemen | Location: Sayun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Al Janoob; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 13 April 2019, following an attack conducted by unidentified armed men against the Government complex in Sayun, Hadramawt governorate, pro-Hadi forces surrounded buildings inhabited by the MPs and closed city entrance roads.
+
+---
+
+[EVENT: YEM30761]
+Date: 2019-04-14
+Country: Yemen | Location: Hays
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 3
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 14 April 2019, three pro-Houthi fighters reportedly died in the early explosion of a landmine they were planting near Zami area of Hays district in the south of Hodeidah governorate, western Yemen.
+
+---
+
+[EVENT: YEM30686]
+Date: 2019-04-14
+Country: Yemen | Location: Asaf Murays
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Yafa News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 14 April 2019, pro-Hadi forces and affiliates claimed to have shot down an alleged Houthi-operated drone over Asaf Murays front (Qaatabah, Ad Dali), southern Yemen, with no report of fatalities nor injuries.
+
+---
+
+[EVENT: YEM30725]
+Date: 2019-04-15
+Country: Yemen | Location: Dhi Maddahi
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 2
+Sources: Yemen Data Project; Yemen News Agency SABA [Local partner-National]
+
+DESCRIPTION:
+On 15 April 2019, two pro-Hadi fighters reportedly died and others were injured in the early explosion of a device they were planting on the main road leading to Dhi Maddahi area of Al-Bayda governorate in central Yemen.
+
+---
+
+[EVENT: YEM30706]
+Date: 2019-04-15
+Country: Yemen | Location: Hays
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 15 April 2019, pro-Houthi reinforcements reportedly arrived in the east of Hays district in the south of Hodeidah governorate, western Yemen.
+
+---
+
+[EVENT: YEM30747]
+Date: 2019-04-16
+Country: Yemen | Location: At Tuhayta
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 16 April 2019, anti-Houthi Giants forces claimed to have shot down an alleged Houthi-operated drone over the north of At Tuhayta district (Al Hudaydah), western Yemen, with no report of fatalities nor injuries.
+
+---
+
+[EVENT: YEM50320]
+Date: 2019-04-17
+Country: Yemen | Location: Al Fatk
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Al Mahrah Post [Subnational]
+
+DESCRIPTION:
+Interception: On 17 April 2019, Mahri policemen reportedly refused to let in Saudi-backed gunmen at Al-Labib checkpoint (coded at Al Fatk) in Al Mahrah eastern governorate with no report of fatalities nor injuries. The next day, they were targeted by Saudi Apache helicopters.
+
+---
+
+[EVENT: YEM30611]
+Date: 2019-04-19
+Country: Yemen | Location: Ar Raqah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (France) [Civilians]
+Fatalities: 0
+Sources: Al Hekmah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 19 April 2019, pro-Houthi forces reportedly detained 20 employees of the French Agency for Technical Cooperation and Development (ACTED) working for the UN and prevented them from leaving Bani Qais district. Also, they closed the roads on them, investigated them, and confiscated their passports.
+
+---
+
+[EVENT: YEM30668]
+Date: 2019-04-19
+Country: Yemen | Location: Sayun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen Saeed; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 19 April 2019, Saudi forces that reportedly were deployed in Sayun to protect the parliamentary session left the city directed towards Al Wadia border crossing.
+
+---
+
+[EVENT: YEM30603]
+Date: 2019-04-19
+Country: Yemen | Location: Sadah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Ansar Allah; The Avionist; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 19 April 2019, Houthi forces shot down 1 UAE Wing Loong I drone (coded under ORH) armed with missiles over Sadah border governorate using air-to-air missiles repurposed as surface-to-air missiles.
+
+---
+
+[EVENT: YEM30592]
+Date: 2019-04-19
+Country: Yemen | Location: Tawr al Bahah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Al Islah Party [Political militia]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 19 April 2019, armed militias led by an Islah leadership reportedly established a security checkpoint in Tur Al Bahah district of Lahij governorate, preventing citizens from entering or exiting Taizz governorate. The group reportedly smuggled weapons selling them to pro-Houthi forces.
+
+---
+
+[EVENT: YEM30672]
+Date: 2019-04-20
+Country: Yemen | Location: Al Hudaydah - Street 50
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Fatalities: 0
+Sources: Al Masirah [National]
+
+DESCRIPTION:
+On 20 April 2019, anti-Houthi forces reportedly established new fortifications in 50 street of Al Hali, northeast of Al Hudaydah city, western Yemen.
+
+---
+
+[EVENT: YEM30820]
+Date: 2019-04-21
+Country: Yemen | Location: Wadi al Abu Jubarah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Ansar Allah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 21 April 2019, Houthi forces claimed to have shot down 1 Saudi-led coalition reconnaissance drone over Wadi Al Abu Jubarah (Kitaf wa Al Boqee, Sadah).
+
+---
+
+[EVENT: YEM30807]
+Date: 2019-04-21
+Country: Yemen | Location: Al Hudaydah - Kilu 16
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Ansar Allah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 21 April 2019, Houthi forces claimed to have shot down a Saudi-led coalition drone over Al Hudaydah - Kilu 16 (Ad Durayhimi).
+
+---
+
+[EVENT: YEM54023]
+Date: 2019-04-21
+Country: Yemen | Location: At Tuwal Border Crossing
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 54
+Sources: Ansar Allah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 21 April 2019, Houthi forces claimed to have fired 1 Badr-F ballistic missile at Saudi and pro-Hadi forces in Al Istiqbal military camp west of At Tuwal Border Crossing (Harad, Hajjah) off Jizan Saudi province. It killed 9 Saudi soldiers and 45 pro-Hadi fighters and injuring dozens others.
+
+---
+
+[EVENT: YEM30830]
+Date: 2019-04-22
+Country: Yemen | Location: Qatabah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni - Pro-IRG; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 22 April 2019, pro-Houthi forces reportedly reinforced their positions between Ibb and Al-Dali governorates with military vehicles, military tanks, and soldiers in order to move them to Al-Husha, Qa'atabah, Al-Awd fronts in Al-Dali.
+
+---
+
+[EVENT: YEM30841]
+Date: 2019-04-22
+Country: Yemen | Location: Maqbanah Junction
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Fatalities: 0
+Sources: Ansar Allah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 22 April 2019, an anti-Houthi military bulldozer reportedly established fortifications in Maqbanah Junction of Hays district in the south of Hodeidah governorate, western Yemen.
+
+---
+
+[EVENT: YEM30834]
+Date: 2019-04-22
+Country: Yemen | Location: Al Hudaydah - Kilu 16
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Press [Local partner-National]
+
+DESCRIPTION:
+Interception: On 22 April 2019, Houthi forces claimed to have shot down a Saudi-led coalition drone over Al Hudaydah - Kilu 16 (Ad Durayhimi) for the second consecutive day.
+
+---
+
+[EVENT: YEM48913]
+Date: 2019-04-24
+Country: Yemen | Location: Az Zahir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+On 24 April 2019, UAE forces reportedly sent reinforcements from the 5th Support and Reinforcement Brigade of the Security Belt Forces in Al-Had district of Lahij governorate and neighbouring Al-Zahir district of Al-Bayda governorate, southern Yemen, to lead a new offensive against IS forces in Al-Bayda governorate.
+
+---
+
+[EVENT: YEM30881]
+Date: 2019-04-24
+Country: Yemen | Location: Al Musaybir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 24 April 2019, anti-Houthi forces reported a build-up of pro-Houthi fighters, including the mobilisation of heavy and medium weapons, west of Al-Musaybir area in Hays district in the south of Hodeidah governorate, western Yemen. They claimed that pro-Houthi forces might be preparing for an attack.
+
+---
+
+[EVENT: YEM30886]
+Date: 2019-04-24
+Country: Yemen | Location: Bani Bakr
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+On 24 April 2019, UAE forces reportedly sent reinforcements from the 5th Support and Reinforcement Brigade of the Security Belt Forces in Al-Had district of Lahij governorate and neighbouring Al-Zahir district of Al-Bayda governorate, southern Yemen, to lead a new offensive against IS forces in Al-Bayda governorate.
+
+---
+
+[EVENT: YEM30895]
+Date: 2019-04-25
+Country: Yemen | Location: Aden - Coalition Command Camp
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Mareb Press; Yemen News Agency (SABA) - Houthi [National]
+
+DESCRIPTION:
+Interception: On 25 April 2019, Saudi-led coalition forces shot down a Houthi attack drone over Al Buraiqeh district while Houthi forces claimed to have targeted Aden - Coalition Command Camp in the district with a Qasif-2K drone successfully killing a number of fighters.
+
+---
+
+[EVENT: YEM30940]
+Date: 2019-04-26
+Country: Yemen | Location: Taizz - Usayfarah
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi - Presidential Guard [State forces]
+Actor2: Militia (Abu al Abbas) [Political militia]
+Fatalities: 0
+Sources: Aden al Ghad [National]
+
+DESCRIPTION:
+26 April 2019: The 35th Brigade, which comprises of gunmen from the Abu Al-Abbas militia, reportedly agreed to hand over the control of areas Taiz's old city to forces of the 5th Brigade (Presidential Guard) forces after days of violent clashes. The source specified that troops would be re-deployed to Kadahah area of Taiz governorate, where clashes are being fought with Houthi forces. Finally, Abu Al Abbas only withdrew to Al Turbah instead of Al Kadaha.
+
+---
+
+[EVENT: YEM30996]
+Date: 2019-04-28
+Country: Yemen | Location: Al Hudaydah - Kilu 16
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Fatalities: 0
+Sources: Ansar Allah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 28 April 2019, an anti-Houthi military bulldozer reportedly established fortifications in Kilo 16 area in the east of Hodeidah city, western Yemen, along the Hodeidah-Sana'a road.
+
+---
+
+[EVENT: YEM30985]
+Date: 2019-04-28
+Country: Yemen | Location: Thirah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Security Belt Forces) [Political militia]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Window [Local partner-National]
+
+DESCRIPTION:
+On 28 April 2019, Security Belt and Saudi-led coalition forces reportedly sent military reinforcements to Thirah watchtower at the border between Abyan and Al-Bayda governorates and warned pro-Houthi forces from any attempts at entering Abyan southern governorate.
+
+---
+
+[EVENT: YEM31024]
+Date: 2019-04-29
+Country: Yemen | Location: Hays
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 29 April 2019, hundreds of pro-Houthi fighters reportedly arrived as reinforcements in Hays district in the south of Hodeidah governorate, western Yemen.
+
+---
+
+[EVENT: YEM31078]
+Date: 2019-05-01
+Country: Yemen | Location: Coast of Jazirat at Tarfah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Masirah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 1 May 2019, anti-Houthi forces, coded as WCJF, arrested 150 fishers as they seized 15 fishing boats southwest off the Coast of Jazirat at Tarfah (Ad Durayhimi, Al Hudaydah).
+
+---
+
+[EVENT: YEM31093]
+Date: 2019-05-02
+Country: Yemen | Location: Asaf Murays
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Al Methaq; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 2 May 2019, anti-Houthi reinforcements coming from Marib and the 4th Military district reportedly reached the Murays front line, north of Ad dali governorate.
+
+---
+
+[EVENT: YEM31097]
+Date: 2019-05-02
+Country: Yemen | Location: Qatabah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Al Methaq; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 2 May 2019, anti-Houthi reinforcements coming from Marib and the 4th Military district reportedly reached the Qaatabah front line, north of Ad dali governorate.
+
+---
+
+[EVENT: YEM31111]
+Date: 2019-05-02
+Country: Yemen | Location: At Tuhayta
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 2 May 2019, anti-Houthi Giants forces reported that dozens of pro-Houthi vehicles entered Al-Tuhayta district in the south of Hodeidah governorate, western Yemen, as reinforcement forces.
+
+---
+
+[EVENT: YEM31092]
+Date: 2019-05-02
+Country: Yemen | Location: Ad Dali
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Al Methaq; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 2 May 2019, anti-Houthi reinforcements of the As Saiqah brigade, led by Colonel Abdulkarim As Sawlani, reportedly reached the Ad Dali front line coming from Aden.
+
+---
+
+[EVENT: YEM31139]
+Date: 2019-05-03
+Country: Yemen | Location: Uzlat Bani Hasan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Aden al Ghad; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 3 May 2019, anti-Houthi forces intercepted and destroyed a pro-Houthi unmanned drone flying over Bani Hasan area of Abs district, Hajjah border governorate, northwestern Yemen.
+
+---
+
+[EVENT: YEM31170]
+Date: 2019-05-05
+Country: Yemen | Location: Ad Dali
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi - Presidential Guard [State forces]
+Fatalities: 0
+Sources: Al Ahrar; Mareb Press; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 5 May 2019, several brigades of Hadi-loyal Presidential Protection Forces, led by General Zaki Al-Hajj, reportedly arrived in Al-Dali governorate from their base in Aden to help consolidate the front.
+
+---
+
+[EVENT: YEM31172]
+Date: 2019-05-05
+Country: Yemen | Location: Qatabah
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi - Presidential Guard [State forces]
+Fatalities: 0
+Sources: Al Ahd News; Bawabati; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 5 May 2019, Presidential Protection Forces reportedly settled in the security building of Qatabah as they arrived in Al-Dali governorate, southern Yemen, to join the anti-Houthi front. On May 8, the 7th Battalion of the 33rd Armoured Brigade dislodged Presidential Protection Forces from the building, which they initially occupied before going to the frontlines to fight pro-Houthi forces. Presidential Protection Forces reportedly left the governorate following this incident.
+
+---
+
+[EVENT: YEM31254]
+Date: 2019-05-07
+Country: Yemen | Location: Taizz - Ath Thawrah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi - 22nd Armored Brigade [State forces]
+Fatalities: 0
+Sources: Al Montasaf; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 7 May 2019, armed man from Al-Islah party and a military vehicle of Taizz axis belonging to Islah-affiliated soldiers (likely from the 22nd Brigade) reportedly took control of Al-Thawrah hospital in Taizz city, southwestern Yemen, and closed all sections of the hospital except for the emergency section, supported by MSF. The reason behind the move is unclear.
+
+---
+
+[EVENT: YEM31253]
+Date: 2019-05-07
+Country: Yemen | Location: Hadibu
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Security Belt Forces) [Political militia]
+Fatalities: 0
+Sources: Al Ameen Press; Al Mawqea; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 7 May 2019, a contingent of more than 100 fighters from the Security Belt Forces reportedly arrived in Suqutra island from Aden on a UAE ship. According to Major General Salim Al-Suqutri, the contingent consists of local Suqutris who have just undergone training in Aden and came back to Suqutra to 'maintain security and stability' on the island. 200 more fighters are allegedly still undertaking training in Aden.
+
+---
+
+[EVENT: YEM31256]
+Date: 2019-05-08
+Country: Yemen | Location: Tuwarsah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 8 May 2019, anti-Houthi forces from the 4th, 5th and 12th Giants Brigades reportedly arrived in Tuwarsah front in Al-Dali governorate, southern Yemen, to join the fight against pro-Houthi forces.
+
+---
+
+[EVENT: YEM31304]
+Date: 2019-05-09
+Country: Yemen | Location: At Tuhayta
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 9 May 2019, pro-Houthi reinforcements including military vehicles, fighters, and heavy weapons reportedly reached At Tuhayta district, west of Zabid city in Al Hudaydah governorate, western Yemen.
+
+---
+
+[EVENT: YEM31317]
+Date: 2019-05-10
+Country: Yemen | Location: Az Zahir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Fatalities: 0
+Sources: Aden al Ghad [National]
+
+DESCRIPTION:
+10 May 2019: Giants Brigade forces were deployed to Az Zahir district of Al-Baydha to support Popular Resistance fighters and Humayqan Tribal Forces in the fight against Houthi forces.
+
+---
+
+[EVENT: YEM31344]
+Date: 2019-05-11
+Country: Yemen | Location: Hays
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Other: On 11 May 2019, pro-Houthi forces opened light fire on residential areas in Hays district (Al Hudaydah). *Based on previous events and reporting patterns, the actual 'residential' nature of these areas is unclear.
+
+---
+
+[EVENT: YEM31339]
+Date: 2019-05-11
+Country: Yemen | Location: As Salif
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Reuters; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 11 May 2019, pro-Houthi forces reportedly started to withdraw from As Salif port, northwest of Al Hudaydah city, western Yemen.
+
+---
+
+[EVENT: YEM31489]
+Date: 2019-05-12
+Country: Yemen | Location: Taizz - Ad Darbah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 12 May 2019, security forces reportedly dismantled an explosive device of unknown origin in Jamal Street of Taizz city, following the explosion of a roadside bomb in front of the National Bank building (just south of Al-Darbah neighbourhood), in the western side of the city.
+
+---
+
+[EVENT: YEM31513]
+Date: 2019-05-13
+Country: Yemen | Location: At Tuhayta
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Mashhad Al Araby; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 13 May 2019, in the evening, hundreds of pro-Houthi fighters reportedly arrived as reinforcements in Hays and Tuhayta districts in the south of Hodeidah governorate, western Yemen, from neighbouring Al-Jarrahi district as well as from Ibb governorate.
+
+---
+
+[EVENT: YEM31517]
+Date: 2019-05-13
+Country: Yemen | Location: Hays
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Mashhad Al Araby; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 13 May 2019, in the evening, hundreds of pro-Houthi fighters reportedly arrived as reinforcements in Hays and Tuhayta districts in the south of Hodeidah governorate, western Yemen, from neighbouring Al-Jarrahi district as well as from Ibb governorate.
+
+---
+
+[EVENT: YEM31546]
+Date: 2019-05-14
+Country: Yemen | Location: Dayan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 14 May 2019, Houthi forces shot down 1 UAE MQ-1 Predator XP drone (coded under ORH) over Dayan in the south of Sanaa (Bani Matar) with surface-to-air missiles.
+
+---
+
+[EVENT: YEM31548]
+Date: 2019-05-14
+Country: Yemen | Location: Taizz - Bab Musa
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Al Mawqea; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 14 May 2019, security forces reportedly dismantled two explosive devices of unknown origin near Al-Mudhaffar Hospital, located 200m south of Bab Musa, in the western side of Taizz city, with no report of fatalities nor injuries.
+
+---
+
+[EVENT: YEM31574]
+Date: 2019-05-15
+Country: Yemen | Location: Ras Isa
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: BBC News [International]
+
+DESCRIPTION:
+On 15 May 2019, the UN reported that Houthi forces had withdrawn from Hudaydah, Ras Issa and Saleef ports and handed over control to pro-Houthi Coast Guard forces. They also provided access for UN inspections.
+
+---
+
+[EVENT: YEM31575]
+Date: 2019-05-15
+Country: Yemen | Location: As Salif Port
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: BBC News [International]
+
+DESCRIPTION:
+On 15 May 2019, the UN reported that Houthi forces had withdrawn from Hudaydah, Ras Issa and Saleef ports and handed over control to pro-Houthi Coast Guard forces. They also provided access for UN inspections.
+
+---
+
+[EVENT: YEM31566]
+Date: 2019-05-15
+Country: Yemen | Location: Al Hudaydah - Al Yamani Dairy Factory
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 15 May 2019, pro-Houthi forces reportedly shelled the eastern neighbourhoods of Hodeidah Red Sea port city, western Yemen, with no report of fatalities nor injuries. This included sniper rifles, mortars and 14.5mm and 12.7mm machine guns fire on residential areas of Sana'a Street (coded at the Thabit Brothers Complex), and 14.5mm and 12.7mm machine guns on northeastern neighbourhoods.
+
+---
+
+[EVENT: YEM31570]
+Date: 2019-05-15
+Country: Yemen | Location: Al Hudaydah - Port
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: BBC News [International]
+
+DESCRIPTION:
+On 15 May 2019, the UN reported that Houthi forces had withdrawn from Hudaydah, Ras Issa and Saleef ports and handed over control to pro-Houthi Coast Guard forces. They also provided access for UN inspections.
+
+---
+
+[EVENT: YEM31594]
+Date: 2019-05-16
+Country: Yemen | Location: Mahall ash Shaykh al Hasamah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-National]
+
+DESCRIPTION:
+On 16 May 2019, anti-Houthi forces reportedly fired light and medium machine guns at az Zafran and Mahal ash Shaykh villages of Ad Durayhimi district, southeast of Al Hudaydah city, western Yemen. No fatalities nor injuries reported.
+
+---
+
+[EVENT: YEM31595]
+Date: 2019-05-16
+Country: Yemen | Location: Bir az Zafaran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-National]
+
+DESCRIPTION:
+On 16 May 2019, anti-Houthi forces reportedly fired light and medium machine guns at az Zafran and Mahal ash Shaykh villages of Ad Durayhimi district, southeast of Al Hudaydah city, western Yemen. No fatalities nor injuries reported.
+
+---
+
+[EVENT: YEM31650]
+Date: 2019-05-17
+Country: Yemen | Location: Al Ghayzah - Airport
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Aden al Ghad; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 17 May 2019, anti-Houthi forces (coded as pro-Hadi) intercepted and destroyed at least 1 out of 3 suspected pro-Houthi reconnaissance drones over Al Ghayzah - Airport (Al Ghaydah, Al Mahrah).
+
+---
+
+[EVENT: YEM31637]
+Date: 2019-05-17
+Country: Yemen | Location: Qatabah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 1
+Sources: Al Yemen Al Araby [National]
+
+DESCRIPTION:
+17 May 2019: A landmine planted earlier by anti-Houthi forces detonated in the mount Winan area of Qaatabah, killing one Houthi soldier and wounding two others.
+
+---
+
+[EVENT: YEM31644]
+Date: 2019-05-17
+Country: Yemen | Location: Al Hudaydah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Fatalities: 0
+Sources: Ansar Allah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Other: On 17 May 2019, anti-Houthi WCJF fired light and medium weapons at various commercial shops and at Al Awadi and Sabiha factories in Al Hudaydah city. *Based on previous events and reporting patterns, the actual 'civilian' nature of these targets is unclear.
+
+---
+
+[EVENT: YEM31693]
+Date: 2019-05-18
+Country: Yemen | Location: Al Misrakh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Saeed [Local partner-National]
+
+DESCRIPTION:
+On 18 May 2019, unidentified gunmen reportedly stormed and looted the house of former Taizz governor Amin Mahmud in Al-Misrakh district of the governorate, with no report of fatalities nor injuries. After the incident, Amin Mahmud sent a letter to President Hadi to report about the break-in.
+
+---
+
+[EVENT: YEM31716]
+Date: 2019-05-19
+Country: Yemen | Location: Al Misrakh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Saeed [Local partner-National]
+
+DESCRIPTION:
+On 19 May 2019, unidentified gunmen on military vehicles reportedly burnt the house of former Taizz governor Amin Mahmud in Al-Misrakh district of the governorate, a day after it was stormed and looted in a similar incident the day before, with no report of fatalities nor injuries. After the first incident, Amin Mahmud had sent a letter to President Hadi to report about the break-in.
+
+---
+
+[EVENT: YEM31735]
+Date: 2019-05-20
+Country: Yemen | Location: Al Jabaliyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 20 May 2019, pro-Houthi forces reportedly mobilised hundreds of fighters and their vehicles as reinforcements in Al-Jabaliyah area in the south of Hodeidah governorate, western Yemen.
+
+---
+
+[EVENT: YEM31747]
+Date: 2019-05-20
+Country: Yemen | Location: Al Mafud
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Shabwani Elite Forces) [Political militia]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Media Center [Local partner-National]
+
+DESCRIPTION:
+On 20 May 2019, anti-Houthi Shabwani Elite Forces reinforcements, including armored military vehicles, reached Arma district, northeast of Shabwah governorate, coming from the Elite Forces military camp of Adh Dhliaah district in Hadramawt.
+
+---
+
+[EVENT: YEM31733]
+Date: 2019-05-20
+Country: Yemen | Location: Al Hudaydah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Sahwah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 20 May 2019, anti-Houthi forces reported that pro-Houthi forces deployed fighters and vehicles on the western coastal part of Hodeidah Red Sea port city, western Yemen, including in the city's airport, Al-Rabsah neighbourhood, the port, Al-Thawrah Hospital area and the Corniche. The forces reportedly dug trenches in the streets overlooking the Corniche and around Hodeidah airport, while it also planted landmines around the airport and in surrounding neighbourhoods.
+
+---
+
+[EVENT: YEM31756]
+Date: 2019-05-21
+Country: Yemen | Location: Hays
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 21 May 2019, pro-Houthi fighters reportedly arrived as reinforcements in Hays district in the south of Hodeidah governorate, western Yemen.
+
+---
+
+[EVENT: YEM31755]
+Date: 2019-05-21
+Country: Yemen | Location: Hays
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: West Coast Joint Forces [Political militia]
+Fatalities: 0
+Sources: Ansar Allah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 21 May 2019, pro-Houthi forces claimed to have shot down an anti-Houthi (coded as WCJF) reconnaissance drone in the northwest of Hays district (Al Hudaydah).
+
+---
+
+[EVENT: YEM31773]
+Date: 2019-05-22
+Country: Yemen | Location: Asaf Murays
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Mareb Press; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 22 May 2019, anti-Houthi forces reportedly gained control over the road connecting Qaatabah to Murays, in Ad Dali governorate, and put under siege Murays area. *Although not mentioned in the source, Southern Resistance and Security Belt forces are reported to be active in the area by other sources.
+
+---
+
+[EVENT: YEM31792]
+Date: 2019-05-22
+Country: Yemen | Location: At Tuhayta
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 22 May 2019, anti-Houthi Giants forces reported that pro-Houthi reinforcements arrived on the outskirts of Al-Tuhayta city in the south of Hodeidah governorate, western Yemen.
+
+---
+
+[EVENT: YEM31815]
+Date: 2019-05-23
+Country: Yemen | Location: Al Hudaydah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 23 and 24 May, pro-Houthi forces reportedly raised the level of alert in Al Hudaydah city, reinforcing their positions with fighters and snipers and digging new trenches.
+
+---
+
+[EVENT: YEM31808]
+Date: 2019-05-23
+Country: Yemen | Location: Ad Dali
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi - Political Security Organization [State forces]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni - Pro-IRG [National]
+
+DESCRIPTION:
+On 23 May 2019, the protection Battalion and the Special Tasks of the Aden Department of Security deployed from Aden to al Dhaleh to support the fight against the Houthis.
+
+---
+
+[EVENT: YEM31809]
+Date: 2019-05-23
+Country: Yemen | Location: Bajah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 23 May 2019, anti-Houthi Giants Brigade forces intercepted and destroyed a pro-Houthi reconnaissance drone flying over Bajah (Ad Dhalee, Ad Dali).
+
+---
+
+[EVENT: YEM31828]
+Date: 2019-05-24
+Country: Yemen | Location: Al Hudaydah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 23 and 24 May, pro-Houthi forces reportedly raised the level of alert in Al Hudaydah city, reinforcing their positions with fighters and snipers and digging new trenches.
+
+---
+
+[EVENT: YEM31830]
+Date: 2019-05-24
+Country: Yemen | Location: Coast of Manzar
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 24 May 2019, WCJF defused several presumed Houthi-planted sea mines off the Coast of Manzar (Al Hawak, Al Hudaydah)
+
+---
+
+[EVENT: YEM31826]
+Date: 2019-05-24
+Country: Yemen | Location: Aden - Ash Shaikh Outhman
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi - Presidential Guard [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Aden al Ghad [Subnational]
+
+DESCRIPTION:
+Defusal: On 24 May 2019: A bomb was planted under a Presidential Protection officer's vehicle Ash Shaikh Outhman in what appeared to be an assassination attempt.The bomb was later defused with no injuries.
+
+---
+
+[EVENT: YEM31829]
+Date: 2019-05-24
+Country: Yemen | Location: Al Hudaydah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Around 24 May 2019, pro-Houthi forces in Al Hudaydah city, western Yemen, started a wide campaign of arrests that targeted all segments of the population in the city.
+
+---
+
+[EVENT: YEM48820]
+Date: 2019-05-25
+Country: Yemen | Location: Jabal ad Dud Frontline
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 25 May 2019, pro-Houthi forces intercepted and destroyed a Saudi-affiliated reconnaissance drone east of Jabal ad Dud area in Jizan Saudi province (coded to Jabal ad Dud Frontline in Yemen) (Al Dhaher, Sadah). *ACLED defaults to coding the event on the Yemeni side when the source describes a large area along the Saudi-Yemeni border.
+
+---
+
+[EVENT: YEM31891]
+Date: 2019-05-26
+Country: Yemen | Location: Bajil
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni - Pro-IRG; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 26 May 2019, anti-Houthi media reported that pro-Houthi forces in Bajil district, Hodeidah governorate, western Yemen, are conducting recruitment campaigns toward students and unemployed people.
+
+---
+
+[EVENT: YEM31887]
+Date: 2019-05-26
+Country: Yemen | Location: Al Mansuriyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni - Pro-IRG; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 26 May 2019, anti-Houthi media reported that pro-Houthi forces in al Mansuriyah district, Hodeidah governorate, western Yemen, are conducting recruitment campaigns targeting students and unemployed people.
+
+---
+
+[EVENT: YEM31888]
+Date: 2019-05-26
+Country: Yemen | Location: Al Marawiah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni - Pro-IRG; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 26 May 2019, anti-Houthi media reported that pro-Houthi forces in Al Marawiyah district, Hodeidah governorate, western Yemen, are conducting recruitment campaigns toward students and unemployed people.
+
+---
+
+[EVENT: YEM31894]
+Date: 2019-05-26
+Country: Yemen | Location: Hays
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 26 May 2019, anti-Houthi Giants forces reported that pro-Houthi reinforcements arrived in several districts of Hodeidah governorate, western Yemen. This included north, east and south of Hays city, east and south of Tuhayta city, on the Jabaliyah front, and in Durayhimi just south of Hodeidah.
+
+---
+
+[EVENT: YEM31890]
+Date: 2019-05-26
+Country: Yemen | Location: At Tuhayta
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 26 May 2019, anti-Houthi Giants forces reported that pro-Houthi reinforcements arrived in several districts of Hodeidah governorate, western Yemen. This included north, east and south of Hays city, east and south of Tuhayta city, on the Jabaliyah front, and in Durayhimi just south of Hodeidah.
+
+---
+
+[EVENT: YEM31889]
+Date: 2019-05-26
+Country: Yemen | Location: Al Jabaliyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 26 May 2019, anti-Houthi Giants forces reported that pro-Houthi reinforcements arrived in several districts of Hodeidah governorate, western Yemen. This included north, east and south of Hays city, east and south of Tuhayta city, on the Jabaliyah front, and in Durayhimi just south of Hodeidah.
+
+---
+
+[EVENT: YEM31874]
+Date: 2019-05-26
+Country: Yemen | Location: Aden
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Southern Resistance [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Xinhua; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 26 May 2019, 33 pro-Houthi fighters were reportedly released from custody in Aden by pro-STC Southern Resistance Forces in exchange for Houthi forces releasing Southern Resistance Brigadier Ahmed Umar Marqashi, one of the leaders of the Southern Movement, after 11 years of detention, from the central prison of Sanaa.
+
+---
+
+[EVENT: YEM31879]
+Date: 2019-05-26
+Country: Yemen | Location: Al Hudaydah - Hali Coastal Defence Military Camp
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: 2 December News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 26 May 2019, anti-Houthi media reported that pro-Houthi forces were digging tunnels and building trenches behind the coastal defence camp and around the July 7 neighbourhood in the east of Hodeidah Red Sea port city, western Yemen.
+
+---
+
+[EVENT: YEM31876]
+Date: 2019-05-26
+Country: Yemen | Location: Ad Durayhimi
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 26 May 2019, anti-Houthi Giants forces reported that pro-Houthi reinforcements arrived in several districts of Hodeidah governorate, western Yemen. This included north, east and south of Hays city, east and south of Tuhayta city, on the Jabaliyah front, and in Durayhimi just south of Hodeidah.
+
+---
+
+[EVENT: YEM46115]
+Date: 2019-05-27
+Country: Yemen | Location: Aden
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Government of Yemen (2017-) Houthi [State forces]
+Actor2: STC: Southern Transitional Council of South Arabia [Political militia]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni - Pro-IRG [National]
+
+DESCRIPTION:
+On 27 May 2019, a Houthi official announced that about 400 Houthi prisoners were released by UAE-backed forces in areas under control of the Southern Transition Council [Aden] (Craiter, Aden). He also stated a similar number of Southern prisoners were released by Houthi forces as part of the deal. The deal was concluded due to local mediation.
+
+---
+
+[EVENT: YEM31920]
+Date: 2019-05-27
+Country: Yemen | Location: Zabid
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 27 May 2019, anti-Houthi media reported that pro-Houthi forces launched a large-scale arrest campaign in Zabid district of Hodeidah governorate, western Yemen, as a response to the local population refusing to join the fighting fronts.
+
+---
+
+[EVENT: YEM32138]
+Date: 2019-06-02
+Country: Yemen | Location: Ad Durayhimi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: West Coast Joint Forces [Political militia]
+Fatalities: 0
+Sources: Ansar Allah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 2 June 2019, pro-Houthi forces claimed to have shot down an anti-Houthi (coded as WCJF) reconnaissance drone over Ad Durayhimi city (Al Hudaydah).
+
+---
+
+[EVENT: YEM32153]
+Date: 2019-06-02
+Country: Yemen | Location: Qaryat al Maraziqah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: 2 December News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Other: On 2 June 2019, pro-Houthi forces fired sniper rifles at Qaryat al Maraziqah (Al Hudaydah). *Based on previous events and reporting patterns, the actual 'civilian' nature of these targets is unclear.
+
+---
+
+[EVENT: YEM32147]
+Date: 2019-06-02
+Country: Yemen | Location: Al Hudaydah
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: West Coast Joint Forces [Political militia]
+Fatalities: 0
+Sources: Al Masirah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 2 June 2019, pro-Houthi forces reported that 62 fighters who had been captured by anti-Houthi forces in the west coast were released from custody in a prisoner exchange after local mediation. *The source did not give the number of anti-Houthi fighters who were released in exchange.
+
+---
+
+[EVENT: YEM32137]
+Date: 2019-06-02
+Country: Yemen | Location: Aden - Ras Abas Camp
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: 2 December News; Al Masirah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 2 June 2019, anti-Houthi media reported the shooting down of a drone by air defence forces over Ras Abas camp in Al-Burayqiyah district of Aden port city, southwestern Yemen, while pro-Houthi forces claimed to have struck a military parade in the camp with a Qasif-2K drone.
+
+---
+
+[EVENT: YEM40599]
+Date: 2019-06-03
+Country: Yemen | Location: Al Ghayzah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Islamic State in Yemen (ISY) [Rebel group]
+Fatalities: 0
+Sources: Al Mawqea; Sana'a Center; Saudi Press Agency [Local partner-Other]
+
+DESCRIPTION:
+On 3 June 2019, joint Saudi and Yemeni special forces, supported by US special forces, captured the leader of the Islamic State in Yemen (ISY) during a raid in the Qatar neighborhood of Al Ghayzah city (Al Ghaydah, Al Mahrah) without any clashes. Other security and local sources said the IS leader, whose real name is Khalid al Marfadi, was actually arrested during an intelligence operation in Marib governorate in 2019.
+
+---
+
+[EVENT: YEM32284]
+Date: 2019-06-05
+Country: Yemen | Location: Al Jabaliyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 5 June 2019, anti-Houthi Giants forces reported that pro-Houthi reinforcements arrived in Al-Jabaliyah area in the south of Hodeidah governorate, western Yemen.
+
+---
+
+[EVENT: YEM32303]
+Date: 2019-06-06
+Country: Yemen | Location: Al Hudaydah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Military Forces of the United States (2017-2021) [External/Other forces]
+Fatalities: 0
+Sources: Reuters; UN Panel of Experts; Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-National]
+
+DESCRIPTION:
+Interception: On 6 June 2019, Houthi forces shot down 1 US-operated MQ-9 Reaper drone over Al Hudaydah governorate with a surface-to-air missile. The US noted that the altitude at which the drone was shot down marked an improvement over previous Houthi capability.
+
+---
+
+[EVENT: YEM48828]
+Date: 2019-06-06
+Country: Yemen | Location: As Sudais
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Ansar Allah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 6 June 2019, pro-Houthi air defense system intercepted and destroyed a coalition reconnaissance drone over As Sudais area of Najran Saudi province (coded to As Sudais in Yemen) (Kitaf wa Al Boqee). *ACLED defaults to coding the event on the Yemeni side when the source describes a large area along the Saudi-Yemeni border.
+
+---
+
+[EVENT: YEM32325]
+Date: 2019-06-07
+Country: Yemen | Location: Al Hudaydah - Al Matahin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Fatalities: 0
+Sources: Ansar Allah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Other: On 7 June 2019, anti-Houthi WCJF opened fire on various areas east of Al Hudaydah (coded to Al Hudaydah - Al Matahin) (Al Hawak). *Based on previous events and reporting patterns, the actual 'civilian' nature of these targets is unclear.
+
+---
+
+[EVENT: YEM32243]
+Date: 2019-06-07
+Country: Yemen | Location: Al Hudaydah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: West Coast Joint Forces [Political militia]
+Fatalities: 0
+Sources: Yemen News Agency (SABA) - Houthi [National]
+
+DESCRIPTION:
+Interception: On 7 June 2019, Houthi forces claim to have shot down a pro-Hadi surveillance drone over Al Hudaydah governorate.
+
+---
+
+[EVENT: YEM41427]
+Date: 2019-06-08
+Country: Yemen | Location: Usaylan
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Shabwani Elite Forces) [Political militia]
+Actor2: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Undisclosed Source [Local partner-Other]
+
+DESCRIPTION:
+On 8 June 2019, the Shabwani Elite Forces claimed to have taken over control of a military base in Usaylan District, northwestern Shabwa. The group said it non-violently evicted what it called northern forces from the base, which is tasked with providing security for the oil fields in Shabwaa's northwest. The group reportedly also set up checkpoints around the base in Usaylana's Al Abilat area.
+
+---
+
+[EVENT: YEM40343]
+Date: 2019-06-17
+Country: Yemen | Location: Coast of At Taif
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: 2 December News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 17 June 2019, WCJF claimed to have dismantled 7 Houthi-planted sea mines off the Coast of At Taif (Ad Durayhimi, Al Hudaydah).
+
+---
+
+[EVENT: YEM50676]
+Date: 2019-06-17
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi - 21st Brigade [State forces]
+Fatalities: 0
+Sources: Al Mawqea; UN Panel of Experts; Yemen Data Project; Yemen Saeed [Local partner-National]
+
+DESCRIPTION:
+On 17 June 2019, the Islah-affiliated 21st Brigade reportedly deployed fighters and military vehicles to a number of sites setting up positions in the city of Ataq in Shabwah southern governorate after clashes had broken out between tribal elements and the pro-Hadi police in Ataq.
+
+---
+
+[EVENT: YEM40403]
+Date: 2019-06-17
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Shabwani Elite Forces) [Political militia]
+Fatalities: 0
+Sources: Al Mawqea; UN Panel of Experts; Yemen Data Project; Yemen Saeed [Local partner-National]
+
+DESCRIPTION:
+On 17 June 2019, STC-affiliated Shabwani Elite forces reportedly deployed fighters and military vehicles to a number of sites setting up positions in the city of Ataq in Shabwah southern governorate after clashes had broken out between tribal elements and the pro-Hadi police in Ataq.
+
+---
+
+[EVENT: YEM40396]
+Date: 2019-06-18
+Country: Yemen | Location: Al Anad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 18 June 2019, pro-Hadi forces claimed to have shot down an pro-Houthi drone over Al Anad airbase in Lahij governorate, southern Yemen, with no report of fatalities nor injuries.
+
+---
+
+[EVENT: YEM40392]
+Date: 2019-06-18
+Country: Yemen | Location: Sanaa - Sanaa International Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 3
+Sources: Saudi Press Agency [Regional]
+
+DESCRIPTION:
+Detonation: On 18 June 2019: According to a Saudi source, a number of Yemeni and Iranian missile experts were killed during a failed attempt to launch a ballistic missile from the Ad Daylami air base (adjacent to the Sana'a international airport). Unknown fatalities coded as 10.
+
+---
+
+[EVENT: YEM40409]
+Date: 2019-06-19
+Country: Yemen | Location: Al Bayda
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Al Wafaq; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 19 June 2019, pro-Hadi forces and affiliates, backed by Saudi-led coalition forces, announced the launch of a large-scale military operation against pro-Houthi forces throughout Al-Bayda governorate, central Yemen.
+
+---
+
+[EVENT: YEM40428]
+Date: 2019-06-19
+Country: Yemen | Location: Harad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Ansar Allah; Sputnik News Service; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 19 June 2019, Saudi-led coalition forces claimed to have shot down a Houthi-operated drone in Hajjah border governorate in northwestern Yemen before it entered Saudi airspace (event coded in Harad district), with no report of fatalities nor injuries. Houthi forces however denied such an event had taken place.
+
+---
+
+[EVENT: YEM40449]
+Date: 2019-06-20
+Country: Yemen | Location: Al Hudaydah - Al Masna
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 20 June 2019, anti-Houthi giants Brigade forces reportedly defused Houthi-planted mine inside civilian houses in Al Masna area of Al Hawak district, south of Al Hudaydah city, western Yemen.
+
+---
+
+[EVENT: YEM40487]
+Date: 2019-06-21
+Country: Yemen | Location: Al Fazzah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni - Pro-Houthi; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 21 June 2019, pro-Houthi forces intercepted and destroyed a Saudi-led coalition reconnaissance drone flying over Al Fazzah (At Tuhayat, Al Hudaydah).
+
+---
+
+[EVENT: YEM40491]
+Date: 2019-06-21
+Country: Yemen | Location: Al Jabaliyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 21 June 2019, hundreds of pro-Houthi reinforcements reportedly reached Al Jabaliyah coming from Hajjah, Sanaa and Ibb governorates.
+
+---
+
+[EVENT: YEM40528]
+Date: 2019-06-22
+Country: Yemen | Location: As Suwayq
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Window [Local partner-National]
+
+DESCRIPTION:
+On 22 June 2019, after having gained control over Al Jabaliyah area and parts of Al Fazzah, anti-Houthi forces reached to the outskirts of As Suwayq city in At Tuhayat district, west of Zabid city, western Yemen.
+
+---
+
+[EVENT: YEM40516]
+Date: 2019-06-22
+Country: Yemen | Location: Zinjibar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Security Belt Forces) [Political militia]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+On 22 June 2019, pro-STC Security Belt Forces reportedly surrounded the Hadi-controlled city of Zinjibar in Abyan governorate.
+
+---
+
+[EVENT: YEM40517]
+Date: 2019-06-22
+Country: Yemen | Location: Zinjibar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+On 22 June 2019, pro-Hadi Forces were reportedly deployed in the area of Zinjibar, Abyan governorate, as a precautionary move against the deployment of pro-STC Security Belt forces.
+
+---
+
+[EVENT: YEM40534]
+Date: 2019-06-22
+Country: Yemen | Location: Al Mazraq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Saadah Press; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 22 June 2019, pro-Houthi forces intercepted and destroyed a Coalition reconnaissance drone in Al Mazraq area of Harad district, west of Hajjah border governorate, northwestern Yemen.
+
+---
+
+[EVENT: YEM40613]
+Date: 2019-06-23
+Country: Yemen | Location: Shihan
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council of South Arabia [Political militia]
+Fatalities: 0
+Sources: Aden al Ghad; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 23 June 2019, the local leadership of the Southern Transitional Council, headed by Mr. Hassan Mahdi Hassan, reportedly inaugurated the council's new offices in Shihan for Shahan district of Mahrah governorate, eastern Yemen.
+
+---
+
+[EVENT: YEM48827]
+Date: 2019-06-23
+Country: Yemen | Location: As Sudais
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Press [Local partner-National]
+
+DESCRIPTION:
+Interception: On 23 June 2019, pro-Houthi forces claimed to have shot down a Saudi reconnaissance drone over As Sudais area of Najran Saudi province (coded to As Sudais in Yemen) (Kitaf wa Al Boqee). *ACLED defaults to coding the event on the Yemeni side when the source describes a large area along the Saudi-Yemeni border.
+
+---
+
+[EVENT: YEM40675]
+Date: 2019-06-25
+Country: Yemen | Location: Al Jabaliyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Direct [Local partner-National]
+
+DESCRIPTION:
+On 25 June 2019, pro-Houthi reinforcements were reported to be moving out of Zabid district to join the front in Al-Jabaliyah area in the south of Hodeidah governorate, western Yemen.
+
+---
+
+[EVENT: YEM40698]
+Date: 2019-06-26
+Country: Yemen | Location: Hays
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Other: On 26 June 2019, pro-Houthi forces fired sniper rifles indiscriminately at houses in villages north of Hays (Al Hudaydah). *Based on previous events and reporting patterns, the actual 'civilian' nature of these targets is unclear.
+
+---
+
+[EVENT: YEM40722]
+Date: 2019-06-27
+Country: Yemen | Location: Ad Durayhimi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: West Coast Joint Forces [Political militia]
+Fatalities: 0
+Sources: Al Masirah; Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+Interception: On 27 June 2019, pro-Houthi forces claimed to have shot down an anti-Houthi WCJF reconnaissance drone northeast of Ad Durayhimi (Al Hudaydah).
+
+---
+
+[EVENT: YEM40755]
+Date: 2019-06-28
+Country: Yemen | Location: Jabal Abu an Nar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+Interception: On 28 June 2019, pro-Houthi forces claimed to have shot down reconnaissance drone operated by the Saudi-led coalition (ORH) east of Jabal Abu an Nar in Harad border district (Hajjah).
+
+---
+
+[EVENT: YEM40806]
+Date: 2019-06-28
+Country: Yemen | Location: Hajjah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 28 June 2019, pro-Hadi forces reportedly removed and dismantled 5,000 alleged Houthi-planted landmines, IEDs and other explosive devices in Hajjah border governorate, northwestern Yemen, with no report of fatalities nor injuries.
+
+---
+
+[EVENT: YEM40761]
+Date: 2019-06-28
+Country: Yemen | Location: Al Mukha
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Reuters [International]
+
+DESCRIPTION:
+In the week of 28 June, the Emirati military reportedly removed some of their forces deployed in Yemen from Aden and the Western coast (coded in Mukha).
+
+---
+
+[EVENT: YEM40744]
+Date: 2019-06-28
+Country: Yemen | Location: Aden
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Reuters [International]
+
+DESCRIPTION:
+In the week of 28 June, the Emirati military reportedly removed some of their forces deployed in Yemen from Aden and the Western coast (coded in Mukha).
+
+---
+
+[EVENT: YEM40785]
+Date: 2019-06-29
+Country: Yemen | Location: Al Jabaliyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 29 June 2019, anti-Houthi Giants forces reported that pro-Houthi reinforcements arrived with heavy weapons and military vehicles in Al-Jabaliyah area in the south of Hodeidah governorate, western Yemen.
+
+---
+
+[EVENT: YEM40804]
+Date: 2019-06-29
+Country: Yemen | Location: Hadibu
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi - Coast Guard [State forces]
+Fatalities: 0
+Sources: Aden al Ghad [National]
+
+DESCRIPTION:
+29 June 2019: Pro-Hadi Coast Guard forces deployed to the island of Socotra in wake of departing UAE forces.

@@ -1,0 +1,17 @@
+==================================================
+DOCUMENT CONTEXT
+Country: United Arab Emirates (ISO Code: 784)
+Temporal Period: Year 2020 - Quarter Q2
+Total Events in Chunk: 1 / 1
+==================================================
+
+[EVENT: ARE12]
+Date: 2020-04-04
+Country: United Arab Emirates | Location: Dubai
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of the United Arab Emirates (2004-2022) [State forces]
+Fatalities: 0
+Sources: Reuters; Middle East Eye; Khaleej Times [National-International]
+
+DESCRIPTION:
+Security measures: On 4 April 2020, the government of the Emirate of Dubai imposed strict measures to prevent the spread of the coronavirus, expanding measures previously put in place by the federal government. Only one member of a household can now leave home for essential shopping, only people working in support sectors can go to work, and all people are required to wear masks and gloves in public. On 24 April, Dubai cut its 24-hour lockdown to a 10:00 pm to 6:00 am curfew. Dubai lifted some further restrictions on 24 May, allowing cinemas, indoor gyms, and child education and treatment centres to reopen.

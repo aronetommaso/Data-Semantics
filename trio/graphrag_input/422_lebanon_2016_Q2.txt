@@ -1,0 +1,153 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Lebanon (ISO Code: 422)
+Temporal Period: Year 2016 - Quarter Q2
+Total Events in Chunk: 11 / 11
+==================================================
+
+[EVENT: LBN607]
+Date: 2016-04-03
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Police Forces of Palestine (1994-) West Bank [External/Other forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Agreement: Sunday 3rd of April 2016, Palestinian factions and forces backed by the joint Palestinian security forces and Popular Committee Activists have succeeded in establishing a cease fire and in having gunmen withdraw from streets after clashes that erupted earlier in Ain el Hilwe.
+
+---
+
+[EVENT: LBN6028]
+Date: 2016-04-14
+Country: Lebanon | Location: Bar Elias
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2014-2016) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: National News Agency Lebanon; Lebanon Support [Local partner-Other]
+
+DESCRIPTION:
+On 14 April 2016, military forces of Lebanon raided a Syrian refugee camp in Bar Elias, and arrested 57 Syrian refugees who they claim to be illegal.
+
+---
+
+[EVENT: LBN10526]
+Date: 2016-04-27
+Country: Lebanon | Location: Mays el Jabal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Movement of forces: On 27 April 2016, 25 Israeli soldiers crossed the Blue Line into Kroum al Sharaqa area next to Mays el Jabal (Marjayoun) on the southern border.
+
+---
+
+[EVENT: LBN633]
+Date: 2016-05-24
+Country: Lebanon | Location: Sibline
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2014-2016) [State forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Defusal: the military forces of Lebanon defused an explosive device under a car Mahmoud Meqdah's car, the son of the Commander of Joint Palestinian Security Force in Lebanon, in the town of Sibline on Tuesday 24.
+
+---
+
+[EVENT: LBN635]
+Date: 2016-05-25
+Country: Lebanon | Location: Nabatiye
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2014-2016) [State forces]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Movement of Forces: On May 25th, both sides of the Israeli-Lebanese border witnessed heavy mobilization of troops, and the creation of new monitoring stations. Israel flew drones to survey the border area. On the same day, Hezbollah was celebrating the 16th anniversary of the liberation of South Lebanon from Israeli occupation.
+
+---
+
+[EVENT: LBN10956]
+Date: 2016-06-10
+Country: Lebanon | Location: Al Hadath
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Al Miqdad Clan Militia (Lebanon) [Identity militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Property destruction: On 10 June 2016, a Miqdad family members set fire to a store owned by the Sultan family in Sfeir area in Al Hadath (Baabda) after members of the Sultan family published posts against Miqdad family on social media. The fire spread to the whole building.
+
+---
+
+[EVENT: LBN6955]
+Date: 2016-06-19
+Country: Lebanon | Location: Tyr
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Lebanon Support; National News Agency Lebanon [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 19 June 2016, an old leftover landmine, planted by Israeli military in the 2006 war, exploded and injured a Syrian refugee, in Tyr.
+
+---
+
+[EVENT: LBN6340]
+Date: 2016-06-19
+Country: Lebanon | Location: Ed Demachqiye
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Daily Star (Lebanon); Lebanon Support [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 19 June 2016, a cluster bomb left over by Israeli military forces in 2006, exploded and injured 1 civilian, in Ed Demachqiye.
+
+---
+
+[EVENT: LBN648]
+Date: 2016-06-27
+Country: Lebanon | Location: El Qaa
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2014-2016) [State forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Defusal: the Lebanon Army detonated an unexploded grenade left behind during the suicide bombings in Qaa on Monday, June 27.
+
+---
+
+[EVENT: LBN650]
+Date: 2016-06-28
+Country: Lebanon | Location: Ras Baalbek
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2014-2016) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Arrests: 103 Syrians refugees who had entered Lebanon illegally, were arrested in the Syrian refugee encampments in Baalbek on Tuesday, June 28.
+
+---
+
+[EVENT: LBN652]
+Date: 2016-06-30
+Country: Lebanon | Location: Aarsal
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2014-2016) [State forces]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Weapons Seizure: Lebanon Military forces seized several weapons and explosives during a number of raids hideout in Wadi Aata area in Arsal town's surroundings as part of a pre-emptive measure after the attack in the city of Qaa. The Lebanese army found a bomb belt and some ammunition at the house of a man who was then detained on June 30.

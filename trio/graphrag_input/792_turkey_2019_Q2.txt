@@ -1,0 +1,1074 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Turkey (ISO Code: 792)
+Temporal Period: Year 2019 - Quarter Q2
+Total Events in Chunk: 79 / 79
+==================================================
+
+[EVENT: TUR22396]
+Date: 2019-04-01
+Country: Turkey | Location: Mus
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: Around 1 April 2019 (as reported), the governorate of Mus banned all meetings, protest marches and statements to the press in Mus city for 15 days. The decision came as the opposition HDP party demanded a recount of 2500 votes cast in local elections in Mus city which were considered invalid.
+
+---
+
+[EVENT: TUR22398]
+Date: 2019-04-02
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 2 April 2019, the governorate of Hakkari created 24 'special security zones' across Hakkari province, unauthorized entry to which was forbidden from 4 to 18 April 2019.
+
+---
+
+[EVENT: TUR22400]
+Date: 2019-04-03
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 3 April 2019, the governorate of Van forbade all meetings, marches, press statements, sit-ins, opening of stands and other events across Van province, from 4 April 2019 for a period of 15 days. As 4 April is the birthday of the imprisoned founder of PKK, and protests were expected to be organized in Van by Kurdish groups.
+
+---
+
+[EVENT: TUR22401]
+Date: 2019-04-04
+Country: Turkey | Location: Igdir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 4 April 2019, the governorate of Igdir forbade all protests, meetings and marches across Igdir province for 15 days, citing security concerns and the possibility of 'provocative actions' taking place.
+
+---
+
+[EVENT: TUR7793]
+Date: 2019-04-05
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: Following the recent local elections, Hakkari Governor's Office prohibited the issuance of press releases, the setting up of tents and stands, sit-ins and similar forms of protest between April 4 and 18, as declared on April 5. Hakkari was one of several provinces in the southeast which received gathering bans to have had HDP local victories.
+
+---
+
+[EVENT: TUR7794]
+Date: 2019-04-07
+Country: Turkey | Location: Kars
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: Following the recent local elections, the Kars Governor's Office prohibited the issuance of press releases, the setting up of tents and stands, sit-ins and similar forms of protest between April 8 and 20, as declared on April 7. Kars was one of several provinces in the southeast which received gathering bans to have had HDP local victories.
+
+---
+
+[EVENT: TUR7747]
+Date: 2019-04-08
+Country: Turkey | Location: Genc
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Property destruction: As reported on April 8, Gendarmerie Forces destroyed a large shelter belonging to PKK along with the ammunition inside during the operations in Genc district of Bingol.
+
+---
+
+[EVENT: TUR7795]
+Date: 2019-04-08
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: Following the recent local elections, the Bitlis Governor's Office prohibited the issuance of press releases, the setting up of tents and stands, sit-ins and similar forms of protest between April 7 and 21, as declared on April 8. Bitlis was one of several provinces in the southeast to have a ban on gatherings imposed.
+
+---
+
+[EVENT: TUR7791]
+Date: 2019-04-09
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Arrests: On April 9, over 100 people were arrested as a part of a nationwide operation of Police Forces targeting the Gulen movement, accused of planning the military coup attempt of July 2016.
+
+---
+
+[EVENT: TUR7760]
+Date: 2019-04-10
+Country: Turkey | Location: Tunceli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Karar; Haber 7 [National-International]
+
+DESCRIPTION:
+Property destruction: As reported on April 10, Gendarmerie Forces destroyed two shelters belonging to PKK in the outskirts of the central district of Tunceli.
+
+---
+
+[EVENT: TUR9819]
+Date: 2019-04-10
+Country: Turkey | Location: Sultangazi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On October 4, the Martyr Ciyager- Martyr Zeryan Vengeance units of the YPS carried out an attack targeting a distribution transformer supplying electricity to a police station in Sultangazi district of Istanbul. Power outage of the station lasted for hours as a result of the attack.
+
+---
+
+[EVENT: TUR7796]
+Date: 2019-04-10
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: Following the recent local elections, the Van Governor's Office prohibited the issuance of press releases, the setting up of tents and stands, sit-ins and similar forms of protest between April 11 and 17, as declared on April 10. Van was one of several provinces in the southeast which received gathering bans to have had HDP local victories.
+
+---
+
+[EVENT: TUR7779]
+Date: 2019-04-12
+Country: Turkey | Location: Lice
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Property destruction: Between April 11 and 13, Gendarmerie Forces destroyed 11 shelters belonging to PKK in Lice and Kulp districts of Diyarbakir. (One event coded for each location)
+
+---
+
+[EVENT: TUR7780]
+Date: 2019-04-12
+Country: Turkey | Location: Kulp
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Property destruction: Between April 11 and 13, Gendarmerie Forces destroyed 11 shelters belonging to PKK in Lice and Kulp districts of Diyarbakir. (One event coded for each location)
+
+---
+
+[EVENT: TUR7781]
+Date: 2019-04-12
+Country: Turkey | Location: Baglar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Property destruction: On April 12, unidentified people attacked AKP Baglar Office in Diyarbakir city with gunfire during the day. No casualties, although damage occurred to the building.
+
+---
+
+[EVENT: TUR7811]
+Date: 2019-04-15
+Country: Turkey | Location: Tunceli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Property destruction: As reported on April 15, Gendarmerie Forces destroyed two shelters belonging to PKK in the central and Nazimiye districts of Tunceli. (One event coded for each location)
+
+---
+
+[EVENT: TUR7812]
+Date: 2019-04-15
+Country: Turkey | Location: Nazimiye
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Property destruction: As reported on April 15, Gendarmerie Forces destroyed two shelters belonging to PKK in the central and Nazimiye districts of Tunceli. (One event coded for each location)
+
+---
+
+[EVENT: TUR7828]
+Date: 2019-04-17
+Country: Turkey | Location: Bingol
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction: As reported on April 17, Gendarmerie Forces destroyed one shelter belonging to PKK in the central district of Bingol.
+
+---
+
+[EVENT: TUR7837]
+Date: 2019-04-18
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Aydinlik [National]
+
+DESCRIPTION:
+Security measures: Following the recent local elections, the Van Governor's Office prohibited the issuing of press releases, the setting up of tents and stands, sit-ins and similar forms of protest between April 18 and 24, as declared on April 18. Van was one of several provinces in the southeast which received gathering bans to have had HDP local victories, and such ban is issued for a second consecutive time.
+
+---
+
+[EVENT: TUR7841]
+Date: 2019-04-19
+Country: Turkey | Location: Genc
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction: As reported on April 19, Gendarmerie Forces destroyed four shelters belonging to PKK in Genc district of Bingol.
+
+---
+
+[EVENT: TUR7859]
+Date: 2019-04-20
+Country: Turkey | Location: Silvan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Property destruction: On April 20, Gendarmerie Forces destroyed nine shelters in total belonging to PKK in Silvan and Hazro districts of Diyarbakir. (One event coded for each location)
+
+---
+
+[EVENT: TUR7860]
+Date: 2019-04-20
+Country: Turkey | Location: Hazro
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Property destruction: On April 20, Gendarmerie Forces destroyed nine shelters in total belonging to PKK in Silvan and Hazro districts of Diyarbakir. (One event coded for each location)
+
+---
+
+[EVENT: TUR7997]
+Date: 2019-04-21
+Country: Turkey | Location: Van
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+As reported by two unknown groups called 'Martyr Zamani' and 'Martyr Seve Revenge Units' (no further information found about the groups), on April 21, in Van province, sound bombs were thrown into the house of a person accused of being an AKP supporter by the group. No information was provided about the casualties.
+
+---
+
+[EVENT: TUR7896]
+Date: 2019-04-22
+Country: Turkey | Location: Kocaeli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: Following the consecutive protests by families of prisoners on hunger strike in Gebze town of the province, the Kocaeli Governor's Office prohibited the issuing of press releases, the setting up of tents and stands, sit-ins and similar forms of protest near prisons of the city between April 22 and May 6, as declared on April 22.
+
+---
+
+[EVENT: TUR7998]
+Date: 2019-04-23
+Country: Turkey | Location: Van
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+As reported by two unknown groups called 'Martyr Zamani' and 'Martyr Seve Revenge Units' (no further information found about the groups), on April 23, a sound bomb was thrown at police vehicles in Van province. Casualties remained unknown.
+
+---
+
+[EVENT: TUR7999]
+Date: 2019-04-24
+Country: Turkey | Location: Bostanici
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+As reported by two unknown groups called 'Martyr Zamani' and 'Martyr Seve Revenge Units' (no further information found about the groups), on April 24, two sound bombs were thrown on the street targeting Turkish security forces in the Bostanici neighborhood of Ipekyolu, Van. No information on the casualties.
+
+---
+
+[EVENT: TUR7906]
+Date: 2019-04-24
+Country: Turkey | Location: Dereler
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Property destruction: On April 24 and 25, Gendarmerie Forces destroyed a total of 36 shelters belonging to PKK during the operations in Bestler-Dereler (Dereler) district of Sirnak. One event coded for each date.
+
+---
+
+[EVENT: TUR22464]
+Date: 2019-04-24
+Country: Turkey | Location: Batman
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 24 April 2019, the governorate of Batman extended the validity of 23 'special security zones' across Batman province, unauthorized entry to which was forbidden from 25 April to 9 May 2019. It was reported the restrictions on these zones had been in force since February 11.
+
+---
+
+[EVENT: TUR7907]
+Date: 2019-04-25
+Country: Turkey | Location: Dereler
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Property destruction: On April 24 and 25, Gendarmerie Forces destroyed a total of 36 shelters belonging to PKK during the operations in Bestler-Dereler (Dereler) district of Sirnak. One event coded for each date.
+
+---
+
+[EVENT: TUR7904]
+Date: 2019-04-25
+Country: Turkey | Location: Lice
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Aydinlik [National]
+
+DESCRIPTION:
+Property destruction: On April 25, Gendarmerie Forces destroyed 21 shelters belonging to PKK during the operations in Keskuvari and Hevsel areas of Lice district, Diyarbakir.
+
+---
+
+[EVENT: TUR7915]
+Date: 2019-04-25
+Country: Turkey | Location: Gurpinar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+On 25 April 2019, during the military operations of Gendarmerie and intelligence forces in Gurpinar district of Van, a number of shelters belonging to PKK were destroyed.
+
+---
+
+[EVENT: TUR7892]
+Date: 2019-04-25
+Country: Turkey | Location: Tunceli
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete; Aydinlik [National]
+
+DESCRIPTION:
+Defusal: As reported on April 25, six IEDs were found and defused during the operations of Gendarmerie Forces targeting a large PKK shelter in the rural areas of central Tunceli. During the same operations, one militant's body was recovered as well as some ammunition.
+
+---
+
+[EVENT: TUR22528]
+Date: 2019-04-25
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 25 April 2019, the governorate of Istanbul was reported to have forbidden protests by trade unions on May 1 at Taksim square. The decision was communicated orally to trade union representatives.
+
+---
+
+[EVENT: TUR8000]
+Date: 2019-04-26
+Country: Turkey | Location: Edremit
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+As reported by two unknown groups called 'Martyr Zamani' and 'Martyr Seve Revenge Units' (no further information found about the groups), on April 26, sound bombs were thrown in Sehit Firat neighborhood, Edremit, Van, targeting Turkish forces. 'A number of' forces were reported to be injured.
+
+---
+
+[EVENT: TUR8066]
+Date: 2019-04-28
+Country: Turkey | Location: Mus
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction: Between April 20 and May 6, Gendarmerie Forces destroyed a number of shelters belonging to PKK along with the ammunition inside, in Mus province.
+
+---
+
+[EVENT: TUR7991]
+Date: 2019-04-30
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Security measures: On 30 April 2019, Van Governor's Office extended the prohibition the issuing of press releases, the setting up of tents and stands, sit-ins and similar forms of protest between 29 April and 8 May. Van was one of several provinces in the southeast which received gathering bans to have had HDP local victories, and such ban is issued for a third consecutive time. The Van governorate later changed its decision to a conditional permission of protests; however, slogans against economic exploitation and alleged 'isolation' of the Kurdish minority (which were to be the main demands at planned protests) remained banned.
+
+---
+
+[EVENT: TUR8438]
+Date: 2019-05-01
+Country: Turkey | Location: Catak
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property Destruction: HPG reported that on May 1st the Turkish military burnt vineyards, houses and gardens belonging to villagers in Askan village (Kurdish name) in Catak district, Van.
+
+---
+
+[EVENT: TUR8023]
+Date: 2019-05-02
+Country: Turkey | Location: Bursa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: Bursa Governor's Office prohibited the issuing of press releases, the setting up of tents and stands, sit-ins and similar forms of protest regarding the hunger strikes in prisons, for a period of 15 days starting from May 2.
+
+---
+
+[EVENT: TUR8039]
+Date: 2019-05-06
+Country: Turkey | Location: Ovacik
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Aydinlik [National]
+
+DESCRIPTION:
+Property destruction: As reported on May 6, Gendarmerie Forces destroyed 14 shelters in total belonging to PKK in Hozat and Ovacik districts of Tunceli. (One event coded for each location)
+
+---
+
+[EVENT: TUR8038]
+Date: 2019-05-06
+Country: Turkey | Location: Hozat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Aydinlik [National]
+
+DESCRIPTION:
+Property destruction: As reported on May 6, Gendarmerie Forces destroyed 14 shelters in total belonging to PKK in Hozat and Ovacik districts of Tunceli. (One event coded for each location)
+
+---
+
+[EVENT: TUR8062]
+Date: 2019-05-06
+Country: Turkey | Location: Kocaeli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: Following the consecutive protests by families of prisoners on hunger strike in Gebze town of the province, the Kocaeli Governor's Office prohibited the issuing of press releases, the setting up of tents and stands, sit-ins and similar forms of protest near prisons of the city between May 7 and May 21, as declared on May 6.
+
+---
+
+[EVENT: TUR8189]
+Date: 2019-05-07
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: YDG-H: Patriotic Revolutionary Youth Movement [Rebel group]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Other: DGH (YDG-H) reported that the group attacked the police forces, guarding Diyarbakir E Type Prison in the city, with sound bombs on May 7. No further information was shared.
+
+---
+
+[EVENT: TUR21250]
+Date: 2019-05-09
+Country: Turkey | Location: Siirt
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 9 May 2019, Siirt Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 15 days as part of the measures to maintain public order.
+
+---
+
+[EVENT: TUR8112]
+Date: 2019-05-12
+Country: Turkey | Location: Siirt
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Haberturk [National]
+
+DESCRIPTION:
+Security measures: On May 12, a curfew was announced in 77 villages across the central and Eruh districts of Siirt province due to the possible military operations in the area targeting PKK.
+
+---
+
+[EVENT: TUR21280]
+Date: 2019-05-15
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 15 May 2019, Bitlis governor's office declared a curfew order in total 14 villages and rural zones in the central district of the province, effective until 20 May due to ongoing military operations.
+
+---
+
+[EVENT: TUR8245]
+Date: 2019-05-16
+Country: Turkey | Location: Mus
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Property destruction: Between May 15 and 17, Gendarmerie Forces destroyed 32 shelters belonging to PKK in Senyayla area of Mus province.
+
+---
+
+[EVENT: TUR8174]
+Date: 2019-05-17
+Country: Turkey | Location: Yuksekova
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction: As reported on May 17, Gendarmerie Forces destroyed 26 shelters belonging to PKK in Alanduz area of Yuksekova, Hakkari.
+
+---
+
+[EVENT: TUR8185]
+Date: 2019-05-18
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction: As reported on May 18, Gendarmerie Forces destroyed 43 shelters belonging to PKK on a rural area in Diyarbakir city. The area was neighboring to Mus and Bingol.
+
+---
+
+[EVENT: TUR8192]
+Date: 2019-05-19
+Country: Turkey | Location: Giresun
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Property destruction: As reported on May 19, Gendarmerie Forces destroyed 2 shelters and five ammunition depots belonging to PKK in Espiye and Dogankent districts of Giresun. The shelters were discovered after a PKK militant surrendered and showed the shelters to the security forces.
+
+---
+
+[EVENT: TUR21293]
+Date: 2019-05-19
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 19 May 2019, Hakkari Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for one month as part of the measures to maintain public order.
+
+---
+
+[EVENT: TUR8220]
+Date: 2019-05-20
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: On May 20, 111 people were detained by the police forces as a part of an Ankara-based operation of Police Forces targeting the Gulen movement, accused of planning the military coup attempt of July 2016.
+
+---
+
+[EVENT: TUR8275]
+Date: 2019-05-20
+Country: Turkey | Location: Hizan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property Destruction: HPG reported that on May 20, PKK destroyed a bulldozer of Turkish forces that was used for road construction in Axpix (Kurdish name) area, Hizan, Bitlis.
+
+---
+
+[EVENT: TUR21327]
+Date: 2019-05-23
+Country: Turkey | Location: Gaziantep
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 23 May 2019, Gaziantep Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 15 days as part of the measures to maintain public order.
+
+---
+
+[EVENT: TUR21341]
+Date: 2019-05-25
+Country: Turkey | Location: Bingol
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 25 May 2019, Bingol governor's office declared a total of 23 villages and rural areas in the 6 different districts of the province 'temporary security zones', banning citizens' entry until 31 December 2019 due to security risks.
+
+---
+
+[EVENT: TUR8288]
+Date: 2019-05-28
+Country: Turkey | Location: Hasankeyf
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Security measures: From May 28 to May 29, a curfew was announced in two villages of Hasankeyf, Batman province due to the military operations in the area targeting PKK.
+
+---
+
+[EVENT: TUR21344]
+Date: 2019-05-28
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 28 May 2019, Van Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 15 days as part of the measures to maintain public order.
+
+---
+
+[EVENT: TUR21346]
+Date: 2019-05-29
+Country: Turkey | Location: Baykan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 29 May 2019, Siirt governor's office declared a total of 2 neighborhoods and 2 village zones in the Baykan district of the province 'special security zones', banning citizens' entry for 15 days due to ongoing military operations.
+
+---
+
+[EVENT: TUR8329]
+Date: 2019-06-01
+Country: Turkey | Location: Cobanpinar
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Defusal: On June 1st, Turkish military seized and successfully conducted a controlled explosion of PKK explosives in Cobanpinar village, Yusekova district of Hakkari.
+
+---
+
+[EVENT: TUR22539]
+Date: 2019-06-01
+Country: Turkey | Location: Gurpinar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 1 June 2019, a Turkish military operation was launched in the area of Bukec (Askan) and Govan villages of Gurpinar district, Van province. It is unknown if there were armed clashes.
+
+---
+
+[EVENT: TUR8328]
+Date: 2019-06-03
+Country: Turkey | Location: Palamut
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Defusal: As reported on June 3rd, the Turkish military located more than 9 kilos of TNT explosion laid by the PKK which they successfully destroyed them through a controlled explosion in Palamut village in Hasankeyf district. A large number of weapons were also seized in the operation.
+
+---
+
+[EVENT: TUR8395]
+Date: 2019-06-10
+Country: Turkey | Location: Kulp
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Security Measures: HPG reported that on June 10th, the PKK took the control of a road between Kulp (Kurdish name = Pasur) district of Diyarbakir and Mus, stopping the passing vehicles and making ID checks.
+
+---
+
+[EVENT: TUR8357]
+Date: 2019-06-11
+Country: Turkey | Location: Adana
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Cumhuriyet; Haber 7 [National]
+
+DESCRIPTION:
+Arrests: On June 11th, 25 people were detained (out of 56 suspects) during a simultaneaous police raids to 6 educational institutions in Adana city. The police operation targeted the Gulen movement, accused of planning the military coup attempt of July 2016.
+
+---
+
+[EVENT: TUR8429]
+Date: 2019-06-13
+Country: Turkey | Location: Cobanpinar
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Defusal: On June 13, Turkish military found and successfully conducted a controlled explosion of PKK explosives in Cobanpinar village, Yusekova district of Hakkari.
+
+---
+
+[EVENT: TUR22558]
+Date: 2019-06-15
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 15 June 2019, the governorate of Hakkari created 5 'special security zones' across Hakkari province, unauthorized entry to which was forbidden from 16 to 30 June 2019. It was reported the reason for the restrictions was a Turkish military operation against PKK militants in the Bradost area of Northern Iraq.
+
+---
+
+[EVENT: TUR8414]
+Date: 2019-06-16
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: On June 16th, 5 districts (Hakkari central, Cukurca, Yuksekova and Derecik) in Hakkari province were declared 'private security areas' until June 30th due to upcoming counter-terrorism operations. The Governor of Hakkari province also prohibited all marches, political meetings, press release, sit-ins and similar forms of political activity between 17th June to 17th July.
+
+---
+
+[EVENT: TUR22561]
+Date: 2019-06-16
+Country: Turkey | Location: Hasankeyf
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 16 June 2019, the district governorship of Hasankeyf (Batman) forbade all protests and other public gatherings in the district on that day. The ban included an explicit reference to a planned demonstration against a dam in Hasankeyf.
+
+---
+
+[EVENT: TUR8403]
+Date: 2019-06-17
+Country: Turkey | Location: Uludere
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Property destruction: As reported on June 17th, Gendarmerie Forces destroyed a shelter belonging to the PKK in Sapaca area of Uludere district, Sirnak province.
+
+---
+
+[EVENT: TUR8440]
+Date: 2019-06-17
+Country: Turkey | Location: Kulp
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property Destruction: HPG reported that on June 17th PKK militants destroyed a base station belonging to Turkish forces in Goderne village (Kurdish name) in Kulp district, Diyarbakir.
+
+---
+
+[EVENT: TUR22562]
+Date: 2019-06-18
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 18 June 2019, the governorate of Hakkari extended to July 17 2019 a ban on rallies, open-air gatherings, protest marches, sit-ins, hunger strikes, opening of tents or stands, press statements and all other similar events across Hakkari province.
+
+---
+
+[EVENT: TUR8445]
+Date: 2019-06-19
+Country: Turkey | Location: Basak
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Defusal: As reported on June 19th, the Turkish Gendarmerie soldiers located PKK explosives in Basak village in Silopi district in Sirnak, which they successfully destroyed through a controlled explosion.
+
+---
+
+[EVENT: TUR8426]
+Date: 2019-06-20
+Country: Turkey | Location: Sirnak
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: On June 20th, the Governor of Sirnak province prohibited all marches, political meetings, press release, sit-ins and similar forms of political activity for 15 days starting on June 20th.
+
+---
+
+[EVENT: TUR22580]
+Date: 2019-06-25
+Country: Turkey | Location: Lice
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 25 June 2019, a Turkish military operation had started in the south of Lice district (Diyarbakir). Special forces units were said to have been deployed in a number of villages, where house searches and identity controls were also conducted. No information was available as to possible armed clashes or casualties thereof. The military operation ended three days later.
+
+---
+
+[EVENT: TUR8491]
+Date: 2019-06-25
+Country: Turkey | Location: Mersin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: On June 25th, the Governor of Mersin province prohibited all marches, political meetings, press release, sit-ins and similar forms of political activity for 20 days starting on June 25th. The ban was triggered by planned LGBTI Pride events.
+
+---
+
+[EVENT: TUR8486]
+Date: 2019-06-26
+Country: Turkey | Location: Adana
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Cumhuriyet; Haber 7 [National]
+
+DESCRIPTION:
+Arrests: On June 26th, 37 people were detained during the simultaneous police raids in Adana city. The police operation targeted the Gulen movement, accused of planning the military coup attempt of July 2016.
+
+---
+
+[EVENT: TUR8519]
+Date: 2019-06-27
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete; ANF News [National-International]
+
+DESCRIPTION:
+As reported on June 27th, the governor of Van has banned all public and political events in Van province for 15 days. The ban has been issued for many times over the 953 days.
+
+---
+
+[EVENT: TUR8636]
+Date: 2019-06-29
+Country: Turkey | Location: Palamutbuku
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: HBDH reported that on June 30th they started a forest fire as a 'sabotage action' in Palamutbuku area of Datca district, Izmir. The forest fire lasted for more than 12 hours according to reports. HBDH claims that the action was targeting the television transmitters which are a propoganda tool of the government.
+
+---
+
+[EVENT: TUR8543]
+Date: 2019-06-30
+Country: Turkey | Location: Tunceli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: On June 30th, 29 areas within 5 districts (Merkez, Ovacik, Pulumur, Hozat and Nazmiye ) in Hakkari province were declared 'private security areas' from Jul 1st - Jul 15th due to upcoming counter-terrorism operations.
+
+---
+
+[EVENT: TUR22613]
+Date: 2019-06-30
+Country: Turkey | Location: Lice
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 30 June 2019, a military operation had started in several villages of Diyarbakir's Lice district, with gendarmerie and special operations police conducting searches and document controls. No information was available as to potential armed clashes or casualties thereof. The operation ended on July 2.
+
+---
+
+[EVENT: TUR8635]
+Date: 2019-06-30
+Country: Turkey | Location: Ozdere
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Hurriyet Daily; Peoples' United Revolutionary Movement [Other-National]
+
+DESCRIPTION:
+Property destruction: HBDH reported that on June 30th they started a forest fire as a 'sabotage action' against the tourist industry in the surroundings of Grand Efe hotel in Ozdere area of Menderes district, Izmir. Other reports claim the forest fire was the result of electricity wires.

@@ -1,0 +1,2460 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iraq (ISO Code: 368)
+Temporal Period: Year 2020 - Quarter Q3
+Total Events in Chunk: 179 / 179
+==================================================
+
+[EVENT: IRQ25341]
+Date: 2020-07-01
+Country: Iraq | Location: Sinjar
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Basnews [Subnational]
+
+DESCRIPTION:
+Land seizure: Around 1 July 2020 (as reported), Arabs with support of PMF forces have seized lands belonging to two Yezidi tribes in the Sinjar province.
+
+---
+
+[EVENT: IRQ25342]
+Date: 2020-07-01
+Country: Iraq | Location: Zakho
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Rudaw [National]
+
+DESCRIPTION:
+On 1 July 2020, Iraqi police forces (border guards) have set up five bases in the Zakho district, to prevent further civilian losses and to prevent the clashes between the Turkish military and the PKK to escalate. The bases were set up in and around the Kere Mountains and Kala Shabaniye region of Zakho.
+
+---
+
+[EVENT: IRQ25317]
+Date: 2020-07-01
+Country: Iraq | Location: Batifa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Movement of forces: On 1 July 2020, Iraqi Border Guards were deployed at the Turkey-Kurdistan borders north of the Batavia district.
+
+---
+
+[EVENT: IRQ25260]
+Date: 2020-07-02
+Country: Iraq | Location: Wadi Khakurik
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: Around 2 July 2020 (as reported), PKK militants destroyed a Turkish army radar device positioned on Sehit Axin hill (Kurdish name) in Xakurke (Wadi Khakurik) region of Erbil, Northern Iraq. The means of the attack was unspecified, but the radar was completely destroyed.
+
+---
+
+[EVENT: IRQ25331]
+Date: 2020-07-02
+Country: Iraq | Location: Ar Rutba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Property destruction: On 2 July 2020, Iraqi military forces destroyed an IS hideout in a house in al Sakkar near Ar-Rutba city.
+
+---
+
+[EVENT: IRQ36173]
+Date: 2020-07-02
+Country: Iraq | Location: At Tarmiyah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+On 2 July 2020, Iraqi military forces, the PMF, and Iraqi National Intelligence Service launched a security operation in At Tarmiyah district (Al Kadhmiyah, Baghdad), during which 50 civilians were arrested for unknown reasons. Several civilians, including women, were insulted and physically assaulted during the operation.
+
+---
+
+[EVENT: IRQ25338]
+Date: 2020-07-03
+Country: Iraq | Location: Zakho
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Movement of forces: On 3 July 2020, Iraqi soldiers deployed along the border with Turkey in northern Iraq to stop Turkish forces from advancing deeper into Iraqi lands. Coded at location where Turkish troops are present, Zakho district.
+
+---
+
+[EVENT: IRQ25624]
+Date: 2020-07-04
+Country: Iraq | Location: Baghdad - Karadah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Usbat Al Thaireen [Political militia]
+Fatalities: 0
+Sources: Kurdistan24 [National]
+
+DESCRIPTION:
+On 4 July 2020, a second rocket attack on the Taji military base was thwarted by military forces who seized the rockets Usbat al Thaireen had intended to use. Coded south of Baghdad.
+
+---
+
+[EVENT: IRQ42679]
+Date: 2020-07-04
+Country: Iraq | Location: Kut
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Security measures: On 4 July 2020, Wassit provincial government announced a new coronavirus curfew measures within the province. The curfew would be in place from 23:00 to 05:00 everyday. The duration of the curfew measures is unstated. Coded to capital city Kut.
+
+---
+
+[EVENT: IRQ25368]
+Date: 2020-07-06
+Country: Iraq | Location: Haftanin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Ihlas News Agency [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 6 July 2020 (from 5-7 July), Turkish Army forces seized a number of weapons from PKK shelters during the 'Claw-Tiger' military operation carried out in Haftanin region of Dahuk, Northern Iraq. Weapons seized included AK-47 assault rifles, ammunition, hand grenades, anti-aircraft ammunition, mortar shells, RPGs, and explosives.
+
+---
+
+[EVENT: IRQ25422]
+Date: 2020-07-08
+Country: Iraq | Location: Al Jadidah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Movement of forces: On 8 July 2020, Military forces deployed again on the outskirts of Al-Jadida village, south of Buhriz, Diyala province after the village was shelled a day before likely by IS.
+
+---
+
+[EVENT: IRQ42682]
+Date: 2020-07-09
+Country: Iraq | Location: Nahiyat as Saqlawiyah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Weapons seizure: On 9 July 2020, Al Anbar Operations Command of Iraqi military forces seized and destroyed 12 explosive devices belonging to unidentified militants during a security operation in Nahiyat as Saqlawiyah (Al Anbar).
+
+---
+
+[EVENT: IRQ36218]
+Date: 2020-07-09
+Country: Iraq | Location: Nahiyat as Saqlawiyah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Weapons seizure: On 9 July 2020, Iraqi military forces found and seized 12 explosive devices belonging to unidentified militants during a security operation in Nahiyat as Saqlawiyah in Al Anbar province.
+
+---
+
+[EVENT: IRQ25455]
+Date: 2020-07-10
+Country: Iraq | Location: Derkar
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Rudaw [National]
+
+DESCRIPTION:
+Displacement: On 10 July 2020, the Avlah village in Derkar, Zakho district, Duhok was emptied as the residents fled their homes due to continued bombing of the area by Turkish warplanes.
+
+---
+
+[EVENT: IRQ25451]
+Date: 2020-07-10
+Country: Iraq | Location: Mandali
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency; Shafaaq News [National]
+
+DESCRIPTION:
+Movement of forces: On 10 July 2020, a security force of the rapid intervention forces coming from Baghdad reached the Mandali and Munthriya border crossings with Iran, east of Diyala, and received the port management file, and will take over the management of the crossings, their security and protection.
+
+---
+
+[EVENT: IRQ25467]
+Date: 2020-07-10
+Country: Iraq | Location: Derkar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Special Forces [External/Other forces]
+Fatalities: 0
+Sources: Al Maloomah; Ayn Al Iraq News [National]
+
+DESCRIPTION:
+Movement of forces: On 10 July 2020, Turkish soldiers of the special forces unit were deployed (air-dropped) in the Shakula Mountain region of Derkar in the district of Zakho as part of an offensive launched against PKK militants in northern Iraq.
+
+---
+
+[EVENT: IRQ25450]
+Date: 2020-07-10
+Country: Iraq | Location: Jalawla
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 10 July 2020, Military forces arrived in Jalawla, Khanaqin district, Diyala province to address security breaches in the region and end the activity of IS cells in the region.
+
+---
+
+[EVENT: IRQ42685]
+Date: 2020-07-11
+Country: Iraq | Location: Diwaniya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Property destruction: On 11 July 2020, unidentified militants set fire to 3 vehicles that were part of a convoy carrying logistical materials for US forces, which operate under the Global Coalition Against Daesh, on an unspecified highway location between Al Muthanna and Al Qadissiya governorates. Coded as Diwaniya (Al Qadissiya). No damages were reported. There were no casualties.
+
+---
+
+[EVENT: IRQ25387]
+Date: 2020-07-11
+Country: Iraq | Location: Derkar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Rudaw [National]
+
+DESCRIPTION:
+Movement of forces: Around 11 July 2020 (as reported), additional Turkish commando troops were deployed in Turkey's ongoing offensive 'Operation Claw-Tiger' through airborne drop operations on Sakule hills (Kurdish name) in Derkar sub-district of Dahuk, Northern Iraq.
+
+---
+
+[EVENT: IRQ25388]
+Date: 2020-07-11
+Country: Iraq | Location: Batifa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Rudaw [National]
+
+DESCRIPTION:
+Displacement: Around 11 July 2020 (as reported), Evla village (Kurdish name) in Batifa sub-district of Duhok was emptied as the residents fled their homes due to continued bombing of the area by Turkish warplanes.
+
+---
+
+[EVENT: IRQ25468]
+Date: 2020-07-11
+Country: Iraq | Location: Shaykh Bawa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Movement of forces: On 11 July 2020, a significant number of Iraqi military re-enforcement troops arrived in the Shaykh Baba area of Khanaqin district, Diyala to secure the strategic Sartegi agricultural basin following a repeating attacks by IS in the area.
+
+---
+
+[EVENT: IRQ25463]
+Date: 2020-07-11
+Country: Iraq | Location: Kirkuk
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 11 July 2020, PMF forces of the 56th brigade (Liwa Hashd Shuhada Kirkuk), destroyed 6 IS vehicles in the Kani Doblan mountain range in Kirkuk province. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ25385]
+Date: 2020-07-11
+Country: Iraq | Location: Wadi Khakurik
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency; TRT Haber [Regional]
+
+DESCRIPTION:
+Defusal: Around 11 July 2020 (as reported), Turkish Army forces located (through controlled detonations) 2 booby-trapped IEDs of 25 kilogram each (total 50 kilogram) allegedly planted by PKK in Hakurk (Wadi Khakurik) region of Erbil, Northern Iraq. IED were destroyed through controlled detonations.
+
+---
+
+[EVENT: IRQ25555]
+Date: 2020-07-12
+Country: Iraq | Location: Abu Saida
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) Rapid Reaction Force [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Baghdad Post [National]
+
+DESCRIPTION:
+Property destruction: On 12 July 2020, Rapid reaction forces destroyed 10 IS hideouts, and dismantled explosive materials found in them in the Abu Saida area of the Muqdadiyah district, Diyala province. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ25491]
+Date: 2020-07-13
+Country: Iraq | Location: Haftanin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 13 July 2020 (as reported), Turkish Army forces seized 2 anti-aircraft guns, 95 rounds of anti-aircraft ammunition, 34 mortar shells, 98 rounds of machine gun ammunition, 13 IEDs (5 kilograms each), 10 blocks of plastic explosives (500 grams each), one big sack of ammonium nitrate, detonators and various other supplies found in PKK shelters during the 'Claw-Tiger' military operation carried out in Haftanin region of Dahuk, Northern Iraq.
+
+---
+
+[EVENT: IRQ25573]
+Date: 2020-07-14
+Country: Iraq | Location: Kifri
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Basnews [National]
+
+DESCRIPTION:
+Movement of forces: On 14 July 2020, Iraqi military forces were deployed in the Kifri area in northern Iraq. They set up a checkpoint in the Karezi area of Kifri and will help Peshmerga forces to manage the checkpoint effectively.
+
+---
+
+[EVENT: IRQ26200]
+Date: 2020-07-15
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Operation Inherent Resolve [Other]
+
+DESCRIPTION:
+Property destruction: On 15 July 2020, Military forces, destroyed 2 IS hideouts, two explosive devices and a number of mortar rounds in the Bani Zaid village south of Baqubah and it's surrounding areas in the Diyala province. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ25577]
+Date: 2020-07-15
+Country: Iraq | Location: Kani Masi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Rudaw [National]
+
+DESCRIPTION:
+Displacement: Around 15 July 2020, most of the Kurdish villages in Kani Masi, Amadiya district, Duhok were emptied as the residents fled their homes due to continued bombing of the area by Turkish warplanes.
+
+---
+
+[EVENT: IRQ25583]
+Date: 2020-07-15
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Baghdad Post [National]
+
+DESCRIPTION:
+Other: On 15 July 2020, the Iraqi government announced that parties and tribes would no longer be allowed to carry weapons on them. Prime Minister Al Kadhimi had ordered the Iraqi army to control the spread of weapons in the country, just a few days before.
+
+---
+
+[EVENT: IRQ25582]
+Date: 2020-07-15
+Country: Iraq | Location: Lake Hamrin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Property destruction: Around 15 July 2020 (as reported), PMF forces, together with military aircrafts, destroyed 7 IS hideouts between northern Muqdadiyah, lake Hamrin and the Diyala River.
+
+---
+
+[EVENT: IRQ25510]
+Date: 2020-07-16
+Country: Iraq | Location: Haftanin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; Anadolu Agency; Haber 7 [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 16 July 2020 (from 16-17 July), Turkish Army forces seized a number of weapons from PKK shelters during the 'Claw-Tiger' military operation carried out in Haftanin region of Dahuk, Northern Iraq. Weapons seized included 5 anti-aircraft weapons and munition, 8 RPG-7 Launchers, large amount (thousands) of ammunitions for various weapons, 53 anti-tank rocket propelled grenades (RPGs), 25 anti-personnel rocket propelled grenades (RPGs), 24 IEDs, large amount of ammonium nitrate and various other supplies.
+
+---
+
+[EVENT: IRQ25610]
+Date: 2020-07-16
+Country: Iraq | Location: Batifa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Sotaliraq [National]
+
+DESCRIPTION:
+Displacement: Around 16 July 2020 (as reported), residents of the Kashani and Afhi villages in the outskirts of Batifa in the Zakho district, Duhok were emptied as the residents fled their homes due to continued bombing of the area by Turkish warplanes and armed clashes between Turkish soldiers and PKK militants.
+
+---
+
+[EVENT: IRQ25603]
+Date: 2020-07-16
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: Around 16 July 2020 (as reported), PMF forces together with the TMF destroyed an IS hideout east of Baqubah, during an operation north of Muqdadiya and the Sherwen Basin adjacent to the Diyala River. An exact location was not provided. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26203]
+Date: 2020-07-17
+Country: Iraq | Location: Nahiyat Kanan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Operation Inherent Resolve [Other]
+
+DESCRIPTION:
+Property destruction: On 17 July 2020, a combined force of Military Intelligence Detachments, and soldiers located an IS ammunition cache in the outskirts of Al Bida village, in the Kanaan district, Diyala province and destroyed it. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26201]
+Date: 2020-07-17
+Country: Iraq | Location: Rubaydah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Operation Inherent Resolve [Other]
+
+DESCRIPTION:
+Property destruction: On 17 July 2020, a combined force of Military Intelligence Detachments, and soldiers located an IS ammunition cache in Rubaydah village, Daquq district, Kirkuk province and destroyed it. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26204]
+Date: 2020-07-17
+Country: Iraq | Location: Shurah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Operation Inherent Resolve [Other]
+
+DESCRIPTION:
+Property destruction: On 17 July 2020, Intelligence, Military and the Ninawa Operations Command located an IS weapons cache containing more than 500 mortar rounds in one of the valleys in Al Shura Desert and destroyed them. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26202]
+Date: 2020-07-17
+Country: Iraq | Location: Mukeshefah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Operation Inherent Resolve [Other]
+
+DESCRIPTION:
+Property destruction: On 17 July 2020, a combined force of Military Intelligence Detachments, from the Samarra Operations Command and Iraqi Federal Police, located an IS ammunition cache on Mukaishefa Island, Saladin province and destroyed it. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ25613]
+Date: 2020-07-18
+Country: Iraq | Location: Sadiya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+On 18 July 2020, PMF forces destroyed 3 IS vehicles and seized ammunition in the Sadiya area of the Diyala province. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26207]
+Date: 2020-07-19
+Country: Iraq | Location: Shatra
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Operation Inherent Resolve [Other]
+
+DESCRIPTION:
+Property destruction: On 19 July 2020, a combined force of Military Intelligence Detachments, and soldiers from the Diyala operations command located an IS ammunition cache in the village of Al Bada, Shatr district of Thi-Qar province and destroyed it. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ25678]
+Date: 2020-07-19
+Country: Iraq | Location: Kifri
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Military Forces of Iraq (2020-2022) Peshmerga [State forces]
+Fatalities: 0
+Sources: Basnews [National]
+
+DESCRIPTION:
+Agreement: On 19 July 2020, Kurdistan's Peshmerga and Iraqi military forces reached an agreement on the joint control of the border line just outside Kifri, in the Diyala province.
+
+---
+
+[EVENT: IRQ26206]
+Date: 2020-07-19
+Country: Iraq | Location: Ar Rutba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Operation Inherent Resolve [Other]
+
+DESCRIPTION:
+Property destruction: On 19 July 2020, a combined force of Military Intelligence Detachments, and soldiers located an IS ammunition cache in Al Tabat, Rutba district, Anbar province and destroyed it. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26205]
+Date: 2020-07-19
+Country: Iraq | Location: Al Muhallabiyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Operation Inherent Resolve [Other]
+
+DESCRIPTION:
+Property destruction: On 19 July 2020, a combined force of Military Intelligence Detachments, and soldiers from the Ninewa operations command located an IS ammunition cache in Wadi Al Fatimiya Al Mahallabiya Telafar District, Ninewa province and destroyed it. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ36215]
+Date: 2020-07-20
+Country: Iraq | Location: At Tarmiyah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Around 20 July 2020 (week of), Iraqi military forces arrested several IS leaders in At Tarmiyah district, Baghdad.
+
+---
+
+[EVENT: IRQ54158]
+Date: 2020-07-20
+Country: Iraq | Location: Al Taliah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: TMF: Tribal Mobilization Forces [Identity militia]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 20 July 2020, IS militants destroyed 4 electric power transformers with machine gun fire in Al Taliah village, Diyala. The transformers belonged to a leader in the TMF.
+
+---
+
+[EVENT: IRQ26211]
+Date: 2020-07-20
+Country: Iraq | Location: Tharthar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Operation Inherent Resolve [Other]
+
+DESCRIPTION:
+Property destruction: On 20 July 2020, a combined force of Military Intelligence Detachments, SWAT, Counter Terrorism forces and the Saladin Operations Command located three IS safehouses and explosive materials and destroyed them. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26210]
+Date: 2020-07-20
+Country: Iraq | Location: Golat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Operation Inherent Resolve [Other]
+
+DESCRIPTION:
+Property destruction: On 20 July 2020, Military forces carried out a clearance operation in Golat Al Jadida village (coded to Golat), Sinjar district, Ninewa province and destroyed an IS tunnel. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ25700]
+Date: 2020-07-20
+Country: Iraq | Location: At Tarmiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Security measures: Around 20 July 2020 (as reported), al Tarmiyah in the Baghdad province has been locked-down by security forces for several days. Last week, a Military convoy was attacked by IS snipers in the Bin Sina area of the Tarmiyah district, which led to the killing of a commander and two others. The lockdown is likely related to last week's attack, but more information was not provided by the source.
+
+---
+
+[EVENT: IRQ26208]
+Date: 2020-07-20
+Country: Iraq | Location: Mukeshefah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Operation Inherent Resolve [Other]
+
+DESCRIPTION:
+Property destruction: On 20 July 2020, the Samarra Operations Command destroyed a large amount of IS ammunition in Mukeshefah, Samarra district, Saladin province. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26209]
+Date: 2020-07-20
+Country: Iraq | Location: Qaryat ar Rawashid
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) Rapid Reaction Force [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Operation Inherent Resolve [Other]
+
+DESCRIPTION:
+Property destruction: On 20 July 2020, the Saladin Emergency Regiment destroyed an IS explosive device during an operation in the Rawashid village, Balad district, Saladin province.
+
+---
+
+[EVENT: IRQ25718]
+Date: 2020-07-21
+Country: Iraq | Location: Rawah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: Around 21 July 2020 (as reported), Military forces together with the PMF destroyed two IS vehicles north of the Firat river and seized ammunition. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26212]
+Date: 2020-07-21
+Country: Iraq | Location: Shirqat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Operation Inherent Resolve [Other]
+
+DESCRIPTION:
+Property destruction: On 21 July 2020, the Jazeera Operations Command destroyed nine IS explosive devices and two IS safehouses during an air-backed operation between the Saladin and Ninewa provinces. Location at the border between the provinces.
+
+---
+
+[EVENT: IRQ25730]
+Date: 2020-07-22
+Country: Iraq | Location: Zurbatiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Movement of forces: On 22 July 2020, military re-enforcements were sent to the Zurbatiyah border crossing with Iran in the Wassit province, to aid in the borders protection.
+
+---
+
+[EVENT: IRQ54156]
+Date: 2020-07-22
+Country: Iraq | Location: Nahiyat Yathrib
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: TMF: Tribal Mobilization Forces [Identity militia]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 22 July 2020, IS militants destroyed an electrical transformer owned by a member of the TMF in the Bujili area of Nahiyat Yathrib district, Salah Al Din.
+
+---
+
+[EVENT: IRQ25748]
+Date: 2020-07-23
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Basnews [National]
+
+DESCRIPTION:
+Defusal: On 23 July 2020, Iraqi forces dismantled an unidentified drone carrying 2 Kg of explosives which was found on the roof of a building in Baghdad City.
+
+---
+
+[EVENT: IRQ25750]
+Date: 2020-07-24
+Country: Iraq | Location: Al-Hartha
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Property destruction: On 24 July 2020, unidentified armed men targeted a real estate office in the Shatt Al Arab district in Basrah province using a sound bomb (non-lethal) causing only material damages.
+
+---
+
+[EVENT: IRQ25651]
+Date: 2020-07-24
+Country: Iraq | Location: Haftanin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; Ihlas News Agency; Takvim [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 24 July 2020 (from 24-25 July), Turkish Army forces seized a number of weapons from PKK shelters during the 'Claw-Tiger' military operation carried out in Haftanin region of Dahuk, Northern Iraq. Weapons seized included total 15 artillery shells of various sizes, an IED device with 10 kilogram explosive material, 25 kilogram of dynamites, 255 kilogram ammonium nitrate, 63 AK-47 assault weapons, 50 RPGs, large amount (thousands) of ammunitions for various weapons, 50 hand grenades, and various other supplies.
+
+---
+
+[EVENT: IRQ25767]
+Date: 2020-07-25
+Country: Iraq | Location: Bismayah
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Basnews [National]
+
+DESCRIPTION:
+On 25 July 2020, the Iraqi military took over control of the Bismayah military base in Baghdad, after US-led global coalition forces handed the base over. Spanish troops had been stationed at the base to train Iraqi forces.
+
+---
+
+[EVENT: IRQ25769]
+Date: 2020-07-25
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Patriotic Union of Kurdistan [National]
+
+DESCRIPTION:
+Movement of forces: On 25 July 2020, Security forces were allocated to all land and sea borders in Iraq, to combat violations, corruption and the waste of public money. The crossings that had their security re-enforced are the Umm Qasr Al Shamali, Umm Qasr Al Janoubi, Umm Qasr Al Awsat, Khor Al Zobair, Shalamjah, Badra, Al Munthiriya, Safwan, Al Qaim, Trebil, Al Shaib , Zurbatiya, Abu Flus, and Arar.
+
+---
+
+[EVENT: IRQ25889]
+Date: 2020-07-26
+Country: Iraq | Location: Baghdad - Al Rashid
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 26 July 2020, Military forces were deployed and the roads were blocked near the Saqr military base southwest of Baghdad City, after several explosions occurred in the base.
+
+---
+
+[EVENT: IRQ25824]
+Date: 2020-07-26
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 26 July 2020, PMF forces of the 23rd brigade (Badr Organisation) destroyed and burned an IS vehicle in south of the Wand river in the Diyala province with no reported injuries or fatalities. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ25938]
+Date: 2020-07-26
+Country: Iraq | Location: Jabal Biradawst
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: ROJ News [Regional]
+
+DESCRIPTION:
+Property destruction: On 26 July 2020, Turkish Military forces reportedly set fire to lands in the Bradost (Birdawast) area of the Soran district, Erbil.
+
+---
+
+[EVENT: IRQ25852]
+Date: 2020-07-28
+Country: Iraq | Location: Qurna
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad; National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 28 July 2020, unidentified armed men targeted the home of the Imam Al Sadiq director in the Qurna district of Basrah province using a sound bomb (non-lethal) causing only material damages.
+
+---
+
+[EVENT: IRQ25882]
+Date: 2020-07-28
+Country: Iraq | Location: Wadi Zaghaytun
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 28 July 2020, federal Police forces destroyed two IS vehicles in Wadi Zaghaytun, Haweejah district, Kirkuk province. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ25878]
+Date: 2020-07-29
+Country: Iraq | Location: Abu Saida
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Movement of forces: On 29 July 2020, a Rapid Reaction force unexpectedly withdrew from Abu Saida, Muqdadiyah district, Diyala after they had been station in the area to deal with armed tribal clashes.
+
+---
+
+[EVENT: IRQ25881]
+Date: 2020-07-29
+Country: Iraq | Location: Nahiyat an Nil
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 29 July 2020, unidentified armed men targeted a gas station in Nahiyat Nil, Babylon province using a sound bomb (non-lethal) causing only material damages.
+
+---
+
+[EVENT: IRQ25871]
+Date: 2020-07-29
+Country: Iraq | Location: Dibis
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 29 July 2020, PMF forces of the 56th brigade (Liwa Hashd Shuhada Kirkuk) destroyed and burned an IS vehicle in the Dibis district of Kirkuk province with no reported injuries or fatalities.
+
+---
+
+[EVENT: IRQ25931]
+Date: 2020-07-30
+Country: Iraq | Location: Baiji
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On 30 July 2020, security forces rendered an unidentified explosive that was planted adjacent to the oil pipeline in Baiji district in Saladin Din Governorate ineffective.
+
+---
+
+[EVENT: IRQ54138]
+Date: 2020-07-31
+Country: Iraq | Location: Al Moshahda
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 31 July 2020, IS militants destroyed two army thermal cameras with medium weapons in the Burjana and Al Thaer Al Thaniya areas of the Al Moshahda area, Baghdad.
+
+---
+
+[EVENT: IRQ25901]
+Date: 2020-07-31
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Defusal: On 31 July 2020, Military forces located an unidentified Katyusha rocket intended for launch in the Jabour Al Shaarah area of Baghdad.
+
+---
+
+[EVENT: IRQ54139]
+Date: 2020-07-31
+Country: Iraq | Location: Farhatiyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 31 July 2020, IS militants destroyed two army thermal cameras with medium weapons in the Farhatiyah area of Salah Al Din.
+
+---
+
+[EVENT: IRQ25922]
+Date: 2020-08-01
+Country: Iraq | Location: Kirkuk
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Defusal: On 1 August 2020, security forces rendered an unidentified explosive that was planted on a Police car in Kirkuk, on the Baghdad road ineffective without causing any damages or injuries.
+
+---
+
+[EVENT: IRQ26540]
+Date: 2020-08-02
+Country: Iraq | Location: Amara
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Property destruction: On 2 August 2020, unidentified armed men targeted the Naft Missan sports club in Amara City using a sound bomb (non-lethal) causing only material damages.
+
+---
+
+[EVENT: IRQ26529]
+Date: 2020-08-02
+Country: Iraq | Location: Ramadi
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Defusal: On 2 August 2020, Military forces located 50 unidentified tank rockets east of Ramadi City, Anbar province and thwarted an attack that was planned to be carried out during Eid Al Adha.
+
+---
+
+[EVENT: IRQ26526]
+Date: 2020-08-02
+Country: Iraq | Location: Sinjar
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Baghdad Post [National]
+
+DESCRIPTION:
+Defusal: On 2 August 2020, Military forces safely defused an unidentified explosive device in central Sinjar, close to a device that detonated earlier in the city.
+
+---
+
+[EVENT: IRQ26511]
+Date: 2020-08-03
+Country: Iraq | Location: Abu Saida
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Movement of forces: Around 3 August 2020 (as reported), Police forces were deployed in Abu Saida, Muqdadiyah district, Diyala after Rapid reaction forces who had been stationed in the area for a while to control tribal clashes withdrew suddenly last week.
+
+---
+
+[EVENT: IRQ26541]
+Date: 2020-08-03
+Country: Iraq | Location: Haditha
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: Around 3 August 2020 (as reported), Al Jazeera Operations Command forces and military forces destroyed an IS hideout in the desert of Anbar near Haditha. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26525]
+Date: 2020-08-03
+Country: Iraq | Location: Taji
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Defusal: On 3 August 2020, Military forces located two unidentified Katyusha rockets likely intended for launch near the Taji Military base north of Baghdad.
+
+---
+
+[EVENT: IRQ26543]
+Date: 2020-08-04
+Country: Iraq | Location: Qariyat Mahmoudiyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 4 August 2020, Federal Police forces destroyed two IS vehicles in the Mahmudiya area of the Kirkuk province with no reported injuries.
+
+---
+
+[EVENT: IRQ26542]
+Date: 2020-08-04
+Country: Iraq | Location: Haditha
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 4 August 2020, the Al Jazeera Military forces destroyed an IS vehicle and seized 5 explosive devices in the Haditha district, Anbar province. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26515]
+Date: 2020-08-05
+Country: Iraq | Location: Khilaniyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Movement of forces: On 5 August 2020, Military forces and PMF soldiers moved to the village of Khilaniyeh, Akre district of Erbil province to prevent infiltration attempts by IS militants.
+
+---
+
+[EVENT: IRQ26527]
+Date: 2020-08-05
+Country: Iraq | Location: Baghdad - Al Rashid
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Defusal: On 5 August 2020, Military forces located and defused seven unidentified Katyusha rockets directed at Baghdad's Green Zone in the Kararah neighbourhood of Dora (Al Rashid) in the south of Baghdad.
+
+---
+
+[EVENT: IRQ42689]
+Date: 2020-08-05
+Country: Iraq | Location: Hamrin Mountains - Kirkuk
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Weapons seizure: On 5 August 2020, the 5th Brigade of the federal police seized and destroyed 20 IEDs found in two hideouts in the Hamrin Mountains - Kirkuk area (Al Hawiga, Kirkuk).
+
+---
+
+[EVENT: IRQ26513]
+Date: 2020-08-05
+Country: Iraq | Location: Tawkal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Movement of forces: On 5 August 2020, Military forces and PMF soldiers moved to the village of Tawkal, Chamchal district of Suleiymanieh province to prevent infiltration attempts by IS militants.
+
+---
+
+[EVENT: IRQ26514]
+Date: 2020-08-05
+Country: Iraq | Location: Balaban
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Movement of forces: On 5 August 2020, Military forces and PMF soldiers moved to the village of Balaban, Koisnjaq district of Erbil province to prevent infiltration attempts by IS militants.
+
+---
+
+[EVENT: IRQ26530]
+Date: 2020-08-05
+Country: Iraq | Location: Haftanin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Ihlas News Agency [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 5 August 2020 (as reported), Turkish Army forces seized a number of weapons from PKK shelters during the 'Claw-Tiger' military operation carried out in Haftanin region of Dahuk, Northern Iraq. Weapons seized included 2 assault rifles, 7 rocket propelled grenades (RPGs), one RPG launcher, 36 hand grenades, total 2380 rounds of ammunitions for various weapons, and various other supplies.
+
+---
+
+[EVENT: IRQ26528]
+Date: 2020-08-06
+Country: Iraq | Location: Nassriya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Defusal: On 6 August 2020, Security forces seized a booby-trapped vehicle in Al Kateiyah near Nassriya City, Thi-Qar province and rendered it ineffective.
+
+---
+
+[EVENT: IRQ26544]
+Date: 2020-08-06
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 6 August 2020, Military forces destroyed and burned an IS hideout containing weapons in the Maqalea area between Baghdad and Anbar with no reported injuries or fatalities.
+
+---
+
+[EVENT: IRQ26442]
+Date: 2020-08-07
+Country: Iraq | Location: Baghdad - Al Rashid
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) Iraqi National Intelligence Service [State forces]
+Actor2: Al Qaeda [Rebel group]
+Fatalities: 0
+Sources: Basnews [National]
+
+DESCRIPTION:
+Arrests: On 7 August 2020, Abu Khattab a prominent Al Qaeda militant was arrested by the Iraqi National Intelligence Service after a 12-year chase in the Dora neighbourhood of Baghdad City. Abu Khattab was responsible for the death of 150 civilians in 2008, when he detonated a car bomb in the market of Khan Bani Saad City.
+
+---
+
+[EVENT: IRQ26546]
+Date: 2020-08-09
+Country: Iraq | Location: Basrah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Property destruction: On 9 August 2020, unidentified armed men targeted the house of a resident in the Rabet neighbourhood of Basrah City using a sound bomb (non-lethal) causing only material damages.
+
+---
+
+[EVENT: IRQ26549]
+Date: 2020-08-10
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah; Ayn Al Iraq News [National]
+
+DESCRIPTION:
+Property destruction: On 10 August 2020, Iraqi Military forces located and destroyed an IS tunnel in Mosul City, Ninewa province that contained 700 mortar rounds of different calibers. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26547]
+Date: 2020-08-10
+Country: Iraq | Location: Basrah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Property destruction: On 10 August 2020, unidentified armed men targeted a company in the Jaza'er neighbourhood of Basrah City using a sound bomb (non-lethal) causing only material damages.
+
+---
+
+[EVENT: IRQ26531]
+Date: 2020-08-11
+Country: Iraq | Location: Baghdad - Karadah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Defusal: On 11 August 2020, security forces rendered an unidentified explosive ineffective in Baghdad City's Karadah neighbourhood, where a second rocket was fired from earlier.
+
+---
+
+[EVENT: IRQ42692]
+Date: 2020-08-12
+Country: Iraq | Location: Hilla
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Security measures: On 12 August 2020, local government authorities imposed a partial curfew in Babil governorate to reduce the outbreak of coronavirus. Coded to provincial capital Hilla city.
+
+---
+
+[EVENT: IRQ26548]
+Date: 2020-08-12
+Country: Iraq | Location: Basrah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Property destruction: On 12 August 2020, unidentified armed men hurled a sound bomb (non-lethal) near the Governor's rest house located at the end of Corniche Street in Basrah City. No injuries were reported.
+
+---
+
+[EVENT: IRQ26516]
+Date: 2020-08-12
+Country: Iraq | Location: Dahuk
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Movement of forces: On 12 August 2020, military reinforcements were deployed along the border with Turkey, one day after a Turkish airstrike killed a number of Iraqi officers in Erbil province. An exact location was not provided.
+
+---
+
+[EVENT: IRQ26550]
+Date: 2020-08-14
+Country: Iraq | Location: Khanaqin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Property destruction: On 14 August 2020, Intelligence forces in a joint operation with the Diyala police force and PMF forces destroyed an IS hideout in Khar Al Wahsh near the Khanaqin district in the Diyala province. No injuries were reported but an IS militant was detained. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26551]
+Date: 2020-08-14
+Country: Iraq | Location: Shay Valley
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: Around 14 August 2020 (as reported), Federal Police forces destroyed 4 IS hideouts in the Shay Valley south of Kirkuk and seized some ammunition. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26552]
+Date: 2020-08-14
+Country: Iraq | Location: Dibis
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: Around 14 August 2020 (as reported), Federal Police forces together with PMF forces destroyed an IS tunnel in the outskirts of Dibis district, east of Kirkuk. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ54104]
+Date: 2020-08-14
+Country: Iraq | Location: Ad Dawalib
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: TMF: Tribal Mobilization Forces [Identity militia]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 14 August 2020, IS militants destroyed an electric transformer belonging to the TMF in Ad Dawalib village, Diyala.
+
+---
+
+[EVENT: IRQ25965]
+Date: 2020-08-16
+Country: Iraq | Location: Haftanin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Ihlas News Agency; Takvim [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 16 August 2020 (as reported), Turkish Army forces seized a number of weapons from PKK shelters during the 'Claw-Tiger' military operation carried out in Haftanin region of Dahuk, Northern Iraq. Weapons seized included one guided anti-tank missile weapon, 4 heavy machine guns, one sniper rifle, 6 assault rifles, assault rifles, 8 hand grenades and various other supplies.
+
+---
+
+[EVENT: IRQ26028]
+Date: 2020-08-19
+Country: Iraq | Location: Nassriya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad; Shafaaq News; Yaqein [National]
+
+DESCRIPTION:
+Property destruction: On 19 August 2020, an unidentified armed group target the house of an activist with a sound bomb in Sumer neighborhood in the city of Nassriya, damaging his house and a car parked next to it. Sources reported that there were no fatalities.
+
+---
+
+[EVENT: IRQ26050]
+Date: 2020-08-20
+Country: Iraq | Location: Wadi Khakurik
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Movement of forces: On 20 August 2020, Turkish reinforcements made up of heavy weapons, including cannons and mortars, with military vehicles, arrived in northern Iraq and were positioned in various areas including Wadi Khakurik and other mountain tops in the region.
+
+---
+
+[EVENT: IRQ54115]
+Date: 2020-08-20
+Country: Iraq | Location: Al-Muqdadiya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 20 August 2020, IS militants destroyed three electrical transformers and 2 thermal cameral belonging to the Popular Mobilization Forces by unspecified means in Lahib village, Al-Muqdadiya district, Diyala.
+
+---
+
+[EVENT: IRQ45242]
+Date: 2020-08-21
+Country: Iraq | Location: Minin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 21 August 2020, Turkish Army forces destroyed and burnt down civilian houses and properties during the operations in Minine village (Kurdish name) in Zakho district of Duhok, Northern Iraq. Source reported that soldiers heavily damaged some houses while some others were completely destroyed.
+
+---
+
+[EVENT: IRQ26057]
+Date: 2020-08-21
+Country: Iraq | Location: Banik al Ulya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 21 August 2020, Turkish Army forces destroyed and burnt down civilian houses and properties during the operations in Banik (Banik al Ulya) village (Kurdish name) in the Zakho district of Duhok, Northern Iraq. Source reported that soldiers heavily damaged some houses while some others were completely destroyed.
+
+---
+
+[EVENT: IRQ54116]
+Date: 2020-08-21
+Country: Iraq | Location: Bustan Albu Jili
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 21 August 2020, IS militant destroyed an Iraqi Rapid Reaction Forces thermal camera and an electrical transformer in the Albu Jili area of Salah Al Din. Coded as Bustan Albu Jili orchard, Salah Al Din.
+
+---
+
+[EVENT: IRQ26115]
+Date: 2020-08-23
+Country: Iraq | Location: Taji
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2017-2021) [External/Other forces]
+Actor2: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Maloomah; Al Mirbad; Anadolu Agency; Ayn Al Iraq News; Baghdad Post; BBC News; Liveuamap; Xinhua; Yaqein [Local partner-New media]
+
+DESCRIPTION:
+Non-violent transfer of territory: On 23 August 2020, US Military and Global Coalition forces left the Taji military base, 85 km north of the city of Baghdad, and went towards Ain Al-Asad base in Anbar province. The Taji military base was handed to Iraqi forces.
+
+---
+
+[EVENT: IRQ54128]
+Date: 2020-08-25
+Country: Iraq | Location: Qaryat Nawfal
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 25 August 2020, IS militants destroyed an electrical transformer used by a Popular Mobilization Forces barracks with machine guns in Qaryat Nawfal village, Diyala.
+
+---
+
+[EVENT: IRQ54127]
+Date: 2020-08-25
+Country: Iraq | Location: Qaryat ar Rawashid
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2020-2022) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 25 August 2020, IS militants destroyed two thermal cameras in two barracks of the Rapid Reaction Force in the Al Adhiya area of Al Esshaqi, Salah Al Din. Coded as Qaryat ar Rawashid, Salah Al Din.
+
+---
+
+[EVENT: IRQ54852]
+Date: 2020-08-25
+Country: Iraq | Location: Al Azim
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: TMF: Tribal Mobilization Forces [Identity militia]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 25 August 2020, IS militants with machine guns destroyed 15 electrical transformers and 10 water pumps belonging to the TMF in the Al Khalifa village of the Al Azim area in Diyala.
+
+---
+
+[EVENT: IRQ26132]
+Date: 2020-08-25
+Country: Iraq | Location: Ain Assad Air Base
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2017-2021) [External/Other forces]
+Fatalities: 0
+Sources: Al Maloomah; National Iraqi News Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 25 August 2020, US Military and Global Coalition forces arrived at Ain Al-Asad base in Anbar province after the Taji military base was handed to Iraqi forces.
+
+---
+
+[EVENT: IRQ26140]
+Date: 2020-08-25
+Country: Iraq | Location: Haftanin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; Aydinlik; Takvim [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 25 August 2020 (as reported), Turkish Army forces seized a number of weapons from PKK shelters during the 'Claw-Tiger' military operation carried out in Haftanin region of Dahuk, Northern Iraq. Weapons seized included 15 IEDs made of TNT-ammonium nitrate mixture, 120 detonators, remote control devices and various other supplies.
+
+---
+
+[EVENT: IRQ26160]
+Date: 2020-08-26
+Country: Iraq | Location: Suq Al-Shoyokh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Property destruction: On 26 August 2020, unidentified armed men targeted the home of a Police officer in the Suq Al Shoyok district of Thi-Qar province using a sound bomb (non-lethal) planted under his car, causing only material damages.
+
+---
+
+[EVENT: IRQ26181]
+Date: 2020-08-28
+Country: Iraq | Location: Baghdad - Sadr City
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Movement of forces: On 28 August 2020, more than 70 military vehicles were sent to the Husseiniyeh neighbourhood of Baghdad (Sadr City), after a tribal clash left one person killed and several others injured.
+
+---
+
+[EVENT: IRQ26195]
+Date: 2020-08-29
+Country: Iraq | Location: Nahiyat Al Tar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Property destruction: On 29 August 2020, unidentified armed men targeted the home of a civilian in Al Tar, Suq Al Shoyokh district, Thi-Qar province using a sound bomb (non-lethal), causing only material damages.
+
+---
+
+[EVENT: IRQ26196]
+Date: 2020-08-29
+Country: Iraq | Location: Nassriya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Movement of forces: On 29 August 2020, the Thi-Qar Police Command deploymed additional forces from police emergency regiments and SWAT forces as part of the implementation of the security plan during the commemoration ceremonies of Ashura.
+
+---
+
+[EVENT: IRQ26278]
+Date: 2020-09-02
+Country: Iraq | Location: Wadi Khakurik
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency; TRT Haber [Regional]
+
+DESCRIPTION:
+Defusal: Around 2 September 2020 (as reported), Turkish Army forces located total of 9 IEDs and 3 anti-personnel landmines allegedly planted by PKK in Hakurk (Wadi Khakurik) region of Erbil, Northern Iraq, which they destroyed through controlled detonations.
+
+---
+
+[EVENT: IRQ26272]
+Date: 2020-09-02
+Country: Iraq | Location: Daquq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Sumaria TV; National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 2 September 2020, the 45th Brigade, of the 11th Division of the Joint Operations Command in Kirkuk destroyed an IS hideout and three tunnels in Wadi Hashishah, Daquq district, Kirkuk province.
+
+---
+
+[EVENT: IRQ26291]
+Date: 2020-09-03
+Country: Iraq | Location: Qaryat Al Hetaween
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Basnews [National]
+
+DESCRIPTION:
+Displacement: On 3 September 2020, residents of the Hitawin village in the Diyala province (around 100 people) fled their homes in fear of further IS attacks.
+
+---
+
+[EVENT: IRQ26286]
+Date: 2020-09-03
+Country: Iraq | Location: Mosul - Old City
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Defusal: On 3 September 2020, military forces defused PG9 launchers and 103 missiles, belonging to IS militants in the Sarkhane (Sarijkhana) area of Mosul-Old City.
+
+---
+
+[EVENT: IRQ26298]
+Date: 2020-09-04
+Country: Iraq | Location: Ar Rutba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Property destruction: On 4 September 2020, a joint forces within the Anbar Operations command destroyed a number of IS hideouts in the Anbar desert, south of Ar Rutba. They also safely defused ammunition and a booby-trapped vehicle.
+
+---
+
+[EVENT: IRQ36193]
+Date: 2020-09-05
+Country: Iraq | Location: Basrah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Weapons seizure: On 5 September 2020, Iraqi military forces seized various types of light and medium weapons and materials used to make explosive devices during a security operation in Basrah city (Al Basrah).
+
+---
+
+[EVENT: IRQ26314]
+Date: 2020-09-05
+Country: Iraq | Location: Khanaqin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Movement of forces: On 5 September 2020, the Iraqi army and PMF forces have increased their presence at security points in the Khanaqin district, Diyala province to confront any IS attacks in the area.
+
+---
+
+[EVENT: IRQ36194]
+Date: 2020-09-05
+Country: Iraq | Location: Al Husseiniya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Weapons seizure: On 5 September 2020, Iraqi military forces discovered and seized large quantities of ammunition during a security operation in Al Husseiniya area (Baghdad). The ammunitions included two medium machine guns (BKC, RBK), 121 rifles, 17 pistols, 8 hand grenades, 3 Motorola communication devices, 70 rifle magazines, and 11 phones used to detonate explosives devices. They also arrested 3 unidentified militants.
+
+---
+
+[EVENT: IRQ26317]
+Date: 2020-09-05
+Country: Iraq | Location: Rashad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 5 September 2020, during an operation in Rashad, Kirkuk province, Security forces located and subsequently destroyed 5 IS vehicles containing explosives, suicide belts and ammunition.
+
+---
+
+[EVENT: IRQ26627]
+Date: 2020-09-07
+Country: Iraq | Location: Kirkuk
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Change to armed group: On 7 September 2020, the Rapid Response Division expanded their presence by deploying 500 officers and forming an affiliated regiment in the governorate of Kirkuk.
+
+---
+
+[EVENT: IRQ26633]
+Date: 2020-09-08
+Country: Iraq | Location: Sadiya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Baghdad Today; Al Maloomah [National]
+
+DESCRIPTION:
+Movement of forces: On 8 September 2020, the 1st (Liwa al Imam Muhammad al Jawad, Badr Organization), 4th (Badr Organization), 20th (Liwa al-Taff), 23rd (Badr Organization), 28th (Saraya Ansar al-'Aqeeda), and 110th (Badr Organization) brigades in the Popular Mobilization Forces redeployed units to secure the periphery of Sadiya, Jalawla, Khanaqin districts and Alwand River basin (Mistat Alwand), Diyala province from IS remnants and explosives.
+
+---
+
+[EVENT: IRQ26660]
+Date: 2020-09-08
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Iraq) [Protesters]
+Fatalities: 0
+Sources: Watan (Iraq) [National]
+
+DESCRIPTION:
+Strikes: On 8 September 2020, a significant number of hospitals across Iraq participated in a nation-wide strike by officially announcing the suspension of their doctors' work hours, except for emergency halls, resuscitation and intensive care, demanding the launch of the granting of documents to graduates without restrictions or conditions, especially in light of the shortage of health care workers because of the coronavirus.
+
+---
+
+[EVENT: IRQ26742]
+Date: 2020-09-09
+Country: Iraq | Location: Semel
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Property destruction: On 9 September 2020, unidentified individuals set fire to four tents (caravans) in the Qadia Yazidi refugee camp in Semel, Dahuk province. No injuries occurred.
+
+---
+
+[EVENT: IRQ26708]
+Date: 2020-09-09
+Country: Iraq | Location: Kirkuk
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Property destruction: On 9 September 2020, federal police forces located and destroyed 7 IS tunnels during a security operation in the villages of Abu Shahma and Matar Dbaa in the south of Kirkuk province.
+
+---
+
+[EVENT: IRQ26691]
+Date: 2020-09-09
+Country: Iraq | Location: Rashad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 9 September 2020, the PMF's 16th brigade (Badr Organization, Turkmen brigades) destroyed two IS vehicles in Sayyid Mahdi, in the outskirts of Rashad village, Kirkuk province. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26688]
+Date: 2020-09-10
+Country: Iraq | Location: Naft Khanah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 10 September 2020, the PMF's 1st brigade (Badr Organization, Liwa al Imam Muhammad al Jawad) destroyed two IS vehicles in Naft Khanah, Khanaqin district, Diyala province. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26689]
+Date: 2020-09-10
+Country: Iraq | Location: Tikrit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 10 September 2020, the PMF's 52nd brigade (Badr Organization, Turkmen brigades) destroyed four IS tunnels in the Saladin province, one of which was used as a civilian prison. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26721]
+Date: 2020-09-11
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 11 September 2020, PMF forces destroyed 5 hidden IS pathways in five areas of the Diyala province. The paths were used by IS militants to infiltrate into agricultural land. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26715]
+Date: 2020-09-12
+Country: Iraq | Location: Khanaqin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security measures: On 12 September 2020, PMF forces of the 28th brigade (Saraya Ansar al-'Aqeeda) constructed dirt mounds in the Khanaqin district of Diyala, to prevent IS militants from further infiltration attempts.
+
+---
+
+[EVENT: IRQ26735]
+Date: 2020-09-12
+Country: Iraq | Location: Ramadi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 12 September 2020, the Al Jazeera Operations Command located and destroyed 4 IS vehicles in the Sukkar area, west of Anbar province. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26794]
+Date: 2020-09-13
+Country: Iraq | Location: Najaf
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Sumaria TV; Baghdad Today; Yaqein [National]
+
+DESCRIPTION:
+Property destruction: On 13 September 2020, an unidentified armed group set fire to 3 protest tents sit-in area in the city centre of Najaf. Sources reported that there were no fatalities.
+
+---
+
+[EVENT: IRQ26802]
+Date: 2020-09-13
+Country: Iraq | Location: Ramadi
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Al Maloomah; Al Mada; Al Ahad TV; Al Mawqif; ROJ News; Al Sumaria TV; All Iraq News Agency; Baghdad Today [National-International]
+
+DESCRIPTION:
+Security measures: On 13 September 2020, the Popular Mobilization Forces (13th - Liwa al-Tafuf, 17th - Saraya al-Jihad, 18th - Saraya al-Khorasani, 19th - Ansar Allah Al Awfiya and 37th brigades of the PMF) launched a military operation called (Al-Fateh Al-Mubin) to raid and search a number of important elected targets in Anbar Province.
+
+---
+
+[EVENT: IRQ26798]
+Date: 2020-09-14
+Country: Iraq | Location: Maimouna
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Baghdad Today; National Iraqi News Agency [National]
+
+DESCRIPTION:
+Security measures: On 14 September 2020, military forces and CTS special forces conducted an airdrop operation in the district of Maimouna, Missan, as part of its security operations in the province.
+
+---
+
+[EVENT: IRQ26799]
+Date: 2020-09-14
+Country: Iraq | Location: Al Halabsa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security measures: On 14 September 2020, security forces lifted of the security control of the city of Al-Halabsa, west of Fallujah, was lifted for the first time in about 5 years.
+
+---
+
+[EVENT: IRQ26807]
+Date: 2020-09-15
+Country: Iraq | Location: Samarra
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Sadrist Movement [Political militia]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Change to armed group: On 15 September 2020, Al-Salam Brigades of the Sadrist movement launched a pre-emptive operation in the district of Samarra to destroy IS dens and cells in Sala al Din following an IS attack that took place in the district.
+
+---
+
+[EVENT: IRQ26791]
+Date: 2020-09-15
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Mada [National]
+
+DESCRIPTION:
+Arrests: Around 15 September 2020 (week of), security forces arrested around 100 IS militants in the district of Mosul.
+
+---
+
+[EVENT: IRQ26808]
+Date: 2020-09-15
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Counter-Terrorism Service [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Maloomah; Al Sumaria TV; All Iraq News Agency; Baghdad Today; Shafaaq News [National]
+
+DESCRIPTION:
+Defusal: On 15 September 2020, CTS safely defused an explosive device attack carried by an unidentified armed man in a market in the district of Baquba. The operation led to the arrest of the armed man.
+
+---
+
+[EVENT: IRQ26806]
+Date: 2020-09-16
+Country: Iraq | Location: Baghdad - Karkh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2017-2021) [External/Other forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security measures: On 16 September 2020, US Military forces deployed around the US embassy in the Green Zone, Baghdad (Karkh) after a rocket fell on a commercial building near the embassy.
+
+---
+
+[EVENT: IRQ54849]
+Date: 2020-09-17
+Country: Iraq | Location: Al Azim
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: TMF: Tribal Mobilization Forces [Identity militia]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 17 September 2020, IS militants with machine guns destroyed 10 electrical transformers and 10 water pumps belonging to the TMF in the Al Wahda village of Al Azim area in Diyala.
+
+---
+
+[EVENT: IRQ42699]
+Date: 2020-09-17
+Country: Iraq | Location: Kirkuk
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) Iraqi National Intelligence Service [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Property destruction: On 17 September 2020, Iraqi National Intelligence Service discovered and destroyed two IS caches during security operations in the villages of Koli Tepe, Jenkala, and Taza De in Kirkuk province. The caches contained a motorcycle, an air-cooler, Kandahar clothing, and other logistical materials. They also arrested 2 IS militants. Coded to provincial capital city Kirkuk.
+
+---
+
+[EVENT: IRQ26803]
+Date: 2020-09-18
+Country: Iraq | Location: Bashir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Movement of forces: On 18 September 2020, PMF forces of the 26th brigade sent forces, artillery and missiles to Bashir, Daquq district, Kirkuk province to fill any security gaps in the area.
+
+---
+
+[EVENT: IRQ26804]
+Date: 2020-09-18
+Country: Iraq | Location: Al Azim
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Movement of forces: On 18 September 2020, the PMF formed a line of fire to protect 15 liberated villages on the outskirts of Al Azim, Khalis district, Diyala province from further IS attacks.
+
+---
+
+[EVENT: IRQ26812]
+Date: 2020-09-18
+Country: Iraq | Location: Qaryat Al Tawakul
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Property destruction: On 18 September 2020, the PMF's 2nd brigade (Imam Ali Brigade), located and destroyed 3 IS hideouts filled with explosives and ammunition in Qaryat Al Tawakul, Baquba district, Diyala province. Means of attack unspecifies.
+
+---
+
+[EVENT: IRQ42775]
+Date: 2020-09-19
+Country: Iraq | Location: Rab' Habib
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Movement of forces: On 19 September 2020, the 5th Division of the Iraqi Army and the police forces' Commandos Brigade, operating under Diyala Operations Command, launched sweeping operations in search of IS militants in Rab' Habib village, Diyala province.
+
+---
+
+[EVENT: IRQ26800]
+Date: 2020-09-19
+Country: Iraq | Location: Shilamjah Border Crossing
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency [International]
+
+DESCRIPTION:
+Security measures: On 19 September 2020, all borders between Iraq and Iran have been closed to prevent Iranians from crossing into Iraq to commemorate the Arbaeen pilgrimage in an effort to cub the spread of the coronavirus.
+
+---
+
+[EVENT: IRQ42776]
+Date: 2020-09-19
+Country: Iraq | Location: Mulla Tayyib
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Movement of forces: On 19 September 2020, the 5th Division of the Iraqi Army and the police forces' Commandos Brigade, operating under Diyala Operations Command, launched sweeping operations in search of IS militants in the Mulla Tayyib area in the Diyala province.
+
+---
+
+[EVENT: IRQ42701]
+Date: 2020-09-19
+Country: Iraq | Location: Shirqat
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Movement of forces: On 19 September 2020, Iraqi military forces, police forces, and the PMF launched a sweeping operation in Ganus Island in Shirqat district (Salah Al Din) to clear the area of IS militants and destroy their hideouts.
+
+---
+
+[EVENT: IRQ36198]
+Date: 2020-09-19
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Security measures: On 19 September 2020, the 5th Division of the Iraqi Army and the police forces' Commandos Brigade, operating under Diyala Operations Command, launched sweeping operations in search of IS militants in the villages and areas of Dakat, Rab' Habib, Mulla Tayyib , Zur Al-Kibya, Sherk, Tal Manjal, Al-Qayah, Ali Sebahi, and Sheikh Jarad in Diyala province. Coded to provincial capital city Baquba.
+
+---
+
+[EVENT: IRQ42702]
+Date: 2020-09-19
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Movement of forces: On 19 September 2020, the 5th Division of the Iraqi Army and the police forces' Commandos Brigade, operating under Diyala Operations Command, launched sweeping operations in search of IS militants in the villages and areas of Dakat, Zur Al-Kibya, Sherk, Al-Qayah, Ali Sebahi, and Sheikh Jarad in Diyala province. Coded to provincial capital city Baquba.
+
+---
+
+[EVENT: IRQ36197]
+Date: 2020-09-19
+Country: Iraq | Location: Shirqat
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Security measures: On 19 September 2020, Iraqi military forces, police forces, and the PMF launched a sweeping operation in Ganus Island in Shirqat district (Salah Al Din) to clear the area of IS militants and destroy their hideouts.
+
+---
+
+[EVENT: IRQ26811]
+Date: 2020-09-19
+Country: Iraq | Location: Ramadi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 19 September 2020, Iraqi security forces destroyed 2 IS vehicles in the Sukkraiyat area of the Anbar province during a security operation. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ26805]
+Date: 2020-09-19
+Country: Iraq | Location: Khanaqin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Movement of forces: On 19 September 2020, the PMF deployed soldiers along the road between Khanaqin and Al Munthuriyah, to prevent any infiltration attempts by IS militants.
+
+---
+
+[EVENT: IRQ42777]
+Date: 2020-09-19
+Country: Iraq | Location: Tall Manjal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Movement of forces: On 19 September 2020, the 5th Division of the Iraqi Army and the police forces' Commandos Brigade, operating under Diyala Operations Command, launched sweeping operations in search of IS militants in the Tall Manjal area, Diyala.
+
+---
+
+[EVENT: IRQ26801]
+Date: 2020-09-19
+Country: Iraq | Location: Fish Khabur
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Peshmerga [State forces]
+Fatalities: 0
+Sources: ROJ News [Regional]
+
+DESCRIPTION:
+Movement of forces: On 19 September 2020, the Kurdistan Democratic Party has strengthened the security and military deployment in the vicinity of Fishkhabur, opposite the Semalka border crossing with Rojava, by establishing military outposts, points and fortifications, and the deployment of Peshmerga forces.
+
+---
+
+[EVENT: IRQ26968]
+Date: 2020-09-22
+Country: Iraq | Location: Basrah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Property destruction: On 22 September 2020, an unidentified armed group hurled a stun grenade at the house of a Sadrist Movement leader in Basrah City, causing only material damages.
+
+---
+
+[EVENT: IRQ26949]
+Date: 2020-09-22
+Country: Iraq | Location: Qurna
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Property destruction: On 22 September 2020, unidentified armed men targeted the home of the directorate head in the Qurna district, Basrah province using a sound bomb (non-lethal), causing only material damages.
+
+---
+
+[EVENT: IRQ26909]
+Date: 2020-09-23
+Country: Iraq | Location: Haftanin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; Anadolu Agency [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 23 September 2020, Turkish army forces seized total of 13 IEDs, 4 mortar shells, 2 rocket propelled grenades (RPG) and various other weapons and supplies allegedly belonging to PKK, during the ongoing claw-tiger operation in Haftanin region of Dahuk, Northern Iraq.
+
+---
+
+[EVENT: IRQ26902]
+Date: 2020-09-23
+Country: Iraq | Location: Ramadi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Property destruction: On 23 September 2020, the Jazeera operations command, air-backed by the military located and destroyed 1 IS tunnel and 7 IS vehicles as well as 16 explosive devices during a security operation in the Jazeera desert, north of the Euphrates river and north of the Anbar province.
+
+---
+
+[EVENT: IRQ26900]
+Date: 2020-09-23
+Country: Iraq | Location: Ash Shabani
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 23 September 2020, a joint security operation by the PMF, TMF, border guards, and the Jazeera operations command, air-backed by the military located an destroyed 3 IS vehicles in the Shabani area of the Hatra district, Ninewa province, bordering the Anbar desert.
+
+---
+
+[EVENT: IRQ26905]
+Date: 2020-09-24
+Country: Iraq | Location: Karma
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Yaqein [National]
+
+DESCRIPTION:
+Around 24 September 2020 (from 20 - 24 September), groups belonging to the Badr Organization imposed their control over the roads of Karma district in the areas separating Anbar Province and the capital, Baghdad, this security measure prevented the entry and exit of people and traffic from the roads for five days as a form of harassment by the militia group.
+
+---
+
+[EVENT: IRQ54767]
+Date: 2020-09-24
+Country: Iraq | Location: Khazir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 24 September 2020, IS militants destroyed 4 electric transformers in Khazir village (Al Hawiga, Kirkuk). IS claimed that they belonged to TMF members.
+
+---
+
+[EVENT: IRQ26904]
+Date: 2020-09-24
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Iraq (2020-2022) [State forces]
+Actor2: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Non-violent activity: On 24 September 2020, the Prime Minister of Iraq issued an order to close the National Security and PMF offices at all Iraqi airports.
+
+---
+
+[EVENT: IRQ26906]
+Date: 2020-09-26
+Country: Iraq | Location: Karma
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Yaqein [National]
+
+DESCRIPTION:
+On 26 September 2020, groups belonging to the Badr Organization imposed their control over the roads of Karma district and closed the only port of Qanater, this prevented the entry and exit of people and traffic from the roads.
+
+---
+
+[EVENT: IRQ26907]
+Date: 2020-09-26
+Country: Iraq | Location: Baghdad - Sadr City
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Ahad TV [National]
+
+DESCRIPTION:
+On 26 September 2020, unidentified armed men set fire to the house and school of a Shiite accredited reference guide in Baghdad - Sadr City. The attackers locked the gates with chains to ensure that the Shiite accredited reference guide does not leave his house. No fatalities/injuries reported by the source.
+
+---
+
+[EVENT: IRQ27012]
+Date: 2020-09-26
+Country: Iraq | Location: Ar Rutba
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 5
+Sources: Al Sumaria TV; Basnews; National Iraqi News Agency; Shafaaq News [National]
+
+DESCRIPTION:
+Detonation: On 26 September 2020, 5 IS militants were killed in an accidental detonation in Ar Rutba City, Anbar province as they were planting an explosive device onto a vehicle.
+
+---
+
+[EVENT: IRQ27063]
+Date: 2020-09-27
+Country: Iraq | Location: Dibis
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 27 September 2020, 8 IS hideouts were destroyed by federal police forces with assistance of the Kirkuk joint operations command during a security operation south of Dibis, near Jisr Al Maleh and Mulla Abdullah in the Kirkuk province. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ54758]
+Date: 2020-09-28
+Country: Iraq | Location: Baghdad - Al Rashid
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 28 September 2020, IS militants set fire to a plastics factory belonging to the Mukhtar of Baghdad - Al Rashid. There were no casualties.
+
+---
+
+[EVENT: IRQ27127]
+Date: 2020-09-28
+Country: Iraq | Location: Ava Sin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Ihlas News Agency [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 28 September 2020 (as reported), Turkish army forces seized 4 assault weapons, 13 hand grenades, 13 rocket propelled grenades (RPG), 600 rounds of ammunition and various other supplies allegedly belonging to PKK, during the operations carried out in the Ava Sin region (Al Zibar, Erbil), Northern Iraq.
+
+---
+
+[EVENT: IRQ27077]
+Date: 2020-09-29
+Country: Iraq | Location: Al-Muqdadiya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 29 September 2020, PMF forces of the 5th brigade (Badr Organization), destroyed a number of IS hideouts during a security operation aimed at preventing IS infiltrations in Basateeh Abu Dahan, Muqdadiyah district, Diyala province. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ27141]
+Date: 2020-09-30
+Country: Iraq | Location: Haftanin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Ihlas News Agency [Regional]
+
+DESCRIPTION:
+Weapons seizure: Around 30 September 2020 (as reported), Turkish army forces seized a number of weapons allegedly belonging to PKK, during the Claw-Tiger operation carried out in Haftanin region of Dahuk, Northern Iraq. The weapons seized included 3 heavy machine guns, 3 IEDs, 11 artillery shells, 13 hand grenades, total 592 rounds of ammunition belonging to various weapons, rocket propelled grenades (RPG), hand grenades, land-mines, and 60 kilogram of ammonium nitrate.
+
+---
+
+[EVENT: IRQ27094]
+Date: 2020-09-30
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Counter-Terrorism Service [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: Around 30 September 2020 (in the past 24 hours), Counter-Terrorism forces carried out a security operation in the Diyala province in which they destroyed a number of IS hideouts as well as an IS vehicle. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ27040]
+Date: 2020-09-30
+Country: Iraq | Location: Tharthar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On 30 September 2020, a security operation in Wadi Tharthar, Baiji district, Saladin province carried out by the Ninewa and Jazeera operation commands, resulted in the destruction of 3 IS hideouts, 3 IS tunnels and various ammunition. Means of attack unspecified.
+
+---
+
+[EVENT: IRQ27082]
+Date: 2020-09-30
+Country: Iraq | Location: Erbil International Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Military Forces of the United States (2017-2021) [External/Other forces]
+Fatalities: 0
+Sources: Baghdad Post; Basnews; BBC News; National Iraqi News Agency; Xinhua [Subnational-National]
+
+DESCRIPTION:
+Interception: On 30 September 2020, 3 unidentified Katyusha rockets were intercepted by the American Patriot air defence missile system near Erbil International Airport. The rockets were aimed at the Erbil Airport, where global coalition forces are stationed.

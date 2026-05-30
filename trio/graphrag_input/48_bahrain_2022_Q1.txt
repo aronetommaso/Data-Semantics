@@ -1,0 +1,125 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Bahrain (ISO Code: 48)
+Temporal Period: Year 2022 - Quarter Q1
+Total Events in Chunk: 9 / 9
+==================================================
+
+[EVENT: BHR10249]
+Date: 2022-01-31
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2021-) Marine Corps [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Al Jazeera; Bahrain Alyoum; Bahrain Mirror; LuaLua TV [National-Regional]
+
+DESCRIPTION:
+Other: On 31 January 2022, a joint maritime exercise (IMX/CE 2022) was kicked off in the HQs of the US 5th Fleet in Manama (Capital). The exercise is led by the US Navy Central Command and will involve 50 ships from 60 countries and international organizations and more than 80 unmanned systems from 10 countries. It will last for 18 days. Events will take place in the Arabian Gulf, the Arabian Sea, the Gulf of Oman, the Red Sea, and the North Indian Ocean.
+
+---
+
+[EVENT: BHR10248]
+Date: 2022-01-31
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: ADHRB; Bahrain Human Rights Society; LuaLua TV [National]
+
+DESCRIPTION:
+Other: On 31 January 2022, the Bahraini Ministry of Social Development in Manama (Capital) excluded three applications for membership in the Bahrain Human Rights Society board because the applicants were members of the dissolved Waad political party (National Democratic Action Society). The applicants were AbdulJalil Yusuf, Issa Ebrahim, and Mohsen Matar. This decision triggered a lot of media coverage.
+
+---
+
+[EVENT: BHR10250]
+Date: 2022-02-03
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Government of Bahrain (1999-) [State forces]
+Actor2: Government of Israel (2021-2022) [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Al Jazeera [Regional]
+
+DESCRIPTION:
+On 3 February 2022, the Bahraini and Israeli governments signed a security cooperation agreement during the visit of Israeli Defense Minister Benny Gantz to Manama (Capital). The agreement covers 'intelligence, procurement, and joint training'.
+
+---
+
+[EVENT: BHR10253]
+Date: 2022-02-09
+Country: Bahrain | Location: Al Muqsha
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Non-violent activity: On 9 February 2022, Bahraini authorities took down posters of protesters that were killed in anti-regime protests in Al Muqsha (Capital).
+
+---
+
+[EVENT: BHR10266]
+Date: 2022-02-10
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: Bahrain Mirror [National]
+
+DESCRIPTION:
+Other: Around 10 February 2022 (as reported), the Bahraini Defense Forces signed a deal with Advance Technology Systems (BATS) a Belgian subsidiary of Israel Aerospace Industry to supply it with an Integrated Coastal Surveillance System to protect the shores of a military base in the country (event coded to Bahraini capital Manama by default as exact location of the military base is undisclosed).
+
+---
+
+[EVENT: BHR10267]
+Date: 2022-02-12
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2021-2022) [External/Other forces]
+Fatalities: 0
+Sources: Al Jazeera; Bahrain Mirror [National-Regional]
+
+DESCRIPTION:
+Other: On 12 February 2022, an Israeli soldier was deployed to Manama (Capital) as part of an international coalition that aims to secure territorial waters. Bahraini authorities confirmed the deployment of the soldier and said that the coalition includes 34 countries, while local source claim that the soldier will be permanently stationed in Manama. Sources also speculated that the soldier will be a liaison officer to the US 5th fleet.
+
+---
+
+[EVENT: BHR10307]
+Date: 2022-02-20
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Bahrain (1999-) [State forces]
+Actor2: Military Forces of Israel (2021-2022) Mossad [External/Other forces]
+Fatalities: 0
+Sources: AhlulBayt News Agency; Bahrain Alyoum; LuaLua TV; Times of Israel [National-Regional]
+
+DESCRIPTION:
+Other: On 20 February 2022, Abdullah bin Ahmed Al Khalifa, an undersecretary at the Bahraini ministry of foreign affairs, announced that the Mossad was active in Bahrain (coded to country level in Manama).
+
+---
+
+[EVENT: BHR11490]
+Date: 2022-02-27
+Country: Bahrain | Location: Sanabis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Non-violent activity: On 27 February 2022, Bahraini police forces deployed in Sanabis (Capital) in anticipation of protests.
+
+---
+
+[EVENT: BHR10321]
+Date: 2022-03-24
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of the United States (2021-2025) [External/Other forces]
+Actor2: Government of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: AhlulBayt News Agency; Inside Defense; LuaLua TV [National-Regional]
+
+DESCRIPTION:
+Other: On 24 March 2022, the US State Department approved a 176M US Dollars upgrade for Bahrain's rocket launchers (coded to capital city Manama). Lockheed Martin will be contracted to implement the upgrade.

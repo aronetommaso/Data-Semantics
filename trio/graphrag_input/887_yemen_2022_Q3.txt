@@ -1,0 +1,3030 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Yemen (ISO Code: 887)
+Temporal Period: Year 2022 - Quarter Q3
+Total Events in Chunk: 224 / 224
+==================================================
+
+[EVENT: YEM74589]
+Date: 2022-07-01
+Country: Yemen | Location: Wadi Madhab
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Land seizure: On 1 July 2022, Houthi forces seized land belonging to the Dhu Muhammad tribe and handed it to the Houthi-allied Harf Sufyan tribe in Al Adi and Wadi Madhab in Kharab Al Marashi district (Al Jawf).
+
+---
+
+[EVENT: YEM74757]
+Date: 2022-07-01
+Country: Yemen | Location: Aden - Al Imad
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Aden Security [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Mahrah Post; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 1 July 2022, the Criminal Investigation Unit of Al Imad police (coded as Aden Security) arrested a journalist working for Aden al Ghad and took him to Aden - Al Imad police station (Dar Sad). The reason for the arrest was not reported.
+
+---
+
+[EVENT: YEM74603]
+Date: 2022-07-02
+Country: Yemen | Location: Shuqrah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Security Belt Forces [State forces]
+Fatalities: 0
+Sources: Al Omanaa; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 2 July 2022, STC Security Belt forces deployed in Shuqrah and all coastal areas between Ash Shaykh Salim and Shuqrah (Khanfir, Abyan) to start a campaign against 'terrorism' in the region. The deployment came after coordination with IRG authorities and forces. The Security Belt are led by anti-terrorism commander Abdulrahman al Shanini.
+
+---
+
+[EVENT: YEM74622]
+Date: 2022-07-02
+Country: Yemen | Location: Taizz - Madinat an Nur
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Bawabati; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 2 July 2022, IRG forces intercepted and shot down 1 small Houthi helicopter drone modified to carry explosives over the northern front of Taizz city (coded to Al Mudhaffar district at Taizz - Madinat an Nur).
+
+---
+
+[EVENT: YEM74631]
+Date: 2022-07-03
+Country: Yemen | Location: Sanaa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: National Resistance (Guards of the Republic) [Political militia]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Change to armed group: On 3 July 2022, 33 soldiers and officers from the Tareq Saleh-affiliated Guardians of the Republic defected and arrived in Sanaa (Amanat al Asimah) to announce their allegiance to Houthi forces.
+
+---
+
+[EVENT: YEM74644]
+Date: 2022-07-03
+Country: Yemen | Location: Al Hajab
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Aden al Ghad; Khabar News Agency (Yemen); Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 3 July 2022, forces from the 11th Giants Brigades shot down 1 Rasid Houthi armed drone over Ain district (coded to Al Hajab) (Shabwah) after Houthi forces had previously targeted them with a bomb-laden drone in the Bayhan fronts (coded as a separate event).
+
+---
+
+[EVENT: YEM74627]
+Date: 2022-07-03
+Country: Yemen | Location: Aden - Al Mimdarah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Security Belt Forces [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Nukhba Hadramawt [National]
+
+DESCRIPTION:
+Defusal: On 3 July 2022, the emergency force of STC-affiliated Security Belt forces defused an IED of unknown origin near Al Mashru Roundabout in Aden - Al Mimdarah (Ash Shaikh Outhman). The IED was connected to a cell phone.
+
+---
+
+[EVENT: YEM74670]
+Date: 2022-07-04
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Shabwani Defense Forces [State forces]
+Fatalities: 0
+Sources: Al Janoob al Youm; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 4 July 2022, STC Shabwani Defense forces and other STC-affiliated forces (coded as STC generic forces) deployed an unclear number of troops in Ataq district (Shabwah).
+
+---
+
+[EVENT: YEM74758]
+Date: 2022-07-04
+Country: Yemen | Location: Dhamar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Khalasah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Property destruction: On 4 July 2022, Houthi forces demolished two civilian houses in Azzan neighborhood in east Dhamar city (Dhamar). The reason behind the demolition was not reported.
+
+---
+
+[EVENT: YEM74683]
+Date: 2022-07-04
+Country: Yemen | Location: Jawl
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Security Belt Forces [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Aden Today; Al Mahrah Post; Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+On 4 July 2022, STC-affiliated Security Belt forces arrested a woman from her house in Jawl Yamani (coded to Al Jawla) (Tuban, Lahij) as they stormed the house looking for her husband, a suspect in the assassination attempt against southern commander Saleh as Sayid. Security Belt forces took his wife instead when they did not find him sparking a controversy among tribes.
+
+---
+
+[EVENT: YEM74678]
+Date: 2022-07-05
+Country: Yemen | Location: Aden - Coalition Command Camp
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Crater Sky; Shmsan Net; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 5 July 2022, a military force of around 200 pickup trucks of IRG forces arrived at Aden - Coalition Command Camp (Al Buraiqeh) with sources claiming that they will subsequently deploy to Al Maashiq palace and other governmental facilities where they would handle security. Some sources claimed that half of the force consisted of Happy Yemen Brigades led by Salafist leader Bashir al Madhrabi as Subayhi and that the other half was coming from Sayun in Hadramawt led by Brigadier General Al Khawlani.
+
+---
+
+[EVENT: YEM74694]
+Date: 2022-07-06
+Country: Yemen | Location: Lawdar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Security Belt Forces [State forces]
+Fatalities: 0
+Sources: Al Mashhad Al Araby; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Security measures: On 6 July 2022, STC-affiliated Security Belt forces launched a joint campaign with Public Security forces to collect heavy weapons in Lawdar district (Abyan) to improve stability against 'terrorist organizations' in Abyan governorate.
+
+---
+
+[EVENT: YEM74715]
+Date: 2022-07-06
+Country: Yemen | Location: Socotra Airport
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Masa Press; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 6 July 2022, a UAE military airplane landed in Socotra Airport (Hidaybu, Suqutra). The source claimed that the plane transported both UAE and Israeli military engineers to work on a joint base on the island.
+
+---
+
+[EVENT: YEM74700]
+Date: 2022-07-06
+Country: Yemen | Location: Manqadhah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Mawqea; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Property destruction: On 6 July 2022, Houthi forces destroyed a school and several adjacent houses in Manqadhah (Dhamar City, Dhamar). The reason behind the demolition was not reported.
+
+---
+
+[EVENT: YEM74712]
+Date: 2022-07-06
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Fatalities: 0
+Sources: Al Motabaat; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 6 July 2022, the Giants Brigades deployed a counter terrorism team in Shabwah governorate that will also securing government and oil facilities in the governorate. The source claimed that US ambassador Steven Fagin pushed for the deployment which was met by rejection from the STC, which sees it as a means to take control of oil facilities in the governorate.
+
+---
+
+[EVENT: YEM74725]
+Date: 2022-07-07
+Country: Yemen | Location: As Said Junction
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - Special Security Forces [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Tahdeeth [National]
+
+DESCRIPTION:
+Looting: On 7 July 2022, an Islah-affiliated leader in the Special Security forces looted the fuel truck of a merchant from Marib governorate in As Said Junction (Ataq, Shabwah) to supply the vehicles of his forces.
+
+---
+
+[EVENT: YEM74729]
+Date: 2022-07-08
+Country: Yemen | Location: Al Qataba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Masdar; Al Mashhad Al Yemeni - Pro-IRG [National]
+
+DESCRIPTION:
+Property destruction: On 8 July 2022, forces from the 9th Giants Brigade demolished Al Nur historical mosque in Al Qataba (Al Khawkhah, Al Hudaydah) with bulldozers after the deployment of forces in the village. The reason behind the destruction was not reported.
+
+---
+
+[EVENT: YEM74904]
+Date: 2022-07-10
+Country: Yemen | Location: Hajjah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: 2 December News; Al Masdar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Around 10 July 2022, Houthi forces conducted an arrest campaign targeting girls in Hajjah city (Hajjah) in which they took the girls to An Nusayriyah Central Prison in the outskirts of the city and to other police stations and detention centers in the city. Dozens of girls (around 90 according to one source and at least 50 according to another) were arrested on 'immoral charges'. One source claimed that Houthi forces would then blackmail the parents to release the girls.
+
+---
+
+[EVENT: YEM74810]
+Date: 2022-07-11
+Country: Yemen | Location: Sanaa - Az Zubayri
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Looting: On 11 July 2022, Houthi police forces raided and looted the HQs of the broadcasting station 'Voice of Yemen' in Al Zubairi Street in Sanaa - Az Zubayri (Al Wahdah, Amanat al Asimah). They shut down its operations after looting the station's broadcasting equipment claiming that the station operated without a license days after a court order allowed the station's reopening. Houthi forces had previously used the same claim to shut down 6 other broadcasting stations in Sanaa.
+
+---
+
+[EVENT: YEM78655]
+Date: 2022-07-15
+Country: Yemen | Location: Ibb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Aden al Ghad [National]
+
+DESCRIPTION:
+Land seizure: Around 15 July 2022 (month of), Houthi forces stormed and seized Al Amin hospital in Ibb city (Al Mashannah). The reason behind the seizure was not reported.
+
+---
+
+[EVENT: YEM74942]
+Date: 2022-07-17
+Country: Yemen | Location: Al Mukalla
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Actor2: Islamic State in Yemen (ISY) [Rebel group]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Window [Local partner-National]
+
+DESCRIPTION:
+On 17 July 2022, security forces arrested two Islamic State leaders, a security official in Qayfa and Yakla in Al Bayda governorate and a commander in the artillery battalion, in Hadramawt governorate.
+
+---
+
+[EVENT: YEM74956]
+Date: 2022-07-18
+Country: Yemen | Location: Al Ghayzah - Airport
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 18 July 2022, Saudi and UAE forces deployed more than 200 soldiers and dozens of armored vehicles and military crews to Al Ghayzah - Airport (Al Ghaydah, Al Mahrah). The source claimed that coalition forces have started movements in the governorate to explore for oil.
+
+---
+
+[EVENT: YEM74951]
+Date: 2022-07-18
+Country: Yemen | Location: Bayt al Hadish
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: 2 December News; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 18 July 2022, WCJF shot down 1 Houthi Rasid armed drone south of Al Garrahi district (coded to Bayt al Hadish) (Hays, Al Hudaydah).
+
+---
+
+[EVENT: YEM74957]
+Date: 2022-07-18
+Country: Yemen | Location: Al Qatn
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: Al Sabah al Yemeni; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 18 July 2022, AQAP militants established several checkpoints in Al Qatn district (Hadramawt).
+
+---
+
+[EVENT: YEM75021]
+Date: 2022-07-19
+Country: Yemen | Location: Ghurab Ala
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Mareb Press; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: Around 19 July 2022, Houthi forces from Dhamar, Ibb, and Sanaa deployed in fronts west of Taizz city (coded to Ghurab Ala) (At Taiziyah, Taizz).
+
+---
+
+[EVENT: YEM75006]
+Date: 2022-07-20
+Country: Yemen | Location: Al Ghayzah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Yemen Data Project; YNP [Local partner-National]
+
+DESCRIPTION:
+Other: On 20 July 2022, Saudi forces confiscated 20 fishing boats in the coast of Al Ghaydah district (Al Mahrah). The source claimed that coalition forces wanted to exploit Yemen's marine resources to their benefit.
+
+---
+
+[EVENT: YEM75016]
+Date: 2022-07-20
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - Special Security Forces [State forces]
+Fatalities: 0
+Sources: Al Khabar al Yemeni; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 20 July 2022, 30 military vehicles of Islah-affiliated Special Security forces deployed to their HQs in Ataq city (Shabwah). The forces came from Marib.
+
+---
+
+[EVENT: YEM75124]
+Date: 2022-07-21
+Country: Yemen | Location: Judaydah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Weapons seizure: Around 21 July 2022 (week of), Houthi forces seized 4 weapon caches belonging to IRG forces in Al Jubah district (Marib).
+
+---
+
+[EVENT: YEM75079]
+Date: 2022-07-22
+Country: Yemen | Location: Khubzah
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Al Khubzah Tribal Militia (Yemen) [Identity militia]
+Fatalities: 0
+Sources: Al Masdar; Al Sharaea News [National]
+
+DESCRIPTION:
+On 22 July 2022, Houthi forces and armed tribesmen from Khubzah village in the Qayfa region (Wald Rabi) agreed to a ceasefire with the help of tribal mediation by Al Qayfa tribesmen. The two parties clashed for at least 3 days following a week-long Houthi siege on the village after 3 Houthi fighters were found killed nearby. A Houthi source depicted the situation as a security campaign targeting AQAP presence in the village.
+
+---
+
+[EVENT: YEM75089]
+Date: 2022-07-23
+Country: Yemen | Location: Sabir
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Actor2: Giants Brigades [Political militia]
+Fatalities: 1
+Sources: Al Masdar; Crater Sky; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Detonation: On 23 July 2022, a hand grenade fell from a fighter in the 2nd Giants Brigade and exploded inside a mosque (Al Yarmouk or As Said mosque depending on sources) in Sabir (Tuban, Lahij) killing the Giants Brigade soldier and injuring 1 other.
+
+---
+
+[EVENT: YEM77435]
+Date: 2022-07-23
+Country: Yemen | Location: Abd al Kuri
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Al Mahrah Post [National]
+
+DESCRIPTION:
+Non-violent activity: On 23 July 2022, UAE forces constructed a new runway in Abd al Kuri island (Qulensya Wa Abd Al Kuri, Suqutra). The source claimed that this new runway would facilitate the takeoff and landing movement and allow the UAE to receive heavy airplanes.
+
+---
+
+[EVENT: YEM75232]
+Date: 2022-07-23
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Shabwani Defense Forces [State forces]
+Fatalities: 0
+Sources: Al Masdar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 23 July 2022, police forces under order from Shabwah governor Awadh bin al Wazir al Awlaqi arrested Special Security forces commander Abdrabu Lakaab and 2nd Shabwah Defense Brigade commander Wajdi Baum in Ataq district (Shabwah) after clashes erupted between the two forces days prior.
+
+---
+
+[EVENT: YEM75167]
+Date: 2022-07-24
+Country: Yemen | Location: Hays
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: 2 December News; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 24 July 2022, WCJF shot down 1 Houthi Rasid reconnaissance drone in Hays axis (coded to district level) (Al Hudaydah).
+
+---
+
+[EVENT: YEM75100]
+Date: 2022-07-26
+Country: Yemen | Location: Baqim as Suq
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Montasaf; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 26 July 2022, IRG forces shot down 2 Houthi drones (1 Rasid and 1 Rujum with at least one weaponized) over Baqim district (coded to Baqim as Suq) (Sadah).
+
+---
+
+[EVENT: YEM75172]
+Date: 2022-07-26
+Country: Yemen | Location: Socotra Port
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Al Masdar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 26 July 2022, a UAE vessel delivered weapons and military equipment including vehicles and weapons to Socotra Port (Hidaybu, Suqutra) with UAE military boats deploying around the port when the ship arrived. The source speculated that the vessel delivered weapons to UAE-affiliated groups on the island.
+
+---
+
+[EVENT: YEM75199]
+Date: 2022-07-28
+Country: Yemen | Location: Muhayfif
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Mahrah Post; Al Mushahid; Huna Aden; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Other: On 28 July 2022, foreign forces described as Saudi and British according to one source stormed the house of former deputy governor and leader of 'Al Mahrah Peaceful Sit-in Committee' Ali Salim al Hurayzi in Muhayfif (Al Ghaydah, Al Mahrah) with 4 armored vehicles and 6 military vehicles. Al Hurayzi was not in the house.
+
+---
+
+[EVENT: YEM75238]
+Date: 2022-07-30
+Country: Yemen | Location: Sayun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 30 July 2022, IRG forces from the 1st Military District started withdrawing troops from the Hadramawt valley and desert areas (coded to Sayun district) (Hadramawt) to Al Jawf governorate. The source claimed that Hadrami Elite Forces from the 2nd Military District would move into the region once the withdrawal is complete.
+
+---
+
+[EVENT: YEM75378]
+Date: 2022-07-30
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Shabwani Defense Forces [State forces]
+Fatalities: 0
+Sources: Masa Press; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 30 July 2022, STC-affiliated forces (coded as Shabwani Defense forces) continued their military build-up around of Ataq city (Shabwah). The source claimed that forces were preparing for a battle against Islah-affiliated forces in Ataq.
+
+---
+
+[EVENT: YEM75246]
+Date: 2022-07-30
+Country: Yemen | Location: Khawrah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Masa Press; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 30 July 2022, Islah-affiliated IRG forces from Marib governorate deployed to Merkhah As Sufla district (Shabwah). The source claimed that this was the third such reinforcement that week and that forces were preparing for a battle against STC-affiliated forces in Ataq.
+
+---
+
+[EVENT: YEM75372]
+Date: 2022-07-31
+Country: Yemen | Location: Al Hawtah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Al Janoob al Youm; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: Around 31 July 2022 (as reported), security forces affiliated with the IRG Ministry of Interior (coded as police) deployed to Al Hawtah (Shibam, Hadramawt) following orders from interior minister Ibrahim Haydan. The source claimed that this took place amid tensions between Islah-affiliated and STC-affiliated forces in the region.
+
+---
+
+[EVENT: YEM75296]
+Date: 2022-08-02
+Country: Yemen | Location: Sanaa
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Office of the UN Special Envoy to Yemen; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 2 August 2022, the parties to the conflict (coded as pro-IRG forces and Houthi forces) agreed to extend the UN-mediated truce which mandates a nationwide cessation of hostilities for an additional two months (coded to Sanaa). The extension came into effect at 1900 hours on August 2, the time that the previous truce extension announced on June 2 expired, and runs until 2 October.
+
+---
+
+[EVENT: YEM75319]
+Date: 2022-08-03
+Country: Yemen | Location: Uzlat ash Sharai
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Looting: On 3 August 2022, Houthi forces stormed a mosque in Az Zahrah village in Ash Sharai region (Jiblah, Ibb) and confiscated books and other items from the mosque's library. The source claimed that the incident came as part of a Houthi campaign to confiscate religious books not aligned with the Houthi ideology.
+
+---
+
+[EVENT: YEM75326]
+Date: 2022-08-03
+Country: Yemen | Location: Al Urrah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Mareb Press; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 3 August 2022, Houthi forces conducted an arrest campaign arresting around 30 civilians in Al Urrah village (Hamdan, Sanaa) after residents had destroyed a wall that the Houthis had built to protect land that they claimed. Sources claimed that the residents destroyed the wall and claimed the land after a court ruling stated that the land belonged to the residents and not to the Houthi authorities.
+
+---
+
+[EVENT: YEM75315]
+Date: 2022-08-03
+Country: Yemen | Location: Al Ghayzah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project; YNP [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 3 August 2022, Saudi and UAE forces deployed in the entries and exits of Al Ghayzah city (Al Ghaydah, Al Mahrah) as well as the coastal strip of the city. The source speculated that the coalition forces had deployed in expectation of anti-coalition demonstrations following the raid of the house of former deputy governor and leader of 'Al Mahrah Peaceful Sit-in Committee' Ali Salim al Hurayzi on 28 August.
+
+---
+
+[EVENT: YEM75336]
+Date: 2022-08-04
+Country: Yemen | Location: Aden - Dar Sad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Aden Security [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Sabah al Yemeni; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Looting: On 4 August 2022, STC forces (coded as Aden Security) stormed and looted the house of the Islah-affiliated commander of the Presidential Protection Transport Brigade -- Amjad Khalid -- in Dar Sad district (Aden). The STC had previously accused Amjad Khalid of being behind a number of assassination attempts targeting southern military and security leaders in the south.
+
+---
+
+[EVENT: YEM75335]
+Date: 2022-08-04
+Country: Yemen | Location: Jabal Ulman al Husha
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Mareb Press; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 4 August 2022, Houthi forces deployed military vehicles and hundreds of fighters recently recruited in Dhamar in Jabal Ulman al Husha (Al Husha, Ad Dali). The source claimed that Houthi forces were planning on establishing a new military camp on the mountain that overlooks several strategic areas. The deployment took place over the course of two days.
+
+---
+
+[EVENT: YEM75565]
+Date: 2022-08-05
+Country: Yemen | Location: Mathka
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Omanaa; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Other: On 5 August 2022, a Rasid Houthi reconnaissance drone fell in Markaz Hayb located near Mathka (Jayshan, Abyan). The source speculated that it fell due to a technical malfunction.
+
+---
+
+[EVENT: YEM75393]
+Date: 2022-08-06
+Country: Yemen | Location: Balhaf
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Shabwani Defense Forces [State forces]
+Fatalities: 0
+Sources: South24 Center for News and Studies; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 6 August 2022, STC forces from the 1st Shabwani Defense Brigade deployed in areas around Balhaf oil facility (Rudum, Shabwah).
+
+---
+
+[EVENT: YEM75394]
+Date: 2022-08-06
+Country: Yemen | Location: Rudum
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Shabwani Defense Forces [State forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Crater Sky; South24; Yafa News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 6 August 2022, STC forces from the 1st Shabwani Defense Brigade took over security sites from IRG forces of the Islah-affiliated 2nd Marine Brigade in the villages of Farjumah, Masluq, and As Sawadiyah in Rudum district (Shabwah).
+
+---
+
+[EVENT: YEM82336]
+Date: 2022-08-06
+Country: Yemen | Location: Qishn
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Other: On 6 August 2022, a Boeing Insitu Integrator Extended Range of unidentified origin crashed near Qishn district (Al Mahrah). No further information was reported on the incident.
+
+---
+
+[EVENT: YEM75413]
+Date: 2022-08-07
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Fatalities: 0
+Sources: Al Masdar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 7 August 2022, Giants Brigade forces deployed dozens of troops, including armored vehicles, in several areas of Ataq city (Shabwah) including in front of the local administration building and near the house of former Special Security forces commander Abdrabu Laakab. The source claimed that this was ordered by Shabwah governor Awadh bin al Wazir al Awlaqi in contradiction of directives from the PLC.
+
+---
+
+[EVENT: YEM76282]
+Date: 2022-08-07
+Country: Yemen | Location: Al Yatimah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Dhu Husayn Tribal Militia (Yemen) [Identity militia]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Movement of forces: On 7 August 2022, hundreds of Dhu Husayn armed tribesmen deployed to Al Yatimah region (Khabb wa Ash Shaaf, Al Jawf) in preemption of a conflict with Thu Mohammed tribe.
+
+---
+
+[EVENT: YEM75566]
+Date: 2022-08-07
+Country: Yemen | Location: Uzlat Saraf
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Land seizure: Around 7 August 2022, Houthi forces seized land that belonged to tribal groups in Saraf (Bani Hushaysh, Sanaa). The event was reported as having taken place 'around 3 days ago' on 10 August.
+
+---
+
+[EVENT: YEM75404]
+Date: 2022-08-07
+Country: Yemen | Location: Qishn
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Tribal Militia (Yemen) [Identity militia]
+Actor2: Unidentified Military Forces [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project; YNP [Local partner-National]
+
+DESCRIPTION:
+Interception: On 7 August 2022, unidentified tribesmen shot down an unidentified US-made drone over Qishn district (Al Mahrah). The source stated that was unclear whether the drone belonged to the Saudi-led coalition or the US and British forces stationed at Al Ghayzah - Airport.
+
+---
+
+[EVENT: YEM75434]
+Date: 2022-08-08
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Movement of forces: On 8 August 2022, Giants Brigade and STC Shabwani Defense forces deployed troops and armored vehicles in Ataq city (Shabwah) following clashes earlier in the day. Dozens of families also left the city and stores did not open.
+
+---
+
+[EVENT: YEM75436]
+Date: 2022-08-08
+Country: Yemen | Location: Ghurab Ala
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen) [National]
+
+DESCRIPTION:
+Movement of forces: On 8 August 2022, Houthi forces deployed reinforcements coming from Amran, Hajjah, Dhamar, and Sadah in Al Hasaka area near Street 60 in At Taiziyah district (coded to Ghurab Ala based on previous activity) (Taizz).
+
+---
+
+[EVENT: YEM75422]
+Date: 2022-08-08
+Country: Yemen | Location: Sanaa - Al Hafaa
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 6
+Sources: Khabar News Agency (Yemen); Middle East Eye; Times of Israel; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Detonation: On 8 August 2022, a ballistic missile exploded while it was being redeployed at the Houthi military camp in Sanaa - Al Hafaa (As Sabain, Amanat al Asimah) killing at least 6 Iranian and Lebanese advisers (coded as IRGC and Hezbollah). Some sources speculated that this was the result of an Israeli strike as an Israeli commander claimed to have killed the northern Gaza commander of Islamic Jihad 'in a third country' around that date.
+
+---
+
+[EVENT: YEM75435]
+Date: 2022-08-08
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Movement of forces: On 8 August 2022, IRG forces from Ataq axis (30th Brigade) and Special Security forces deployed troops and armored vehicles in Ataq city (Shabwah) following clashes earlier in the day. Dozens of families also left the city and stores did not open.
+
+---
+
+[EVENT: YEM75567]
+Date: 2022-08-08
+Country: Yemen | Location: Al Urrah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 8 August 2022, Houthi forces conducted an arrest campaign arresting local sheikhs and residents in Al Urrah village (Hamdan, Sanaa). This came after Houthi forces arrested 30 civilians in the area on 3 August 2022 after they destroyed a wall that the Houthis had built to protect land that they claimed.
+
+---
+
+[EVENT: YEM75437]
+Date: 2022-08-08
+Country: Yemen | Location: Taizz - Al Muftash
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen) [National]
+
+DESCRIPTION:
+Movement of forces: On 8 August 2022, Houthi forces deployed reinforcements coming from Amran, Hajjah, Dhamar, and Sadah in Al Husun area in Street 50 (coded Al Qahirah district) (Taizz).
+
+---
+
+[EVENT: YEM75464]
+Date: 2022-08-09
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Shabwani Defense Forces [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+On 9 August 2022, STC Shabwani Defense forces arrested several workers with northern origins in Ataq city (Shabwah) amid tensions and clashes between STC- and Islah-affiliated IRG forces.
+
+---
+
+[EVENT: YEM75444]
+Date: 2022-08-09
+Country: Yemen | Location: Al Mukalla
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Fatalities: 0
+Sources: South24 Center for News and Studies; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Other: On 9 August 2022, the STC-affiliated Hadramawt Uprising command announced the establishment of the Hadramawt Defense Forces with an initial number of 25,000 fighters (coded to governorate level).
+
+---
+
+[EVENT: YEM75461]
+Date: 2022-08-09
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: South24 Center for News and Studies [National]
+
+DESCRIPTION:
+Movement of forces: On 9 August 2022, Islah-affiliated IRG forces coming from Marib deployed to Ataq city (Shabwah) amid tensions and clashes between STC- and Islah-affiliated IRG forces.
+
+---
+
+[EVENT: YEM75468]
+Date: 2022-08-09
+Country: Yemen | Location: Al Qaidah (Al Anin Front)
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 9 August 2022, IRG forces deployed military reinforcements to Al Ahtub front (coded to Al Qaidah (Al Anin Front)) (Jabal Habashy, Taizz).
+
+---
+
+[EVENT: YEM75568]
+Date: 2022-08-10
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Monitor [Local partner-National]
+
+DESCRIPTION:
+Displacement: Around 10 August 2022 (week of), 313 families were displaced in Shabwah governorate (coded to Ataq) amid clashes between UAE-backed and Islah-affiliated forces.
+
+---
+
+[EVENT: YEM75569]
+Date: 2022-08-10
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Fatalities: 0
+Sources: Al Mawqea; Bawabati; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: Around 10 August 2022 (week of), Giants brigades-affiliated Happy Yemen Brigade forces from Marib (Saba axis) arrived to Ataq city (Shabwah) in support of Giants Brigade and STC Shabwani Defense forces against Islah-affiliated forces.
+
+---
+
+[EVENT: YEM75510]
+Date: 2022-08-10
+Country: Yemen | Location: Habban
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - Special Security Forces [State forces]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni - Pro-IRG [National]
+
+DESCRIPTION:
+Movement of forces: On 10 August 2022, IRG Special Security forces withdrew from Habban and Rudum districts (Shabwah) and retreated to rural areas in Shabwah governorate after being expelled from Ataq following clashes with Giants Brigade and STC Shabwani Defense forces.
+
+---
+
+[EVENT: YEM75511]
+Date: 2022-08-10
+Country: Yemen | Location: Rudum
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - Special Security Forces [State forces]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni - Pro-IRG [National]
+
+DESCRIPTION:
+Movement of forces: On 10 August 2022, IRG Special Security forces withdrew from Habban and Rudum districts (Shabwah) and retreated to rural areas in Shabwah governorate after being expelled from Ataq following clashes with Giants Brigade and STC Shabwani Defense forces.
+
+---
+
+[EVENT: YEM75500]
+Date: 2022-08-10
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Masdar; Crater Sky; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Looting: On 10 August 2022, Giants Brigade forces stormed and looted the house of former IRG Special Security commander Abdurabuh Laakab in Ataq city (Shabwah).
+
+---
+
+[EVENT: YEM75499]
+Date: 2022-08-10
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: South24 Center for News and Studies; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Other: On 10 August 2022, governor of Shabwah Awadh bin Wazir al Awlaqi announced the start of a military operation 'to impose order and stability in the governorate' in Shabwah governorate (coded to Ataq) following eruption of clashes between STC and Islah-affiliated IRG forces.
+
+---
+
+[EVENT: YEM75504]
+Date: 2022-08-10
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Shabwani Defense Forces [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Property destruction: On 10 August 2022, STC forces (coded as Shabwani Defense forces) and Giants Brigade forces burned the house of emergency police commander Abdulatif Dhayfar in Ataq city (Shabwah) after taking over the city.
+
+---
+
+[EVENT: YEM75505]
+Date: 2022-08-10
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Shabwani Defense Forces [State forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council - 21st Brigade [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Looting: On 10 August 2022, STC Shabwani Defense forces stormed and looted the office of the commander of the Islah-affiliated IRG 21st Brigade Jahdal Hanash al Awlaqi in Ataq city (Shabwah).
+
+---
+
+[EVENT: YEM76283]
+Date: 2022-08-11
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Looting: On 11 August 2022, unidentified gunmen raided and looted several shops in Ataq city (Shabwah). Giants Brigade forces did not stop the looting due to the affiliation of the shops' owner to late commander in the Islah-affiliated emergency forces Ahmad Lashqam.
+
+---
+
+[EVENT: YEM76284]
+Date: 2022-08-11
+Country: Yemen | Location: Taizz - Al Malaib
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Taiz Today; Twitter [New media-Subnational]
+
+DESCRIPTION:
+Looting: On 11 August 2022, unidentified gunmen raided and took over Salah Ad Din school in Taizz - Al Malaib (Salh) after expelling the students and teachers from it. An agreement was later reached between the school administration and the local authorities to get the school back until the middle of the school year only for the gunmen to raid it again in September (coded as a separate event).
+
+---
+
+[EVENT: YEM75571]
+Date: 2022-08-11
+Country: Yemen | Location: Al Mukha
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: 2 December News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Around 11 August 2022 (as reported), the intelligence division of the WCJF (Guardians of Republic) dismantled 7 cells responsible for aiding Houthi forces in espionage and weapon smuggling and presumably arrested their members in the western coast (coded to Al Mukha district). The WCJF media claimed that the intelligence division had been investigating the cells for the past 2 years and released the names of individuals involved in some of the cells. The National Resistance spokesperson reported the operations on 11 August but it is unclear exactly when they took place.
+
+---
+
+[EVENT: YEM75535]
+Date: 2022-08-12
+Country: Yemen | Location: Al Haymah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: 2 December News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: Around 12 August 2022 (between 11 - 12 August), Houthi forces deployed reinforcements south of Al Garrahi district (coded to Bayt al Hadish) (Hays, Al Hudaydah) and south of At Tuhayat district (coded to Al Haymah) (At Tuhayat, Al Hudaydah).
+
+---
+
+[EVENT: YEM75538]
+Date: 2022-08-12
+Country: Yemen | Location: Bayt al Hadish
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: 2 December News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: Around 12 August 2022 (between 11 - 12 August), Houthi forces deployed reinforcements south of Al Garrahi district (coded to Bayt al Hadish) (Hays, Al Hudaydah) and south of At Tuhayat district (coded to Al Haymah) (At Tuhayat, Al Hudaydah).
+
+---
+
+[EVENT: YEM75551]
+Date: 2022-08-12
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Movement of forces: On 12 August 2022, Giants Brigade forces deployed reinforcements that included armored vehicles coming from Aden to Ataq city (Shabwah).
+
+---
+
+[EVENT: YEM75552]
+Date: 2022-08-12
+Country: Yemen | Location: Ataq Airport
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Shabwani Defense Forces [State forces]
+Actor2: Unidentified Military Forces [External/Other forces]
+Fatalities: 0
+Sources: Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 12 August 2022, STC Shabwani Defense forces shot down 1 drone (unclear if weaponized or not) of unidentified origin over Ataq Airport (Shabwah). The source claimed that the drone was launched from Al Khashaah in the Hadramawt valley.
+
+---
+
+[EVENT: YEM75587]
+Date: 2022-08-13
+Country: Yemen | Location: Al Kasarah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Aden al Ghad; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 13 August 2022, IRG forces from the 310th Brigade shot down 1 Rasid Houthi drone carrying out a reconnaissance mission over Al Kasarah front (Sirwah, Marib).
+
+---
+
+[EVENT: YEM75578]
+Date: 2022-08-13
+Country: Yemen | Location: Dhamar University
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Property destruction: On 13 August 2022, Houthi forces following orders from the Houthi governor destroyed furniture and looted student records as they stormed the Arts Faculty in Dhamar University (Dhamar City, Dhamar). They occupied the building and prevented faculty members from entering the university.
+
+---
+
+[EVENT: YEM75573]
+Date: 2022-08-13
+Country: Yemen | Location: Al Wahdah Stadium
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Fatalities: 0
+Sources: Al Mahrah Post; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 13 August 2022, STC forces (coded as STC generic forces) mobilized troops in Al Wahdah Stadium (Zingibar, Abyan). The source speculated that STC forces were preparing for attacks against IRG forces in Shuqrah.
+
+---
+
+[EVENT: YEM75584]
+Date: 2022-08-13
+Country: Yemen | Location: Marib
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - Special Security Forces [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Yemen Data Project; YNP [Local partner-National]
+
+DESCRIPTION:
+On 13 August 2022, Islah-affiliated forces from IRG Special Security arrested a number of citizens in Marib City (Marib) accusing them of being loyal to UAE-backed Tariq Saleh amid tensions and clashes between IRG and UAE-backed forces in the southern governorates.
+
+---
+
+[EVENT: YEM75594]
+Date: 2022-08-13
+Country: Yemen | Location: Balhaf
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Masa Press; Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 13 August 2022, a UAE military cargo ship carrying Giants Brigade forces arrived at the coast of Balhaf (Rudum, Shabwah) from Al Mukha on the Red Sea. Sources also claimed that UAE forces established and developed several runways for Apache helicopters at the Balhaf gas facility.
+
+---
+
+[EVENT: YEM75619]
+Date: 2022-08-14
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Shabwani Defense Forces [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Sabah al Yemeni; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 14 August 2022, STC Shabwani Defense forces and Giants Brigade forces carried out an arrest campaign of civilians in Ataq city (Shabwah) accusing them of being affiliated to Special Security forces.
+
+---
+
+[EVENT: YEM75618]
+Date: 2022-08-14
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Actor2: Police Forces of Yemen (2022-2026) Presidential Leadership Council - Special Security Forces [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Looting: On 14 August 2022, Giants Brigade forces stormed and looted the food provision complex of the IRG Special Security forces in the city of Ataq (Shabwah). The source claimed that this took place despite instructions from the governor to leave the complex untouched before its full inventory.
+
+---
+
+[EVENT: YEM75617]
+Date: 2022-08-14
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Fatalities: 0
+Sources: Aden Today; Al Mawqea; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 14 August 2022, Giants Brigade forces coming from Aden that included forces from the 1st Giants Brigade deployed reinforcements to Ataq city (Ataq, Shabwah) throughout the day. Reinforcements included armored vehicles, crews, and troop carriers.
+
+---
+
+[EVENT: YEM75602]
+Date: 2022-08-14
+Country: Yemen | Location: Riyan International Airport
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2021-2025) [External/Other forces]
+Fatalities: 0
+Sources: Bawabati; Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 14 August 2022, a number of US officers arrived at Riyan International Airport (Al Mukalla City, Hadramawt) on a military plane. The source claimed that they then carried out a reconnaissance tour in Ad Dabbah oil port, Fuwwah area, and in As Shihr and Brum Mayfa districts. The reason for the deployment was not reported although the source claimed that it came amid US plans to establish a military base near Riyan Airport.
+
+---
+
+[EVENT: YEM75606]
+Date: 2022-08-14
+Country: Yemen | Location: Al Qawfaah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Looting: On 14 August 2022, Houthi forces raided several stores and looted the phones of the store owners in Al Qawfaah (Ar Radmah, Ibb) and threatened to loot more property and money. Houthi forces claimed that the store owners have aided IDPs to send remittances to their family members in Marib.
+
+---
+
+[EVENT: YEM75625]
+Date: 2022-08-15
+Country: Yemen | Location: Al Ghayzah - Airport
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2021-2025) [External/Other forces]
+Fatalities: 0
+Sources: Al Janoob al Youm; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 15 August 2022, US forces arrived at Al Ghayzah - Airport (Al Ghaydah, Al Mahrah) and Aden - Aden International Airport (Khur Maksar). The source did not report the reason for the deployment.
+
+---
+
+[EVENT: YEM75636]
+Date: 2022-08-15
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Fatalities: 0
+Sources: Al Mawqea; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 15 August 2022, STC-aligned forces coming from Aden and the western coast (Giants Brigades) deployed reinforcements to Ataq city (Ataq, Shabwah) for the second consecutive day. Reinforcements included armored vehicles, crews, and troop carriers.
+
+---
+
+[EVENT: YEM75623]
+Date: 2022-08-15
+Country: Yemen | Location: Aden - Aden International Airport
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2021-2025) [External/Other forces]
+Fatalities: 0
+Sources: Al Janoob al Youm; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 15 August 2022, US forces arrived at Al Ghayzah - Airport (Al Ghaydah, Al Mahrah) and Aden - Aden International Airport (Khur Maksar). The source did not report the reason for the deployment.
+
+---
+
+[EVENT: YEM75648]
+Date: 2022-08-16
+Country: Yemen | Location: Al Abr
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Moka News Agency; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 16 August 2022, Islah-affiliated IRG forces deployed in Al Abr region (Hadramawt) amid the advance of STC-affiliated forces from Shabwah governorate towards Hadramawt.
+
+---
+
+[EVENT: YEM75644]
+Date: 2022-08-16
+Country: Yemen | Location: Bayt al Hadish
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: 2 December News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 16 August 2022, WCJF defused a presumably Houthi-planted network of anti-armor mines south of Al Garrahi (coded to Bayt al Hadish) (Hays, Al Hudaydah).
+
+---
+
+[EVENT: YEM75662]
+Date: 2022-08-16
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Fatalities: 0
+Sources: Yemen Monitor [National]
+
+DESCRIPTION:
+Movement of forces: On 16 August 2022, Giants Brigade and STC Shabwani Defense forces reinforcements continued to arrive in Ataq city (Shabwah).
+
+---
+
+[EVENT: YEM75689]
+Date: 2022-08-17
+Country: Yemen | Location: Sadah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Looting: On 17 August 2022, a Houthi leader took over Al Wasai school in Sadah city (Saadah, Sadah) two weeks after he had forcibly shut it down under claims that he owned the land on which it was built. The source indicated that the Houthi leader was related through marriage to Abdulmalik al Houthi.
+
+---
+
+[EVENT: YEM75692]
+Date: 2022-08-17
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: National Resistance (Guards of the Republic) [Political militia]
+Fatalities: 0
+Sources: Al Mashhad Al Janubi; Moka News Agency; Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 17 August 2022, forces loyal to Tariq Saleh coming from the western coast (coded as Guardians of the Republic) deployed to Shabwah governorate (coded to Ataq) in support of UAE-backed Giant Brigade and Shabwani Defense forces against Islah-affiliated forces.
+
+---
+
+[EVENT: YEM75698]
+Date: 2022-08-17
+Country: Yemen | Location: Al Mashawilah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Fatalities: 0
+Sources: Aden Today; Sada al Sahil; Twitter; Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+Other: On 17 August 2022, an aerial vehicle of unidentified origin fell in Ar Ruwayis in Al Mashawilah area (Al Waziiyah, Taizz). Sources diverged on the origin of the drone, some saying it was a Houthi drone, others a reconnaissance drone from the Saudi-led coalition, and yet others that it was a helicopter.
+
+---
+
+[EVENT: YEM75670]
+Date: 2022-08-17
+Country: Yemen | Location: Wadi Hadramawt
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 17 August 2022, STC forces of the 1st and 2nd Hadarim Brigades (coded as STC generic forces) deployed in Wadi Hadramawt region (Sayun, Hadramawt) with the task of taking over Al Wadiah border crossing with Saudi Arabia.
+
+---
+
+[EVENT: YEM75701]
+Date: 2022-08-18
+Country: Yemen | Location: Aqabat al Halhal
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Government of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Actor2: Government of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Naba News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 18 August 2022, the Houthi-affiliated authority in Mukayras district (Al Bayda) and the IRG-affiliated authority in Abyan governorate, in addition to tribal representatives on both sides, reached an agreement on the reopening of Aqabat al Halhal road (Lawdar, Abyan) for 4 days a week. The agreement was reached on 16 August and took effect on 18 August.
+
+---
+
+[EVENT: YEM75707]
+Date: 2022-08-18
+Country: Yemen | Location: Al Wadiah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project; YNP [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 18 August 2022, dozens of Saudi armored vehicles deployed to Al Wadiah border crossing (Zamakh wa Manwakh, Hadramawt). This came in tandem with the deployment of one IRG brigade from the 1st Military District to the area to support the forces manning the border crossing amid fears of STC-affiliated forces trying to take over the position.
+
+---
+
+[EVENT: YEM75729]
+Date: 2022-08-19
+Country: Yemen | Location: Harib
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Bawabati; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 19 August 2022, Giants Brigade forces shot down 1 Houthi drone (unclear if weaponized or not) in Harib district (Marib).
+
+---
+
+[EVENT: YEM75770]
+Date: 2022-08-20
+Country: Yemen | Location: Jardan Junction
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council - 21st Brigade [State forces]
+Fatalities: 0
+Sources: Al Masdar; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 20 August 2022, Giants Brigade and STC Shabwani Defense forces took control of several checkpoints along the Ataq - Hadramawt road including in Jardan Junction (Jardan) and Qarn Zabyah (Arma) (Shabwah) after the withdrawal of Islah-affiliated IRG forces from the 21st Brigade and Special Security. It is unclear whether clashes took place. Giants Brigade and Shabwani Defense forces reached Arma Junction before retreating to Qarn Zabyah following directives from the presidential military and security committee dealing with events in Shabwah.
+
+---
+
+[EVENT: YEM75769]
+Date: 2022-08-20
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Fatalities: 0
+Sources: Al Mahrah Post [National]
+
+DESCRIPTION:
+Movement of forces: On 20 August 2022, Giants Brigade forces sent new reinforcements including fighters and armored vehicles to Ataq city (Ataq, Shabwah).
+
+---
+
+[EVENT: YEM75768]
+Date: 2022-08-20
+Country: Yemen | Location: Qarn Zabyah
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Al Masdar; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 20 August 2022, Giants Brigade and STC Shabwani Defense forces took control of several checkpoints along the Ataq - Hadramawt road including in Jardan Junction (Jardan) and Qarn Zabyah (Arma) (Shabwah) after the withdrawal of Islah-affiliated IRG forces from the 21st Brigade and Special Security. It is unclear whether clashes took place. Giants Brigade and Shabwani Defense forces reached Arma Junction before retreating to Qarn Zabyah following directives from the presidential military and security committee dealing with events in Shabwah.
+
+---
+
+[EVENT: YEM75793]
+Date: 2022-08-21
+Country: Yemen | Location: Al Uqlah Junction
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+On 21 August 2022, Giants Brigade and STC Shabwani Defense forces took control of IRG Islah-affiliated 21st Brigade positions in Al Uqlah Junction, Arma Junction, and Khashm Rumayyid (Arma, Shabwah). No clashes were reported in these specific locations as Giants Brigade and STC Shabwani Defense forces moved up along the Ataq - Hadramawt road that day.
+
+---
+
+[EVENT: YEM75795]
+Date: 2022-08-21
+Country: Yemen | Location: Arma Junction
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+On 21 August 2022, Giants Brigade and STC Shabwani Defense forces took control of IRG Islah-affiliated 21st Brigade positions in Al Uqlah Junction, Arma Junction, and Khashm Rumayyid (Arma, Shabwah). No clashes were reported in these specific locations as Giants Brigade and STC Shabwani Defense forces moved up along the Ataq - Hadramawt road that day.
+
+---
+
+[EVENT: YEM75797]
+Date: 2022-08-21
+Country: Yemen | Location: Khashm Rumayyid
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+On 21 August 2022, Giants Brigade and STC Shabwani Defense forces took control of IRG Islah-affiliated 21st Brigade positions in Al Uqlah Junction, Arma Junction, and Khashm Rumayyid (Arma, Shabwah). No clashes were reported in these specific locations as Giants Brigade and STC Shabwani Defense forces moved up along the Ataq - Hadramawt road that day.
+
+---
+
+[EVENT: YEM76285]
+Date: 2022-08-22
+Country: Yemen | Location: Zinjibar
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Fatalities: 0
+Sources: Al Ayn; Twitter [New media-National]
+
+DESCRIPTION:
+Other: On 22 August 2022, STC President Aydarus Al Zubaydi announced the launch of Operation 'Arrows of the East' in Abyan governorate (coded to capital Zinjibar) to 'combat weapons smuggling to Houthi areas through Abyan coastal roads, as well as Al Qaeda'. One source claimed that president of the PLC Rashad Al Alimi did not approve the operation although coordination between STC and national army forces seem to have ensued following the launch of the operation.
+
+---
+
+[EVENT: YEM75818]
+Date: 2022-08-23
+Country: Yemen | Location: Ahwar
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: 4 May News; Bawabati; Moka News Agency; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 23 August 2022, an STC commander announced that STC forces (coded as STC generic forces) deployed to the Shuqrah region (Khanfir) and took full control of Abyan governorate from IRG forces (coded to Zinjibar). STC forces deployed from Shuqrah on the coast towards Ahwar district and inland towards Lawdar, Al Wadea (coded to Al Wuday), and Mudiyah districts. The deployment of STC forces around the governorate was unopposed as they reached agreements with IRG military and security forces in several areas.
+
+---
+
+[EVENT: YEM75820]
+Date: 2022-08-23
+Country: Yemen | Location: Shuqrah
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: 4 May News; Bawabati; Moka News Agency; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 23 August 2022, an STC commander announced that STC forces (coded as STC generic forces) deployed to the Shuqrah region (Khanfir) and took full control of Abyan governorate from IRG forces (coded to Zinjibar). STC forces deployed from Shuqrah on the coast towards Ahwar district and inland towards Lawdar, Al Wadea (coded to Al Wuday), and Mudiyah districts. The deployment of STC forces around the governorate was unopposed as they reached agreements with IRG military and security forces in several areas.
+
+---
+
+[EVENT: YEM75823]
+Date: 2022-08-23
+Country: Yemen | Location: Zinjibar
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: 4 May News; Bawabati; Moka News Agency; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 23 August 2022, an STC commander announced that STC forces (coded as STC generic forces) deployed to the Shuqrah region (Khanfir) and took full control of Abyan governorate from IRG forces (coded to Zinjibar). STC forces deployed from Shuqrah on the coast towards Ahwar district and inland towards Lawdar, Al Wadea (coded to Al Wuday), and Mudiyah districts. The deployment of STC forces around the governorate was unopposed as they reached agreements with IRG military and security forces in several areas.
+
+---
+
+[EVENT: YEM75821]
+Date: 2022-08-23
+Country: Yemen | Location: Lawdar
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: 4 May News; Bawabati; Moka News Agency; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 23 August 2022, an STC commander announced that STC forces (coded as STC generic forces) deployed to the Shuqrah region (Khanfir) and took full control of Abyan governorate from IRG forces (coded to Zinjibar). STC forces deployed from Shuqrah on the coast towards Ahwar district and inland towards Lawdar, Al Wadea (coded to Al Wuday), and Mudiyah districts. The deployment of STC forces around the governorate was unopposed as they reached agreements with IRG military and security forces in several areas.
+
+---
+
+[EVENT: YEM75839]
+Date: 2022-08-23
+Country: Yemen | Location: Al Khashaah Junction
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Actor2: Giants Brigades [Political militia]
+Fatalities: 0
+Sources: Al Mahrah Post; Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+On 23 August 2022, IRG forces from the 1st Military District were able to redeploy in Al Khashaah Junction (Arma, Shabwah) after Giants Brigade forces and STC Shabwani Defense forces withdrew from the area following directives from the PLC.
+
+---
+
+[EVENT: YEM75822]
+Date: 2022-08-23
+Country: Yemen | Location: Mudiyah
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: 4 May News; Bawabati; Moka News Agency; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 23 August 2022, an STC commander announced that STC forces (coded as STC generic forces) deployed to the Shuqrah region (Khanfir) and took full control of Abyan governorate from IRG forces (coded to Zinjibar). STC forces deployed from Shuqrah on the coast towards Ahwar district and inland towards Lawdar, Al Wadea (coded to Al Wuday), and Mudiyah districts. The deployment of STC forces around the governorate was unopposed as they reached agreements with IRG military and security forces in several areas.
+
+---
+
+[EVENT: YEM75819]
+Date: 2022-08-23
+Country: Yemen | Location: Al Wuday
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: 4 May News; Bawabati; Moka News Agency; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 23 August 2022, an STC commander announced that STC forces (coded as STC generic forces) deployed to the Shuqrah region (Khanfir) and took full control of Abyan governorate from IRG forces (coded to Zinjibar). STC forces deployed from Shuqrah on the coast towards Ahwar district and inland towards Lawdar, Al Wadea (coded to Al Wuday), and Mudiyah districts. The deployment of STC forces around the governorate was unopposed as they reached agreements with IRG military and security forces in several areas.
+
+---
+
+[EVENT: YEM75867]
+Date: 2022-08-25
+Country: Yemen | Location: Habil Baraq
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Al Mahrah Post; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Non-violent activity: On 25 August 2022, unidentified armed men closed off all roads and entrances to Al Wahdah cement factory in the Habil Baraq region (Khanfir, Abyan) and prevented the entry of its employees. The group claimed that they owned the land where the factory was located. The factory was built on 2008 and opened in 2010.
+
+---
+
+[EVENT: YEM75866]
+Date: 2022-08-25
+Country: Yemen | Location: Ahwar
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Actor2: Police Forces of Yemen (2022-2026) Presidential Leadership Council - Special Security Forces [State forces]
+Fatalities: 0
+Sources: Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 25 August 2022, STC forces (coded as STC generic forces) took control of Ahwar city (Abyan) including Al Qashaah checkpoint and Al Khashaah camp after the withdrawal of IRG Special Security forces and an agreement between the two sides.
+
+---
+
+[EVENT: YEM75894]
+Date: 2022-08-26
+Country: Yemen | Location: Hada
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Mahrah Post; Al Masdar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 26 August 2022, Giants Brigade and STC Shabwani Defense forces deployed dozens of military vehicles to Al Ghayilah (Ar Rawdah) and Hada (Habban) (Shabwah) where they stormed houses and arrested a number of citizens. The reason for the raids was not reported.
+
+---
+
+[EVENT: YEM75893]
+Date: 2022-08-26
+Country: Yemen | Location: Al Ghayilah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Mahrah Post; Al Masdar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 26 August 2022, Giants Brigade and STC Shabwani Defense forces deployed dozens of military vehicles to Al Ghayilah (Ar Rawdah) and Hada (Habban) (Shabwah) where they stormed houses and arrested a number of citizens. The reason for the raids was not reported.
+
+---
+
+[EVENT: YEM75896]
+Date: 2022-08-26
+Country: Yemen | Location: Irqah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Shabwani Defense Forces [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Mahrah Post; Al Masdar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 26 August 2022, STC Shabwani Defense forces stationed in Balhaf deployed dozens of military vehicles to Irqah and Bir Ali (Rudum) where they stormed houses and arrested a number of citizens. The reason for the raids was not reported.
+
+---
+
+[EVENT: YEM75895]
+Date: 2022-08-26
+Country: Yemen | Location: Bir Ali
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Shabwani Defense Forces [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Mahrah Post; Al Masdar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 26 August 2022, STC Shabwani Defense forces stationed in Balhaf deployed dozens of military vehicles to Irqah and Bir Ali (Rudum) where they stormed houses and arrested a number of citizens. The reason for the raids was not reported.
+
+---
+
+[EVENT: YEM75937]
+Date: 2022-08-27
+Country: Yemen | Location: Nisab
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Shabwani Defense Forces [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Al Janoob al Youm; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 27 August 2022, local security services (coded as STC Shabwani Defense forces) defused an explosive device in Nisab district (Shabwah) on the road between Ataq and Nisab. The governor's office claimed that this was an assassination attempt targeting the governor who was scheduled to visit Nisab city that day.
+
+---
+
+[EVENT: YEM75936]
+Date: 2022-08-27
+Country: Yemen | Location: Al Hajab
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Shabwani Defense Forces [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter; Wah News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 27 August 2022, STC forces from the 4th Shabwani Defense Brigade shot down 1 Rasid Houthi drone (unclear if weaponized or not) over Ain district (coded to Al Hajab) (Shabwah).
+
+---
+
+[EVENT: YEM75903]
+Date: 2022-08-27
+Country: Yemen | Location: Zinjibar
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Fatalities: 0
+Sources: Al Masdar; Al Mashhad Al Yemeni - Pro-IRG; Twitter [New media-National]
+
+DESCRIPTION:
+On 27 August 2022, Abyan security forces (coded as IRG police forces) took over their HQs in Zinjibar city (Zingibar, Abyan) from STC forces (coded as STC generic forces). Sources claimed that this came as an agreement between the STC and the interior ministry whereby STC and Giants Brigade forces take over several positions from IRG forces in Abyan governorate in exchange for allowing IRG forces back into their positions in the governorate's capital which had been under STC control since 2019.
+
+---
+
+[EVENT: YEM76286]
+Date: 2022-08-27
+Country: Yemen | Location: Mawiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 27 August 2022, IRG forces sent new reinforcements to As Salib frontlines in Mawyeh district (coded to Mawiyah) (Taizz).
+
+---
+
+[EVENT: YEM75944]
+Date: 2022-08-28
+Country: Yemen | Location: Aden
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Security Belt Forces [State forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Saiqa Brigades [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+On 28 August 2022, STC Security Belt forces arrested the commander of the 10th Saiqa Brigade -- Rashi al Hawshabi -- in the city of Aden (Aden) as he was returning from Lahij governorate. The reason behind the arrest was not reported.
+
+---
+
+[EVENT: YEM75951]
+Date: 2022-08-28
+Country: Yemen | Location: Al Jalib
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 28 August 2022, Houthi forces conducted an arrest campaign arresting more than 100 people in Al Jalib and Az Zaydah villages in Al Abbasiyah (Al Hada, Dhamar). Houthi forces claimed that they conducted the arrests to stop a two-year long tribal conflict between the two villages.
+
+---
+
+[EVENT: YEM75942]
+Date: 2022-08-28
+Country: Yemen | Location: Qarn al Kulasi
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Security Belt Forces [State forces]
+Actor2: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: Security Belt Forces [Subnational]
+
+DESCRIPTION:
+Weapons seizure: On 28 August 2022, STC Security Belt forces claimed to have raided an AQAP hideout and seized explosive devices including explosive belts in Qarn al Kulasi (Khanfir, Abyan).
+
+---
+
+[EVENT: YEM75950]
+Date: 2022-08-28
+Country: Yemen | Location: Al Abbasiyah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 28 August 2022, Houthi forces conducted an arrest campaign arresting more than 100 people in Al Jalib and Az Zaydah villages in Al Abbasiyah (Al Hada, Dhamar). Houthi forces claimed that they conducted the arrests to stop a two-year long tribal conflict between the two villages.
+
+---
+
+[EVENT: YEM75995]
+Date: 2022-08-29
+Country: Yemen | Location: Taizz
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Movement of forces: On 29 August 2022, Houthi forces deployed reinforcements coming from Dhamar, Ibb, and Sanaa governorates to Taizz governorate amid an escalation in Ad Dabab front west of the city.
+
+---
+
+[EVENT: YEM76006]
+Date: 2022-08-30
+Country: Yemen | Location: Al Abr
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; YNP [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 30 August 2022, Islah-affiliated IRG forces including long-range weapons and cannons coming from Marib governorate deployed in Al Abr region (Al Abr, Hadramawt). The source claimed that the cannons would be deployed on the hills overlooking the Al Abr desert in the direction of Shabwah.
+
+---
+
+[EVENT: YEM76003]
+Date: 2022-08-30
+Country: Yemen | Location: Al Ghayzah - Airport
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2021-2025) [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project; YNP [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 30 August 2022, more than 20 US soldiers including military experts arrived at the British base at Al Ghayzah - Airport (Al Ghaydah, Al Mahrah).
+
+---
+
+[EVENT: YEM76023]
+Date: 2022-08-30
+Country: Yemen | Location: Al Jarda
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 1
+Sources: Al Mahrah Post; Crater Sky; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Other: On 30 August 2022, a Houthi helicopter fell in Al Jarda (Sanhan, Taizz). One source claimed that the pilot died in the crash.
+
+---
+
+[EVENT: YEM76017]
+Date: 2022-08-30
+Country: Yemen | Location: Ar Ruwayk Junction
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Al Jalal Tribal Militia (Yemen) [Identity militia]
+Fatalities: 0
+Sources: Aden Today; Sada al Sahil; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Non-violent activity: On 30 August 2022, Al Jalal armed tribesmen held up 4 fuel trucks in Marib governorate as they were headed to Shabwah (coded to Mafraq ar Ruwayk) (Marib, Marib) over disputes on fuel transportation rights. One source claimed that the Al Jalal tribe was affiliated with Al Islah and that they wanted to stop the flow of hydrocarbon from Marib to Shabwah.
+
+---
+
+[EVENT: YEM76287]
+Date: 2022-08-30
+Country: Yemen | Location: Al Akd
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 30 August 2022, IRG forces deployed to Al Akd (Marib, Marib).
+
+---
+
+[EVENT: YEM76036]
+Date: 2022-08-31
+Country: Yemen | Location: Sayun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Al Motabaat; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 31 August 2022, Islah-affiliated IRG forces including around 2,000 fighters coming from Marib and Al Mahrah governorates deployed to Sayun city (Hadramawt) to spread to the Hadramawt valley and desert region.
+
+---
+
+[EVENT: YEM76030]
+Date: 2022-08-31
+Country: Yemen | Location: Qarn al Kulasi
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Fatalities: 0
+Sources: Twitter; Yemen Press Agency [New media-National]
+
+DESCRIPTION:
+Change to armed group: On 31 August 2022, Islah-affiliated IRG forces from the 39th Armored Brigade declared its loyalty to the STC in Qarn al Kulasi (Khanfir, Abyan).
+
+---
+
+[EVENT: YEM76288]
+Date: 2022-08-31
+Country: Yemen | Location: Al Jirbayn
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 31 August 2022, IRG forces deployed military vehicles and personnel to Al Jirbayn (Jabal Habashy, Taizz).
+
+---
+
+[EVENT: YEM76031]
+Date: 2022-08-31
+Country: Yemen | Location: Lawdar
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Aden Today; Twitter; Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+On 31 August 2022, STC forces (coded as STC generic forces) took control of sites belonging to Islah-affiliated IRG forces in Lawdar city and district including Al Arqub mountains (Abyan) as part of STC Operation 'Eastern Arrows'. One source claimed that the Islah-affiliated 103rd Brigade declared its loyalty to the STC prior to the STC deployment.
+
+---
+
+[EVENT: YEM76060]
+Date: 2022-09-01
+Country: Yemen | Location: Uzlat Bani Hasan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Yemeni Army - IRG [Other]
+
+DESCRIPTION:
+Movement of forces: Around 1 September 2022 (between 31 August - 2 September), Houthi forces deployed 'massive' reinforcements consisting of fighters to Bani Hasan (Abs, Hajjah).
+
+---
+
+[EVENT: YEM76078]
+Date: 2022-09-01
+Country: Yemen | Location: Maylat
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Yemeni Army - IRG [Other]
+
+DESCRIPTION:
+Movement of forces: Around 1 September 2022 (between 31 August - 2 September), Houthi forces deployed reinforcements including more than 20 military vehicles loaded with equipment and personnel to the fronts of Taizz city (coded to Maylat based on previous activity) (Jabal Habashy, Taizz). This came amid an escalation in Ad Dabab front west of the city.
+
+---
+
+[EVENT: YEM76055]
+Date: 2022-09-01
+Country: Yemen | Location: Al Hudaydah - Festive Square
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Ansar Allah; The National (UAE); UNMHA; Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-National]
+
+DESCRIPTION:
+Other: On 1 September 2022, Houthi forces from the 5th Military District organized a military parade in Al Hudaydah - Festive Square (Al Hawak). The parade included around 16,000 fighters and showcased WBIEDs, sea mines, drones, anti-ship missiles, rockets, SAMs, etc. UNMHA tweeted that it was 'deeply concerned' by the parade and that it considered it a violation of the 2018 Hudaydah agreement to demilitarize the city.
+
+---
+
+[EVENT: YEM76069]
+Date: 2022-09-01
+Country: Yemen | Location: Suq Sirwah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Yemeni Army - IRG [Other]
+
+DESCRIPTION:
+Movement of forces: Around 1 September 2022 (between 31 August - 2 September), Houthi forces deployed reinforcements including 28 military vehicles loaded with weapons and personnel to the western fronts of Marib (coded to Suq Sirwah, Sirwah district) (Marib).
+
+---
+
+[EVENT: YEM76292]
+Date: 2022-09-03
+Country: Yemen | Location: Al Qaidah (Al Anin Front)
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 3 September 2022, IRG forces sent new reinforcements to Jabal Al Ahtub (coded to Al Qaidah (Al Anin Front)) (Jabal Habashy, Taizz), the Barashah region, and As Suwayhirah (coded to At Tawr) (Maqbanah, Taizz).
+
+---
+
+[EVENT: YEM76294]
+Date: 2022-09-03
+Country: Yemen | Location: Barashah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 3 September 2022, IRG forces sent new reinforcements to Jabal Al Ahtub (coded to Al Qaidah (Al Anin Front)) (Jabal Habashy, Taizz), the Barashah region, and As Suwayhirah (coded to At Tawr) (Maqbanah, Taizz).
+
+---
+
+[EVENT: YEM76105]
+Date: 2022-09-03
+Country: Yemen | Location: Sayun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; YNP [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 3 September 2022, large groups of STC forces (coded as STC generic forces) advanced towards the southeastern regions of Sayun (Hadramawt). The source claimed this came after the UAE set a 48-hour deadline for IRG Islah-affiliated forces of the 1st Military District to withdraw from the city.
+
+---
+
+[EVENT: YEM76119]
+Date: 2022-09-03
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Fatalities: 0
+Sources: Crater Sky; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 3 September 2022, UAE-backed military equipment (coded as Giants Brigade) including armored vehicles arrived in Ataq city (Shabwah).
+
+---
+
+[EVENT: YEM76293]
+Date: 2022-09-03
+Country: Yemen | Location: At Tawr
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 3 September 2022, IRG forces sent new reinforcements to Jabal Al Ahtub (coded to Al Qaidah (Al Anin Front)) (Jabal Habashy, Taizz), the Barashah region, and As Suwayhirah (coded to At Tawr) (Maqbanah, Taizz).
+
+---
+
+[EVENT: YEM76290]
+Date: 2022-09-03
+Country: Yemen | Location: Sanaa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Aden al Ghad [National]
+
+DESCRIPTION:
+Looting: On 3 September 2022, Houthi forces raided and took over a civilian home in Sanaa (Amanat al Asimah) under the pretext that it did not have the proper permit.
+
+---
+
+[EVENT: YEM82341]
+Date: 2022-09-03
+Country: Yemen | Location: Asdas
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Interception: On 3 September 2022, IRG forces shot down 1 DJI Mavic 2 Pro/Zoom Houthi drone over Raghwan district (coded to Asdas) (Marib).
+
+---
+
+[EVENT: YEM76291]
+Date: 2022-09-03
+Country: Yemen | Location: Al Mukha
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: 2 December News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 3 September 2022, the security services on the West Coast in coordination with the General Intelligence Division of the WCJF (Guardians of the Republic) dismantled 1 cell responsible for aiding Houthi forces in planting IEDs and explosives and presumably arrested their members in the western coast (coded to Al Mukha district). The source claimed that the cell was responsible for an IED explosion on 6 August 2022.
+
+---
+
+[EVENT: YEM76279]
+Date: 2022-09-04
+Country: Yemen | Location: Ar Rayyan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Other: On 4 September 2022, a suspected Wing Loong drone affiliated with the Saudi-led coalition crashed in Ar Rayyan desert area (Khabb wa Ash Shaaf, Al Jawf). The reason behind the crash was not reported. One source claimed that the drone was Houthi.
+
+---
+
+[EVENT: YEM76135]
+Date: 2022-09-04
+Country: Yemen | Location: Sayun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - 21st Brigade [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 4 September 2022, Islah-affiliated IRG forces from the 21st Brigade and Special Security forces coming from Marib deployed to Sayun city (Hadramawt). This came a day after STC-affiliated forces deployed in the direction of the city.
+
+---
+
+[EVENT: YEM76133]
+Date: 2022-09-04
+Country: Yemen | Location: Hays
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: 2 December News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 4 September 2022, WCJF shot down 1 Houthi Rujum attack drone in Hays axis (coded to district level) (Al Hudaydah).
+
+---
+
+[EVENT: YEM76296]
+Date: 2022-09-05
+Country: Yemen | Location: Al Anin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 5 September 2022, IRG forces sent new reinforcements to Al Anin (Jabal Habashy, Taizz).
+
+---
+
+[EVENT: YEM76295]
+Date: 2022-09-05
+Country: Yemen | Location: Hariat ath Thaniyah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Tribal Militia (Yemen) [Identity militia]
+Fatalities: 0
+Sources: Aden Today; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Non-violent activity: On 5 September 2022, unidentified armed tribesmen held tens of fuel trucks in Hariat ath Thaniyah on the Al Uqlah road (Marib, Marib) to pressure Marib's local authorities into releasing prisoners.
+
+---
+
+[EVENT: YEM76199]
+Date: 2022-09-06
+Country: Yemen | Location: Jannah Hunt Oil Company
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: National Resistance (Guards of the Republic) [Political militia]
+Fatalities: 0
+Sources: Yemen Data Project; YNP [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 6 September 2022, forces affiliated with Tareq Saleh (coded as Guardians of the Republic) deployed to Block 5 oil fields in Jannah Hunt Oil Company (Usaylan, Shabwah).
+
+---
+
+[EVENT: YEM76298]
+Date: 2022-09-07
+Country: Yemen | Location: Matnah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Aden al Ghad [National]
+
+DESCRIPTION:
+Land seizure: Around 7 September 2022 (as reported), Houthi forces seized land belonging to tribes in Bani Matar district (coded to Matnah) (Sanaa).
+
+---
+
+[EVENT: YEM76203]
+Date: 2022-09-07
+Country: Yemen | Location: Aden
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Aden Security [State forces]
+Fatalities: 0
+Sources: Al Janoob al Youm; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Security measures: On 7 September 2022, STC counter-terrorism forces led by commander Shallal Shayaa (coded as Aden Security) deployed around Aden city. The source claimed that the deployment followed rising tensions among UAE-backed groups in Aden.
+
+---
+
+[EVENT: YEM76230]
+Date: 2022-09-08
+Country: Yemen | Location: Wadi Hadramawt
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Actor2: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+On 8 September 2022, IRG security forces arrested an AQAP militant in Wadi Hadramawt (Sayun, Hadramawt) 4 months after he escaped from Sayun prison along with other AQAP convicts.
+
+---
+
+[EVENT: YEM76520]
+Date: 2022-09-08
+Country: Yemen | Location: At Tuhayta
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Yemen Window [National]
+
+DESCRIPTION:
+Land seizure: Around 8 September 2022 (as reported), Houthi forces seized around 18,000 acres of land in At Tuhayat district (coded to At Tuhayta) (Al Hudaydah). The land was claimed by the Houthi Endowment Authority.
+
+---
+
+[EVENT: YEM76226]
+Date: 2022-09-08
+Country: Yemen | Location: Am Qulaytah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: Al Motabaat; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 8 September 2022, AQAP forces coming from Hadramawt deployed between Al Jilbah and Am Qulaytah in Mudiyah district (Abyan). This came as STC forces were also deploying throughout Abyan governorate.
+
+---
+
+[EVENT: YEM79237]
+Date: 2022-09-09
+Country: Yemen | Location: Tawr al Bahah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Aden Hura; Al Sharaea News; Shmsan Net [National]
+
+DESCRIPTION:
+On 9 September 2022, 'southern forces' (coded as STC generic forces) announced the arrest of a Houthi cell composed of 12 individuals in Tur Al Bahah district (coded to Tawr al Bahah) (Lahij).
+
+---
+
+[EVENT: YEM76270]
+Date: 2022-09-09
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Movement of forces: On 9 September 2022, STC-affiliated forces coming from the Hadramawt coast (coded as STC generic forces) deployed dozens of armored vehicles to Ataq city (Shabwah).
+
+---
+
+[EVENT: YEM76333]
+Date: 2022-09-10
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni - Pro-IRG [National]
+
+DESCRIPTION:
+Other: On 10 September 2022, the STC leadership announced the launch of Operation 'Arrows of the South' in Shabwah governorate (coded to capital Ataq) to cleanse Shabwah of the presence of 'terrorist elements' (likely in reference to AQAP).
+
+---
+
+[EVENT: YEM76524]
+Date: 2022-09-11
+Country: Yemen | Location: Al Maarif
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: 2 December News; Al Masdar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Around 11 September 2022, Houthi forces arrested dozens of civilians (up to a 100 according to one source) in the villages of Al Maarif, Majrab al Khadariyah, Bani Sahl (location unclear), and Bani as Sabbahi (location unclear) around Al Jarubah Junction (Bayt Al Faqiah, Al Hudaydah). The source claimed that this came as part of a Houthi campaign to seize agricultural lands in the area on behalf of the Endowment Authority.
+
+---
+
+[EVENT: YEM76521]
+Date: 2022-09-11
+Country: Yemen | Location: Lawdar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Saiqa Brigades [State forces]
+Fatalities: 0
+Sources: Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 11 September 2022, forces from the STC 8th Saiqa Brigade deployed to Lawdar district (Abyan) to secure the district from AQAP.
+
+---
+
+[EVENT: YEM76527]
+Date: 2022-09-11
+Country: Yemen | Location: Majrab al Khadariyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: 2 December News; Al Masdar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Land seizure: Around 11 September 2022, Houthi forces seized land in the villages of Al Maarif, Majrab al Khadariyah, Bani Sahl (location unclear), and Bani as Sabbahi (location unclear) around Al Jarubah Junction (Bayt Al Faqiah, Al Hudaydah) on behalf of the Endowment Authority.
+
+---
+
+[EVENT: YEM76377]
+Date: 2022-09-11
+Country: Yemen | Location: Taizz - Al Malaib
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Taiz Today; Twitter [New media-Subnational]
+
+DESCRIPTION:
+Looting: On 11 September 2022, unidentified gunmen raided and took over Salah Ad Din school in Taizz - Al Malaib (Salh) after expelling the students and teachers from it. This took place despite an earlier agreement between the school administration and the local authorities to continue to use the school until the middle of the school year after a similar incident took place in August (coded as a separate event).
+
+---
+
+[EVENT: YEM76345]
+Date: 2022-09-11
+Country: Yemen | Location: Lawdar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Security Belt Forces [State forces]
+Fatalities: 0
+Sources: Aden al Ghad; Al Mahrah Post; Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 11 September 2022, STC Security Belt forces and Abyan Security and Abyan Special forces deployed in the districts of Al Wadea (coded to Al Wuday), Lawdar, and Mudiyah (Abyan) as part of operation 'Arrows of the East'. The deployment was coordinated between STC and other IRG forces and aimed to secure the districts from AQAP.
+
+---
+
+[EVENT: YEM76526]
+Date: 2022-09-11
+Country: Yemen | Location: Majrab al Khadariyah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: 2 December News; Al Masdar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Around 11 September 2022, Houthi forces arrested dozens of civilians (up to a 100 according to one source) in the villages of Al Maarif, Majrab al Khadariyah, Bani Sahl (location unclear), and Bani as Sabbahi (location unclear) around Al Jarubah Junction (Bayt Al Faqiah, Al Hudaydah). The source claimed that this came as part of a Houthi campaign to seize agricultural lands in the area on behalf of the Endowment Authority.
+
+---
+
+[EVENT: YEM76341]
+Date: 2022-09-11
+Country: Yemen | Location: Al Maraqishah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Actor2: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Security Belt Forces [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Interception: On 11 September 2022, AQAP militants claimed to have downed 1 STC Security Belt forces drone (unclear if weaponized or not) in Khabr al Maraqishah (coded to Al Maraqishah) (Khanfir, Abyan).
+
+---
+
+[EVENT: YEM76525]
+Date: 2022-09-11
+Country: Yemen | Location: Al Maarif
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: 2 December News; Al Masdar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Land seizure: Around 11 September 2022, Houthi forces seized land in the villages of Al Maarif, Majrab al Khadariyah, Bani Sahl (location unclear), and Bani as Sabbahi (location unclear) around Al Jarubah Junction (Bayt Al Faqiah, Al Hudaydah) on behalf of the Endowment Authority.
+
+---
+
+[EVENT: YEM76347]
+Date: 2022-09-11
+Country: Yemen | Location: Wadi an Nasil
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Security Belt Forces [State forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 11 September 2022, STC Security Belt forces peacefully took over the Wadi Mawjan (location unclear) and Wadi an Nasil regions in Mudiyah district (Abyan) from Islah-affiliated IRG forces.
+
+---
+
+[EVENT: YEM76338]
+Date: 2022-09-11
+Country: Yemen | Location: Al Mahfid
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Security Belt Forces [State forces]
+Fatalities: 0
+Sources: Aden al Ghad; Al Mahrah Post; Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 11 September 2022, STC Security Belt forces deployed to the district of Al Mahfad (coded to Al Mahfid) (Abyan). The deployment was coordinated between STC and other IRG forces and aimed to secure the district from AQAP.
+
+---
+
+[EVENT: YEM76340]
+Date: 2022-09-11
+Country: Yemen | Location: Al Wuday
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Security Belt Forces [State forces]
+Fatalities: 0
+Sources: Aden al Ghad; Al Mahrah Post; Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 11 September 2022, STC Security Belt forces and Abyan Security and Abyan Special forces deployed in the districts of Al Wadea (coded to Al Wuday), Lawdar, and Mudiyah (Abyan) as part of operation 'Arrows of the East'. The deployment was coordinated between STC and other IRG forces and aimed to secure the districts from AQAP.
+
+---
+
+[EVENT: YEM76523]
+Date: 2022-09-11
+Country: Yemen | Location: Al Jarubah Junction
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: 2 December News; Al Masdar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Land seizure: Around 11 September 2022, Houthi forces seized land in the villages of Al Maarif, Majrab al Khadariyah, Bani Sahl (location unclear), and Bani as Sabbahi (location unclear) around Al Jarubah Junction (Bayt Al Faqiah, Al Hudaydah) on behalf of the Endowment Authority.
+
+---
+
+[EVENT: YEM76522]
+Date: 2022-09-11
+Country: Yemen | Location: Al Jarubah Junction
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: 2 December News; Al Masdar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Around 11 September 2022, Houthi forces arrested dozens of civilians (up to a 100 according to one source) in the villages of Al Maarif, Majrab al Khadariyah, Bani Sahl (location unclear), and Bani as Sabbahi (location unclear) around Al Jarubah Junction (Bayt Al Faqiah, Al Hudaydah). The source claimed that this came as part of a Houthi campaign to seize agricultural lands in the area on behalf of the Endowment Authority.
+
+---
+
+[EVENT: YEM76343]
+Date: 2022-09-11
+Country: Yemen | Location: Akkad Camp
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Security Belt Forces [State forces]
+Fatalities: 0
+Sources: Al Mahrah Post; Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 11 September 2022, STC Security Belt forces deployed to Akkad Camp (Lawdar, Abyan) in coordination with other IRG forces. They received parts of the camp from Islah-affiliated forces of the 3rd Presidential Protection Brigade that remained in the other parts of the camp.
+
+---
+
+[EVENT: YEM76346]
+Date: 2022-09-11
+Country: Yemen | Location: Mudiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Security Belt Forces [State forces]
+Fatalities: 0
+Sources: Aden al Ghad; Al Mahrah Post; Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 11 September 2022, STC Security Belt forces and Abyan Security and Abyan Special forces deployed in the districts of Al Wadea (coded to Al Wuday), Lawdar, and Mudiyah (Abyan) as part of operation 'Arrows of the East'. The deployment was coordinated between STC and other IRG forces and aimed to secure the districts from AQAP.
+
+---
+
+[EVENT: YEM76409]
+Date: 2022-09-12
+Country: Yemen | Location: Jawl al Ad
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Shabwani Defense Forces [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: 26 September News - Houthi; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 12 September 2022, UAE-backed forces (coded as STC Shabwani Defense forces and Giants Brigade forces) carried out an arrest campaign in Ataq storming civilian houses in Kahraba neighborhood near Jawl al Ad (Shabwah) arresting people and accusing them of being affiliated with Islah-affiliated IRG forces.
+
+---
+
+[EVENT: YEM76384]
+Date: 2022-09-12
+Country: Yemen | Location: Mudiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Fatalities: 0
+Sources: Aden al Ghad [National]
+
+DESCRIPTION:
+Movement of forces: On 12 September 2022, STC forces (coded as STC generic forces) deployed in Mudiyah district (Abyan) and set up checkpoints on the road leading to Lawdar and Al Mahfad districts.
+
+---
+
+[EVENT: YEM76451]
+Date: 2022-09-14
+Country: Yemen | Location: Hadibu
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2021-2025) [External/Other forces]
+Fatalities: 0
+Sources: Al Sabah al Yemeni; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 14 September 2022, US military experts, including CENTCOM commanders, arrived at a UAE base in Hadibu city (Hidaybu, Suqutra).
+
+---
+
+[EVENT: YEM76453]
+Date: 2022-09-14
+Country: Yemen | Location: Taizz - Ath Thawrah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Sharaea News; Twitter [New media-National]
+
+DESCRIPTION:
+Looting: On 14 September 2022, IRG fighters from the Taizz military axis looted an ambulance from Taizz - Ath Thawrah Hospital (Salh). One source claimed that they looted the ambulance to complain about one of their fighters not receiving adequate care in the hospital and later returned the ambulance.
+
+---
+
+[EVENT: YEM76436]
+Date: 2022-09-14
+Country: Yemen | Location: Nishtun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2021-2025) [External/Other forces]
+Fatalities: 0
+Sources: Al Mashhad Al Janubi; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 14 September 2022, US military vessels arrived at Nishtun port (Al Ghaydah, Al Mahrah).
+
+---
+
+[EVENT: YEM76457]
+Date: 2022-09-15
+Country: Yemen | Location: Suq Sibah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Security Belt Forces [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Weapons seizure: On 15 September 2022, STC Security Belt forces seized large quantities of explosive material in Sibah district (coded to Suq Sibah) (Abyan) being transported from Al Bayda to Aden on board of a coffee truck.
+
+---
+
+[EVENT: YEM76471]
+Date: 2022-09-15
+Country: Yemen | Location: Marib
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Masa Press; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 15 September 2022, Islah-affiliated IRG military and Special Security forces deployed around Marib city (Marib) and near the Harib district border in anticipation of an offensive by UAE-backed forces of the 'Siba axis'.
+
+---
+
+[EVENT: YEM76466]
+Date: 2022-09-15
+Country: Yemen | Location: Sanaa - As Sabain Square
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-National]
+
+DESCRIPTION:
+Other: On 15 September 2022, Houthi security forces from the interior ministry held a parade including around 16,000 security personnel in Sanaa - As Sabain Square (As Sabain, Amanat al Asimah). The parade included students from the police academy, members of the rapid intervention force, and anti-riot police. It also showcased locally manufactured armored vehicles.
+
+---
+
+[EVENT: YEM76503]
+Date: 2022-09-16
+Country: Yemen | Location: Bayhan
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Actor2: Police Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+On 16 September 2022, Giants Brigade forces arrested deputy security director of Bayhan district (coded as IRG police forces) in Bayhan district (Shabwah) after insulting him.
+
+---
+
+[EVENT: YEM82340]
+Date: 2022-09-16
+Country: Yemen | Location: Maylat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Interception: On 16 September 2022, IRG forces shot down 1 Houthi drone west of Taizz city (coded to Maylat) (Jabal Habashy, Taizz).
+
+---
+
+[EVENT: YEM76530]
+Date: 2022-09-17
+Country: Yemen | Location: Wadi Awmran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Fatalities: 0
+Sources: Crater Sky; Shmsan Net; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 17 September 2022, STC forces (coded as STC generic forces) reached Jabal Humaymah that overlooks the Wadi Umaran region (Mudiyah, Abyan).
+
+---
+
+[EVENT: YEM77116]
+Date: 2022-09-20
+Country: Yemen | Location: Wadi Awmran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Security Belt Forces [State forces]
+Fatalities: 0
+Sources: Al Masdar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: Around 20 September 2022, STC Security Belt and Saiqa Brigades forces deployed in the Wadi Umaran region (Mudiyah, Abyan) after AQAP militants were driven out.
+
+---
+
+[EVENT: YEM76607]
+Date: 2022-09-20
+Country: Yemen | Location: Aden - Education Office
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council - STC Security Belt Forces [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Mahrah Post; Al Masdar; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Other: On 20 September 2022, STC Security Belt forces stormed in the Yemeni Journalists Syndicate building located by Aden - Education Office (Attawahi). The forces occupied the building for a few hours and tried to vacate its employees under the pretext of securing it before being dispersed by Aden Security forces following mediation from Aden governor.
+
+---
+
+[EVENT: YEM76979]
+Date: 2022-09-21
+Country: Yemen | Location: Sanaa - As Sabain Square
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Ansar Allah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Other: On 21 September 2022, Houthi armed forces held a parade in Sanaa - As Sabain Square (As Sabain, Amanat al Asimah). The parade was one of the largest parades ever held in Yemen and showcased a large arsenal of weapons including drones, missiles, boats, etc.
+
+---
+
+[EVENT: YEM76640]
+Date: 2022-09-21
+Country: Yemen | Location: Sanaa - Al Jiraf East
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: 2 December News; Al Mashhad Al Yemeni - Pro-IRG; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 21 September 2022, Houthi forces arrested 8 sheikhs from the Bani al Harith tribe and took them to Sanaa central prison in Sanaa - Al Jiraf East (Shuaub, Amanat al Asimah). 7 of them were released the next day and the Houthis apologized for the incident after the tribe organized a large gathering to discuss a response and called for its members to take up arms and for the arrest of Muhammad Ali al Houthi. The reason for the arrests was not reported.
+
+---
+
+[EVENT: YEM76633]
+Date: 2022-09-21
+Country: Yemen | Location: Wadi Awmran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Actor2: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: Nukhba Hadramawt; South24; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 21 September 2022, Abyan Security forces defused a mine network as well as explosive belts and other explosive materials (presumably belonging to AQAP) in Wadi Umaran east of Mudiyah city (Abyan).
+
+---
+
+[EVENT: YEM76644]
+Date: 2022-09-21
+Country: Yemen | Location: Ibb
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Police Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Other: On 21 September 2022, Houthi forces led by Al Qafr district security director raided a the public prosecution in Ibb city (Al Mashannah, Ibb) and smuggled a prisoner out after threatening the guards. One source suggested that the prisoner was being held unjustly.
+
+---
+
+[EVENT: YEM76639]
+Date: 2022-09-21
+Country: Yemen | Location: Al Yatmah
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Tabashir Net; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 21 September 2022, IRG Happy Yemen Brigades forces replaced IRG forces of the 6th Military District in Al Yatmah region (Khabb wa Ash Shaaf, Al Jawf) after the latter retreated 10 km from Laqfal area. This followed Saudi orders after the death of a Saudi soldier at the hands of 6th Military District forces in the region.
+
+---
+
+[EVENT: YEM76688]
+Date: 2022-09-23
+Country: Yemen | Location: Al Yatmah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council - Border Guard [State forces]
+Fatalities: 0
+Sources: Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 23 September 2022, Saudi forces arrested 8 soldiers of the IRG border guard in Laqfal area in Al Yatmah region (Khabb wa Ash Shaaf, Al Jawf) accusing them of ties to the Houthis.
+
+---
+
+[EVENT: YEM76697]
+Date: 2022-09-23
+Country: Yemen | Location: Ar Radmah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Looting: On 23 September 2022, Houthi forces led by a Houthi 'judicial guard' looted agricultural equipment belonging to an Ad Daam tribal sheikh in Ar Radmah district (Ibb).
+
+---
+
+[EVENT: YEM76696]
+Date: 2022-09-23
+Country: Yemen | Location: Al Kutbah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Looting: Around 23 September 2022 (as reported), Houthi forces led by a Houthi 'judicial guard' looted agricultural equipment in Al Kutbah (Ar Radmah, Ibb).
+
+---
+
+[EVENT: YEM76718]
+Date: 2022-09-23
+Country: Yemen | Location: Lawdar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: National Resistance (Guards of the Republic) [Political militia]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: Around 23 September 2022 (as reported), forces affiliated with Tareq Saleh (coded as Guardians of the Republic) deployed from Ataq Airport in Shabwah to one of the camps in Lawdar district (Abyan).
+
+---
+
+[EVENT: YEM76720]
+Date: 2022-09-24
+Country: Yemen | Location: Wadi Awmran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: Lahj Net; Yemen Data Project; YNP [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 24 September 2022, AQAP militants deployed to the Wadi Umaran region (Mudiyah, Abyan). Sources claimed that the militants returned to the area a week after they were expelled by STC forces.
+
+---
+
+[EVENT: YEM76744]
+Date: 2022-09-24
+Country: Yemen | Location: Hadibu
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Al Motabaat; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: Around 24 September 2022 (as reported), over the past few days, two Saudi military cargo ships arrived at Socotra port (Hidaybu, Suqutra) and unloaded their cargo at a number of Saudi forces bases in Hadibu (Hidaybu, Suqutra).
+
+---
+
+[EVENT: YEM76745]
+Date: 2022-09-24
+Country: Yemen | Location: Socotra Airport
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Fatalities: 0
+Sources: Al Motabaat; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 24 September 2022, Saudi forces expelled STC guard forces (coded as STC generic forces) from Socotra Airport (Hidaybu, Suqutra) after the arrival of large Saudi military reinforcements to the island.
+
+---
+
+[EVENT: YEM76746]
+Date: 2022-09-24
+Country: Yemen | Location: Socotra Port
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Al Motabaat; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: Around 24 September 2022 (as reported), over the past few days, two Saudi military cargo ships arrived at Socotra port (Hidaybu, Suqutra) and unloaded their cargo at a number of Saudi forces bases in Hadibu (Hidaybu, Suqutra).
+
+---
+
+[EVENT: YEM76734]
+Date: 2022-09-24
+Country: Yemen | Location: Dar ash Sharaf
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Looting: On 24 September 2022, Houthi forces stormed and took over Ar Rawdah mosque near Dar ash Sharaf (Al Mashannah, Ibb). The source claimed that this was part of a Houthi campaign to take control of all mosques in Ibb governorate and appoint pro-Houthi preachers.
+
+---
+
+[EVENT: YEM76775]
+Date: 2022-09-25
+Country: Yemen | Location: Al Mukha
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: National Resistance (Guards of the Republic) [Political militia]
+Fatalities: 0
+Sources: Al Khabar al Yemeni; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Recruitment: On 25 September 2022, forces affiliated with Tareq Saleh (coded as Guardians of the Republic) started a recruitment campaign by opening three recruitment camps in Al Mukha (coded to district level) (Taizz), Umari (coded to Jabal al Umari) (Dhubab, Taizz), and Aden - Bir Ahmed (Al Buraiqeh) aiming to recruit around 20,000 new recruits from Abyan, Aden, Ibb, Lahij, and Taizz governorates.
+
+---
+
+[EVENT: YEM76754]
+Date: 2022-09-25
+Country: Yemen | Location: Aden - Bir Ahmad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: National Resistance (Guards of the Republic) [Political militia]
+Fatalities: 0
+Sources: Al Khabar al Yemeni; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Recruitment: On 25 September 2022, forces affiliated with Tareq Saleh (coded as Guardians of the Republic) started a recruitment campaign by opening three recruitment camps in Al Mukha (coded to district level) (Taizz), Umari (coded to Jabal al Umari) (Dhubab, Taizz), and Aden - Bir Ahmed (Al Buraiqeh) aiming to recruit around 20,000 new recruits from Abyan, Aden, Ibb, Lahij, and Taizz governorates.
+
+---
+
+[EVENT: YEM76776]
+Date: 2022-09-25
+Country: Yemen | Location: Jabal al Umari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: National Resistance (Guards of the Republic) [Political militia]
+Fatalities: 0
+Sources: Al Khabar al Yemeni; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Recruitment: On 25 September 2022, forces affiliated with Tareq Saleh (coded as Guardians of the Republic) started a recruitment campaign by opening three recruitment camps in Al Mukha (coded to district level) (Taizz), Umari (coded to Jabal al Umari) (Dhubab, Taizz), and Aden - Bir Ahmed (Al Buraiqeh) aiming to recruit around 20,000 new recruits from Abyan, Aden, Ibb, Lahij, and Taizz governorates.
+
+---
+
+[EVENT: YEM78656]
+Date: 2022-09-26
+Country: Yemen | Location: Yarim
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen) [National]
+
+DESCRIPTION:
+Land seizure: On 26 September 2022, Houthi forces stormed and seized the private As Salamah hospital in Yarim city (Ibb). The reason behind the seizure was not reported.
+
+---
+
+[EVENT: YEM76802]
+Date: 2022-09-26
+Country: Yemen | Location: Hadibu
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC [State forces]
+Fatalities: 0
+Sources: Al Sabah al Yemeni; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Recruitment: On 26 September 2022, STC forces (coded as STC generic forces) recruited more than 50 people in Suqutra (coded to governorate level at Hadibu, Hidaybu). The source claimed that some had been recruited under coercion while the campaign was launched a long time ago to recruit at least 400 fighters.
+
+---
+
+[EVENT: YEM76981]
+Date: 2022-09-26
+Country: Yemen | Location: Marib
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter; Yemeni Army - IRG [Other-New media]
+
+DESCRIPTION:
+Other: On 26 September 2022, IRG military and security forces held a parade in Marib city (Marib) to celebrate the 60th anniversary of the 26 September 'revolution'. The parade showcased a number of military equipment including drones that were showed for the first time.
+
+---
+
+[EVENT: YEM76812]
+Date: 2022-09-27
+Country: Yemen | Location: Sayun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; YNP [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 27 September 2022, dozens of military vehicles from Islah-affiliated forces including Special Security and Ataq axis arrived at Sayun city (Hadramawt) from Al Abr desert and the outskirts of Shabwah governorate. The source speculated that this came in preparation to an STC-led offensive on the city.
+
+---
+
+[EVENT: YEM76828]
+Date: 2022-09-27
+Country: Yemen | Location: Wasit Junction
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2022-2026) Presidential Leadership Council - STC Shabwani Defense Forces [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: 2 December News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Defusal: On 27 September 2022, forces from the 5th Shabwani Defense Brigade defused 5 IEDs planted by an unidentified group on the road connecting their camp to Wasit area (coded to Wasit Junction) (Merkhah As Sufla, Shabwah). This took place 2 days after the convoy of a leader in the brigade was ambushed in the area.
+
+---
+
+[EVENT: YEM76840]
+Date: 2022-09-28
+Country: Yemen | Location: Sayun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: Free Post; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: Around 28 September 2022 (between 27 - 28 September), AQAP and Ansar Al Sharia militants coming from Abyan and Shabwah arrived in the Hadramawt valley (coded to Sayun district).
+
+---
+
+[EVENT: YEM77109]
+Date: 2022-09-28
+Country: Yemen | Location: Jannah Hunt Oil Company
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Southern Resistance [Political militia]
+Actor2: National Resistance (Guards of the Republic) [Political militia]
+Fatalities: 0
+Sources: Yemen Data Project; YNP [Local partner-National]
+
+DESCRIPTION:
+On 28 September 2022, brigades of the Southern Resistance forces took control of Jannah Hunt Oil Company fields (Usaylan, Shabwah) from pro-Tarek Saleh forces (coded as Guardians of the Republic). Source claimed that several weeks prior, the governor of Shabwah tasked pro-Tarek Saleh forces with securing the oil fields, but the Southern Resistance believed that the fields are in their territory. The brigades have also been discharged because a pro-STC commander wanted to allow space for further recruitment from his home governorate of Ad Dali.
+
+---
+
+[EVENT: YEM76854]
+Date: 2022-09-28
+Country: Yemen | Location: Coast of Rudum
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of France (2017-) [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+Non-violent activity: On 28 September 2022, two military vessel suspected to belong to the French navy were seen on the Coast of Rudum (Shabwah). The source claimed that the vessels have been sighted for two days.
+
+---
+
+[EVENT: YEM76853]
+Date: 2022-09-28
+Country: Yemen | Location: Ataq Central Prison
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Actor2: Giants Brigades [Political militia]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Looting: On 28 September 2022, unidentified gunmen looted the armored vehicle of the 1st Saba axis Giants Brigade commander in front of the Ataq axis HQ by Ataq Central Prison (Ataq, Shabwah).
+
+---
+
+[EVENT: YEM78438]
+Date: 2022-09-29
+Country: Yemen | Location: Tinnan
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Manara; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Around 29 September 2022 (week of), Houthi authorities arrested dozens of civilians in the villages of Tinnan, Kawman Sanamah, and Al Mulayh, as well as in the region of Uzlat Sablah Bani Bukhayt (Al Hada, Dhamar). Houthi authorities justified the campaign by claiming to look for wanted criminals, but the source claimed that these villages were targeted because they resisted Houthi military expansion in their lands.
+
+---
+
+[EVENT: YEM78437]
+Date: 2022-09-29
+Country: Yemen | Location: Kawman Sanamah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Manara; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Around 29 September 2022 (week of), Houthi authorities arrested dozens of civilians in the villages of Tinnan, Kawman Sanamah, and Al Mulayh, as well as in the region of Uzlat Sablah Bani Bukhayt (Al Hada, Dhamar). Houthi authorities justified the campaign by claiming to look for wanted criminals, but the source claimed that these villages were targeted because they resisted Houthi military expansion in their lands.
+
+---
+
+[EVENT: YEM78439]
+Date: 2022-09-29
+Country: Yemen | Location: Uzlat Sablah Bani Bukhayt
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Manara; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Around 29 September 2022 (week of), Houthi authorities arrested dozens of civilians in the villages of Tinnan, Kawman Sanamah, and Al Mulayh, as well as in the region of Uzlat Sablah Bani Bukhayt (Al Hada, Dhamar). Houthi authorities justified the campaign by claiming to look for wanted criminals, but the source claimed that these villages were targeted because they resisted Houthi military expansion in their lands.
+
+---
+
+[EVENT: YEM78436]
+Date: 2022-09-29
+Country: Yemen | Location: Al Mulayh
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Manara; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Around 29 September 2022 (week of), Houthi authorities arrested dozens of civilians in the villages of Tinnan, Kawman Sanamah, and Al Mulayh, as well as in the region of Uzlat Sablah Bani Bukhayt (Al Hada, Dhamar). Houthi authorities justified the campaign by claiming to look for wanted criminals, but the source claimed that these villages were targeted because they resisted Houthi military expansion in their lands.

@@ -1,0 +1,470 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iraq (ISO Code: 368)
+Temporal Period: Year 2017 - Quarter Q3
+Total Events in Chunk: 34 / 34
+==================================================
+
+[EVENT: IRQ2786]
+Date: 2017-07-02
+Country: Iraq | Location: Mosul - Old City
+Type: Battles > Government regains territory | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 111
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Iraqi Federal Police killed 79 Islamic State militants and rescued 550 IDPs in the areas of Bab al-Jadid, the Old Bridge of Mosul's Old City district. 22 members of the Iraqi security forces were also killed amidst fighting. Air raids were also reported by US-led coalition forces during the fighting. The Iraqi air force also carried out multiple airstrikes in areas held by the Islamic State in Mosul's Old City district, resulting in the death of both Islamic State militants and civilians (unknown fatalities coded as 10). 111 total fatalities (79 militants 22 security forces members 10 militant/civilians in airstrikes).
+
+---
+
+[EVENT: IRQ2812]
+Date: 2017-07-04
+Country: Iraq | Location: Mosul - Old City
+Type: Battles > Government regains territory | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 67
+Sources: Facebook; Iraqi News [New media-National]
+
+DESCRIPTION:
+Iraqi forces killed 67 Islamic State militants as they pushed further into Mosul's Old City district while breaking an Islamic State line of defence.
+
+---
+
+[EVENT: IRQ2843]
+Date: 2017-07-09
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Non-Violent Activity: The Iraqi Prime Minister and commander-in-chief of the armed forces Haider al-Abadi declared the final victory over Islamic State in the battle for Mosul following a military campaign with the support of a US-led international coalition that has taken 8 months, 3 weeks and 2 days.
+
+---
+
+[EVENT: IRQ2877]
+Date: 2017-07-14
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Rudaw [National]
+
+DESCRIPTION:
+Non-Violent Activity: Sunni politicians and tribal figures gathered in Baghdad to form a political alliance with the articulated aim to give Sunnis a voice in post-Islamic State Iraq.
+
+---
+
+[EVENT: IRQ2929]
+Date: 2017-07-17
+Country: Iraq | Location: Mosul - Tal Asfuq
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Interception: the Popular Mobilization Forces shot down a drone in Tal Asfuq on the border between Iraq and Syria.
+
+---
+
+[EVENT: IRQ2952]
+Date: 2017-07-18
+Country: Iraq | Location: Tikrit
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Jazeera [Regional]
+
+DESCRIPTION:
+Islamic State militants took control of the village Dar Sabah, 30km east of Tikrit.
+
+---
+
+[EVENT: IRQ3016]
+Date: 2017-07-22
+Country: Iraq | Location: Karma
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security Measures: on July 22, a full curew was imposed on al Karma district, Fallujah, in order to capture wanted fugitives.
+
+---
+
+[EVENT: IRQ3074]
+Date: 2017-07-26
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Detonation: The Falluja police seized a booby-trapped vehicle and arrested the driver at the entrance of Falluja city, the vehicle was destroyed by controlled detonation at the site by an engineering unit.
+
+---
+
+[EVENT: IRQ3093]
+Date: 2017-07-27
+Country: Iraq | Location: Baghdad - Rusafa
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Defusal: Security units of the Interior Ministry defused a car bomb near the Nahdha bus garage in the Rusafa district of central Baghdad.
+
+---
+
+[EVENT: IRQ3100]
+Date: 2017-07-27
+Country: Iraq | Location: Nahiyat al Amiriyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Security Measures: on July 22, a full curew was imposed on Al-Ameriyah district, Fallujah, in order to capture wanted fugitives.
+
+---
+
+[EVENT: IRQ3289]
+Date: 2017-08-08
+Country: Iraq | Location: Mosul - Old City
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraqi News; Shafaaq News [National]
+
+DESCRIPTION:
+Security Measures: Military authorities imposed a curfew on Mosul's Old City district due to continuous presence of Islamic State militants operating in the area.
+
+---
+
+[EVENT: IRQ3301]
+Date: 2017-08-09
+Country: Iraq | Location: Samarra
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Telegram [New media]
+
+DESCRIPTION:
+Property Destruction: Islamic State militants burned four bulldozers of the Iraqi army in the area of al-Tayyub, rural Samarra
+
+---
+
+[EVENT: IRQ3321]
+Date: 2017-08-10
+Country: Iraq | Location: Shirqat
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraq News Gazette; National Iraqi News Agency [National]
+
+DESCRIPTION:
+Detonation: Popular mobilization forces managed to detonate an Islamic State car bomb (VBIED) on the road between Shirqat and Naml, along the provincial border of Salahuddin and Kirkuk.
+
+---
+
+[EVENT: IRQ3462]
+Date: 2017-08-19
+Country: Iraq | Location: Atashana Mountains
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 66
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Iraqi ground forces backed by gunships killed 66 Islamic State militants in an operation in the Atshana mountains west of Mosul.
+
+---
+
+[EVENT: IRQ3498]
+Date: 2017-08-20
+Country: Iraq | Location: Telafar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Al Arabiya; Al Jazeera; AP [Regional-International]
+
+DESCRIPTION:
+Movement of Forces: Iraq's Prime Minister Haider Al-Abadi officially announced the launch of military operation to liberate Tal Afar from the Islamic State, an operation coded 'We are Coming Tal Afar'.
+
+---
+
+[EVENT: IRQ3500]
+Date: 2017-08-20
+Country: Iraq | Location: Telafar
+Type: Battles > Government regains territory | Disorder: Political violence
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 114
+Sources: Amaq; Telegram [New media]
+
+DESCRIPTION:
+Islamic State's newswire Amaq published a situation report on the first day for the battle of Tal Afar, the report highlighted the group's defensive efforts against the U.S.-backed Iraqi military campaign, citing an undisclosed 'military source' saying that the group killed a total of 114 Iraqi forces and destroyed some 40 military vehicles and tanks by detonation of minefields, buildings, IEDs, VBIEDs, SVBIEDs and also due to combat. The report also acknowledged that Iraqi forces had entered, and recaptured Jabara, Kasr Mihrab, Batisha, Tuwaim and Mayjarin.
+
+---
+
+[EVENT: IRQ3518]
+Date: 2017-08-21
+Country: Iraq | Location: Telafar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2014-2018) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Baghdad Post [National]
+
+DESCRIPTION:
+Property Destruction: Islamic State militants set oil wells on fire to try to obstruct aerial views of their positions and prevent warplanes from targeting them in the Telafar district.
+
+---
+
+[EVENT: IRQ3611]
+Date: 2017-08-29
+Country: Iraq | Location: Al Ayadhiyah
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) Peshmerga [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 130
+Sources: Basnews [Subnational]
+
+DESCRIPTION:
+Peshmerga sources announced that they had killed ambushed and killed as many as 130 Islamic State militants during a 72-hour period, it was also stated that the corpses had been abandoned in Peshmerga-controlled areas. It is worth noting that accumulating reports indicate that a large number of militants had been summarily executed with some blindfolded and dumped in pits.
+
+---
+
+[EVENT: IRQ3622]
+Date: 2017-08-30
+Country: Iraq | Location: Al Qaim
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 94
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Iraqi warplanes targeted multiple positions of Islamic State militants in and around al-Qaim, the airstrikes are said to have killed 94 militants and destroyed two car bombs. Reported separately from a strike the next day that killed 68 militants.
+
+---
+
+[EVENT: IRQ3629]
+Date: 2017-08-31
+Country: Iraq | Location: Al Qaim
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 68
+Sources: Nam News Network; National Iraqi News Agency; Xinhua [National-International]
+
+DESCRIPTION:
+Iraqi warplanes targeted multiple positions of Islamic State militants in and around al-Qaim, the airstrikes are said to have killed 68 militants and destroyed vehicles and a VBIED factory. Reported separately from a strike the day before that killed 94 militants.
+
+---
+
+[EVENT: IRQ3654]
+Date: 2017-09-04
+Country: Iraq | Location: Al Ayadhiyah
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 55
+Sources: Iraqi News; Xinhua [National-International]
+
+DESCRIPTION:
+Iraqi forces killed 55 Islamic State militants while conducting search and combing operation in hunt for remaining militants in the area of Ayadiya, north of Tal Afar.
+
+---
+
+[EVENT: IRQ3800]
+Date: 2017-09-14
+Country: Iraq | Location: Sadd Hamrin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2014-2018) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Amaq; Nashir [New media]
+
+DESCRIPTION:
+Property Destruction: Islamic State militants burned two diggers of the popular mobilization the area of Hamrin in Diyala.
+
+---
+
+[EVENT: IRQ3792]
+Date: 2017-09-14
+Country: Iraq | Location: Asia International Restaurant
+Type: Explosions/Remote violence > Suicide bomb | Disorder: Political violence
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2014-2018) [State forces]
+Fatalities: 74
+Sources: Al Baghdadia TV; Al Ghad Press; Amaq; Digital Media Source; Iraqi News; Nashir [Other-New media]
+
+DESCRIPTION:
+After the previous attacks on the Fadak restaurant and the nearby checkpoint, another restaurant, namely the Asia International Restaurant, further south on the road between Nasiriyah and Basra was targeted by a third Islamic State commando of two militants who detonated their explosive vests killing and wounding more people. The three almost simultaneous attacks resulted in the death of 84 civilians and security forces, another 93 wounded, and a 10 Islamic State militants killed. (20 fatalities coded in other events)
+
+---
+
+[EVENT: IRQ3810]
+Date: 2017-09-16
+Country: Iraq | Location: Akashat
+Type: Battles > Government regains territory | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 120
+Sources: Al Mada; All Iraq News Agency; Baghdad Post; Rudaw; Xinhua [National-International]
+
+DESCRIPTION:
+In the morning joint Iraqi forces of the army, police, tribal fighters and popular mobilization units, supported by the U.S.-led coalition launched an operation to liberate Anbar from the Islamic State: The mixed force began by attacking Akashat in western Anbar not far from the Syria border, the Islamic State militants put up little resistance an largely withdrew and were also targeted by a large amount of aerial bombardements and shellings leaving as many as 120 dead including senior commanders.
+
+---
+
+[EVENT: IRQ3879]
+Date: 2017-09-21
+Country: Iraq | Location: Haweeja
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Xinhua; Al Maloomah [National-International]
+
+DESCRIPTION:
+Combined units of the Counter-terrorism service, the army, popular mobilization and federal police began its offensive north of Hawija, on the day of the launch from the of military operations to retake the Hawija district, 22 villages had been recaptured from the Islamic State north of Hawija.
+
+---
+
+[EVENT: IRQ3883]
+Date: 2017-09-21
+Country: Iraq | Location: Shirqat
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency; Digital Media Source; Reuters; Waradana [Other-National]
+
+DESCRIPTION:
+On Thursday joint Iraqi forces launched the offensive to recapture the Islamic State-controlled Hawija district, federal police, Rapid Reaction forces and popular mobilization units recaptured 8 villages in the Shirqat district on the eastern side of the Tigris river.
+
+---
+
+[EVENT: IRQ3911]
+Date: 2017-09-24
+Country: Iraq | Location: Haweeja
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) Counter-Terrorism Service [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+The Counter-Terrorism Service recaptured the village of Zuwiya and nearby Qalat al-Bint and al-Adla from the Islamic State.
+
+---
+
+[EVENT: IRQ3913]
+Date: 2017-09-24
+Country: Iraq | Location: Qaryat az Zuwiyah
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) Counter-Terrorism Service [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+The Counter-Terrorism Service recaptured the village of Zuwiya and nearby Qalat al-Bint and al-Adla from the Islamic State.
+
+---
+
+[EVENT: IRQ3915]
+Date: 2017-09-24
+Country: Iraq | Location: Shirqat
+Type: Battles > Government regains territory | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 234
+Sources: Digital Media Source [Other]
+
+DESCRIPTION:
+The Iraqi federal police announced that 234 Islamic State militants were killed and 34 car bombs, 27 armed vehicles, 3 hideouts, 95 improvised explosive devices and 12 houses destroyed amidst the process to liberate the Shirqat area on the western side of the Tigris river. Coalition aircraft were involved.
+
+---
+
+[EVENT: IRQ5472]
+Date: 2017-09-24
+Country: Iraq | Location: Haweeja
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 50
+Sources: Airwars [Other]
+
+DESCRIPTION:
+Two civilians and at least 48 militants were killed by Coalition airstrikes in Hawija area, south of Kirkuk.
+
+---
+
+[EVENT: IRQ3937]
+Date: 2017-09-27
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Al Jazeera [International]
+
+DESCRIPTION:
+Security Measures: Iraq's government imposed a flight ban for international airliners to the northern Kurdistan region in response to the held Kurdish referendum, a move to increase pressure on the Kurdish regional government and to put it under economic lockdown.
+
+---
+
+[EVENT: IRQ5482]
+Date: 2017-09-30
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 4
+Sources: Al Sumaria TV; Iraqi News; Yaqein [National]
+
+DESCRIPTION:
+Explosive remnants of war: Four civilians were killed by unexploded ordinance left by IS in al-Na'imiya region, south of Fallujah
+
+---
+
+[EVENT: IRQ3971]
+Date: 2017-09-30
+Country: Iraq | Location: Haweeja
+Type: Battles > Government regains territory | Disorder: Political violence
+Actor1: Police Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 207
+Sources: Iraqi News; National Iraqi News Agency [National]
+
+DESCRIPTION:
+Combined units of the Iraqi forces manged to recapture 28 villages in the Hawija district. In the process were 207 Islamic State militants killed. and 50 car bombs and 20 technicals destroyed.
+
+---
+
+[EVENT: IRQ3970]
+Date: 2017-09-30
+Country: Iraq | Location: Haweeja
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: VOA [International]
+
+DESCRIPTION:
+Property destruction: On 30 September 2017, Islamic State militants set fire to oil wells in order to obstruct aerial views of their positions and prevent warplanes from targeting them in Haweeja district.

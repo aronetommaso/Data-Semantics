@@ -1,0 +1,2052 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Syria (ISO Code: 760)
+Temporal Period: Year 2021 - Quarter Q3
+Total Events in Chunk: 154 / 154
+==================================================
+
+[EVENT: SYR92060]
+Date: 2021-07-01
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 1 July 2021, a Global Coalition convoy entered al-Hasakeh city.
+
+---
+
+[EVENT: SYR95370]
+Date: 2021-07-01
+Country: Syria | Location: Al-Hama
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: The Carter Center [Local partner-Other]
+
+DESCRIPTION:
+On 1 July 2021, an agreement was reached between the regime's military intelligence and local diginitaries in the town of Al-Hama in Rural Damascus. The agreement stipulates that tens of armed young men, including former opposition rebels, surrender their weapons to the regime in return for the settlement of their status as wanted individuals.
+
+---
+
+[EVENT: SYR92062]
+Date: 2021-07-01
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 1 July 2021, Turkish and Russian forces conducted a joint patrol in Darbasiyah countryside in al-Hasakeh.
+
+---
+
+[EVENT: SYR92032]
+Date: 2021-07-01
+Country: Syria | Location: Damascus - Al-Salihiyah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On 1 July 2021, regime forces arrested 7 Kurdish women in the farms near Qasyoun mountain in Damascus - Al-Salihiyah area, accusing them of being spies for QSD.
+
+---
+
+[EVENT: SYR92034]
+Date: 2021-07-02
+Country: Syria | Location: Big Maghalla
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+On 2 July 2021, regime's military intelligence launched a security operation in Big Maghalla in Ar-Raqqa in search for IS operatives. Arrests were reported, likely against civilians.
+
+---
+
+[EVENT: SYR92033]
+Date: 2021-07-02
+Country: Syria | Location: Abu Hammad
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+On 2 July 2021, regime's military intelligence launched a security operation in Abu Hammad in Ar-Raqqa in search for IS operatives. Arrests were reported, likely against civilians.
+
+---
+
+[EVENT: SYR92035]
+Date: 2021-07-02
+Country: Syria | Location: Khamisiyeh
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+On 2 July 2021, regime's military intelligence launched a security operation in Khamisiyeh in Ar-Raqqa in search for IS operatives. Arrests were reported, likely against civilians.
+
+---
+
+[EVENT: SYR91986]
+Date: 2021-07-02
+Country: Syria | Location: Abu Zandin
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: JWS: Syrian National Army [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On 2 July 2021, regime forces and Sultan Murad Division operating under JWS made a prisoner exchange in Abu Zandin crossing in Aleppo, whereby each side released 5 prisoners.
+
+---
+
+[EVENT: SYR92036]
+Date: 2021-07-02
+Country: Syria | Location: Namisa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+On 2 July 2021, regime's military intelligence launched a security operation in Namisa in Ar-Raqqa in search for IS operatives. Arrests were reported, likely against civilians.
+
+---
+
+[EVENT: SYR92057]
+Date: 2021-07-02
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 2 July 2021, US forces operating under the Global Coalition conducted a patrol on the vicinity of Al-Malikeyyeh in al-Hasakeh.
+
+---
+
+[EVENT: SYR92246]
+Date: 2021-07-04
+Country: Syria | Location: Jasim
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 4 July 2021, regime forces brought military reinforcements into Jasim in Dar'a.
+
+---
+
+[EVENT: SYR92247]
+Date: 2021-07-04
+Country: Syria | Location: Maadan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 4 July 2021, regime forces brought military reinforcements into Maadan desert in Ar-Raqqa.
+
+---
+
+[EVENT: SYR92174]
+Date: 2021-07-04
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 4 July 2021, a convoy of the US forces operating under the Global Coalition arrived to US positions in al-Hasakeh province from northern Iraq via al-Walid crossing.
+
+---
+
+[EVENT: SYR92175]
+Date: 2021-07-04
+Country: Syria | Location: Basira
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 4 July 2021, US forces operating under the Global Coalition conducted a patrol in the vicinity of Basira in Deir-ez-Zor.
+
+---
+
+[EVENT: SYR92176]
+Date: 2021-07-05
+Country: Syria | Location: Al-Asbah farms
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 5 July 2021, a Global Coalition military patrol of four armored vehicles took place in Al Asbah Farm area in Deir ez Zor countryside.
+
+---
+
+[EVENT: SYR92242]
+Date: 2021-07-05
+Country: Syria | Location: Tabiyet Jazira
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 5 July 2021, a Russian patrol took place in Tabiyet Jazira town in Deir ez Zor countryside.
+
+---
+
+[EVENT: SYR92241]
+Date: 2021-07-05
+Country: Syria | Location: Khasham
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 5 July 2021, a Russian patrol took place in Khasham town in Deir ez Zor countryside.
+
+---
+
+[EVENT: SYR92244]
+Date: 2021-07-06
+Country: Syria | Location: Tal Samn
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 6 July 2021, a Russian military patrol took place in the vicinity of Tal Samn town in Ar Raqqa countryside.
+
+---
+
+[EVENT: SYR92243]
+Date: 2021-07-06
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 6 July 2021, a joint Russian and Turkish patrol of four Turkish armored vehicles, and five Russian ones, escorted by two Russian helicopters, took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR92177]
+Date: 2021-07-07
+Country: Syria | Location: Omar - Oil Fields
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Actor2: Militia (Pro-Iran) [Political militia]
+Fatalities: 0
+Sources: AlBadia 24; Alkhabour; Liveuamap; SOHR; The Euphrates Post; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Interception: On 7 July 2021, Global Coalition intercepted a drone by pro-Iran militias destroying it with air defense rockets in Al-Omar Oil Field in Deir ez Zor countryside. Neither injuries nor fatalities were reported.
+
+---
+
+[EVENT: SYR92228]
+Date: 2021-07-08
+Country: Syria | Location: Mataeiyeh
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 5th Assault Corps [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 8 July 2021, after the previous day's clashes, 8th Brigade which operates under Russian backed 5th Assault Corps arrested a large number of young men, and they also burned nine houses belongs to civilians in Mataeiyeh town in Dar'a countryside as well.
+
+---
+
+[EVENT: SYR92248]
+Date: 2021-07-08
+Country: Syria | Location: Deir-ez-Zor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 8 July 2021, a regime military patrol took place in Al Wadi street in Deir-ez-Zor city, looking for wanted young men for conscription.
+
+---
+
+[EVENT: SYR92245]
+Date: 2021-07-08
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 8 July 2021, a joint Russian and Turkish patrol of four armored vehicles each, escorted by two Russian helicopters, took place in rural Quamishli city in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR92240]
+Date: 2021-07-09
+Country: Syria | Location: Rmelan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 9 July 2021, a US military patrol took place in the vicinity of Rmelan town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR92796]
+Date: 2021-07-10
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Dar'a 24; SHAAM [Subnational-National]
+
+DESCRIPTION:
+Property destruction: On 10 July 2021, unidentified gunmen set fire to the car of a former opposition commander in Dar'a al Balad in Dar'a city. He is a prominent figure in Dar'a and is known for his opposition of the regime. Neither fatalities nor injuries were reported.
+
+---
+
+[EVENT: SYR92754]
+Date: 2021-07-10
+Country: Syria | Location: Semalka Border Crossing
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 10 July 2021, a convoy of the Global Coalition Forces entered Syria via Semalka border crossing in al-Hasakeh, comprising 25 trucks.
+
+---
+
+[EVENT: SYR92799]
+Date: 2021-07-11
+Country: Syria | Location: Atmah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 11 July 2021, unidentified men stormed Atmah charity hospital in Atmah in Idleb, causing havoc in the hospital and vandalizing hospital equipment after a relative of their had died. The hospital suspended operations in response.
+
+---
+
+[EVENT: SYR92651]
+Date: 2021-07-12
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; The Euphrates Post [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 12 July 2021, a US military patrol, escorted by two helicopters, took place in the vicinity of Quamishli city in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR92652]
+Date: 2021-07-12
+Country: Syria | Location: Rmelan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 12 July 2021, a joint US and QSD patrol took place in rural Rmelan town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR92650]
+Date: 2021-07-12
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 12 July 2021, a US military convoy of thirty-seven trucks carrying weapons and logistical supplies entered Syrian territories via Al Waleed border crossing, headed to Al-Hasakeh province.
+
+---
+
+[EVENT: SYR92653]
+Date: 2021-07-13
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 13 July 2021, a joint Russian and Turkish patrol of four armored vehicles each, escorted by two Russian helicopters, took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR92654]
+Date: 2021-07-14
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Liveuamap; SHAAM; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 14 July 2021, a joint Russian and Turkish patrol of four armored vehicles each, escorted by Russian helicopters, took place in rural Darbasiyah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR92655]
+Date: 2021-07-15
+Country: Syria | Location: Afrin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; SOHR; The Euphrates Post; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Mass grave: On 15 July 2021, Turkish forces supported by opposition rebels found a mass grave near the local council in Afrin city in Aleppo countryside, containing nearly fifty-seven bodies of civilians and militants who died during the siege on the city in 2018.
+
+---
+
+[EVENT: SYR92895]
+Date: 2021-07-18
+Country: Syria | Location: Jabal al-Zawiya
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Displacement: On 18 July 2021, tens of families fled areas in Jabal al-Zawiya in Idleb due to an escalation in regime shelling on the area.
+
+---
+
+[EVENT: SYR92893]
+Date: 2021-07-19
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 19 July 2021, a joint Russian and Turkish patrol escorted by two Russian helicopters, took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR92892]
+Date: 2021-07-20
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 20 July 2021, a US military convoy carrying weapons and logistical supplies entered the Syrian territories via Al Waleed border crossing, headed to Al-Hasakeh province.
+
+---
+
+[EVENT: SYR93023]
+Date: 2021-07-23
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Dar'a 24; SHAAM; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Agreement: On 23 July 2021, regime forces and the Dar'a Central Committee reached an agreement regarding Dar'a Al Balad that prevents regime-led military operations in the city against local opposition factions and wanted individuals. The agreement stipulates the handover of light arms to the regime forces and the limiting of armed presence in the city. The agreement also stipulates settling the status of 135 wanted individuals and the setting up of 3 regime forces checkpoints in Dar'a Al Balad and the withdrawal of regime forces from the outskirts of the city to their bases and the reopening of roads leading to Dar'a Al Balad. The implementation of the agreement shall take at least 5 days.
+
+---
+
+[EVENT: SYR93131]
+Date: 2021-07-24
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Fatalities: 0
+Sources: Dar'a 24 [Subnational]
+
+DESCRIPTION:
+Other: On 24 July 2021, the regime's military intelligence discharged small and medium arms fire toward Dar'a Al Balad neighborhoods in Dar'a city. Neither fatalities nor injuries were reported.
+
+---
+
+[EVENT: SYR93121]
+Date: 2021-07-24
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 24 July 2021, Global Coalition forces brought military reinforcements into the Shadadah base in al-Hasakeh via Al Waleed border crossing with Iraq comprising 75 vehicles.
+
+---
+
+[EVENT: SYR93126]
+Date: 2021-07-25
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 4th Armored Division [State forces]
+Fatalities: 0
+Sources: Dar'a 24; Jisr; Liveuamap; SOHR; SY24; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 25 July 2021, the regime's 4th Armored Division brought military reinforcements into Dar'a city.
+
+---
+
+[EVENT: SYR93127]
+Date: 2021-07-25
+Country: Syria | Location: Mzeireb
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 4th Armored Division [State forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; SY24; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 25 July 2021, the regime's 4th Armored Division brought military reinforcements into Mzeireb sub-district in Dar'a, including to the vicinity of Mzeireb and Tafas.
+
+---
+
+[EVENT: SYR93124]
+Date: 2021-07-26
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 26 July 2021, a joint Russian and Turkish patrol of four armored vehicles each, escorted by two Russian helicopters, took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR93130]
+Date: 2021-07-28
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SHAAM; Syria TV [Local partner-New media]
+
+DESCRIPTION:
+Non-violent activity: On 28 July 2021, US forces blocked a Russian patrol in the vicinity of Al-Malikeyyeh town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR93123]
+Date: 2021-07-28
+Country: Syria | Location: Tal Baydar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 28 July 2021, a Global Coalition military convoy of 30 trucks carrying weapons and logistical supplies entered the Syrian territories via Al Waleed border crossing, headed to their base in Tal Baydar in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR93122]
+Date: 2021-07-28
+Country: Syria | Location: Rmelan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 28 July 2021, a Global Coalition military convoy of 30 trucks carrying weapons and logistical supplies entered the Syrian territories via Al Waleed border crossing, headed to their base in Rmelan in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR93125]
+Date: 2021-07-29
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 29 July 2021, a joint Russian and Turkish patrol of four armored vehicles each, escorted by two Russian helicopters, took place in rural Darbasiyah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR93734]
+Date: 2021-07-31
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Dar'a 24; Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On 31 July 2021, a Russian-brokered agreement was reached in Dar'a al Balad in Dar'a between regime forces and the Dar'a Central Committee. The agreement stipulates transfering the wanted individuals, around 132, to northern Syria. In addition to the ceasefire, the Russian-backed 8th Brigade of the 5th Assault Corps shall take up several positions in the area and oversee the process. Local fighters also released at least 5 regime soldiers captured during the fighting.
+
+---
+
+[EVENT: SYR93735]
+Date: 2021-07-31
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Dar'a 24; SOHR [Other-Subnational]
+
+DESCRIPTION:
+On 31 July 2021, regime forces and the Dar'a Central Committee exchanged dead bodies in western Dar'a countryside who were killed in the recent escalation. The bodies of 4 former rebel fighters including a commander were handed over to the committee while the body of the regime's 4th Armored Division fighter was handed over to the regime.
+
+---
+
+[EVENT: SYR93588]
+Date: 2021-07-31
+Country: Syria | Location: Izra'
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Jisr; SY24 [National]
+
+DESCRIPTION:
+Movement of forces: On 31 July 2021, regime forces withdrew forces from several areas in Izra' district in western Dar'a countryside toward Dar'a city, under the framework of a Russian-brokered agreement.
+
+---
+
+[EVENT: SYR93560]
+Date: 2021-07-31
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Jisr [National]
+
+DESCRIPTION:
+On 31 July 2021, regime forces arrested a woman and her daughter in the Panorama area of Dar'a city for unknown reasons.
+
+---
+
+[EVENT: SYR93569]
+Date: 2021-07-31
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SY24 [National]
+
+DESCRIPTION:
+Movement of forces: On 31 July 2021, regime forces withdrew forces from eastern Dar'a countryside toward the Nasib border crossing area, under the framework of a Russian-brokered agreement.
+
+---
+
+[EVENT: SYR93603]
+Date: 2021-07-31
+Country: Syria | Location: Mahin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [External/Other forces]
+Fatalities: 0
+Sources: AlBadia 24 [National]
+
+DESCRIPTION:
+Movement of forces: On 31 July 2021, IRGC established several medium-range rocket launcher positions and heavy machine guns in the Mahin area of Homs.
+
+---
+
+[EVENT: SYR93578]
+Date: 2021-07-31
+Country: Syria | Location: Eastern Maliha
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Jisr; SY24 [National]
+
+DESCRIPTION:
+Movement of forces: On 31 July 2021, regime forces withdrew all its forces from Eastern Maliha in Dar'a to the 52 Brigade, under the framework of a Russian-brokered agreement.
+
+---
+
+[EVENT: SYR93631]
+Date: 2021-08-01
+Country: Syria | Location: Kafr Nobol
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Interception: On 1 August 2021, regime forces shot down a weaponized drone launched by opposition rebels near Kafr Nobol in Idleb.
+
+---
+
+[EVENT: SYR93714]
+Date: 2021-08-01
+Country: Syria | Location: Sheikh Aqeel
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Mass grave: On 1 August 2021, a grave with the bodies of 5 individuals were found in Sheikh Aqeel in Al Bab in Aleppo.
+
+---
+
+[EVENT: SYR93566]
+Date: 2021-08-01
+Country: Syria | Location: Al Waleed Border Crossing
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 1 August 2021, a Global Coalition convoy entered Syria via Al Waleed border crossing in al-Hasakeh and headed toward positions in northeast Syria, comprising 35 trucks.
+
+---
+
+[EVENT: SYR93565]
+Date: 2021-08-02
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 2 August 2021, a joint Russian and Turkish patrol of four armored vehicles each, escorted by two Russian helicopters, took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR93728]
+Date: 2021-08-03
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 3 August 2021, a US military convoy of 30 trucks carrying weapons and logistical supplies entered the Syrian territories via Al Waleed border crossing, headed to their base in Al-Hasakeh province.
+
+---
+
+[EVENT: SYR93982]
+Date: 2021-08-03
+Country: Syria | Location: Abu Hamam
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SNHR [Local partner-Other]
+
+DESCRIPTION:
+Property destruction: On 3 August 2021, unknown gunmen raided a school in Abu Hamam town in Deir ez Zor countryside, and destroyed some of its furniture.
+
+---
+
+[EVENT: SYR93817]
+Date: 2021-08-04
+Country: Syria | Location: Ar-Raqqa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour; SHAAM; SNHR; The Euphrates Post [Local partner-Other]
+
+DESCRIPTION:
+Mass grave: On 4 August 2021, a mass grave with six bodies including a woman was found near the vanguards camp south of Ar-Raqqa city,
+
+---
+
+[EVENT: SYR93729]
+Date: 2021-08-05
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 5 August 2021, a US military patrol took place in the vicinity of Al-Malikeyyeh town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR93599]
+Date: 2021-08-06
+Country: Syria | Location: Koniko Gas Field
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 6 August 2021, a Global Coalition convoy of weapons and logistical supplies arrived at their base in Koniko Gas Field in Deir ez Zor countryside.
+
+---
+
+[EVENT: SYR93811]
+Date: 2021-08-07
+Country: Syria | Location: Al Mayadin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [External/Other forces]
+Fatalities: 0
+Sources: SOHR; SY24 [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 7 August 2021, Iran's IRGC brought military reinforcements into the vicinity of Al Mayadin in Deir-ez-Zor, including into Mazar Ain area. The reinforcements included heavy anti-air machine gun trucks and heavy weaponry.
+
+---
+
+[EVENT: SYR93815]
+Date: 2021-08-08
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 4th Armored Division [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SY24 [National]
+
+DESCRIPTION:
+Looting: On 8 August 2021, the regime's 4th Armored Division looted civilian houses in Dar'a al Balad and al Sad neighborhoods of the city.
+
+---
+
+[EVENT: SYR93814]
+Date: 2021-08-08
+Country: Syria | Location: Izra'
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 4th Armored Division [State forces]
+Fatalities: 0
+Sources: SY24 [National]
+
+DESCRIPTION:
+Movement of forces: On 8 August 2021, regime's 4th Armored Division withdrew around 45 armored vehicles from the surroundings of Dar'a al Balad in Dar'a city and headed to Izra'.
+
+---
+
+[EVENT: SYR93816]
+Date: 2021-08-08
+Country: Syria | Location: Arisha Camp
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Property destruction: On 8 August 2021, unidentified gunmen targeted and destroyed an internet transmission tower that belongs to QSD in Arisha Camp area in al-Hasakeh.
+
+---
+
+[EVENT: SYR93813]
+Date: 2021-08-09
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 9 August 2021, a joint Russian and Turkish patrol of four armored vehicles each, escorted by two Russian helicopters, took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR93812]
+Date: 2021-08-12
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 12 August 2021, a joint Russian and Turkish patrol of four armored vehicles each, escorted by two Russian helicopters, took place in rural Darbasiyah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR93977]
+Date: 2021-08-14
+Country: Syria | Location: Abu Rasin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 14 August 2021, Russian forces conducted a patrol in the vicinity of Abu Rasin in al-Hasakeh.
+
+---
+
+[EVENT: SYR127350]
+Date: 2021-08-14
+Country: Syria | Location: Sokhneh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 14 August 2021, IS members shot down a Russian drone in Homs badia coded to Sokhneh.
+
+---
+
+[EVENT: SYR93981]
+Date: 2021-08-15
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 15 August 2021, opposition rebels operating under OPS brought military reinforcements into Tal Tamer area in al-Hasakeh.
+
+---
+
+[EVENT: SYR93980]
+Date: 2021-08-15
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 15 August 2021, Jaysh al Islam operating under OPS brought military reinforcements into Ras al-Ain in al-Hasakeh.
+
+---
+
+[EVENT: SYR93978]
+Date: 2021-08-16
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 16 August 2021, a joint Russian and Turkish patrol of four armored vehicles each, escorted by two Russian helicopters, took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR93975]
+Date: 2021-08-17
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 17 August 2021, US forces, operating under Coalition Forces, conducted a patrol of four armored vehicles, escorted by two helicopters, in Al-Malikeyyeh town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR93979]
+Date: 2021-08-19
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 19 August 2021, a joint Russian and Turkish patrol of four armored vehicles each, escorted by two Russian helicopters, took place in rural Al-Malikeyyeh town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR93976]
+Date: 2021-08-19
+Country: Syria | Location: Rmelan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 19 August 2021, a Global Coalition military patrol took place in rural Rmelan town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR94094]
+Date: 2021-08-21
+Country: Syria | Location: Maadan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Harakat Hezbollah Al Nujaba [Political militia]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 21 August 2021, Harakat Hezbollah Al Nujaba militia brought military reinforcements into the Manjam Milh area in Maadan desert of Ar-Raqqa.
+
+---
+
+[EVENT: SYR94095]
+Date: 2021-08-21
+Country: Syria | Location: Sweiyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Kataib Hezbollah (Iraq) [Political militia]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 21 August 2021, Kataib Hezbollah brought military reinforcements into its new command centers in Sweiyeh in Deir-ez-Zor, comprising 30 Iraqi members, ammunition and heavy machine guns.
+
+---
+
+[EVENT: SYR94093]
+Date: 2021-08-21
+Country: Syria | Location: Al-Bukamal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Ansar Allah Al Awfiya [Political militia]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 21 August 2021, Ansar Allah Al Awfiya militia brought military reinforcements into the Al-Bukamal desert in Deir-ez-Zor, including to al Hizam al Akhdar area, Wadi Ali, and the railroad areas. They comprised of personnel and armored vehicles.
+
+---
+
+[EVENT: SYR94098]
+Date: 2021-08-21
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Displacement: On 21 August 2021, residents in areas of Tal Tamer in al-Hasakeh were displaced due to Turkish and rebel shelling of the area.
+
+---
+
+[EVENT: SYR94096]
+Date: 2021-08-21
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Dar'a 24; Facebook; Halab Today; Jisr; Liveuamap; SOHR; SY24 [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 21 August 2021, regime forces, including the 4th Armored Division, brought military reinforcements into Dar'a city in the municipal stadium area as well as into Dar'a sub-district around Sayda and Um Elmayathen.
+
+---
+
+[EVENT: SYR94091]
+Date: 2021-08-21
+Country: Syria | Location: Zur Shummar
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour; SHAAM [National]
+
+DESCRIPTION:
+On 21 August 2021, regime forces arrested 3 civilians in Zur Shummar in Ar-Raqqa accused of planting IEDs in the area.
+
+---
+
+[EVENT: SYR94097]
+Date: 2021-08-21
+Country: Syria | Location: Omar - Oil Fields
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Actor2: Military Forces of Iran (1989-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Property destruction: On 21 August 2021, a US warplane operating under the Global Coalition shot down an Iranian drone in eastern Syria, suspected to have been near the Omar - Oil Fields in Deir-ez-Zor.
+
+---
+
+[EVENT: SYR94138]
+Date: 2021-08-22
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 22 August 2021, Turkish forces and JWS, operating under OPS, brought military reinforcements into the Tal Tamer area of al-Hasakeh.
+
+---
+
+[EVENT: SYR94137]
+Date: 2021-08-22
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 22 August 2021, Turkish forces and JWS, operating under OPS, brought military reinforcements into the Ein Issa area of Ar-Raqqa.
+
+---
+
+[EVENT: SYR94139]
+Date: 2021-08-22
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 22 August 2021, QSD brought military reinforcements into Ein Issa city in Ar-Raqqa, comprising personnel and armored vehicles, in anticipation for a Turkish offensive against the city.
+
+---
+
+[EVENT: SYR94166]
+Date: 2021-08-23
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 23 August 2021, a Global Coalition military convoy of 30 trucks carrying weapons and logistical supplies entered the Syrian territories via Al Waleed border crossing, and arrived at their base in Shadadah town in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR94165]
+Date: 2021-08-23
+Country: Syria | Location: Rmelan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 23 August 2021, a Global Coalition military convoy of 30 trucks carrying weapons and logistical supplies entered the Syrian territories via Al Waleed border crossing, and arrived at their base in Rmelan town in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR94167]
+Date: 2021-08-23
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 23 August 2021, a joint Russian and Turkish patrol of four armored vehicles each, escorted by two Russian helicopters, took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR94218]
+Date: 2021-08-25
+Country: Syria | Location: Sheikh Miskine
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+On 25 August 2021, regime forces started a security campaign and arrested more than ten people in Sheikh Miskine town in Dara countryside for unknown reasons.
+
+---
+
+[EVENT: SYR94256]
+Date: 2021-08-26
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM; SOHR; The Euphrates Post [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 26 August 2021, a joint Russian and Turkish patrol of four armored vehicles each, escorted by two Russian helicopters, took place in rural Darbasiyah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR94255]
+Date: 2021-08-26
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Liveuamap; SHAAM; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 26 August 2021, a US military patrol of four armored vehicles, took place in rural Al-Malikeyyeh town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR93337]
+Date: 2021-08-28
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 28 August 2021, US forces operating under the Global Coalition conducted a patrol in Tal Tamer area of al-Hasakeh, comprising 4 vehicles. US helicopters were also seen flying overhead.
+
+---
+
+[EVENT: SYR93273]
+Date: 2021-08-28
+Country: Syria | Location: Al-Kubar
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour; The Euphrates Post [National]
+
+DESCRIPTION:
+On 28 August 2021, regime forces arrested 2 civilians in Al-Kubar whilst fishing in the Euphrates for unknown reasons.
+
+---
+
+[EVENT: SYR93339]
+Date: 2021-08-29
+Country: Syria | Location: Jdid Ekeidat
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 29 August 2021, Global Coalition forces brought military reinforcements into Jdid Ekeidat in Deir-ez-Zor following an attack on a QSD vehicle.
+
+---
+
+[EVENT: SYR93360]
+Date: 2021-08-29
+Country: Syria | Location: Tafas
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Dar'a 24; SHAAM; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Displacement: On 29 August 2021, hundreds of families were displaced from Tafas and its surroundings in Dar'a and headed towards the Yarmouk basin area along the Syrian - Jordanian borders due to the regime's violent campaign in Dar'a city and nearby areas. Regime forces around Tafas prevented a number of families from leaving.
+
+---
+
+[EVENT: SYR93308]
+Date: 2021-08-30
+Country: Syria | Location: Duma
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) State Security [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SY24 [National]
+
+DESCRIPTION:
+Around 30 August 2021 (week of), regime forces including State Security, the 4th Armored Division, and the Republican Guard stormed Duma in Rural Damascus and made arrests. 13 young men were arrested in operations in Duma, Kafr Batna, and Misraba.
+
+---
+
+[EVENT: SYR93341]
+Date: 2021-08-30
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Fatalities: 0
+Sources: SY24 [National]
+
+DESCRIPTION:
+Movement of forces: On 30 August 2021, Hezbollah brought military reinforcements from Rural Damascus into the vicinity of Dar'a city, comprising numerous non-Syrian fighters and military vehicles.
+
+---
+
+[EVENT: SYR93309]
+Date: 2021-08-30
+Country: Syria | Location: Kafr Batna
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) State Security [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SY24 [National]
+
+DESCRIPTION:
+Around 30 August 2021 (week of), regime forces including State Security, the 4th Armored Division, and the Republican Guard stormed Kafr Batna in Rural Damascus and made arrests. 13 young men were arrested in operations in Duma, Kafr Batna, and Misraba.
+
+---
+
+[EVENT: SYR93310]
+Date: 2021-08-30
+Country: Syria | Location: Misraba
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) State Security [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SY24 [National]
+
+DESCRIPTION:
+Around 30 August 2021 (week of), regime forces including State Security, the 4th Armored Division, and the Republican Guard stormed Misraba in Rural Damascus and made arrests. 13 young men were arrested in operations in Duma, Kafr Batna, and Misraba.
+
+---
+
+[EVENT: SYR93271]
+Date: 2021-08-30
+Country: Syria | Location: Damascus - Old City
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SY24 [National]
+
+DESCRIPTION:
+Around 30 August 2021 (week of), regime security forces stormed several shops in Damascus - Old City area including Bab Touma, Bab Masla, Souq al-Hamediyyah, and Souq al-Hamra and arrested several shop owners and confiscated their phones, computers, and sums of money. They were accused of dealing in foreign currency. Over 4 civilians were arrested.
+
+---
+
+[EVENT: SYR93307]
+Date: 2021-08-31
+Country: Syria | Location: Al-Panorama
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 4th Armored Division [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+On 31 August 2021, regime's 4th Armored Division members manning Al-Panorama checkpoint in Deir-ez-Zor arrested several young men from Aleppo alleging their intent to flee to QSD-controlled areas in Deir-ez-Zor.
+
+---
+
+[EVENT: SYR93274]
+Date: 2021-08-31
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Dar'a 24; SHAAM; SOHR; SY24 [Other-Subnational]
+
+DESCRIPTION:
+On 31 August 2021, an agreement was reached between the Dar'a Central Committee and the regime's military forces and the Russian delegation for Dar'a al-Balad. A ceasefire takes effect from the 31 of August and the agreement stipulates settling the situation of the wanted individuals in the city, handing over of weapons by local and former rebels, the entry of Russian military police to the area and establishing 3 joint points of the regime's military intelligence and the 5th Assault Corps.
+
+---
+
+[EVENT: SYR93356]
+Date: 2021-08-31
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 31 August 2021, Turkish and Russian forces conducted a joint patrol in Ain al Arab countryside in Aleppo, comprising 8 vehicles and 2 Russian helicopters.
+
+---
+
+[EVENT: SYR93357]
+Date: 2021-08-31
+Country: Syria | Location: Al Mayadin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Militia (Pro-Iran) [Political militia]
+Fatalities: 0
+Sources: SOHR; SY24; The Euphrates Post [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 31 August 2021, Iranian militias brought a shipment of medium-range surface-to-surface missiles from Iraq to their positions in the vicinity of Al Mayadin in Deir-ez-Zor in trucks carrying vegetables.
+
+---
+
+[EVENT: SYR93340]
+Date: 2021-08-31
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 31 August 2021, a Global Coalition convoy arrived from Iraq to Coalition bases in al-Hasakeh district.
+
+---
+
+[EVENT: SYR93342]
+Date: 2021-09-01
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Dar'a 24; Facebook; Jisr; Liveuamap; SHAAM; SOHR; Syria TV; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 1 September 2021, Russian forces and the 8th Brigade entered Dar'a al-Balad in Dar'a city as part of the agreement reached a day prior along with a delegation from the Government of Syria. This happened as over 30 wanted individuals began settling their situation with the regime and handing over their weapons.
+
+---
+
+[EVENT: SYR93311]
+Date: 2021-09-01
+Country: Syria | Location: Khasham
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 1 September 2021, Global Coalition forces conducted a patrol between Asbah farms and Mezliyeh in Khasham area of Deir-ez-Zor.
+
+---
+
+[EVENT: SYR93343]
+Date: 2021-09-02
+Country: Syria | Location: Qahtaniyyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 2 September 2021, Turkish and Russian forces conducted a joint patrol in Qahtaniyyah sub-district in al-Hasakeh comprising 8 vehicles and 2 Russian helicopters.
+
+---
+
+[EVENT: SYR93312]
+Date: 2021-09-02
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM [Subnational-National]
+
+DESCRIPTION:
+Movement of forces: On 2 September 2021, US forces operating under the Global Coalition conducted a joint patrol in the vicinity of Al-Malikeyyeh in al-Hasakeh.
+
+---
+
+[EVENT: SYR93358]
+Date: 2021-09-03
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: On 3 September 2021, QSD deployed security forces to al-Hasakeh city and blocked roads and several areas extending from Bayruti bridge to Al-Sina'a roundabout for unknown reasons.
+
+---
+
+[EVENT: SYR94299]
+Date: 2021-09-04
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM; SOHR [Other-National]
+
+DESCRIPTION:
+On 4 September 2021, regime forces arrested the wife of a wanted individual in Dar'a al-Balad district of Dar'a city along with their 5 children, his brother and his wife.
+
+---
+
+[EVENT: SYR94292]
+Date: 2021-09-04
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 4 September 2021, Turkish and Russian forces conducted a joint patrol in Ain al Arab countryside in Aleppo.
+
+---
+
+[EVENT: SYR94318]
+Date: 2021-09-05
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM [Subnational-National]
+
+DESCRIPTION:
+Movement of forces: On 5 September 2021, US forces operating under the Global Coalition conducted a patrol in the vicinity of Al-Malikeyyeh in al-Hasakeh.
+
+---
+
+[EVENT: SYR94339]
+Date: 2021-09-05
+Country: Syria | Location: Al-Panorama
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 4th Armored Division [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+On 5 September 2021, the regime's 4th Armored Division arrested a displaced family from Homs on Al-Panorama checkpoint in Deir-ez-Zor for allegedly attempting to flee regime-held areas.
+
+---
+
+[EVENT: SYR94338]
+Date: 2021-09-05
+Country: Syria | Location: Sheikh Miskine
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Dar'a 24; SHAAM [Subnational-National]
+
+DESCRIPTION:
+On 5 September 2021, regime forces made several arrests in Sheikh Miskine in Dar'a following the assassination of 2 members of the regime's air force intelligence in Da'el.
+
+---
+
+[EVENT: SYR94333]
+Date: 2021-09-05
+Country: Syria | Location: Da'el
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+On 5 September 2021, regime forces made several arrests in Da'el in Dar'a following the assassination of 2 members of the regime's air force intelligence.
+
+---
+
+[EVENT: SYR94327]
+Date: 2021-09-05
+Country: Syria | Location: Western Khaltan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Ahrar al Sharqiyah [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 5 September 2021, members of Ahrar al Sharqiyah set fire to crops in the vicinity of Western Khaltan in Aleppo.
+
+---
+
+[EVENT: SYR94324]
+Date: 2021-09-05
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 5 September 2021, regime forces brought military reinforcements into Tal Tamer city in al-Hasakeh.
+
+---
+
+[EVENT: SYR94355]
+Date: 2021-09-06
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 6 September 2021, a joint Russian and Turkish patrol took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR94387]
+Date: 2021-09-07
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Around 7 September 2021 (between 5 - 7 September), regime forces arrested twenty three civilians and former rebels in Dar'a district for unknown reasons.
+
+---
+
+[EVENT: SYR94398]
+Date: 2021-09-08
+Country: Syria | Location: Abu Rasin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 8 September 2021, a Russian patrol took place in Abu Rasin town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR94423]
+Date: 2021-09-09
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 9 September 2021, a Global Coalition military convoy of thirty trucks carrying logistical supplies and fuel, entered the Syrian territories via Al Waleed border crossing, and headed to their base in Shadadah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR94422]
+Date: 2021-09-09
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 9 September 2021, a joint Russian and Turkish patrol took place in rural Darbasiyah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR94664]
+Date: 2021-09-09
+Country: Syria | Location: Azaz
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Syrian Liberation Front [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Change to armed group: On 9 September 2021, Sultan Suleiman Shah Brigade, Hamza Division - Aleppo, Al Mu'tasim Brigade, Northern Hawks Brigade, and 20th Division merged to created the Syrian Liberation Front. The front operates in rebel-controlled areas in Al-Hasakeh, Ar-Raqqa, Aleppo and Former Operation Euphrates Shield areas. Coded to Azaz in northern Aleppo.
+
+---
+
+[EVENT: SYR94451]
+Date: 2021-09-10
+Country: Syria | Location: Al-Harra
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+On 10 September 2021, regime forces launched a security campaign and arrested two people in Al-Harra town in Dara countryside for unknown reasons.
+
+---
+
+[EVENT: SYR94623]
+Date: 2021-09-11
+Country: Syria | Location: Sokhneh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Facebook; Halab Today; Liveuamap; The Euphrates Post [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 11 September 2021, Russian forces brought military reinforcements into Sokhneh desert in Homs.
+
+---
+
+[EVENT: SYR94609]
+Date: 2021-09-11
+Country: Syria | Location: Al Salhiyyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 11 September 2021, Russian forces conducted a patrol comprised of 3 armored vehicles at the frontline between regime-held and QSD-held areas in northern Deir-ez-Zor, including Al Salhiyyah bridge area.
+
+---
+
+[EVENT: SYR94622]
+Date: 2021-09-11
+Country: Syria | Location: Omar - Oil Fields
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Liveuamap; SOHR; The Euphrates Post; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 11 September 2021, a convoy for US forces operating under the Global Coalition arrived in Al-Omar Oil Field in Deir-ez-Zor from northern Iraq.
+
+---
+
+[EVENT: SYR94658]
+Date: 2021-09-11
+Country: Syria | Location: Al Tabqa - Airbase
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 11 September 2021, Russian and regime forces brought military reinforcements into Al Tabqa - Airbase in Ar-Raqqa.
+
+---
+
+[EVENT: SYR94638]
+Date: 2021-09-12
+Country: Syria | Location: Yadudeh
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Dar'a 24; SOHR [Other-Subnational]
+
+DESCRIPTION:
+On 12 September 2021, regime forces and members of the Dar'a Central Committee in Yadudeh in Dar'a reached an agreement to settle the status of tens of wanted individuals, similar to that of Dar'a Al-Balad. Under the agreement's framework, regime forces and Russian military police are to enter the town on 13 September.
+
+---
+
+[EVENT: SYR94660]
+Date: 2021-09-12
+Country: Syria | Location: Al-Hasakeh - Ghoweran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour; SHAAM [Subnational-National]
+
+DESCRIPTION:
+Movement of forces: On 12 September 2021, QSD brought military reinforcements into the outskirts of Al-Hasakeh - Ghoweran prison where IS prisoners have announced disobedience.
+
+---
+
+[EVENT: SYR94843]
+Date: 2021-09-13
+Country: Syria | Location: Kaan Kurk
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Syrian Liberation Front [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 13 September 2021, members of Hamza Division, operating under JTS, cut olive trees belonging to civilians in Kaan Kurk in Aleppo.
+
+---
+
+[EVENT: SYR94504]
+Date: 2021-09-13
+Country: Syria | Location: Tal Hmis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 13 September 2021, US forces operating under the Global Coalition conducted a patrol in the vicinity of Tal Hmis town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR94505]
+Date: 2021-09-13
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 13 September 2021, a joint Russian and Turkish patrol took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR94506]
+Date: 2021-09-13
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 13 September 2021, a Turkish military convoy carrying military equipment and logistical supplies entered the Syrian territories via Kafr Lusin border crossing, and headed to their bases in Idleb province.
+
+---
+
+[EVENT: SYR94469]
+Date: 2021-09-15
+Country: Syria | Location: Namar
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) State Security [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 15 September 2021, regime State Security arrested two young men at one of their checkpoints between Namar and Al-Harra towns in Dara countryside for unknown reasons.
+
+---
+
+[EVENT: SYR94758]
+Date: 2021-09-17
+Country: Syria | Location: Al-Hussainiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 17 September 2021, regime and pro-Iran militia forces brought military reinforcements into Al-Hussainiyah in Deir-ez-Zor.
+
+---
+
+[EVENT: SYR94759]
+Date: 2021-09-18
+Country: Syria | Location: Tafas
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Fatalities: 0
+Sources: Dar'a 24; Jisr; SHAAM; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 18 September 2021, the regime's military intelligence and Russian military police entered Tafas in Dar'a as part of the reconciliation agreement reached earlier.
+
+---
+
+[EVENT: SYR94757]
+Date: 2021-09-20
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 20 September 2021, a joint Russian and Turkish patrol of four vehicles each, escorted by two Russian helicopters, took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR94668]
+Date: 2021-09-21
+Country: Syria | Location: Koniko Gas Field
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 21 September 2021, Global Coalition convoy carrying weapons and logistical supplies arrived at their base in Koniko Gas Field in Deir ez Zor countryside.
+
+---
+
+[EVENT: SYR94855]
+Date: 2021-09-24
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 24 September 2021, regime forces brought military reinforcements into Ein Issa area in Ar-Raqqa.
+
+---
+
+[EVENT: SYR94857]
+Date: 2021-09-25
+Country: Syria | Location: Al-Hasakeh - Ghoweran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR; The Euphrates Post [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 25 September 2021, US forces operating under the Global Coalition conducted a patrol in al-Hasakeh city while five armored vehicles arrived in the US position in Al-Hasakeh - Ghoweran neighborhood.
+
+---
+
+[EVENT: SYR94884]
+Date: 2021-09-25
+Country: Syria | Location: Hajin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 25 September 2021, QSD brought military reinforcements into its positions in Hajin area in eastern Deir-ez-Zor countryside.
+
+---
+
+[EVENT: SYR94865]
+Date: 2021-09-25
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 25 September 2021, US forces operating under the Global Coalition conducted a patrol in Tal Tamer and its countryside in al-Hasakeh.
+
+---
+
+[EVENT: SYR94881]
+Date: 2021-09-25
+Country: Syria | Location: Yarmouk Basin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Facebook; Liveuamap; SOHR [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 25 September 2021, Syrian regime forces and Russian military police entered several towns and villages in the Yarmouk Basin area in Dar'a, including Sahm El Golan and Ash-Shajara, as part of the reconciliation agreement reached earlier.
+
+---
+
+[EVENT: SYR94879]
+Date: 2021-09-25
+Country: Syria | Location: Maadan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 25 September 2021, the Iranian IRGC sent a batch of Iranian missiles from Al Mayadin desert in Deir-ez-Zor to Maadan desert in Ar-Raqqa.
+
+---
+
+[EVENT: SYR94928]
+Date: 2021-09-26
+Country: Syria | Location: Balyun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 26 September 2021, a Turkish convoy entered Syria via Kafr Lusin and headed toward the Turkish observation outpost in Tall Balyun, near Balyun, in Idleb.
+
+---
+
+[EVENT: SYR94900]
+Date: 2021-09-26
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 26 September 2021, a Global Coalition convoy arrived in Quamishli in al-Hasakeh having entered from northern Iraq. It consisted of logistical supplies.
+
+---
+
+[EVENT: SYR94935]
+Date: 2021-09-27
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 27 September 2021, a joint Russian and Turkish patrol of four vehicles each, escorted by Russian helicopters, took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR94934]
+Date: 2021-09-27
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 27 September 2021, a US military column of fifty trucks carrying military and logistical equipment entered the Syrian territories via Al Waleed border crossing, and headed to Shadadah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR94959]
+Date: 2021-09-27
+Country: Syria | Location: Hmeimim Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Interception: On 27 September 2021, an unknown armed group shelled Russian forces positions in Hmeimim Air Base in Lattakia countryside, the Russian air defenses intercepted the missiles, which fell in its vicinity. Casualties unknown.
+
+---
+
+[EVENT: SYR94960]
+Date: 2021-09-28
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Facebook; SOHR [Other-New media]
+
+DESCRIPTION:
+Property destruction: On 28 September 2021, an unknown armed group threw Molotov's on Rodao TV channel office in Quamishli city in Al Hasakeh countryside, causing material damages only. There were no fatalities.
+
+---
+
+[EVENT: SYR94974]
+Date: 2021-09-29
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 29 September 2021, a Russian military patrol took place in rural Al-Malikeyyeh town in Al Hasakeh countryside.

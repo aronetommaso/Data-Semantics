@@ -1,0 +1,302 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Israel (ISO Code: 376)
+Temporal Period: Year 2018 - Quarter Q4
+Total Events in Chunk: 22 / 22
+==================================================
+
+[EVENT: ISR838]
+Date: 2018-10-04
+Country: Israel | Location: Kuseifa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [International]
+
+DESCRIPTION:
+Property destruction: On Oct 4 2018, Israeli authorities demolished a Palestinian home in the Kuseifeh village in Israel's Negev desert, under the pretext of being built without a difficult-to-obtain Israeli permit.
+
+---
+
+[EVENT: ISR884]
+Date: 2018-10-26
+Country: Israel | Location: Yafa an Nasirah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency; Times of Israel [National-Regional]
+
+DESCRIPTION:
+Property destruction: On Oct 26, Israelis spray-painted racist graffiti on walls after raiding the village of Yafa an-Naseriyye (Jaffa of Nazareth), near Nazareth. Members of a so-called 'price tag' settlers group raided the neighborhood of Marah Ghuzlan in Yafa an-Naseriyye, where they spray-painted racist logos such as 'price tag', 'revenge', and 'death to Arabs' on walls and parked vehicles. Police reported that around 20 cars and 2 houses were damaged.
+
+---
+
+[EVENT: ISR871]
+Date: 2018-10-26
+Country: Israel | Location: Ashqelon
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PIJ: Palestinian Islamic Jihad [Political militia]
+Fatalities: 0
+Sources: Twitter; Times of Israel [New media-National]
+
+DESCRIPTION:
+Interception: On 26 October 2018, approximately 30 rockets were launched from Gaza at Israel by Islamic Jihad. At least 10 were intercepted by the Iron Dome. Multiple sirens were reported in Ashqelon city (HaDarom). There were no reports that rockets hit or caused any damage to the area, as they were presumably intercepted.
+
+---
+
+[EVENT: ISR872]
+Date: 2018-10-26
+Country: Israel | Location: Sderot
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PIJ: Palestinian Islamic Jihad [Political militia]
+Fatalities: 0
+Sources: Twitter; Times of Israel [New media-National]
+
+DESCRIPTION:
+Interception: On 26 October 2018, approximately 30 rockets were launched from Gaza at Israel by Islamic Jihad. At least 10 were intercepted by the Iron Dome. Multiple sirens were reported in Sderot,Gevim, Niram, Yakhini, Mefalsim, Ibbim (Ashqelon, HaDarom) and the surrounding area of Shaar Hanegev. There were no reports that rockets hit or caused any damage to the area, as they were presumably intercepted.
+
+---
+
+[EVENT: ISR902]
+Date: 2018-10-27
+Country: Israel | Location: Ashqelon
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PIJ: Palestinian Islamic Jihad [Political militia]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Interception: On 27 October 2018, air sirens triggered by rockets launched from Gaza by Islamic Jihad were heard in Gevim, Or HaNer, Ibbim, Niram, (Ashqelon, HaDarom) and the nearby Sapir College. There were no reports that rockets hit or caused any damage to the area, as they were presumably intercepted.
+
+---
+
+[EVENT: ISR873]
+Date: 2018-10-27
+Country: Israel | Location: Beersheba
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PIJ: Palestinian Islamic Jihad [Political militia]
+Fatalities: 0
+Sources: Twitter; Times of Israel [New media-National]
+
+DESCRIPTION:
+Interception: On 27 October 2018, at least 4 additional rockets were launched from Gaza at Israel by Islamic Jihad and around 3 were intercepted by the Iron Dome. Sirens were heard in Kissufim, En Besor, Holit, Alumim, Nir Yizhaq, Nir Oz, Sufa, Magen (Beer Sheva, HaDarom), but no direct hits were reported.
+
+---
+
+[EVENT: ISR11846]
+Date: 2018-11-10
+Country: Israel | Location: Netiv Haasara
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Hamas Movement [Political militia]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Kikar HaShabbat [National]
+
+DESCRIPTION:
+Property destruction: On 10 November 2018, a Palestinian man (presumably affiliated with Hamas) who had crossed over into Israel from Gaza was arrested by Israeli military forces near the border after setting fire to a greenhouse near the town of Netiv Haasara (Ashqelon, HaDarom).
+
+---
+
+[EVENT: ISR922]
+Date: 2018-11-11
+Country: Israel | Location: Shaare Avraham
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Jerusalem Post; AFP [National-International]
+
+DESCRIPTION:
+Interception: On 11 November 2018, in retaliation for the Israeli ground operation that killed a Hamas commander, Hamas fired 10 rockets into Israel. 2 were intercepted by the Iron Dome. Rocket sirens were heard in Shaare Avraham (Rehovot, HaMerkaz) but the locations of where the rockets landed remains unknown.
+
+---
+
+[EVENT: ISR919]
+Date: 2018-11-11
+Country: Israel | Location: Beersheba
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Jerusalem Post; AFP [National-International]
+
+DESCRIPTION:
+Interception: On 11 November 2018, in retaliation for the Israeli ground operation that killed a Hamas commander, Hamas fired 10 rockets into Israel. 2 were intercepted by the Iron Dome. Rocket sirens were heard in Yevul, Shlomit,Deqel, Avshalom, Peri Gan, Shaare Avraham, Yated (Beer Sheva, HaDarom), but no direct hits were reported.
+
+---
+
+[EVENT: ISR935]
+Date: 2018-11-12
+Country: Israel | Location: Ashqelon
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Jerusalem Post [National]
+
+DESCRIPTION:
+Interception: On 12 November 2018, over 200 rockets were fired from Gaza into Israel. The Iron Dome intercepted 60 of the rockets and most others fell in open areas, though some hit civilians structures. The rockets were claimed jointly by Hamas and PIJ. Sirens were heard in Kibbutz Karmiyya, Yakhini, Gevim, Ziqim, Netiv Haasara, Yad Mordekhay, Nahal Oz, Ibbim, Niram (coded to Ashqelon) (HaDarom), but no direct hits were reported.
+
+---
+
+[EVENT: ISR938]
+Date: 2018-11-12
+Country: Israel | Location: Beersheba
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Jerusalem Post [National]
+
+DESCRIPTION:
+Interception: On 12 November 2018, over 200 rockets were fired from Gaza into Israel. The Iron Dome intercepted 60 of the rockets and most others fell in open areas, though some hit civilians structures. The rockets were claimed jointly by Hamas and PIJ. Sirens were heard in Holit, Beeri, Sufa, Newe Zohar, Nir Yizhaq, Alumim, En HaShelosha (coded to Beersheba, HaDarom), but no direct hits were reported.
+
+---
+
+[EVENT: ISR963]
+Date: 2018-11-13
+Country: Israel | Location: Ashqelon
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Israeli Defense Forces; Twitter; Walla!News [Other-New media]
+
+DESCRIPTION:
+Interception: On 13 November 2018, over 200 rockets were launched from Gaza. Sirens were heard in Ibbim, Sderot, Niram, Gevim, Kefar Azza, Nahal Oz, Netiv Haasara, Yad Mordekhay, Karmiyya, Ziqim, Talme Yafe, Berekhya, Hodaya, Kefar Silver, Mashen, Yisrael, Or HaNer, Mavqiim, Gea, Beer Gannim, Bat Hadar and Gea(Ashqelon, HaDarom), but no direct hits were reported. About 460 total rockets were fired from the Gaza Strip into Israel over the past two days, with the iron dome intercepting more than 100 of them.
+
+---
+
+[EVENT: ISR980]
+Date: 2018-11-13
+Country: Israel | Location: Beer Gannim
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Twitter; Walla!News; Israeli Defense Forces [Other-New media]
+
+DESCRIPTION:
+Interception: On 13 November 2018, over 200 rockets were launched from Gaza. Sirens were heard in Beer Gannim (Sharon, HaMerkaz), but no direct hits were reported. About 460 total rockets were fired from the Gaza Strip into Israel over the past two days, with the iron dome intercepting more than 100 of them.
+
+---
+
+[EVENT: ISR967]
+Date: 2018-11-13
+Country: Israel | Location: Saad
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Twitter; Israeli Defense Forces; Walla!News [Other-New media]
+
+DESCRIPTION:
+Interception: On 13 November 2018, over 200 rockets were launched from Gaza. Sirens were heard in Saad (Beer Sheva, HaDarom), but no direct hits were reported. About 460 total rockets were fired from the Gaza Strip into Israel over the past two days, with the iron dome intercepting more than 100 of them.
+
+---
+
+[EVENT: ISR969]
+Date: 2018-11-13
+Country: Israel | Location: Alumim
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Twitter; Israeli Defense Forces; Walla!News [Other-New media]
+
+DESCRIPTION:
+Interception: On 13 November 2018, over 200 rockets were launched from Gaza. Sirens were heard in Alumim (Beer Sheva, HaDarom), but no direct hits were reported. About 460 total rockets were fired from the Gaza Strip into Israel over the past two days, with the iron dome intercepting more than 100 of them.
+
+---
+
+[EVENT: ISR992]
+Date: 2018-11-22
+Country: Israel | Location: Rahat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [International]
+
+DESCRIPTION:
+Property destruction: On Nov 22 2018, Israeli bulldozers demolished a Palestinian family home, workshop, and a structure in Rahat in Negev, in southern Israel, under the pretext that the structure was illegally built.
+
+---
+
+[EVENT: ISR1000]
+Date: 2018-12-02
+Country: Israel | Location: Kafr Qaseem
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Israel) [Political militia]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Jordan News Agency [International]
+
+DESCRIPTION:
+Property destruction: On Dec 2 2018, Israeli ultra-Orthodox members spray-painted racist anti-Arab and anti-Palestinian graffiti on Palestinian walls and slashed tires of thirty Palestinian-owned cars in the Israeli town of Kafr Qassem.
+
+---
+
+[EVENT: ISR1045]
+Date: 2018-12-20
+Country: Israel | Location: Zarit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Hezbollah [Political militia]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Property destruction: On 20 December 2018, Israeli forces began destroying Hezbollah tunnels found in northern Israel. They warned citizens that they may hear the explosions [controlled explosions] and not to be alarmed. One destroyed tunnel was reportedly near Zarit (Akko, HaZafon).
+
+---
+
+[EVENT: ISR1047]
+Date: 2018-12-20
+Country: Israel | Location: Nitzana
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Egypt (2014-) [External/Other forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Times of Israel [National]
+
+DESCRIPTION:
+Property destruction: On Dec 20, stray bullets fired by the Egyptian military damaged a trailer in the educational youth village of Nitzana. On Dec 30, an Egyptian general visited the village to apologize for the incident which was caused by a military drill.
+
+---
+
+[EVENT: ISR1049]
+Date: 2018-12-23
+Country: Israel | Location: Zarit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Property destruction: On 23 December 2018, Israeli forces reportedly destroyed a Hezbollah tunnel, most likely with the use of remote explosives [controlled explosion] near Zarit (Akko, HaZafon).
+
+---
+
+[EVENT: ISR1050]
+Date: 2018-12-26
+Country: Israel | Location: Shetula
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Hezbollah [Political militia]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Property destruction: On 26 December 2018, Israeli forces said they had destroyed a fifth Hezbollah tunnel crossing into its territory from Lebanon and destroyed it with explosives [controlled explosion]. The military said in a statement that the new tunnel had been dug from the Lebanese village of Ayta ash Shab toward Shetula in northern Israel (Akko, HaZafon).
+
+---
+
+[EVENT: ISR1051]
+Date: 2018-12-28
+Country: Israel | Location: Sderot
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [State forces]
+Actor2: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Arutz Sheva [National]
+
+DESCRIPTION:
+Defusal: On Dec 28, a cluster of balloons tied to an incendiary device landed next to a kindergarten in the Sderot Regional Council. Police were dispatched to the scene and a bomb squad disarmed the device.

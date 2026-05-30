@@ -1,0 +1,45 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Saudi Arabia (ISO Code: 682)
+Temporal Period: Year 2022 - Quarter Q3
+Total Events in Chunk: 3 / 3
+==================================================
+
+[EVENT: SAU54210]
+Date: 2022-08-23
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Saudi Arabia (2015-) [State forces]
+Actor2: Civilians (Saudi Arabia) [Civilians]
+Fatalities: 0
+Sources: Press TV [International]
+
+DESCRIPTION:
+Other: Around 23 August 2022, the Saudi Specialized Criminal Appeals Court in Riyadh sentenced the former imam of the Grand Mosque in Mecca -- Sheikh Saleh at Talib -- to ten years of imprisonment after overturning an acquittal received at first instance (coded to Riyadh). No reports were identified on the exact charges that were levied against him. Some organizations though claim that the prosecution was politically motivated because of the imam's criticism of the Saudi government.
+
+---
+
+[EVENT: SAU54220]
+Date: 2022-09-18
+Country: Saudi Arabia | Location: Al Awamiyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Civilians (Saudi Arabia) [Civilians]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Property destruction: Around 18 September 2022 (as reported), Saudi authorities (coded as police) started the process of demolishing 119 houses in Al Awamiyah in Shiite-majority Al Qatif (Eastern) under the pretext of a project for the 'clean up' of the area and the improvement of its road traffic. This was denounced by activists are purposefully targeting the region's Shiite residents.
+
+---
+
+[EVENT: SAU54213]
+Date: 2022-09-27
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Saudi Arabia (2015-) [State forces]
+Fatalities: 0
+Sources: Al Jazeera; Reuters; Gulf News (UAE) [International]
+
+DESCRIPTION:
+Other: On 27 September 2022, Saudi King Salman bin Abdulaziz issued a royal decree reshuffling the country's Council of Ministers. The decree appointed Crown Prince Muhammed bin Salman as Prime Minister, Prince Khalid bin Salman as Defense Minister, Prince Turki bin Muhammed bin Fahad bin Abdulaziz as State Minister, Prince Abdulaziz bin Turki Faisal as Sports Minister, and Youssef Al Benyan as Education Minister (coded to the capital Riyadh (Ar Riyadh). The position of Prime Minister delegated to MBS is a position that is typically held by the king.

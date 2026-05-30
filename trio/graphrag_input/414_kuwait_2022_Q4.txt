@@ -1,0 +1,30 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Kuwait (ISO Code: 414)
+Temporal Period: Year 2022 - Quarter Q4
+Total Events in Chunk: 2 / 2
+==================================================
+
+[EVENT: KWT104]
+Date: 2022-10-05
+Country: Kuwait | Location: Kuwait City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Kuwait (2020-) [State forces]
+Fatalities: 0
+Sources: Al Jazeera; Gulf News (UAE) [Regional]
+
+DESCRIPTION:
+Other: On 5 October 2022, Kuwaiti Crown Prince Sheikh Meshal Al Ahmad Al Sabah reappointed Sheikh Ahmad Nawaf Al Ahmad Al Sabah as prime minister and ordered him to form a new cabinet for approval (coded to the capital Kuwait City) (Al Asimah). This followed Sheikh Ahmad's resignation from the position three days prior after parliamentary elections that saw most pro-government lawmakers lose their seats.
+
+---
+
+[EVENT: KWT105]
+Date: 2022-10-17
+Country: Kuwait | Location: Kuwait City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Kuwait (2020-) [State forces]
+Fatalities: 0
+Sources: ABNA; Al Jazeera; Reuters [Regional-International]
+
+DESCRIPTION:
+Other: On 17 October 2022, Crown Prince Sheikh Meshal Al Ahmad Al Sabah swore in the newly formed cabinet of Sheikh Ahmed Nawaf Al Ahmad Al Sabah on 17 October after the cabinet was restructured a day prior to appease several lawmakers who considered that its earlier composition did not reflect the will of the public as expressed in the September parliamentary elections (coded to the capital Kuwait City) (Al Asimah). The newly elected Kuwaiti parliament held its first session in the days that followed since its dissolution on 22 June and elected Ahmed Al Saadoun as its speaker. The session follows

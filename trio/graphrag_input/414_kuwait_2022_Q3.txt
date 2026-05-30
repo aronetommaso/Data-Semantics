@@ -1,0 +1,43 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Kuwait (ISO Code: 414)
+Temporal Period: Year 2022 - Quarter Q3
+Total Events in Chunk: 3 / 3
+==================================================
+
+[EVENT: KWT98]
+Date: 2022-08-02
+Country: Kuwait | Location: Kuwait City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Kuwait (2020-) [State forces]
+Fatalities: 0
+Sources: Al Jazeera [Regional]
+
+DESCRIPTION:
+Other: On 2 August 2022, Kuwaiti Crown Prince Meshal Al Ahmad issued a decree officially dissolving the parliament and declaring that parliamentary elections will be held within two months (coded to the capital Kuwait City) (Al Asimah). The decree comes one day after his approval and announcement of a new cabinet, headed by former interior minister Sheikh Ahmed Nawaf Al Ahmad Al Sabah as Prime Minister. The Crown Prince had initially announced the parliament's dissolution on 22 June.
+
+---
+
+[EVENT: KWT99]
+Date: 2022-08-04
+Country: Kuwait | Location: Tayma
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Kuwait) [Civilians]
+Fatalities: 0
+Sources: Kuwait Times [National]
+
+DESCRIPTION:
+Other: On 4 August 2022, two Bidoon activists started a sit-in at a square in Tayma (Al Jahra) demanding the dissolution of the Central Agency for the Remedy of Situation of Illegal Residents for its role in 'oppressing' Kuwaiti Bidoons by treating them as illegal residents and demanded that they be granted civil rights and citizenship.
+
+---
+
+[EVENT: KWT103]
+Date: 2022-09-29
+Country: Kuwait | Location: Kuwait City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Kuwait (2020-) [State forces]
+Fatalities: 0
+Sources: Al Jazeera; AP; Gulf News (UAE); Reuters [Regional-International]
+
+DESCRIPTION:
+Elections/referendum: On 29 September 2022, parliamentary elections were held in Kuwait (coded to the capital Kuwait City) (Al Asimah) after Kuwaiti Crown Prince Meshal Al Ahmad dissolved the parliament on 2 August to help end a political deadlock between the government and the parliament. A majority of new members were elected to the 50-seat National Assembly and a total of 28 seats were won by opposition candidates (Shiite bloc + Muslim Brotherhood branch). Most of the pro-government MPs lost their districts.

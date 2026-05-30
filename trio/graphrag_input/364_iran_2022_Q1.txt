@@ -1,0 +1,228 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iran (ISO Code: 364)
+Temporal Period: Year 2022 - Quarter Q1
+Total Events in Chunk: 16 / 16
+==================================================
+
+[EVENT: IRN12017]
+Date: 2022-01-06
+Country: Iran | Location: Mehran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw; Human Rights Activists in Iran (HRA); Iran Kargar; Iranian Labour News Agency; Iranian Student News Agency; Islamic Republic News Agency; Javanehha [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 6 January 2022, a mine leftover from the Iran-Iraq war detonated in Mehran county (Ilam) severely injuring 4 children as a result.
+
+---
+
+[EVENT: IRN12763]
+Date: 2022-01-08
+Country: Iran | Location: Nowsud
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw; Human Rights Activists in Iran (HRA); Iran Kargar [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 8 January 2022, a landmine leftover from the Iran-Iraq war detonated near the border in Nowsud county (Kermanshah) severely injuring a Kolbar, or Kurdish cross-border porter.
+
+---
+
+[EVENT: IRN12788]
+Date: 2022-01-11
+Country: Iran | Location: Nowsud
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw; Human Rights Activists in Iran (HRA); Iran Kargar; Javanehha [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 11 January 2022, a landmine leftover from the Iran-Iraq war detonated at the border area in Nowsud district of Paveh county (Kermanshah) injuring two Kolbars or Kurdish cross-border porters as a result.
+
+---
+
+[EVENT: IRN13111]
+Date: 2022-02-05
+Country: Iran | Location: Mehran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 5 February 2022, a landmine left over from the Iran-Iraq war detonated in Mehran county (Mehran) injuring a young nomad child as a result.
+
+---
+
+[EVENT: IRN13112]
+Date: 2022-02-05
+Country: Iran | Location: Dehloran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw; Human Rights Activists in Iran (HRA); Javanehha [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 5 February 2022, a landmine left over from the Iran-Iraq war detonated near the border in Dehloran county (Ilam) injuring a nomad as a result.
+
+---
+
+[EVENT: IRN13110]
+Date: 2022-02-07
+Country: Iran | Location: Qasr e Shirin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw; Human Rights Activists in Iran (HRA); Iran International; Iranian Labour News Agency [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 7 February 2022, a landmine detonated near the border in Qasr e Shirin county (Kermanshah) injuring a nomadic child herding sheep.
+
+---
+
+[EVENT: IRN13153]
+Date: 2022-02-11
+Country: Iran | Location: Musian
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 11 February 2022, a mine leftover from the Iran-Iraq war detonated in Musian district (Ilam) injuring a woman as a result.
+
+---
+
+[EVENT: IRN13164]
+Date: 2022-02-21
+Country: Iran | Location: Hangeh-ye Zhal
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw; Human Rights Activists in Iran (HRA); Kurdistan Human Rights Network [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 21 February 2022, a mine leftover from the Iran-Iraq war detonated in the Hangeh-ye Zhal area in Baneh county (Kurdistan) injuring three Kolbars or Kurdish cross-border porters as a result.
+
+---
+
+[EVENT: IRN13165]
+Date: 2022-02-21
+Country: Iran | Location: Nowsud
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw; Human Rights Activists in Iran (HRA); Javanehha; Kurdistan Human Rights Network [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 21 February 2022, a mine leftover from the Iran-Iraq war detonated near the border in Nowsud county (Kermanshah) severely injuring a Kolbar or Kurdish cross-border porter as a result.
+
+---
+
+[EVENT: IRN13162]
+Date: 2022-02-22
+Country: Iran | Location: Cheshmeh Ziarat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Baloch Campaign [Other]
+
+DESCRIPTION:
+Property destruction:: On 22 February 2022, Iranian police oversaw and aided Department of Housing officials in the destruction of houses belonging to Baloch citizens in Cheshmeh Ziarat city (Sistan and Baluchestan) fired shots and made threats towards those who objected to the demolitions.
+
+---
+
+[EVENT: IRN13161]
+Date: 2022-02-24
+Country: Iran | Location: Khvajeh
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Ministry of Intelligence [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Iranian Student News Agency [National]
+
+DESCRIPTION:
+On 24 February 2022, Iranian intelligence officers arrested 25 individuals at a villa in Khvajeh city (East Azerbaijan) alleging that they posed an unspecified security threat.
+
+---
+
+[EVENT: IRN18086]
+Date: 2022-03-09
+Country: Iran | Location: Orumiyeh
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Ministry of Intelligence [State forces]
+Actor2: Unidentified Armed Group (Iran) [Political militia]
+Fatalities: 0
+Sources: BBC News; Tasnim News Agency [National-International]
+
+DESCRIPTION:
+Around 9 March 2022, Iranian intelligence forces carried out an operation against an alleged 'Israeli [intelligence] network' in West Azerbaijan (capital Orumiyeh for reference) and neutralized the group, making an unknown number of arrests.
+
+---
+
+[EVENT: IRN18088]
+Date: 2022-03-12
+Country: Iran | Location: Mehran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 12 March 2022, a mine leftover from the Iran-Iraq war detonated in Mehran county (Ilam) injuring a nomad man as a result.
+
+---
+
+[EVENT: IRN18092]
+Date: 2022-03-14
+Country: Iran | Location: Fordo
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Ministry of Intelligence [State forces]
+Actor2: Unidentified Armed Group (Iran) [Political militia]
+Fatalities: 0
+Sources: FARS News Agency (Iran); Radio Farda; Tasnim News Agency; Young Journalists Club [National-International]
+
+DESCRIPTION:
+On 14 March 2022, Iranian intelligence carried out an operation against an alleged 'Israeli [intelligence] sabotage network' at the nuclear site near Fordo village (Qom) making several arrests and neutralizing the network.
+
+---
+
+[EVENT: IRN18095]
+Date: 2022-03-15
+Country: Iran | Location: Tehran
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Iran International [International]
+
+DESCRIPTION:
+On 15 March 2022, Iranian police arrested 52 people in Tehran city (Tehran) in a crackdown on Chaharshanbe Suri observances and parties.
+
+---
+
+[EVENT: IRN18108]
+Date: 2022-03-21
+Country: Iran | Location: Sanandaj
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+On 21 March 2022, over 30 Kurdish civilians were detained by police forces in Sanandaj city (Kurdistan) during public Nowruz celebration in the city's Kudak Park.

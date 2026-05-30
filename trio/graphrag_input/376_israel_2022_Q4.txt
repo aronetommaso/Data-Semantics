@@ -1,0 +1,322 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Israel (ISO Code: 376)
+Temporal Period: Year 2022 - Quarter Q4
+Total Events in Chunk: 23 / 23
+==================================================
+
+[EVENT: ISR13203]
+Date: 2022-10-03
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Al-Ittihad; Arab 48 [National-International]
+
+DESCRIPTION:
+Property destruction: On 3 October 2022, Israeli authorities (coded as Police Forces of Israel) demolished several dwellings and tents recently built in the unrecognized Bedouin village Al Araqeeb (Beer Sheva, HaDarom). Israeli authorities have thwarted attempts of local Bedouins to rebuild dwellings in the village since its demolition in 2010, as the government does not recognize their claim to the land and demands them to move to alternate lots in nearby towns.
+
+---
+
+[EVENT: ISR13216]
+Date: 2022-10-12
+Country: Israel | Location: Bir Hadaj
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [International]
+
+DESCRIPTION:
+Property destruction: On 12 October 2022, Israeli authorities [coded as Israeli police] demolished 6 residential rooms and kiosks in the Arab Bedouin village of Bir Hadaj (Beer Sheva, HaDarom) under the pretext that they were built without permits.
+
+---
+
+[EVENT: ISR13261]
+Date: 2022-10-16
+Country: Israel | Location: Jerusalem - Givat Ram
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Israel (2021-2022) [State forces]
+Actor2: Lions' Den [Political militia]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+Security measures: On 16 October 2022, Israeli security authorities (coded as Government of Israel) indefinitely denied entry to 164 Palestinians who are relatives of Lion's Den militants. This decision comes as the Lion's Den become increasingly involved in clashes in the West Bank. Coded at Jerusalem - Givat Ram (Judean Mountains).
+
+---
+
+[EVENT: ISR13229]
+Date: 2022-10-20
+Country: Israel | Location: Kafr Qaseem
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [Regional]
+
+DESCRIPTION:
+Property destruction: On 20 October 2022, Israeli authorities [coded as Israeli police] demolished a house courtyard belonging to an Arab family in Kafr Qaseem (Petah Tiqwa, HaMerkaz), under the pretext that it was built without a permit.
+
+---
+
+[EVENT: ISR13264]
+Date: 2022-10-20
+Country: Israel | Location: Nezer Sereni
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Israel) [Political militia]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: N12 [National]
+
+DESCRIPTION:
+Property destruction: On 20 October 2022, an unidentified group vandalized equipment and burned down an orchard in Nezer Sereni (Ramla, HaMerkaz). The reason for the property destruction is unknown.
+
+---
+
+[EVENT: ISR13262]
+Date: 2022-10-20
+Country: Israel | Location: Maale Iron
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Israel (2021-2022) [State forces]
+Fatalities: 0
+Sources: Times of Israel [National]
+
+DESCRIPTION:
+Security measures: On 20 October 2022, Israeli security authorities (coded as Government of Israel) closed the crossing between Israel and the West Bank at Maale Iron (Hadera, Haifa), due to the recent string of attacks in the area.
+
+---
+
+[EVENT: ISR13224]
+Date: 2022-10-20
+Country: Israel | Location: Rahat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [International]
+
+DESCRIPTION:
+Property destruction: On 20 October 2022, Israeli authorities [coded as Israeli police] demolished a picket tent that was set up in the Bedouin town of Rahat (Beer Sheva, HaDarom) under the pretext that it was constructed without a permit.
+
+---
+
+[EVENT: ISR13357]
+Date: 2022-10-23
+Country: Israel | Location: Shavei Tzion
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Unidentified Armed Group (Israel) [Political militia]
+Fatalities: 0
+Sources: Jerusalem Post [National]
+
+DESCRIPTION:
+Defusal: On 23 October 2022, Israeli police forces safely carried out a controlled detonation of an explosive in Shavei Tzion (Akko, HaZafon). It is currently unknown who planted the explosive.
+
+---
+
+[EVENT: ISR13358]
+Date: 2022-10-24
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [International]
+
+DESCRIPTION:
+Property destruction: On 24 October 2022, Israeli authorities (coded as Police Forces of Israel) demolished several dwellings and tents recently built in the unrecognized Bedouin village Al Araqeeb (Beer Sheva, HaDarom). Israeli authorities have thwarted attempts of local Bedouins to rebuild dwellings in the village since its demolition in 2010, as the government does not recognize their claim to the land and demands them to move to alternate lots in nearby towns.
+
+---
+
+[EVENT: ISR13389]
+Date: 2022-10-27
+Country: Israel | Location: Jerusalem - Givat Ram
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Government of Israel (2021-2022) [State forces]
+Actor2: Government of Lebanon (2021-) [External/Other forces]
+Fatalities: 0
+Sources: Times of Israel [National]
+
+DESCRIPTION:
+On 27 October 2022, the Israeli and Lebanese governments officially signed and approved a US-brokered maritime deal that is 'intended to end a long-running dispute over some 860 square kilometers (330 square miles) of the Mediterranean Sea.' The deal is viewed by many as the first step in improved diplomatic relations between the two countries. The agreement was signed by both parties at a UN base in Lebanon. Coded at Jerusalem - Givat Ram (Judean Mountains), the location of Knesset.
+
+---
+
+[EVENT: ISR13394]
+Date: 2022-11-01
+Country: Israel | Location: Jerusalem
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Israel (2021-2022) [State forces]
+Fatalities: 0
+Sources: Haaretz; N12; Walla!News [National]
+
+DESCRIPTION:
+Elections/referendum: On 1 November 2022, legislative elections were held in Israel, the country's fifth round of elections in three-and-a-half years. Following the full count of votes, Netanyahu and his religious, right-wing allies emerged with a clear majority, winning 64 out of 120 seats in Knesset. On 3 November, Yair Lapid phoned Netanyahu to concede. Behind Likud's 32 seats, Lapid's Yesh Atid was the next biggest party with 24. Notably, far-right Religious Zionism won 14 seats and left-wing Meretz missed the threshold to enter Knesset. Coded at Jerusalem (Judean Mountains).
+
+---
+
+[EVENT: ISR13393]
+Date: 2022-11-03
+Country: Israel | Location: Kissufim
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2021-2022) [State forces]
+Actor2: PIJ: Palestinian Islamic Jihad [Political militia]
+Fatalities: 0
+Sources: Jerusalem Post; Times of Israel [National]
+
+DESCRIPTION:
+Interception: On 3 November 2022, PIJ militants fired four rockets toward southern Israel, causing sirens to sound in Ein Hashlosha, Nirim, and Kissufim (Beer Sheva, HaDarom). Three rockets fell within the Gaza Strip (coded separately), while one rocket was intercepted by the iron dome.
+
+---
+
+[EVENT: ISR13422]
+Date: 2022-11-14
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [International]
+
+DESCRIPTION:
+Property destruction: On 14 November 2022, Israeli authorities (coded as police forces) demolished several dwellings and tents recently built in the unrecognized Bedouin village Al Araqeeb (Beer Sheva, HaDarom). Israeli authorities have thwarted attempts of local Bedouins to rebuild dwellings in the village since its demolition in 2010, as the government does not recognize their claim to the land and demands them to move to alternate lots in nearby towns.
+
+---
+
+[EVENT: ISR13420]
+Date: 2022-11-16
+Country: Israel | Location: Jerusalem
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Israel (2021-2022) [State forces]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+Security measures: On 16 November 2022, Israeli authorities (coded as government of Israel) revoked work permits for about 500 Palestinians with connections to the Palestinian assailant who killed three Israeli settlers in Ariel settlement in the West Bank on Tuesday. Coded at Jerusalem (Judean Mountains).
+
+---
+
+[EVENT: ISR13446]
+Date: 2022-11-24
+Country: Israel | Location: Nevatim
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [Regional]
+
+DESCRIPTION:
+Property destruction: On 24 November 2022, Israeli authorities [coded as police forces], demolished 2 houses belonging to Bedouins in Surrah village near Nevatim (Beer Sheva, HaDarom).
+
+---
+
+[EVENT: ISR13442]
+Date: 2022-11-24
+Country: Israel | Location: Kafr Qaseem
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [Regional]
+
+DESCRIPTION:
+Property destruction: On 24 November 2022, Israeli authorities [coded as police] demolished an under-construction house belonging to an Israeli Arab citizen in Kafr Qaseem (Petah Tiqwa, HaMerkaz) under the pretext of not having a building permit.
+
+---
+
+[EVENT: ISR13453]
+Date: 2022-11-28
+Country: Israel | Location: Qalansuwa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [Regional]
+
+DESCRIPTION:
+Property destruction: On 28 November 2022, Israeli authorities [coded as police forces] demolished an under-construction structure belonging to Israeli Arab citizens in Qalansuwa (Sharon, HaMerkaz) under the pretext of not having a building permit as the land is classified for agriculture. According to town residents and the land and structure was supposedly reserved for the building of a small mosque.
+
+---
+
+[EVENT: ISR13459]
+Date: 2022-12-01
+Country: Israel | Location: Et Taiyiba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [Regional]
+
+DESCRIPTION:
+Property destruction: On 1 December 2022, Israeli authorities [coded as police forces] demolished a structure and pergolas used for horse breeding in the Arab Israel town of Et Taiyiba (Sharon, HaMerkaz) under the pretext of not having building permits.
+
+---
+
+[EVENT: ISR13478]
+Date: 2022-12-05
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [International]
+
+DESCRIPTION:
+Property destruction: On 5 December 2022, Israeli authorities [coded as police forces] demolished several dwellings and tents recently built in the unrecognized Bedouin village of Al Araqeeb (Beer Sheva, HaDarom). Israeli authorities have thwarted attempts of local Bedouins to rebuild dwellings in the village since its demolition in 2010, as the government does not recognize their claim to the land and demands them to move to alternate lots in nearby towns.
+
+---
+
+[EVENT: ISR13480]
+Date: 2022-12-08
+Country: Israel | Location: Akbara
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48; Palestine News and Information Agency [Regional]
+
+DESCRIPTION:
+Property destruction: On 8 December 2022, Israeli authorities [coded as police forces] demolished dozens of agricultural facilities belonging to Arab residents of the village of Akbara (Zefat, HaZafon).
+
+---
+
+[EVENT: ISR13506]
+Date: 2022-12-20
+Country: Israel | Location: Zarit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2021-2022) [State forces]
+Actor2: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Times of Israel; Walla!News [National]
+
+DESCRIPTION:
+Property destruction: On 20 December 2022, Israeli military forces took down a small drone on the Israeli side of the Lebanese border, near Zarit (Akko, HaZafon). According to Israeli authorities, the drone belongs to Hezbollah.
+
+---
+
+[EVENT: ISR13523]
+Date: 2022-12-25
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Al-Ittihad; Arab 48; Palestine News and Information Agency [National-International]
+
+DESCRIPTION:
+Property destruction: On 25 December 2022, Israeli authorities [coded as police forces] demolished several dwellings and tents recently built in the unrecognized Bedouin village of Al Araqeeb (Beer Sheva, HaDarom). Israeli authorities have thwarted attempts of local Bedouins to rebuild dwellings in the village since its demolition in 2010, as the government does not recognize their claim to the land and demands them to move to alternate lots in nearby towns.
+
+---
+
+[EVENT: ISR13518]
+Date: 2022-12-29
+Country: Israel | Location: Jerusalem - Givat Ram
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Times of Israel [National]
+
+DESCRIPTION:
+Other: On 29 December 2022, Israel's 37th government was officially sworn in to power in Jerusalem - Givat Ram (Judean Mountains), with Benjamin Netanyahu reclaiming his role as Prime Minister. The inclusion of far-right, controversial MK Itamar Ben-Gvir and the anti-LGBTQ party Noam are among the factors that make the incoming coalition the most right-wing government in Israel's history.

@@ -1,0 +1,17 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Jordan (ISO Code: 400)
+Temporal Period: Year 2022 - Quarter Q2
+Total Events in Chunk: 1 / 1
+==================================================
+
+[EVENT: JOR1549]
+Date: 2022-06-28
+Country: Jordan | Location: Amman
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Jordan) [Protesters]
+Fatalities: 0
+Sources: Jo 24 [National]
+
+DESCRIPTION:
+Strikes: On 28 June 2022, the union of public taxi drivers started a general nationwide strike in protest against the increase of fuel prices by the government. The strike aims at pressuring the government to decrease prices. Coded to Amman.

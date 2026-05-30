@@ -1,0 +1,228 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iran (ISO Code: 364)
+Temporal Period: Year 2016 - Quarter Q3
+Total Events in Chunk: 16 / 16
+==================================================
+
+[EVENT: IRN15984]
+Date: 2016-07-09
+Country: Iran | Location: Sardasht
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Other: On 9 July 2016, a Kurdish cross-border porter or Kolbar was injured on the borders of Sardasht County when Iranian border guards shot at him. The shooting and killing of Kolbars by government forces has led to protests in the past.
+
+---
+
+[EVENT: IRN1588]
+Date: 2016-07-20
+Country: Iran | Location: Khash
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Unidentified Armed Group (Iran) [Political militia]
+Fatalities: 0
+Sources: Trend News Agency [International]
+
+DESCRIPTION:
+Arrests: Iranian security forces have arrested 40 members of an armed group in the eastern parts of the country. The suspects which had dug a 40-meter-long tunnel at depth of 20 meters under a house to carry out explosions and attacks were arrested over the past two nights.
+
+---
+
+[EVENT: IRN15995]
+Date: 2016-07-22
+Country: Iran | Location: Absard
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Arrests: Around 22 July 2016 (as reported), over 50 men and women were arrested in Absard when police raided a private party.
+
+---
+
+[EVENT: IRN16023]
+Date: 2016-07-28
+Country: Iran | Location: Chabahar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Property destruction: On 28 July 2016, police destroyed the houses of the largely Baloch residents in Moradabad e Komb near Chabahar city, claiming they were illegally constructed.
+
+---
+
+[EVENT: IRN16076]
+Date: 2016-08-16
+Country: Iran | Location: Tehran - District 13
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Basij Force [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Arrests: Around 16 August 2016 (as reported), over 60 men and women were arrested in the Sorkheh Hesar Forest Park in Tehran - District 13 when Basij forces raided a night party.
+
+---
+
+[EVENT: IRN16031]
+Date: 2016-08-18
+Country: Iran | Location: Shiraz
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Arrests: On 18 August 2016, 63 men and women were arrested in Shiraz city after police raided 2 birthday parties.
+
+---
+
+[EVENT: IRN16087]
+Date: 2016-08-29
+Country: Iran | Location: Kerman
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Arrests: Around 29 August 2016 (as reported), 34 people were arrested in Kerman after police forces raided a night party they had been attending.
+
+---
+
+[EVENT: IRN16127]
+Date: 2016-09-01
+Country: Iran | Location: Qasr e Shirin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Mehr News Agency [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: Around 1 September 2016 (as reported), a road grader driver was injured in the Central District of Qasr e Shirin County when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN16120]
+Date: 2016-09-05
+Country: Iran | Location: Tehran - District 1
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Rokna [Local partner-Other]
+
+DESCRIPTION:
+Arrests: On 5 September 2016, 26 men and women were arrested in the Niavaran neighborhood in Tehran - District 1 when police raided a private party.
+
+---
+
+[EVENT: IRN16107]
+Date: 2016-09-06
+Country: Iran | Location: Sardasht
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 6 September 2016, an 8-year-old child was injured by the Zab river in Sardasht County when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN16108]
+Date: 2016-09-06
+Country: Iran | Location: Uraman Takht
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Islamic Republic News Agency [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 6 September 2016, 3 teenagers were injured in the Uraman Takht rural district when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN1627]
+Date: 2016-09-06
+Country: Iran | Location: Sardasht
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 1
+Sources: Iranian Government News [Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 6 September 2016, explosion of a land mine remained from Iran-Iraq war during 1980-88 killed a child in Sardasht, a town in this northwestern Iranian province.
+
+---
+
+[EVENT: IRN16116]
+Date: 2016-09-06
+Country: Iran | Location: Qasr e Shirin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Islamic Republic News Agency [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 6 September 2016, a mine sweeper was injured and his vehicle damaged near the border checkpoint of Parviz Khan outside Qasr e Shirin when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN16117]
+Date: 2016-09-07
+Country: Iran | Location: Qasr e Shirin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Islamic Republic News Agency [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 7 September 2016, a mine sweeper was injured and his vehicle damaged in the area around Qasr e Shirin when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN16134]
+Date: 2016-09-19
+Country: Iran | Location: Susangerd
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 19 September 2016, a pipelayer was injured in Dasht e Azadegan county when a landmine planted during the Iran-Iraq War exploded. Coded at county capital Susangerd.
+
+---
+
+[EVENT: IRN16146]
+Date: 2016-09-30
+Country: Iran | Location: Yazd
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Tabnak News Agency [Local partner-Other]
+
+DESCRIPTION:
+Arrests: On 30 September 2016, 37 men and women were arrested in the Mehravaran neighborhood of Yazd city when police forces disrupted a mixed-gender party they had been attending.

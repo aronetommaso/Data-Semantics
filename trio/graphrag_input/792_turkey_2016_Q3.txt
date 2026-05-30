@@ -1,0 +1,1430 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Turkey (ISO Code: 792)
+Temporal Period: Year 2016 - Quarter Q3
+Total Events in Chunk: 104 / 104
+==================================================
+
+[EVENT: TUR3446]
+Date: 2016-07-01
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Police Forces of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction: The Youth Support Centre in Diyarbakir has been attacked with grenades by a masked group on July 1. The centre takes care of youth, who are in danger of social exclusion. The aim is to prevent them from joining miltiant groups. When the police arrived at the scene, the attackers fled.
+
+---
+
+[EVENT: TUR3447]
+Date: 2016-07-01
+Country: Turkey | Location: Semdinli
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 2
+Sources: Takvim [National]
+
+DESCRIPTION:
+Detonation: 2 PKK militants died of detonation of their own explosives, while planting a mine in Semdinli, Hakkari on July 1.
+
+---
+
+[EVENT: TUR2152]
+Date: 2016-07-02
+Country: Turkey | Location: Cizre
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Turkey (2002-2016) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 60
+Sources: Press TV [International]
+
+DESCRIPTION:
+As reported by Turkish national TV corporation TRT, at least 60 people accused to be PKK militants by Turkish Forces, were killed during an operation on February 7, in Cizre district of Sirnak. According to the military, several high-profile members were holed up in a basement. It was not known if it was the same basement in which the civilians were trapped on January 23. Other media outlets claimed that they may not have all been fighters, and that it included many wounded and civilians amongst the casualties (the local MP accused Turkey of a massacre).
+
+---
+
+[EVENT: TUR3461]
+Date: 2016-07-03
+Country: Turkey | Location: Lice
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2002-2016) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Weapons Seizure: During an operation against the PKK in Lice, Diyarbakir 21 cars and explosive materials were seized, which the PKK allegedly planned to use as bomb attacks. According to another source 32 cars were seized. This was reported on July 3.
+
+---
+
+[EVENT: TUR3462]
+Date: 2016-07-03
+Country: Turkey | Location: Mardin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Milliyet Haber [National]
+
+DESCRIPTION:
+Security Measures: In the whole province Mardin any kind of protest or rally has been forbidden from July 3 on for 30 days, because of the recent terror activities.
+
+---
+
+[EVENT: TUR3469]
+Date: 2016-07-04
+Country: Turkey | Location: Genc
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Weapons Seizure: During an operation by the Military Forces of Turkey, which started June 30 in the district Genc of Bingol, 4 depots of the PKK were seized. One remote explosion system and several other things like food and other tools were found. This was reported on July 4.
+
+---
+
+[EVENT: TUR3473]
+Date: 2016-07-05
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Islamic State (IS) [Rebel group]
+Fatalities: 0
+Sources: AFP; Deutsche Welle [International]
+
+DESCRIPTION:
+Arrests: From June 29 to July 5 the Police Forces of Turkey have arrested 30 people, who are allegedly connected to the terror attack by the Islamic State on June 28. Among them are several ex-Soviet nationals.
+
+---
+
+[EVENT: TUR3478]
+Date: 2016-07-06
+Country: Turkey | Location: Reyhanli
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 2
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Detonation: Two Syrian nationals were injured on July 6 in Reyhanli, Hatay, when their own explosive detonated in their home. They died a day later at the hospital. A gun and a silencer has been seized form the apartment.
+
+---
+
+[EVENT: TUR3291]
+Date: 2016-07-06
+Country: Turkey | Location: Beytussebap
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction: Reported on Tuesday, 7 June 2016: the PKK militants burned down a vehicle belonging to the municipality in Beytussebap district of Sirnak province.
+
+---
+
+[EVENT: TUR3483]
+Date: 2016-07-07
+Country: Turkey | Location: Hozat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Property destruction: PKK militants burnt a power failure vehicle in the district Hozat, Tunceli on Junly 7.
+
+---
+
+[EVENT: TUR3498]
+Date: 2016-07-09
+Country: Turkey | Location: Baglar
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: An unidentified person wanted to throw an explosive at the police station in Baglar, Diyarbakir on July 9, when it exploded in his hand and injured himself.
+
+---
+
+[EVENT: TUR3499]
+Date: 2016-07-09
+Country: Turkey | Location: Islahiye
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Milliyet Haber [National]
+
+DESCRIPTION:
+Property destruction: On 9 July 2016, PKK militants burnt a road construction vehicle in the district Islahiye of Gaziantep.
+
+---
+
+[EVENT: TUR3517]
+Date: 2016-07-11
+Country: Turkey | Location: Ovec
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security Measures: Curfew has been declared in the Ovec village in the district Semdinli of Hakkari on July 11 for 3 days, because of military operations.
+
+---
+
+[EVENT: TUR3522]
+Date: 2016-07-12
+Country: Turkey | Location: Diyadin
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: Among the 25 detained HDP and DBP members on July 12 in the district Diyadin of Agri, 11 people were arrested for being a member of terror organisations.
+
+---
+
+[EVENT: TUR3538]
+Date: 2016-07-14
+Country: Turkey | Location: Bayburt
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Milliyet Haber [National]
+
+DESCRIPTION:
+Arrests: From the 38 detained in the district Bayburt 25 people have been arrested for allegedly being a member of the Gulen Movement. This was reported on July 14.
+
+---
+
+[EVENT: TUR3592]
+Date: 2016-07-15
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Mutiny of Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency; Hurriyet Daily [National]
+
+DESCRIPTION:
+Coup / Military Takeover: A group within the Military Forces of Turkey attempted a coup in the night from July 15 to July 16 using weapons and tanks mainly in Istanbul and Ankara to overthrow the running government. All 4 political parties have condemned the coup. It is not clear if the soldiers are affiliated with an outside group. In Ankara the coup plotters naming themselves 'Peace in the Country Council' took over the state-run broadcaster TRT and published a statement on TV stating that it took over power in Turkey. President Erdogan claims that Fetullah Gulen, the religious leader of the Gulen Movement, was behind the coup. Various sources have identified other orchestrators, including some blaming the government itself. The person in the military identified as planning the coup is said to be Muharrem Kose, a colonel in the Turkish military. The head of Turkey's military, General Hulusi Akar was kidnapped and later rescued on July 16 in Ankara. After the coup plotters declared a curfew across the whole country, President Erdogan and Prime Minister Binali Yildirim called people to the streets to resist against the coup. Clashes happened mainly in Ankara and Istanbul between the coup plotters and soldiers and police loyal to the government, and as well as pro-government rioters. The coup was not successful. The Government gained control again with around 700 coup plotters surrendering to the Police.
+
+---
+
+[EVENT: TUR3546]
+Date: 2016-07-15
+Country: Turkey | Location: Istanbul
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Mutiny of Military Forces of Turkey (2016-) [State forces]
+Fatalities: 104
+Sources: Anadolu Agency; AP; Deutsche Welle; Human Rights Foundation of Turkey; Yeni Safak [Other-National]
+
+DESCRIPTION:
+A total of 271 people were reported killed during the coup attempt between both Ankara and Istanbul over the period of July 15th and 16th, among them were 247 Government loyal Forces and civilians, and 24 were coup plotters. In Istanbul alone, at least 5 police officers, 1 soldier and 93 civilians were killed (99), but sources did not attribute them to specific events within the coup. An additional civilian death has been coded as a separate event in Bakirkoy, Istanbul, on July 15th. The remaining 10 fatalities (10 Government loyal Forces/civilians) have been split evenly across two events in both Ankara and Istanbul, since it is unclear in which of the two cities they occurred. A total of 104 fatalities (99 5 unspecified fatalities split with Ankara) are coded for Istanbul. Additionally, over the two days, a total of 1535 people were injured, among them were 589 civilians, 23 police officers and 1 soldier in Istanbul.
+
+---
+
+[EVENT: TUR3594]
+Date: 2016-07-15
+Country: Turkey | Location: Mardin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+Security Measures: Curfew has been declared in the three districts Artuklu, Mazidagi and Derik of Mardin on July 15.
+
+---
+
+[EVENT: TUR3540]
+Date: 2016-07-15
+Country: Turkey | Location: Ankara
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Mutiny of Military Forces of Turkey (2016-) [State forces]
+Fatalities: 84
+Sources: Anadolu Agency; AP; Deutsche Welle; Human Rights Foundation of Turkey; Yeni Safak [Other-National]
+
+DESCRIPTION:
+A total of 271 people were reported killed during the coup attempt between both Ankara and Istanbul over the period of July 15th and 16th, among them were 247 Government loyal Forces and civilians, and 24 were coup plotters. In Ankara alone, at least 55 police officers, 4 soldiers, 78 civilians, and 24 coup plotters have been killed, although 82 of those fatalities have already been coded in specific events, leaving 79 unattributed. The remaining 10 fatalities (10 Government loyal Forces/civilians) have been split evenly across two events in both Ankara and Istanbul, since it is unclear in which of the two cities they occurred. A total of 84 fatalities (79+5 unspecified fatalities split with Istanbul) are coded for Ankara. Additionally, over the two days, a total of 1535 people were injured, among them were 800 civilians, 96 police officers and 18 soldiers in Ankara.
+
+---
+
+[EVENT: TUR3593]
+Date: 2016-07-15
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security Measures: Twitter, Facebook and Youtube were been blocked in Turkey by the Turkish Government on July 15 during the coup attempt.
+
+---
+
+[EVENT: TUR3702]
+Date: 2016-07-16
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Yeni Safak [National]
+
+DESCRIPTION:
+Security Measures: The northwest airspace around Istanbul and the airspace between Bursa and Tekirdag has been closed to commercial air traffic in response to the coup attempt.
+
+---
+
+[EVENT: TUR3699]
+Date: 2016-07-16
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: 272 members of the judiciary have been detained and prohbited from leaving the country for being linked with the Gulen Movement on July 16 in the aftermath of the attempted coup. Additionally, Turkey's top judicial board suspended 2,745 judges on July 16th.
+
+---
+
+[EVENT: TUR3700]
+Date: 2016-07-16
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Security Measures: After the coup attempt, border controls in Turkey has been tightened on July 16 to prevent Gulen Movement members to leave the country.
+
+---
+
+[EVENT: TUR3698]
+Date: 2016-07-16
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Mutiny of Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency; Deutsche Welle; Press TV [National-Regional]
+
+DESCRIPTION:
+Arrests: 2839 military personnel have been arrested for being involved with in the coup attempt. Among them are 2 of 4 army division geneals and 6 senior army commanders. One senior air force general and other officers have been arrested at the Incirlik airbase in Adana. A top military adviser to President Erdogan has been detained as well. Some of the detained soldiers said later, that they were not aware of being part of a coup.
+
+---
+
+[EVENT: TUR3810]
+Date: 2016-07-17
+Country: Turkey | Location: Degirmendere
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ROJ News [National]
+
+DESCRIPTION:
+Property destruction: PKK militants have destroyed a base station on July 17 in Degirmendere, Iskenderun of Hatay.
+
+---
+
+[EVENT: TUR3809]
+Date: 2016-07-17
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security Measures: 45 newsapers, 16 news channels, 15 magazines, 3 news agencies, 23 radio channels and 29 publishers were shut down in Turkey. The list has been released on July 17.
+
+---
+
+[EVENT: TUR3808]
+Date: 2016-07-17
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Bianet; Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security Measures: 20 websites have been banned in Turkey on July 17. (abcgazetesi.com / aktifhaber.com / aytachaber.com / bazhaber.com / canerzincantv.com / gazeteport.com / globalhaber.com.tr / grihat.com.tr / haberpark.com.tr / haberzili.com.tr / karsigazete.com.tr / mefkuretv.com / meydangazetesi.com.tr / on7yirmi5.com / ozgurherkul.org / postmedya.com / rotahaber.com / samanyoluhaber.com / starmetre.com / yagmurdergisi.com.tr)
+
+---
+
+[EVENT: TUR3811]
+Date: 2016-07-17
+Country: Turkey | Location: Tunceli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security Measures: As reported on July 17th, two villages in the Tunceli Province have been declared Special Security Zones from July 17 to July 31st.
+
+---
+
+[EVENT: TUR3807]
+Date: 2016-07-17
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Arrests: The number of arrested people, who are allegedly linked with the coup, has risen from around 3000 on July 16 to a total of around 6000 people on July 17.
+
+---
+
+[EVENT: TUR3937]
+Date: 2016-07-18
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Mutiny of Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: AFP; Deutsche Welle [International]
+
+DESCRIPTION:
+On 18 July 2016, the number of arrests after the coup attempt has risen from 6,000 on July 17 to 7,543 people including 103 generals on July 18. Among the arrested are 6,038 soldiers, 100 police officers, 755 judges and 650 civilians. The detained General Akin Ozturk, who allegedly is the mastermind behind the coup attempt, denied any involvement with the coup. General Mehmet Disli, who was in charge of the operation for conducting the Military chief Hulusi Akar has also been arrested. Coded at Ankara.
+
+---
+
+[EVENT: TUR3939]
+Date: 2016-07-18
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security Measures: All public servants were banned from leaving Turkey on July 18, because of the fear of Gulenists fleeing the country.
+
+---
+
+[EVENT: TUR3940]
+Date: 2016-07-18
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Movement of Forces: On July 18th, an additional 1,800 special police forces were drafted into Istanbul from other provinces to ensure security in Istanbul.
+
+---
+
+[EVENT: TUR3938]
+Date: 2016-07-18
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: AFP; Deutsche Welle [International]
+
+DESCRIPTION:
+Non-Violent Activity: The number of dismissed Government workers has risen to 13,000 on July 18. Among them are about 8,000 police, municipal governors and other officials.
+
+---
+
+[EVENT: TUR4035]
+Date: 2016-07-19
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: AFP; AP; Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Non-Violent Activity: On July 19th, 15,000 state education employees allegedly linked to the Gulen Movement were suspended. 257 people working at the prime minister's office and 492 working at the Directorate of Religious Affairs were dismissed. According to another source 21,000 private school teachers were suspended. This was reported on July 19.
+
+---
+
+[EVENT: TUR4153]
+Date: 2016-07-20
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+Security Measures: 5 websites have been banned in Turkey on July 20. (leman.com.tr / samanyolu.tv / samanyoluhaber1.com / sizinti.com.tr / wikileaks.org)
+
+---
+
+[EVENT: TUR4148]
+Date: 2016-07-20
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: AFP; Anadolu Agency [National-International]
+
+DESCRIPTION:
+Security Measures: State of Emergency has been declared in Turkey on July 20 for 3 months.
+
+---
+
+[EVENT: TUR4149]
+Date: 2016-07-20
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Actor2: Police Forces of Turkey (2016-) National Intelligence Organization [State forces]
+Fatalities: 0
+Sources: Yeni Safak [National]
+
+DESCRIPTION:
+Non-Violent Activity: 180 personnel of the National Intelligence Organization of Turkey have been suspended following the coup attempt of July 15. This was reported on July 20.
+
+---
+
+[EVENT: TUR4155]
+Date: 2016-07-20
+Country: Turkey | Location: Mutki
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ROJ News [Subnational]
+
+DESCRIPTION:
+Property destruction: PKK militants destroyed 3 base stations on July 20 in the Mutki district of Bitlis.
+
+---
+
+[EVENT: TUR4154]
+Date: 2016-07-20
+Country: Turkey | Location: Bingol
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ROJ News [Subnational]
+
+DESCRIPTION:
+Property destruction: PKK militants destroyed 3 construction vehicles of a company that is allegedly close to the AKP on July 20 in the Hesyan village between Bingol and Erzurum.
+
+---
+
+[EVENT: TUR4151]
+Date: 2016-07-20
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Mutiny of Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Yeni Safak [National]
+
+DESCRIPTION:
+Arrests: The number of arrests after the coup attempt has risen from 7,543 People on July 18 to 10,410 on July 21. Among them are 7,423 soldiers, 2,014 judiciary members and 686 civilians.
+
+---
+
+[EVENT: TUR4150]
+Date: 2016-07-20
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Deutsche Welle [International]
+
+DESCRIPTION:
+Non-Violent Activity: An additional 6,538 employees have been dismissed at the education ministry on July 20.
+
+---
+
+[EVENT: TUR4152]
+Date: 2016-07-20
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Deutsche Welle [International]
+
+DESCRIPTION:
+Non-Violent Activity: In total 37,500 civil servants and police officers have been suspended after the coup attempt. This was reported on July 22. 18,674 suspensions have already been coded.
+
+---
+
+[EVENT: TUR4254]
+Date: 2016-07-21
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: 62 students of a military high school have been arrested for allegedly trying to take over a police office in Istanbul on July 15 during the coup attempt. This was reported on July 21.
+
+---
+
+[EVENT: TUR4253]
+Date: 2016-07-21
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+Security Measures: 4 websites have been banned in Turkey on July 21. (archive.org / fethullahgulen.com / samanyoluhaber.tv / samanyolutv.eu)
+
+---
+
+[EVENT: TUR4255]
+Date: 2016-07-21
+Country: Turkey | Location: Kirkkuyu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ROJ News [Subnational]
+
+DESCRIPTION:
+Property destruction: HPG/PKK militants destroyed a base station on July 21 somewhere between the Erenze and Bacini villages (Kurdish names), which is close to the Gabar mountain (coded Kirkkuyu) in Sirnak.
+
+---
+
+[EVENT: TUR4356]
+Date: 2016-07-22
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security Measures: 24 radio and television channels have been closed by the Government of Turkey. This was reported on July 22.
+
+---
+
+[EVENT: TUR4359]
+Date: 2016-07-22
+Country: Turkey | Location: Kulp
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ROJ News [Subnational]
+
+DESCRIPTION:
+Property destruction: PKK militants destroyed a base station on July 22 in the village Kiye (Kurdish name) in the district Kulp of Diyarbakir.
+
+---
+
+[EVENT: TUR4360]
+Date: 2016-07-22
+Country: Turkey | Location: Tunceli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ROJ News [Subnational]
+
+DESCRIPTION:
+Property destruction: HPG/PKK militants burnt 6 cars belonging to the Government on the road between Tunceli and Erzincan on July 22.
+
+---
+
+[EVENT: TUR4357]
+Date: 2016-07-22
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) Presidential Guard Regiment [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Arrests: 283 members of President Erdogans guard have been detained on July 22.
+
+---
+
+[EVENT: TUR4472]
+Date: 2016-07-23
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Non-Violent Activity: As reported on July 23, the Turkish treasury and a state agency that regulates foundations have taken over more than 1,200 foundations and association, about 1,000 private educational institutions, 35 health care institutions, 19 labor groups and 15 universities for allegedly being linked the withe Gulen Movement.
+
+---
+
+[EVENT: TUR4587]
+Date: 2016-07-24
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Arrests: 201 soldiers have been detained in Izmir on July 24 for alleged links to the coup attempt.
+
+---
+
+[EVENT: TUR4586]
+Date: 2016-07-24
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Arrests: 97 people have been detained in Ankara on July 24 for allegedly being a member of the Gulen Movement.
+
+---
+
+[EVENT: TUR4693]
+Date: 2016-07-25
+Country: Turkey | Location: Foca
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Yeni Safak [National]
+
+DESCRIPTION:
+Arrests: 190 soldiers have been arrested at the Foca Naval Base in Foca, Izmir on July 24 for alleged links to the coup attempt.
+
+---
+
+[EVENT: TUR4692]
+Date: 2016-07-25
+Country: Turkey | Location: Besiktas
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Yeni Safak [National]
+
+DESCRIPTION:
+Arrests: 40 soldiers have been detained in Besiktas, Istanbul on July 25 for allegedly being linked with the coup attempt.
+
+---
+
+[EVENT: TUR4691]
+Date: 2016-07-25
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Yerepouni Daily News [Regional]
+
+DESCRIPTION:
+Arrests: The number of detainees has risen to 13,165 on July 25. 11,361 have already been coded. Amog them are 8,838 soldiers, 2,101 judges and prosecutors, 1,485 police officers, 52 local authorities and 689 civilians. Among these people in total 5,863 people have been jailed. Among them are 123 generals, 282 police officers and 1,559 judges and prosecutors.
+
+---
+
+[EVENT: TUR4690]
+Date: 2016-07-25
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Deutsche Welle [International]
+
+DESCRIPTION:
+Arrests: As reported on July 25, 42 journalists and 31 academics have been detained.
+
+---
+
+[EVENT: TUR4808]
+Date: 2016-07-26
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Non-Violent Activity: The number of suspended state institutions employees has risen to 47,188 on July 26. 42,711 suspensions have already been coded.
+
+---
+
+[EVENT: TUR4809]
+Date: 2016-07-26
+Country: Turkey | Location: Buyukciftlik
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 1
+Sources: Takvim [National]
+
+DESCRIPTION:
+Detonation: A bomb-laden vehicle create the PKK and aimed at attacking the Gendarmerie in Buyukciftlik, Yuksekova of Hakkari on July 27, detonated too early and killed the militant inside the car without harming anyone else.
+
+---
+
+[EVENT: TUR4906]
+Date: 2016-07-27
+Country: Turkey | Location: Bakirkoy
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Arrests: 58 people have been arrested at the Ataturk airport in Bakirkoy, Istanbul on July 27 for allegedly being linked with the Gulen Movement and the coup attempt on July 15.
+
+---
+
+[EVENT: TUR4951]
+Date: 2016-07-28
+Country: Turkey | Location: Sanliurfa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Arrests: 63 soldiers who are suspected on being members of the Gulen movement were taken into custody in Sanliurfa province on 28th of July
+
+---
+
+[EVENT: TUR4947]
+Date: 2016-07-28
+Country: Turkey | Location: Adalet
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Police Forces of Turkey (2016-) Prison Guards [State forces]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Arrests: An anti-Gulen operation took place amongst prison staff in Ankara, with 50 of the initial 76 detained formally arrested from Sincan prison in Adalet area on the 28th of July
+
+---
+
+[EVENT: TUR4949]
+Date: 2016-07-28
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: AFP; Anadolu Agency [National-International]
+
+DESCRIPTION:
+Arrests: The number of detentions after the coup attempt has risen to almost 16,000 on July 28. 13,223 arrests have already been coded. Approximately 13,000 of them are members of the military, police, judiciary and civil servants.
+
+---
+
+[EVENT: TUR4948]
+Date: 2016-07-28
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Non-violent activity: From the health ministry, 115 managers, 1504 doctors and 5891 staff have been removed on suspicion of being members of the Gulen movement. As reported on 28th of July.
+
+---
+
+[EVENT: TUR4950]
+Date: 2016-07-28
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Local Source [International]
+
+DESCRIPTION:
+Non-violent Activity: As reported on July 28, 1,684 military personnel have been dismised for being linked with the Gulen Movement.
+
+---
+
+[EVENT: TUR4988]
+Date: 2016-07-29
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: AFP; Deutsche Welle [International]
+
+DESCRIPTION:
+Arrests: The numer of detentions after the coup attempt has risen to more than 18,000 on July 29. 16,000 detentions have alredy been coded. 4,258 of the detained have been released so far after their questioning and 9,677 have been arrested.
+
+---
+
+[EVENT: TUR4989]
+Date: 2016-07-29
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Yeni Safak [National]
+
+DESCRIPTION:
+Security Measures: As reported on July 29, almost 50,000 passports have been cancelled after the coup attempt.
+
+---
+
+[EVENT: TUR4990]
+Date: 2016-07-29
+Country: Turkey | Location: Konyaalti
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Arrests: 150 people have been detained on July 29 at the Akdeniz University in Konyaalti, Antalya.
+
+---
+
+[EVENT: TUR5034]
+Date: 2016-07-30
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 47 journalists arrested on 29th and 30th of July in Istanbul province for suspected membership with the Gulen movement
+
+---
+
+[EVENT: TUR5032]
+Date: 2016-07-30
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: AP; Bianet [National-International]
+
+DESCRIPTION:
+Non-violent Activity: The number of suspended employees after the coup attempt has risen to 66,036 on July 30. 48,872 suspensions have already been coded.
+
+---
+
+[EVENT: TUR5033]
+Date: 2016-07-30
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Yeni Safak [National]
+
+DESCRIPTION:
+Non-Violent Activity: As reported on July 30, 56 people of the Consitutional Court have been dismissed. 20 rapporteurs among them have been detained.
+
+---
+
+[EVENT: TUR5031]
+Date: 2016-07-30
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Arrests: Between 15th-30th ofJuly, 12,096 policemen, judges and public prosecutors have been arrested on suspicion of being a member of the Gulen movement
+
+---
+
+[EVENT: TUR5044]
+Date: 2016-07-31
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Deutsche Welle; Press TV [Regional-International]
+
+DESCRIPTION:
+Non-Violent Activity: As reported on July 31, 1,389 soldiers were discharged from the armed forces.
+
+---
+
+[EVENT: TUR5055]
+Date: 2016-08-01
+Country: Turkey | Location: Karayazi
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: On August 1, 73 HDP and DBP members were detained by police forces in Karayazi district of Erzurum. Reason not stated.
+
+---
+
+[EVENT: TUR5054]
+Date: 2016-08-01
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On 1 August 2016, PKK militants destroyed an energy transmission line in Bercelan neighborhood of Hakkari city, as reported by HPG.
+
+---
+
+[EVENT: TUR5067]
+Date: 2016-08-02
+Country: Turkey | Location: Denizli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Arrests: 40 academics including the rector were detained at Pamukkale University of Denizli city due to possible links with the Gulen movement. Reported on August 2.
+
+---
+
+[EVENT: TUR5083]
+Date: 2016-08-04
+Country: Turkey | Location: Hizan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On 4 August 2016, PKK militants destroyed the internet line of a private communication company in Hizan district of Bitlis, as reported by HPG.
+
+---
+
+[EVENT: TUR5084]
+Date: 2016-08-04
+Country: Turkey | Location: Kayseri
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Arrests: On August 4 in Kayseri city, 127 policemen were detained as they were accused of being linked to Gulen movement and military coup attempt.
+
+---
+
+[EVENT: TUR5104]
+Date: 2016-08-06
+Country: Turkey | Location: Adana
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Hurriyet Daily [National]
+
+DESCRIPTION:
+Arrests: On August 6, 35 people were detained in a police operation targeting Islamic State members in Adana province.
+
+---
+
+[EVENT: TUR5143]
+Date: 2016-08-10
+Country: Turkey | Location: Adana
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: On August 10, 40 HDP and DBP members were detained by police forces in Adana city.
+
+---
+
+[EVENT: TUR5161]
+Date: 2016-08-12
+Country: Turkey | Location: Baskale
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On 12 August 2016, PKK militants damaged the internet base stations belonging to some private companies in Baskale district of Van.
+
+---
+
+[EVENT: TUR5180]
+Date: 2016-08-15
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Arrests: On August 15, police teams detained 136 court personnel in operations conducted at three Istanbul courthouses as part of an investigation into the July 15 abortive coup targeting Gulen movement supporters.
+
+---
+
+[EVENT: TUR5179]
+Date: 2016-08-15
+Country: Turkey | Location: Aydin/Efeler
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: On August 15, 31 HDP members were detained by the police in Aydin city. No information on the reason of detention.
+
+---
+
+[EVENT: TUR5186]
+Date: 2016-08-16
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK-YJA STAR: Kurdistan Workers Party-YJA STAR [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property Destruction: HPG website reported that on August 16, YJA Star conducted ID checks by blocking a road between Bitlis province and Baykan district in Siirt. They burned two vehicles reportedly belonging to AKP.
+
+---
+
+[EVENT: TUR5185]
+Date: 2016-08-16
+Country: Turkey | Location: Adiyaman
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: HPG website reported that on August 16, the group destroyed base station belonging to private companies and Turkish defense ministry in Dilkiyan village of Adiyaman municipal area.
+
+---
+
+[EVENT: TUR5188]
+Date: 2016-08-16
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: On August 16, 23 journalists from 'Ozgur Gundem' journal, that was closed for reportedly making illegal group propaganda, were detained by the police in Istanbul city.
+
+---
+
+[EVENT: TUR5187]
+Date: 2016-08-16
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: HPG website reported that on August 16, the group destroyed two base stations belonging to private communication companies in Bitlis town.
+
+---
+
+[EVENT: TUR5206]
+Date: 2016-08-18
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: On August 18 in Istanbul city, police forces detained 80 people working in various companies that are suspected to be linked to Gulen movement and the military coup attemps in July 2016.
+
+---
+
+[EVENT: TUR5240]
+Date: 2016-08-20
+Country: Turkey | Location: Sahinbey
+Type: Explosions/Remote violence > Suicide bomb | Disorder: Political violence
+Actor1: Islamic State (IS) [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 57
+Sources: AFP; Anadolu Agency [National-International]
+
+DESCRIPTION:
+On 20 August 2016, a suicide bomber aged between 12 and 14 attacked a wedding ceremony on a street in Beybahce area of Sahinbey town of Gaziantep city. 56 civilians and the suicide bomber were killed. Islamic State was blamed for the incident.
+
+---
+
+[EVENT: TUR5239]
+Date: 2016-08-20
+Country: Turkey | Location: Sanliurfa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 49 people who are HDP and DBP members were detained on August 20 by the police forces in Sanliurfa province.
+
+---
+
+[EVENT: TUR5290]
+Date: 2016-08-24
+Country: Turkey | Location: Yuksekova
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Yeni Safak [National]
+
+DESCRIPTION:
+Security Measures: On August 24, a three-day curfew has been imposed in the Yuksekova district of Hakkari province after PKK militants launched a rocket attack in the district.
+
+---
+
+[EVENT: TUR5323]
+Date: 2016-08-28
+Country: Turkey | Location: Baskale
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: HPG reported that on August 28, the group burned down the vehicle of a person working for AKP claiming that he was warned many times to cut his ties with AKP. The event took place in Baskale district of Van.
+
+---
+
+[EVENT: TUR5324]
+Date: 2016-08-28
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ROJ News [Subnational]
+
+DESCRIPTION:
+Arrests: On August 28, 27 people including the journalists and workers of the Kurdish newspaper Azadiya Welat were detained by the police forces who raided the offices in Diyarbakir city.
+
+---
+
+[EVENT: TUR5330]
+Date: 2016-08-29
+Country: Turkey | Location: Albayrak
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK-YJA STAR: Kurdistan Workers Party-YJA STAR [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: HPG reported that on August 29, YJA Star destroyed the base station of a private communication company in Der (Albayrak) village of Baskale district in Van.
+
+---
+
+[EVENT: TUR5379]
+Date: 2016-09-05
+Country: Turkey | Location: Erzurum
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: Reported on Monday, 5 September 2016, the Turkish Police Forces, in collaboration with the Gendarmerie Forces, arrested 29 individuals suspected of being PKK militants, during a counter-terrorism operation in the Erzurum province.
+
+---
+
+[EVENT: TUR5389]
+Date: 2016-09-07
+Country: Turkey | Location: Kosreli
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Defusal: Reported on Wednesday, 7 September 2016, the Turkish Gendarmerie Forces discovered a truck, belonging to the PKK militants, full of explosives ready to be used in the Kosreli village of the Sirnak province's Silopi district.
+
+---
+
+[EVENT: TUR5392]
+Date: 2016-09-08
+Country: Turkey | Location: Sirnak
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Defusal: The Turkish Military Forces discovered a truck full of explosives that was ready for use in the Sirnak province on Thursday, 8 September 2016. The explosives were defused safely.
+
+---
+
+[EVENT: TUR5391]
+Date: 2016-09-08
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: Reported on Thursday, 8 September 2016, the Turkish Police Forces arrested 32 members of the Gulen Movement during an operation in the Izmir province.
+
+---
+
+[EVENT: TUR5393]
+Date: 2016-09-08
+Country: Turkey | Location: Tekirdag
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: Reported on Thursday, 8 September 2016, the Turkish Police Forces arrested 37 invidividuals suspected of being members of the Gulen Movement in the Tekirdag province.
+
+---
+
+[EVENT: TUR5427]
+Date: 2016-09-18
+Country: Turkey | Location: Fatih
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: Reported on Sunday, 18 September 2016: The Turkish Police Forces arrested 40 foreigners suspected of being linked to IS during parallel operations in the Faith district of the Istanbul province.
+
+---
+
+[EVENT: TUR5442]
+Date: 2016-09-20
+Country: Turkey | Location: Hinis
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: Reported on Tuesday, 20 September 2016, the Turkish Gendarmerie Forces arrested 30 PKK militants during a counter-terrorism operation in the Hinis district of the Erzurum province.
+
+---
+
+[EVENT: TUR5441]
+Date: 2016-09-20
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: Reported on Tuesday, 20 September 2016, the Turkish Police Forces arrested 30 individuals suspecting of financing the Gulen Movement in the Diyarbakir province.
+
+---
+
+[EVENT: TUR5466]
+Date: 2016-09-24
+Country: Turkey | Location: Kucukcekmece
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: 1 PKK militant was injured when the explosive they wanted to use to attack a police station exploded in their hand in the Kucukcekmemce district of the Istanbul province on Saturday, 24 September 2016.
+
+---
+
+[EVENT: TUR5481]
+Date: 2016-09-26
+Country: Turkey | Location: Ercis
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Defusal: The Turkish Police Forces discovered a truck full of explosives that was left outside of the police station with the engine still on. The explosives were safely defused.
+
+---
+
+[EVENT: TUR5497]
+Date: 2016-09-30
+Country: Turkey | Location: Siirt
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: The Turkish Police Forces arrested 27 civilians during a province wide counter-terrorism operation in the Siirt province on Friday, 30 September 2016.

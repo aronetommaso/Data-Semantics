@@ -1,0 +1,3050 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Bahrain (ISO Code: 48)
+Temporal Period: Year 2023 - Quarter Q4
+Total Events in Chunk: 233 / 233
+==================================================
+
+[EVENT: BHR12252]
+Date: 2023-10-01
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 1 October 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR12253]
+Date: 2023-10-01
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 1 October 2023, women demonstrators, including February 14 Youth Coalition, held protest stands in Demistan (Northern) in solidarity with political prisoners and their right for an immediate release.
+
+---
+
+[EVENT: BHR12254]
+Date: 2023-10-02
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 2 October 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR12255]
+Date: 2023-10-03
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 3 October 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR12256]
+Date: 2023-10-03
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 3 October 2023, women demonstrators, including February 14 Youth Coalition, held protest stands in Demistan (Northern) in solidarity with political prisoners and their right for an immediate release.
+
+---
+
+[EVENT: BHR12257]
+Date: 2023-10-04
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 4 October 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR12258]
+Date: 2023-10-05
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 5 October 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR12259]
+Date: 2023-10-06
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 6 October 2023, protesters held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR12260]
+Date: 2023-10-06
+Country: Bahrain | Location: Sitrah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 6 October 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Sitrah (Capital) in solidarity with political prisoners and their right for an immediate release and to denounce the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12262]
+Date: 2023-10-06
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 6 October 2023, women demonstrators, including February 14 Youth Coalition, held protest stands in Demistan (Northern) in solidarity with political prisoners and their right for an immediate release.
+
+---
+
+[EVENT: BHR12261]
+Date: 2023-10-06
+Country: Bahrain | Location: Bu Quwa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 6 October 2023, protesters, including February 14 Youth Coalition, held a march in Bu Quwa (Northern) in solidarity with political prisoners and their right for an immediate release and their right for an immediate release and to denounce the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12263]
+Date: 2023-10-07
+Country: Bahrain | Location: Manama
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 7 October 2023, demonstrators, including February 14 Youth Coalition, held a large protest west of Manama (Capital) in solidarity with Palestinians and 'Al Aqsa Flood' Operation in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12264]
+Date: 2023-10-07
+Country: Bahrain | Location: Sitrah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 7 October 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Sitrah (Capital) in solidarity with political prisoners and to denounce the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12278]
+Date: 2023-10-07
+Country: Bahrain | Location: Abu Saybi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum; Bahrain Mirror; LuaLua TV [National]
+
+DESCRIPTION:
+On 7 October 2023, demonstrators held a large protest in Abu Saybi (Northern) in solidarity with Palestinians and 'Al Aqsa Flood' Operation in the context of the latest round of violence in Israel-Palestine and to denounce the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12265]
+Date: 2023-10-08
+Country: Bahrain | Location: Samahij
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 8 October 2023, demonstrators, including February 14 Youth Coalition, held a protest in Samahij (Muharraq) in solidarity with Palestinians and 'Al Aqsa Flood' Operation and against Israeli forces in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12279]
+Date: 2023-10-08
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 8 October 2023, demonstrators held a protest stand in Sanabis (Capital) in solidarity with political prisoners and their right for an immediate release.
+
+---
+
+[EVENT: BHR12266]
+Date: 2023-10-09
+Country: Bahrain | Location: Southern Sehla
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 9 October 2023, demonstrators, including February 14 Youth Coalition, held a protest in Southern Sehla (Capital) in solidarity with Palestinians and 'Al Aqsa Flood' Operation and against Israel forces' violations against Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12280]
+Date: 2023-10-09
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 9 October 2023, demonstrators held a protest stand in Sanabis (Capital) in solidarity with Palestinians and 'Al Aqsa Flood' Operation in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12267]
+Date: 2023-10-09
+Country: Bahrain | Location: Budaiya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 9 October 2023, demonstrators, including February 14 Youth Coalition, held a protest in Budaiya (Northern) in solidarity with Palestinians and 'Al Aqsa Flood' Operation in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12281]
+Date: 2023-10-10
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 10 October 2023, demonstrators held a protest stand in Sanabis (Capital) in solidarity with political prisoners and their right for an immediate release.
+
+---
+
+[EVENT: BHR12268]
+Date: 2023-10-11
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa [Other]
+
+DESCRIPTION:
+On 11 October 2023, demonstrators, including February 14 Youth Coalition, held a march in Sanabis (Capital) in solidarity with Palestinians and 'Al Aqsa Flood' Operation in the context of the latest round of violence in Israel-Palestine and with Bahraini political prisoner.
+
+---
+
+[EVENT: BHR12282]
+Date: 2023-10-11
+Country: Bahrain | Location: Manama
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Mirror [National]
+
+DESCRIPTION:
+On 11 October 2023, demonstrators held a protest in Manama (Capital) in solidarity with Palestinians and 'Al Aqsa Flood' Operation in the context of the latest round of violence in Israel-Palestine and with Bahraini political prisoner.
+
+---
+
+[EVENT: BHR12284]
+Date: 2023-10-12
+Country: Bahrain | Location: Nuwaidrat
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 12 October 2023, demonstrators held a large protest stand in Nuwaidrat (Southern) in solidarity with Palestinians and their 'resistance' in the context of the latest round of violence in Israel-Palestine and against the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12283]
+Date: 2023-10-12
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 12 October 2023, demonstrators held a protest stand in Sanabis (Capital) in solidarity with Palestinians in the context of the latest round of violence in Israel-Palestine and against the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12269]
+Date: 2023-10-12
+Country: Bahrain | Location: Karbabad
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 12 October 2023, demonstrators, including February 14 Youth Coalition, held a march in Karbabad (Capital) in solidarity with Palestinians and 'Al Aqsa Flood' Operation and to denounce 'Israel's crimes in Gaza' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12285]
+Date: 2023-10-13
+Country: Bahrain | Location: Nuwaidrat
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 13 October 2023, demonstrators held a protest stand in Nuwaidrat (Southern) in solidarity with Palestinians and their 'resistance' in the context of the latest round of violence in Israel-Palestine and against the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12274]
+Date: 2023-10-13
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 13 October 2023, demonstrators, including February 14 Youth Coalition, held a march in Demistan (Northern) in solidarity with Palestinians and their 'resistance' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12275]
+Date: 2023-10-13
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: LuaLua TV [National]
+
+DESCRIPTION:
+On 13 October 2023, Bahraini police forces arrested dozens of citizens after they participated in demonstrations over the past few days in solidarity with the Palestinian people (coded to capital Manama).
+
+---
+
+[EVENT: BHR12273]
+Date: 2023-10-13
+Country: Bahrain | Location: Al Qadam
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 13 October 2023, demonstrators, including February 14 Youth Coalition, held a large protest stand in Al Qadam (Northern) in solidarity with Palestinians in the context of the latest round of violence in Israel-Palestine and against the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12271]
+Date: 2023-10-13
+Country: Bahrain | Location: Manama - Mahooz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa [Other]
+
+DESCRIPTION:
+On 13 October 2023, demonstrators, including February 14 Youth Coalition, held a large protest stand in front of the Palestinian embassy by Manama - Mahooz (Capital) in solidarity with Palestinians and 'Al Aqsa Flood' Operation in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12270]
+Date: 2023-10-13
+Country: Bahrain | Location: Manama
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 13 October 2023, demonstrators, including February 14 Youth Coalition, held a large protest west of Manama (Capital) to denounce Israel's 'crimes' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12272]
+Date: 2023-10-13
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Mirror; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 13 October 2023, thousands of demonstrators, including February 14 Youth Coalition, held a large protest in Al Diraz (Northern) in solidarity with Palestinians and the Hamas 'Al Aqsa Flood' Operation and against Israel's 'crimes' in the context of the latest round of violence in Israel-Palestine. Demonstrators set fire to the Israeli and US flags as part of the protest.
+
+---
+
+[EVENT: BHR12276]
+Date: 2023-10-13
+Country: Bahrain | Location: Al Janabiyah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 13 October 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Al Janabiyah (Northern) in solidarity with 'Al Aqsa Flood' Operation in the context of the latest round of violence in Israel-Palestine and to denounce the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12277]
+Date: 2023-10-13
+Country: Bahrain | Location: Budaiya
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Mirror [Other-National]
+
+DESCRIPTION:
+On 13 October 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Budaiya (Northern) to denounce 'Israel 's crime' against Palestinians in Gaza.
+
+---
+
+[EVENT: BHR12316]
+Date: 2023-10-14
+Country: Bahrain | Location: Bu Quwa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 14 October 2023, demonstrators, including February 14 Youth Coalition, held a protest in front of Al Hasan Mosque in Bu Quwa (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12300]
+Date: 2023-10-14
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 14 October 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Hamas 'Al Aqsa Flood' Operation in the context of the latest round of violence in Israel-Palestine and political prisoners.
+
+---
+
+[EVENT: BHR12290]
+Date: 2023-10-14
+Country: Bahrain | Location: Az Zinj
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 14 October 2023, demonstrators, including February 14 Youth Coalition, held a protest in Az Zinj (Capital) to denounce Israel's 'crime' against Al Ahli Hospital in Gaza in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12286]
+Date: 2023-10-14
+Country: Bahrain | Location: Al Busaytin
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 14 October 2023, hundreds of demonstrators, including February 14 Youth Coalition, held a protest in Al Busaytin (Muharraq) to denounce Israel's 'crime' against Al Ahli Hospital in Gaza in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12310]
+Date: 2023-10-14
+Country: Bahrain | Location: Manama - Mahooz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: LuaLua TV [National]
+
+DESCRIPTION:
+On 14 October 2023, demonstrators held a protest near the Palestinian embassy by Manama - Mahooz (Capital) in solidarity with Palestinian in the context of the latest round of violence in Israel-Palestine and calling for the closing of the Israeli embassy.
+
+---
+
+[EVENT: BHR12311]
+Date: 2023-10-15
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 15 October 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and in solidarity with political prisoners and their right for an immediate release.
+
+---
+
+[EVENT: BHR12303]
+Date: 2023-10-15
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 15 October 2023, women demonstrators held a protest stand in Demistan (Northern) in solidarity with political prisoners and their right for an immediate release.
+
+---
+
+[EVENT: BHR12305]
+Date: 2023-10-16
+Country: Bahrain | Location: Manama
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: AhlulBayt News Agency [Regional]
+
+DESCRIPTION:
+On 16 October 2023, hundreds of demonstrators held a protest in Manama (Capital) to denounce Israel's 'crimes' in the context of the latest round of violence in Israel-Palestine and calling states with diplomatic ties with Israel to intervene to stop the 'aggression' in Gaza strip.
+
+---
+
+[EVENT: BHR12312]
+Date: 2023-10-16
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 16 October 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and in solidarity with political prisoners and their right for an immediate release.
+
+---
+
+[EVENT: BHR12313]
+Date: 2023-10-17
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 17 October 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and in solidarity with political prisoners and their right for an immediate release.
+
+---
+
+[EVENT: BHR12307]
+Date: 2023-10-18
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 18 October 2023, demonstrators held a protest-stand in Sanabis (Capital) in solidarity with the Palestinian people and calling for the closing of the Israeli embassy in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12306]
+Date: 2023-10-18
+Country: Bahrain | Location: Al Muqsha
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: LuaLua TV [National]
+
+DESCRIPTION:
+On 18 October 2023, demonstrators held a march in Al Muqsha (Capital) to denounce Israel's 'crime' against Al Ahli Hospital in Gaza in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12287]
+Date: 2023-10-18
+Country: Bahrain | Location: Sitrah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 18 October 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Sitrah (Capital) to denounce Israel's 'crime' against Al Ahli Hospital in Gaza in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12304]
+Date: 2023-10-18
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 18 October 2023, women demonstrators held a protest stand in Demistan (Northern) in solidarity with the Palestinian people and their 'resistance' and calling for the closing of the Israeli embassy in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12308]
+Date: 2023-10-18
+Country: Bahrain | Location: Nuwaidrat
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 18 October 2023, demonstrators held a march in Nuwaidrat (Southern) in solidarity with the Palestinian people and their 'resistance' and to denounce Israel's 'crime' against Al Ahli Hospital in Gaza in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12288]
+Date: 2023-10-18
+Country: Bahrain | Location: Bilad al Qadim
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum; Bahrain Center for Human Rights [Other-National]
+
+DESCRIPTION:
+On 18 October 2023, hundreds of demonstrators, including February 14 Youth Coalition, held a protest in Bilad al Qadim (Capital) in solidarity with the Palestinian people and their 'resistance' and to denounce Israel's 'crime' against Al Ahli Hospital in Gaza and calling for the closing of the Israeli embassy in the context of the latest round of violence in Israel-Palestine. Bahraini police forces intervened and fired tear gas canisters as protesters who were heading to the US embassy.
+
+---
+
+[EVENT: BHR12295]
+Date: 2023-10-18
+Country: Bahrain | Location: Manama - Ras Al Ruman
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 18 October 2023, demonstrators, including February 14 Youth Coalition, held a protest by the diplomatic quarter in Manama - Ras Al Ruman (Capital) including in front of the Israeli embassy in solidarity with the Palestinian people and to denounce Israel's 'crime' against Al Ahli Hospital in Gaza and calling for the closing of the Israeli embassy in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12291]
+Date: 2023-10-19
+Country: Bahrain | Location: Karbabad
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 19 October 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Karbabad (Capital) in solidarity with the Palestinian people and to denounce Israel's 'crimes' and calling for the closing of the Israeli embassy in the context of the latest round of violence in Israel-Palestine. Bahraini police forces intervened and fired tear gas canisters causing injuries among protesters.
+
+---
+
+[EVENT: BHR12309]
+Date: 2023-10-19
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 19 October 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with the Palestinian people and to denounce Israel's 'crime' against Al Ahli Hospital in Gaza in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12315]
+Date: 2023-10-19
+Country: Bahrain | Location: Nuwaidrat
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Al Wafa [Other]
+
+DESCRIPTION:
+On 19 October 2023, demonstrators held a protest in Nuwaidrat (Southern) in solidarity with the Palestinian people and their 'resistance' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12314]
+Date: 2023-10-19
+Country: Bahrain | Location: Shahrakkan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Al Wafa [Other]
+
+DESCRIPTION:
+On 19 October 2023, demonstrators held a march in Shahrakkan (Northern) in solidarity with Palestinian people and their 'resistance' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12301]
+Date: 2023-10-20
+Country: Bahrain | Location: Al Malikiyah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 20 October 2023, demonstrators, including February 14 Youth Coalition, held a protest in Al Malikiyah (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12302]
+Date: 2023-10-20
+Country: Bahrain | Location: Nuwaidrat
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa [Other]
+
+DESCRIPTION:
+On 20 October 2023, demonstrators, including February 14 Youth Coalition, held a march in Nuwaidrat (Southern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12294]
+Date: 2023-10-20
+Country: Bahrain | Location: Shahrakkan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 20 October 2023, demonstrators, including February 14 Youth Coalition, held a march in Shahrakkan (Northern) to denounce Israel's 'crimes' and calling for the closing of the Israeli embassy in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12289]
+Date: 2023-10-20
+Country: Bahrain | Location: Al Akr
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa [Other]
+
+DESCRIPTION:
+On 20 October 2023, demonstrators, including February 14 Youth Coalition, held a large march in Al Akr (Capital) in solidarity with the Palestinian people and against Israel's 'crimes' and calling for the closing of the Israeli embassy in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12297]
+Date: 2023-10-20
+Country: Bahrain | Location: Aali
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 20 October 2023, demonstrators, including February 14 Youth Coalition, held a march in Aali (Northern) in solidarity with the Palestinian people and against Israel's 'crimes' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12317]
+Date: 2023-10-20
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 20 October 2023, thousands of demonstrators, including February 14 Youth Coalition, held a march in Al Diraz (Northern) in solidarity with the Palestinian people and to denounce Israel's 'crimes' and calling for the closing of the Israeli embassy in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12299]
+Date: 2023-10-20
+Country: Bahrain | Location: Karzakkan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 20 October 2023, demonstrators, including February 14 Youth Coalition, held a march in Karzakkan (Northern) in solidarity with the Palestinian people and the Hamas the Hamas 'Al Aqsa Flood' Operation and against Israel's 'crimes' and calling for the closing of the Israeli embassy in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12298]
+Date: 2023-10-20
+Country: Bahrain | Location: Bani Jamrah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 20 October 2023, demonstrators, including February 14 Youth Coalition, held a march in Bani Jamrah (Northern) in solidarity with the Palestinian people and the Hamas 'Al Aqsa Flood' Operation and calling for the closing of the Israeli embassy in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12296]
+Date: 2023-10-20
+Country: Bahrain | Location: Al Daih
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa [Other]
+
+DESCRIPTION:
+On 20 October 2023, demonstrators, including February 14 Youth Coalition, held a march in Al Daih (Capital) in solidarity with the Palestinian people and against Israel's 'crimes' and calling for the closing of the Israeli embassy in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12292]
+Date: 2023-10-20
+Country: Bahrain | Location: Manama
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa [Other]
+
+DESCRIPTION:
+On 20 October 2023, demonstrators, including February 14 Youth Coalition, held a protest stand in Manama (Capital) to denounce Israel's 'crimes' in the context of the latest round of violence in Israel-Palestine and calling for the closing of the Israeli embassy.
+
+---
+
+[EVENT: BHR12293]
+Date: 2023-10-20
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 20 October 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) to denounce Israel's 'crime' against Al Ahli Hospital in Gaza in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12318]
+Date: 2023-10-21
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 21 October 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with Palestinians in the context of the latest round of violence in Israel-Palestine and in solidarity with political prisoners.
+
+---
+
+[EVENT: BHR12320]
+Date: 2023-10-21
+Country: Bahrain | Location: Salmabad
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 21 October 2023, demonstrators, including February 14 Youth Coalition, held a march in Salmabad (Northern) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation in the context of the latest round of violence in Israel-Palestine and to denounce the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12319]
+Date: 2023-10-21
+Country: Bahrain | Location: Al Malikiyah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 21 October 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Al Malikiyah (Northern) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation and against Israel's 'crimes' in the context of the latest round of violence in Israel-Palestine and to denounce the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12341]
+Date: 2023-10-22
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 22 October 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and calling for the release of political prisoners.
+
+---
+
+[EVENT: BHR12322]
+Date: 2023-10-22
+Country: Bahrain | Location: Salmabad
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 22 October 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Salmabad (Northern) to denounce the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12325]
+Date: 2023-10-23
+Country: Bahrain | Location: Salmabad
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 23 October 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Salmabad (Northern) to denounce the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12324]
+Date: 2023-10-23
+Country: Bahrain | Location: Karranah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 23 October 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Karranah (Northern) to denounce the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12323]
+Date: 2023-10-23
+Country: Bahrain | Location: Sanabis
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 23 October 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Sanabis (Capital) to denounce the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12321]
+Date: 2023-10-24
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 24 October 2023, demonstrators, including February 14 Youth Coalition, held a protest stand in Sanabis (Capital) in solidarity with the Palestinian people and the Hamas 'Al Aqsa Flood' Operation in the context of the latest round of violence in Israel-Palestine and calling for the release of political prisoners.
+
+---
+
+[EVENT: BHR12326]
+Date: 2023-10-24
+Country: Bahrain | Location: Al Dair
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 24 October 2023, dozens of demonstrators, including February 14 Youth Coalition, held a protest stand in Al Dair (Muharraq) in solidarity with the Palestinian people and the Hamas 'Al Aqsa Flood' Operation in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12327]
+Date: 2023-10-24
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 24 October 2023, demonstrators, including February 14 Youth Coalition, held a large protest stand in Al Diraz (Northern) in solidarity with the Palestinian people and the Hamas 'Al Aqsa Flood' Operation in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12329]
+Date: 2023-10-25
+Country: Bahrain | Location: Bahrain International Airport
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 25 October 2023, demonstrators, including February 14 Youth Coalition, threw stones at Bahraini forces behind Bahrain International Airport (Muharraq) as they demonstrated in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12331]
+Date: 2023-10-26
+Country: Bahrain | Location: Budaiya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 26 October 2023, demonstrators, including February 14 Youth Coalition, held a march in Budaiya (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and calling for the closing of the Israeli embassy and the departure of the Israeli ambassador.
+
+---
+
+[EVENT: BHR12332]
+Date: 2023-10-26
+Country: Bahrain | Location: Nuwaidrat
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa [Other]
+
+DESCRIPTION:
+On 26 October 2023, demonstrators, including February 14 Youth Coalition, held a march in Nuwaidrat (Southern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12330]
+Date: 2023-10-26
+Country: Bahrain | Location: Sanabis
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 26 October 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Sanabis (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. Bahraini forces intervened and fired tear gas at demonstrators.
+
+---
+
+[EVENT: BHR12328]
+Date: 2023-10-26
+Country: Bahrain | Location: Sitrah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 26 October 2023, demonstrators, including February 14 Youth Coalition, held a march in Sitrah (Capital) in solidarity with the Palestinian people and the Hamas 'Al Aqsa Flood' Operation and to denounce Israel's crimes in the context of the latest round of violence in Israel-Palestine and the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12340]
+Date: 2023-10-27
+Country: Bahrain | Location: Karranah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 27 October 2023, demonstrators, including February 14 Youth Coalition, held a large march in Karranah (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and calling for the closing of the Israeli embassy and the departure of the Israeli ambassador.
+
+---
+
+[EVENT: BHR12364]
+Date: 2023-10-27
+Country: Bahrain | Location: Sar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 27 October 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sar (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12363]
+Date: 2023-10-27
+Country: Bahrain | Location: Al Malikiyah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 27 October 2023, demonstrators, including February 14 Youth Coalition, held a protest in Al Malikiyah (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12344]
+Date: 2023-10-27
+Country: Bahrain | Location: Madinat Hamad
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Al Wafa [Other]
+
+DESCRIPTION:
+On 27 October 2023, demonstrators held a protest in Madinat Hamad (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12333]
+Date: 2023-10-27
+Country: Bahrain | Location: Al Daih
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 27 October 2023, demonstrators, including February 14 Youth Coalition, held a large march in Al Daih (Capital) in solidarity with the Palestinian people and against Israel's 'crimes' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12334]
+Date: 2023-10-27
+Country: Bahrain | Location: Al Bidah
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 27 October 2023, demonstrators, including February 14 Youth Coalition, held a protest near Bahrain Mall in Al Bidah (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. Bahraini forces intervened and fired tear gas at protesters.
+
+---
+
+[EVENT: BHR12336]
+Date: 2023-10-27
+Country: Bahrain | Location: Manama
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 27 October 2023, demonstrators, including February 14 Youth Coalition, held a large march west of Manama (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and calling for the closing of the Israeli embassy and the departure of the Israeli ambassador.
+
+---
+
+[EVENT: BHR12342]
+Date: 2023-10-27
+Country: Bahrain | Location: Manama - Adliya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 27 October 2023, demonstrators held a large protest in front of the headquarters of the Bahraini Society Against Normalization of Ties with the Zionist Enemy in Manama - Adliya (Capital) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation and against Israel's 'crimes' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12338]
+Date: 2023-10-27
+Country: Bahrain | Location: Budaiya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 27 October 2023, demonstrators, including February 14 Youth Coalition, held a march in Budaiya (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12335]
+Date: 2023-10-27
+Country: Bahrain | Location: Al Maamir
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa [Other]
+
+DESCRIPTION:
+On 27 October 2023, demonstrators, including February 14 Youth Coalition, held a march in Al Maamir (Capital) in solidarity with the Palestinian people and against Israel's 'crimes' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12339]
+Date: 2023-10-27
+Country: Bahrain | Location: Sitrah
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 27 October 2023, demonstrators, including February 14 Youth Coalition, held a march in Sitrah (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. Bahrain forces intervened and arrested dozens of protesters.
+
+---
+
+[EVENT: BHR12343]
+Date: 2023-10-27
+Country: Bahrain | Location: Aali
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 27 October 2023, demonstrators held a protest in Aali (Northern) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation and against Israel's 'crimes' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12337]
+Date: 2023-10-27
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 27 October 2023, demonstrators, including February 14 Youth Coalition, held a large march in Al Diraz (Northern) in solidarity with the Palestinian people and the Hamas 'Al Aqsa Flood' Operation and against Israel's 'crimes' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12346]
+Date: 2023-10-28
+Country: Bahrain | Location: Sar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 28 October 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sar (Northern) in solidarity with the Hamas 'Al Aqsa flood' operation in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12358]
+Date: 2023-10-28
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 28 October 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with the Palestinian people and to denounce Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine and calling for the release of political prisoners.
+
+---
+
+[EVENT: BHR12347]
+Date: 2023-10-28
+Country: Bahrain | Location: Sitrah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 28 October 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Sitrah (Capital) in solidarity with the Palestinian people and to denounce Israeli 'crimes' against the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12345]
+Date: 2023-10-28
+Country: Bahrain | Location: Al Malikiyah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 28 October 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Al Malikiyah (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also denounced the normalization of diplomatic ties with Israel calling for the closing of the Israeli embassy.
+
+---
+
+[EVENT: BHR12348]
+Date: 2023-10-29
+Country: Bahrain | Location: Barbar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 29 October 2023, demonstrators, including February 14 Youth Coalition, held a protest in Barbar (Northern) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation in the context of the latest round of violence in Israel-Palestine. They also called for the closing of the Israeli embassy and the departure of the Israeli ambassador.
+
+---
+
+[EVENT: BHR12349]
+Date: 2023-10-29
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 29 October 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12350]
+Date: 2023-10-30
+Country: Bahrain | Location: Karzakkan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Around 30 October 2023 (as reported), demonstrators, including February 14 Youth Coalition, held a protest in Karzakkan (Northern) in solidarity with the Palestinian people and to denounce Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12359]
+Date: 2023-10-30
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 30 October 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and calling for the release of political prisoners.
+
+---
+
+[EVENT: BHR12360]
+Date: 2023-10-31
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 31 October 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and calling for the release of political prisoners.
+
+---
+
+[EVENT: BHR12361]
+Date: 2023-11-01
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 1 November 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and calling for the release of political prisoners.
+
+---
+
+[EVENT: BHR12362]
+Date: 2023-11-02
+Country: Bahrain | Location: Karbabad
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: Al Wafa; Bahrain Alyoum; Euro-Med Human Rights Monitor; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 2 November 2023, demonstrators held a protest in Karbabad (Capital) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation and to denounce Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine. They also called for the closure of the Israeli embassy. Bahraini police forces intervened to 'violently' disperse the protest and detained demonstrators.
+
+---
+
+[EVENT: BHR12351]
+Date: 2023-11-02
+Country: Bahrain | Location: Sanabis
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum; Euro-Med Human Rights Monitor [Other-National]
+
+DESCRIPTION:
+On 2 November 2023, dozens of demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people and to denounce Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine. They called for the closure of the Israeli embassy and the departure of the Israeli ambassador. Bahraini police forces intervened to 'violently' disperse the protest and detained demonstrators.
+
+---
+
+[EVENT: BHR12365]
+Date: 2023-11-02
+Country: Bahrain | Location: Budaiya
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 2 November 2023, demonstrators, including February 14 Youth Coalition, held a march in Budaiya (Northern) in solidarity with the Palestinian people and calling for the closure of the Israeli embassy in the context of the latest round of violence in Israel-Palestine. The demonstrators clashed with police forces at the end of the march after the latter intervened with tear gas and conducted a number of arrests.
+
+---
+
+[EVENT: BHR12367]
+Date: 2023-11-03
+Country: Bahrain | Location: Sitrah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 3 November 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Sitrah (Capital) calling for the closure of the Israeli embassy and the departure of the Israeli ambassador.
+
+---
+
+[EVENT: BHR12366]
+Date: 2023-11-03
+Country: Bahrain | Location: Karzakkan
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 3 November 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Karzakkan (Northern) to denounce the normalization of diplomatic ties with Israel and calling for the closure of the Israeli embassy in Bahrain.
+
+---
+
+[EVENT: BHR12352]
+Date: 2023-11-03
+Country: Bahrain | Location: Al Akr
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 3 November 2023, demonstrators, including February 14 Youth Coalition, held a march in Al Akr (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for the closure of the Israeli embassy.
+
+---
+
+[EVENT: BHR12353]
+Date: 2023-11-03
+Country: Bahrain | Location: Al Dair
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 3 November 2023, demonstrators, including February 14 Youth Coalition, held a march in Al Dair (Muharraq) in solidarity with the Palestinian people and against Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine. They also called for the closure of the Israeli embassy.
+
+---
+
+[EVENT: BHR12354]
+Date: 2023-11-03
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 3 November 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Al Diraz (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for the closure of the Israeli embassy.
+
+---
+
+[EVENT: BHR12357]
+Date: 2023-11-03
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 3 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people and against Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine. They also called for the closure of the Israeli embassy.
+
+---
+
+[EVENT: BHR12356]
+Date: 2023-11-03
+Country: Bahrain | Location: Karzakkan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 3 November 2023, demonstrators, including February 14 Youth Coalition, held a large march in Karzakkan (Northern) in solidarity with the Palestinian people and against Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine. They also called for the closure of the Israeli embassy.
+
+---
+
+[EVENT: BHR12355]
+Date: 2023-11-03
+Country: Bahrain | Location: Bani Jamrah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 3 November 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Bani Jamrah (Northern) in solidarity with the Palestinian people and against Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine. They also called for the closure of the Israeli embassy.
+
+---
+
+[EVENT: BHR12368]
+Date: 2023-11-04
+Country: Bahrain | Location: Manama - Adliya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 4 November 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Manama - Adliya (Capital) calling for an end to the normalization of diplomatic ties with Israel. Hundreds also held a protest stand in front of the HQs of the 'Bahraini Society for Resisting Normalization' in the area in solidarity with Palestinian people and to denounce Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12369]
+Date: 2023-11-04
+Country: Bahrain | Location: Bani Jamrah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: LuaLua TV [National]
+
+DESCRIPTION:
+On 4 November 2023, demonstrators held a large protest in Bani Jamrah (Northern) to denounce the normalization of diplomatic ties with Israel and calling for the departure of the Israeli ambassador.
+
+---
+
+[EVENT: BHR12371]
+Date: 2023-11-05
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 5 November 2023, women demonstrators held a protest in Demistan (Northern) in solidarity with political prisoners and calling for their immediate release.
+
+---
+
+[EVENT: BHR12370]
+Date: 2023-11-05
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 5 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12372]
+Date: 2023-11-06
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 6 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation and to denounce the Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12373]
+Date: 2023-11-06
+Country: Bahrain | Location: Karzakkan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+Around 6 November 2023, demonstrators held a large protest in Karzakkan (Northern) to denounce the Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine and calling for the departure of the Israeli ambassador.
+
+---
+
+[EVENT: BHR12374]
+Date: 2023-11-07
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 7 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation and to denounce the Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12375]
+Date: 2023-11-08
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 8 November 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and calling for the release for the political prisoners.
+
+---
+
+[EVENT: BHR12376]
+Date: 2023-11-08
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 8 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Al Diraz (Northern) in solidarity with political prisoner Mariam al Asfur.
+
+---
+
+[EVENT: BHR12377]
+Date: 2023-11-09
+Country: Bahrain | Location: Bilad al Qadim
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 9 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Bilad al Qadim (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel and the closure of the Israeli embassy. Bahraini police forces fired tear gas canisters at protesters.
+
+---
+
+[EVENT: BHR12378]
+Date: 2023-11-09
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 9 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel and the closure of the Israeli embassy.
+
+---
+
+[EVENT: BHR12381]
+Date: 2023-11-10
+Country: Bahrain | Location: Manama - Adliya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 10 November 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Manama - Adliya (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12380]
+Date: 2023-11-10
+Country: Bahrain | Location: Manama
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 10 November 2023, demonstrators, including February 14 Youth Coalition, held a large protest west of Manama (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12385]
+Date: 2023-11-10
+Country: Bahrain | Location: Abu Saybi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 10 November 2023, demonstrators held a protest in Abu Saybi (Northern) in solidarity with the Hamas 'Al Aqsa flood' operation in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12386]
+Date: 2023-11-10
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 10 November 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Al Diraz (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12384]
+Date: 2023-11-10
+Country: Bahrain | Location: Aali
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa [Other]
+
+DESCRIPTION:
+On 10 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Aali (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12383]
+Date: 2023-11-10
+Country: Bahrain | Location: Al Dair
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa [Other]
+
+DESCRIPTION:
+On 10 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Al Dair (Muharraq) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel. Police forces intervened to disperse the protest. (The way of intervention was not reported).
+
+---
+
+[EVENT: BHR12382]
+Date: 2023-11-10
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 10 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12379]
+Date: 2023-11-10
+Country: Bahrain | Location: Al Akr
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa [Other]
+
+DESCRIPTION:
+On 10 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Al Akr (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. Bahraini police forces intervened to disperse the protest and detained 4 protesters.
+
+---
+
+[EVENT: BHR12388]
+Date: 2023-11-10
+Country: Bahrain | Location: Budaiya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 10 November 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Budaiya (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12387]
+Date: 2023-11-10
+Country: Bahrain | Location: Al Malikiyah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 10 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Al Malikiyah (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12389]
+Date: 2023-11-11
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 11 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12390]
+Date: 2023-11-11
+Country: Bahrain | Location: Al Dair
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 11 November 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires behind the Bahrain International Airport in Al Dair (Muharraq) in solidarity with Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12391]
+Date: 2023-11-11
+Country: Bahrain | Location: Ash Shakhurah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: LuaLua TV [National]
+
+DESCRIPTION:
+On 11 November 2023, demonstrators held a protest in Ash Shakhurah (Northern) in solidarity with Palestinian people in the context of the latest round of violence in Israel-Palestinian and calling for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12392]
+Date: 2023-11-11
+Country: Bahrain | Location: Maqabah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa [Other]
+
+DESCRIPTION:
+On 11 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Maqabah (Northern) in solidarity with the Palestinian people and to denounce the Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine and to denounce the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12393]
+Date: 2023-11-12
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 12 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12394]
+Date: 2023-11-13
+Country: Bahrain | Location: Al Akr
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 13 November 2023, women demonstrators, including February 14 Youth Coalition, held a protest in Al Akr (Capital) to denounce the arrest of the wife of a political detainee.
+
+---
+
+[EVENT: BHR12395]
+Date: 2023-11-13
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 13 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with Bahraini political prisoners and the Palestinian people and the Hamas 'Al Aqsa flood' operation in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12397]
+Date: 2023-11-14
+Country: Bahrain | Location: Sitrah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 14 November 2023, demonstrators, including February 14 Youth Coalition, threw projectiles at police forces in Sitrah (Capital) as they denounced the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12396]
+Date: 2023-11-14
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 14 November 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and in solidarity with political prisoners.
+
+---
+
+[EVENT: BHR12398]
+Date: 2023-11-15
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 15 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12400]
+Date: 2023-11-15
+Country: Bahrain | Location: Karranah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 15 November 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Karranah (Northern) calling for the closure of the Israeli embassy and the departure of the Israeli ambassador.
+
+---
+
+[EVENT: BHR12399]
+Date: 2023-11-15
+Country: Bahrain | Location: Abu Saybi
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 15 November 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Abu Saybi (Northern) calling for the closure of the Israeli embassy and the departure of the Israeli ambassador.
+
+---
+
+[EVENT: BHR12401]
+Date: 2023-11-16
+Country: Bahrain | Location: Sanabis
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa [Other]
+
+DESCRIPTION:
+On 16 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people and to denounce Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine and to call for the normalization of diplomatic ties with Israel. Bahraini police forces intervened and fired tear gas canisters to disperse protesters.
+
+---
+
+[EVENT: BHR12404]
+Date: 2023-11-17
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 17 November 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with the Palestinian people and to denounce Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12403]
+Date: 2023-11-17
+Country: Bahrain | Location: Manama - Adliya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: ADHRB; Al Wafa; Bahrain Mirror [Other-National]
+
+DESCRIPTION:
+On 17 November 2023, hundreds of demonstrators held a large protest-stand in front of the Bahraini Society Against Normalization of Ties with the Zionist Enemy in Manama - Adliya (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12402]
+Date: 2023-11-17
+Country: Bahrain | Location: Bilad al Qadim
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 17 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Bilad al Qadim (Capital) in solidarity with the Palestinian people and to denounce the Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine. Bahraini police forces intervened to disperse the protest.
+
+---
+
+[EVENT: BHR12408]
+Date: 2023-11-17
+Country: Bahrain | Location: Karzakkan
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 17 November 2023, demonstrators held a protest in Karzakkan (Northern) in solidarity with the Palestinian people and to denounce the Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine. Bahraini police forces intervened to disperse the protest and detained 4 protesters.
+
+---
+
+[EVENT: BHR12409]
+Date: 2023-11-17
+Country: Bahrain | Location: Maqabah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa [Other]
+
+DESCRIPTION:
+On 17 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Maqabah (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and called for an end to the normalization of diplomatic ties with Israel and the ousting of the Israeli ambassador.
+
+---
+
+[EVENT: BHR12405]
+Date: 2023-11-17
+Country: Bahrain | Location: Aali
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Actor2: Police Forces of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 17 November 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Aali (Northern) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation in the context of the latest round of violence in Israel-Palestine and calling for the closure of the Israeli embassy. Bahraini forces intervened in the protest although the nature of the intervention was not reported.
+
+---
+
+[EVENT: BHR12406]
+Date: 2023-11-17
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 17 November 2023, more than 5,000 demonstrators, including February 14 Youth Coalition, held a large protest in Al Diraz (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and to denounce the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12407]
+Date: 2023-11-17
+Country: Bahrain | Location: Barbar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa [Other]
+
+DESCRIPTION:
+On 17 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Barbar (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and calling for ending the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12412]
+Date: 2023-11-18
+Country: Bahrain | Location: Al Muharraq
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 18 November 2023, thousands of demonstrators, including February 14 Youth Coalition, held a large protest in Al Muharraq (Muharraq) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and called for an end to the normalization of diplomatic ties with Israel and the ousting of the Israeli ambassador.
+
+---
+
+[EVENT: BHR12410]
+Date: 2023-11-18
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 18 November 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Sanabis (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and called for an end to the normalization of diplomatic ties with Israel and the ousting of the Israeli ambassador.
+
+---
+
+[EVENT: BHR12411]
+Date: 2023-11-18
+Country: Bahrain | Location: Sitrah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 18 November 2023, demonstrators held a protest in Sitrah (Capital) in solidarity with the Palestinian people and to denounce the Israeli 'aggression' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12413]
+Date: 2023-11-20
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 20 November 2023, demonstrators, including February 14 Youth Coalition, held a protest stand in Sanabis (Capital) in solidarity with the Hamas 'Al Aqsa flood' operation in the context of the latest round of violence in Israel-Palestine and called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12414]
+Date: 2023-11-21
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 21 November 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with political prisoners and the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12415]
+Date: 2023-11-22
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: ADHRB; Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 22 November 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with political prisoners and the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12416]
+Date: 2023-11-22
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB [Other-National]
+
+DESCRIPTION:
+On 22 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Al Diraz (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and called for an end to the normalization of diplomatic ties with Israel and the ousting of the Israeli ambassador.
+
+---
+
+[EVENT: BHR12418]
+Date: 2023-11-23
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 23 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people and to denounce Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine and called for an end to the normalization of diplomatic ties with Israel and the ousting of the Israeli ambassador.
+
+---
+
+[EVENT: BHR12417]
+Date: 2023-11-23
+Country: Bahrain | Location: Al Daih
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Al Wafa [Other]
+
+DESCRIPTION:
+On 23 November 2023, demonstrators held a protest in Al Daih (Capital) in solidarity with the Palestinian people and the Palestinian 'resistance' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12419]
+Date: 2023-11-23
+Country: Bahrain | Location: Al Markh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 23 November 2023, demonstrators held a protest in Al Markh (Northern) in solidarity with the Palestinian people and denounce Israeli 'aggression' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12423]
+Date: 2023-11-24
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 24 November 2023, demonstrators held a protest stand in Demistan (Northern) in solidarity with the political prisoners and Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12421]
+Date: 2023-11-24
+Country: Bahrain | Location: Tubli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 24 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Tubli (Capital) in solidarity with the Palestinian people and to denounce Israeli 'aggression' in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12424]
+Date: 2023-11-24
+Country: Bahrain | Location: Salmabad
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 24 November 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Salmabad (Northern) in solidarity with the Hamas 'Al Aqsa flood' operation and to denounce Israeli 'aggression' in the context of the latest round of violence in Israel-Palestine and called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12422]
+Date: 2023-11-24
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 24 November 2023, hundreds of demonstrators, including February 14 Youth Coalition, held a large protest in Al Diraz (Northern) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation in the context of the latest round of violence in Israel-Palestine and called for an end to the normalization of diplomatic ties with Israel and the ousting of the Israeli ambassador.
+
+---
+
+[EVENT: BHR12420]
+Date: 2023-11-24
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Al Wafa [Other]
+
+DESCRIPTION:
+On 24 November 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with the Palestinian people and the Palestinian 'resistance' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12429]
+Date: 2023-11-28
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 28 November 2023, women demonstrators, including February 14 Youth Coalition, held a protest in Demistan (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also demonstrated in solidarity with political prisoners and called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12428]
+Date: 2023-11-28
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 28 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12430]
+Date: 2023-11-29
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 29 November 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12431]
+Date: 2023-11-30
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 30 November 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12433]
+Date: 2023-12-01
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 1 December 2023, women demonstrators, including February 14 Youth Coalition, held a protest in Demistan (Northern) in solidarity with Palestinian people in the context of the latest round of violence in Israel-Palestine. They also demonstrated in solidarity with political prisoners and called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12425]
+Date: 2023-12-01
+Country: Bahrain | Location: Manama - Adliya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Al Wafa [Other-National]
+
+DESCRIPTION:
+On 1 December 2023, demonstrators, including February 14 Youth Coalition, held a large protest stand in Manama - Adliya (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12426]
+Date: 2023-12-01
+Country: Bahrain | Location: Southern Sehla
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 1 December 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Southern Sehla (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12432]
+Date: 2023-12-01
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 1 December 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12434]
+Date: 2023-12-01
+Country: Bahrain | Location: Riffa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 1 December 2023, the family of prominent political figure Hasan Mushaima held a protest stand in front of the Kano Health Center in Riffa (Southern) after he announced a hunger strike calling for the provision of adequate treatment for him.
+
+---
+
+[EVENT: BHR12427]
+Date: 2023-12-01
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 1 December 2023, demonstrators, including February 14 Youth Coalition, held a large protest stand in Al Diraz (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12435]
+Date: 2023-12-02
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 2 December 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation in the context of the latest round of violence in Israel-Palestine. They also called for the release of political prisoners.
+
+---
+
+[EVENT: BHR12436]
+Date: 2023-12-04
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 4 December 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation and to denounce Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12437]
+Date: 2023-12-05
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 5 December 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation and to denounce Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12441]
+Date: 2023-12-06
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 6 December 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation and to denounce Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12442]
+Date: 2023-12-08
+Country: Bahrain | Location: Manama
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: ADHRB [National]
+
+DESCRIPTION:
+On 8 December 2023, demonstrators held a protest in Manama (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel and the ousting of the Israeli ambassador.
+
+---
+
+[EVENT: BHR12440]
+Date: 2023-12-08
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 8 December 2023, demonstrators, including February 14 Youth Coalition, held a protest inside Al Imam al-Sadiq Mosque in Al Diraz (Northern) against the 'Israeli and US aggression' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12439]
+Date: 2023-12-08
+Country: Bahrain | Location: Samahij
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 8 December 2023, demonstrators, including February 14 Youth Coalition, held a protest in Samahij (Muharraq) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12438]
+Date: 2023-12-08
+Country: Bahrain | Location: Salmabad
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 8 December 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Salmabad (Northern) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation and to denounce Israeli 'crimes' in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12474]
+Date: 2023-12-09
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 9 December 2023, demonstrators held a protest stand in Sanabis (Capital) in solidarity with the Palestinian people and against the Israeli 'crime' in the context of the latest round of violence in Israel-Palestine. They also called for the release of political prisoners.
+
+---
+
+[EVENT: BHR12443]
+Date: 2023-12-09
+Country: Bahrain | Location: Al Muharraq
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 9 December 2023, demonstrators, including February 14 Youth Coalition, held a large protest stand in Al Muharraq (Muharraq) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12444]
+Date: 2023-12-10
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 10 December 2023, demonstrators, including February 14 Youth Coalition, held a protest stand in Sanabis (Capital) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12445]
+Date: 2023-12-11
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 11 December 2023, demonstrators, including February 14 Youth Coalition, held a protest stand in Sanabis (Capital) in solidarity with political prisoners and their right for an immediate release. They also protested in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation and against the Israeli 'crime' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12475]
+Date: 2023-12-11
+Country: Bahrain | Location: Al Muqsha
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 11 December 2023, demonstrators held a protest in Al Muqsha (Capital) in solidarity with political prisoners and the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12446]
+Date: 2023-12-12
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 12 December 2023, demonstrators, including February 14 Youth Coalition, held a protest stand in Sanabis (Capital) in solidarity with the Palestinian people and the Hamas 'Al Aqsa flood' operation and against the Israeli 'crime' in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12447]
+Date: 2023-12-12
+Country: Bahrain | Location: Al Markh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 12 December 2023, demonstrators, including February 14 Youth Coalition, held a protest in Al Markh (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12468]
+Date: 2023-12-13
+Country: Bahrain | Location: Abu Saybi
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 13 December 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Abu Saybi and Ash Shakhurah (Northern) in preparation for 'Martyrs Day' on 17 December.
+
+---
+
+[EVENT: BHR12469]
+Date: 2023-12-13
+Country: Bahrain | Location: Ash Shakhurah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 13 December 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Abu Saybi and Ash Shakhurah (Northern) in preparation for 'Martyrs Day' on 17 December.
+
+---
+
+[EVENT: BHR12448]
+Date: 2023-12-14
+Country: Bahrain | Location: Al Dair
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 14 December 2023, dozens of demonstrators, including February 14 Youth Coalition, held a large protest in Al Dair (Muharraq) in preparation for 'Martyrs Day' on 17 December calling for the revenge for the martyrs and the overthrow of the Bahraini regime.
+
+---
+
+[EVENT: BHR12454]
+Date: 2023-12-15
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 15 December 2023, hundreds of demonstrators, including February 14 Youth Coalition, held a protest in Al Diraz (Northern) in preparation for 'Martyrs Day' on 17 December and in solidarity with the Palestinian people and against the Israeli 'crime' in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12453]
+Date: 2023-12-15
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 15 December 2023, hundreds of demonstrators, including February 14 Youth Coalition, held a protest in Al Diraz (Northern) in preparation for 'Martyrs Day' on 17 December and in solidarity with the Palestinian people and against the Israeli 'crime' in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12450]
+Date: 2023-12-15
+Country: Bahrain | Location: Manama - Adliya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 15 December 2023, demonstrators, including February 14 Youth Coalition, held a large protest stand in Manama - Adliya (Capital) in solidarity with the Palestinian people and against the Israeli 'crime' in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12451]
+Date: 2023-12-15
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 15 December 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Sanabis (Capital) in preparation for 'Martyrs Day' on 17 December and in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12452]
+Date: 2023-12-15
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 15 December 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Sanabis (Capital) in preparation for 'Martyrs Day' on 17 December and in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12449]
+Date: 2023-12-15
+Country: Bahrain | Location: Manama - Adliya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 15 December 2023, demonstrators, including February 14 Youth Coalition, held a large protest stand in Manama - Adliya (Capital) in solidarity with the Palestinian people and against the Israeli 'crime' in the context of the latest round of violence in Israel-Palestine. They also called for an end to the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12455]
+Date: 2023-12-16
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 16 December 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) in solidarity with 'Bahraini martyrs' in preparation for 'Martyrs Day' on 17 December.
+
+---
+
+[EVENT: BHR12471]
+Date: 2023-12-17
+Country: Bahrain | Location: Maqabah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 17 December 2023, demonstrators, including February 14 Youth Coalition, blocked roads with burning tires in Maqabah (Northern) on the occasion of the 'Martyrs Day' in solidarity with 'Bahraini martyrs'.
+
+---
+
+[EVENT: BHR12458]
+Date: 2023-12-17
+Country: Bahrain | Location: Ash Shakhurah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 17 December 2023, demonstrators, including February 14 Youth Coalition, held a large protest from Abu Saybi to Ash Shakhurah (Northern) on the occasion of the 'Martyrs Day' in solidarity with 'Bahraini martyrs' and Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12456]
+Date: 2023-12-17
+Country: Bahrain | Location: Mahazzah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 17 December 2023, demonstrators, including February 14 Youth Coalition, held an anti-regime protest in Mahazzah (Capital) on the occasion of the 'Martyrs Day'.
+
+---
+
+[EVENT: BHR12457]
+Date: 2023-12-17
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 17 December 2023, demonstrators, including February 14 Youth Coalition, held an anti-regime protest in Sanabis (Capital) on the occasion of the 'Martyrs Day'.
+
+---
+
+[EVENT: BHR12476]
+Date: 2023-12-18
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum; LuaLua TV [National]
+
+DESCRIPTION:
+On 18 December 2023, demonstrators held a large protest in Al Diraz (Northern) on the occasion of the 'Martyrs Day' and in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12459]
+Date: 2023-12-21
+Country: Bahrain | Location: Manama
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Bahrain Alyoum; Bahrain Mirror; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 21 December 2023, demonstrators, including February 14 Youth Coalition, held a large protest in the commercial center in Manama (Capital) in solidarity with Palestinian people in the context of the latest round of violence in Israel-Palestine and to denounce the Bahraini presence in the coalition against Houthi activities in the Red Sea.
+
+---
+
+[EVENT: BHR12460]
+Date: 2023-12-21
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 21 December 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) to denounce the Bahraini presence in the coalition against Houthi activities in the Red Sea.
+
+---
+
+[EVENT: BHR12477]
+Date: 2023-12-22
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 22 December 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12461]
+Date: 2023-12-22
+Country: Bahrain | Location: Manama - Adliya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Al Wafa; Bahrain Alyoum; Bahrain Mirror; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 22 December 2023, hundreds of demonstrators, including February 14 Youth Coalition, held a large protest in front of 'The Bahraini Society Against Normalization with Zionist Enemy' in Manama - Adliya (Capital) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and to denounce the Bahraini presence in the coalition against Houthi activities in the Red Sea.
+
+---
+
+[EVENT: BHR12472]
+Date: 2023-12-22
+Country: Bahrain | Location: Nuwaidrat
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 22 December 2023, demonstrators, including February 14 Youth Coalition, blocked roads with burning tires in Nuwaidrat (Southern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and to denounce the Bahraini presence in the coalition against Houthi activities in the Red Sea.
+
+---
+
+[EVENT: BHR12462]
+Date: 2023-12-22
+Country: Bahrain | Location: Sitrah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; Bahrain Mirror; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 22 December 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Sitrah (Capital) to denounce the normalization of diplomatic ties with Israel and the Bahraini presence in the coalition against Houthi activities in the Red Sea.
+
+---
+
+[EVENT: BHR12463]
+Date: 2023-12-22
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Al Wafa; Bahrain Alyoum; Bahrain Mirror; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 22 December 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Al Diraz (Northern) in solidarity with the Palestinian people and to denounce the 'Zionist presence' and Bahraini presence in the coalition against Houthi activities in the Red Sea in the context of the latest round of violence in Israel-Palestine. They also denounced the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR12464]
+Date: 2023-12-22
+Country: Bahrain | Location: Maqabah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 22 December 2023, demonstrators, including February 14 Youth Coalition, held a protest in front of the house of a detainee in Maqabah (Northern) in solidarity with political prisoners and their right for an immediate release.
+
+---
+
+[EVENT: BHR12478]
+Date: 2023-12-23
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 23 December 2023, demonstrators held a protest in Sanabis (Capital) in solidarity with political detainees and the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12465]
+Date: 2023-12-24
+Country: Bahrain | Location: Bilad al Qadim
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 24 December 2023, demonstrators, including February 14 Youth Coalition, held a protest in Bilad al Qadim (Capital) in solidarity with a political detainee and his right for an immediate release.
+
+---
+
+[EVENT: BHR12466]
+Date: 2023-12-24
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 24 December 2023, demonstrators, including February 14 Youth Coalition, held a protest in Sanabis (Capital) to denounce the Bahraini presence in the coalition against Houthi activities in the Red Sea.
+
+---
+
+[EVENT: BHR12473]
+Date: 2023-12-24
+Country: Bahrain | Location: Dry Dock Prison
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Mirror; LuaLua TV [National]
+
+DESCRIPTION:
+Strikes: On 24 December 2023, young political detainees started a hunger strike in building 17 in Dry Dock Prison (Muharraq) calling for education, treatment, healthy meals, and allowing family visits and communication with people outside the prison. The prisoners halted the hunger strike on 28 December after a visit by a prosecutor and a member of the General Secretariat of Grievances who promised the execution of their demands and the improvement of their conditions.
+
+---
+
+[EVENT: BHR12470]
+Date: 2023-12-29
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 29 December 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Al Diraz (Northern) in solidarity with the Palestinian people in the context of the latest round of violence in Israel-Palestine and to denounce the Bahraini presence in the coalition against Houthi activities in the Red Sea. They also protested in solidarity with a political detainee and his right for an immediate release.
+
+---
+
+[EVENT: BHR12480]
+Date: 2023-12-29
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 29 December 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Al Diraz (Northern) in solidarity with the Palestinian people and to denounce the Bahraini presence in the coalition against Houthi activities in the Red Sea in the context of the latest round of violence in Israel-Palestine. They also protested in solidarity with political detainee Sheikh Ali Salman and his right for an immediate release.
+
+---
+
+[EVENT: BHR12479]
+Date: 2023-12-29
+Country: Bahrain | Location: Bilad al Qadim
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Bahrain Alyoum; Bahrain Mirror; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 29 December 2023, demonstrators, including February 14 Youth Coalition, held a large protest in Bilad al Qadim (Capital) in solidarity with political detainee Sheikh Ali Salman and his right for an immediate release. Police forces were present and blocked the protest's access to the main street.
+
+---
+
+[EVENT: BHR12490]
+Date: 2023-12-30
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 30 December 2023, demonstrators held an anti-regime march in Sanabis (Capital) in conjuction with the upcoming anniversary of the death of Saudi Sheikh Nimr al-Nimr who was a Shiite sheikh executed in Saudi Arabia on 2 January 2016 as well as the deaths of IRGC commanders Qasim Sulaymani and Abu Mahdi al-Muhandis.
+
+---
+
+[EVENT: BHR12481]
+Date: 2023-12-30
+Country: Bahrain | Location: Aali
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 30 December 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Aali (Northern) in solidarity with political prisoners.
+
+---
+
+[EVENT: BHR12491]
+Date: 2023-12-31
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 31 December 2023, demonstrators held a protest stand in Sanabis (Capital) in solidarity with political prisoners and the Palestinian people in the context of the latest round of violence in Israel-Palestine.
+
+---
+
+[EVENT: BHR12483]
+Date: 2023-12-31
+Country: Bahrain | Location: Al Dair
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 31 December 2023, demonstrators, including February 14 Youth Coalition, held a large march in Al Dair (Muharraq) to commemorate the death of Saudi Sheikh Nimr al-Nimr who was a Shiite sheikh executed in Saudi Arabia on 2 January 2016.
+
+---
+
+[EVENT: BHR12482]
+Date: 2023-12-31
+Country: Bahrain | Location: Sitrah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 31 December 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Sitrah (Capital) to show their readiness for the a 'new revolutionary year'.

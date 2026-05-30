@@ -1,0 +1,17 @@
+==================================================
+DOCUMENT CONTEXT
+Country: United Arab Emirates (ISO Code: 784)
+Temporal Period: Year 2022 - Quarter Q2
+Total Events in Chunk: 1 / 1
+==================================================
+
+[EVENT: ARE32]
+Date: 2022-05-14
+Country: United Arab Emirates | Location: Abu Dhabi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of the United Arab Emirates (2022-) [State forces]
+Fatalities: 0
+Sources: Al Arabiya [International]
+
+DESCRIPTION:
+Other: On 14 May 2022, Abu Dhabi Crown Prince Mohamed bin Zayed assumed the presidency of the United Arab Emirates following the death of former president Khalifa bin Zayed bin Sultan Al Nahyan a day prior. The government declared a 40-day mourning period across the country, which entails the closure of businesses.

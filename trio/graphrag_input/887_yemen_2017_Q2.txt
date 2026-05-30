@@ -1,0 +1,554 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Yemen (ISO Code: 887)
+Temporal Period: Year 2017 - Quarter Q2
+Total Events in Chunk: 40 / 40
+==================================================
+
+[EVENT: YEM2152]
+Date: 2017-04-01
+Country: Yemen | Location: Al Masnaah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+Defusal: On 1 April 2017, Security forces reportedly defused an IED planted on the main road in the Al-Masaneh area of Al-Qurayshiyah district.
+
+---
+
+[EVENT: YEM2180]
+Date: 2017-04-01
+Country: Yemen | Location: Coast of Al Mina
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Khaleej Times [Regional]
+
+DESCRIPTION:
+Interception: On 1 April 2017, the Saudi-led coalition claimed to have destroyed several Houthi-Saleh explosives-laden boats off Al Hudaydah port (coded to Coast of Al Mina) before they could reach their targets.
+
+---
+
+[EVENT: YEM2216]
+Date: 2017-04-03
+Country: Yemen | Location: Dar An Najd
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 1
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+Detonation: One person was reportedly killed when an IED went off while planting it in the main road in Al-Qurayshiyah district.
+
+---
+
+[EVENT: YEM2456]
+Date: 2017-04-12
+Country: Yemen | Location: Al Mukha
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Interception: On 12 April 2017, pro-Hadi forces claimed to have intercepted a Houthi rocket in Al Mukha district (Taizz). Pro-Houthi forces claimed successfully launching a Qahir-M2 rocket at pro-Hadi forces in the district resulting in casualties.
+
+---
+
+[EVENT: YEM2451]
+Date: 2017-04-12
+Country: Yemen | Location: Coast of Al Mahrah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi - Coast Guard [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Anadolu Agency [Regional]
+
+DESCRIPTION:
+Weapons seizure: On 12 April 2017, pro-Hadi Coast Guards announced that they have seized a weapons-laden ship off the Coast of Al Mahrah governorate (Al Mahrah).
+
+---
+
+[EVENT: YEM50654]
+Date: 2017-04-17
+Country: Yemen | Location: Taizz
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Mwatana [Other]
+
+DESCRIPTION:
+On 17 April 2017, Houthis and pro-Saleh forces confiscated medical equipment intended for al-Thawra Hospital (Salh, Taizz) at a checkpoint. The equipment belonged to the hospital's dialysis center and had been authorized by the authorities.
+
+---
+
+[EVENT: YEM2547]
+Date: 2017-04-17
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Actor2: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Aden al Ghad [National]
+
+DESCRIPTION:
+Non-violent activity: 11 prisoners, including AQAP militants and al-Houthi-Saleh forces, escaped from a prison in Ataq city, central Shabwah governorate, on April 17. Security forces later captured eight of 11 escapees.
+
+---
+
+[EVENT: YEM77847]
+Date: 2017-04-17
+Country: Yemen | Location: Al Mukha
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Al Arabiya [Regional]
+
+DESCRIPTION:
+Interception: On 17 April 2017, Saudi-led coalition forces claimed to have intercepted 4 Houthi-Saleh ballistic missiles targeting Al Mukha city (Taizz).
+
+---
+
+[EVENT: YEM77848]
+Date: 2017-04-19
+Country: Yemen | Location: Marib
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Al Arabiya [Regional]
+
+DESCRIPTION:
+Interception: On 19 April 2017, Saudi-led coalition forces claimed to have intercepted 2 Houthi-Saleh ballistic missiles flying over Marib governorate.
+
+---
+
+[EVENT: YEM2594]
+Date: 2017-04-20
+Country: Yemen | Location: Al Mukha
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 80
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+Pro-Houthi forces reportedly shelled anti-Houthi groups gatherings in Al-Mukha district, killing and injuring more than 80 people including Sudanese and UAE soldiers.
+
+---
+
+[EVENT: YEM2672]
+Date: 2017-04-23
+Country: Yemen | Location: Aden - Jabal Hadid
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 7
+Sources: AFP; Anadolu Agency [Regional-International]
+
+DESCRIPTION:
+Detonation: 7 soldiers were killed in a blast that struck a military camp in Yemen's southern Aden city on Sunday. The explosion took place inside a weapons depot in Jabal Hadid area in southern Aden. No one has claimed responsibility. Agence France Presse later reported that the incident took place when a shipment of landmines accidentally exploded.
+
+---
+
+[EVENT: YEM2748]
+Date: 2017-04-26
+Country: Yemen | Location: Al Hudaydah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: General People's Congress [Political militia]
+Fatalities: 0
+Sources: Asharq Al Awsat [International]
+
+DESCRIPTION:
+Changes in armed groups: Yemeni General People's Congress Party leader Essam Shreim, along with 19 other leaders in the party, defected from the pro-Saleh Yemeni militia in the city of Hudaydah.
+
+---
+
+[EVENT: YEM49155]
+Date: 2017-04-27
+Country: Yemen | Location: Sadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: UN Panel of Experts [Other]
+
+DESCRIPTION:
+On 27 April 2017, President Hadi relieved Minister of State Bin Breik and Governor al-Zubaidi of their positions.
+
+---
+
+[EVENT: YEM2786]
+Date: 2017-04-28
+Country: Yemen | Location: Aden - Aden International Airport
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Security Belt Forces [Political militia]
+Actor2: Military Forces of Yemen (2012-2022) Hadi - Presidential Guard [State forces]
+Fatalities: 0
+Sources: Aden al Ghad; Aden Lang [Subnational]
+
+DESCRIPTION:
+Security measures: Emirati-backed security officials at Aden International Airport attempted to detain Fourth Brigade commander Brigadier General Mehran Qabati as he returned from a trip to Saudi Arabia on April 27. Security officials held Qabati for four hours before forcing him to return to Riyadh. Yemeni Vice President Ali Mohsen al Ahmar supports Qabati, a northern Yemeni whom some southern fighters have accused of embezzling security funds.
+
+---
+
+[EVENT: YEM2791]
+Date: 2017-04-29
+Country: Yemen | Location: Midi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+Pro-Houthi forces reportedly shot down a reconnaissance plane in Midi's desert.
+
+---
+
+[EVENT: YEM2854]
+Date: 2017-05-02
+Country: Yemen | Location: Uzlat Az Zahari
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+A 'flash bomb' was reportedly used by the Saudi led coalition on Al Zahary area of Mokha district of Taiz province
+
+---
+
+[EVENT: YEM2953]
+Date: 2017-05-06
+Country: Yemen | Location: Aden - Kraytar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Anba Aden [Subnational]
+
+DESCRIPTION:
+Property Destruction: Armed men wearing military uniforms and onboard a UAE armoured vehicle reportedly burned the Islah party HQ in Crater district.
+
+---
+
+[EVENT: YEM2960]
+Date: 2017-05-07
+Country: Yemen | Location: Midi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+Interception: On 7 May 2017, pro-Houthi forces shot down a reconnaissance drone north of Midi desert (Hajjah).
+
+---
+
+[EVENT: YEM2971]
+Date: 2017-05-07
+Country: Yemen | Location: Aden - Al Alam Checkpoint
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2012-2022) Hadi - Presidential Guard [State forces]
+Fatalities: 0
+Sources: Al Omanaa [National]
+
+DESCRIPTION:
+Coalition forces reportedly took control over Al Alam Checkpoint east of Aden late at night after forcing southern soldiers of the presidential guard who used to position there to leave, without using force. The reason for the incident is not clear.
+
+---
+
+[EVENT: YEM2993]
+Date: 2017-05-08
+Country: Yemen | Location: Sif
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Anadolu Agency [Regional]
+
+DESCRIPTION:
+Security measures: The Yemeni army on Monday declared a temporary curfew and state of emergency in Hadhramaut's Dawan directorate. The move reportedly targets Al Qaeda, which has claimed responsiblility for several recent attacks in the province.
+
+---
+
+[EVENT: YEM3047]
+Date: 2017-05-12
+Country: Yemen | Location: Aden
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council of South Arabia [Political militia]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Coup/military takeover: On 12 May 2017, former governor of Aden and pro-secession activist Major General Aydarus al-Zubaydi announced in a televised speech the formation of the Southern Transitional Council -- a transitional political council to govern the southern governorates. The pro-secession council included 26 southern members -- mainly governors, prominent secessionist figures, and tribal leaders. On 12 May the IRG led by President Hadi rejected the move.
+
+---
+
+[EVENT: YEM3099]
+Date: 2017-05-14
+Country: Yemen | Location: Midi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: NTH News [National]
+
+DESCRIPTION:
+Pro-Houthi forces reportedly shot down a reconnaissance aircraft in Midi desert.
+
+---
+
+[EVENT: YEM3128]
+Date: 2017-05-16
+Country: Yemen | Location: Aden - Hayy al Qati
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Yemen) [Protesters]
+Fatalities: 0
+Sources: Aden al Ghad; Aden Lang [Subnational]
+
+DESCRIPTION:
+Strikes: The staff of the Yemeni Central Bank in Al-Qa'ti neighbourhood of Aden began a strike in response to unpaid salaries on May 16. The staff also called for the removal of the bank's acting governor, citing mismanagement. The protesters temporarily halted all bank transfers.
+
+---
+
+[EVENT: YEM3129]
+Date: 2017-05-16
+Country: Yemen | Location: Munqidhah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Mandab Press [National]
+
+DESCRIPTION:
+Interception: On 16 May 2017, Saudi-led coalition anti-missile batteries intercepted 1 Houthi ballistic missile launched at an IDP camp in Munqidhah desert area between Al Jawf and Marib governorates (Khabb wa Ash Shaaf, Al Jawf).
+
+---
+
+[EVENT: YEM3147]
+Date: 2017-05-17
+Country: Yemen | Location: Ruwayk
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya [Regional]
+
+DESCRIPTION:
+Interception: On 17 May 2017, In Marib, Arab coalition defenses intercepted a ballistic missile fired by the Houthis towards a refugee camp. According to eyewitnesses, the Arab coalition defenses intercepted the missile within a short distance from one of the refugee camps in the desert of the Manqaza in the area of al-Ruwaik.
+
+---
+
+[EVENT: YEM3387]
+Date: 2017-05-31
+Country: Yemen | Location: Wadi Dawan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Hadrami Elite Forces) [Political militia]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Weapons seizure: On 31 May 2017, Emirati-backed Hadhrami Elite Forces seized several thermal anti-tank missiles during a raid in Daw'an district, eastern Hadramawt governorate.
+
+---
+
+[EVENT: YEM3409]
+Date: 2017-06-01
+Country: Yemen | Location: Aden - Aden International Airport
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Aden Security) [Political militia]
+Actor2: Police Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Aden al Ghad; Al Masdar; Middle East Eye [Subnational-National]
+
+DESCRIPTION:
+On 1 June 2017, Aden Security Forces led by Shallal Shayea assumed control of Aden International Airport on June 1, after Aden International Airport security director Saleh al Amri received orders from the Emirati commander in Yemen, Major General Ahmed Mohamed Ahmed.
+
+---
+
+[EVENT: YEM3431]
+Date: 2017-06-03
+Country: Yemen | Location: Jabal al Umari
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+Pro-Houthi forces reportedly shot down a reconnaissance plane in Al-Omary area of Dhubab district; June 3.
+
+---
+
+[EVENT: YEM3505]
+Date: 2017-06-06
+Country: Yemen | Location: Taizz - Rudajah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Militia (Abu al Abbas) [Political militia]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Al Wahdawi [National]
+
+DESCRIPTION:
+Defusal: On 6 June 2017, Taizz-based militants claimed to defuse ten IEDs planted by pro-Houthi forces in the vicinity of Al-Tashrifat camp in Salah district.
+
+---
+
+[EVENT: YEM3559]
+Date: 2017-06-09
+Country: Yemen | Location: Midi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+Interception: On 9 June 2017, pro-Houthi forces shot down a reconnaissance drone in Midi district (Hajjah).
+
+---
+
+[EVENT: YEM3671]
+Date: 2017-06-13
+Country: Yemen | Location: Naqil Yislah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Al Qushaybi Tribal Militia (Yemen) [Identity militia]
+Fatalities: 0
+Sources: Yemen 24 [National]
+
+DESCRIPTION:
+Non-violent activity: As the house of Al Qushaibi Sheikh's house was surrounded in Sanaa, his tribal group blocked the Sanaa Dhamar road in Naqil Yasleh area, stopping all traffic this morning; June 13.
+
+---
+
+[EVENT: YEM3706]
+Date: 2017-06-15
+Country: Yemen | Location: Sanaa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Arrests: Al Houthi militias claimed to arrest a former tribal leader loyal to former president Ali Abdullah Saleh in southern Sana'a city on June 15. Al Houthi fighters also arrested 80 of his supporters. Unconfirmed reports identified the arrested leader as a member or former member of the Sanhan tribe, to which Saleh belongs.
+
+---
+
+[EVENT: YEM3709]
+Date: 2017-06-16
+Country: Yemen | Location: Sanaa - Bayt Baws
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Al Qushaybi Tribal Militia (Yemen) [Identity militia]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+Arrests: Following the recent clashes on the 50 street, security forces claimed to capture the local sheikh Mokhtar Al-Kushaybi and 80 of his men due to murder and looting crimes; June 16.
+
+---
+
+[EVENT: YEM3768]
+Date: 2017-06-19
+Country: Yemen | Location: Dhamar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: World Food Programme [Other]
+
+DESCRIPTION:
+Property destruction: On 19 June, the power lines to the main water supply system in Dhamar City were damaged as a result of military activity, affecting one million people who rely on this water source and putting them at greater risk of death risk given the current fast-spreading cholera epidemic in Yemen.
+
+---
+
+[EVENT: YEM50301]
+Date: 2017-06-20
+Country: Yemen | Location: Az Zahir
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Popular Resistance [Political militia]
+Fatalities: 0
+Sources: Aden al Ghad; AEI Critical Threats [National-International]
+
+DESCRIPTION:
+Houthi-Saleh forces reportedly moved into Az Zahir district in the south of Al Bayda governorate on June 20, establishing themselves within 2km of Yafaa, following the withdrawal of tribal 'resistance' fighters from the area. Local tribesmen withdrew as a sign of protest to the Saudi designation of local leader Abdulwahhab Muhammad Abdulrahman al Humayqani (Secretary General of al Rashad Union and advisor to president Hadi) as a 'terrorist facilitator'.
+
+---
+
+[EVENT: YEM3789]
+Date: 2017-06-20
+Country: Yemen | Location: Aden - Ash Shaikh Outhman
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Aden al Ghad [Subnational]
+
+DESCRIPTION:
+Looting: Gunmen robbed al Omgy Bank in Sheikh Othman district, Aden city on June 20. Men wearing masks and military uniforms broke into the bank and stole $80,000, according to bank management. The bank's parent company is al Omgy and Brothers Money Exchange. Armed groups active in the area often rob banks to get financial resources in southern Yemen.
+
+---
+
+[EVENT: YEM3819]
+Date: 2017-06-22
+Country: Yemen | Location: Aden - Khawr Maksar
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Al Masdar; Yemen Akhbar [National]
+
+DESCRIPTION:
+Defusal: On 22 June 2017, Yemeni security forces foiled an assassination attempt targeting the Deputy Interior Minister, Major General Ali Nasser Lakhsha', in Khormaksar district, Aden city. Security personnel dismantled an improvised explosive device (IED) near the minister's home.
+
+---
+
+[EVENT: YEM3865]
+Date: 2017-06-26
+Country: Yemen | Location: Ash Shawati
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: 26 September News [National]
+
+DESCRIPTION:
+Interception: On 26 June 2017, pro-Houthi forces shot down a reconnaissance drone in As Safra district (coded to Ash Shawati) (Sadah).
+
+---
+
+[EVENT: YEM3890]
+Date: 2017-06-27
+Country: Yemen | Location: Az Zahir
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 4
+Sources: Freedom (Yemen) [National]
+
+DESCRIPTION:
+Detonation: Four individuals of pro Houthi forces were reportedly killed in Al-Zaher district when an IED exploded while planting it; June 27.
+
+---
+
+[EVENT: YEM3941]
+Date: 2017-06-29
+Country: Yemen | Location: Marib
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Al Tagheer [National]
+
+DESCRIPTION:
+Interception: On 29 June 2017, Anti-missile batteries reportedly intercepted a ballistic missile fired by pro Houthi groups on Marib.

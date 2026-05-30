@@ -1,0 +1,242 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Saudi Arabia (ISO Code: 682)
+Temporal Period: Year 2019 - Quarter Q2
+Total Events in Chunk: 17 / 17
+==================================================
+
+[EVENT: SAU4797]
+Date: 2019-04-05
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: 26 September News [Regional]
+
+DESCRIPTION:
+Interception: On 5 April 2019, Saudi Air-defense systems intercepted a Houthi-fired ballistic missile over the city of Najran. No injuries or fatalities were reported. Houthi media reported that they had struck the Tibat al Asam military site.
+
+---
+
+[EVENT: SAU4805]
+Date: 2019-04-07
+Country: Saudi Arabia | Location: Abha
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Saudi Press Agency; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 7 April 2019, Saudi air defence forces claimed to have shot down a Houthi-operated drone over Asir governorate in southern Saudi Arabia, with no report of fatalities nor injuries.
+
+---
+
+[EVENT: SAU23172]
+Date: 2019-04-23
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Saudi Arabia (2015-) [State forces]
+Actor2: Civilians (Saudi Arabia) [Civilians]
+Fatalities: 37
+Sources: HRW [Other]
+
+DESCRIPTION:
+Other: On 23 April 2019, Saudi authorities executed 37 individuals for various charges including protest-related offenses, espionage, and terrorism (coded to capital city Riyadh). At least 33 out of the 37 executed were Shiites. The legitimacy of the due process of the trial was questioned by NGOs.
+
+---
+
+[EVENT: SAU4946]
+Date: 2019-05-20
+Country: Saudi Arabia | Location: Taif
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 20 May 2019, Saudi air defence forces claimed to have intercepted two ballistic missiles over the city of Taif, as one was heading for Mekkah and the other for Jeddah, launched by pro-Houthi forces from the Yemeni territory. Missile fragments reportedly landed in Wadi Jalil area just outside Mekkah, with no report of fatalities nor injuries.
+
+---
+
+[EVENT: SAU4957]
+Date: 2019-05-22
+Country: Saudi Arabia | Location: Najran - Najran Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Khabar News Agency (Yemen); Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 22 May 2019, a pro-Houthi unmanned drone Qasif K2 reportedly targeted Saudi war planes docked in Najran airport, southern Saudi Arabia. Saudi forces later reported that they had shot down a Houthi drone near the airport before it could do any damage.
+
+---
+
+[EVENT: SAU4962]
+Date: 2019-05-23
+Country: Saudi Arabia | Location: Najran - Najran Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: 2 December News; Al Masirah; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 23 May 2019, a pro-Houthi Qasif K2 unmanned drone attempted to target Najran airport, southern Saudi Arabia. Anti-Houthi sources claim that Saudi forces intercepted and destroyed the drone before it bombed its target, while pro-Houthi sources claim that it targeted and destroyed the Patriot air defense system of the airport. No fatalities nor injuries reported.
+
+---
+
+[EVENT: SAU4975]
+Date: 2019-05-26
+Country: Saudi Arabia | Location: Jizan - Jizan Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Emirates News Agency [Regional]
+
+DESCRIPTION:
+Interception: On 26 May 2019, pro-Houthi forces claimed to have carried out a Qasif-2K drone attack on Saudi warplanes in Jizan airport in southern Saudi Arabia. Saudi forces reportedly intercepted the drone, destroying it.
+
+---
+
+[EVENT: SAU5027]
+Date: 2019-06-10
+Country: Saudi Arabia | Location: King Khalid Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Mnatiq; Yemen News Agency (SABA) - Houthi [National-Regional]
+
+DESCRIPTION:
+Interception: On 10 June 2019, Saudi air defence forces claimed to have shot down two Houthi-operated drones on their way to Khamis Mushayt city in Asir governorate, with no report of fatalities nor injuries. Pro-Houthi forces claimed to have carried out Qasif-2K drone attacks on the nearby King Khalid military airbase in what is likely the same event.
+
+---
+
+[EVENT: SAU5048]
+Date: 2019-06-14
+Country: Saudi Arabia | Location: Abha Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya [National]
+
+DESCRIPTION:
+Interception: On 14 June 2019: Coalition's spokesperson, Turki Al-Maliki, stated that the air defense unit shot down five drones launched by pro-Houthi forces towards Abha airport and Khamis Mushait area in Asir governorate. And noted that air traffic and airspace at Abha airport are normal.
+
+---
+
+[EVENT: SAU5049]
+Date: 2019-06-14
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya [National]
+
+DESCRIPTION:
+Interception: On 14 June 2019, Coalition's spokesperson, Turki Al-Maliki, stated that the air defense unit shot down five drones launched by pro-Houthi forces towards Abha airport and Khamis Mushait area in Asir governorate. And noted that air traffic and airspace at Abha airport are normal.
+
+---
+
+[EVENT: SAU5054]
+Date: 2019-06-15
+Country: Saudi Arabia | Location: Abha
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Jazeera [Regional]
+
+DESCRIPTION:
+Interception: On 15 June 2019, Saudi-led coalition forces announced that they intercepted a Houthi-fired ballistic missile over the city of Abha (Asir). No injuries or fatalities reported.
+
+---
+
+[EVENT: SAU5713]
+Date: 2019-06-17
+Country: Saudi Arabia | Location: Abha Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: AP; Asharq Al Awsat; Reuters [National-International]
+
+DESCRIPTION:
+Interception: On 17 June 2019, Saudi air defense forces claimed to have intercepted 1 Houthi bomb-laden drone targeting Abha (Asir) as Houthi forces said that they launched Qasif-2K drones at Abha Regional Airport. One additional drone was shot down over Yemeni territory.
+
+---
+
+[EVENT: SAU5730]
+Date: 2019-06-19
+Country: Saudi Arabia | Location: Ash Shurfah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Actor2: Military Forces of Saudi Arabia (2015-) [State forces]
+Fatalities: 0
+Sources: Ansar Allah; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 19 June 2019, pro-Houthi forces claimed to have shot down a Saudi reconnaissance drone over Ash Shurfah (Najran, Najran).
+
+---
+
+[EVENT: SAU5736]
+Date: 2019-06-20
+Country: Saudi Arabia | Location: Jizan - Jizan Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Midan Al Yemeni; Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 20 June, pro-Houthi unmanned drones reportedly targeted Jizan airport, and in particular the UAVs dock and other military targets. The Houthi spokesperson claimed that the Qasif-2 drones hit their targets. Saudi sources claim that a Qasif-2 drone was intercepted and destroyed. No fatalities nor injuries reported.
+
+---
+
+[EVENT: SAU5757]
+Date: 2019-06-25
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Interception: On 25 June 2019, Saudi coalition forces announced that they had shot down a Houthi drone over the city of Khamis Mushait on the 25 June, 2019, with no injuries reported.
+
+---
+
+[EVENT: SAU5775]
+Date: 2019-06-29
+Country: Saudi Arabia | Location: Jizan - Jizan Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Jazeera; Al Masirah; Khabar News Agency (Yemen); Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 29 June 2019, Saudi air defense forces claimed to have intercepted 2 Houthi bomb-laden drones in Asir and Jizan provinces as Houthi forces said that they launched Qasif-2K drones on Saudi military targets in Abha Regional Airport and Jizan - Jizan Regional Airport.
+
+---
+
+[EVENT: SAU5774]
+Date: 2019-06-29
+Country: Saudi Arabia | Location: Abha Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Jazeera; Al Masirah; Khabar News Agency (Yemen); Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 29 June 2019, Saudi air defense forces claimed to have intercepted 2 Houthi bomb-laden drones in Asir and Jizan provinces as Houthi forces said that they launched Qasif-2K drones on Saudi military targets in Abha Regional Airport and Jizan - Jizan Regional Airport.

@@ -1,0 +1,228 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Saudi Arabia (ISO Code: 682)
+Temporal Period: Year 2022 - Quarter Q1
+Total Events in Chunk: 16 / 16
+==================================================
+
+[EVENT: SAU23146]
+Date: 2022-01-02
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Al Mawqea; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 2 January 2022, Saudi forces claimed to have intercepted and shot down 3 Houthi drones including 1 Sammad suicide drone launched toward Najran.
+
+---
+
+[EVENT: SAU23148]
+Date: 2022-01-03
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Saudi Press Agency; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 3 January 2022, Saudi forces claimed to have intercepted and shot down 5 Houthi drones including 2 Qasif drones launched toward Saudi Arabia (coded to Najran). Unclear if the interception occurred over Saudi or Yemeni airspace.
+
+---
+
+[EVENT: SAU23147]
+Date: 2022-01-03
+Country: Saudi Arabia | Location: Taif
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Saudi Press Agency; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 3 January 2022, Saudi forces intercepted a Houthi 'hostile air target' (presumed to be a bomb-laden drone) launched towards Taif city (At Taif, Mecca).
+
+---
+
+[EVENT: SAU23152]
+Date: 2022-01-06
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Saudi Press Agency; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 6 January 2022, Saudi forces claimed to have intercepted and shot down 1 Houthi drone (presumed to be bomb-laden) launched toward Saudi Arabia (coded to Najran). Unclear if the interception occurred over Saudi or Yemeni airspace.
+
+---
+
+[EVENT: SAU23153]
+Date: 2022-01-07
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya [National]
+
+DESCRIPTION:
+Interception: On 7 January 2022, Saudi forces claimed to have intercepted and shot down Houthi explosive-laden drones launched toward southern Saudi Arabia (coded to Najran) to target civilian communications infrastructure. Unclear if the interception occurred over Saudi or Yemeni airspace.
+
+---
+
+[EVENT: SAU23154]
+Date: 2022-01-17
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Saudi Press Agency; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 17 January 2022, Saudi forces claimed to have intercepted and shot down 8 Houthi drones including 3 Sammad suicide drones launched toward southern Saudi Arabia (coded to Najran). Unclear if the interception occurred over Saudi or Yemeni airspace.
+
+---
+
+[EVENT: SAU23155]
+Date: 2022-01-21
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Asharq Al Awsat; Tahdeeth [National-Regional]
+
+DESCRIPTION:
+Interception: On 21 January 2022, Saudi defense forces shot down 1 Houthi ballistic missile that targeted Khamis Mushait (Asir). Saudi forces claimed that the missile was launched from Sadah.
+
+---
+
+[EVENT: SAU23163]
+Date: 2022-02-21
+Country: Saudi Arabia | Location: Al Mabuj
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Saudi Press Agency; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 21 February 2022, Saudi forces intercepted 1 Houthi drone over Al Mabuj village (Jizan). The statement said that the drone fell in the village but it is unclear whether it was actually intercepted or just fell there. There were no fatalities or injuries.
+
+---
+
+[EVENT: SAU23164]
+Date: 2022-02-26
+Country: Saudi Arabia | Location: Al Judayin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Saudi Press Agency; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 26 February 2022, 1 Houthi bomb-laden drone fell in Al Judayin village (Sabya, Jizan) with no fatalities or injuries. The statement said that the drone fell in the village but it is unclear whether it was actually intercepted or just fell there.
+
+---
+
+[EVENT: SAU23165]
+Date: 2022-03-03
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Crater Sky; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 3 March 2022, Saudi forces claimed to have intercepted and shot down 1 Houthi drone (presumed weaponized) launched toward southern Saudi Arabia (coded to Najran). Unclear if the interception occurred over Saudi or Yemeni airspace.
+
+---
+
+[EVENT: SAU23166]
+Date: 2022-03-07
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: 2 December News; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 7 March 2022, Saudi forces claimed to have intercepted and shot down Houthi drones (presumed weaponized) launched toward southern Saudi Arabia (coded to Najran). Unclear if the interception occurred over Saudi or Yemeni airspace.
+
+---
+
+[EVENT: SAU23167]
+Date: 2022-03-10
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: 2 December News; Al Arabiya; Sky News; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 10 March 2022, Saudi forces claimed to have intercepted and shot down 1 Houthi drone (presumed to be armed) that was targeting Jizan city. They claimed that the drone was fired from Al Hudaydah city.
+
+---
+
+[EVENT: SAU23171]
+Date: 2022-03-12
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Saudi Arabia (2015-) [State forces]
+Actor2: Civilians (Saudi Arabia) [Civilians]
+Fatalities: 81
+Sources: UN OHCHR; Al Jazeera; HRW; Amnesty International [Other-International]
+
+DESCRIPTION:
+Other: On 12 March 2022, Saudi authorities executed 81 individuals for various charges including 'allegiance to foreign terrorist organizations' and holding 'deviant beliefs' (coded to capital city Riyadh). The individuals included 41 Shiite Muslims from the Qatif region as well as 7 Yemenis and 1 Syrian. The legitimacy of the due process of the trial was questioned by a number of NGOs.
+
+---
+
+[EVENT: SAU23174]
+Date: 2022-03-15
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of the United States (2021-2025) [External/Other forces]
+Actor2: Government of Saudi Arabia (2015-) [State forces]
+Fatalities: 0
+Sources: Al Jazeera; Wall Street Journal [Regional-International]
+
+DESCRIPTION:
+Other: Around 15 March 2022 (month of), the US administration transferred a significant number of Patriot antimissile interceptors to Saudi Arabia (coded to capital city Riyadh) (Ar Riyadh) following a request that was made by the Saudi government last year when its supply started to run low to fend off Houthi attacks.
+
+---
+
+[EVENT: SAU23186]
+Date: 2022-03-20
+Country: Saudi Arabia | Location: Jeddah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Ansar Allah; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 20 March 2022, Saudi forces claimed to have intercepted and shot down 1 Houthi 'hostile air target' (presumed to be a missile) over Jeddah city (Jiddah, Mecca). Houthi forces claimed to have launched successful ballistic missiles and Quds-2 cruise missiles at Jizan and Jeddah that day as part of Operation Breaking the Siege III.
+
+---
+
+[EVENT: SAU23188]
+Date: 2022-03-22
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: 2 December News; Khabar News Agency (Yemen); RT; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 22 March 2022, Saudi defense forces shot down 1 Houthi ballistic missile that was launched towards Jizan.

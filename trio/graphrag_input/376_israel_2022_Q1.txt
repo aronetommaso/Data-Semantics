@@ -1,0 +1,325 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Israel (ISO Code: 376)
+Temporal Period: Year 2022 - Quarter Q1
+Total Events in Chunk: 23 / 23
+==================================================
+
+[EVENT: ISR11577]
+Date: 2022-01-04
+Country: Israel | Location: Safed
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2021-2022) [State forces]
+Actor2: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+Interception: On 4 January 2022, the Israeli air defense downed near the Israeli-Lebanese border, a drone launched by Hezbollah from Lebanon that infiltrated Israel's airspace. According to the footage of the drone, the device was a surveillance Quadro copter. Hezbollah showcased from time to time its capability to enter Israel's territory. Coded at Safed (Zefat).
+
+---
+
+[EVENT: ISR47381]
+Date: 2022-01-10
+Country: Israel | Location: Negev Desert
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Quds News Network [Regional]
+
+DESCRIPTION:
+Property destruction: On 10 January 2022, Israeli police forces bulldozed large tracts of land belonging to the Bedouin group in the unrecognized Al Atrash village in the Negev Desert area (Beer Sheva, HaDarom).
+
+---
+
+[EVENT: ISR47379]
+Date: 2022-01-11
+Country: Israel | Location: Negev Desert
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Quds News Network [Regional]
+
+DESCRIPTION:
+Property destruction: On 11 January 2022, Israeli police forces dismantle a tent set up by demonstrators in Al Atrash village in the Negev Desert (Beer Sheva, HaDarom).
+
+---
+
+[EVENT: ISR47377]
+Date: 2022-01-12
+Country: Israel | Location: Negev Desert
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Quds News Network [Regional]
+
+DESCRIPTION:
+Property destruction: On 12 January 2022, Israeli police forces bulldozed lands in the Bedouin village of Al Atrash and Sawa in the Negev Desert area (Beer Sheva, HaDarom).
+
+---
+
+[EVENT: ISR12513]
+Date: 2022-01-18
+Country: Israel | Location: Beersheba
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+On 18 January 2022, police forces arrested 30 Bedouin youths in southern Israeli Bedouin communities, coded at Beersheba (Beer Sheva)for their involvement in the riots and mob violence that took place around the Bedouin communities on January 10 to 13. A total of 96 Bedouins were arrested over the riots that were triggered by their rage over the state enterprise to plant forests around their communities.
+
+---
+
+[EVENT: ISR11637]
+Date: 2022-01-24
+Country: Israel | Location: Tel Aviv
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+Displacement: On 24 January 2022, Police and Border Police forces vacated 12 families from their dwellings in Kfar Shalem neighborhood in Tel Aviv (Tel Aviv, Tel Aviv) after they refused to obey a court order to empty dozens of buildings in that area for constructing a new light train line. The families rejected the order that denied them compensation for their houses since they were not included in the neighborhood's original census from the 1950s, attributing it to historical discrimination against the Middle Eastern-origin Jews immigrants that settled in the neighborhood.
+
+---
+
+[EVENT: ISR11639]
+Date: 2022-01-25
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Al-Ittihad [National]
+
+DESCRIPTION:
+Property destruction: On 25 January 2022, the Israeli authorities [coded as Police Forces of Israel] destroyed improvised dwellings recently built in the unrecognized Bedouin village Al Araqeeb (HaDArom, Beer Sheva). Attempts to rebuild the village have been thwarted time and again since it had displaced in 2010, as part of the historical land dispute between the state and some of southern Israel's Bedouin population.
+
+---
+
+[EVENT: ISR11904]
+Date: 2022-02-06
+Country: Israel | Location: Lod
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [Regional]
+
+DESCRIPTION:
+Property destruction: On 6 February 2022, the Israeli authorities, escorted by large police forces [coded as police forces of Israel) demolished a house of an Arab family in Lod (Hamerkaz, Ramla) on the ground that it was built without approval. An unauthorized building and demolitions, as a result, are common in Israel's Arab localities as they lack available grounds.
+
+---
+
+[EVENT: ISR11905]
+Date: 2022-02-09
+Country: Israel | Location: Rahat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Settlers (Israel) [Political militia]
+Actor2: Police Forces of Israel (2021-2022) [State forces]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+Land seizure: On 9 February 2022, about 20 settlers and right-wing activists set up overnight four makeshifts dwellings in a desert area north of Rahat (HaDarom, Beer Sheva), announcing it a 'new Jewish locality' modeled after the settlement enterprise in the West Bank. The activists stated they were motivated by what they claim to be Bedouins' taking over southern Israel and its legitimization by the current government. In the morning after, four lawmakers of the Likud Party and the Religious Zionist Party attended the place to support the activists, as well as local Bedouin tribespeople who claim to own the land. A police force called in the scene and removed the dwellings, arresting two activists who refused to evacuate. The activists promised to build more outposts of the like in order to 'salvage the Negev Desert.'
+
+---
+
+[EVENT: ISR12524]
+Date: 2022-02-10
+Country: Israel | Location: Nazareth
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Ynet [National]
+
+DESCRIPTION:
+Property destruction: On 10 February 2022, the Israeli authorities [coded as police forces of Israel] demolished overnight an empty residential building owned by Arab Israelis in Nazareth (HaZafon, Yizreel] under a court warrant says it was built without approval.
+
+---
+
+[EVENT: ISR11924]
+Date: 2022-02-17
+Country: Israel | Location: Safed
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2021-2022) [State forces]
+Actor2: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+Property destruction: On 17 February 2022, the Israeli air defense intercepted near the Israel-Lebanon border (HaZafon, Zefat) a quadcopter launched by Hezbollah and encroached into the Israeli airspace. It was the sixth quadcopter Hezbollah infiltrated into the Israeli airspace over the last year, presumably for surveillance purposes. The incident comes a day after Hezbollah's Secretary-General suggested that the organization has a self-production capability of military drones. [Coded at Safed]
+
+---
+
+[EVENT: ISR11926]
+Date: 2022-02-19
+Country: Israel | Location: Safed
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+Other: On 19 February 2022, Hezbollah launched a drone from Lebanon into the Israeli airspace that hovered above the Eastern Upper Galilee region (HaZafon, Zefat) and flew back to Lebanon. A siren was activated in several localities along the region, fearing the drone was bobby-trapped. The Israeli air defense failed in an attempt to intercept it. Hezbollah claimed it served for surveillance. As a response, Israeli fighter jets flew over the Lebanese capital Beirut shortly after the incident. The event comes two days after another quadcopter of Hezbollah intercepted by Israel after encroaching its airspace from Lebanon. [Coded at Safed]
+
+---
+
+[EVENT: ISR11942]
+Date: 2022-02-20
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [International]
+
+DESCRIPTION:
+Property destruction: On 20 February 2022, bulldozers of the Israeli authorities, escorted by a police force, destroyed makeshift dwellings that were unwarrantedly built in the unrecognized Bedouin village Al Araqeeb (HaDarom, Beer Sheva). Attempts to rebuild the village have been consistently made since its demolition in 2010.
+
+---
+
+[EVENT: ISR11943]
+Date: 2022-02-20
+Country: Israel | Location: Tel Sheva
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [Regional]
+
+DESCRIPTION:
+Property destruction: On 20 February 2022, tractors of the Israeli authorities, escorted by a police force, razed lands northeast of Tel Sheva (HaDarom, Beer Sheva) cultivated by local Bedouins from the town and the nearby village Umm Batin, on the grounds that it is a public area belonging to the state. The incident is part of a historical land ownership dispute between the Israeli government and some of the southern country's Bedouin population.
+
+---
+
+[EVENT: ISR11925]
+Date: 2022-02-24
+Country: Israel | Location: Tel Sheva
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Al-Ittihad [National]
+
+DESCRIPTION:
+Property destruction: On 24 February 2022, bulldozers of the Israeli authorities, escorted by a police force, razed land in the unrecognized Bedouin village Khirbit al-Watan, near Tel Sheva (HaDarom, Beer Sheva). The force uprooted dozens of olive trees planted by a local family, claiming the land belonged to the state. The event is a part of the historical land ownership dispute between Israel and some of its Bedouin population, whose localities are unrecognized by the authorities.
+
+---
+
+[EVENT: ISR47599]
+Date: 2022-02-28
+Country: Israel | Location: Ramla
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Quds News Network [Regional]
+
+DESCRIPTION:
+Property destruction: On 28 February 2022, Israeli military forces demolished an Israeli Arab man's shop in Ramla (Ramla, HaMerkaz).
+
+---
+
+[EVENT: ISR11947]
+Date: 2022-03-01
+Country: Israel | Location: Lod
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Palestine Information Center [Other]
+
+DESCRIPTION:
+Property destruction: On 1 March 2022, bulldozers of the Israeli authorities, escorted by a police force, demolished a residential house owned by an Israeli Arab in Lod (HaMerkaz, Ramle) that was built without state approval.
+
+---
+
+[EVENT: ISR11958]
+Date: 2022-03-09
+Country: Israel | Location: Beersheba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [Regional]
+
+DESCRIPTION:
+Property destruction: On 9 March 2022, bulldozers of the Israeli authorities [coded as the police force of Israel], escorted by a police force, demolished two dwellings built in the unrecognized Bedouin village Al Ghara in Southern Israel desert (coded to Beersheba, HaDarom, Beer Sheva). The incident is part of a historical dispute between the Israeli government and some of its Bedouin population over land ownership in the Negev Desert, resulting in the living of many Bedouins in localities that are not recognized by the state.
+
+---
+
+[EVENT: ISR11965]
+Date: 2022-03-15
+Country: Israel | Location: Umm el Fahm
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [International]
+
+DESCRIPTION:
+Property destruction: On 15 March 2022, bulldozers of the Israeli authorities, escorted by a police force, demolished two Arab-owned dwellings under construction in Umm el Fahm (Haifa, Hadera) for not having a building permit.
+
+---
+
+[EVENT: ISR47600]
+Date: 2022-03-17
+Country: Israel | Location: Umm el Fahm
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Rioters (Israel) [Rioters]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Quds News Network [Regional]
+
+DESCRIPTION:
+Other: On 17 March 2022, two Palestinian rioters hurled rocks at Israelis in Umm el Fahm (Hadera, Haifa). The two men were later arrested by Israeli military forces. There were no casualties.
+
+---
+
+[EVENT: ISR11975]
+Date: 2022-03-22
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [International]
+
+DESCRIPTION:
+Property destruction: On 22 March 2022, Israeli authorities (coded as Police Force of Israel) demolished several improvised dwellings recently built in the unrecognized Bedouin village Al Araqeeb (HaDarom, Beer Sheva). The authorities have thwarted attempts of local Bedouins to rebuild dwellings in the village since its demolition in 2010, as the government does not recognize their claim to the land and demands them to move to alternative lots in nearby towns.
+
+---
+
+[EVENT: ISR11977]
+Date: 2022-03-24
+Country: Israel | Location: Zomet HaMovil
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Unidentified Armed Group (Israel) [Political militia]
+Fatalities: 0
+Sources: Times of Israel; Ynet [National]
+
+DESCRIPTION:
+Weapons seizure: On 24 March 2022, Israeli police forces arrested three Arab Israeli gun smugglers at Zomet HaMovil (Yizreel, HaZafon) after a chase from the Israel-Lebanon border. Police seized 61 weapons and half a kilo of cocaine during the arrest.
+
+---
+
+[EVENT: ISR11987]
+Date: 2022-03-28
+Country: Israel | Location: Nazareth
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Islamic State (IS) [Rebel group]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+On 28 March 2022, a force of the police and Shin Bet arrested 12 Israeli Arabs in Arab localities in northern Israel (HaZafon, Yizreel) on suspicion of ties with the Islamic State organization and seized weapons. The arrest operation was a response to the deadly attack in Hadera the day before perpetrated by an Israeli Arab who tried to join the Islamic State in the past. Arrests were made, among others, in the cities Nazareth, Umm el Fahm, and Sakhnin. [coded as Nazareth]

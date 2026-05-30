@@ -1,0 +1,18 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Jordan (ISO Code: 400)
+Temporal Period: Year 2016 - Quarter Q1
+Total Events in Chunk: 1 / 1
+==================================================
+
+[EVENT: JOR689]
+Date: 2016-03-14
+Country: Jordan | Location: Amman
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Government of Jordan (1999-) [State forces]
+Actor2: Civilians (Jordan) [Civilians]
+Fatalities: 0
+Sources: Al Ghad (Jordan) [National]
+
+DESCRIPTION:
+Agreement: On 14 March 2016, the government reached an agreement with students from the University of Jordan in the city of Amman (Qasabat Amman, Amman), whereby the students ended their strike in exchange for a guarantee that the government would cancel the remaining portion of the planned tuition fee increase of 50% over two years.

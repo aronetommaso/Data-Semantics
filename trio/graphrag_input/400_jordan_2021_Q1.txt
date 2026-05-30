@@ -1,0 +1,82 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Jordan (ISO Code: 400)
+Temporal Period: Year 2021 - Quarter Q1
+Total Events in Chunk: 6 / 6
+==================================================
+
+[EVENT: JOR1016]
+Date: 2021-02-24
+Country: Jordan | Location: Amman
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Jordan (1999-) [State forces]
+Fatalities: 0
+Sources: Jo 24 [National]
+
+DESCRIPTION:
+Security measures: On 24 February 2021, Jordan's government has announced a nationwide lockdown from 10 PM Thursday 25 February till 6 AM Saturday 27 February due to the rise in coronavirus infections. Coded at the capital, Amman (Qasabat Amman).
+
+---
+
+[EVENT: JOR1017]
+Date: 2021-03-03
+Country: Jordan | Location: Amman
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Jordan (1999-) [State forces]
+Fatalities: 0
+Sources: Jo 24 [National]
+
+DESCRIPTION:
+Security measures: On 3 March 2021, the Jordanian authorities announced a nationwide lockdown due to a spike in coronavirus numbers from 10 PM Thursday 4 March 2021 to 6 AM 6 March 2021. Coded at the capital, Amman (Qasabat Amman).
+
+---
+
+[EVENT: JOR2762]
+Date: 2021-03-08
+Country: Jordan | Location: Amman
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Jordan (1999-) [State forces]
+Fatalities: 0
+Sources: Amman Voice; Roya News [National]
+
+DESCRIPTION:
+Security measures: On 8 March 2021, the Jordanian government implemented a nationwide lockdown from Thursday 11 March 10 PM till Saturday 13 March 6 AM due to a rise in coronavirus cases. On 10 March 2021, the government announced the closure of a number of commercial sectors shops and public parks. Coded as Amman (Qasabat Amman, Amman), city capital.
+
+---
+
+[EVENT: JOR2760]
+Date: 2021-03-15
+Country: Jordan | Location: Amman
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Jordan) [Protesters]
+Fatalities: 0
+Sources: Amman Net [National]
+
+DESCRIPTION:
+Strikes: On 15 March 2021, public transportation drivers and owners carried out a strike in Amman, Al Zarqa, Madba, Irbid, and Salt denouncing the government decision to reduce seat capacity to 50% to curb coronavirus spread. Coded Amman (Qasabat Amman, Amman), city capital.
+
+---
+
+[EVENT: JOR2763]
+Date: 2021-03-18
+Country: Jordan | Location: Amman
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Jordan (1999-) [State forces]
+Fatalities: 0
+Sources: Amman Voice [National]
+
+DESCRIPTION:
+Security measures: On 18 March 2021, the Jordanian government implemented a nationwide lockdown for 24 hours from 7 PM Thursday 18 March to 6 AM Saturday 20 March 2021. Coded Amman (Qasabat Amman, Amman), city capital.
+
+---
+
+[EVENT: JOR2764]
+Date: 2021-03-25
+Country: Jordan | Location: Amman
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Jordan (1999-) [State forces]
+Fatalities: 0
+Sources: Amman Voice [National]
+
+DESCRIPTION:
+Security measures: On 25 March 2021, the Jordanian government implemented a nationwide lockdown for 24 hours from 7 PM on 25 March 2021 to 6 AM on 27 March 2021 due to a rise in coronavirus cases. Coded at the Capital, Amman (Qasabat Amman, Amman).

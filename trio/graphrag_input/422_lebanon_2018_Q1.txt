@@ -1,0 +1,135 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Lebanon (ISO Code: 422)
+Temporal Period: Year 2018 - Quarter Q1
+Total Events in Chunk: 10 / 10
+==================================================
+
+[EVENT: LBN345]
+Date: 2018-01-20
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Detonation: Sound grenade explosion in Ain el-Helweh. No casualties.
+
+---
+
+[EVENT: LBN364]
+Date: 2018-02-07
+Country: Lebanon | Location: Sidon
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Movement of forces: Israeli warplanes intensively flew over the city of Sidon this dawn, and effectuated mock raids.
+
+---
+
+[EVENT: LBN374]
+Date: 2018-02-17
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Detonation: A hand grenade tossed in Ain El Hilweh by an unidentified individual. No damage was reported.
+
+---
+
+[EVENT: LBN375]
+Date: 2018-02-25
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+Detonation: An unknown individual hurled a hand grenade Sunday in the Palestinian refugee camp of Ain el-Hilweh in south Lebanon.
+
+---
+
+[EVENT: LBN379]
+Date: 2018-03-02
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Detonation: An unidentified person tossed a sonic bomb in Ein al-Helweh refugee camp at dawn on Friday near Khaled Bin Walid mosque. This was followed by gun shots which left neither physical nor material damage.
+
+---
+
+[EVENT: LBN382]
+Date: 2018-03-07
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Detonation: A blast was heard in Ein El-Helweh Palestinian refugee camp after midnight, NNA field reporter said on Wednesday, adding that it turned out to be a hand grenade tossed near a shop owned by Hassan Ghoutani in Arab Ghweir region. Neither physical, nor material damage has been reported.
+
+---
+
+[EVENT: LBN6006]
+Date: 2018-03-11
+Country: Lebanon | Location: Baalbek
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Daily Star (Lebanon); Lebanon Support [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 11 March 2018, a landmine leftover by Islamic State militants exploded and injured 1 Syrian refugee, in Baalbek.
+
+---
+
+[EVENT: LBN394]
+Date: 2018-03-19
+Country: Lebanon | Location: Nabatiye
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Jordan News Agency [Regional]
+
+DESCRIPTION:
+Movement of Forces: Israeli jets early Monday violated Lebanese airspace and staged mock raids flying at low altitude over the areas of Marjayoun, Bint Jbeil and Hasbaya areas as well as Nabatiye and Iqlim al Tuffah, in southern Lebanon. They also released heat balloons.
+
+---
+
+[EVENT: LBN398]
+Date: 2018-03-25
+Country: Lebanon | Location: Wadi Kahail
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Weapons Seizure: An army patrol discovered 20 kg in explosives in Wadi al-Khayl as well as 16 hand grenades, five 81mm mortar rounds, 50 explosive charges and other equipment that are believed to have belonged to the militants that were driven out of the area last summer by the Lebanese Army.
+
+---
+
+[EVENT: LBN397]
+Date: 2018-03-25
+Country: Lebanon | Location: Baalbek
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Jerusalem Post; Times of Israel [Regional]
+
+DESCRIPTION:
+Movement of Forces: Mixed reports of Israeli bombing occurred in Baalbek on Sunday. Residents claimed they heard bombs and saw Israeli planes but Hezbollah denied that there was an attack and said that the sound could have been from Israeli jets breaking the sound barrier.

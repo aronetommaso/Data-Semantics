@@ -1,0 +1,362 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Turkey (ISO Code: 792)
+Temporal Period: Year 2017 - Quarter Q3
+Total Events in Chunk: 26 / 26
+==================================================
+
+[EVENT: TUR807]
+Date: 2017-07-02
+Country: Turkey | Location: Hakkari
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 97
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+93 PKK militants were killed by the Turkish Military Forces during a counter-terrorism operation from June 29 to July 6, in the southeastern part of the country. An additional 4 Turkish soldiers were killed and 10 were injured during the same operation.
+
+---
+
+[EVENT: TUR884]
+Date: 2017-07-20
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 36 civilians were arrested by the Turkish Police Forces during an anti-coup operation in the Izmir province on Thursday, 20 July 2017.
+
+---
+
+[EVENT: TUR900]
+Date: 2017-07-21
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 155 civilians were arrested by the Turkish Police Forces during an anti-coup operation in the Istanbul province on Friday, 21 July 2017.
+
+---
+
+[EVENT: TUR977]
+Date: 2017-08-11
+Country: Turkey | Location: Tekirdag
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 36 civilians were arrested by the Turkish Police Forces during an anti-coup operation in the Tekirdag province on Friday, 11 August 2017.
+
+---
+
+[EVENT: TUR975]
+Date: 2017-08-11
+Country: Turkey | Location: Mugla
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 31 civilians were arrested by the Turkish Police Forces during an anti-coup operation in the Migla province on Friday, 11 August 2017.
+
+---
+
+[EVENT: TUR988]
+Date: 2017-08-15
+Country: Turkey | Location: Kocaeli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 27 Turkish soldiers were arrested by the Turkish Police Forces during a Kocaeli-based, anti-coup operation in the Kocaeli province on Tuesday, 15 August 2017.
+
+---
+
+[EVENT: TUR1033]
+Date: 2017-08-30
+Country: Turkey | Location: Baglica
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction: The PKK militants burned down 11 heavy machines to be used for road construction in the Baglica neighbourhood of the Siirt province's Merkez district. No injuries were reported.
+
+---
+
+[EVENT: TUR1062]
+Date: 2017-09-07
+Country: Turkey | Location: Manisa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 30 civilians were arrested by the Turkish Police Forces during an anti-coup operation in the Manisa province on Thursday, 7 September 2017.
+
+---
+
+[EVENT: TUR1060]
+Date: 2017-09-07
+Country: Turkey | Location: Kocaeli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 25 civilians were arrested by the Turkish Police Forces during a Kocaeli-based, anti-coup operation in the Kocaeli province on Thursday, 7 September 2017.
+
+---
+
+[EVENT: TUR1057]
+Date: 2017-09-07
+Country: Turkey | Location: Adiyaman
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 32 civilians were arrested by the Turkish Police Forces during an Adiyaman-based, anti-coup operation in the Adiyaman province on Thursday, 7 September 2017.
+
+---
+
+[EVENT: TUR1084]
+Date: 2017-09-13
+Country: Turkey | Location: Cankaya
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 30 civilians were arrested by the Turkish Police Forces as part of the anti-coup operations in the Cankaya district of the Ankara province on Wednesday, 13 September 2017.
+
+---
+
+[EVENT: TUR1086]
+Date: 2017-09-15
+Country: Turkey | Location: Aksaray
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 40 civilians were arrested by the Turkish Police Forces as part of an Aksaray-based, anti-coup operations in 4 different provinces on Friday, 15 September 2017.
+
+---
+
+[EVENT: TUR23361]
+Date: 2017-09-18
+Country: Turkey | Location: Nusaybin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 18 September 2017, Mardin governor's office declared a curfew order in total 14 villages in the Nusaybin district of Mardin, effective until further notice due to ongoing military operations.
+
+---
+
+[EVENT: TUR1095]
+Date: 2017-09-19
+Country: Turkey | Location: Canakkale
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 25 civilians were arrested by the Turkish Police Forces during a Canakkale-based, anti-coup operations in 3 different provinces on Tuesday, 19 September 2017.
+
+---
+
+[EVENT: TUR1096]
+Date: 2017-09-19
+Country: Turkey | Location: Isparta
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 33 civilians were arrested by the Turkish Police Forces during an anti-coup operation in the Isparta province on Tuesday, 19 September 2017.
+
+---
+
+[EVENT: TUR23365]
+Date: 2017-09-21
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 21 September 2017, Diyarbakir governor's office declared a curfew order in total 46 villages in Hazro, Kulp, Silvan and Lice districts of Diyarbakir, effective until further notice due to ongoing military operations.
+
+---
+
+[EVENT: TUR1102]
+Date: 2017-09-22
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 28 people were arrested by the Turkish Police Forces as part of an Izmir-based security operation in the Izmir province on Friday, 22 September 2017.
+
+---
+
+[EVENT: TUR1118]
+Date: 2017-09-26
+Country: Turkey | Location: Sivas
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 35 Turkish soldiers were arrested by the Turkish Police Forces as part of a Sivas-based security operation in the Sivas province on Tuesday, 26 September 2017.
+
+---
+
+[EVENT: TUR1117]
+Date: 2017-09-26
+Country: Turkey | Location: Siirt
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 27 people were arrested by the Turkish Police Forces during a Siirt-based operation in the Siirt province on Tuesday, 26 September 2017.
+
+---
+
+[EVENT: TUR23378]
+Date: 2017-09-26
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 26 September 2017, Hakkari governor's office declared total 31 zones in Semdinli, Yuksekova, Cukurca and the central districts 'special security zones' due to ongoing security operations, banning citizens' entry until 10 October 2017. On 10 October 2017, the governor's office extended the measure until 25 October 2017. On 10 November 2017, the governor's office declared the 31 zones 'special security zones' again due to ongoing security operations, banning citizens' entry until 25 November 2017. On 25 December 2017, the governor's office declared the 31 zones 'special security zones' yet another time, banning citizens' entry until 8 January 2018 due to security risks. On 5 January 2018, the governor's office declared the 31 zones 'special security zones' again, this time banning civilian entry to and exit from them from 9 January to 23 January 2018.
+
+---
+
+[EVENT: TUR1132]
+Date: 2017-09-29
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 60 people were arrested by the Turkish Police Forces during an Istanbul-based operation in the Istanbul province on Friday, 29 September 2017.
+
+---
+
+[EVENT: TUR1135]
+Date: 2017-09-29
+Country: Turkey | Location: Tekirdag
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 44 people were arrested by the Turkish Police Forces during a Tekirdag-based operation in the Tekirdag province on Friday, 29 September 2017.
+
+---
+
+[EVENT: TUR23396]
+Date: 2017-09-29
+Country: Turkey | Location: Semdinli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 29 September 2017, Hakkari governor's office declared a curfew order in total 4 villages and neighborhoods of Semdinli district, forcing the residents to remain indoors between 10pm and 5am and banning entries and exits into / out of the village zones at all times, effective until 10 October 2017 as part of the measures to maintain public order.
+
+---
+
+[EVENT: TUR1133]
+Date: 2017-09-29
+Country: Turkey | Location: Seyhan
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 38 people were arrested by the Turkish Police Forces during a Seyhan-based operation in the Adana province on Friday, 29 September 2017.
+
+---
+
+[EVENT: TUR1129]
+Date: 2017-09-29
+Country: Turkey | Location: Beytussebap
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: 1 handmade explosive device was detonated by the Turkish Military Forces during a counter-terrorism operation in the Beytissebap district of the Sirnak province on Friday, 29 September 2017.
+
+---
+
+[EVENT: TUR1140]
+Date: 2017-09-30
+Country: Turkey | Location: Ogul
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: The Turkish Gendarmerie Forces detanated a vehicle full of explosive devices during a counter-terrorism operation against the PKK militants in the Ogul Koyu neighbourhood of the Hakkari province's Merkez district on Saturday, 30 September 2017.

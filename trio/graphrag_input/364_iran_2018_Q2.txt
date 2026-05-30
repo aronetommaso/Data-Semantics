@@ -1,0 +1,280 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iran (ISO Code: 364)
+Temporal Period: Year 2018 - Quarter Q2
+Total Events in Chunk: 20 / 20
+==================================================
+
+[EVENT: IRN18853]
+Date: 2018-04-02
+Country: Iran | Location: Kermanshah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Military Forces of Iran (1989-) [State forces]
+Fatalities: 1
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 2 April 2018, an Iranian soldier was killed after stepping on a landmine while patrolling near his the military base in Kermanshah district.
+
+---
+
+[EVENT: IRN762]
+Date: 2018-04-03
+Country: Iran | Location: Saravan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Unidentified Armed Group (Iran) [Political militia]
+Fatalities: 0
+Sources: FARS News Agency (Iran) [National]
+
+DESCRIPTION:
+Weapons Seizure: On April 3rd, border guards in Saravan confiscated a consignment of explosives smuggled into the country.
+
+---
+
+[EVENT: IRN16378]
+Date: 2018-04-03
+Country: Iran | Location: Baneh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Strikes: On 3 April 2018, merchants closed their shops and went on strike in Baneh, Saqqez, Marivan and Javanrud cities (Kordestan) over the closure of border crossings employed by Kolbars, as well as the closure of several trade unions.
+
+---
+
+[EVENT: IRN757]
+Date: 2018-04-06
+Country: Iran | Location: Shadegan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iran) [Political militia]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Radio Zamaneh [International]
+
+DESCRIPTION:
+Non-Violent Activity: On April 6th, unidentified armed individuals in Shadegan attacked parked car of MP Majid Nasserinejad and escaped. No one was hurt.
+
+---
+
+[EVENT: IRN16379]
+Date: 2018-04-08
+Country: Iran | Location: Qasr e Shirin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Military Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Islamic Republic of Iran Broadcasting [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 8 April 2018, a soldier was killed in Qasr e Shirin County (Kermanshah) when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN838]
+Date: 2018-04-16
+Country: Iran | Location: Zahedan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Press TV [National]
+
+DESCRIPTION:
+Weapons Seizure: The Iranian Intelligence Ministry reported on Apr 16 that security forces (assumed police) had seized 80kg of explosives, 28 pistols, 2100 bullets, 35 hand grenades 580kg of narcotics, and other weapons in Sistan and Baluchestan Province.
+
+---
+
+[EVENT: IRN16398]
+Date: 2018-04-22
+Country: Iran | Location: Bayani
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Young Journalists Club [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 22 April 2018, 2 occupants of an excavator machine were injured in the town of Bayani (Kermanshah) when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN18854]
+Date: 2018-04-22
+Country: Iran | Location: Sarpol e Zahab
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 22 April 2018, 2 workers were wounded at Bishkan village near Sarpol e Zahab (Kermanshah) after stepping on a landmine that is a remnant from the Iran-Iraq war while they were working with an excavator.
+
+---
+
+[EVENT: IRN18855]
+Date: 2018-04-23
+Country: Iran | Location: Qasr e Shirin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 23 April 2018, 2 workers from a demining company were wounded near Qasr e Shirin (Kermanshah) after they drove over an anti-tank landmine with a bulldozer.
+
+---
+
+[EVENT: IRN16402]
+Date: 2018-04-23
+Country: Iran | Location: Sumar
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Iranian Student News Agency [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: Around 23 April 2018 (as reported), 2 minesweepers were injured in the Sumar District of Qasr e Shirin County (Kermanshah) when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN18856]
+Date: 2018-04-30
+Country: Iran | Location: Saqqez
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Military Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 30 April 2018, an Iranian soldier was injured and lost his leg near the Bastam border military base in Saqqez district (Kurdistan) after stepping on a landmine that is a remnant from the Iran-Iraq war.
+
+---
+
+[EVENT: IRN16319]
+Date: 2018-05-04
+Country: Iran | Location: Baneh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Security measures: On 4 May 2018, a sharply increased number of police and security forces were deployed in Baneh city (Kurdistan) on the 20th day of strikes by that city's merchants in protest over the closure routes used by Kolbars and new customs policies. Internet access was also reportedly cut inside the city.
+
+---
+
+[EVENT: IRN1050]
+Date: 2018-05-09
+Country: Iran | Location: Tehran
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: BBC News [International]
+
+DESCRIPTION:
+Arrests: Police forces arrested 30 people they termed 'disturbers' of the currency market in Tehran on May 9.
+
+---
+
+[EVENT: IRN16334]
+Date: 2018-05-11
+Country: Iran | Location: Peychun
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 11 May 2018, a 12-year-old was severely injured near Peychun village (Kurdistan) when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN18857]
+Date: 2018-05-11
+Country: Iran | Location: Sarvabad
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 11 May 2018, a 12-year old child was injured and lost his hands in Sarvabad (Kurdistan) after stepping on a landmine left over from the Iran-Iraq War.
+
+---
+
+[EVENT: IRN18859]
+Date: 2018-05-13
+Country: Iran | Location: Piranshahr
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 13 May 2018, a Kurdish cross-border porter or Kolbar was wounded and lost his leg at the Dastareh border area in Piranshahr district (West Azerbaijan) after stepping on a landmine that's a remnant from the Iran-Iraq War.
+
+---
+
+[EVENT: IRN18858]
+Date: 2018-05-13
+Country: Iran | Location: Baneh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 13 May 2018, a Kurdish cross-border porter or Kolbar was wounded at the Niravan border area in Baneh district (Kurdistan) after stepping on a landmine that's a remnant from the Iran-Iraq War.
+
+---
+
+[EVENT: IRN16340]
+Date: 2018-05-15
+Country: Iran | Location: Shush
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Islamic Republic News Agency [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 15 May 2018, and agricultural irrigation plan worker was injured in Shush County (Khuzestan) when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN18741]
+Date: 2018-05-19
+Country: Iran | Location: Piranshahr
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 19 May 2018, a Kurdish cross-border porter or Kolbar was wounded at a mountain pass near Piranshahr (West Azerbaijan) after being fired upon by border guards in the Kani Khoda border area.
+
+---
+
+[EVENT: IRN16373]
+Date: 2018-05-26
+Country: Iran | Location: Tehran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Strikes: Around 26 May 2018 (from 22 - 31 May) truck drivers went on strike in dozens of cities throughout Iran in protest over various labor-related grievances including fixed fare rates and the increased costs of insurance, tolls, repairs, and spare parts. Coded at national capital Tehran.

@@ -1,0 +1,2187 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iraq (ISO Code: 368)
+Temporal Period: Year 2016 - Quarter Q3
+Total Events in Chunk: 161 / 161
+==================================================
+
+[EVENT: IRQ16867]
+Date: 2016-07-02
+Country: Iraq | Location: Nahiyat al Amiriyah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: All Iraq News Agency [National]
+
+DESCRIPTION:
+Defusal: On July 2, it was reported that Iraqi forces had cleared 75 IEDs in the area of Amiriya.
+
+---
+
+[EVENT: IRQ16866]
+Date: 2016-07-02
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: All Iraq News Agency [National]
+
+DESCRIPTION:
+Defusal: On July 2, it was reported that Iraqi forces had cleared 120 IEDs in the Falluja district.
+
+---
+
+[EVENT: IRQ16874]
+Date: 2016-07-02
+Country: Iraq | Location: Mintaqat Albu Ubayd
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: All Iraq News Agency [National]
+
+DESCRIPTION:
+Movement of forces: On July 2, the Iraqi army launched a major military operation in order to liberate Khalidiya, and moved in the area of Albu Ubayd.
+
+---
+
+[EVENT: IRQ16865]
+Date: 2016-07-02
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: All Iraq News Agency [National]
+
+DESCRIPTION:
+Weapons Seizure: On July 2, it was reported that Iraqi forces had seized arms, mortar launchers, IED and more at locations north and south Baghdad.
+
+---
+
+[EVENT: IRQ16868]
+Date: 2016-07-02
+Country: Iraq | Location: Baghdad - Karadah
+Type: Explosions/Remote violence > Suicide bomb | Disorder: Political violence
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 293
+Sources: All Iraq News Agency [National]
+
+DESCRIPTION:
+On 2 July 2016, an Islamic State suicide bomber detonated a booby-trapped vehicle in a shopping district in Karada, Baghdad, killing at least 292 people and wounding at least 200 others.
+
+---
+
+[EVENT: IRQ16876]
+Date: 2016-07-03
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Mawqif [National]
+
+DESCRIPTION:
+Weapons Seizure: On July 3, Iraqi forces discovered and seized a car bomb and IED factory in central Falluja.
+
+---
+
+[EVENT: IRQ10477]
+Date: 2016-07-03
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Defusal: On 03-July-2016 Iraqi police forces dismantled an IED/VBIED plant located in Nazzal neighborhood of Fallujah. No fatalities were reported.
+
+---
+
+[EVENT: IRQ16881]
+Date: 2016-07-03
+Country: Iraq | Location: Makhmur
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Movement of forces: On July 3, Iraqi forces launched an operation to liberate the area of Mahallat near Makhmur.
+
+---
+
+[EVENT: IRQ10478]
+Date: 2016-07-03
+Country: Iraq | Location: Baghdad - Karadah
+Type: Explosions/Remote violence > Suicide bomb | Disorder: Political violence
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 292
+Sources: Agence Tunis Afrique Presse; Basnews; Iraq News Gazette [National-International]
+
+DESCRIPTION:
+On 3 July 2017, an SVBIED exploded in the Karadah district of Baghdad resulting in 292 civilian fatalities and wounding nearly 200. The attack was claimed by Islamic State militants. Initial reports listed a second bombing in Baghdad that occurred at the same time, but the event was later described by authorities as an unrelated fire incident and not an attack.
+
+---
+
+[EVENT: IRQ10495]
+Date: 2016-07-04
+Country: Iraq | Location: Makhol
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 60
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On July 04, an IS assault was repelled by Iraqi forces in Makhul, killing 60 militants and destroying 4 car bombs.
+
+---
+
+[EVENT: IRQ10491]
+Date: 2016-07-04
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Mada [National]
+
+DESCRIPTION:
+Arrests: On 4-July-2016 it was reported that Iraqi Security Forces arrested 40 suspected IS members across Baghdad. Iraqi forces obtained weapons and explosives during the arrests. Neither specifiec locations or any fatalities were reported.
+
+---
+
+[EVENT: IRQ10485]
+Date: 2016-07-04
+Country: Iraq | Location: Shirqat
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) Counter-Terrorism Service [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 50
+Sources: Alahed; Press TV [New media-Regional]
+
+DESCRIPTION:
+On 4 July 2016, Iraqi Counterterrorism Service forces conducted operations against IS militants in the town of al-Shirqat in Sala al-Din province resulting a total of 50 IS fatalities.
+
+---
+
+[EVENT: IRQ10492]
+Date: 2016-07-04
+Country: Iraq | Location: Habhab
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Al Masdar [International]
+
+DESCRIPTION:
+Defusal: On 04-July-2016 it was reported that Iraqi forces foiled an attempted car bomb in the Habhab neighborhood in Muqdadiyah, Diyala province. The perpetrators were not identified and no fatalities were reported.
+
+---
+
+[EVENT: IRQ10493]
+Date: 2016-07-04
+Country: Iraq | Location: Khan Bani Saad
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Al Masdar [International]
+
+DESCRIPTION:
+Defusal: On 04-July-2016 it was reported that Iraqi forces foiled an attempted car bomb in the Khan Bani Saad neighborhood in Baquba, Diyala province. The perpetrators were not identified and no fatalities were reported.
+
+---
+
+[EVENT: IRQ16888]
+Date: 2016-07-04
+Country: Iraq | Location: Ramadi
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: All Iraq News Agency [National]
+
+DESCRIPTION:
+Defusal: On July 4, Iraqi forces discovered and defused 19 IEDs in the areas of Al-Salam, Albu Aifan, Halabisa and Juraisha, located in the surroundings of Ramadi and Falluja, Anbar Province.
+
+---
+
+[EVENT: IRQ10510]
+Date: 2016-07-05
+Country: Iraq | Location: At Tarmiyah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: On 05-July-2016 it was reported that Iraqi Military forces seized a large cache of weapons in At Tarmiyah. The seizure included 25 plastic explosives (c4), 38 rulers of bombing, 1 explosive belt, 6 IEDs, and 18 bombing devices.
+
+---
+
+[EVENT: IRQ16898]
+Date: 2016-07-06
+Country: Iraq | Location: Zankurah
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 95
+Sources: All Iraq News Agency [National]
+
+DESCRIPTION:
+On 6 July 2016, it was reported that joint forces of the army, Counter-terrorism service, Anbar police supported by warplanes of the Iraqi air force and the coalition, killed 95 Islamic State militants in the Zankoura area of northern Ramadi.
+
+---
+
+[EVENT: IRQ16897]
+Date: 2016-07-06
+Country: Iraq | Location: Khan Bani Saad
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On July 6, security forces discovered and defused an explosive belt planted in a residential house on the outskirts of Khan Bani Saad.
+
+---
+
+[EVENT: IRQ10524]
+Date: 2016-07-07
+Country: Iraq | Location: Baghdad - Sadr City
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On 07-July-2016 it was reported that members of Saraya al-Salam (Peace Company) dismantled a car bomb in Sadr City, Baghdad. The car had containers containing the same explosive used in the Karrada district bombing days earlier. No fatalities were reported.
+
+---
+
+[EVENT: IRQ10526]
+Date: 2016-07-07
+Country: Iraq | Location: Balad
+Type: Explosions/Remote violence > Suicide bomb | Disorder: Political violence
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 59
+Sources: Anadolu Agency [Regional]
+
+DESCRIPTION:
+On 7 July 2016, 3 Islamic State militants attacked a Shia shrine with suicide vests in the town of Balad, Sala al-Din province. 2 of the attackers detonated their vests while the 3rd attacker was shot by security forces. 56 civilian fatalities and more than 70 civilian wounded were reported. Total fatalities including the attackers were 59.
+
+---
+
+[EVENT: IRQ10525]
+Date: 2016-07-07
+Country: Iraq | Location: Makhol
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On 07-July-2016 it was reported that Iraqi Military Forces destroyed 3 car bombs and 7 motorcycles belonging to IS in Makhoul north of Baiji, Sala al Din province. No fatalities were reported.
+
+---
+
+[EVENT: IRQ10530]
+Date: 2016-07-08
+Country: Iraq | Location: Mintaqat Zankurah
+Type: Battles > Government regains territory | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 300
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+On 8 July 2016, Iraqi Military forces liberated mintaqat Zankurah in Ramadi, Anbar province from IS militants. 300 IS fatalities were reported (half of the 600 total in combination with the operation in Albu Risha.)
+
+---
+
+[EVENT: IRQ10531]
+Date: 2016-07-08
+Country: Iraq | Location: Ramadi
+Type: Battles > Government regains territory | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 300
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+On 8 July 2016, Iraqi Military forces liberated Albu Rishah in Ramadi, Anbar province from IS militants. 300 IS fatalities were reported (half of the 600 total in combination with the operation in Zankurah.)
+
+---
+
+[EVENT: IRQ10552]
+Date: 2016-07-09
+Country: Iraq | Location: Al-Muqdadiya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Property destruction: On 09-July-2016 it was reported that Iraqi Military forces destroyed an IS guest house in Muqdadiyah, Diyala province that was used for storage of explosive materials and to carry out organized crimes within the province. No fatalities were reported.
+
+---
+
+[EVENT: IRQ16918]
+Date: 2016-07-09
+Country: Iraq | Location: Samarra
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Mass Grave: On July 9, the Popular mobilization discovered a prison used by Islamic State militants and a mass grave containing corpses of militants in Samarra.
+
+---
+
+[EVENT: IRQ16910]
+Date: 2016-07-09
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons Seizure: On July 9, it was announced that Iraqi forces seized a weapons workshop, an IED workshop and large amount of weapons in Falluja, 31 IEDs were also cleared on a 100-meter long road in the district.
+
+---
+
+[EVENT: IRQ16922]
+Date: 2016-07-09
+Country: Iraq | Location: Al Ayadhiyah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) Peshmerga [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Interception: on July 9, Peshmerga forces shot down an Islamic State drone in the area of Ayadiya, north of Tal Afar.
+
+---
+
+[EVENT: IRQ16913]
+Date: 2016-07-09
+Country: Iraq | Location: Makhmur
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Movement of forces: On July 9, three divisions of the Rapid response units arrived in Makhmur to take part in the battle for Mosul.
+
+---
+
+[EVENT: IRQ16909]
+Date: 2016-07-09
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On July 9, it was announced that Iraqi forces destroyed 5 hideouts presumably belonging to Islamic State militants, and seized an IED workshop and defused 16 IEDs, 3 caches containing 105 IEDs were also discovered, all in greater Baghdad.
+
+---
+
+[EVENT: IRQ16926]
+Date: 2016-07-10
+Country: Iraq | Location: Karma
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On July 10, the Baghdad operations command announced that its forces detonated 56 IEDs while clearing the road towards Karma, west of Baghdad.
+
+---
+
+[EVENT: IRQ10568]
+Date: 2016-07-10
+Country: Iraq | Location: Ramadi
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: On 10-July-2016 it was reported that Iraqi Miliatry forces descovered a cache of ammunition and weapons in Albu Rishah, Ramadi, Anbar province including 60 IED devices. No fatalities were reported.
+
+---
+
+[EVENT: IRQ16931]
+Date: 2016-07-10
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: All Iraq News Agency [National]
+
+DESCRIPTION:
+Defusal: On July 10, it was announced that forces of the Iraqi army defused 33 IEDs and cleared 15 houses in the village of Husaya, south of Mosul.
+
+---
+
+[EVENT: IRQ10565]
+Date: 2016-07-10
+Country: Iraq | Location: Al Halabsa
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: On 10-July-2016 it was reported that Iraqi Miliatry forces descovered a cache of ammunition and weapons in Halabsa, Falluja, Anbar province including 28 mortar shells. No fatalities were reported.
+
+---
+
+[EVENT: IRQ16928]
+Date: 2016-07-10
+Country: Iraq | Location: Hilla
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: All Iraq News Agency [National]
+
+DESCRIPTION:
+Weapons Seizure: On July 10, it was announced that forces of the Babil operations command discovered a significant arms and explosives cache in the areas of Araj and Adl, located west and southwest of Hilla.
+
+---
+
+[EVENT: IRQ10567]
+Date: 2016-07-10
+Country: Iraq | Location: Dibis
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On 10-July-2016 it was reported that explosives experts foiled the bombing of a gas pipeline near the village of Kif in al Dibis, Kirkuk. The perpetrators were not identified and no fatalities or injuries were reported.
+
+---
+
+[EVENT: IRQ10566]
+Date: 2016-07-10
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Defusal: On 10-July-2016 it was reported that Iraqi Military forces seized and detonated multiple explosive devices across Baghdad. 56 explosives were detonated and the 3 locations containing 105 explosive belts were discovered.
+
+---
+
+[EVENT: IRQ10580]
+Date: 2016-07-11
+Country: Iraq | Location: Haweeja
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Sumaria TV; Press TV [National-Regional]
+
+DESCRIPTION:
+Movement of forces: On 11-July-2016 it was reported that more than half of IS militants in the city of Hawijah, Kirkuk province have fled to Ninewa province as well as 'remote areas'.
+
+---
+
+[EVENT: IRQ16940]
+Date: 2016-07-11
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: TMF: Tribal Mobilization Forces [Identity militia]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Movement of forces: On July 11, the Tribal mobilization entered the city of Falluja in order to secure it together with the army and the police.
+
+---
+
+[EVENT: IRQ16939]
+Date: 2016-07-11
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On July 11, the Baghdad operations command announced having cleared roads in the area of Falluja from IEDs and discovered an IED workshop containing large amounts of IEDs and artisanal rockets.
+
+---
+
+[EVENT: IRQ16957]
+Date: 2016-07-12
+Country: Iraq | Location: Qaryat an Nawafal
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 56
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+On 12 July 2016, it was announced that the Iraqi air force destroyed an Islamic State camp in the village of Shaykh Ali (Nawafal), and killed 55 militants and a suicide bomber, destroyed a technical, four vehicles, and detonated two IEDs. A mortar unit was also destroyed and the team operating killed in the area of Harariyat.
+
+---
+
+[EVENT: IRQ16966]
+Date: 2016-07-14
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) Rapid Reaction Force [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: All Iraq News Agency [National]
+
+DESCRIPTION:
+Defusal: On July 14, military engineering units detonated a booby-trapped vehicle and found 42 IEDs while conducting clearing operations in Albu Ayfan and Falahat, west of Falluja. 70 IEDs were also cleared in Falluja city and three IED factories discovered containing large amounts of IEDs, explosives and projectiles.
+
+---
+
+[EVENT: IRQ10642]
+Date: 2016-07-14
+Country: Iraq | Location: Al Falahat
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On 14-July-2016 it was reported that Anbar Operations Command detonated a carbomb and found 42 explosives near the Falahat area of west Fallujah, Anbar province. No fatalities were reported.
+
+---
+
+[EVENT: IRQ10666]
+Date: 2016-07-15
+Country: Iraq | Location: Khanaqin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 3
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Detonation: On 15-July-2016 it was reported that a Daash militant commander and his 2 bodyguards were killed while trying to transport an IED between the shores of lake Hamrin, Khaniqin, Diyala province.
+
+---
+
+[EVENT: IRQ10665]
+Date: 2016-07-15
+Country: Iraq | Location: Imam Ways
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On 15-July-2016 it was reported that the processing unit of explosives defused an explosive device containing 40kg of C4 that was placed on a road in the vicinity of the Imam Wayis area near Baquba, Diyala province. No fatalities were reported.
+
+---
+
+[EVENT: IRQ10667]
+Date: 2016-07-15
+Country: Iraq | Location: Tikrit
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Displacement: On 15-July-2016 it was reported that Iraqi military forces evacuated more than 300 people in Sala al-Din province. The IDPs were sent to the displaced people gathering center before being sent to the displaced center in Sala al-Din. No exact locations were provided.
+
+---
+
+[EVENT: IRQ16982]
+Date: 2016-07-16
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) Rapid Reaction Force [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Masalah [National]
+
+DESCRIPTION:
+Weapons Seizure: On July 16, Repid response units discovered an IED and explosive belt factory in Falluja, a large amount of devices and IED components were seized.
+
+---
+
+[EVENT: IRQ16995]
+Date: 2016-07-17
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On July 17, it was announced that security forces of the Baghdad operations command had dismantled 29 IEDs and 20 booby-trapped houses in the Falluja district.
+
+---
+
+[EVENT: IRQ17009]
+Date: 2016-07-17
+Country: Iraq | Location: Ramadi
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Defusal: On July 17, the Iraqi army cleared 50 IEDs made of cans filled with C4 and TNT in Ramadi, the IEDs were destroyed by controlled detonation.
+
+---
+
+[EVENT: IRQ10716]
+Date: 2016-07-19
+Country: Iraq | Location: Al-Dulab
+Type: Battles > Government regains territory | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 50
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+On 19 July 2016, it was reported that Iraqi security forces and Sunni tribal paramilitary units, backed by Global Coalition Against Daesh aircraft, regained control over al-Dulab in Hit, Anbar province during a clash with Daesh militants. 50 Daesh fatalities were reported.
+
+---
+
+[EVENT: IRQ17029]
+Date: 2016-07-19
+Country: Iraq | Location: At Tarmiyah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Masalah; Al Maloomah [National]
+
+DESCRIPTION:
+Defusal: On July 19, Iraqi military intelligence dismantled a booby-trapped vehicle in a pre-emptive operation in Tarmiya, the vehicle was reportedly intended to be used in an attack in Baghdad.
+
+---
+
+[EVENT: IRQ10729]
+Date: 2016-07-19
+Country: Iraq | Location: Al Qayyarah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On 19-July-2016 it was reported that Iraqi security forces detonated 8 booby-trapped houses in al-Osajh village in al Qayyarah, Hatra, Ninewa province. The houses were booby-trapped by Daash militants. In addition to the detonations dozens of IEDs were dismantled and 10 Daash militants surrenndered to Iraqi security forces. No fatalities were reported.
+
+---
+
+[EVENT: IRQ10730]
+Date: 2016-07-19
+Country: Iraq | Location: At Tarmiyah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On 19-July-2016 it was reported that Iraqi detachments from the Military Intelligence Directorate in conjunction with the sixth division forces dismantled a car bomb in At Tarmiyah, province that was thought to be equipped to target Baghdad. No injuries or fatalities were reported.
+
+---
+
+[EVENT: IRQ17051]
+Date: 2016-07-20
+Country: Iraq | Location: Nahiyat al Khalidiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Movement of forces: On July 20, large reinforcements of the Iraqi army, Federla police and Tribal fighters arrived in the area of Khalidiya in preparation for storming the area held by Islamic State militants.
+
+---
+
+[EVENT: IRQ17044]
+Date: 2016-07-20
+Country: Iraq | Location: Ain Assad Air Base
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Movement of forces: On July 20, large reinforcements arrived at the Al Asad Air Base in preparation for a military campaign in the Anbar Province.
+
+---
+
+[EVENT: IRQ10743]
+Date: 2016-07-20
+Country: Iraq | Location: Baghdad - Al Rashid
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraq News Gazette; National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: Around 20 July 2016, it was reported that Iraqi forces burned down a building used by militants and detonated (likely defused) 3 IEDs in the Al-Alimah area of Baghdad - Al Rashid, Baghdad. No fatalities or injuries were reported.
+
+---
+
+[EVENT: IRQ17067]
+Date: 2016-07-22
+Country: Iraq | Location: At Tarmiyah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: All Iraq News Agency [National]
+
+DESCRIPTION:
+Weapons Seizure: On July 22, Iraqi forces destroyed three Islamic State hideouts and seized equipment in the area of Tarmiya.
+
+---
+
+[EVENT: IRQ10799]
+Date: 2016-07-24
+Country: Iraq | Location: Shirqat
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 4
+Sources: Iraq News Gazette; National Iraqi News Agency [National]
+
+DESCRIPTION:
+Detonation: On 24-July-2016 it was reported that a large explosion occurred at a Daash-held fuel depot in Shirqat, Sala al-Din province. The origins of the explosion were not reported and there were 4 total Daash fatalities, 4 burned vehicles, and several damaged houses.
+
+---
+
+[EVENT: IRQ17101]
+Date: 2016-07-25
+Country: Iraq | Location: Al Hawr
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: All Iraq News Agency [National]
+
+DESCRIPTION:
+Defusal: On July 25, Iraqi forces defused a booby-trapped vehicle in the Hawr area, north of Baghdad.
+
+---
+
+[EVENT: IRQ10831]
+Date: 2016-07-26
+Country: Iraq | Location: Seneia
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons Seizure: On 26-July-2016 it was reported that members of the Jihad Brigades (PMF) discovered caches of bombs and explosive devices including IEDs and drums filled with explosive material belonging to Daash militants in western Seneia, Baiji, Sala al-Din province.
+
+---
+
+[EVENT: IRQ17123]
+Date: 2016-07-26
+Country: Iraq | Location: Abu Teban
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: All Iraq News Agency [National]
+
+DESCRIPTION:
+Defusal: On July 26, it was announced that Iraqi forces had defused 12 booby-trapped houses and 21 IEDs in the areas of Albu Jafa, Abu Teban and Halabisa.
+
+---
+
+[EVENT: IRQ10859]
+Date: 2016-07-27
+Country: Iraq | Location: Qaryat al Jaffah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On 27-July-2016 it was reported that Iraqi Army troops cleared 12 booby trapped houses and dismantled 21 IEDs and cans filled with C4 in Qarayat al Jaffah (Jifa), Falluja , Anbar province. No fatalities were reported.
+
+---
+
+[EVENT: IRQ17134]
+Date: 2016-07-27
+Country: Iraq | Location: Qaryat Ijhalah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Mass Grave: On July 27, a mass grave was discovered in the village of Ijhala containing the remnants of 40 police officers executed by Islamic State militants.
+
+---
+
+[EVENT: IRQ10858]
+Date: 2016-07-27
+Country: Iraq | Location: Abu Teban
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On 27-July-2016 it was reported that Iraqi Army troops cleared 12 booby trapped houses and dismantled 21 IEDs and cans filled with C4 in Abu Teban, Hit, Anbar province. No fatalities were reported.
+
+---
+
+[EVENT: IRQ17147]
+Date: 2016-07-29
+Country: Iraq | Location: Balad
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: All Iraq News Agency [National]
+
+DESCRIPTION:
+Defusal: On July 29, security forces seized and dismantled a booby-trapped vehicle in the area of Balad.
+
+---
+
+[EVENT: IRQ10895]
+Date: 2016-07-30
+Country: Iraq | Location: Nahiyat al Khalidiyah
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 50
+Sources: Xinhua [International]
+
+DESCRIPTION:
+On 30 July 2016, Iraqi military forces and Popular Mobilization forces, aided by Global Coalition Against Daesh aircraft, clashed with Islamic State militants in the Nahiyat al Khalidiyah area of Ramadi, Anbar province. The clashes resulted in 50 IS fatalities and destroyed 3 IS vehicles carrying heavy machine guns. Addionally, 150 bombs were defused throughout the area.
+
+---
+
+[EVENT: IRQ10903]
+Date: 2016-07-30
+Country: Iraq | Location: Sharwain
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraq News Gazette; National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: On 30-July-2016 it was reported that the explosives processing unit in the Diyala police force defused 2 explosives in Sharwain, Muqdadiyah, Diyala province. No injuries or fatalities were reported and the perpetrators were not identified.
+
+---
+
+[EVENT: IRQ10938]
+Date: 2016-08-01
+Country: Iraq | Location: Al Falahat
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: Iraqi security forces destroyed two host places and defused two explosive devices and opened a road in Falahat and Hsaoh areas, on August 1.
+
+---
+
+[EVENT: IRQ10937]
+Date: 2016-08-01
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons Seizure: security forces in Baghdad have seized 27 IEDs, in addition to a cache with a number of mortar rounds and grenades on August 1, in Fallujah.
+
+---
+
+[EVENT: IRQ10936]
+Date: 2016-08-01
+Country: Iraq | Location: Baghdad - Al Rashid
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: Iraqi security forces destroyed two host places in Mathanik area south of Baghdad on August 1.
+
+---
+
+[EVENT: IRQ10950]
+Date: 2016-08-02
+Country: Iraq | Location: Al Qayyarah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Basnews [Subnational]
+
+DESCRIPTION:
+Non-violent activity: IS militants have opened an oil pipe into the Tigris River near Qayara letting the oil flowing into it in order to make the water undrinkable on August 2.
+
+---
+
+[EVENT: IRQ10998]
+Date: 2016-08-05
+Country: Iraq | Location: Al Qayyarah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Movement of Forces: The US has reportedly sent more troops to a base in Qayyarah base in preparation for the operation to retake the city of Mosul, on August 5.
+
+---
+
+[EVENT: IRQ10988]
+Date: 2016-08-05
+Country: Iraq | Location: Ramadi
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 52
+Sources: Al Jazeera; Basnews [National-Regional]
+
+DESCRIPTION:
+30 Iraqi soldiers and fighters from Iraq's Popular Mobilisation Forces (PMF) died in two suicide attacks in Al-Ramadi during clashes between the Islamic State and the soldiers on August 5. In the meanwhile, the international coalition carried out an airstrike near Ramadi destroying an ISIL tactical unit and four ISIL fighting positions. Bas News, added that 20 IS were killed in the airstrikes. 52 total fatalities.
+
+---
+
+[EVENT: IRQ17226]
+Date: 2016-08-05
+Country: Iraq | Location: Nahiyat al Khalidiyah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Mass Grave: On August 5, security forces discovered a mass grave in the area of Khalidiya, containing corpses of 100 Islamic state militants. No details given for the date of the killings.
+
+---
+
+[EVENT: IRQ11013]
+Date: 2016-08-06
+Country: Iraq | Location: Sada
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Weapons Seizure: Iraqi Police arrested a man with explosive in his car in Sadda district, north of Hilla, on August 6.
+
+---
+
+[EVENT: IRQ11012]
+Date: 2016-08-06
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Weapons seizure: Iraqi Police seized booby-trapped houses containing explosive devices in addition to an explosive belt in Diyala northeast of Baquba, on August 6.
+
+---
+
+[EVENT: IRQ11014]
+Date: 2016-08-06
+Country: Iraq | Location: Haweeja
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 61
+Sources: Iraqi News; Press TV [National-Regional]
+
+DESCRIPTION:
+According to Iraqi government sources, militants of the Islamic State killed 61 civilians by firing squad at a militant base on the outskirts of the militant-held town of Hawijah, on August 6. However, Iraqi news reported that the death were 85.
+
+---
+
+[EVENT: IRQ11038]
+Date: 2016-08-07
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: Iraqi security forces found booby-trapped homes, and defused (84) IEDs, and detonated 22 rockets and 12 mortar during some cleaning operations in Fallujah sector, on Sunday, August 7.
+
+---
+
+[EVENT: IRQ11039]
+Date: 2016-08-07
+Country: Iraq | Location: Sadiya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: Iraqi Military soldiers destroyed four boats used by IS to transport weapons and suicide bombers during an operation in the vicinity of Hamrin Lake northeast of Baquba on August 7. There are no further information about casualties.
+
+---
+
+[EVENT: IRQ11061]
+Date: 2016-08-08
+Country: Iraq | Location: Nahiyat al Khalidiyah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Defusal: Iraqi Military Forces defused 12 improvised explosive devices and 30 booby-trapped houses belonging to IS militants, at Khalidiya Island in eastern Ramadi, on August 8.
+
+---
+
+[EVENT: IRQ11106]
+Date: 2016-08-11
+Country: Iraq | Location: Baiji
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Displacement: according to Iraqi Ministry of Migration and Displacement, 610 displaced people reached Baiji district from Sharqat city and the villages of Qayyarah, south of Mosul, on August 11.
+
+---
+
+[EVENT: IRQ11129]
+Date: 2016-08-13
+Country: Iraq | Location: Nahiyat al Amiriyah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Defusal: Iraqi Military Forces defused hundreds of IEDs at al-Amiriya in southern Fallujah, on August 13.
+
+---
+
+[EVENT: IRQ11128]
+Date: 2016-08-13
+Country: Iraq | Location: Makhmur
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Movement of forces: Military operations have started in Makhmour district near the city of Mosul, to free the area from IS control, on August 13.
+
+---
+
+[EVENT: IRQ17290]
+Date: 2016-08-13
+Country: Iraq | Location: Hammam al Alil
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 60
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+On 13 August 2016, Islamic State militants executed 60 members of the Iraqi police in Hammam al-Alil.
+
+---
+
+[EVENT: IRQ11146]
+Date: 2016-08-14
+Country: Iraq | Location: Nahiyat al Iskandariyah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: Police Forces in Babylon arrested a gunman who was planting an explosive device in in a tower base within the Lakes Region of the Alexandria district, north of Hilla, on August 14.
+
+---
+
+[EVENT: IRQ11163]
+Date: 2016-08-15
+Country: Iraq | Location: Albu Bali
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Weapons Seizure: Anbar Operations Command forces executed security operations in Albu Bali area, resulted in the clearing and searched eight homes, bombing four explosive devices, on Monday 15.
+
+---
+
+[EVENT: IRQ11165]
+Date: 2016-08-15
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: Iraqi security forces cleared many mined roads, and defused booby trapped houses and 12 explosive devices, and dismantled an explosive belt and cleared a path long 1,400 meters in Fallujah, on Monday August 15.
+
+---
+
+[EVENT: IRQ11164]
+Date: 2016-08-15
+Country: Iraq | Location: Baghdad - Al Rashid
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: Iraqi security forces destroyed an IS a guest house and found and in the south of Baghdad a cache containing an explosive device, and 3 mortar rounds, and 4 detonators, on Monday August 15.
+
+---
+
+[EVENT: IRQ11150]
+Date: 2016-08-15
+Country: Iraq | Location: Qaryat Sadiyah
+Type: Battles > Government regains territory | Disorder: Political violence
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2014-2018) Peshmerga [State forces]
+Fatalities: 130
+Sources: Al Arabiya; Basnews; Rudaw [Subnational-National]
+
+DESCRIPTION:
+The Peshmerga forces carried on their offensive against the IS during which they took several positions from the ISIS group near its Mosul bastion, on Monday August 15. Iraqi Kurdish forces had launched the attack on Sunday to retake villages in the Nineveh plain between Mosul, and Erbil, capital of the autonomous Kurdish region. There have been causalities from both sides but the number has not been specified. According to Rudaw website the liberated villages are Hasudiyah, Kanhashi Kabir and Kanhashi Saghir. According to Bassnews around 130 IS fighters were killed.
+
+---
+
+[EVENT: IRQ11166]
+Date: 2016-08-15
+Country: Iraq | Location: Al Hasi
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Weapons Seizure: Anbar Operations Command forces also inspection Hasi and Ajarpia areas from explosive devices, resulted in the discovery of 10 improvised explosive devices, 18 explosive belt, on Monday August 15.
+
+---
+
+[EVENT: IRQ11207]
+Date: 2016-08-17
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraq News Gazette; National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: As reported on August 17, Iraqi security forces defused a car bomb in the vicinity of Baqubah.
+
+---
+
+[EVENT: IRQ11206]
+Date: 2016-08-17
+Country: Iraq | Location: Al-Dulab
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency; Iraqi News [National]
+
+DESCRIPTION:
+Defusal: On August 17, Iraqi forces diffused 8 explosive devices and cleansed 9 residential buildings in al-Doulab.
+
+---
+
+[EVENT: IRQ11225]
+Date: 2016-08-18
+Country: Iraq | Location: Al Latifiyah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) Counter-Terrorism Service [State forces]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Weapons Seizure: As reported on August 18, Counter-Terrorism forces discovered a cache of weapons in Al Latifiyah.
+
+---
+
+[EVENT: IRQ11239]
+Date: 2016-08-19
+Country: Iraq | Location: Al-Muqdadiya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: As reported on August 18, Police forces managed to clear a farm road from the Shakrac bridge and down to the JakJak village north of Muqdadiyah and managed to defuse a number of explosive devices on the road.
+
+---
+
+[EVENT: IRQ11263]
+Date: 2016-08-20
+Country: Iraq | Location: Albu Obaid
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Weapons seizure: As reported on August 20 2016, Iraqi security forces destroyed a weapons caches belonging to IS in Albu Obeid.
+
+---
+
+[EVENT: IRQ11262]
+Date: 2016-08-20
+Country: Iraq | Location: Albu Bali
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Weapons seizure: As reported on August 20 2016, Iraqi security forces destroyed weapons caches belonging to IS in Albu Bali.
+
+---
+
+[EVENT: IRQ11289]
+Date: 2016-08-21
+Country: Iraq | Location: Ramadi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Police Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraq News Gazette; Iraqi News; National Iraqi News Agency [National]
+
+DESCRIPTION:
+Mass Grave: As reported on August 21, Security forces discovered a mass grave containing 30 policemen in Jawaanh village in Anbar (coded at provincial capital).
+
+---
+
+[EVENT: IRQ17380]
+Date: 2016-08-21
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Mass grave: As reported on 21-08-2016, a mass grave of 30 Iraqi policemen was found in Al Juaana village of Mosul district, Ninewa.
+
+---
+
+[EVENT: IRQ11307]
+Date: 2016-08-22
+Country: Iraq | Location: Ramadi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Iraq News Gazette; Iraqi News; National Iraqi News Agency [National]
+
+DESCRIPTION:
+Mass Grave: As reported on August 22, police forces discovered a prison for torture against women and 10 graves in Jawaanh village in Anbar (coded at provincial capital).
+
+---
+
+[EVENT: IRQ17381]
+Date: 2016-08-22
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: As reported on 22-08-2016, Iraqi military forces has defused 21 bombs left by IS and 85 booby trapped houses in Falluja district, Anbar.
+
+---
+
+[EVENT: IRQ17386]
+Date: 2016-08-23
+Country: Iraq | Location: Al Qayyarah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Police Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: As reported on 23 08 2016, IS militants destroyed 20 houses belonging to Iraqi policemen, in Al Qayyarah of Mosul, Ninewa.
+
+---
+
+[EVENT: IRQ11317]
+Date: 2016-08-23
+Country: Iraq | Location: Nahiyat al Khalidiyah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Basnews; Iraqi News [National]
+
+DESCRIPTION:
+Mass Grave: On August 23, Iraqi security forces discovered a mass grave of 20 Islamic State militants in Khalidiya Island.
+
+---
+
+[EVENT: IRQ11329]
+Date: 2016-08-24
+Country: Iraq | Location: Dahuk
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Government of Iraq (2014-2018) Kurdistan Regional Government [State forces]
+Fatalities: 0
+Sources: Basnews [Subnational]
+
+DESCRIPTION:
+Defusal: As reported on August 24, Kurdistan Region Mine Action Agency (MAA), a governmental agency, cleared thousands of square meters of landmines in Duhuk province.
+
+---
+
+[EVENT: IRQ11344]
+Date: 2016-08-25
+Country: Iraq | Location: Baghdad - Adhamiya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency; Iraq News Gazette [National]
+
+DESCRIPTION:
+Defusal: As reported on August 25, Iraqi security forces dismantled a roadside bomb in Adhmaiyah in northern Baghdad.
+
+---
+
+[EVENT: IRQ11333]
+Date: 2016-08-25
+Country: Iraq | Location: Al Qaim
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 50
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+As reported on August 25, Iraqi airstrikes targeted an Islamic State police headquarters in al-Qaim killing 50 IS militants including top military leaders.
+
+---
+
+[EVENT: IRQ11361]
+Date: 2016-08-26
+Country: Iraq | Location: Nahiyat ar Riyad
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 5
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Detonation: As reported on August 26, 5 Islamic State militants were killed while they were attempting to plant an explosive device on the road to Al Khabaz-Riyadh village west of Kirkuk.
+
+---
+
+[EVENT: IRQ11357]
+Date: 2016-08-26
+Country: Iraq | Location: Telafar
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 60
+Sources: Airwars; National Iraqi News Agency [Other-National]
+
+DESCRIPTION:
+As reported on August 26, Iraqi airstrikes hit an Islamic State training camp in the district of Tel Afar killing more than sixty IS militants.
+
+---
+
+[EVENT: IRQ11360]
+Date: 2016-08-26
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) Peshmerga [State forces]
+Fatalities: 0
+Sources: Basnews [Subnational]
+
+DESCRIPTION:
+Defusal: As reported on August 26, Iraqi forces defused over 360 landmines and IEDs in the Kazir area north of Mosul.
+
+---
+
+[EVENT: IRQ11358]
+Date: 2016-08-26
+Country: Iraq | Location: Baghdad - Al Rashid
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons Seizure: As reported on August 26, forces of the Third Battalion of the Brigade 43 carried out operations in Baghdad's Rashidiya area and seized mortar shells and destroyed a boat.
+
+---
+
+[EVENT: IRQ11359]
+Date: 2016-08-26
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons Seizure: As reported on August 26, Rapid Response forces seized a cache of weapons in the district of Fallujah. Forces also diffused a number of mines and booby-trapped houses.
+
+---
+
+[EVENT: IRQ11384]
+Date: 2016-08-27
+Country: Iraq | Location: Al Qayyarah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Mass Grave: As reported on August 27, Iraqi forces discovered a mass grave of tribal leaders and security personnel who had been killed by Islamic State militants in Al Qayyarah.
+
+---
+
+[EVENT: IRQ11437]
+Date: 2016-08-30
+Country: Iraq | Location: Abu Ghraib
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Weapons Seizure: On August 30, Iraqi security forces seized a Kia truck that had 35 rockets installed in it and also had three rocket launchers and 25 Katyusha rockets in the Abu Ghraib area.
+
+---
+
+[EVENT: IRQ11458]
+Date: 2016-09-01
+Country: Iraq | Location: Nahiyat al Ishaqi
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency [International]
+
+DESCRIPTION:
+On 1 Sep., 2016, Saraya Al Salam passed control of Nahiyat al Ishaqi, Balad, Sala al-Din to the Military Forces of Iraq, one year after the location was recaptured from IS.
+
+---
+
+[EVENT: IRQ11468]
+Date: 2016-09-01
+Country: Iraq | Location: Telafar
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 60
+Sources: Middle East Eye [International]
+
+DESCRIPTION:
+On 1 Sep., 2016, Iraqi Airforce bombarded IS base near Tal Afar, Tal Afar, Ninewa, killing 60 militants.
+
+---
+
+[EVENT: IRQ11470]
+Date: 2016-09-01
+Country: Iraq | Location: Al Qayyarah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Rudaw [National]
+
+DESCRIPTION:
+Property destruction: Around 1 September 2016, Islamic State militants set oil fields in Al Qayyarah, Hatra, Ninewa on fire after they lost control of the city to the Military Forces of Iraq.
+
+---
+
+[EVENT: IRQ11471]
+Date: 2016-09-01
+Country: Iraq | Location: Erbil
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: TMF: Tribal Mobilization Forces [Identity militia]
+Fatalities: 0
+Sources: NRT News [National]
+
+DESCRIPTION:
+Recruitment: Reported on 1 September 2016, at least seven children were recruited by the TMF, from Debaga Camp south of Erbil, Erbil. No fatalities reported.
+
+---
+
+[EVENT: IRQ11485]
+Date: 2016-09-02
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons Seizure: reported on 2 Sep. 2016, the Iraqi army dismantled explosives that belong to IS & sized two explosive workshops in Falluja, Falluja, Anbar.
+
+---
+
+[EVENT: IRQ17441]
+Date: 2016-09-03
+Country: Iraq | Location: Ar Rutba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: as reported on 03/09/2016, IS militants destroyed a water station that serves all of Ar Rutba district.
+
+---
+
+[EVENT: IRQ11507]
+Date: 2016-09-04
+Country: Iraq | Location: Bir adh Dhahab
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) Popular Mobilization Forces [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Basnews [National]
+
+DESCRIPTION:
+Looting: on 4 Sep. 2016, PMF forces looted the village of Bi'r adh Dhahab, Tooz, Salah al-Din, which is a Sunni dominated village.
+
+---
+
+[EVENT: IRQ11508]
+Date: 2016-09-04
+Country: Iraq | Location: Hardan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Displacement: on 4 Sep. 2016, 20 families fleeing the IS rule in Sinjar were received by the Peshmerga forces in Hardan, Sinjar, Anbar.
+
+---
+
+[EVENT: IRQ11529]
+Date: 2016-09-05
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Mass Grave: on 5 Sep. 2016, Iraqi Forces found a mass grave with IS militants in it in Falluja, Anbar. Foreign fighters were also found in the grave.
+
+---
+
+[EVENT: IRQ11530]
+Date: 2016-09-05
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Asharq Al Awsat [Regional]
+
+DESCRIPTION:
+Movement of Forces: Reported on 5 Sep. 2016, IS started moving some of its fighters from Syria to Mosul as a preparation for the possible attack in the city by the Iraqi military.
+
+---
+
+[EVENT: IRQ11527]
+Date: 2016-09-05
+Country: Iraq | Location: Al Qayyarah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: eported on 5 Sep. 2016, the Iraqi military completely cleared Al Qayyarah, Hatra, Ninewa from explosives, dismantling 100s of them, that belong to IS.
+
+---
+
+[EVENT: IRQ11528]
+Date: 2016-09-05
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: reported on 5 Sep. 2016, the Iraqi forces defused 100s of explosives that belong to IS in Al Halabsa, al Falahat and Al Nasaf, Falluja, Anbar.
+
+---
+
+[EVENT: IRQ11518]
+Date: 2016-09-05
+Country: Iraq | Location: Haditha
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 60
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Reported on 5 Sep. 2016, the Iraqi Airforce bombarded an IS convoy in Al-Fahmya, Haditha, Anbar, killing more than 60 militants, among which prominent IS commanders. Additionally, the Iraqi Airforce bombarded IS postion in Saqra Village, Haditha, Anbar, killing 15 militants
+
+---
+
+[EVENT: IRQ17482]
+Date: 2016-09-06
+Country: Iraq | Location: Al Qaim
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 80
+Sources: All Iraq News Agency [National]
+
+DESCRIPTION:
+As reported on 06/09/2016, an airstrike by the Iraqi military on an IS gathering killed 80 militants in the Al Qaim district of Anbar province.
+
+---
+
+[EVENT: IRQ11547]
+Date: 2016-09-06
+Country: Iraq | Location: Al Qayyarah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: reported on 6 Sep. 2016, the Iraqi security forces detonated three house bombs in Al Qayyarah, Hatra, Ninewa. The bombs belonged to IS when it used to hold the city before it was recaptured by the Iraqi military.
+
+---
+
+[EVENT: IRQ11550]
+Date: 2016-09-06
+Country: Iraq | Location: Samarra
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Defusal: reported on 6 Sep. 2016, the Iraqi military distamntled three explosive devices in Samarra, Samarra, Sala al-Din.
+
+---
+
+[EVENT: IRQ11549]
+Date: 2016-09-06
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Movement of Forces: on 6 Sep. 2016, France declared its movement of artillery forces and jetplanes to Iraq to support the recapture of Mosul.
+
+---
+
+[EVENT: IRQ11548]
+Date: 2016-09-06
+Country: Iraq | Location: Ar Rutba
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Arrests: reported on 6 Sep. 2016, the Iraqi Police arrested IS Abu Sahab al-Kubaisi (the official of the rockets detachments to the state of Rutba) in Western Anbar.
+
+---
+
+[EVENT: IRQ11564]
+Date: 2016-09-07
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of Forces: reported on 7 Sep. 2016, the military forces of Turkey started gathering around the city of Mosul.
+
+---
+
+[EVENT: IRQ11563]
+Date: 2016-09-07
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: reported on 7 Sep. 2016, the Iraqi intelligence arrested an IS cell in Diyala and confiscated their weapons and explosive materials.
+
+---
+
+[EVENT: IRQ11565]
+Date: 2016-09-07
+Country: Iraq | Location: Nahiyat al Khalidiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of Forces: reported on 7 Sep. 2016, Al Khalidiyah council declared that the PMF forces withdrew compeletely from Nahiyat Al Khalidiyah, Ramadi district, Anbar.
+
+---
+
+[EVENT: IRQ11577]
+Date: 2016-09-08
+Country: Iraq | Location: Al Qayyarah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Weapons seizure: reported on 8 Sep. 2016, the Iraqi police discovered 3 weapon caches, owned by IS, in Al Qayyarah, Hatra district, Ninewa.
+
+---
+
+[EVENT: IRQ11578]
+Date: 2016-09-08
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Arrests: on 8 Sep. 2016, the Iraqi intelligence foiled 3 IS cells, which were planning to carry on attacks on Iraqi forces, in Diyala governate. The source doesn't specify the location or the number of militants arrested.
+
+---
+
+[EVENT: IRQ11583]
+Date: 2016-09-09
+Country: Iraq | Location: Ar Rutba
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 100
+Sources: Al Mada [National]
+
+DESCRIPTION:
+Reported on 10 Sep. 2016, BBC quoted Al Mada Website (reported 9 Sep. 2016) saying that two Iraqi military airstrikes killed 100 IS militants in Al Qaim and Ar Rutba.
+
+---
+
+[EVENT: IRQ11603]
+Date: 2016-09-10
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Movement of forces: reported on 10 Sep. 2016, 180 IS members moved, with their families, from Mosul towards Raqqa, Syria, ahead of the Liberation of Mosul operation.
+
+---
+
+[EVENT: IRQ17531]
+Date: 2016-09-10
+Country: Iraq | Location: Mosul - Al-Ghizlani
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 26
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Detonation: On 10/09/2016, an accidental explosion in Mosul's Al Ghizlani military base, which was controlled by IS, killed 26 IS militants.
+
+---
+
+[EVENT: IRQ17547]
+Date: 2016-09-12
+Country: Iraq | Location: Ar Rutba
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 63
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+As reported on 12 09 2016, Iraqi military repelled an attack by IS in the north of Ar Rutba district, killing 60 IS militants and 3 Iraqi solders.
+
+---
+
+[EVENT: IRQ11629]
+Date: 2016-09-12
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Arrests: reported on 12 Sep. 2016, IS arrested 60 civilians in Mosul, Anbar, who refused to follow the group's order of not allowing civilians to visit graveyards during Eid Al-Adha.
+
+---
+
+[EVENT: IRQ11617]
+Date: 2016-09-12
+Country: Iraq | Location: Mosul
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 70
+Sources: Iraq News Gazette; Iraqi News [National]
+
+DESCRIPTION:
+On 12 Sep. 2016, the Iraqi military and police forces, supported by the Global Coalition, repelled an attack by IS on the 8th police regiment in the axis of Al-Houd, Al-Hadher and Al-Shebali, south of Mosul, on the road to, killing 70 militants.
+
+---
+
+[EVENT: IRQ11628]
+Date: 2016-09-12
+Country: Iraq | Location: Buhriz
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Weapons seizure: reported on 12 Sep. 2016, the Iraqi police discovered and seized a weapon cache, belonging to an unidentified armed group, in a search operation that was conducted in a string of villages south of Buhriz, Muqdadiyah, Diyala. No reported fatalities.
+
+---
+
+[EVENT: IRQ11665]
+Date: 2016-09-15
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Movement of Forces: reported on 15 Sep. 2016, IS deployed an elite unit at the entrances of Mosul city, Anbar, to avoid (as the source said) internal dispites among its members.
+
+---
+
+[EVENT: IRQ17574]
+Date: 2016-09-15
+Country: Iraq | Location: Rawah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 7
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Detonation: As reported on 15/09/2016, an explosion in a bomb making factory killed 7 IS militants in Rawah, Anah district of Anbar.
+
+---
+
+[EVENT: IRQ11700]
+Date: 2016-09-17
+Country: Iraq | Location: Sidakan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Basnews [Subnational]
+
+DESCRIPTION:
+Displacement: on 17 Sep. 2016, around 100 Kurdish families, living on the borders with Iran, fled their homes fearing the continuation of Iranian bombardment targeting the Sidakan region, Soran district, Erbil.
+
+---
+
+[EVENT: IRQ11699]
+Date: 2016-09-17
+Country: Iraq | Location: Musayab
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Weapons seizure: on 17 Sep. 2016, the Iraqi police arrested an unidentified gunman, who was carrying explosives in his car, in Musayab city, Babylon.
+
+---
+
+[EVENT: IRQ11720]
+Date: 2016-09-18
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Defusal: on 18 Sep. 2016, an Iraqi bomb squad successfully dismantled an explosive device, attached to a car, in Sadoun street, central Baghdad.
+
+---
+
+[EVENT: IRQ11719]
+Date: 2016-09-18
+Country: Iraq | Location: Al Waleed Border Crossing
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Weapons seizure: reported on 18 Sep. 2018, the Iraqi security forces seized 3 trucks carrying explosive materials (as a cargo) coming from Syria into Baghdad.
+
+---
+
+[EVENT: IRQ11746]
+Date: 2016-09-19
+Country: Iraq | Location: Al Baaj
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: Around 19 September 2016 (as reported), IS destroyed Al Hikma mosque in Al Baaj, Al Baaj district, Ninewa.
+
+---
+
+[EVENT: IRQ17649]
+Date: 2016-09-20
+Country: Iraq | Location: Qaryat Tulul al Baj
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Interception: as reported on Sep 20 2016, Iraq military shot down an IS spy drone that was cruising over their areas in Qaryat Tulul al Baj, Shirqat district, Sala al-Din.
+
+---
+
+[EVENT: IRQ11770]
+Date: 2016-09-20
+Country: Iraq | Location: Kirkuk
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Basnews [Subnational]
+
+DESCRIPTION:
+Movement of Forces: reported on 20 Sep. 2016, the PKK depolyed its militants, upon a request from the governor of Kirkuk, in Kirkuk district and the surrounding areas to help in the conflict against IS.
+
+---
+
+[EVENT: IRQ17665]
+Date: 2016-09-21
+Country: Iraq | Location: Al Khadraniyah
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+On Sep 21 2016, Popular Mobilization Forces raised their flags in Qaryat al Khadraniyah, Shirqat district, Sala al-Din. No fatalities were reported.
+
+---
+
+[EVENT: IRQ11797]
+Date: 2016-09-22
+Country: Iraq | Location: Shirqat
+Type: Explosions/Remote violence > Air/drone strike | Disorder: Political violence
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 60
+Sources: Facebook [New media]
+
+DESCRIPTION:
+Reported on 22 Sep. 2016, the Iraqi air forces, supported by the Global Coalition, killed 60 IS militants east of Shirqat, Shirqat district, Sala al-Din.
+
+---
+
+[EVENT: IRQ11809]
+Date: 2016-09-24
+Country: Iraq | Location: Azwai City
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Movement of forces: On 24 Sep. 2016, the Iraqi forces started an offensive to capture Azwai city, Baiji district, Sala al-Din. No reported fatalities.
+
+---
+
+[EVENT: IRQ11825]
+Date: 2016-09-24
+Country: Iraq | Location: Abu Saida
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Security Measures: the Iraqi forces imposed a curfew in Abu Saida, Muqdadiyah district, Diyala, to avoid fatalities amid the tribal conflict in the area.
+
+---
+
+[EVENT: IRQ11826]
+Date: 2016-09-24
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2014-2018) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Arrests: reported on 24 Sep. 2016, the Iraqi intelligence arrested several members of an unidentified armed group who were plotting attacks on Shiite pilgrims in the month of Muharram.
+
+---
+
+[EVENT: IRQ11850]
+Date: 2016-09-25
+Country: Iraq | Location: Shirqat
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Arrests: on 25 Sep. 2016, the Shirqat IS governor was arrested by the Iraqi forces while he was trying to escape the city of Shirqat, Sala al-Din after the Iraqi forces captured the city from IS.
+
+---
+
+[EVENT: IRQ11849]
+Date: 2016-09-25
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Security Measures: IS told Mosul residents to stay home next month and intend to impose a curfew in the city ahead of the expected Iraqi forces attack to capture the city from the militant group.
+
+---
+
+[EVENT: IRQ11870]
+Date: 2016-09-26
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Defusal: the Iraqi forces dismantled explosives in 350 houses in Fallujah city, Anbar. The explosives belonged to IS, who were in control of the city before it was captured by the Iraqi forces.
+
+---
+
+[EVENT: IRQ11903]
+Date: 2016-09-28
+Country: Iraq | Location: Makhol
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Arrests: On 28 Sep. 2016, an IS commander, close to Al Baghdadi, called Thaer Muzahim was arrested by the PMU in Makhul sector, Baiji, Sala al Din.
+
+---
+
+[EVENT: IRQ11902]
+Date: 2016-09-28
+Country: Iraq | Location: Haweeja
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 16
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Detonation: on 28 Sep. 2016, an explosive belt wrongly detonated at an IS meeting killing 16 militants in al Mahawis village, Haweeja, Kirkuk.
+
+---
+
+[EVENT: IRQ11901]
+Date: 2016-09-28
+Country: Iraq | Location: Al Qayyarah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Property destruction: On 28 September 2016, IS set 3 oil fields near Al Qayyarah, Hatra district, Ninewa, on fire.

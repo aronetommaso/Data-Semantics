@@ -1,0 +1,528 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Turkey (ISO Code: 792)
+Temporal Period: Year 2016 - Quarter Q1
+Total Events in Chunk: 38 / 38
+==================================================
+
+[EVENT: TUR1929]
+Date: 2016-01-02
+Country: Turkey | Location: Nusaybin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Cihan News Agency [National]
+
+DESCRIPTION:
+Defusal: On Jan 2 2016, police detonated two propane cylinders filled with explosive materials by the PKK on the highway in the Nusaybin district of Mardin.
+
+---
+
+[EVENT: TUR1930]
+Date: 2016-01-02
+Country: Turkey | Location: Sirnak
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Change to armed group: On Jan 2, Civil Protection Units, YPS, announced to have formed the Sirnak wing of the group to fight against the Turkish military forces in the province.
+
+---
+
+[EVENT: TUR1940]
+Date: 2016-01-04
+Country: Turkey | Location: Sur
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Defusal: On Jan 4, Turkish security forces removed one barricade, filled in one trench and destroyed 13 IEDs in the operation in Diyarbakir's Sur District.
+
+---
+
+[EVENT: TUR1946]
+Date: 2016-01-05
+Country: Turkey | Location: Silopi
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2002-2016) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Xinhua; AFP [International]
+
+DESCRIPTION:
+Arrests: On Jan 5, Turkish security forces detained 58 members of the PKK while they were trying to flee the the Silopi town in Sirnak disguised as residents.
+
+---
+
+[EVENT: TUR5354]
+Date: 2016-01-09
+Country: Turkey | Location: Bilgili
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction: Reported on Thursday, 1 September 2016, the PKK militants set a minibus on fire in the Bilgili village of the Siirt province's Eruh district.
+
+---
+
+[EVENT: TUR1975]
+Date: 2016-01-10
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Dogan News Agency; Xinhua [National-International]
+
+DESCRIPTION:
+Arrests: On Jan 10, the Turkish Police Forces detained 33 suspected member of Islamic State in Istanbul and Ankara by initiating simultaneous operations.
+
+---
+
+[EVENT: TUR2057]
+Date: 2016-01-21
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Turkish Government News; ProtectDefenders.eu; Human Rights Foundation of Turkey [Local partner-Other]
+
+DESCRIPTION:
+Arrests: Turkish police detained at least 27 academics, 10 days after they had released a petition which condemned the military's human rights violations in the south-east, called for a lifting of the curfews and a return to peace negotiations with the PKK. The government accused them of spreading terrorist propaganda, and in total more than 1000 academics faced trial for signing the petition.
+
+---
+
+[EVENT: TUR2103]
+Date: 2016-01-30
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: On January 30 in Izmir, police forces dispersed a concert of the music band Grup Yorum that is known to be anti-government and detained 45 people with the accusation of illegal organization propaganda.
+
+---
+
+[EVENT: TUR2116]
+Date: 2016-02-01
+Country: Turkey | Location: Idil
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Turkish Government News [Other]
+
+DESCRIPTION:
+Property destruction: On 1 February 2016, PKK set three school buildings on fire in Idil district of Sirnak heavily damaging them. No casualties were reported.
+
+---
+
+[EVENT: TUR2117]
+Date: 2016-02-01
+Country: Turkey | Location: Nusaybin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Property Destruction: As reported on Feb 1 2016, some PKK militants reportedly burned an empty hospital down by throwing Molotov bombs in the center of Nusaybin district of Mardin.
+
+---
+
+[EVENT: TUR2168]
+Date: 2016-02-09
+Country: Turkey | Location: Oguzeli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Turkish Government News [Other]
+
+DESCRIPTION:
+Arrests: Turkish Armed Forces detained 34 people and seized explosives and suicide-bomber vests as they tried to enter Turkey from Syria, in Oguzeli district of Gaziantep, on February 9. 20 of the detained were reported to be children and they were crossing border across an area controlled by Islamic State.
+
+---
+
+[EVENT: TUR5368]
+Date: 2016-02-09
+Country: Turkey | Location: Semdinli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2002-2016) [State forces]
+Actor2: Unidentified Armed Group (Turkey) [Political militia]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction: Reported on Friday, 2 September 2016, the Turkish Military Forces destroyed several shelters that are believed to be used by militants in the Semdinli district of the Hakkari province.
+
+---
+
+[EVENT: TUR2176]
+Date: 2016-02-10
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: HPG reported that on February 10, the group took the control of a road between Diyarbakir and Bingol and stopped hundreds of vehicles at checkpoints. The vehicles belonging to a cargo company reportedly supporting AKP were taken aside and their cargo burned. No injuries were reported.
+
+---
+
+[EVENT: TUR2185]
+Date: 2016-02-11
+Country: Turkey | Location: Antalya
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Arrests: 25 people, many of whom are minors, were detained by police forces in Antalya city, accused of being members of YDG-H as reported on February 11.
+
+---
+
+[EVENT: TUR2204]
+Date: 2016-02-13
+Country: Turkey | Location: Tarsus
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey; Today's Zaman [Other-National]
+
+DESCRIPTION:
+Property destruction: On February 13, unidentified people broke into the HDP district quarters of Tarsus/Mersin and vandalised the inside.
+
+---
+
+[EVENT: TUR2203]
+Date: 2016-02-13
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Military Forces of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property Destruction: HPG reported that on February 13, the group took the control of a road between Diyarbakir and Silvan and burned down two vehicles belonging to Turkish security forces. No further information or casualty report.
+
+---
+
+[EVENT: TUR2205]
+Date: 2016-02-13
+Country: Turkey | Location: Tarsus
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: On February 13, 51 people were detained in Tarsus district of Mersin as they attended the protests being held previously on the anniversary of PKK Leader Ocalan's arrest.
+
+---
+
+[EVENT: TUR2218]
+Date: 2016-02-14
+Country: Turkey | Location: Nusaybin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property Destruction: On February 14 2016, PKK militants set two schools on fire in the center of Nusaybin/Mardin.
+
+---
+
+[EVENT: TUR2219]
+Date: 2016-02-14
+Country: Turkey | Location: Tarsus
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Today's Zaman [National]
+
+DESCRIPTION:
+Arrests: Turkish Police Forces detained 42 people in Tarsus district of Mersin as part of operations against the Patriotic Revolutionary Youth Movement YDG-H as reported on February 14.
+
+---
+
+[EVENT: TUR2212]
+Date: 2016-02-14
+Country: Turkey | Location: Sirnak
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Police Forces of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Other: In central Cumhuriyet, Dicle and Yesilyurt neighborhoods of Sirnak on February 14 (the anniversary of his arrest), a group of masked PKK supporters opened fire in the air over the prison of PKK Leader Ocalan. When police forces appeared, the gunmen ran away.
+
+---
+
+[EVENT: TUR2290]
+Date: 2016-02-21
+Country: Turkey | Location: Kocakoy
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: HPG reported that on February 21, the group destroyed a major part of an oil field belonging to Turkish Petroleum Corporation, in Kocakoy district of Diyarbakir.
+
+---
+
+[EVENT: TUR2289]
+Date: 2016-02-21
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Non-Violent Activity: HPG reported that on February 21, the group took the control of a road between Diyarbakir and Bingol, stopping the passing vehicles and making ID checks.
+
+---
+
+[EVENT: TUR2333]
+Date: 2016-02-27
+Country: Turkey | Location: Sirnak
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Kurdistan24 [International]
+
+DESCRIPTION:
+Defusal: Turkish security forces defused a bomb intended to explode an oil pipeline in Sirnak Province, on February 27.
+
+---
+
+[EVENT: TUR2374]
+Date: 2016-03-03
+Country: Turkey | Location: Lice
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Military Forces of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: HPG claimed that on March 3, the group blocked a road in Lice district of Diyarbakir and performed ID checks on passengers. They also burned down two vehicles belonging to Turkish forces.
+
+---
+
+[EVENT: TUR2380]
+Date: 2016-03-04
+Country: Turkey | Location: Eskisehir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: On March 4, 40 people suspected to be DHKP-C members were detained in Eskisehir when they arrived the city to attend the funeral of a DHKP-C member who previously attacked a police station in Istanbul and was killed.
+
+---
+
+[EVENT: TUR2411]
+Date: 2016-03-08
+Country: Turkey | Location: Ipekyolu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction: On 8 March 2016, two primary schools in Ipekyolu district of Van were attacked by unknown militants throwing Molotov cocktails. Heavy damage reported to the buildings, no casualties.
+
+---
+
+[EVENT: TUR2442]
+Date: 2016-03-13
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property Destruction: PKK website claimed that on March 13, the group blocked a road between Diyarbakir and Bingol and performed ID checks. Four vehicles reported to belong to AKP were destroyed, although no civilians were hurt.
+
+---
+
+[EVENT: TUR2444]
+Date: 2016-03-13
+Country: Turkey | Location: Yuksekova
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Security Measures: On March 13, a curfew was imposed by Turkish government in Yuksekova district of Hakkari, in order to restore order and security in the area.
+
+---
+
+[EVENT: TUR2443]
+Date: 2016-03-13
+Country: Turkey | Location: Nusaybin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Security Measures: On March 13 2016, a curfew was imposed by the Turkish government in Nusaybin district of Mardin, in order to restore order and security in the area.
+
+---
+
+[EVENT: TUR2456]
+Date: 2016-03-14
+Country: Turkey | Location: Adana
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: Turkish police detained at least 36 people suspected of having links to PKK in Adana province on March 14.
+
+---
+
+[EVENT: TUR2457]
+Date: 2016-03-14
+Country: Turkey | Location: Edirne
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction. On March 14, HDP branch of Edirne was attacked by three people that fired on the building many times, causing damage. No casualties.
+
+---
+
+[EVENT: TUR2469]
+Date: 2016-03-15
+Country: Turkey | Location: Adana
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: On March 15, 27 people were detained in Adana city with the suspicion of being members of anti-government organizations.
+
+---
+
+[EVENT: TUR2475]
+Date: 2016-03-16
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: On March 16, the terror branch of police forces arrested 36 people, mostly lawyers, in 16 different districts of Istanbul on the charges of 'corrupting the unity of the state'.
+
+---
+
+[EVENT: TUR2484]
+Date: 2016-03-18
+Country: Turkey | Location: Hani
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Defusal: On March 18, a car laden with about 150 kg of explosives was found in front of a primary school in the center of Hani district in Diyarbakir. A bomb team defused the explosives.
+
+---
+
+[EVENT: TUR2494]
+Date: 2016-03-19
+Country: Turkey | Location: Siirt
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: At some point during simultaneous police operations in Siirt province from March 18-20, 30 people, including DBP members, were detained by police.
+
+---
+
+[EVENT: TUR2503]
+Date: 2016-03-20
+Country: Turkey | Location: Bayrampasa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Property destruction: On March 20, unidentified people attacked the HDP Bayrampasa branch building in Istanbul, breaking the windows.
+
+---
+
+[EVENT: TUR2528]
+Date: 2016-03-23
+Country: Turkey | Location: Midyat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: HPG Website reported that on March 23, the group took the control of a road between Midyat district of Mardin and Guclukonak. Two trailer trucks reportedly belonging to AKP were burned down.
+
+---
+
+[EVENT: TUR2595]
+Date: 2016-03-30
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: On March 30, 27 people were detained when they organized a commemorative event in Ankara for the victims of the 1972 Kizildere Massacre.

@@ -1,0 +1,43 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Oman (ISO Code: 512)
+Temporal Period: Year 2020 - Quarter Q1
+Total Events in Chunk: 3 / 3
+==================================================
+
+[EVENT: OMN11]
+Date: 2020-01-10
+Country: Oman | Location: Muscat
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Oman (1970-2020) [State forces]
+Fatalities: 0
+Sources: AP; BBC News [International]
+
+DESCRIPTION:
+Non-violent activity: On 10 January 2020, Sultan Qaboos bin Said Al Said of Oman, the ruler of Oman, died from cancer aged 79. On 11 January 2020, Oman announced Haitham bin Tariq Al Said as the new ruler of the country. He is a cousin of late Sultan Qaboos, and a career diplomat who served as the minister of national heritage and culture.
+
+---
+
+[EVENT: OMN12]
+Date: 2020-03-15
+Country: Oman | Location: Muscat
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Oman (2020-) [State forces]
+Fatalities: 0
+Sources: Times of Oman; Oman Daily Observer [National]
+
+DESCRIPTION:
+Security measures: On 15 March 2020, amidst the spread of the coronavirus, Oman closed all schools, universities and other educational institutions for 30 days - subject to review and evaluation. On 18 March, also all places of worship, cinemas, gyms, sport clubs, barber shops and all shops in shopping malls apart from foodstuff and medical outlets were closed and banned public all gatherings.
+
+---
+
+[EVENT: OMN13]
+Date: 2020-03-17
+Country: Oman | Location: Muscat
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Oman (2020-) [State forces]
+Fatalities: 0
+Sources: Times of Oman [National]
+
+DESCRIPTION:
+Security measures: On 17 March 2020, amidst the spread of the coronavirus, Oman restricted entry to the country only to Omani nationals. Omani nationals are however not allowed to depart to other countries.

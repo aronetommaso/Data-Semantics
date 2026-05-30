@@ -1,0 +1,18 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Qatar (ISO Code: 634)
+Temporal Period: Year 2022 - Quarter Q3
+Total Events in Chunk: 1 / 1
+==================================================
+
+[EVENT: QAT34]
+Date: 2022-08-17
+Country: Qatar | Location: Doha
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Qatar (2013-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: AFP; AP; Doha News [National-International]
+
+DESCRIPTION:
+On 17 August 2022, Qatari security forces arrested around 60 foreign workers in Doha (Ad Dawnah) and deported some of them after they organized a demonstration on 14 August 2022 to demand the payment of several months of unpaid salaries.

@@ -1,0 +1,134 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Jordan (ISO Code: 400)
+Temporal Period: Year 2019 - Quarter Q2
+Total Events in Chunk: 10 / 10
+==================================================
+
+[EVENT: JOR359]
+Date: 2019-04-15
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: As reported on April 15, in the last 24 hours, 795 Syrian refugees returned to Syria from Jordan, through the Nassib crossing with Syria.
+
+---
+
+[EVENT: JOR358]
+Date: 2019-04-16
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: As reported on April 16, in the last 24 hours, 661 Syrian refugees returned to Syria from Jordan, through the Nassib crossing with Syria.
+
+---
+
+[EVENT: JOR357]
+Date: 2019-04-17
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: As reported on April 17, in the last 24 hours, 781 Syrian refugees returned to Syria from Jordan, through the Nassib crossing with Syria.
+
+---
+
+[EVENT: JOR371]
+Date: 2019-04-23
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: Around 23 April 2019 (as reported), in the last 24 hours, 579 Syrian refugees returned to Syria from Jordan, through the Nassib crossing with Syria.
+
+---
+
+[EVENT: JOR386]
+Date: 2019-04-29
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: As reported on April 29, in the last 24 hours, 727 Syrian refugees returned to Syria from Jordan, through the Nassib crossing with Syria.
+
+---
+
+[EVENT: JOR387]
+Date: 2019-05-01
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: As reported on April 29, in the last 24 hours, 789 Syrian refugees returned to Syria from Jordan, through the Nassib crossing with Syria.
+
+---
+
+[EVENT: JOR392]
+Date: 2019-05-13
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: As reported on May 13, in the last 24 hours, 670 Syrian refugees returned to Syria from Jordan, through the Nassib crossing with Syria.
+
+---
+
+[EVENT: JOR397]
+Date: 2019-05-27
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: As reported on May 27, in the last 24 hours, 747 Syrian refugees returned to Syria from Jordan through the Naseeb crossing.
+
+---
+
+[EVENT: JOR398]
+Date: 2019-05-29
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: As reported on May 27, in the last 24 hours, 861 Syrian refugees returned to Syria from Jordan through the Naseeb crossing.
+
+---
+
+[EVENT: JOR416]
+Date: 2019-06-21
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: As reported on June 21, in the last 24 hours, 856 Syrian refugees returned to Syria from Jordan through the Naseeb crossing.

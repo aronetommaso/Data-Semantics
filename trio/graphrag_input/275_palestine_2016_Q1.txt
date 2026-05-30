@@ -1,0 +1,1336 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Palestine (ISO Code: 275)
+Temporal Period: Year 2016 - Quarter Q1
+Total Events in Chunk: 96 / 96
+==================================================
+
+[EVENT: PSE2169]
+Date: 2016-01-01
+Country: Palestine | Location: Ramallah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Non-Violent Activity: Israel handed over to their families Friday the bodies of 23 Palestinians killed during recent attacks on Israelis, the army said, in an apparent bid to ease tensions.
+
+---
+
+[EVENT: PSE2186]
+Date: 2016-01-04
+Country: Palestine | Location: Al Quds - Jabal al Mukabbir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Property destruction: On January 4 2016, Israeli forces on Monday destroyed the east Jerusalem homes in the neighbourhood of Jabel Mukaber of two Palestinians who killed four Israelis in one of the deadliest days in the recent surge in violence.
+
+---
+
+[EVENT: PSE2187]
+Date: 2016-01-04
+Country: Palestine | Location: Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: Israeli forces Monday morning opened live fire at Palestinian farmers to the east of Gaza city. Israeli forces in borderline watchtowers in Nahal Oz opened heavy gunfire on farmers attempting to reach their fields near the border, forcing them to flee. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2195]
+Date: 2016-01-06
+Country: Palestine | Location: Al Quds - Maale Adumim
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Property destruction: On January 6 2016, Israeli forces on Wednesday morning demolished five dwellings housing Palestinian Bedouin families in the Abu Nuwwar community east of Jerusalem -- part of the wider E1 corridor -- leaving 25 people homeless.
+
+---
+
+[EVENT: PSE2194]
+Date: 2016-01-06
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestinian News Network [National]
+
+DESCRIPTION:
+Other: Israeli Naval Forces on Wednesday morning targeted a fishing boat off Al-Sudaniya shores in Gaza, causing it to catch on fire. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE10069]
+Date: 2016-01-09
+Country: Palestine | Location: Surda
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Property destruction: On 9 January 2016, Israeli military forces demolished the house of the family of a Palestinian who previously attacked Israeli soldiers, in Surda.
+
+---
+
+[EVENT: PSE10878]
+Date: 2016-01-10
+Country: Palestine | Location: Yabad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Land seizure: On 10 January 2016, Israeli military forces seized 300 Dunams of private Palestinian farm lands in Yabad village.
+
+---
+
+[EVENT: PSE2217]
+Date: 2016-01-11
+Country: Palestine | Location: Bir Zayt
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Security Measures: The Israeli army raided Birzeit University in the occupied West Bank overnight, seizing computer equipment and causing damage.
+
+---
+
+[EVENT: PSE2216]
+Date: 2016-01-11
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: Israeli naval boats Monday morning opened fire on Palestinian fishers off the coast of Beit Lahia in the northern Gaza Strip. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2226]
+Date: 2016-01-14
+Country: Palestine | Location: Umm al Nassr
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 14 January 2016, Israeli military vehicles entered the border area of the northern Gaza Strip and levelled land near the village of Beit Lahiya, coded to Umm al Nassr (North Gaza). Four Israeli tractors crossed 100 meters past the border fence into the Gaza Strip and levelled land north of Beit Lahiya.
+
+---
+
+[EVENT: PSE2236]
+Date: 2016-01-15
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Other: Israeli naval forces fired at Palestinian fishers off the coast of the northern Gaza Strip on Friday morning. After the gunshots were fired, fishers were forced to return to shore. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2241]
+Date: 2016-01-16
+Country: Palestine | Location: Coast of Khan Yunis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency; Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: Israeli navy ships opened fire at Palestinian fishing boats off the Coast of Khan Yunis in the southern Gaza Strip on Saturday. The fired caused large financial damages to ships. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2240]
+Date: 2016-01-16
+Country: Palestine | Location: Hebron
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Non-violent activity: Shots were fired in central Hebron prompting heavy deployment of Israeli forces to search for the shooter.
+
+---
+
+[EVENT: PSE2239]
+Date: 2016-01-16
+Country: Palestine | Location: An Nabi Salih
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Security Measures: Israeli forces on Saturday blocked the main entrance of the village of Nabi Saleh to the northwest of Ramallah district, disrupting and preventing the movement of Palestinian locals.
+
+---
+
+[EVENT: PSE2250]
+Date: 2016-01-19
+Country: Palestine | Location: Jannatah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Security Measures: Israeli forces Tuesday sealed off the main entrance of the town of Janata to the east of Bethlehem, with dirt mounds.
+
+---
+
+[EVENT: PSE2262]
+Date: 2016-01-21
+Country: Palestine | Location: Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: Israeli forces Thursday morning opened fire at Palestinian farmers to the east of Gaza City. Israeli forces stationed in Nahal Oz military base opened heavy gunfire at a number of Palestinian farmers as they approached their farmlands, forcing them to leave. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2260]
+Date: 2016-01-21
+Country: Palestine | Location: Al Quds - Al Ayzariyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Property destruction: On January 21 206, Israeli bulldozers demolished three housing structures belonging to Palestinian Bedouins in El Eizariya on Thursday, displacing 17 Palestinians, half of them children.
+
+---
+
+[EVENT: PSE2261]
+Date: 2016-01-21
+Country: Palestine | Location: Hebron
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Non-Violent Activity: Israeli forces on Friday evicted dozens of settlers from two buildings in central Hebron. The ownership of these buildings is contested.
+
+---
+
+[EVENT: PSE2272]
+Date: 2016-01-23
+Country: Palestine | Location: Al Quds - Abu Dis
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 1
+Sources: Jerusalem Post [Regional]
+
+DESCRIPTION:
+Detonation: On 23 January 2016, a Palestinian man approached a security outpost near Al Quds - Abu Dis holding a bomb which exploded prematurely killing the man but causing no injuries to anyone else.
+
+---
+
+[EVENT: PSE2273]
+Date: 2016-01-24
+Country: Palestine | Location: Al Fukhari
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Menastream [Local partner-New media]
+
+DESCRIPTION:
+Other: Israeli forces on Sunday opened fire against Palestinian farmers east of Al Fukhari. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2279]
+Date: 2016-01-26
+Country: Palestine | Location: Gaza - At Tuffah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Hamas Movement [Political militia]
+Fatalities: 7
+Sources: AFP; Arutz Sheva [Regional-International]
+
+DESCRIPTION:
+Non-Violent Activity: A Hamas tunnel collapsed on Tuesday night in the al-Tuffah neighborhood of Gaza City. Hamas later reported that 7 people had been killed and held funerals for them.
+
+---
+
+[EVENT: PSE10783]
+Date: 2016-01-28
+Country: Palestine | Location: Al Quds - Kafr Aqab
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Arrests: On 28 January 2016, Israeli military forces arrested Muhammad Abu Tair, a Hamas Movement parliament member, from his house in Al Quds - Kafr Aqab.
+
+---
+
+[EVENT: PSE2288]
+Date: 2016-01-30
+Country: Palestine | Location: Rafah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: Israeli soldiers on Saturday opened fire on Palestinian farmers tending to their land in the southern Gaza Strip. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2287]
+Date: 2016-01-30
+Country: Palestine | Location: Beit Hanoun
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: Israeli forces targeted farmers near Bayt Hanun in the northern Gaza Strip with gunfire. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE10784]
+Date: 2016-01-31
+Country: Palestine | Location: Hebron
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Other: On 31 January 2016, Israeli military forces fired tear gas at a Palestinian school in Hebron city, causing several students to suffer from tear gas inhalation.
+
+---
+
+[EVENT: PSE2296]
+Date: 2016-02-02
+Country: Palestine | Location: Abasan al Kabirah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Times of Israel [Regional]
+
+DESCRIPTION:
+Property destruction: On 2 February 2016, Israeli forces razed Palestinian lands near Khan Yunis (Khan Yunis) as they crossed the border into the Gaza Strip (coded to Abasan al Kabirah).
+
+---
+
+[EVENT: PSE2297]
+Date: 2016-02-02
+Country: Palestine | Location: Khirbat Janbah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48; Jordan News Agency; Ma'an News Agency [National-Regional]
+
+DESCRIPTION:
+Property destruction: On 2 February 2016, Israeli military forces early Tuesday demolished more than 20 houses and residential structures belonging to Palestinians in Khirbat Janbah of Hebron district.
+
+---
+
+[EVENT: PSE10785]
+Date: 2016-02-02
+Country: Palestine | Location: Al Quds - Sur Bahir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Property destruction: On 2 February 2016, Israeli military forces demolished a Palestinian house in Al Quds - Al Quds - Sur Bahir, claiming that the owners didn't have a permit to build it.
+
+---
+
+[EVENT: PSE2301]
+Date: 2016-02-03
+Country: Palestine | Location: Qabatiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Times of Israel [International]
+
+DESCRIPTION:
+Security Measures: The town of Qabatiya was surrounded by Israeli forces on Wednesday evening after three of its residents carried out a shooting and stabbing attack in Jerusalem earlier in the day.
+
+---
+
+[EVENT: PSE2306]
+Date: 2016-02-04
+Country: Palestine | Location: Tubas
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Property destruction: On February 4 2016, Israeli forces demolished residential tents and animal barns village of Mekassar, in northern Jordan Valley.
+
+---
+
+[EVENT: PSE2305]
+Date: 2016-02-04
+Country: Palestine | Location: Bilin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Property destruction: On February 4 2016, Israeli forces demolished three agricultural structures in the village of Bil'in, near Ramallah.
+
+---
+
+[EVENT: PSE2311]
+Date: 2016-02-05
+Country: Palestine | Location: Qabatiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: BBC News [International]
+
+DESCRIPTION:
+Security Measures: On Feb 5, Israeli forces have closed Qabatiya village sealing it on 3 sides by using bulldozers to block the roads.
+
+---
+
+[EVENT: PSE2314]
+Date: 2016-02-06
+Country: Palestine | Location: Qabatiyah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: On 6 February 2016, eight local families were besieged in their homes by Israeli forces who declared a residential building in Qabatiyah, a closed military zone. The troops fired tear gas canisters and stun grenades as a means to block entry and exit from the building. 35 locals reportedly ran out of food.
+
+---
+
+[EVENT: PSE2319]
+Date: 2016-02-08
+Country: Palestine | Location: Coast of Gaza City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestinian News Network [National]
+
+DESCRIPTION:
+Other: On 8 February 2016, Israeli forces opened fire towards fishers off the Coast of Gaza City. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2320]
+Date: 2016-02-08
+Country: Palestine | Location: Al Burayj
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestinian News Network [National]
+
+DESCRIPTION:
+Other: On 8 February 2016, Israeli forces opened fire towards farmers east of Al Burayj camp. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2323]
+Date: 2016-02-09
+Country: Palestine | Location: Khirbat Tana
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Property destruction: On Feb 9 2016, Israeli forces demolished Palestinian residential tents and animal barns in Khirbet Tana, a small village to the east of Nablus in the West Bank.
+
+---
+
+[EVENT: PSE10073]
+Date: 2016-02-10
+Country: Palestine | Location: Al Jiftlik
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48; Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Property destruction: On 10 February 2016, Israeli military forces demolished 4 Palestinian makeshift houses and farming structures in Al Jiftlik, claiming they didn't have permits to build them.
+
+---
+
+[EVENT: PSE2330]
+Date: 2016-02-11
+Country: Palestine | Location: Khirbat al Farisiyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Property destruction: On Feb 11 2016, Israeli forces demolished residential structures and barracks in Khallet Khader near Al-Farisiya in the northern Jordan Valley.
+
+---
+
+[EVENT: PSE2341]
+Date: 2016-02-13
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: On 13 February 2016, an Israeli naval boat opened fire on Palestinian fishers off the Coast of North Gaza. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2342]
+Date: 2016-02-13
+Country: Palestine | Location: Al Burayj
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Other: Israeli forces opened fire on Palestinian farmers east of Al Burayj refugee camp in the central Gaza Strip on Feb 13. The farmers were forces to leave the area. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2350]
+Date: 2016-02-15
+Country: Palestine | Location: Aqraba
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Palestinian News Network [National]
+
+DESCRIPTION:
+Security Measures: On Feb 15, Israel forces of Israel declared Araqa village to temporarily be a closed military zone.
+
+---
+
+[EVENT: PSE2352]
+Date: 2016-02-15
+Country: Palestine | Location: Coast of Gaza City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Other: On 15 February 2016, Israeli naval forces opened fire on Palestinian fishing boats off the coast of Gaza city. The fishers were forced to return to shore. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2351]
+Date: 2016-02-15
+Country: Palestine | Location: Nablus
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Property destruction: On Feb 15 2016, Israeli forces demolished 20 Palestinian dwellings in Ein al-Rushrash, a locality to the southeast of Domea village, south of Nablus.
+
+---
+
+[EVENT: PSE2366]
+Date: 2016-02-18
+Country: Palestine | Location: Al Quds - Maale Adumim
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Arutz Sheva [Regional]
+
+DESCRIPTION:
+Defusal: On 18 February 2016, two Palestinians were found to be carrying explosive devices on a bus near Al Quds - Maale Adumim. The military deployed to defuse the bombs and arrested the men.
+
+---
+
+[EVENT: PSE2364]
+Date: 2016-02-18
+Country: Palestine | Location: Al Quds - Isawiya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Property destruction: On Feb 18 2016, Israeli forces demolished a number of Palestinian-owned agricultural and industrial facilities in al Isawiya, in order to prepare for the establishment of a national park for Israeli settlers.
+
+---
+
+[EVENT: PSE2365]
+Date: 2016-02-18
+Country: Palestine | Location: Khan Yunis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Palestinian News Network [National]
+
+DESCRIPTION:
+Movement of Forces: On Feb 18 Israeli tanks entered Khan Younis temporarily while Israeli planes carried out a series of mock raids.
+
+---
+
+[EVENT: PSE2363]
+Date: 2016-02-18
+Country: Palestine | Location: Al Qararah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Jordan News Agency; Ma'an News Agency [National-Regional]
+
+DESCRIPTION:
+Property destruction: On 18 February 2016, Israeli forces made an incursion into Al Qararah (Khan Yunis, Gaza Strip), in the Gaza Strip and razed land owned by locals.
+
+---
+
+[EVENT: PSE2382]
+Date: 2016-02-21
+Country: Palestine | Location: Al Quds - Al Ayzariyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Property destruction: Israeli forces on Feb 21 2016 demolished a school in the Bedouin community of Abu al Nuwaar near Al Ayzariyah.
+
+---
+
+[EVENT: PSE10076]
+Date: 2016-02-23
+Country: Palestine | Location: Dura
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Property destruction: On 23 February 2016, Israeli forces demolished the family home of a Palestinian who carried out attacks against Israelis, in Dura village.
+
+---
+
+[EVENT: PSE2388]
+Date: 2016-02-23
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Jordan News Agency [International]
+
+DESCRIPTION:
+Other: Israeli forces opened fire on Palestinian fishers off the coast of northern Gaza. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2387]
+Date: 2016-02-23
+Country: Palestine | Location: Dayr Samit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Xinhua; Arab 48 [National-International]
+
+DESCRIPTION:
+Property destruction: On 23 February 2016, Israeli forces demolished the family home of a Palestinian who carried out attacks against Israelis, in Dayr Samit village.
+
+---
+
+[EVENT: PSE2392]
+Date: 2016-02-24
+Country: Palestine | Location: Coast of Rafah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Other: Israeli naval forces opened fire on Palestinian fishing boats off the coast of the southern Gaza Strip on Tuesday morning. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2391]
+Date: 2016-02-24
+Country: Palestine | Location: Al Quds - Old City
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Police Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Arutz Sheva; Ma'an News Agency [National-International]
+
+DESCRIPTION:
+Weapons Seizure: Explosives and ammo were found by police on Feb 24 in a food stall at the Flower Gate of the Old City in Jerusalem. Explosives were also found on two Palestinians near Herod's Gate.
+
+---
+
+[EVENT: PSE2396]
+Date: 2016-02-25
+Country: Palestine | Location: Nilin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Property destruction: On Feb 25 2016, Israeli bulldozers demolished Palestinian agricultural structures in Ni'lin town, northwest of Ramallah.
+
+---
+
+[EVENT: PSE2394]
+Date: 2016-02-25
+Country: Palestine | Location: Jabalya
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 1
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Explosive remnants of war: On Feb 25, a Palestinian child was killed and another seriously injured after an unexploded ordnance detonated in the Jabaliya area of the northern Gaza Strip.
+
+---
+
+[EVENT: PSE2402]
+Date: 2016-02-26
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Other: Israeli naval forces opened fire on Palestinian fishing boats off the northern coast of the Gaza Strip on Feb 26. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2406]
+Date: 2016-02-27
+Country: Palestine | Location: Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: Israeli forces on Feb 27 opened their heavy machine gunfire toward Palestinian farmers and homes along Gaza border. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2411]
+Date: 2016-02-28
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: Israeli forces opened fire on Feb 28 at Palestinian fishers off the northern Gaza shore. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2413]
+Date: 2016-02-28
+Country: Palestine | Location: Rafah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: Israeli forces opened fire on Feb 28 at farmers in the south of Gaza. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2416]
+Date: 2016-02-29
+Country: Palestine | Location: Al Farsiyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Jordan News Agency [International]
+
+DESCRIPTION:
+Property destruction: On Feb 29 2016, Israeli forces demolished a number of residential facilities in the Al- Farsiya area in the northern Jordan Valley east of Tubas.
+
+---
+
+[EVENT: PSE2422]
+Date: 2016-03-01
+Country: Palestine | Location: Coast of Rafah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency; Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: Israeli forces on Mar 1 opened fire at fishers near the Coast of Rafah. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2425]
+Date: 2016-03-01
+Country: Palestine | Location: Rafah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency; Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: Israeli forces on Mar 1 opened fire on Palestinian farmers near Rafah city. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2428]
+Date: 2016-03-02
+Country: Palestine | Location: Al Quds - At Tur
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Property destruction: Israeli forces demolished a Palestinian building consisting of 6 apartments in Al Tur in Jerusalem on Mar 2 2016.
+
+---
+
+[EVENT: PSE2430]
+Date: 2016-03-02
+Country: Palestine | Location: Khirbat Tana
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Property destruction: Israeli forces demolished a number of Palestinian-owned residential and agricultural structures in Tana on March 2 2016.
+
+---
+
+[EVENT: PSE2438]
+Date: 2016-03-03
+Country: Palestine | Location: Nablus
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Security Measures: Israeli forces closed all southern roads around Nablus on Mar 3 following an attack near Burin village against Israeli officers the day prior.
+
+---
+
+[EVENT: PSE2447]
+Date: 2016-03-04
+Country: Palestine | Location: Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Other: Israeli forces opened fire on Palestinian workers east of Gaza city on March 4. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2446]
+Date: 2016-03-04
+Country: Palestine | Location: Khirbat Tana
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Property destruction: On March 4 2016, Israeli forces demolished 41 Palestinian-owned structures in Khirbet Tana.
+
+---
+
+[EVENT: PSE2449]
+Date: 2016-03-05
+Country: Palestine | Location: Gaza - Az Zaytun
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: On 5 March 2016, Israeli forces open fire on a group of Palestinian farmers as they entered their land on the border of Gaza - Az Zaytun. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2459]
+Date: 2016-03-08
+Country: Palestine | Location: Hebron
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Property destruction: Israeli forces on March 8 2016 demolished the interior walls of the home of a Palestinian who was killed after an alleged car-ramming attack.
+
+---
+
+[EVENT: PSE8357]
+Date: 2016-03-11
+Country: Palestine | Location: Ramallah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: N12 [International]
+
+DESCRIPTION:
+Looting: Around 11 March 2016 (as reported), Israeli military forces and Shin Bet forces raided the Islamic Jihad television station (al Yum TV) in Ramallah and confiscated technical equipment and transmitters (Ramallah, West Bank).
+
+---
+
+[EVENT: PSE2475]
+Date: 2016-03-12
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: On 12 March 2016, Israeli forces opened fire at Palestinian fishers of the northwest Coast of Gaza city causing severe damage to three boats. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE10081]
+Date: 2016-03-16
+Country: Palestine | Location: Bethlehem
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Property destruction: On 16 March 2016, Israeli military forces demolished a Palestinian civilian's house in Shurfa area to the south of Bethlehem, claiming he didn't have a permit to build it.
+
+---
+
+[EVENT: PSE10082]
+Date: 2016-03-16
+Country: Palestine | Location: Wadi Rahhal
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Property destruction: On 16 March 2016, Israeli military forces demolished a Palestinian structure used for farming in Wadi Rahhal, claiming he didn't have a permit to build it.
+
+---
+
+[EVENT: PSE2493]
+Date: 2016-03-19
+Country: Palestine | Location: Khan Yunis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Other: Israeli forces opened fire on Palestinian farmers and shepherds in eastern Khan Yunis on March 19. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2498]
+Date: 2016-03-21
+Country: Palestine | Location: Al Quds - Jabal al Mukabbir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency; Palestine News and Information Agency; Arab 48 [National]
+
+DESCRIPTION:
+Property destruction: On 21 March 2016, two Palestinian houses in Jerusalem were demolished. Israeli forces demolished a partially built Palestinian house in Al Quds - Jabal al Mukabbir, claiming he didn't have a permit to build it.
+
+---
+
+[EVENT: PSE10885]
+Date: 2016-03-21
+Country: Palestine | Location: As Sawiyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Land seizure: On 21 March 2016, Israeli military forces seized 1200 Dunams of private Palestinian lands belonging to the villages of Al Lubban ash Sharqiyah, As Sawiyah and Qaryut.
+
+---
+
+[EVENT: PSE10886]
+Date: 2016-03-21
+Country: Palestine | Location: Qaryut
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Land seizure: On 21 March 2016, Israeli military forces seized 1200 Dunams of private Palestinian lands belonging to the villages of Al Lubban ash Sharqiyah, As Sawiyah and Qaryut.
+
+---
+
+[EVENT: PSE2500]
+Date: 2016-03-21
+Country: Palestine | Location: Husan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Property destruction: Israeli forces raided Husan village council west of Bethlehem on March 21 2016 and destroyed the interior of the council.
+
+---
+
+[EVENT: PSE2499]
+Date: 2016-03-21
+Country: Palestine | Location: Beit Hanoun - Hay Al Masreen
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Property destruction: On 21 March 2016, Israeli forces entered the eastern part of Beit Hanoun, coded to Beit Hanoun - Hay Al Masreen (North Gaza, Gaza Strip) and razed land in the areas amid protective shooting in all directions.
+
+---
+
+[EVENT: PSE10884]
+Date: 2016-03-21
+Country: Palestine | Location: Al Lubban ash Sharqiyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Land seizure: On 21 March 2016, Israeli military forces seized 1200 Dunams of private Palestinian lands belonging to the villages of Al Lubban ash Sharqiyah, As Sawiyah and Qaryut.
+
+---
+
+[EVENT: PSE2501]
+Date: 2016-03-22
+Country: Palestine | Location: Al Quds
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Property destruction: Israeli forces demolished a number of Palestinian structures in East Jerusalem on March 22 2016.
+
+---
+
+[EVENT: PSE2504]
+Date: 2016-03-22
+Country: Palestine | Location: Tulkarm
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Property destruction: Israeli forces on March 22 2016 stormed and ransacked a charity run by the PA in Tulkarm causing an estimated 30,000 shekels in damage.
+
+---
+
+[EVENT: PSE2502]
+Date: 2016-03-22
+Country: Palestine | Location: Al Burayj
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Jordan News Agency [Regional]
+
+DESCRIPTION:
+Property destruction: On 22 March 2016, Israeli forces crossed the border into the Gaza Strip and razed agricultural lands east of Deir El Balah, Gaza Strip [ Coded to Al Burayj]
+
+---
+
+[EVENT: PSE2505]
+Date: 2016-03-22
+Country: Palestine | Location: Al Fukhari
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Other: Israeli forces opened fire on Palestinian shepherds in Al Fukhari east of Khan Yunis on March 22. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2503]
+Date: 2016-03-22
+Country: Palestine | Location: Khirbat Janbah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Property destruction: Israeli forces demolished a number of Palestinian structures on March 22 2016 in Janba.
+
+---
+
+[EVENT: PSE8410]
+Date: 2016-03-25
+Country: Palestine | Location: Al Quds - French Hill
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: N12 [Regional]
+
+DESCRIPTION:
+Interception: On 25 March 2016, a girl attempted to stab an Israeli at the Al Quds - French Hill junction in Al Quds-French Hill area (Al Quds, West Bank). Israeli police officers thwarted the attempt without using gunfire and arrested the attacker. No causalities are reported.
+
+---
+
+[EVENT: PSE2519]
+Date: 2016-03-27
+Country: Palestine | Location: Rafah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: Israeli forces on March 27 opened fire on Palestinian farmers and shepherds east of Rafah near the border with Israel. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2520]
+Date: 2016-03-28
+Country: Palestine | Location: Bethlehem
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Property destruction: Israeli forces demolished two houses in Bethlehem near checkpoint 300 on March 28 2016.
+
+---
+
+[EVENT: PSE10787]
+Date: 2016-03-29
+Country: Palestine | Location: Kafr ad Dik
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [National]
+
+DESCRIPTION:
+Other: On 29 March 2016, Israeli military forces stormed Kafr ad Dik village and randomly fired tear gas at Palestinian civilian's houses.
+
+---
+
+[EVENT: PSE2523]
+Date: 2016-03-29
+Country: Palestine | Location: Al Burayj
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: Israeli forces opened fire at farmers who were attempting to reach their lands on March 29 in eastern Al Burayj. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2522]
+Date: 2016-03-29
+Country: Palestine | Location: Coast of Gaza City
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Other: On 29 March 2016, Israeli forces opened fire on Palestinian fishers off the Coast of Gaza. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2531]
+Date: 2016-03-30
+Country: Palestine | Location: Ayidah Camp
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [National]
+
+DESCRIPTION:
+Non-Violent Activity: Israeli forces fired tear gas at Palestinians who were attending a funeral in Ayidah camp on March 30.
+
+---
+
+[EVENT: PSE2530]
+Date: 2016-03-30
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Other: On 30 March 2016, Israeli forces opened fire on Palestinian fishers off the northern coast of Gaza. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.
+
+---
+
+[EVENT: PSE2532]
+Date: 2016-03-31
+Country: Palestine | Location: Hebron
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Jordan News Agency [International]
+
+DESCRIPTION:
+Property destruction: Israeli forces on March 31 2016 demolished the Hebron home of a Palestinian who was killed by Israeli forces after a stabbing attempt.
+
+---
+
+[EVENT: PSE2534]
+Date: 2016-03-31
+Country: Palestine | Location: Karme Zur
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Jerusalem Post [Regional]
+
+DESCRIPTION:
+Property destruction: Israeli forces on March 31 2016 demolished a makeshift synagogue in the Givat Sorek outpost near Karmei Tzur.
+
+---
+
+[EVENT: PSE2533]
+Date: 2016-03-31
+Country: Palestine | Location: Coast of North Gaza
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [National]
+
+DESCRIPTION:
+Other: On 31 March 2016, Israeli forces opened fire on Palestinian fishers off the northern coast of Gaza. These shots are considered to be warning shots to keep Palestinians away, not directly targeted at them. There were no casualties.

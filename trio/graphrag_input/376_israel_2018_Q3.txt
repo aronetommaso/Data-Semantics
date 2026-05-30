@@ -1,0 +1,250 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Israel (ISO Code: 376)
+Temporal Period: Year 2018 - Quarter Q3
+Total Events in Chunk: 18 / 18
+==================================================
+
+[EVENT: ISR666]
+Date: 2018-07-08
+Country: Israel | Location: Umm el Fahm
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [International]
+
+DESCRIPTION:
+Property destruction: On July 8 2018, Israeli forces bulldozed 4 houses in the Palestinian city of Umm al Fahm under the pretext that the houses had been illegally built.
+
+---
+
+[EVENT: ISR669]
+Date: 2018-07-09
+Country: Israel | Location: Kerem Shalom
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Arutz Sheva; AFP [National-International]
+
+DESCRIPTION:
+Security Measures: Israel closed the only goods crossing to Gaza, Kerem Shalom, on July 9, in a move to try to reduce the number of incendiary devices being launched from Gaza.
+
+---
+
+[EVENT: ISR672]
+Date: 2018-07-10
+Country: Israel | Location: Ashdod
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency; Jerusalem Post [National-International]
+
+DESCRIPTION:
+Arrests: Israeli naval forces on July 10 intercepted a flotilla carrying activists trying to break the blockade of Gaza and sick and injured Palestinians who have been unable to travel abroad for medical care. The boat was searched and the passengers were detained without incident.
+
+---
+
+[EVENT: ISR710]
+Date: 2018-07-11
+Country: Israel | Location: Tiberias
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [External/Other forces]
+Actor2: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+Interception: on July 11, Israeli forces shot down an unnarmed Syrian reconnaissance drone over the Sea of Galilee near Tiberius.
+
+---
+
+[EVENT: ISR11899]
+Date: 2018-07-14
+Country: Israel | Location: Eshel HaNasi
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Calcalist; Ynet [National]
+
+DESCRIPTION:
+Interception: On 14 July 2018, around 200 rockets were reportedly fired by Hamas from the Gaza Strip toward Israel. At least 20 of them were intercepted by the iron dome. Sirens were heard in Eshel HaNasi (Beer Sheva, HaDarom) and the rest of the Merhavim Regional Council, but no damage was reported as the rockets were presumably intercepted or fell in open areas.
+
+---
+
+[EVENT: ISR11898]
+Date: 2018-07-14
+Country: Israel | Location: Ashqelon
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Ynet; Calcalist [National]
+
+DESCRIPTION:
+Interception: On 14 July 2018, around 200 rockets were reportedly fired by Hamas from the Gaza Strip toward Israel. At least 20 of them were intercepted by the iron dome. Sirens were heard in Ashqelon city, Qiryat Gat and Shaar Hanegev (Ashqelon, HaDarom), but no damage was reported as the rockets were presumably intercepted or fell in open areas.
+
+---
+
+[EVENT: ISR11430]
+Date: 2018-07-19
+Country: Israel | Location: Jerusalem
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+Non-violent activity: On 19 July 2018, the Israeli government passed the controversial Nation-state bill by a vote of 62-55 with two members abstaining. The bill officially defines Israel as the 'national homeland of the Jewish people,' and further stating that 'the realization of the right to national self-determination in Israel is unique to the Jewish people.' This bill has drawn criticism and concern from Israel's Arab and Druze populations, as well as from the international comunity. Coded at Jerusalem.
+
+---
+
+[EVENT: ISR707]
+Date: 2018-07-20
+Country: Israel | Location: Sdot Negev
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Hamas Movement [Political militia]
+Actor2: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Arutz Sheva [National]
+
+DESCRIPTION:
+Interception: On 20 July 2018, Hamas militants fired 2 mortars towards Sdot Negev (Beer Sheva, HaDarom). The mortars were intercepted by the Israeli Iron Dome Missile Defense system. No fatalities were reported.
+
+---
+
+[EVENT: ISR735]
+Date: 2018-07-29
+Country: Israel | Location: Ashdod
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Arrests: On July 29th, an activist flotilla affiliated with Al Awda, which started in Norway, was intercepted by Israeli forces on its way to Gaza. The ship along with the medical supplies and 22 people on board were transferred to Ashdod port, detained, and later deported.
+
+---
+
+[EVENT: ISR750]
+Date: 2018-08-04
+Country: Israel | Location: Ashdod
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Arrests: On August 4th, a Swedish-flagged activist flotilla was intercepted by Israeli forces on its way to Gaza. The ship along with its passengers and supplies were transferred to Ashdod port and detained.
+
+---
+
+[EVENT: ISR760]
+Date: 2018-08-09
+Country: Israel | Location: Netivot
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Defusal: On Aug 9, Israeli missile defense systems intercepted a missile over Netivot.
+
+---
+
+[EVENT: ISR775]
+Date: 2018-08-16
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [International]
+
+DESCRIPTION:
+Property destruction: On Aug 16 2018, Israeli forces demolished Araqib Bedouin village for the 132nd time.
+
+---
+
+[EVENT: ISR777]
+Date: 2018-08-19
+Country: Israel | Location: Erez
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Security Measures: Israel closed the only pedestrian border crossing, Erez, with the Gaza Strip on Aug 19 after a weekend of border clashes.
+
+---
+
+[EVENT: ISR786]
+Date: 2018-08-30
+Country: Israel | Location: Beersheba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [International]
+
+DESCRIPTION:
+Property destruction: On 30/8/18, Israeli bulldozers escorted by heavily armed Israeli forces demolished a Palestinian home in the unrecognized Bedouin village of al-Zarnouq in the Negev area near Netatim in southern Israel.
+
+---
+
+[EVENT: ISR789]
+Date: 2018-08-31
+Country: Israel | Location: Bet HaShitta
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) Prison Guards [State forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [International]
+
+DESCRIPTION:
+Other: On 31 August 2018, Israeli prison guards assaulted Palestinian inmates at Gilboa prison spraying them with pepper spray and tear gas. Gilboa prison is near Bet HaShitta.
+
+---
+
+[EVENT: ISR12789]
+Date: 2018-09-05
+Country: Israel | Location: Erez
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Ynet [National]
+
+DESCRIPTION:
+Security measures: On 5 September 2018, Israeli authorities closed the Erez crossing (Ashqelon, HaDarom) into Gaza following recent riots on the Palestinian side of the border that caused damage to the infrastructure of the crossing.
+
+---
+
+[EVENT: ISR12783]
+Date: 2018-09-13
+Country: Israel | Location: Magen
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Ynet [National]
+
+DESCRIPTION:
+Defusal: On 13 September 2018, Israeli military forces neutralized a large explosive device near the southern part of the Gaza Strip's border in Israeli territory (coded to Magen) (Beer Sheva, HaDarom). The IDF states that the explosive was planted by a Palestinian 'terrorist' group and was intended to hit Israeli soldiers.
+
+---
+
+[EVENT: ISR801]
+Date: 2018-09-16
+Country: Israel | Location: Ramla
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [International]
+
+DESCRIPTION:
+Property destruction: On Sept 16 2018, several Israeli bulldozers along with large numbers of Israeli police demolished a family home in the Palestinian neighbourhood of al-Nakheel in al-Ramla City, in northern Israel.

@@ -1,0 +1,3875 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Turkey (ISO Code: 792)
+Temporal Period: Year 2020 - Quarter Q2
+Total Events in Chunk: 281 / 281
+==================================================
+
+[EVENT: TUR11488]
+Date: 2020-04-02
+Country: Turkey | Location: Kocaeli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Security measures: On 2 April 2020, Kocaeli Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political actions in the province for 15 days as a security measure against the spread of the coronavirus.
+
+---
+
+[EVENT: TUR11490]
+Date: 2020-04-03
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Bianet; Cumhuriyet; Daily Sabah; Karar [National-Regional]
+
+DESCRIPTION:
+Security measures: On 3 April 2020, Turkish government imposed new security measures as part of efforts to combat coronavirus outbreak, including a total lockdown of 31 big cities (banning travels inside or outside of these provinces), a curfew for people under the age of 20 and mandatory use of face masks in public places where people have to gather, such as supermarkets, marketplaces and workplaces.
+
+---
+
+[EVENT: TUR11495]
+Date: 2020-04-04
+Country: Turkey | Location: Mus
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Security measures: On 4 April 2020, Mus Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political actions in the province for 15 days.
+
+---
+
+[EVENT: TUR11742]
+Date: 2020-04-04
+Country: Turkey | Location: Yarbasi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+Property destruction: On 4 April 2020, Turkish Army forces reportedly destroyed the graves of 6 PKK militants in the cemetery of Yarbasi village in Idil, Sirnak.
+
+---
+
+[EVENT: TUR11503]
+Date: 2020-04-04
+Country: Turkey | Location: Kadikoy
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Sema Kocer Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 4 April 2020, the Martyr Sema Kocer and Martyrs of Efrin vengeance units carried out arson attacks targeting 4 civilian vehicles in Bostanci neighborhood of Kadikoy, Istanbul for the owner's alleged ties with AKP. No casualties reported.
+
+---
+
+[EVENT: TUR11526]
+Date: 2020-04-05
+Country: Turkey | Location: Hani
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On 5 April 2020, PKK forces attacked and destroyed a cell tower belonging to a telecommunication company, in Horsel area (Kurdish name) of Hani, Diyarbakir.
+
+---
+
+[EVENT: TUR11511]
+Date: 2020-04-05
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Property destruction: On 5 April 2020, Gendarmerie forces destroyed two PKK shelters together with the supplies found inside during the security operations carried out in central district of Bitlis.
+
+---
+
+[EVENT: TUR11517]
+Date: 2020-04-06
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: As reported on 6 April 2020, a total of 229 people were detained during the police operations carried out in entire Turkey in the previous week, for allegedly spreading panic among public via social media posts about coronavirus outbreak.
+
+---
+
+[EVENT: TUR11514]
+Date: 2020-04-06
+Country: Turkey | Location: Dargecit
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Haber 7; ANF News [National-International]
+
+DESCRIPTION:
+Security measures: On 6 April 2020, Mardin Governor's Office declared curfews in total 3 villages in Dargecit district of Mardin until further notice due to ongoing security operations against PKK.
+
+---
+
+[EVENT: TUR11515]
+Date: 2020-04-06
+Country: Turkey | Location: Zonguldak
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+Security measures: On 6 April 2020, Zonula governor's office declared lockdowns at district level, banning all the travels between its district zones within the province, in addition to the ongoing security measures which had already banned all the travels from outside the province as part of efforts to combat coronavirus outbreak.
+
+---
+
+[EVENT: TUR11510]
+Date: 2020-04-08
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency; ANF News [National-International]
+
+DESCRIPTION:
+Security measures: On 8 April 2020, Van Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political actions in the province for 15 days, effective until April 22.
+
+---
+
+[EVENT: TUR11527]
+Date: 2020-04-09
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: As reported on 9 April 2020, a total of 462 people were detained during the police operations carried out in 65 provinces of Turkey, for allegedly producing and selling counterfeit hygiene products such as disinfectants, protective masks etc. making unjustified material benefit out of the coronavirus outbreak.
+
+---
+
+[EVENT: TUR11531]
+Date: 2020-04-10
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Bianet; Cumhuriyet; Karar [National-Regional]
+
+DESCRIPTION:
+Security measures: On 10 April 2020, Turkish Government imposed a two-day curfew in 31 big province starting as of midnight to curb the spread of coronavirus, forcing some 64 million people, or 78% of the entire population to spend the weekend in their homes. Turkey's ministry of justice also announced the extension of the temporary ban on visitation in all the prisons as well as the transfer of inmates between the correctional facilities for another 20 days until April 30 in a bid to curb the spread of the coronavirus.
+
+---
+
+[EVENT: TUR11537]
+Date: 2020-04-11
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Haberler; Kurdistan24 [National-Regional]
+
+DESCRIPTION:
+Security measures: On 11 April 2020, Hakkari Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political actions in the province for 15 days.
+
+---
+
+[EVENT: TUR11538]
+Date: 2020-04-12
+Country: Turkey | Location: Elbeyli
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Unidentified Armed Group (Turkey) [Political militia]
+Fatalities: 0
+Sources: A Haber [National]
+
+DESCRIPTION:
+Defusal: As reported on 12 April 2020, Turkish Army Forces located and seized total of 16 landmines planted by unknown armed group(s) near Cobanbey customs office in Elbeyli, Kilis.
+
+---
+
+[EVENT: TUR11608]
+Date: 2020-04-12
+Country: Turkey | Location: Kartal
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Arin Mirkan Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 12 April 2020, as well as 15 April, Martyr Arin Mirkan and Martyr Helmet Vengeance Units carried out arson attacks in Kartal district of Istanbul, burning total of 4 civilian vehicles. One event per each date was coded. (total 2 events)
+
+---
+
+[EVENT: TUR11578]
+Date: 2020-04-12
+Country: Turkey | Location: Seyhan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 12 April 2020, the children of fire initiative carried out an arson attack targeting a coach bus in Aydinlar neighborhood of Seyhan, Adana.
+
+---
+
+[EVENT: TUR11554]
+Date: 2020-04-14
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Defusal: As reported on 14 April 2020, Turkish Gendarmerie forces located 105 kilogram of explosive planted by PKK in the central district of Bitlis, which they successfully destroyed through a controlled explosion.
+
+---
+
+[EVENT: TUR11548]
+Date: 2020-04-14
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: ANF News; Aydinlik; Daily Sabah [National-International]
+
+DESCRIPTION:
+Security measures: On 14 April 2020, Turkish parliament passed a legislation temporarily releasing 45,000 prisoners under judicial control until the end of May, in an effort to reduce the spread of the coronavirus. The legislation also released another 45,000 prisoners permanently to reduce overcrowding in the prisons in general.
+
+---
+
+[EVENT: TUR11609]
+Date: 2020-04-15
+Country: Turkey | Location: Kartal
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Arin Mirkan Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On April 12 and April 15, 2020, Martyr Arin Mirkan and Martyr Helmet Vengeance Units carried out arson attacks in Kartal district of Istanbul, burning total of 4 civilian vehicles. One event per each date was coded. (total 2 events)
+
+---
+
+[EVENT: TUR11553]
+Date: 2020-04-15
+Country: Turkey | Location: Lice
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber [National]
+
+DESCRIPTION:
+Property destruction: On 15 April 2020, Gendarmerie forces destroyed one PKK shelter together with the supplies found inside during the security operations carried out in Lice district of Diyarbakir.
+
+---
+
+[EVENT: TUR11573]
+Date: 2020-04-16
+Country: Turkey | Location: Zeytinburnu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 16 April 2020, the children of fire initiative carried out an arson attack against a recycling facility in Maltepe neighborhood of Zeytinburnu, Istanbul.
+
+---
+
+[EVENT: TUR11572]
+Date: 2020-04-16
+Country: Turkey | Location: Erdemli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 16 April 2020, the children of fire initiative carried out an arson attack against a civilian house for the owners' political ties in Kumkuyu neighborhood of Erdemli, Mersin. Material damage was inflicted as a result of the attack.
+
+---
+
+[EVENT: TUR11542]
+Date: 2020-04-17
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Hurriyet Daily; Kurdistan24; Mezopotamya Agency; Sozcu [National-Regional]
+
+DESCRIPTION:
+Security measures: On 17 April 2020, Turkish Government imposed a two-day curfew in 31 big province starting as of midnight to curb the spread of coronavirus, forcing some 64 million people, or 78% of the entire population to spend the weekend in their homes.
+
+---
+
+[EVENT: TUR11582]
+Date: 2020-04-17
+Country: Turkey | Location: Tatargazi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Property destruction: On 17 April 2020, Turkish Army forces reportedly destroyed tombstones of two PKK militants for allegedly including PKK flag, symbols, militants' code-names or writings referring to them as 'martyrs', in the presence of their family members in the cemetery of Tatargazi village of Malazgirt, Mus.
+
+---
+
+[EVENT: TUR11568]
+Date: 2020-04-17
+Country: Turkey | Location: Ercis
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: ANF News; Demokrat Haber [National-International]
+
+DESCRIPTION:
+Property destruction: On 17 April 2020, Turkish Army forces reportedly destroyed tombstones of two PKK militants for allegedly including PKK flag, symbols, militants' code-names or writings referring to them as 'Martyrs', in the presence of family members in a cemetery in Ercis district, Van.
+
+---
+
+[EVENT: TUR11575]
+Date: 2020-04-17
+Country: Turkey | Location: Manavgat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 17 April 2020, Children of Fire initiative carried out an arson attack targeting a cruise boat in Manavgat, Antalya. The boat totally burned down.
+
+---
+
+[EVENT: TUR11574]
+Date: 2020-04-17
+Country: Turkey | Location: Kucukcekmece
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 17 April 2020, the children of fire initiative carried out an arson attack targeting a paper mill in Halkali neighborhood of Kucukcekmece, Istanbul.
+
+---
+
+[EVENT: TUR11592]
+Date: 2020-04-18
+Country: Turkey | Location: Gazipasa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 18 April 2020, the children of fire initiative carried out an arson attack against the municipality's recycling facility in Yenimahalle neighborhood of Gazipasa, Antalya.
+
+---
+
+[EVENT: TUR11581]
+Date: 2020-04-19
+Country: Turkey | Location: Seyhan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 19 April 2020, the children of fire initiative carried out an arson attack targeting 3 civilian vehicles in Cevizlibahce neighborhood of Seyhan, Adana.
+
+---
+
+[EVENT: TUR11580]
+Date: 2020-04-19
+Country: Turkey | Location: Maltepe
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 19 April 2020, the children of fire initiative carried out an arson attack targeting a distribution transformer supplying electricity in Cevizli neighborhood of Maltepe, Istanbul.
+
+---
+
+[EVENT: TUR11579]
+Date: 2020-04-19
+Country: Turkey | Location: Tarsus
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 19 April 2020, the children of fire initiative carried out an arson attack targeting a storage facility belonging to a chain supermarket in Tarsus industrial zone in Tarsus, Mersin.
+
+---
+
+[EVENT: TUR11583]
+Date: 2020-04-19
+Country: Turkey | Location: Suluca
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Property destruction: On 19 April 2020, Turkish Army forces reportedly destroyed tombstones of two PKK militants for allegedly including PKK flag, symbols, militants' code-names or writings referring to them as 'martyrs', in the presence of their family members in the cemetery of Suluca village of central district, Mus.
+
+---
+
+[EVENT: TUR11597]
+Date: 2020-04-20
+Country: Turkey | Location: Bagcilar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 20 April 2020, Martyr Ciyager-Martyr Zeryan Vengeance Units carried out an arson attack targeting 2 civilian vehicles in Demirkapi neighborhood of Bagcilar, Istanbul, for their owners' alleged AKP membership.
+
+---
+
+[EVENT: TUR11621]
+Date: 2020-04-20
+Country: Turkey | Location: Ipekyolu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Sema Kocer Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 20 April 2020, Martyr Sema Kocer and Martyr Tekosin Amanos Vengeance Units carried out an arson attack targeting a civilian vehicle in Ipekyolu district of Van for the owner's alleged AKP membership. No casualties occurred in the attack, but material damage was inflicted.
+
+---
+
+[EVENT: TUR11620]
+Date: 2020-04-20
+Country: Turkey | Location: Yeni
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Sema Kocer Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 20 April 2020, Martyr Sema Kocer and Martyr Tekosin Amanos Vengeance Units carried out an arson attack targeting a supermarket in Yeni neighborhood of Ipekyolu, Van. No casualties occurred in the attack, but material damage was inflicted to the supermarket and its vehicle.
+
+---
+
+[EVENT: TUR11576]
+Date: 2020-04-20
+Country: Turkey | Location: Yolacti
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: As reported on 20 April 2020, Turkish Gendarmerie forces seized one RPG-7 rocket-propelled grenade(RPG) launcher, one anti-tank RPG, 29 assault rifle cartridges, 3 IEDs and other supplies allegedly belonging to PKK, found during a military operation carried out in Yolacti village of Genc, Bingol.
+
+---
+
+[EVENT: TUR11588]
+Date: 2020-04-20
+Country: Turkey | Location: Izmit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+Property destruction: On 20 April 2020, an armed attack carried out by unidentified people damaged the entrance door of a local newspaper building in central Izmit, Kocaeli.
+
+---
+
+[EVENT: TUR11607]
+Date: 2020-04-21
+Country: Turkey | Location: Erenler
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 21 April 2020, the children of fire initiative carried out an arson attack against a private recycling facility in Bekirpasa neighborhood of Erenler town, Sakarya.
+
+---
+
+[EVENT: TUR11610]
+Date: 2020-04-21
+Country: Turkey | Location: Bilecik
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Demokrat Haber; Haber 7 [National]
+
+DESCRIPTION:
+Security measures: On 21 April 2020, Bilecik governorship temporarily halted all entries and departures from the province until further notice to curb the spread of coronavirus.
+
+---
+
+[EVENT: TUR11603]
+Date: 2020-04-21
+Country: Turkey | Location: Bogazkoy
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency; Ihlas News Agency; Takvim [National]
+
+DESCRIPTION:
+Weapons seizure: On 21 April 2020, Turkish Gendarmerie forces seized 6 IEDs allegedly belonging to PKK, found during a military operation carried out in Bogazkoy village of Semdinli, Hakkari.
+
+---
+
+[EVENT: TUR11589]
+Date: 2020-04-21
+Country: Turkey | Location: Catak
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency; Haber 7; Ihlas News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: As reported on 21 April 2020, Turkish Gendarmerie forces seized one LAW anti-tank rocket launcher, 14 rocket-propelled grenades, 3 hand grenades, one anti-personnel mine and large amount of assault rifle ammunition allegedly belonging to PKK, found during a military operation carried out in Catak district of Van.
+
+---
+
+[EVENT: TUR11612]
+Date: 2020-04-23
+Country: Turkey | Location: Adalar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency; Sozcu [National]
+
+DESCRIPTION:
+Security measures: On 23 April 2020, Adalar governorship temporarily halted all entries and departures from the prince islands (Adalar) district of Istanbul until May 31 to curb the spread of coronavirus.
+
+---
+
+[EVENT: TUR11655]
+Date: 2020-04-23
+Country: Turkey | Location: Arnavutkoy
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Arin Mirkan Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 23 April 2020, Martyr Arin Mirkan and Martyr Helmet Vengeance Units carried out arson attacks targeting a commercial bus and a taxi allegedly owned by an AKP member in Arnavutkoy district of Istanbul. The vehicles were completely burnt down.
+
+---
+
+[EVENT: TUR11611]
+Date: 2020-04-23
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Bianet; Haber 7; Kurdistan24; Sozcu [National-Regional]
+
+DESCRIPTION:
+Security measures: On 23 April 2020, Turkish Government began enforcing a four-day curfew in 31 big province starting as of midnight to as part of precautions to curb the spread of the coronavirus outbreak, forcing some 64 million people, or 78% of the entire population to stay in their homes.
+
+---
+
+[EVENT: TUR11656]
+Date: 2020-04-24
+Country: Turkey | Location: Esenler
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Arin Mirkan Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 24 April 2020, Martyr Arin Mirkan and Martyr Helmet Vengeance Units carried out arson attacks targeting three civilian vehicles in Esenler district of Istanbul. The vehicles were completely burnt down.
+
+---
+
+[EVENT: TUR11628]
+Date: 2020-04-27
+Country: Turkey | Location: Semdinli
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency; Aydinlik [National]
+
+DESCRIPTION:
+Weapons seizure: As reported on 27 April 2020, Turkish Gendarmerie forces seized one DShK heavy machine gun, one anti-tank IED and 3 other IED, 5 detonating caps, one AK-47 assault rifle and its ammunition allegedly belonging to PKK, found during military operations carried out in Derindere area (unknown location of Semdinli district and Gelisen village of Derecik district of Hakkari. One event per location (total 2 events) have been coded.
+
+---
+
+[EVENT: TUR11647]
+Date: 2020-04-27
+Country: Turkey | Location: Karabaglar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 27 April 2020, the children of fire initiative carried out an arson attack against a civilian house for the owners' alleged drug-selling activities Yesilyurt neighborhood of Karabaglar, Izmir, causing material damage.
+
+---
+
+[EVENT: TUR11629]
+Date: 2020-04-27
+Country: Turkey | Location: Gelisen
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency; Aydinlik [National]
+
+DESCRIPTION:
+Weapons seizure: As reported on 27 April 2020, Turkish Gendarmerie forces seized one DShK heavy machine gun, one anti-tank IED and 3 other IED, 5 detonating caps, one AK-47 assault rifle and its ammunition allegedly belonging to PKK, found during military operations carried out in Derindere area (unknown location) of Semdinli district and Gelisen village of Derecik district of Hakkari. One event per location (total 2 events) have been coded.
+
+---
+
+[EVENT: TUR11657]
+Date: 2020-04-27
+Country: Turkey | Location: Basaksehir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Arin Mirkan Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 27 April 2020, Martyr Arin Mirkan and Martyr Helmet Vengeance Units carried out an arson attacks targeting a civilian vehicle allegedly owned by a local AKP executive in Basaksehir district of Istanbul.
+
+---
+
+[EVENT: TUR11644]
+Date: 2020-04-28
+Country: Turkey | Location: Kucuknaneli
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber [National]
+
+DESCRIPTION:
+Weapons seizure: As reported on 28 April 2020, Turkish Gendarmerie forces seized 8 hand-grenades, one AK-47 assault rifle, one hand gun and its ammunition allegedly belonging to PKK, found during a military operation carried out near Kucuknaneli village of Akcakale, Sanliurfa.
+
+---
+
+[EVENT: TUR11648]
+Date: 2020-04-28
+Country: Turkey | Location: Merkezefendi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 28 April 2020, the children of fire initiative carried out an arson attack targeting a telecommunication company and a post office on the same building in Yenimahalle neighborhood of Merkezefendi, Denizli. The attack caused material damage.
+
+---
+
+[EVENT: TUR11741]
+Date: 2020-04-28
+Country: Turkey | Location: Esenyurt
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 28 April 2020, YPS militants carried out an arson attack targeting a commercial truck in Esenyurt district of Istanbul for the owners' alleged AKP membership.
+
+---
+
+[EVENT: TUR11634]
+Date: 2020-04-28
+Country: Turkey | Location: Ogul
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Defusal: As reported on 28 April 2020, Turkish Gendarmerie forces located 50 kilogram of explosive planted by PKK near Ogul village in the central district of Hakkari, which they successfully destroyed through a controlled explosion.
+
+---
+
+[EVENT: TUR11630]
+Date: 2020-04-28
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Security measures: On 28 April 2020, Hakkari Governor's Office extended the duration of the current ban on all forms of marches, protests, press conferences, sit-ins and other political actions in the province for another 15 days, effective until May 12.
+
+---
+
+[EVENT: TUR11649]
+Date: 2020-04-29
+Country: Turkey | Location: Dilovasi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 29 April 2020, the children of fire initiative carried out an arson attack targeting a furniture factory in Dilovasi industrial zone in Dilovasi, Kocaeli. The attack caused material damage.
+
+---
+
+[EVENT: TUR11646]
+Date: 2020-04-29
+Country: Turkey | Location: Maden
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+Security measures: On 29 April 2020, Maden governorship temporarily halted all entries and departures from the Maden district of Elazig for two weeks as part of the efforts to curb the spread of coronavirus.
+
+---
+
+[EVENT: TUR11678]
+Date: 2020-04-30
+Country: Turkey | Location: Maltepe
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 30 April 2020, the children of fire initiative carried out an arson attack targeting a 15-story commercial building in Zumrutevler neighborhood of Maltepe, Istanbul. The attack caused material damage.
+
+---
+
+[EVENT: TUR11667]
+Date: 2020-04-30
+Country: Turkey | Location: Sehitkamil
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On 30 April 2020, Orhan Yilmazkaya Vengeance Units of HBDH carried out an arson attack targeting a hotel building in Sehitkamil which has been closed in last 6 years, due to its alleged use by the intelligence organization for undercover activities.
+
+---
+
+[EVENT: TUR11633]
+Date: 2020-05-01
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Bianet; Cumhuriyet; Daily Sabah; Rudaw [National-Regional]
+
+DESCRIPTION:
+Security measures: On 1 May 2020, Turkish Government began enforcing a 3-day curfew in 31 big province until the end of the weekend in a bid to curb the spread of the coronavirus outbreak, forcing some 64 million people, or 78% of the entire population to stay in their homes. Turkey's ministry of justice also announced the extension of the temporary ban on visitation in all the prisons as well as the transfer of inmates between the correctional facilities for another 15 days until May 15, as part of the measures against the spread of the virus.
+
+---
+
+[EVENT: TUR11679]
+Date: 2020-05-01
+Country: Turkey | Location: Aydin/Efeler
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 1 May 2020, the children of fire initiative carried out an arson attack targeting a geothermal energy plant near Yilmazkoy neighborhood of Efeler, Aydin. The attack caused material damage.
+
+---
+
+[EVENT: TUR11688]
+Date: 2020-05-01
+Country: Turkey | Location: Tuzla
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 1 May 2020, the children of fire initiative carried out an arson attack targeting a chemical plant in Tuzla industrial zone in Tuzla, Istanbul. The attack caused material damage.
+
+---
+
+[EVENT: TUR11685]
+Date: 2020-05-01
+Country: Turkey | Location: Kirkoy
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Weapons seizure: As reported on 1 May 2020, Turkish Gendarmerie forces seized 10,000 assault rifle ammunition, 6 AK-47 assault rifles, one AK-47 assault rifle, 2 sniper rifles, one RPG and other supplies allegedly belonging to PKK, found during military operations carried out near Kirkoy village of Yayladere district, Bingol.
+
+---
+
+[EVENT: TUR11709]
+Date: 2020-05-04
+Country: Turkey | Location: Esenyurt
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 4 May 2020, the children of fire initiative carried out an arson attack targeting a textile factory in Esenyurt district of Istanbul. The attack caused material damage.
+
+---
+
+[EVENT: TUR11695]
+Date: 2020-05-04
+Country: Turkey | Location: Yalimli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Aydinlik; Ihlas News Agency [National]
+
+DESCRIPTION:
+Property destruction: Around 4 May 2020 (as reported), Turkish Gendarmerie forces destroyed 9 PKK shelters together with the supplies found inside during the security operations carried out near Yalimli village of Lice district, Diyarbakir.
+
+---
+
+[EVENT: TUR11720]
+Date: 2020-05-06
+Country: Turkey | Location: Bagcilar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 6 May 2020, the children of fire initiative carried out an arson attack targeting a 3-story commercial building in Baglar neighborhood of Bagcilar, Istanbul The attack caused material damage.
+
+---
+
+[EVENT: TUR11721]
+Date: 2020-05-06
+Country: Turkey | Location: Zeytinburnu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 6 May 2020, the children of fire initiative carried out an arson attack targeting a factory manufacturing electronics in Maltepe neighborhood of Zeytinburnu, Istanbul. The attack caused material damage.
+
+---
+
+[EVENT: TUR11713]
+Date: 2020-05-06
+Country: Turkey | Location: Golbasi
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+Security measures: On 6 May 2020, Golbasi governorship temporarily halted all entries and departures from the Golbasi district of Adiyaman for two weeks as part of the efforts to curb the spread of coronavirus.
+
+---
+
+[EVENT: TUR11719]
+Date: 2020-05-06
+Country: Turkey | Location: Kahramankazan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 6 May 2020, the children of fire initiative carried out an arson attack targeting a chemical plant producing paint in Saray neighborhood of Kahramankazan (Kazan), Ankara. The attack caused material damage in the factory.
+
+---
+
+[EVENT: TUR11762]
+Date: 2020-05-07
+Country: Turkey | Location: Yenisehir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Rizgar Farqin Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 7 May 2020, Martyr Rizgar Farqin Vengeance Units carried out an arson attack targeting a supermarket in Benusen quarter of central Yenisehir, Diyarbakir. The attack inflicted material damage.
+
+---
+
+[EVENT: TUR11737]
+Date: 2020-05-07
+Country: Turkey | Location: Gediz
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 7 May 2020, the children of fire initiative carried out an arson attack targeting a private student dormitory in Gediz, Istanbul. The dormitory was not in use as per the security measures against coronavirus but the material damage was inflicted to the building.
+
+---
+
+[EVENT: TUR11722]
+Date: 2020-05-07
+Country: Turkey | Location: Besiktas
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 7 May 2020, the children of fire initiative carried out an arson attack targeting a shopping mall in Etiler neighborhood of Besiktas, Istanbul. The attack caused material damage.
+
+---
+
+[EVENT: TUR11729]
+Date: 2020-05-08
+Country: Turkey | Location: Beyoglu
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Bianet; Aydinlik [National]
+
+DESCRIPTION:
+Security measures: On 8 May 2020, Beyoglu Governorship announced a mandatory use of face masks and at least 3 meters social distancing rule as part of the efforts against coronavirus outbreak effective in Istiklal street and Taksim square, which are the most touristic areas of Istanbul with around 2 million visitors daily.
+
+---
+
+[EVENT: TUR11725]
+Date: 2020-05-08
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Security measures: On 8 May 2020, Van Governor's Office extended the duration of the ban on all forms of marches, protests, press conferences, sit-ins and other political actions for another 15 days, effective until May 23.
+
+---
+
+[EVENT: TUR11757]
+Date: 2020-05-08
+Country: Turkey | Location: Adrasan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On 8 May 2020, HBDH militants carried out an arson attack targeting a hotel building in Adrasan village of Kumluca. The attack caused material damage in the hotel.
+
+---
+
+[EVENT: TUR11694]
+Date: 2020-05-09
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Bianet; Hurriyet Daily; Karar; Rudaw [National-Regional]
+
+DESCRIPTION:
+Security measures: On 9 May 2020, Turkish Government began enforcing a 2-day curfew in 24 big provinces until the end of the weekend in a bid to curb the spread of the coronavirus outbreak, forcing the residents to stay in their homes.
+
+---
+
+[EVENT: TUR11735]
+Date: 2020-05-09
+Country: Turkey | Location: Aydin/Efeler
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+Security measures: On 9 May 2020, Aydin Governorship announced a mandatory use of face masks in all the public spaces in the province as part of the efforts against coronavirus outbreak.
+
+---
+
+[EVENT: TUR11746]
+Date: 2020-05-09
+Country: Turkey | Location: Gebze
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 9 May 2020, the children of fire initiative carried out an arson attack targeting a factory in Gebze industrial zone in Gebze, Kocaeli. The attack caused material damage in the factory.
+
+---
+
+[EVENT: TUR11748]
+Date: 2020-05-10
+Country: Turkey | Location: Mezitli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 10 May 2020, the children of fire initiative carried out an arson attack targeting a packaging factory in Tece neighborhood of Mezitli, Mersin. The attack caused material damage in the factory.
+
+---
+
+[EVENT: TUR11747]
+Date: 2020-05-10
+Country: Turkey | Location: Muratpasa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 10 May 2020, the children of fire initiative carried out an arson attack targeting a historical building which was in preservation program in Muratpasa district of Antalya. The building was totally destroyed as a result of the attack.
+
+---
+
+[EVENT: TUR11751]
+Date: 2020-05-11
+Country: Turkey | Location: Kozluk
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Property destruction: Around 11 May 2020 (as reported), Turkish Gendarmerie forces destroyed 2 PKK shelters together with the supplies found inside during the security operations carried out in Sason and Kozluk districts of Batman. One event per location (total 2 events) have been coded.
+
+---
+
+[EVENT: TUR11750]
+Date: 2020-05-11
+Country: Turkey | Location: Sason
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Property destruction: Around 11 May 2020 (as reported), Turkish Gendarmerie forces destroyed 2 PKK shelters together with the supplies found inside during the security operations carried out in Sason and Kozluk districts of Batman. One event per location (total 2 events) have been coded.
+
+---
+
+[EVENT: TUR11766]
+Date: 2020-05-12
+Country: Turkey | Location: Inegol
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 12 May 2020, the children of fire initiative carried out an arson attack targeting a furniture factory in Inegol district of Bursa for the owners' alleged AKP membership. Material damage was inflicted.
+
+---
+
+[EVENT: TUR11755]
+Date: 2020-05-12
+Country: Turkey | Location: Idil
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 12 May 2020, Sirnak Governor's Office declared total 11 zones within the borders of Idil district zone 'special security zones', banning citizens' entry until the end of 13 May due to ongoing security operations.
+
+---
+
+[EVENT: TUR11816]
+Date: 2020-05-12
+Country: Turkey | Location: Yuregir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 12 May 2020, the children of fire initiative carried out an arson attack targeting a civilian vehicle in Yuregir district of Adana. Material damage was inflicted.
+
+---
+
+[EVENT: TUR11770]
+Date: 2020-05-12
+Country: Turkey | Location: Tarsus
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 12 May 2020, HBDH militants carried out an arson attack targeting a commercial truck carrying 8 automobiles in Tarsus district of Mersin, totally burning the truck and 8 vehicles on it.
+
+---
+
+[EVENT: TUR11767]
+Date: 2020-05-12
+Country: Turkey | Location: Hendek
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 12 May 2020, the children of fire initiative carried out an arson attack targeting a factory in Hendek district of Sakarya for the owners' alleged AKP membership. The factory was totally destroyed as a result of the attack.
+
+---
+
+[EVENT: TUR11780]
+Date: 2020-05-13
+Country: Turkey | Location: Dogankoy
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Defusal: Around 13 May 2020 (as reported), Turkish Gendarmerie forces located two road-side explosive devices of total 30 kilogram planted by PKK in Dogankoy village area in Pervari, Siirt which they successfully destroyed through controlled explosions.
+
+---
+
+[EVENT: TUR11798]
+Date: 2020-05-14
+Country: Turkey | Location: Ozalp
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Demokrat Haber; Human Rights Foundation of Turkey; Haber Ercis [Other-Subnational]
+
+DESCRIPTION:
+Arrests: On 14 May 2020, a total of 43 people were arrested during the police operations in Ozalp district of Van which was allegedly carried out to capture the perpetrators behind the PKK attack on the same day against a municipality vehicle delivering aid to the villages and killed 2 people. 42 of the detainees are reported to be HDP members and local executives.
+
+---
+
+[EVENT: TUR11817]
+Date: 2020-05-14
+Country: Turkey | Location: Duzce
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 14 May 2020, the children of fire initiative carried out an arson attack targeting a factory producing wood products in central district of Duzce. Material damage was inflicted.
+
+---
+
+[EVENT: TUR11789]
+Date: 2020-05-14
+Country: Turkey | Location: Saggoze
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7; Ihlas News Agency [National]
+
+DESCRIPTION:
+Property destruction: Around 14 May 2020 (as reported), Turkish Gendarmerie forces destroyed a PKK shelter together with the supplies found inside during the security operations carried out in Saggoze village area of Genc district of Bingol.
+
+---
+
+[EVENT: TUR11793]
+Date: 2020-05-14
+Country: Turkey | Location: Mus
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency; Haberler [National]
+
+DESCRIPTION:
+Security measures: On 14 May 2020, Mus Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political actions for 15 days, effective until May 28.
+
+---
+
+[EVENT: TUR11792]
+Date: 2020-05-15
+Country: Turkey | Location: Mus
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Property destruction: Around 15 May 2020 (as reported), Turkish Gendarmerie forces destroyed 4 PKK shelters together with the supplies found inside during the security operations carried out in central district of Mus.
+
+---
+
+[EVENT: TUR11795]
+Date: 2020-05-15
+Country: Turkey | Location: Siirt
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Demokrat Haber; Kurdistan24; Mezopotamya Agency [National-Regional]
+
+DESCRIPTION:
+Other: On 15 May 2020, Turkish government removed the city mayor of Siirt as well as the district mayors of Baykan and Kurtalan (who were all HDP mayors that had entered office after the March 2019 local election), replacing them with Ankara-appointed governors to act as 'trustees'. The decision was taken on the ground of ongoing terrorism investigations of the mayors, which led to their detention in the same day. Known as the 'kayyum', the policy have been imposed on mostly HDP-run municipalities.
+
+---
+
+[EVENT: TUR11777]
+Date: 2020-05-15
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Karar; Kurdistan24; Rudaw [Regional]
+
+DESCRIPTION:
+Security measures: Around 15 May 2020 (form 14 - 16 May), Governorships of 23 provinces in Turkey imposed mandatory use of face masks in all the public areas as part of the efforts against coronavirus outbreak. The provinces who imposed the rule are Adiyaman, Tunceli, Maras, Antep, Siirt, Afyonkarahisar, Aydin, Balikesir, Bartin, Denizli, Duzce, Kastamonu, Mugla, Usak, Rize, Karabuk, Kayseri, Sakarya, Kirikkale, Kirklareli, Burdur, Konya and Amasya.
+
+---
+
+[EVENT: TUR11794]
+Date: 2020-05-15
+Country: Turkey | Location: Igdir
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Demokrat Haber; Kurdistan24; Mezopotamya Agency [National-Regional]
+
+DESCRIPTION:
+Other: On 15 May 2020, Turkish government removed the HDP mayor of Igdir (who had entered office after the March 2019 local election), replacing them with Ankara-appointed governor to act as 'trustee'. The decision was taken on the ground of ongoing terrorism investigations of the mayor, which led to their detention in the same day. Known as the 'kayyum', the policy have been imposed on mostly HDP-run municipalities.
+
+---
+
+[EVENT: TUR11818]
+Date: 2020-05-15
+Country: Turkey | Location: Inegol
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 15 May 2020, the children of fire initiative carried out an arson attack targeting a car repair shop in Inegol district of Bursa. Material damage was inflicted.
+
+---
+
+[EVENT: TUR11796]
+Date: 2020-05-15
+Country: Turkey | Location: Altinova
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Demokrat Haber; Kurdistan24; Mezopotamya Agency [National-Regional]
+
+DESCRIPTION:
+Other: On 15 May 2020, Turkish government removed the HDP mayor of Altinova town in Korkut, Mus (who had entered office after the March 2019 local election), replacing them with Ankara-appointed governor to act as 'trustee'. The decision was taken on the ground of ongoing terrorism investigations of the mayor, which led to their detention in the same day. Known as the 'kayyum', the policy have been imposed on mostly HDP-run municipalities.
+
+---
+
+[EVENT: TUR11825]
+Date: 2020-05-15
+Country: Turkey | Location: Silivri
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Arin Mirkan Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 15 May 2020, Martyr Arin Mirkan and Martyr Helmet Vengeance Units carried out an arson attack targeting a cell tower located on the roof of a factory building in Silivri district of Istanbul. The attack reportedly destroyed the cell tower and caused material damage on the factory.
+
+---
+
+[EVENT: TUR11756]
+Date: 2020-05-16
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Bianet; Sozcu [National]
+
+DESCRIPTION:
+Security measures: On 16 May 2020, Turkish Government began enforcing a 4-day curfew in 15 provinces (Ankara, Balikesir, Bursa, Eskisehir, Gaziantep, Istanbul, Izmir, Kayseri, Kocaeli, Konya, Manisa, Sakarya, Samsun, Van, Zonguldak) until the end of 19 May in a bid to curb the spread of the coronavirus outbreak, forcing the residents to stay in their homes.
+
+---
+
+[EVENT: TUR11831]
+Date: 2020-05-17
+Country: Turkey | Location: Bayrakli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: Around 17 May 2020 (as reported), the children of fire initiative carried out an arson attack targeting a civilian house in Bayrakli district of Izmir. No casualties occurred in the attack but material damage was inflicted.
+
+---
+
+[EVENT: TUR11838]
+Date: 2020-05-17
+Country: Turkey | Location: Tahil
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: On 17 May 2020, Turkish Gendarmerie forces seized one anti-aircraft gun, 10 mortar shells, 3 hand grenades, 3 IEDs, one assault rifle, 200 kilogram of explosive material and other supplies allegedly belonging to PKK, found during military operations carried out in Tahil village area of Baskale district, Van.
+
+---
+
+[EVENT: TUR11832]
+Date: 2020-05-17
+Country: Turkey | Location: Maltepe
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Takvim; Peoples' United Revolutionary Movement [Other-National]
+
+DESCRIPTION:
+Property destruction: On 17 May 2020, HBDH militants carried out an arson attack targeting the Turkish Army's sewing facility in Maltepe, Istanbul. HBDH claimed 18 soldiers died and 36 others were injured in the attack, but Turkish army sources reported that it was a minor fire without any casualties.
+
+---
+
+[EVENT: TUR11829]
+Date: 2020-05-17
+Country: Turkey | Location: Konyaalti
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: Around 17 May 2020 (as reported), the children of fire initiative carried out an arson attack targeting a private yacht in Konyaalti district of Antalya. The yacht was completely destroyed as a result of the attack.
+
+---
+
+[EVENT: TUR11830]
+Date: 2020-05-17
+Country: Turkey | Location: Manavgat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: Around 17 May 2020 (as reported), the children of fire initiative carried out an arson attack targeting the storage facility of a factory producing plastic material in Manavgat district of Antalya. The attack caused material damage.
+
+---
+
+[EVENT: TUR11835]
+Date: 2020-05-18
+Country: Turkey | Location: Tunceli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Security measures: On 18 May 2020, Tunceli Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political actions within the borders of province for 7 days, effective until May 25.
+
+---
+
+[EVENT: TUR11858]
+Date: 2020-05-18
+Country: Turkey | Location: Serik
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 18 May 2020, the children of fire initiative carried out an arson attack targeting the storage facility of a furniture workshop in Serik district of Antalya. The attack caused material damage.
+
+---
+
+[EVENT: TUR11859]
+Date: 2020-05-18
+Country: Turkey | Location: Cayirova
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 18 May 2020, the children of fire initiative carried out an arson attack targeting a restaurant in Sekerpinar Industrial zone in Cayirova, Kocaeli. The attack caused material damage.
+
+---
+
+[EVENT: TUR11839]
+Date: 2020-05-18
+Country: Turkey | Location: Akcabudak
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Property destruction: Around 18 May 2020 (as reported), Turkish Gendarmerie forces destroyed 2 PKK shelters together with the supplies found inside during the security operations carried out near Akcabudak village of Lice, Diyarbakir.
+
+---
+
+[EVENT: TUR11906]
+Date: 2020-05-18
+Country: Turkey | Location: Datca
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 18 May 2020, the Children of Fire initiative carried out an arson attack targeting a hotel in Datca district of Mugla. The attack caused material damage.
+
+---
+
+[EVENT: TUR11860]
+Date: 2020-05-18
+Country: Turkey | Location: Odunpazari
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 18 May 2020, the children of fire initiative carried out an arson attack targeting a furniture factory in EMKO industrial zone in Odunpazari, Eskisehir. The factory was completely destroyed as a result of the attack.
+
+---
+
+[EVENT: TUR11856]
+Date: 2020-05-18
+Country: Turkey | Location: Seydikemer
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 18 May 2020, Martyr Zeryan Deniz Vengeance Unit of YPS carried out an arson attack targeting a wheat field in Seydikemer district of Mugla, for the owner's alleged AKP membership.
+
+---
+
+[EVENT: TUR11867]
+Date: 2020-05-19
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Rudaw [Regional]
+
+DESCRIPTION:
+Security measures: On 19 May 2020, Turkish government extended the duration of the lockdown of 15 provinces (banning travels to/from Ankara, Balikesir, Bursa, Eskisehir, Gaziantep, Konya, Istanbul, Izmir, Kayseri, Kocaeli, Manisa, Sakarya, Samsun, Van and Zonguldak) for another 15 days until 3 June as part of efforts to combat coronavirus outbreak.
+
+---
+
+[EVENT: TUR11905]
+Date: 2020-05-19
+Country: Turkey | Location: Ceylanpinar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 19 May 2020, YPS militants carried out an arson attack targeting a wheat field in Ceylanpinar district of Sanliurfa. The attack caused material damage.
+
+---
+
+[EVENT: TUR11907]
+Date: 2020-05-19
+Country: Turkey | Location: Yunusemre
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 19 May 2020, the Children of Fire initiative carried out arson attacks targeting a motorcycle and a minibus in Yunusemre district of Manisa. The attack caused material damage.
+
+---
+
+[EVENT: TUR11872]
+Date: 2020-05-20
+Country: Turkey | Location: Karakoyunlu
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency; Haber 7; Takvim [National]
+
+DESCRIPTION:
+Weapons seizure: Around 20 May 2020, Turkish Gendarmerie forces seized one heavy machine gun, one assault weapon, 5 hand grenades, 14 rocket-propelled grenades (RPG), 15 propelling cartridges, 6,500 round of cartridge ammunitions and other supplies allegedly belonging to PKK, found during military operations carried out in Karakoyunlu district of Igdir.
+
+---
+
+[EVENT: TUR11909]
+Date: 2020-05-20
+Country: Turkey | Location: Saricam
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 20 May 2020, the Children of Fire initiative carried out an arson attack targeting a civilian vehicle in Saricam district of Adana. The attack caused material damage.
+
+---
+
+[EVENT: TUR11908]
+Date: 2020-05-20
+Country: Turkey | Location: Sincan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 20 May 2020, the Children of Fire initiative carried out an arson attack targeting a factory that produces medical supplies and its storage unit in Anadolu industrial zone in Sincan, Ankara. The attack caused material damage.
+
+---
+
+[EVENT: TUR11916]
+Date: 2020-05-20
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Aydinlik; Rudaw; Sozcu [National-Regional]
+
+DESCRIPTION:
+Security measures: Around 20 May 2020 (form 19 - 22 May), Governorships of 4 more provinces in Turkey (Izmir, Malatya, Mardin, Bursa, Igdir) imposed mandatory use of face masks in all the public areas as part of the efforts against coronavirus outbreak.
+
+---
+
+[EVENT: TUR11910]
+Date: 2020-05-21
+Country: Turkey | Location: Dilovasi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 21 May 2020, the Children of Fire initiative carried out an arson attack targeting a factory that produces elevator systems and machinery in Kucuk Mermerciler industrial zone in Dilovasi, Kocaeli. The attack caused material damage.
+
+---
+
+[EVENT: TUR11922]
+Date: 2020-05-21
+Country: Turkey | Location: Adana
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 21 May 2020, the Children of Fire initiative carried out arson attacks targeting two commercial vehicles on Adana-Kozan highway in Adana province. The attack caused material damage.
+
+---
+
+[EVENT: TUR11973]
+Date: 2020-05-21
+Country: Turkey | Location: Ipekyolu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Eylul Amed Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 21 May 2020, Martyr Eylul Amed and Martyr Mazlum Maxmuri Vengeance Units carried out arson attacks targeting 2 civilian vehicles in Ipekyolu, Van.
+
+---
+
+[EVENT: TUR11976]
+Date: 2020-05-21
+Country: Turkey | Location: Gaziosmanpasa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Helmet Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 21 May 2020, Martyr Helmet and Martin Arin Mirkan Vengeance Units carried out an arson attack targeting a civilian building in Gaziosmanpasa district of Istanbul for the residents' alleged drug-selling activities.
+
+---
+
+[EVENT: TUR11923]
+Date: 2020-05-22
+Country: Turkey | Location: Osmangazi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 22 May 2020, the Children of Fire initiative carried out an arson attack targeting a food factory in Demirtas Dumlupinar neighborhood of Osmangazi, Bursa. The attack caused material damage.
+
+---
+
+[EVENT: TUR11974]
+Date: 2020-05-22
+Country: Turkey | Location: Edremit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Eylul Amed Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 22 May 2020, Martyr Eylul Amed and Martyr Mazlum Maxmuri Vengeance Units carried out an arson attack targeting a cell tower in Kirazli neighborhood of Edremit, Van.
+
+---
+
+[EVENT: TUR11978]
+Date: 2020-05-23
+Country: Turkey | Location: Kartal
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Helmet Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 23 May 2020, Martyr Helmet and Martin Arin Mirkan Vengeance Units carried out an arson attack targeting a civilian vehicle in Dragos neighborhood of Kartal, Istanbul.
+
+---
+
+[EVENT: TUR11912]
+Date: 2020-05-23
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Haberler [National]
+
+DESCRIPTION:
+Security measures: On 23 May 2020, Van Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political actions for 15 days, effective until 6 June.
+
+---
+
+[EVENT: TUR11977]
+Date: 2020-05-23
+Country: Turkey | Location: Okmeydani
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Helmet Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 23 May 2020, Martyr Helmet and Martin Arin Mirkan Vengeance Units carried out arson attacks targeting two supermarkets in Okmeydani neighborhood of Sisli, Istanbul.
+
+---
+
+[EVENT: TUR11919]
+Date: 2020-05-23
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Property destruction: Around 23 May 2020 (as reported), Turkish Gendarmerie forces destroyed a large PKK shelter with 32 rooms together with the supplies found inside during the security operations carried out in the rural areas of the central district of Bitlis.
+
+---
+
+[EVENT: TUR11915]
+Date: 2020-05-23
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Rudaw; Sozcu; TRT Haber [National-Regional]
+
+DESCRIPTION:
+Security measures: On 23 May 2020, Turkish Government began enforcing a 4-day national curfew in entire Turkey (all 81 provinces) throughout the Eid holiday until the end of 26 May in a bid to curb the spread of the coronavirus outbreak, forcing the residents to stay in their homes.
+
+---
+
+[EVENT: TUR11929]
+Date: 2020-05-24
+Country: Turkey | Location: Silifke
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 24 May 2020, the Children of Fire initiative carried out an arson attack targeting a paper mill in Silifke district of Mersin. The attack caused material damage.
+
+---
+
+[EVENT: TUR11930]
+Date: 2020-05-25
+Country: Turkey | Location: Germencik
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 25 May 2020, the Children of Fire initiative carried out an arson attack targeting a commercial storage facility in Germencik district of Aydin.
+
+---
+
+[EVENT: TUR11924]
+Date: 2020-05-25
+Country: Turkey | Location: Idil
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; Cumhuriyet [National]
+
+DESCRIPTION:
+Defusal: Around 25 May 2020 (as reported), Turkish Gendarmerie forces located total of 11 anti-tank mines planted by PKK in Idil district of Sirnak during the security operations, which they successfully destroyed through controlled explosions.
+
+---
+
+[EVENT: TUR12349]
+Date: 2020-05-25
+Country: Turkey | Location: Hizan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On 25 May 2020, PKK forces attacked and destroyed a cell tower belonging to a telecommunication company, in Bercum village area (Kurdish name) in Hizan district of Bitlis.
+
+---
+
+[EVENT: TUR11931]
+Date: 2020-05-25
+Country: Turkey | Location: Esenyurt
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 25 May 2020, the Children of Fire initiative burnt down a building that was allegedly used by the police for extrajudicial activities such as interrogations and torture, in Esenyurt district of Istanbul.
+
+---
+
+[EVENT: TUR11943]
+Date: 2020-05-26
+Country: Turkey | Location: Tire
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 26 May 2020, HBDH militants carried out an arson attack targeting an agricultural field in Tire district of Izmir.
+
+---
+
+[EVENT: TUR11966]
+Date: 2020-05-28
+Country: Turkey | Location: Dagkonak
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Haberturk; Mezopotamya Agency [National]
+
+DESCRIPTION:
+Property destruction: On 28 May 2020, PKK militants attacked the construction vehicles parked in Dagkonak village of Sirnak. The vehicles were reportedly there for the construction of a military outpost. The attack caused material damage on a vehicle.
+
+---
+
+[EVENT: TUR11983]
+Date: 2020-05-30
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Rudaw; ANF News [International]
+
+DESCRIPTION:
+Security measures: On 30 May 2020, Bitlis Governor's Office declared a curfew order in total 19 villages in central district of Bitlis, banning citizens' entry until further notice due to ongoing military operations against PKK.
+
+---
+
+[EVENT: TUR12020]
+Date: 2020-05-30
+Country: Turkey | Location: Tarsus
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On 30 May 2020, HBDH militants carried out arson attacks targeting the vehicles and houses of two civilians in Tarsus district of Mersin for their alleged cooperation with Turkish security forces.
+
+---
+
+[EVENT: TUR11948]
+Date: 2020-05-30
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Cumhuriyet; Haber 7; TRT Haber [National]
+
+DESCRIPTION:
+Security measures: On 30 May 2020, Turkish Government began enforcing a 2-day curfew in 15 provinces (Ankara, Balikesir, Bursa, Eskisehir, Gaziantep, Istanbul, Izmir, Kayseri, Kocaeli, Konya, Manisa, Sakarya, Samsun, Van, Zonguldak) until the end of weekend in a bid to curb the spread of the coronavirus outbreak, forcing the residents to stay in their homes.
+
+---
+
+[EVENT: TUR11995]
+Date: 2020-06-01
+Country: Turkey | Location: Kozluk
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Weapons seizure: Around 1 June 2020 (as reported), Turkish Gendarmerie forces seized 3 RPG launcher, 8 anti-tank RPG, 8 RPG propelling cartridge, one GP-25 grenade launcher, 6 grenades and other supplies allegedly belonging to PKK, found during military operations carried out in Kozluk district area of Batman.
+
+---
+
+[EVENT: TUR12006]
+Date: 2020-06-02
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Daily Sabah; Ihlas News Agency; Takvim [National]
+
+DESCRIPTION:
+Arrests: On 2 June 2020, 72 active-duty soldiers were arrested in Istanbul province during the security operations carried out by police and gendarmerie forces targeting the Gulen Movement, accused of planning the military coup attempt of July 2016.
+
+---
+
+[EVENT: TUR12048]
+Date: 2020-06-03
+Country: Turkey | Location: Bakirkoy
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 3 June 2020, the children of fire initiative carried out an arson attack targeting the electricity system of the tram line in Bakirkoy, Istanbul. The attack interrupted the tram service and caused material damage.
+
+---
+
+[EVENT: TUR12012]
+Date: 2020-06-03
+Country: Turkey | Location: Didim
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: Around 3 June 2020 (as reported), 42 migrants attempting to cross the border illegally to Greece on a boat were stopped and detained during an operation of the Coast Guard Command of Turkish Army in Didim district of Aydin. The migrants were from Iran, Afghanistan and Iraq.
+
+---
+
+[EVENT: TUR12016]
+Date: 2020-06-03
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Rudaw; Kurdistan24; Haber Ercis [National-International]
+
+DESCRIPTION:
+Security measures: On 3 June 2020, Bitlis Governor's Office declared a curfew order in total 28 villages in central district of Bitlis, banning citizens' entry until further notice due to ongoing military operations against PKK.
+
+---
+
+[EVENT: TUR12027]
+Date: 2020-06-04
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Actor2: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Bianet; Kurdistan24; Turkey Purge [New media-National]
+
+DESCRIPTION:
+Arrests: On 4 June 2020, Turkey's parliament removed the lawmaker status of 3 opposition deputies (2 HDP MPs and one CHP MP), allowing their trial on terrorism and conspiracy charges, which led to their arrests on the same day.
+
+---
+
+[EVENT: TUR12049]
+Date: 2020-06-04
+Country: Turkey | Location: Kadikoy
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 4 June 2020, the Children of Fire initiative carried out an arson attack targeting a civilian vehicle in Kadikoy district of Istanbul. The attack caused material damage.
+
+---
+
+[EVENT: TUR12030]
+Date: 2020-06-04
+Country: Turkey | Location: Siirt
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Property destruction: Around 4 June 2020 (as reported), Turkish Military forces discovered and destroyed a PKK shelter together with the supplies inside during the military operations conducted in central district of Siirt.
+
+---
+
+[EVENT: TUR12023]
+Date: 2020-06-05
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency; Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 5 June 2020, Hakkari Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political actions within the borders of province for 15 days.
+
+---
+
+[EVENT: TUR12061]
+Date: 2020-06-05
+Country: Turkey | Location: Inegol
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 5 June 2020, the Children of Fire initiative carried out an arson attack targeting a wood processing factory in Inegol industrial zone in Inegol, Bursa. The attack caused material damage.
+
+---
+
+[EVENT: TUR12054]
+Date: 2020-06-05
+Country: Turkey | Location: Omerli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Security measures: On 5 June 2020, Mardin Governor's Office declared a curfew order in total 4 villages in Omerli district of Mardin, banning citizens' entry until further notice due to ongoing military operations against PKK.
+
+---
+
+[EVENT: TUR12060]
+Date: 2020-06-05
+Country: Turkey | Location: Menemen
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 5 June 2020, the Children of Fire initiative carried out an arson attack targeting a recycling facility in Menemen district of Izmir. The attack caused material damage.
+
+---
+
+[EVENT: TUR12066]
+Date: 2020-06-05
+Country: Turkey | Location: Seyhan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 5 June 2020, the children of fire initiative carried out an arson attack targeting an ATM machine in Seyhan district of Adana. The attack reportedly caused material damage.
+
+---
+
+[EVENT: TUR12044]
+Date: 2020-06-05
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Rudaw [International]
+
+DESCRIPTION:
+Security measures: On 5 June 2020, Van Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political actions within the borders of province for 15 days.
+
+---
+
+[EVENT: TUR12042]
+Date: 2020-06-05
+Country: Turkey | Location: Baykan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Rudaw; Ihlas News Agency; Kurdistan24 [National-International]
+
+DESCRIPTION:
+Security measures: On 5 June 2020, Siirt Governor's Office declared a curfew order in total 4 villages in Baykan district of Siirt, banning citizens' entry until further notice due to ongoing military operations against PKK.
+
+---
+
+[EVENT: TUR12067]
+Date: 2020-06-06
+Country: Turkey | Location: Kepez
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 6 June 2020, the children of fire initiative carried out an arson attack targeting a supermarket in Kepez district of Antalya. The attack reportedly caused heavy material damage.
+
+---
+
+[EVENT: TUR12056]
+Date: 2020-06-06
+Country: Turkey | Location: Cukurca
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; Takvim [National]
+
+DESCRIPTION:
+Defusal: Around 6 June 2020 (as reported), Turkish Gendarmerie forces located total of 20 PKK IEDs in Cukurca district of Hakkari during the security operations, which they successfully destroyed through controlled explosions.
+
+---
+
+[EVENT: TUR12196]
+Date: 2020-06-07
+Country: Turkey | Location: Fatih
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 7 June 2020, Martyr Nurcan Malatya Vengeance Unit of YPS carried out a an arson attack with Molotov cocktails targeting a civilian residence in Fatih district of Istanbul. The attack burnt down the house, reportedly causing material damage.
+
+---
+
+[EVENT: TUR12095]
+Date: 2020-06-07
+Country: Turkey | Location: Bakirkoy
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Kawa Garzan Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 7 June 2020, Martyr Kawa Garzan and Martyr Mordem Maku Vengeance Units carried out an arson attacks in Bakirkoy district of Istanbul, burning down total of 8 civilian vehicles.
+
+---
+
+[EVENT: TUR12080]
+Date: 2020-06-07
+Country: Turkey | Location: Tatvan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Rudaw [International]
+
+DESCRIPTION:
+Security measures: On 7 June 2020, Bitlis Governor's Office declared a curfew order in total 14 villages in Tatvan district of Bitlis, effective until further notice due to ongoing military operations against PKK.
+
+---
+
+[EVENT: TUR12096]
+Date: 2020-06-08
+Country: Turkey | Location: Fatih
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Kawa Garzan Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 8 June 2020, Martyr Kawa Garzan and Martyr Mordem Maku Vengeance Units carried out an arson attack targeting a civilian house in Kumkapi quarter of Fatih, Istanbul due to the residents' alleged drug selling activities. The attack reportedly caused material damage.
+
+---
+
+[EVENT: TUR12130]
+Date: 2020-06-08
+Country: Turkey | Location: Arnavutkoy
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 8 June 2020, Martyr Sorxwin Roboski Vengeance Unit of YPS carried out an arson attack targeting a civilian house in Bogazkoy neighborhood of Arnavutkoy, Istanbul. The house was completely burnt down as a result of the attack.
+
+---
+
+[EVENT: TUR12064]
+Date: 2020-06-08
+Country: Turkey | Location: Sanliurfa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 8 June 2020, Sanliurfa Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political actions in the province for 30 days effective until 7 July, as part of the measures to curb the coronavirus outbreak.
+
+---
+
+[EVENT: TUR12087]
+Date: 2020-06-08
+Country: Turkey | Location: Tatvan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 8 June 2020, Turkish Gendarmerie forces discovered and destroyed a PKK shelter together with the supplies found inside during the military operations conducted in Tatvan district of Bitlis
+
+---
+
+[EVENT: TUR12083]
+Date: 2020-06-08
+Country: Turkey | Location: Muratpasa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 8 June 2020, the children of fire initiative carried out an arson attack targeting a civilian house in Muratpasa district of Antalya. The attack reportedly caused material damage.
+
+---
+
+[EVENT: TUR12075]
+Date: 2020-06-08
+Country: Turkey | Location: Tatvan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7; Ihlas News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: On 8 June 2020, Turkish Gendarmerie forces seized a total of 291 kilogram of explosive material with 25 electrical detonators and other supplies allegedly belonging to PKK, found during military operations carried out in Tatvan district of Bitlis.
+
+---
+
+[EVENT: TUR12197]
+Date: 2020-06-09
+Country: Turkey | Location: Siverek
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 9 June 2020, Martyr Nurcan Malatya Vengeance Unit of YPS carried out an arson attack targeting a wheat field in Silivri district of Istanbul. The fire inflicted major material damage on the fields.
+
+---
+
+[EVENT: TUR12106]
+Date: 2020-06-09
+Country: Turkey | Location: Konya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On 9 June 2020, HBDH militants carried out arson attacks targeting the vehicles belonging to a state-owned agricultural facility in Konya province.
+
+---
+
+[EVENT: TUR12107]
+Date: 2020-06-09
+Country: Turkey | Location: Islahiye
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On 9 June 2020, HBDH militants carried out arson attacks targeting the construction vehicles in Islahiye district of Gaziantep.
+
+---
+
+[EVENT: TUR12108]
+Date: 2020-06-09
+Country: Turkey | Location: Kartal
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On 9 June 2020, HBDH militants carried out arson attacks targeting civilian vehicles in Kartal district of Istanbul.
+
+---
+
+[EVENT: TUR12090]
+Date: 2020-06-09
+Country: Turkey | Location: Bodrum
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: Around 9 June 2020 (as reported), 41 migrants attempting to cross the border illegally to Greece on a boat were stopped and detained during an operation of the Coast Guard Command of Turkish Army off the shore in Bodrum district of Mugla.
+
+---
+
+[EVENT: TUR12147]
+Date: 2020-06-09
+Country: Turkey | Location: Silvan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On 9 June 2020, Turkish Army soldiers deliberately killed animals and livestock belonging to villagers of Cumate, Hindis and Selima villages (Kurdish names) during the security operations carried out in Silvan district, Diyarbakir.
+
+---
+
+[EVENT: TUR12091]
+Date: 2020-06-09
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Aydinlik; Ihlas News Agency; Sozcu [National]
+
+DESCRIPTION:
+Arrests: Around 9 June 2020 (as reported), Turkish Police Forces arrested a total of 160 active-duty soldiers during the Izmir-based security operations carried out in 22 provinces targeting the Gulen Movement, accused of planning the military coup attempt of July 2016.
+
+---
+
+[EVENT: TUR12079]
+Date: 2020-06-09
+Country: Turkey | Location: Gaziantep
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency; Anadolu Agency; Rudaw [National-International]
+
+DESCRIPTION:
+Security measures: On 9 June 2020, Gaziantep Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political actions in the province for 30 days effective until 8 July, as part of the measures to curb the coronavirus outbreak.
+
+---
+
+[EVENT: TUR12112]
+Date: 2020-06-09
+Country: Turkey | Location: Maltepe
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 9 June 2020, the children of fire initiative carried out an arson attack targeting a recycling faculty in Maltepe district of Istanbul. The attack reportedly caused material damage.
+
+---
+
+[EVENT: TUR12113]
+Date: 2020-06-09
+Country: Turkey | Location: Edremit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 9 June 2020, the children of fire initiative carried out an arson attack targeting a recycling faculty in Altinoluk neighborhood of Edremit, Balikesir. The attack reportedly caused material damage.
+
+---
+
+[EVENT: TUR12084]
+Date: 2020-06-09
+Country: Turkey | Location: Hendek
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 9 June 2020, the children of fire initiative carried out an arson attack targeting a recycling faculty and its storage unit in Hendek district of Sakarya. The attack reportedly caused material damage.
+
+---
+
+[EVENT: TUR12089]
+Date: 2020-06-09
+Country: Turkey | Location: Suleymanpasa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: Around 9 June 2020 (as reported), the police forces stopped a bus carrying migrants that entered Turkey illegally in Suleymanpasa district of Tekirdag, detaining 31 migrants inside.
+
+---
+
+[EVENT: TUR12123]
+Date: 2020-06-09
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency; Rudaw; Anadolu Agency [National-International]
+
+DESCRIPTION:
+Security measures: On 9 June 2020, Bitlis Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political actions in the province for 15 days, effective until the end of 23 June.
+
+---
+
+[EVENT: TUR12105]
+Date: 2020-06-10
+Country: Turkey | Location: Omeryan Mountains
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Property destruction: Around 10 June 2020 (as reported), Turkish Gendarmerie forces discovered and destroyed a PKK shelter together with the 15 kilogram of ammonium nitrate and other supplies found inside during the military operations conducted in Omeryan mountain area, Mardin, which was also supported by the National Intelligence Organization of Turkey.
+
+---
+
+[EVENT: TUR12218]
+Date: 2020-06-10
+Country: Turkey | Location: Yuregir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 10 June 2020, Martyr Sakine Cansiz, Martyr Savas Amed and Martyr Baran Dersim Vengeance Units of YPS carried out arson attacks targeting two civilian vehicles and a furniture workshop in Yenidogan neighborhood of Yuregir, Adana. The attack destroyed the vehicles and caused material damage on the workshop.
+
+---
+
+[EVENT: TUR12131]
+Date: 2020-06-10
+Country: Turkey | Location: Siverek
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 10 June 2020, Martyr Sorxwin Roboski Vengeance Unit of YPS carried out an arson attack targeting a wheat field in Gercek neighborhood of Siverek, Sanliurfa. The fire inflicted heavy material damage on the fields.
+
+---
+
+[EVENT: TUR12110]
+Date: 2020-06-10
+Country: Turkey | Location: Lice
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: ANF News; Mezopotamya Agency [National-International]
+
+DESCRIPTION:
+Property destruction: Around 10 June 2020 (as reported), Turkish Army forces reportedly damaged the graves and tombstones of 6 PKK militants in the cemetery of Cavundur village in Lice, Diyarbakir.
+
+---
+
+[EVENT: TUR12126]
+Date: 2020-06-10
+Country: Turkey | Location: Gebze
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 10 June 2020, the children of fire initiative carried out an arson attack targeting a factory in Gebze district of Kocaeli. The attack reportedly caused material damage.
+
+---
+
+[EVENT: TUR12119]
+Date: 2020-06-10
+Country: Turkey | Location: Ovacik
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On 10 June 2020, PKK militants attacked a Turkish Army observation tower in Sari Tosun area (Kurdish name) in Ovacik district of Tunceli, destroying its 6 surveillance cameras, a solar panel and the storage room.
+
+---
+
+[EVENT: TUR12125]
+Date: 2020-06-10
+Country: Turkey | Location: Esenyurt
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On 10 June 2020, HBDH militants burnt down state-owned construction vehicles in Esenyurt district of Istanbul, causing material damage.
+
+---
+
+[EVENT: TUR12217]
+Date: 2020-06-11
+Country: Turkey | Location: Yuregir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 11 June 2020, Martyr Sakine Cansiz, Martyr Savas Amed and Martyr Baran Dersim Vengeance Units of YPS carried out an arson attack targeting an agricultural land in Menekse neighborhood of Yuregir, Adana. The attack destroyed the land, reportedly causing material damage.
+
+---
+
+[EVENT: TUR12157]
+Date: 2020-06-13
+Country: Turkey | Location: Antalya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 13 June 2020, Antalya Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political organizations with more than 50 participants in the province until 20 June. The governorship announced the decision as part of the measures to curb the coronavirus outbreak, but it was taken following the HDP's announcement of two nation-wide protest marches that will start on 15 June from Edirne and Hakkari provinces and finish in Ankara.
+
+---
+
+[EVENT: TUR12143]
+Date: 2020-06-13
+Country: Turkey | Location: Kocaeli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Haberler [National]
+
+DESCRIPTION:
+Security measures: On 13 June 2020, Kocaeli Governor's Office issued a entry and exit ban in and out of the province for 15 days effective until 27 June, specifically targeting the 'potential participants' of demonstration marches, protests, press conferences, sit-ins and other political actions who will attempt to enter or leave the province. Although the governorship announced it as part of the measures to curb the coronavirus outbreak, the decision was taken following the HDP's announcement of two nation-wide protest marches that will start on 15 June from Edirne and Hakkari provinces and finish in Ankara.
+
+---
+
+[EVENT: TUR12263]
+Date: 2020-06-13
+Country: Turkey | Location: Mentese
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 13 June 2020, Martyr Mugdat Ay Vengeance Unit of YPS carried out an arson attack targeting a wheat field in Mentese district of Mugla. The fire inflicted heavy material damage on the fields.
+
+---
+
+[EVENT: TUR12173]
+Date: 2020-06-13
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: A Haber [National]
+
+DESCRIPTION:
+Arrests: On 13 June 2020, 34 people were arrested in Istanbul province during the security operations carried out by police and gendarmerie forces targeting the Gulen Movement, accused of planning the military coup attempt of July 2016.
+
+---
+
+[EVENT: TUR12144]
+Date: 2020-06-13
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 13 June 2020, Van Governor's Office issued a entry and exit ban in and out of the province until further notice, specifically targeting the 'potential participants' of demonstration marches, protests, press conferences, sit-ins and other political actions who will attempt to enter or leave the province. Although the governorship announced it as part of the measures to curb the coronavirus outbreak, the decision was taken following the HDP's announcement of two nation-wide protest marches that will start on 15 June from Edirne and Hakkari provinces and finish in Ankara.
+
+---
+
+[EVENT: TUR12296]
+Date: 2020-06-13
+Country: Turkey | Location: Sehitkamil
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 13 June 2020, Children of Fire initiative carried out arson attacks targeting 2 civilian vehicles in Ibrahimli neighborhood of Sehitkamil, Gaziantep. The attacks completely burnt down the vehicles.
+
+---
+
+[EVENT: TUR12154]
+Date: 2020-06-14
+Country: Turkey | Location: Kirklareli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+Security measures: On 14 June 2020, Kirklareli Governor's Office issued a entry and exit ban in and out of the province for the 'potential participants' of demonstration marches, protests, press conferences, sit-ins and other political actions who will attempt to enter or leave the province. The governorship announced the decision as part of the measures to curb the coronavirus outbreak, but it was taken following the HDP's announcement of two nation-wide protest marches that will start on 15 June from Edirne and Hakkari provinces and finish in Ankara.
+
+---
+
+[EVENT: TUR12149]
+Date: 2020-06-14
+Country: Turkey | Location: Tekirdag
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Demokrat Haber [National]
+
+DESCRIPTION:
+Security measures: On 14 June 2020, Tekirdag Governor's Office issued a entry and exit ban in and out of the province until 17 June for the 'potential participants' of demonstration marches, protests, press conferences, sit-ins and other political actions who will attempt to enter or leave the province. The governorship announced that the decision was taken as part of the measures to curb the coronavirus outbreak, with reference to the HDP's announcement of two nation-wide protest marches that will start on 15 June from Edirne and Hakkari provinces and finish in Ankara.
+
+---
+
+[EVENT: TUR12156]
+Date: 2020-06-14
+Country: Turkey | Location: Bursa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Security measures: On 14 June 2020, Bursa Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political organizations with more than 50 participants until 20 June, and also announced an entry and exit ban in and out of the province for the 'potential participants' of demonstration marches, protests and other political events who will attempt to enter or leave the province. The governorship announced the decision as part of the measures to curb the coronavirus outbreak, but it was taken following the HDP's announcement of two nation-wide protest marches that will start on 15 June from Edirne and Hakkari provinces and finish in Ankara.
+
+---
+
+[EVENT: TUR12153]
+Date: 2020-06-14
+Country: Turkey | Location: Edirne
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+Security measures: On 14 June 2020, Edirne Governor's Office issued a entry and exit ban in and out of the province for the 'potential participants' of demonstration marches, protests, press conferences, sit-ins and other political actions who will attempt to enter or leave the province. The governorship announced the decision as part of the measures to curb the coronavirus outbreak, but it was taken following the HDP's announcement of two nation-wide protest marches that will start on 15 June from Edirne and Hakkari provinces and finish in Ankara.
+
+---
+
+[EVENT: TUR12155]
+Date: 2020-06-14
+Country: Turkey | Location: Sirnak
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+Security measures: On 14 June 2020, Sirnak Governor's Office issued a entry and exit ban in and out of the province for the 'potential participants' of demonstration marches, protests, press conferences, sit-ins and other political actions who will attempt to enter or leave the province. The governorship announced the decision as part of the measures to curb the coronavirus outbreak, but it was taken following the HDP's announcement of two nation-wide protest marches that will start on 15 June from Edirne and Hakkari provinces and finish in Ankara.
+
+---
+
+[EVENT: TUR12262]
+Date: 2020-06-14
+Country: Turkey | Location: Manavgat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 14 June 2020, Martyr Mugdat Ay Vengeance Unit of YPS carried out an arson attack targeting a civilian vehicle belonging to MHP member in Manavgat district of Antalya. The attack burnt down the vehicle completely, causing material damage.
+
+---
+
+[EVENT: TUR12150]
+Date: 2020-06-14
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 14 June 2020, Hakkari Governor's Office issued a entry and exit ban in and out of the province until 17 June for the 'potential participants' of demonstration marches, protests, press conferences, sit-ins and other political actions who will attempt to enter or leave the province. The governorship announced the decision as part of the measures to curb the coronavirus outbreak, but it was taken following the HDP's announcement of two nation-wide protest marches that will start on 15 June from Edirne and Hakkari provinces and finish in Ankara.
+
+---
+
+[EVENT: TUR12168]
+Date: 2020-06-14
+Country: Turkey | Location: Menemen
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 14 June 2020, the children of fire initiative carried out an arson attack targeting a factory in Menemen district of Izmir. The attack reportedly caused material damage.
+
+---
+
+[EVENT: TUR12151]
+Date: 2020-06-14
+Country: Turkey | Location: Bingol
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Security measures: On 14 June 2020, Bingol Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political actions in the province. The governorship announced the decision as part of the measures to curb the coronavirus outbreak, but it was taken following the HDP's announcement of two nation-wide protest marches that will start on 15 June from Edirne and Hakkari provinces and finish in Ankara.
+
+---
+
+[EVENT: TUR12166]
+Date: 2020-06-14
+Country: Turkey | Location: Altindag
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 14 June 2020, the children of fire initiative carried out an arson attack targeting a furniture factory in Altindag district of Ankara. The attack reportedly caused material damage.
+
+---
+
+[EVENT: TUR12167]
+Date: 2020-06-14
+Country: Turkey | Location: Urla
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 14 June 2020, the children of fire initiative carried out an arson attack targeting a dock facility in Urla district of Izmir. The attack reportedly caused material damage.
+
+---
+
+[EVENT: TUR12152]
+Date: 2020-06-15
+Country: Turkey | Location: Adana
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Haberler [National]
+
+DESCRIPTION:
+Security measures: On 15 June 2020, Adana Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political actions for 15 days, and also announced an entry and exit ban in and out of the province for the 'potential participants' of demonstration marches, protests and other political events who will attempt to enter or leave the province. The governorship announced the decision with reference to the HDP's announcement of two nation-wide protest marches that will start on 15 June from Edirne and Hakkari provinces and finish in Ankara.
+
+---
+
+[EVENT: TUR12191]
+Date: 2020-06-15
+Country: Turkey | Location: Bolu
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Security measures: On 15 June 2020, Bolu Governor's Office issued a entry and exit ban in and out of the province until 29 June for the 'potential participants' of demonstration marches, protests, press conferences, sit-ins and other political actions who will attempt to enter or leave the province. The governorship announced the decision is part of the measures to curb the coronavirus outbreak, but it was taken following the start of the HDP's two nation-wide protest marches in the previous day from Edirne and Hakkari provinces.
+
+---
+
+[EVENT: TUR12179]
+Date: 2020-06-15
+Country: Turkey | Location: Batman
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Security measures: On 15 June 2020, Batman Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political organizations for 5 days, and also announced an entry and exit ban in and out of the province for the 'potential participants' of demonstration marches, protests and other political events who will attempt to enter or leave the province. The governorship announced the decision as part of the measures to curb the coronavirus outbreak, but it was taken following the start of the HDP's two nation-wide protest marches in the same day from Edirne and Hakkari provinces.
+
+---
+
+[EVENT: TUR12169]
+Date: 2020-06-15
+Country: Turkey | Location: Osmangazi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News; Peoples' United Revolutionary Movement [Other-International]
+
+DESCRIPTION:
+Property destruction: On 15 June 2020, HBDH militants carried out an arson attack targeting heavy machinery in a mining facility in Osmangazi district of Bursa. The attack reportedly caused major material damage.
+
+---
+
+[EVENT: TUR12181]
+Date: 2020-06-15
+Country: Turkey | Location: Adiyaman
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Security measures: On 15 June 2020, Adiyaman Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political actions with more than 50 participants until 21 June, and also announced an entry and exit ban in and out of the province for the 'potential participants' of demonstration marches, protests and other political events who will attempt to enter or leave the province. The governorship announced the decision as part of the measures to curb the coronavirus outbreak, but it was taken following the start of the HDP's two nation-wide protest marches in the same day from Edirne and Hakkari provinces.
+
+---
+
+[EVENT: TUR12200]
+Date: 2020-06-15
+Country: Turkey | Location: Balikesir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 15 June 2020, the children of fire initiative carried out an arson attack targeting a boat in Balikesir province. The attack reportedly caused material damage.
+
+---
+
+[EVENT: TUR12201]
+Date: 2020-06-16
+Country: Turkey | Location: Sancaktepe
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 16 June 2020, the children of fire initiative carried out an arson attack targeting a civilian vehicle in Sancaktepe district of Istanbul. The attack reportedly caused major material damage.
+
+---
+
+[EVENT: TUR12172]
+Date: 2020-06-16
+Country: Turkey | Location: Mardin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 16 June 2020, Mardin Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political organizations in the province for one month, effective until 15 July.
+
+---
+
+[EVENT: TUR12293]
+Date: 2020-06-16
+Country: Turkey | Location: Beyoglu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 16 June 2020, YPS militants carried out arson attacks targeting 2 civilian vehicles in Tarlabasi neighborhood of Beyoglu, Istanbul. The attack reportedly burnt down the vehicles.
+
+---
+
+[EVENT: TUR12186]
+Date: 2020-06-16
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Rudaw [International]
+
+DESCRIPTION:
+Security measures: On 16 June 2020, Istanbul Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political organizations with over 50 participants until 30 June, and also announced an entry and exit ban in and out of the province for the 'potential participants' of demonstration marches, protests and other political events who will attempt to enter or leave the province. The governorship announced the decision as part of the measures to curb the coronavirus outbreak, but it was taken following the start of the HDP's two nation-wide protest marches in the previous day from Edirne and Hakkari provinces.
+
+---
+
+[EVENT: TUR12248]
+Date: 2020-06-16
+Country: Turkey | Location: Agri
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: On 16 June 2020, total of 642 migrants who entered Turkey illegally were detained in the police operations carried out in Agri province. No information on the nationalities of the migrants was reported.
+
+---
+
+[EVENT: TUR12183]
+Date: 2020-06-16
+Country: Turkey | Location: Mersin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency; Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 16 June 2020, Mersin Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political organizations with over 50 participants for 15 days, and also announced an entry and exit ban in and out of the province for the 'potential participants' of demonstration marches, protests and other political events who will attempt to enter or leave the province. The governorship announced the decision as part of the measures to curb the coronavirus outbreak, but it was taken following the start of the HDP's two nation-wide protest marches in the previous day from Edirne and Hakkari provinces.
+
+---
+
+[EVENT: TUR12215]
+Date: 2020-06-16
+Country: Turkey | Location: Bostanici
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 16 June 2020, Martyr Sakine Cansiz, Martyr Savas Amed and Martyr Baran Dersim Vengeance Units of YPS carried out an arson attack targeting a civilian vehicle allegedly belonging to a local MHP executive in Bostanici neighborhood of Ipekyolu, Van. The attack destroyed the vehicle, reportedly causing material damage.
+
+---
+
+[EVENT: TUR12294]
+Date: 2020-06-16
+Country: Turkey | Location: Beylikduzu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 16 June 2020, YPS militants carried out arson attacks targeting a civilian building in Beylikduzu district of Istanbul. The attack reportedly caused material damage on the roof of the building.
+
+---
+
+[EVENT: TUR12199]
+Date: 2020-06-16
+Country: Turkey | Location: Canakkale
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Halil Cavgun Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 16 June 2020, Martyr Halil Cavgun Vengeance Unit carried out an arson attack targeting a cafeteria building in Dardanos camping area in Canakkale. The attack burnt down the building, reportedly causing material damage.
+
+---
+
+[EVENT: TUR12198]
+Date: 2020-06-16
+Country: Turkey | Location: Esenyurt
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Halil Cavgun Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 16 June 2020, Martyr Halil Cavgun Vengeance Unit carried out an arson attack targeting a civilian vehicle allegedly belonging to a local MHP executive in Esenyurt district of Istanbul. The attack destroyed the vehicle, reportedly causing material damage.
+
+---
+
+[EVENT: TUR12212]
+Date: 2020-06-17
+Country: Turkey | Location: Edremit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 17 June 2020, the children of fire initiative carried out an arson attack targeting a commercial depot in Edremit district of Balikesir. The attack reportedly caused major material damage.
+
+---
+
+[EVENT: TUR12261]
+Date: 2020-06-18
+Country: Turkey | Location: Manavgat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 18 June 2020, Martyr Mugdat Ay Vengeance Unit of YPS carried out an arson attack targeting a civilian vehicle (belonging to AKP member) in Yaylaalan neighborhood of Manavgat, Antalya. The attack burnt down the vehicle completely, causing material damage.
+
+---
+
+[EVENT: TUR12214]
+Date: 2020-06-18
+Country: Turkey | Location: Gaziantep
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On 18 June 2020, HBDH militants carried out an attack targeting a factory in 3rd Industrial zone in Gaziantep town. The source did not report on the means of the attack, which reportedly caused major material damage.
+
+---
+
+[EVENT: TUR12222]
+Date: 2020-06-18
+Country: Turkey | Location: Gelisen
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Weapons seizure: On 18 June 2020, Turkish Gendarmerie forces seized several artillery shells, 3 assault rifles, 3 hand grenades, 5 anti-tank RPGs, total of 2021 rounds of ammunition and other supplies allegedly belonging to PKK, found during a military operation carried out in Gelisen village area of Derecik district, Hakkari.
+
+---
+
+[EVENT: TUR12213]
+Date: 2020-06-18
+Country: Turkey | Location: Kartal
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 18 June 2020, the children of fire initiative carried out an arson attack targeting a multi-story car park, burning down several civilian vehicles in Kartal district of Istanbul.
+
+---
+
+[EVENT: TUR12297]
+Date: 2020-06-19
+Country: Turkey | Location: Nurdagi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 19 June 2020, Children of Fire initiative carried out an arson attack targeting a tank truck in Nurdagi district of Gaziantep. The attack completely burnt down the vehicle.
+
+---
+
+[EVENT: TUR12234]
+Date: 2020-06-19
+Country: Turkey | Location: Tatvan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Rudaw; Haber Ercis [National-International]
+
+DESCRIPTION:
+Security measures: On 19 June 2020, Bitlis Governor's Office declared a curfew order in total 15 villages in Tatvan district of Bitlis, effective until further notice due to ongoing military operations against PKK.
+
+---
+
+[EVENT: TUR12244]
+Date: 2020-06-19
+Country: Turkey | Location: Tatvan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Property destruction: On 19 June 2020, Turkish Gendarmerie forces discovered and destroyed a PKK shelter together with the supplies found inside during the military operations conducted in Tatvan district of Bitlis
+
+---
+
+[EVENT: TUR12255]
+Date: 2020-06-20
+Country: Turkey | Location: Konak
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 20 June 2020, the children of fire initiative carried out an arson attack targeting the governorship building in Konak, Izmir, causing material damage.
+
+---
+
+[EVENT: TUR12257]
+Date: 2020-06-20
+Country: Turkey | Location: Edremit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 20 June 2020, the children of fire initiative carried out an arson attack targeting a civilian vehicle in Edremit district of Balikesir, causing material damage.
+
+---
+
+[EVENT: TUR12336]
+Date: 2020-06-20
+Country: Turkey | Location: Sultanbeyli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 20 June 2020, YPS militants carried out an arson attack targeting a supermarket in Sultanbeyli district of Istanbul. The attack caused significant material damage.
+
+---
+
+[EVENT: TUR12331]
+Date: 2020-06-20
+Country: Turkey | Location: Beykoz
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Helmet Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 20 June 2020, Martyr Helmet and Martin Arin Mirkan Vengeance Units carried out an arson attack targeting a civilian vehicle in Beykoz district of Istanbul. The vehicle was burnt down completely.
+
+---
+
+[EVENT: TUR12238]
+Date: 2020-06-20
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Security measures: On 20 June 2020, Hakkari Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political actions in the province for 15 days effective until 5 July.
+
+---
+
+[EVENT: TUR12289]
+Date: 2020-06-20
+Country: Turkey | Location: Corum
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 20 June 2020, YPS militants carried out an arson attack targeting a civilian vehicle in Ulukavak neighborhood of Corum city. The fire inflicted material damage on the car.
+
+---
+
+[EVENT: TUR12256]
+Date: 2020-06-20
+Country: Turkey | Location: Kusadasi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 20 June 2020, the children of fire initiative carried out an arson attack targeting a landfill area in Kusadasi district of Aydin.
+
+---
+
+[EVENT: TUR12251]
+Date: 2020-06-21
+Country: Turkey | Location: Mardin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Property destruction: Around 21 June 2020 (as reported), Turkish Gendarmerie forces destroyed a PKK shelter together with the supplies found inside during the military operations conducted in central district of Mardin.
+
+---
+
+[EVENT: TUR12298]
+Date: 2020-06-21
+Country: Turkey | Location: Sehitkamil
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 21 June 2020, Children of Fire initiative carried out an arson attack targeting a textile factory in the 4th industrial zone in Sehitkamil, Gaziantep. The attack caused material damage.
+
+---
+
+[EVENT: TUR12259]
+Date: 2020-06-21
+Country: Turkey | Location: Sultanbeyli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 21 June 2020, the children of fire initiative carried out arson attacks targeting two civilian vehicles in Uskudar and Sultanbeyli districts of Istanbul, causing material damage. One event for each location (total 2 events) have been coded.
+
+---
+
+[EVENT: TUR12258]
+Date: 2020-06-21
+Country: Turkey | Location: Uskudar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 21 June 2020, the children of fire initiative carried out arson attacks targeting two civilian vehicles in Uskudar and Sultanbeyli districts of Istanbul, causing material damage. One event for each location (total 2 events) have been coded.
+
+---
+
+[EVENT: TUR12278]
+Date: 2020-06-21
+Country: Turkey | Location: Tarsus
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 21 June 2020, the children of fire initiative carried out an arson attack targeting a wholesale vegetable market in Tarsus, Mersin, causing material damage.
+
+---
+
+[EVENT: TUR12335]
+Date: 2020-06-21
+Country: Turkey | Location: Sultanbeyli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 21 June 2020, YPS militants carried out an arson attack targeting a civilian vehicle in Aksemsettin neighborhood of Sultanbeyli, Istanbul. The vehicle was destroyed as a result of the attack.
+
+---
+
+[EVENT: TUR12334]
+Date: 2020-06-21
+Country: Turkey | Location: Baglar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 21 June 2020, YPS militants carried out an arson attack targeting a construction vehicle in Baglar, Diyarbakir. The vehicle was destroyed as a result of the attack.
+
+---
+
+[EVENT: TUR12279]
+Date: 2020-06-21
+Country: Turkey | Location: Erdek
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 21 June 2020, the children of fire initiative carried out an arson attack targeting a construction site belonging to the municipality in Erdek, Tarsus, causing material damage.
+
+---
+
+[EVENT: TUR12288]
+Date: 2020-06-21
+Country: Turkey | Location: Odemis
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 21 June 2020, YPS militants carried out an arson attack targeting a farm in Odemis district of Izmir. The fire inflicted material damage on the barn of the farm.
+
+---
+
+[EVENT: TUR12301]
+Date: 2020-06-22
+Country: Turkey | Location: Isparta
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 22 June 2020, Children of Fire initiative carried out an arson attack targeting a commercial minibus in Anadolu neighborhood of Isparta town. The attack completely burnt down the vehicle.
+
+---
+
+[EVENT: TUR12299]
+Date: 2020-06-22
+Country: Turkey | Location: Fatih
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 22 June 2020, Children of Fire initiative carried out an arson attack targeting a hospital in Samatya quarter of Fatih, Istanbul. The hospital was evacuated due to the attack which caused panic.
+
+---
+
+[EVENT: TUR12249]
+Date: 2020-06-22
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Security measures: On 22 June 2020, Van Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political actions in the province for 15 days effective until 6 July.
+
+---
+
+[EVENT: TUR12300]
+Date: 2020-06-22
+Country: Turkey | Location: Pamukkale
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 22 June 2020, Children of Fire initiative carried out an arson attack targeting a civilian vehicle in Pamukkale district of Denizli. The attack completely burnt down the vehicle.
+
+---
+
+[EVENT: TUR12303]
+Date: 2020-06-22
+Country: Turkey | Location: Esenyurt
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Takvim; Peoples' United Revolutionary Movement [Other-National]
+
+DESCRIPTION:
+Property destruction: On 22 June 2020, HBDH's Zeynep Kinaci Vengeance units carried out an arson attack targeting a chain supermarket store in Esenyurt district of Istanbul. The attack caused significant material damage.
+
+---
+
+[EVENT: TUR12333]
+Date: 2020-06-22
+Country: Turkey | Location: Altunhisar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 22 June 2020, YPS militants carried out an arson attack targeting a farm in Altunhisar district of Nigde. The fire inflicted significant material damage on the storage units of the farm.
+
+---
+
+[EVENT: TUR12338]
+Date: 2020-06-23
+Country: Turkey | Location: Bursa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 23 June 2020, Children of Fire initiative carried out an arson attack targeting a glass factory in an industrial zone in Bursa province. The attack burnt down the factory completely, causing material damage.
+
+---
+
+[EVENT: TUR12337]
+Date: 2020-06-23
+Country: Turkey | Location: Meram
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 23 June 2020, Children of Fire initiative carried out arson attacks targeting 4 civilian vehicles in Meram district of Konya. The attack destroyed the vehicles completely.
+
+---
+
+[EVENT: TUR12302]
+Date: 2020-06-23
+Country: Turkey | Location: Dilovasi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 23 June 2020, Children of Fire initiative carried out an arson attack targeting an agricultural factory in Dilovasi, Kocaeli. The attack caused significant material damage.
+
+---
+
+[EVENT: TUR12322]
+Date: 2020-06-24
+Country: Turkey | Location: Karapinar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Salih Kendal Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 24 June 2020, Martyr Salih Kendal Vengeance Unit carried out an arson attack targeting an agricultural field in Karapinar district of Konya.
+
+---
+
+[EVENT: TUR12340]
+Date: 2020-06-24
+Country: Turkey | Location: Bayrakli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 24 June 2020, Children of Fire initiative carried out an arson attack targeting a civilian vehicles in Bayrakli district of Izmir. The attack destroyed the vehicle completely.
+
+---
+
+[EVENT: TUR12339]
+Date: 2020-06-24
+Country: Turkey | Location: Biga
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 24 June 2020, Children of Fire initiative carried out an arson attack targeting a civilian vehicle in Biga district of Canakkale. The attack destroyed the vehicle completely.
+
+---
+
+[EVENT: TUR12342]
+Date: 2020-06-25
+Country: Turkey | Location: Seferihisar
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: Around 25 June 2020 (as reported), 37 Afghan migrants attempting to cross the border illegally to Greece on a boat were stopped and detained during an operation of the Coast Guard Command of Turkish Army in Seferihisar district of Izmir.
+
+---
+
+[EVENT: TUR12329]
+Date: 2020-06-25
+Country: Turkey | Location: Tahil
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Weapons seizure: Around 25 June 2020 (as reported), Turkish Gendarmerie Forces seized 3 tons of ammonium nitrate (used as explosive material) allegedly belonging to PKK, during a security operation carried out in Tahil village of Baskale, Van.
+
+---
+
+[EVENT: TUR12346]
+Date: 2020-06-25
+Country: Turkey | Location: Umraniye
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 25 June 2020, Children of Fire initiative carried out an arson attack targeting a recycling facility in Dudullu industrial zone in Umraniye, Istanbul. The attack burnt down the facility completely.
+
+---
+
+[EVENT: TUR12347]
+Date: 2020-06-25
+Country: Turkey | Location: Bornova
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 25 June 2020, Children of Fire initiative carried out an arson attack targeting a commercial center in Bornova district of Izmir. No information on the result of the attack was provided.
+
+---
+
+[EVENT: TUR12375]
+Date: 2020-06-26
+Country: Turkey | Location: Silvan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 26 June 2020, Martyr Sakine Cansiz Vengeance unit of YPS carried out an arson attack targeting a civilian vehicle in Silvan town center, Diyarbakir, causing material damage.
+
+---
+
+[EVENT: TUR12366]
+Date: 2020-06-26
+Country: Turkey | Location: Milas
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 26 June 2020, the Children of Fire initiative carried out an arson attack targeting a civilian vehicle in Milas district of Mugla, causing material damage.
+
+---
+
+[EVENT: TUR12367]
+Date: 2020-06-26
+Country: Turkey | Location: Aliaga
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 26 June 2020, the Children of Fire initiative carried out an arson attack targeting a chemical plant Aliaga district of Izmir, causing heavy material damage.
+
+---
+
+[EVENT: TUR12464]
+Date: 2020-06-26
+Country: Turkey | Location: Sapanca
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 26 June 2020, the Children of Fire initiative carried out an arson attack targeting the storage unit of a factory in Sapanca district of Sakarya.
+
+---
+
+[EVENT: TUR12285]
+Date: 2020-06-27
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Karar; Sozcu; Takvim [National-Regional]
+
+DESCRIPTION:
+Security measures: On 27 June 2020, Turkish Government enforced a general curfew in all 81 provinces of Turkey between 9:30-15:00 during the university entrance exams in a bid to curb the spread of the coronavirus outbreak, forcing all the citizens except exam-takers and those who work in crucial sectors to stay home.
+
+---
+
+[EVENT: TUR12405]
+Date: 2020-06-27
+Country: Turkey | Location: Inegol
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 27 June 2020, the Children of Fire initiative carried out an arson attack targeting a civilian vehicle in Alanyurt neighborhood of Inegol, Bursa.
+
+---
+
+[EVENT: TUR12404]
+Date: 2020-06-27
+Country: Turkey | Location: Edremit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 27 June 2020, the Children of Fire initiative carried out an arson attack targeting a gym hall in Edremit district of Balikesir.
+
+---
+
+[EVENT: TUR12368]
+Date: 2020-06-28
+Country: Turkey | Location: Kulu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Martyr Mehmet Sevgat Vengeance Unit [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 28 June 2020, Marty Mehmet Sevgat Vengeance Unit carried out arson attacks targeting wheat fields and agricultural machinery in Kulu district of Konya. The attacked inflicted heavy material damage.
+
+---
+
+[EVENT: TUR12407]
+Date: 2020-06-28
+Country: Turkey | Location: Gemlik
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 28 June 2020, the Children of Fire initiative carried out an arson attack targeting a store in Gemlik district of Bursa.
+
+---
+
+[EVENT: TUR12411]
+Date: 2020-06-28
+Country: Turkey | Location: Sisli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 28 June 2020, the Children of Fire initiative carried out an arson attack targeting a textile workshop in Sisli in Istanbul.
+
+---
+
+[EVENT: TUR12412]
+Date: 2020-06-28
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 28 June 2020, the Children of Fire initiative carried out an arson attack targeting a commercial bus in Izmir intercity coach station.
+
+---
+
+[EVENT: TUR12409]
+Date: 2020-06-28
+Country: Turkey | Location: Manisa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 28 June 2020, the Children of Fire initiative carried out an arson attack targeting a plastic factory in the Manisa industrial zone, Manisa.
+
+---
+
+[EVENT: TUR12410]
+Date: 2020-06-28
+Country: Turkey | Location: Karabaglar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 28 June 2020, the Children of Fire initiative carried out an arson attack targeting a furniture factory in Karabaglar in Izmir.
+
+---
+
+[EVENT: TUR12408]
+Date: 2020-06-28
+Country: Turkey | Location: Orhangazi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 28 June 2020, the Children of Fire initiative carried out an arson attack targeting a recycling facility in Orhangazi district of Bursa.
+
+---
+
+[EVENT: TUR12406]
+Date: 2020-06-28
+Country: Turkey | Location: Saricam
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 28 June 2020, the Children of Fire initiative carried out an arson attack targeting a food factory in Saircam district of Adana.
+
+---
+
+[EVENT: TUR12389]
+Date: 2020-06-29
+Country: Turkey | Location: Altindag
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Arrests: Around 29 June 2020 (as reported), 25 migrants who entered Turkey illegally were detained during a police operation in Altindag district of Ankara. The migrants were from Afghanistan and Pakistan.
+
+---
+
+[EVENT: TUR12376]
+Date: 2020-06-29
+Country: Turkey | Location: Bismil
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News; Haber 7 [National-International]
+
+DESCRIPTION:
+Property destruction: On 29 June 2020, YPS militants carried out an arson attack targeting AKP's Bismil organization building with molotov cocktails in Bismil, Diyarbakir. No casualties occurred in the attack, which caused material damage.
+
+---
+
+[EVENT: TUR12388]
+Date: 2020-06-29
+Country: Turkey | Location: Antalya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Sozcu; Ihlas News Agency [National]
+
+DESCRIPTION:
+Security measures: On 29 June 2020, Antalya Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political organizations with more than 50 participants in the province for 15 days as part of the measures to curb the coronavirus outbreak.
+
+---
+
+[EVENT: TUR12415]
+Date: 2020-06-29
+Country: Turkey | Location: Serik
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement; Takvim [Other-National]
+
+DESCRIPTION:
+Property destruction: On 29 June 2020, HBDH militants carried out an attack targeting a food storage facility in Serik district of Antalya. The attack burnt down the entire facility, causing significant material damage. The means of attack was not specified.
+
+---
+
+[EVENT: TUR12403]
+Date: 2020-06-29
+Country: Turkey | Location: Bornova
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 29 June 2020, YPS militants carried out an arson attack targeting a recreational area in Bornova district of Izmir, causing heavy material damage.
+
+---
+
+[EVENT: TUR12413]
+Date: 2020-06-29
+Country: Turkey | Location: Gursu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 29 June 2020, the Children of Fire initiative carried out an arson attack targeting a recycling facility in Gursu district of Bursa.

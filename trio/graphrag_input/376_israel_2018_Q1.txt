@@ -1,0 +1,152 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Israel (ISO Code: 376)
+Temporal Period: Year 2018 - Quarter Q1
+Total Events in Chunk: 11 / 11
+==================================================
+
+[EVENT: ISR323]
+Date: 2018-01-07
+Country: Israel | Location: Tel Aviv
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Security measures: Israel on Sunday named 20 foreign NGOs whose representatives are barred from its territory, saying that they support a boycott of the Jewish state over its occupation of Palestinian territory.
+
+---
+
+[EVENT: ISR322]
+Date: 2018-01-07
+Country: Israel | Location: Jerusalem
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Times of Israel [National]
+
+DESCRIPTION:
+Strikes: Jerusalem's municipal services were shut down Sunday as city employees began an open-ended strike to protest the firing of some 2,150 workers. They later agreed to end the strike.
+
+---
+
+[EVENT: ISR325]
+Date: 2018-01-13
+Country: Israel | Location: Kerem Shalom
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Jerusalem Post; Times of Israel [National]
+
+DESCRIPTION:
+Security measures: The IDF announced it is closing the Kerem Shalom crossing after an assessment of the current security situation, but did not provide further details.
+
+---
+
+[EVENT: ISR331]
+Date: 2018-01-16
+Country: Israel | Location: Kerem Shalom
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Security measures: The Israeli military says it has reopened a key border crossing with the Gaza Strip after destroying a tunnel built under it by the Hamas militant group. Tuesday's opening restores Gaza's main point of entry of humanitarian aid.
+
+---
+
+[EVENT: ISR335]
+Date: 2018-01-23
+Country: Israel | Location: Tel Aviv
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Israel) [Political militia]
+Actor2: Police Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Jerusalem Post [National]
+
+DESCRIPTION:
+Detonation: A stun grenade was thrown at the police station on Dizengoff Street in Tel Aviv, with no reported injuries or damage.
+
+---
+
+[EVENT: ISR336]
+Date: 2018-01-24
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Palestinian News Network [International]
+
+DESCRIPTION:
+Property destruction: On January 24 2018, Israeli bulldozers demolished the Bedouin village of Al-Araqib in the Negev desert for the 124th time.
+
+---
+
+[EVENT: ISR342]
+Date: 2018-02-04
+Country: Israel | Location: Kerem Shalom
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Jerusalem Post [National]
+
+DESCRIPTION:
+Weapons seizure: Israeli authorities foiled an attempt to smuggle explosive components for long-range projectiles into the Gaza Strip at the Kerem Shalom Crossing.
+
+---
+
+[EVENT: ISR644]
+Date: 2018-03-15
+Country: Israel | Location: Tel Aviv
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Defusal: an explosive device was found on Medrash Pinchas St. in Tel Aviv, on March 15.
+
+---
+
+[EVENT: ISR366]
+Date: 2018-03-24
+Country: Israel | Location: Tel Aviv
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Press TV [International]
+
+DESCRIPTION:
+Around 24 March 2018 (as reported), Israeli police officers assisted by Israel's air force, raided dozens of locations in Israel in a major operation to arrest all illegal Palestinian workers before the holidays arresting 569. Most of those arrested are Palestinians but some Palestinian citizens of Israel for harboring or transporting illegal workers. Coded at Tel Aviv.
+
+---
+
+[EVENT: ISR645]
+Date: 2018-03-28
+Country: Israel | Location: Maale Gilboa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Israeli Link; Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Arrests: Israeli Military Forces arrested 34 Palestinians infiltrated from Yesha into the Gilboa area, on March 28.
+
+---
+
+[EVENT: ISR646]
+Date: 2018-03-29
+Country: Israel | Location: Beersheba
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Movement of Forces: Israeli Police sent additional forces to the southern city of Beersheba out of concerns for an unspecified 'security incident' on March 29.
