@@ -1,0 +1,507 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Saudi Arabia (ISO Code: 682)
+Temporal Period: Year 2018 - Quarter Q2
+Total Events in Chunk: 36 / 36
+==================================================
+
+[EVENT: SAU1740]
+Date: 2018-04-04
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Xinhua; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 4 April 2018, Xinhua General News Service reported that Saudi air defence systems had shot down a Houthi-fired ballistic missile aimed at the southern city of Jizan. No injuries reported. Houthi forces reported that they aimed the missile at the ARAMCO storage tanks in the city.
+
+---
+
+[EVENT: SAU1760]
+Date: 2018-04-06
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: The National (UAE); Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 6 April 2018, Saudi air defense forces intercepted a Houthi ballistic missile targeting Najran city (Najran).
+
+---
+
+[EVENT: SAU1786]
+Date: 2018-04-11
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: The National (UAE); Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 11 April 2018, Saudi forces intercepted a Houthi Burkan-2H type extended range short-range ballistic missile targeting Riyadh (Ar Riyadh). Houthi forces claimed to have targeted the Saudi Ministry of Defense and other areas in Riyadh.
+
+---
+
+[EVENT: SAU54218]
+Date: 2018-04-11
+Country: Saudi Arabia | Location: Jizan Economic City
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Reuters; The National (UAE); Yemen Data Project; Yemen News Agency SABA [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 11 April 2018, Saudi air defense forces intercepted two Houthi ballistic missiles targeting Najran - Saudi ARAMCO and Jizan Economic City (Baysh, Jizan).
+
+---
+
+[EVENT: SAU1788]
+Date: 2018-04-11
+Country: Saudi Arabia | Location: Jizan - Saudi ARAMCO
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Reuters; Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 11 April 2018, Saudi forces claimed to have intercepted 1 Houthi armed drone in Jizan province as Houthi forces claimed that they targeted Jizan - Saudi ARAMCO with a Qasif-1 drone.
+
+---
+
+[EVENT: SAU1789]
+Date: 2018-04-11
+Country: Saudi Arabia | Location: Najran - Saudi ARAMCO
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Reuters; The National (UAE); Yemen Data Project; Yemen News Agency SABA [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 11 April 2018, Saudi air defense forces intercepted two Houthi ballistic missiles targeting Najran - Saudi ARAMCO and Jizan Economic City (Baysh, Jizan).
+
+---
+
+[EVENT: SAU1794]
+Date: 2018-04-12
+Country: Saudi Arabia | Location: Jizan Economic City
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Asharq Al Awsat; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 12 April 2018, Saudi air defense forces intercepted a Houthi Badr-1 artillery rocket targeting Jizan Economic City (Baysh, Jizan).
+
+---
+
+[EVENT: SAU1815]
+Date: 2018-04-13
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Mareb Press; Yemen Data Project; Yemen News Agency SABA [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 13 April 2018, Saudi air defense forces intercepted a Houthi Badr-1 artillery rocket over Jizan province that was launched toward King Faysal Military City in Asir province.
+
+---
+
+[EVENT: SAU1831]
+Date: 2018-04-16
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: The National (UAE); Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 16 April 2018, a missile fired by Houthi forces was intercepted by the Saudi missile defense system over Saudi Arabia's Najran region.
+
+---
+
+[EVENT: SAU1835]
+Date: 2018-04-18
+Country: Saudi Arabia | Location: Abha Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Gulf News (UAE); Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 18 April 2018, The Saudi military has reportedly brought down an al-Houthi drone at the international airport of Abha. Flight traffic was not interrupted.
+
+---
+
+[EVENT: SAU1839]
+Date: 2018-04-18
+Country: Saudi Arabia | Location: Jizan - Jizan Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Masdar News; Ansar Allah; Daily News (Egypt); Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 18 April 2018, Saudi air defense forces claimed to have shot down 1 Houthi missile in Jizan while Houthi forces claimed to have fired a Badr-1 artillery rocket at Jizan - Jizan Regional Airport (Jizan). Houthi forces claimed that they successfully struck the airport.
+
+---
+
+[EVENT: SAU1842]
+Date: 2018-04-18
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Daily News (Egypt); Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 18 April 2018, Saudi state media announced that the missile air defense system had shot down three missiles on Wednesday, one in Riyadh and two in Najran and Jizan.
+
+---
+
+[EVENT: SAU1834]
+Date: 2018-04-18
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Daily News (Egypt); Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 18 April 2018, Saudi state media announced that the missile air defense system had shot down three missiles on Wednesday, one in Riyadh and two others in the southern provinces of Najran and Jizan.
+
+---
+
+[EVENT: SAU1844]
+Date: 2018-04-20
+Country: Saudi Arabia | Location: Jizan - Jizan Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Saudi Press Agency; The National (UAE); Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 20 April 2018, Saudi air defense forces intercepted a Houthi Badr-1 type artillery rocket targeting Jizan - Jizan Regional Airport (Jizan).
+
+---
+
+[EVENT: SAU1849]
+Date: 2018-04-20
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 20 April 2018, Saudi air defense forces intercepted a Houthi missile targeting Najran city (Najran).
+
+---
+
+[EVENT: SAU1921]
+Date: 2018-04-22
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 22 April 2018, Saudi air defense forces claimed to have intercepted two Houthi ballistic missiles targeting Najran city (Najran).
+
+---
+
+[EVENT: SAU1922]
+Date: 2018-04-23
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 23 April 2018, Saudi air defense forces claimed to have intercepted two Houthi ballistic missiles targeting Jizan city (Jizan).
+
+---
+
+[EVENT: SAU1927]
+Date: 2018-04-27
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 27 April 2018, Saudi air defense forces claimed to have intercepted a Houthi ballistic missile over Najran city (Najran) with debris landing across the city without causing any injuries.
+
+---
+
+[EVENT: SAU1928]
+Date: 2018-04-28
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 28 April 2018, Saudi air defense forces intercepted Houthi missiles in Jizan province as Houthi forces claimed to have fired eight ballistic missiles at targets in the region. Houthi forces claimed that the missiles 'hit their targets accurately.'
+
+---
+
+[EVENT: SAU2021]
+Date: 2018-05-06
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Saudi Gazette; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 6 May 2018, Saudi air defense forces intercepted two Houthi missiles in Najran province.
+
+---
+
+[EVENT: SAU2035]
+Date: 2018-05-09
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 9 May 2018, Saudi air defense forces intercepted Houthi missiles targeting Jizan city (Jizan).
+
+---
+
+[EVENT: SAU2031]
+Date: 2018-05-09
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; UN Panel of Experts; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 9 May 2018, Saudi forces intercepted 2 Houthi Burkan-2H type extended range short-range ballistic missiles targeting Riyadh (Ar Riyadh).
+
+---
+
+[EVENT: SAU2068]
+Date: 2018-05-11
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Saudi Press Agency; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 11 May 2018, Saudi air defense forces intercepted a Houthi missile in Jizan province.
+
+---
+
+[EVENT: SAU2092]
+Date: 2018-05-15
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: AFP; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 15 May 2018, Saudi air defense forces intercepted a Houthi ballistic missile over Jizan city (Jizan) with debris landing in a residential area without causing any injuries.
+
+---
+
+[EVENT: SAU2118]
+Date: 2018-05-19
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: The National (UAE); Yemen Data Project; Yemen News Agency SABA [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 19 May 2018, Saudi air defence forces claim to have intercepted a ballistic missile over Khamis Mushait area of Asir southern governorate. Pro-Houthi forces said the missile (Badr 1) targeted the Saudi radar brigade. No casualties were reported.
+
+---
+
+[EVENT: SAU2125]
+Date: 2018-05-20
+Country: Saudi Arabia | Location: Jizan - Jizan Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Saudi Press Agency; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 20 May 2018, Saudi air defense forces intercepted a Houthi missile over Jizan (Jizan) with debris landing across the city without causing any injuries. Houthi sources later claimed that the missile was targeting Jizan - Jizan Regional Airport.
+
+---
+
+[EVENT: SAU2132]
+Date: 2018-05-21
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Ansar Allah; Slaati News; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 21 May 2018, Saudi air defence forces claim to have intercepted two Scud ballistic missiles over Jizan southern governorate. Pro-Houthi forces meanwhile said that they fired one Badr 1 ballistic missile targeting Jizan airport. No casualties were reported.
+
+---
+
+[EVENT: SAU2139]
+Date: 2018-05-24
+Country: Saudi Arabia | Location: Jizan - Jizan Port
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Al Masirah; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 24 May 2018, Saudi air defense forces claimed to have intercepted 1 Houthi ballistic missile flying over Jizan city (Jizan) as Houthi forces said that they targeted Jizan - Jizan Port. Debris landed in residential areas without causing any injuries or damage. The missile was fired from Sadah governorate.
+
+---
+
+[EVENT: SAU2146]
+Date: 2018-05-25
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Asharq Al Awsat; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 25 May 2018, Saudi air defense forces intercepted 1 Houthi missile that Houthi forces claimed was a Badr-1 artillery rocket over Najran city (Najran). Debris landed in residential areas without causing any injuries. The rocket was fired from Amran governorate.
+
+---
+
+[EVENT: SAU3276]
+Date: 2018-06-05
+Country: Saudi Arabia | Location: Yanbu
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; UN Panel of Experts; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 5 June 2018, Saudi forces intercepted a Houthi Burkan-2H type extended range short-range ballistic missile near Yanbu (Al Madinah).
+
+---
+
+[EVENT: SAU3299]
+Date: 2018-06-10
+Country: Saudi Arabia | Location: Jizan Economic City
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Bu Yemen; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 10 June 2018, Saudi air defence forces claim to have intercepted a ballistic missile (Badr-1 according to the Houthis) fired by pro-Houthi forces to target Jizan Economic City in southern Saudi Arabia. No casualties were reported.
+
+---
+
+[EVENT: SAU3316]
+Date: 2018-06-13
+Country: Saudi Arabia | Location: Abu Arish
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Khabar al Yemeni; Yemen Data Project; Yemen Window [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 13 June 2018, Saudi air defence forces claim to have intercepted a ballistic missile (Badr-1 according to the Houthis) fired by pro-Houthi forces to target Al Faysal military city in Abu Arish in Jizan governorate. No casualties were reported.
+
+---
+
+[EVENT: SAU3323]
+Date: 2018-06-14
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Anadolu Agency; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 14 June 2018, Saudi air defense systems intercepted a Houthi ballistic missile over Khamis Mushait city (Khamis Mushait, Asir). Houthi forces later claimed that the missile was targeting an air force base in Asir.
+
+---
+
+[EVENT: SAU3336]
+Date: 2018-06-19
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Asharq Al Awsat; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 19 June 2018, Saudi air defense systems intercepted a Houthi ballistic missile over Khamis Mushait (Khamis Mushait, Asir). Houthi forces later claimed that the missile was targeting the Saudi ARAMCO station.
+
+---
+
+[EVENT: SAU3355]
+Date: 2018-06-24
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Saudi Press Agency; UN Panel of Experts; Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 24 June 2018, Saudi forces intercepted 2 Houthi Burkan-2H type extended range short-range ballistic missiles targeting Riyadh (Ar Riyadh). Houthi forces claimed to have targeted the Saudi Ministry of Defense and other areas in Riyadh.
+
+---
+
+[EVENT: SAU22871]
+Date: 2018-06-28
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Malaysia (2018-2020) [External/Other forces]
+Fatalities: 0
+Sources: Malay Mail; Al Jazeera [International]
+
+DESCRIPTION:
+On 28 June 2018, the Malaysian government announced that it would withdraw from the Saudi-led coalition active in Yemen. Malaysian troops had only been stationed in Saudi Arabia as part of the coalition and did not intervene in Yemen. At least one year later the withdrawal had been complete.

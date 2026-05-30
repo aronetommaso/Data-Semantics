@@ -1,0 +1,310 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Israel (ISO Code: 376)
+Temporal Period: Year 2019 - Quarter Q2
+Total Events in Chunk: 23 / 23
+==================================================
+
+[EVENT: ISR1184]
+Date: 2019-04-04
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [International]
+
+DESCRIPTION:
+Property destruction: Israeli authorities on April 4 2019, demolished the Bedouin village of al-Araqib in the Negev desert in southern Israel for the 142nd time.
+
+---
+
+[EVENT: ISR1189]
+Date: 2019-04-08
+Country: Israel | Location: Tel Aviv
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: Palestine News and Information Agency; AFP [International]
+
+DESCRIPTION:
+Strikes: On 8 April 2019, Palestinian prisoners in Israeli prisons started a hunger strike to demonstrate against the deteriorating situation within the detention centres. Prisoners demand the removal of cell phone jamming devices within prisons. On April 13, the sixth day of the hunger strike, it was reported that 400 Palestinians were still taking part in the hunger strike. On April 15 2019, the prisoners called off a week-long hunger strike, claiming that a number of their demands had been met. Israeli media reported that signal jammers would remain in place, but that prisoners will be allowed three phone calls a week. The request for family visits to both Hamas and Jihad inmates was not granted.
+
+---
+
+[EVENT: ISR1190]
+Date: 2019-04-09
+Country: Israel | Location: Kerem Shalom
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Asharq Al Awsat [International]
+
+DESCRIPTION:
+Security measures: On April 9 2019, Israel cordoned off Gaza and closed the Kerem Shalom crossing used for the passage of goods, gas and fuel.
+
+---
+
+[EVENT: ISR1193]
+Date: 2019-04-17
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [International]
+
+DESCRIPTION:
+Property destruction: Israeli authorities on April 17 2019, demolished the Bedouin village of al-Araqib in the Negev desert in southern Israel for the 143rd time.
+
+---
+
+[EVENT: ISR1121]
+Date: 2019-04-30
+Country: Israel | Location: Tel Aviv
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Arutz Sheva [National]
+
+DESCRIPTION:
+Security measures: As reported on April 30 2019, Israeli forces have deployed Iron Dome batteries throughout the country in preparation for possible security escalations during Remembrance day, Independence day as well as the Eurovision Song Contest.
+
+---
+
+[EVENT: ISR1140]
+Date: 2019-05-04
+Country: Israel | Location: Rehovot
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PIJ: Palestinian Islamic Jihad [Political militia]
+Fatalities: 0
+Sources: Arutz Sheva; Srugim [National]
+
+DESCRIPTION:
+Interception: On 4 May 2019, over 200 rockets were fired by the PIJ/Hamas from Gaza into Israel. Dozens were intercepted by the Iron Dome. Sirens sounded in Rehovot (HaMerkaz) and its surrounding areas, including Mazkeret Batya. No direct hits were reported, as the rockets were presumably intercepted.
+
+---
+
+[EVENT: ISR1132]
+Date: 2019-05-04
+Country: Israel | Location: Kerem Shalom
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Security measures: On May 4 2019, Israeli forces closed the Kerem Shalom crossing with Gaza until further notice due to recent rocket fire.
+
+---
+
+[EVENT: ISR1138]
+Date: 2019-05-04
+Country: Israel | Location: Bet Shemesh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PIJ: Palestinian Islamic Jihad [Political militia]
+Fatalities: 0
+Sources: Arutz Sheva [National]
+
+DESCRIPTION:
+Interception: On 4 May 2019, over 200 rockets were fired by the PIJ/Hamas from Gaza into Israel. Dozens were intercepted by the Iron Dome. Sirens sounded in Beit Shemesh (Judean Foothills, Jerusalem), but no direct hits were reported as the rockets were presumably intercepted.
+
+---
+
+[EVENT: ISR11901]
+Date: 2019-05-05
+Country: Israel | Location: Rehovot
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PIJ: Palestinian Islamic Jihad [Political militia]
+Fatalities: 0
+Sources: Srugim [National]
+
+DESCRIPTION:
+Interception: On 5 May 2019, over 690 rockets were fired by the PIJ/Hamas from Gaza into Israel over the past two days. 240 rockets were intercepted by the Iron Dome. Sirens sounded in Rehovot (HaMerkaz) and its surrounding areas, including Rishon LeZion and Mazkeret Batya. No direct hits were reported, as the rockets were presumably intercepted.
+
+---
+
+[EVENT: ISR1237]
+Date: 2019-05-05
+Country: Israel | Location: Kerem Shalom
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PIJ: Palestinian Islamic Jihad [Political militia]
+Fatalities: 0
+Sources: Jerusalem Post [National]
+
+DESCRIPTION:
+Interception: On 5 May 2019, over 690 rockets were fired by the PIJ/Hamas from Gaza into Israel since the beginning of the flare-up. 240 rockets were intercepted by the Iron Dome. Sirens sounded in Kerem Shalom (Beer Sheva, HaDarom), but no direct hits were reported despite the numerous rockets that hit Beer Sheva and the surrounding area.
+
+---
+
+[EVENT: ISR1243]
+Date: 2019-05-05
+Country: Israel | Location: Niram
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: PIJ: Palestinian Islamic Jihad [Political militia]
+Fatalities: 0
+Sources: Jerusalem Post [National]
+
+DESCRIPTION:
+Interception: On 5 May 2019, over 690 rockets were fired by the PIJ/Hamas from Gaza into Israel since the beginning of the flare-up. 240 rockets were intercepted by the Iron Dome. Sirens sounded in Nir Am (Ashqelon, HaDarom), but no direct hits were reported despite the numerous rockets that hit Ashqelon and the surrounding area.
+
+---
+
+[EVENT: ISR1248]
+Date: 2019-05-12
+Country: Israel | Location: Kerem Shalom
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Security measures: On May 12 2019, Israeli forces re-opened the Kerem Shalom crossing with Gaza.
+
+---
+
+[EVENT: ISR1254]
+Date: 2019-05-14
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Jordan News Agency [International]
+
+DESCRIPTION:
+Property destruction: Israeli authorities on May 14 2019, demolished the Bedouin village of al-Araqib in the Negev desert in southern Israel for the 144th time.
+
+---
+
+[EVENT: ISR1251]
+Date: 2019-05-15
+Country: Israel | Location: Tel Aviv
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: BBC News; Asian News International [International]
+
+DESCRIPTION:
+Security measures: As reported on May 15 2019, Israeli forces have deployed Iron dome systems in the Tel Aviv and the south as the Eurovision song contest commenced.
+
+---
+
+[EVENT: ISR11429]
+Date: 2019-05-29
+Country: Israel | Location: Safed
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+Security measures: On 29 May 2019, Israeli military forces sealed up what they believe to be the last of the Hezbollah attack tunnels that cross from Lebanon into northern Israel. Code at Safed.
+
+---
+
+[EVENT: ISR1278]
+Date: 2019-05-30
+Country: Israel | Location: Jerusalem - Givat Ram
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Al Ghad (Jordan) [Regional]
+
+DESCRIPTION:
+Other: On the night of May 29 to May 30, the Israeli parliament (Knesset) agreed to dissolve itself and hold new legislative elections on September 17.
+
+---
+
+[EVENT: ISR1276]
+Date: 2019-05-30
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [International]
+
+DESCRIPTION:
+Property destruction: Israeli authorities on May 30 2019, demolished the Bedouin village of al-Araqib in the Negev desert in southern Israel for the 145th time. Israeli forces also desecrated a Muslim cemetery.
+
+---
+
+[EVENT: ISR1275]
+Date: 2019-05-31
+Country: Israel | Location: Zarit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [International]
+
+DESCRIPTION:
+Property destruction: As reported on May 31 2019, Israeli forces pumped a Hezbollah tunnel with dielectric material and completely destroyed it. The tunnel started in the village of Ramya in Lebanon and exited near the Israeli towns of Zarit and Shtula. The tunnel was 82 meters deep and spanned a total of 680 meters.
+
+---
+
+[EVENT: ISR1289]
+Date: 2019-06-06
+Country: Israel | Location: Jerusalem
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Security measures: On June 6 2019, Israeli Police deployed 2500 officers both in uniform and undercover in Jerusalem in anticipation of the Pride march.
+
+---
+
+[EVENT: ISR1288]
+Date: 2019-06-06
+Country: Israel | Location: Jerusalem
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Arrests: as reported on June 6 2019, prior to the Jerusalem pride march, Israeli forces detained a total of 52 people. They detained were accused of wanting to disrupt the event.
+
+---
+
+[EVENT: ISR1294]
+Date: 2019-06-09
+Country: Israel | Location: Kerem Shalom
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Press TV [International]
+
+DESCRIPTION:
+Security measures: On June 9 2019, Israeli forces closed the Kerem Shalom crossing until further notice, expectedly over celebrations of the Jewish Shavuot holiday.
+
+---
+
+[EVENT: ISR1299]
+Date: 2019-06-13
+Country: Israel | Location: Magen
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Arutz Sheva; Jerusalem Post [National]
+
+DESCRIPTION:
+Interception: On June 13 2019, a rocket was fired from Gaza into Israel after midnight on Wednesday. The rocket was intercepted by the Iron dome and no damage or injuries were caused. Sirens sounded near Nirim in the Eshkol Regional Council.
+
+---
+
+[EVENT: ISR1320]
+Date: 2019-06-25
+Country: Israel | Location: Kerem Shalom
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: AFP; AP [International]
+
+DESCRIPTION:
+Security measures: On June 25 2019, fuel transfers at the Kerem Shalom crossing were halted until further notice by Israeli forces after incendiary balloons launched from the Gaza Strip into Israel caused several fires to break out . The fuel shortage caused a partial shutdown of Gaza's only power plant.

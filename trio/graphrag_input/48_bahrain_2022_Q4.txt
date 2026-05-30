@@ -1,0 +1,56 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Bahrain (ISO Code: 48)
+Temporal Period: Year 2022 - Quarter Q4
+Total Events in Chunk: 4 / 4
+==================================================
+
+[EVENT: BHR10580]
+Date: 2022-10-17
+Country: Bahrain | Location: Jaw Prison
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Mirror; LuaLua TV [Other-National]
+
+DESCRIPTION:
+Other: On 17 October 2022, prisoners held in Jaw Prison (Southern) released a united statement calling on the public to boycott the upcoming parliamentary elections on 12 November as a form of protest against the Bahraini government and against its refusal to release political prisoners.
+
+---
+
+[EVENT: BHR10709]
+Date: 2022-11-12
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: Reuters; The National (UAE) [Regional-International]
+
+DESCRIPTION:
+Elections/referendum: On 12 November 2022, the Bahraini government held the first round of parliamentary elections with 561 candidates nominated for the 40-member lower house (coded to country capital Manama). The government stated that voter turnout exceeded 70%, although opposition groups and NGOs reported that the elections were held in a climate of 'political repression' and amid a general boycott by the public.
+
+---
+
+[EVENT: BHR10715]
+Date: 2022-11-15
+Country: Bahrain | Location: Jaw Prison
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; BBC News [Other-International]
+
+DESCRIPTION:
+Strikes: On 15 November 2022, political prisoner Shiite cleric Abdul Hadi Al Makhdour started a hunger strike in Jaw Prison (Southern) in protest against the refusal from prison authorities to allow him to attend his medical appointments and against his overall mistreatment.
+
+---
+
+[EVENT: BHR10727]
+Date: 2022-11-21
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Bahrain (1999-) [State forces]
+Fatalities: 0
+Sources: Gulf News (UAE); The National (UAE) [Regional]
+
+DESCRIPTION:
+Other: On 21 November 2022, Bahraini King Hamad bin Isa Al Khalifa accepted the resignation of the government and reappointed Crown Prince Sheikh Salman bin Hamad Al Khalifa as Prime Minister with the order to form a new cabinet (coded to capital Manama) (Capital). This came after the election of a new parliament on 12 November.

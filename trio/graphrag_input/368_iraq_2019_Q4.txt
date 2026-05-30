@@ -1,0 +1,783 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iraq (ISO Code: 368)
+Temporal Period: Year 2019 - Quarter Q4
+Total Events in Chunk: 58 / 58
+==================================================
+
+[EVENT: IRQ24914]
+Date: 2019-10-01
+Country: Iraq | Location: Badush
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Mass grave: Around 1 October 2019, security forces discovered a mass grave containing the remains of IS militants believed to have been executed by IS leaders in Badush, Ninewa province.
+
+---
+
+[EVENT: IRQ21412]
+Date: 2019-10-02
+Country: Iraq | Location: Hit
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Defusal: On Oct 2, security forces defused an unidentified booby-trapped car without incident near the Hit police station in Hit city.
+
+---
+
+[EVENT: IRQ21480]
+Date: 2019-10-08
+Country: Iraq | Location: As Samawah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 1
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+Explosive remnants of war: On Oct 08, 1 person was killed in the explosion of an unidentified war remnant IED in al Badiyah area (coded at the provincial capital of al Muthanna).
+
+---
+
+[EVENT: IRQ21498]
+Date: 2019-10-12
+Country: Iraq | Location: Qaryat al Mansuriyah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) Iraqi National Intelligence Service [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Weapons seizure: On Oct 12, Iraqi intelligence police and police forces seized 40 IEDs believed to have belonged to IS in the Mansouriyah and Sadah villages in Dibis district, Kirkuk province.
+
+---
+
+[EVENT: IRQ21499]
+Date: 2019-10-12
+Country: Iraq | Location: Al Baghuz
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Fatalities: 0
+Sources: Basnews [National]
+
+DESCRIPTION:
+Movement of forces: Iraq sent a great number of military forces to the border areas with Syria (coded at Baghuz) to thwart any infiltrations by IS militants, following reports that a number of militants had broken out of prison due to the Turkish bombardments near jails in northeastern Syria.
+
+---
+
+[EVENT: IRQ21570]
+Date: 2019-10-22
+Country: Iraq | Location: Makhmur
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: BBC News [International]
+
+DESCRIPTION:
+Movement of forces: As reported on 22 October, 50 villages in the Makhmur region near Mt. Qarachukh in Erbil province were evacuated due to an influx of Islamic State fighters and activity in the area.
+
+---
+
+[EVENT: IRQ21588]
+Date: 2019-10-24
+Country: Iraq | Location: Dahuk
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Basnews [Subnational]
+
+DESCRIPTION:
+Displacement: On Oct 24, since the beginning of the Turkish military incursion into the Kurdish areas of northern Syria, up to 10,000 people (mostly women, children, and elderlies) escaped their homes to seek refuge in Kurdistan Region to settle in camps near Duhok.
+
+---
+
+[EVENT: IRQ21612]
+Date: 2019-10-25
+Country: Iraq | Location: Abu Saida
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Movement of forces: On Oct 25, the rapid reaction forces arrived in Abu Saida area, to provide support and help establish stability in the area following attacks by IS.
+
+---
+
+[EVENT: IRQ21618]
+Date: 2019-10-26
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) [State forces]
+Fatalities: 0
+Sources: BBC News [International]
+
+DESCRIPTION:
+On 26 October 2019, the interior minister removed the previous police chiefs from Baghdad, Missan, Najaf, Thi-Qa, Kut, Diyala and Qadissiyah provinces and appointed new police chiefs in response to police actions to earlier protests.
+
+---
+
+[EVENT: IRQ21625]
+Date: 2019-10-26
+Country: Iraq | Location: Al Qaim
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2017-2021) [External/Other forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+On 26 October 2019, US forces entered Iraq via al-Qaim from Syria and then moved north towards Dahuk Province.
+
+---
+
+[EVENT: IRQ21623]
+Date: 2019-10-26
+Country: Iraq | Location: Nassriya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Security measures: On 26 October 2019, military forces entered Nassriya to implement a curfew and impose security measures in the city in response to protests.
+
+---
+
+[EVENT: IRQ21647]
+Date: 2019-10-27
+Country: Iraq | Location: Amara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: Al Mirbad [National]
+
+DESCRIPTION:
+On 27 October 2019, a Rapid Reaction Force was deployed to Amara to ensure safety and security during demonstrations.
+
+---
+
+[EVENT: IRQ21642]
+Date: 2019-10-27
+Country: Iraq | Location: Kerbala
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) Counter-Terrorism Service [State forces]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Movement of forces: On October 27, Counter Terrorism forces were deployed to Karbala to provide security after some demonstrators became violent the day before.
+
+---
+
+[EVENT: IRQ21666]
+Date: 2019-10-28
+Country: Iraq | Location: Baghdad - Karkh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Weapons seizure: On October 28, police seized grenades from a Tuk-Tuk driving who was trying to smuggle them into Tahrir Square.
+
+---
+
+[EVENT: IRQ21669]
+Date: 2019-10-28
+Country: Iraq | Location: Rabia
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2017-2021) [External/Other forces]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+On 28 October 2019, US forces left Iraq and returned to Syria through the Rabia border crossing.
+
+---
+
+[EVENT: IRQ21725]
+Date: 2019-10-31
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah; BBC News [National-International]
+
+DESCRIPTION:
+On 31 October 2019, the Islamic State named a new leader and Caliph Abu Ibrahim al-Hashimi al-Qurashi after the killing of its former leader, Abu Bakr al-Baghdadi by US forces in Syria.
+
+---
+
+[EVENT: IRQ21789]
+Date: 2019-11-02
+Country: Iraq | Location: Al Waleed Border Crossing
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+On 2 November 2019, a convoy of 55 US military vehicles entered Iraq from Syria through the al-Walid border crossing in Anbar province.
+
+---
+
+[EVENT: IRQ21815]
+Date: 2019-11-03
+Country: Iraq | Location: Ramadi
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Weapons seizure: On November 3, police in Ramadi, Anbar province seized a number of IEDs and other explosive devices from the Islamic State.
+
+---
+
+[EVENT: IRQ21813]
+Date: 2019-11-03
+Country: Iraq | Location: Shatra
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) [State forces]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+On 3 November 2019, a large force of riot police was deployed to Shatra to quell demonstrations in the city.
+
+---
+
+[EVENT: IRQ21829]
+Date: 2019-11-04
+Country: Iraq | Location: Kirkuk
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press; Ayn Al Iraq News [National]
+
+DESCRIPTION:
+Detonation: On November 4, Police in Kirkuk province recovered variety of Islamic State weapons including explosives near Wastaniya village in Kirkuk province. The IS vehicle with the explosives and other weapons were destroyed.
+
+---
+
+[EVENT: IRQ21828]
+Date: 2019-11-04
+Country: Iraq | Location: Badush
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Detonation: On November 4, Police in Nineveh province recovered variety of Islamic State weapons including explosives in the Badush region of Mosul. The Islamic State tunnels and weapons were destroyed.
+
+---
+
+[EVENT: IRQ21836]
+Date: 2019-11-04
+Country: Iraq | Location: Al Waleed Border Crossing
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+On 4 November 2019, a convoy of US forces entered Iraq from Syria through the al-Walid border crossing in Anbar province.
+
+---
+
+[EVENT: IRQ21831]
+Date: 2019-11-04
+Country: Iraq | Location: Mukeshefah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Weapons seizure: On November 4, military forces near Mukeshefah in Salah ad-Din province recovered variety of Islamic State explosives. All items were detonated with no fatalities or damage reported.
+
+---
+
+[EVENT: IRQ21837]
+Date: 2019-11-04
+Country: Iraq | Location: Shafiq Aziz Agha
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: ROJ News [International]
+
+DESCRIPTION:
+Displacement: As reported on November 4, the people of the village Shafiq in Khanaqin district, Diyala province have left the village due to repeated attacks from the Islamic State.
+
+---
+
+[EVENT: IRQ21916]
+Date: 2019-11-09
+Country: Iraq | Location: Baghdad - Karkh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Property destruction: On 9 November 2019, an unidentified sound bomb exploded on Abu Nawas Street in Baghdad. No injuries were reported. A few shops and vehicles were damaged.
+
+---
+
+[EVENT: IRQ21953]
+Date: 2019-11-11
+Country: Iraq | Location: Makhmur
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Telegram [New media]
+
+DESCRIPTION:
+Property destruction: On Nov 11, IS militants claimed to have downed an unidentified reconnaissance drone in the Makhmur area.
+
+---
+
+[EVENT: IRQ21971]
+Date: 2019-11-12
+Country: Iraq | Location: Nassriya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) Rapid Reaction Force [State forces]
+Fatalities: 0
+Sources: BBC News [International]
+
+DESCRIPTION:
+Movement of forces: On Nov 12, Rapid Reaction Forces were sent to Thi-Qar province following the escalation of clashes in the province.
+
+---
+
+[EVENT: IRQ21962]
+Date: 2019-11-12
+Country: Iraq | Location: Basrah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Iraq) [Protesters]
+Fatalities: 0
+Sources: Rudaw; Iraq News Gazette [National]
+
+DESCRIPTION:
+Strikes: On Nov 12, teachers in Iraq announced a general strike all across the country and mainly in southern Iraq. Schools reportedly shut down in Najaf, Al-Muthannah, Dhi Qar, Basra, Babel, Karbala and Maysan in an attempt to boost the protests which began in Oct 1.
+
+---
+
+[EVENT: IRQ21960]
+Date: 2019-11-12
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) Counter-Terrorism Service [State forces]
+Fatalities: 0
+Sources: Al Masalah [National]
+
+DESCRIPTION:
+Movement of forces: On Nov 12, the Iraqi counter-terrorism service reinstated 1,972 personnel who were sacked after the defeat of IS. The ministerial decree provides for the return of ICTS officers, non-commissioned officers, and conscripts to service in accordance with a recommendation by the national security advisor Faleh al-Fayyad, who is also head of the PMF.
+
+---
+
+[EVENT: IRQ21980]
+Date: 2019-11-13
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Fatalities: 0
+Sources: Facebook [New media]
+
+DESCRIPTION:
+Movement of forces: On Nov 12, Iraqi defense ministry has announced that it reinstated 51,090 army personnel who were sacked following the defeat of IS in 2014. This is the first time the military establishment has moved to reinstate soldiers.
+
+---
+
+[EVENT: IRQ22007]
+Date: 2019-11-15
+Country: Iraq | Location: Abu Karmah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Yaqein [National]
+
+DESCRIPTION:
+Displacement: On Nov 13, 31 more families forcibly left their homes in Abu Karmah district due to increasing IS activity in the area.
+
+---
+
+[EVENT: IRQ22020]
+Date: 2019-11-16
+Country: Iraq | Location: Darbandihkan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 1
+Sources: Basnews [Subnational]
+
+DESCRIPTION:
+Explosive remnants of war: On Nov 16, an Iran-Iraq remnant landmine exploded killing 1 civilian in in the Mount Bamo, in Darbandikhan district.
+
+---
+
+[EVENT: IRQ22040]
+Date: 2019-11-16
+Country: Iraq | Location: Sinjar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Basnews [Subnational]
+
+DESCRIPTION:
+Security measure: as reported on Nov 16 PKK and PMF militants set up checkpoints across Sinjar province and its nearby districts for taxing people and goods and both of them share the revenue among themselves.
+
+---
+
+[EVENT: IRQ22060]
+Date: 2019-11-17
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Iraq) [Protesters]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Strikes: on Nov 17, the Union of workers in the oil and gas sector announced a general strike throughout Iraq and in all departments of the oil sector in solidarity with the demonstrators in support of their demands.
+
+---
+
+[EVENT: IRQ24900]
+Date: 2019-11-19
+Country: Iraq | Location: Abu Karmah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Displacement: On 19 November 2019, the village of Abu Karmah village in Muqdadiya district was completely displaced after the civilian residents vacated the village following repeated attacks by IS militants.
+
+---
+
+[EVENT: IRQ22121]
+Date: 2019-11-20
+Country: Iraq | Location: Ramadi
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Weapons seizure: On Nov 20, Iraqi forces seized a large weapons cache west of Ramadi city, containing a large number of explosives and missiles as well as light and medium weapons.
+
+---
+
+[EVENT: IRQ22201]
+Date: 2019-11-24
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Iraq (2018-2020) [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Shafaaq News [National]
+
+DESCRIPTION:
+Non-violent activity: On Nov 24, the Iraqi Communications and Media Commission decided to close the offices of eight TV channels and four radio stations for three months over alleged violations media licencing regulations during coverage of the ongoing anti-government demonstrations. The closed TV offices include Al-Arabiya al-Hadath, pan-Arab anb, Kurdish NRT, Dijlah, Al-Sharqiya, Al-Fallujah, Al Rasheed and Hona Baghdad. The closed radio stations are NAS FM, Radio Sawa, Al-Yaum FM and Kurdish Radio Nawa. While, the media regulator also extended the closure of the US-government funded Al Hurra TV office for another three months. The offices Al-Sumaria TV, Asia Network Television, Kurdish Rudaw TV, Sky News Arabia TV and UR TV received warnings.
+
+---
+
+[EVENT: IRQ22206]
+Date: 2019-11-25
+Country: Iraq | Location: Nassriya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) [State forces]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Movement of forces: on Nov 25, the Thi-Qar police chief reportedly ordered the withdrawal of riot police from the streets after deadly clashes with demonstrators the day before. Local police and rescue forces replaced riot police forces.
+
+---
+
+[EVENT: IRQ22279]
+Date: 2019-11-29
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Iraq (2018-2020) [State forces]
+Fatalities: 0
+Sources: Al Iraqiya TV [National]
+
+DESCRIPTION:
+Non-violent activity: on Nov 29, Prime Minister Adel Abdul Mahdi, announced that he would submit his resignation to the parliament, and ordered the formation of a committee to investigate the violence that erupted in Dhi Qar and Najaf provinces.
+
+---
+
+[EVENT: IRQ22278]
+Date: 2019-11-29
+Country: Iraq | Location: Nassriya
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Iraq (2018-2020) [State forces]
+Fatalities: 0
+Sources: Al Iraqiya TV [National]
+
+DESCRIPTION:
+Non-violent activity: on Nov 29, the police chief of Dhi Qar and the governor of the province resigned, following a spike in violence in the province.
+
+---
+
+[EVENT: IRQ22337]
+Date: 2019-12-03
+Country: Iraq | Location: Haweeja
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Arab News [Regional]
+
+DESCRIPTION:
+Arrests: Reported on 03 December 2019, police forces arrested Abu Bakr Al-Baghdadi's deputy 'Abu Khaldoun', in Haweeja district, Kirkuk.
+
+---
+
+[EVENT: IRQ22365]
+Date: 2019-12-06
+Country: Iraq | Location: Sabaa Al Bour
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Fatalities: 0
+Sources: Liveuamap; Al Mirbad [Local partner-New media]
+
+DESCRIPTION:
+On 06 December 2019, Iraqi military forces discovered and defused 3 rockets aimed at the center of Baghdad city, in Sabaa Al Bour village of Baghdad province.
+
+---
+
+[EVENT: IRQ22418]
+Date: 2019-12-08
+Country: Iraq | Location: Kirkuk
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Property destruction: On Dec 08, police forces destroyed three IS hideouts used to store weapons and act as logistics support in Kirkuk province.
+
+---
+
+[EVENT: IRQ22420]
+Date: 2019-12-08
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Non-violent activity: the Baghdad operations force head was dismissed and a new military commander was appointed for the force. This force was mainly responsible for securing Baghdad during the protests.
+
+---
+
+[EVENT: IRQ22411]
+Date: 2019-12-09
+Country: Iraq | Location: Turaybil
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2017-2021) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On Dec 09, nearly 500 US military vehicles entered Iraq through the Turabil border crossing (bordering Jordan).
+
+---
+
+[EVENT: IRQ22421]
+Date: 2019-12-10
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Mass grave: On Dec 10, security forces discovered a mass grave containing the remains of 10 civilians believed to have been killed by IS militants in eastern Fallujah city.
+
+---
+
+[EVENT: IRQ22412]
+Date: 2019-12-12
+Country: Iraq | Location: Zurbatiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) [External/Other forces]
+Fatalities: 0
+Sources: Yaqein [National]
+
+DESCRIPTION:
+Movement of forces: On Dec 12, the Iraqi government made a statement that Iranian military vehicles and tanks had crossed into Iraq through the Zurbatiyah border in Wassit province.
+
+---
+
+[EVENT: IRQ22527]
+Date: 2019-12-15
+Country: Iraq | Location: Fallujah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Sumaria TV; Basnews [National]
+
+DESCRIPTION:
+Mass grave: On Dec 15, 15 mass graves, containing a total of 643 bodies was been found in the village of Fayaz in Fallujah. Reportedly belonging to members of the Mihamidain Tribe and others from Fallujah's Saqlawiya neighborhood were killed by IS militants in 2016.
+
+---
+
+[EVENT: IRQ22545]
+Date: 2019-12-15
+Country: Iraq | Location: Hamrin Mountains - Diyala
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2018-2020) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: TamTam [New media]
+
+DESCRIPTION:
+Property destruction: As reported on Dec 15, IS militants reportedly carried out an arson attack in the Hamrin area in Diyala province targeting a vehicle used for farming that allegedly belonged to a member of the PMF.
+
+---
+
+[EVENT: IRQ22591]
+Date: 2019-12-18
+Country: Iraq | Location: Erbil
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2017-2021) [External/Other forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Movement of forces: On Dec 18, a fresh batch of US forces made up of dozens of hummers and military tanks arrived at Erbil airport.
+
+---
+
+[EVENT: IRQ22564]
+Date: 2019-12-18
+Country: Iraq | Location: Garhat Ghazan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) Counter-Terrorism Service [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Property destruction: On Dec 18, the counter-terrorism forces backed by the global coalition destroyed two IS caves in Gharat mountain in Haweeja district. No reported injuries or fatalities.
+
+---
+
+[EVENT: IRQ22578]
+Date: 2019-12-19
+Country: Iraq | Location: Al Baghdadi
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2017-2021) [External/Other forces]
+Actor2: Military Forces of Iraq (2018-2020) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Arrests: On Dec 19, US forces carried out an air-drop operation that involved arresting a senior leader in the Anbar PMF in al Baghdadi in Hit district, giving no reasons as to the motive behind the arrest.
+
+---
+
+[EVENT: IRQ22593]
+Date: 2019-12-20
+Country: Iraq | Location: Basrah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Maloomah; Al Mirbad [National]
+
+DESCRIPTION:
+Property destruction: On Dec 20, unidentified armed men threw sound bombs targeting the home of the governor of Basrah province, one fell near a water tank and another at a concrete barrier, and one near his home. No reported injuries or fatalities.
+
+---
+
+[EVENT: IRQ22625]
+Date: 2019-12-21
+Country: Iraq | Location: Kerbala
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Property destruction: On Dec 21, unidentified men burned a local school in Kerbala city. No reason was specified.
+
+---
+
+[EVENT: IRQ22660]
+Date: 2019-12-22
+Country: Iraq | Location: Alsawar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Property destruction: On Dec 22, a joint operation between the TMF and the Iraqi forces including the airforce resulted in the destruction of 6 IS tunnels in the Wadi Hawran area in Anbar prorvince. No reported injuries or fatalities.
+
+---
+
+[EVENT: IRQ22846]
+Date: 2019-12-27
+Country: Iraq | Location: Kirkuk
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Fatalities: 0
+Sources: NRT News [National]
+
+DESCRIPTION:
+Movement of forces: on Dec 27, the Iraqi Army sent reinforcements to Kirkuk province in response to an increase in attacks by IS militants.
+
+---
+
+[EVENT: IRQ22722]
+Date: 2019-12-31
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2017-2021) [External/Other forces]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Movement of forces: On Dec 31, the US sent 750 soldiers to Iraq following the storming of the embassy in Baghdad.
+
+---
+
+[EVENT: IRQ22744]
+Date: 2019-12-31
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2017-2021) Marine Corps [External/Other forces]
+Actor2: Police Forces of Iraq (2018-2020) [State forces]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Movement of forces: On Dec 31, US Marines forces arrived at the embassy to secure it during the demonstration.

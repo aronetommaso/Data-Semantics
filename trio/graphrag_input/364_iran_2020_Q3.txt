@@ -1,0 +1,650 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iran (ISO Code: 364)
+Temporal Period: Year 2020 - Quarter Q3
+Total Events in Chunk: 47 / 47
+==================================================
+
+[EVENT: IRN6678]
+Date: 2020-07-01
+Country: Iran | Location: Paveh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Islamic Republic News Agency [National]
+
+DESCRIPTION:
+Explosive remnants of war: On 1 July 2020, five workers of Nature Preservation Organization were injured by the explosion of two landmines, laid during Iran-Iraq war, while fighting a wildfire in Paveh county.
+
+---
+
+[EVENT: IRN6699]
+Date: 2020-07-04
+Country: Iran | Location: Bandar Abbas
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Mehr News Agency [National]
+
+DESCRIPTION:
+Security measures: On 4 July 2020, a lockdown was re-imposed on several cities the province of Hormozgan, including the provincial capital Bandar Abbas, after the number of people infected with the coronavirus spiked.
+
+---
+
+[EVENT: IRN6727]
+Date: 2020-07-07
+Country: Iran | Location: Bushehr
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Iran Kargar; Iranian Labour News Agency [New media-National]
+
+DESCRIPTION:
+Property destruction: On 7 July 2020, Iranian police forces demolished several houses belonging to families displaced during the Iran-Iraq War on Bisim Street in Bandar e Bushehr.
+
+---
+
+[EVENT: IRN6733]
+Date: 2020-07-08
+Country: Iran | Location: Natanz
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Iran International [International]
+
+DESCRIPTION:
+Security measures: Around 8 July 2020 (as reported), and extensive redeployment of defensive weapons systems and missiles was observed in the area surrounding the Natanz nuclear complex, located 30 miles outside the town of Natanz. This began in the days following the explosion at the Natanz nuclear complex on 2 July 2020.
+
+---
+
+[EVENT: IRN18810]
+Date: 2020-07-09
+Country: Iran | Location: Sardasht
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 9 July 2020, a Kurdish cross-border porter or Kolbar was wounded at the mountain pass near Sardasht (West Azerbaijan) after being fired upon by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN6786]
+Date: 2020-07-13
+Country: Iran | Location: Isfahan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Unidentified Armed Group (Iran) [Political militia]
+Fatalities: 0
+Sources: Kurdistan24 [International]
+
+DESCRIPTION:
+Weapons seizure: On 13 July 2020, police forces discovered and seized a cache of 200 firearms from an arms smuggling group in Isfahan Province. 5 people were also arrested in connection with the smuggling operation.
+
+---
+
+[EVENT: IRN6803]
+Date: 2020-07-17
+Country: Iran | Location: Mehran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 3
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 17 July 2020, 3 civilians were killed and 1 injured when a landmine planted during the Iran-Iraq War detonated near Mehran.
+
+---
+
+[EVENT: IRN18811]
+Date: 2020-07-26
+Country: Iran | Location: Baneh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 26 July 2020, at leas 5 Kurdish cross-border porters or Kolbars were wounded at the Hengeh-Zhal mountain pass near Baneh (Kurdistan) after being fired upon along with other Kolbars by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN6873]
+Date: 2020-07-29
+Country: Iran | Location: Bandar Abbas
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [State forces]
+Fatalities: 0
+Sources: Radio Farda [International]
+
+DESCRIPTION:
+Movement of forces: On 29 July 2020, Islamic Revolutionary Guard Corps (IRGC) forces conducted several military exercises under the name Payambar e Azam 14, which included firing ballistic missiles and targeting of a replica U.S. aircraft carrier by drones, speedboats, and rappelling commandos. US troops stationed in Qatar and the United Arab Emirates were put on high alert during the exercises.
+
+---
+
+[EVENT: IRN7027]
+Date: 2020-08-03
+Country: Iran | Location: Sardasht
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iran) [Political militia]
+Actor2: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 3 August 2020, 2 members of the Iranian border guard were seriously injured in a mine explosion in Sardasht County.
+
+---
+
+[EVENT: IRN7026]
+Date: 2020-08-04
+Country: Iran | Location: Tabriz
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Free Union of Iranian Workers [Other]
+
+DESCRIPTION:
+Strikes: On 4 August 2020, workers of the Tabriz Thermal and Gas power plant, located on the road between Tabriz and Azarshahr, joined widespread strikes in the oil and energy sectors.
+
+---
+
+[EVENT: IRN7028]
+Date: 2020-08-05
+Country: Iran | Location: Najafabad
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 1
+Sources: Radio Farda [International]
+
+DESCRIPTION:
+On 5 August 2020, a protester arrested in the wake of the 2017-2018 mass Iran protests was executed in Najafabad. The execution followed a large-scale campaign in late July 2020 to stop the execution of recent mass Iran protests participants.
+
+---
+
+[EVENT: IRN7029]
+Date: 2020-08-10
+Country: Iran | Location: Tehran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Iran Kargar [New media]
+
+DESCRIPTION:
+Strikes: On 10 August 2020, workers of the Azmoon Felez Pars company working at the Phase 9 area of Pardis joined nationwide strikes and protests started in early August 2020 by oil and energy sector workers over related grievances including lack of labor rights and wage arrears. Around 10 August (as reported), contract workers of the Hampa company employed at the Parsian Sepehr complex in Bandar e Asaluyeh joined the strikes. Coded at national capital Tehran.
+
+---
+
+[EVENT: IRN18812]
+Date: 2020-08-10
+Country: Iran | Location: Marivan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 10 August 2020, a Kurdish cross-border porter or Kolbar was 'severely' wounded at the Maraneh border area near Marivan (Kurdistan) after being fired upon by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN18693]
+Date: 2020-08-14
+Country: Iran | Location: Baneh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 14 August 2020, a Kurdish cross-border porter or Kolbar was wounded at the Hengeh-Zhal mountain pass near Baneh (Kurdistan) after being fired upon by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN18813]
+Date: 2020-08-15
+Country: Iran | Location: Kuran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 15 August 2020, 3 Kurdish cross-border porters or Kolbars were wounded at the border mountains of Kuran village (Urmia, West Azerbaijan) after being fired upon by border guards on the Iran-Turkey border.
+
+---
+
+[EVENT: IRN18816]
+Date: 2020-08-15
+Country: Iran | Location: Orumiyeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 15 August 2020, a Kurdish cross-border porter or Kolbar was wounded at the mountain pass near Orumiyeh (West Azerbaijan) after being fired upon by border guards along with other Kolbars on the Iran-Turkey border.
+
+---
+
+[EVENT: IRN7035]
+Date: 2020-08-15
+Country: Iran | Location: Ahvaz
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Tasnim News Agency [National]
+
+DESCRIPTION:
+Arrests: Around 15 August 2020 (month of), in a series of operations, police forces in Khuzestan arrested 312 alleged perpetrators of shootings and illegal weapons possession.
+
+---
+
+[EVENT: IRN7058]
+Date: 2020-08-17
+Country: Iran | Location: West Coast of Hormozgan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (United Arab Emirates) [Civilians]
+Fatalities: 0
+Sources: Radio Zamaneh; Reuters [International]
+
+DESCRIPTION:
+Arrest: On 17 August 2020, Iranian coastguards seized an Emirati ship and detained its crew over what Iran claimed was its illegal traffic in Iranian waters.
+
+---
+
+[EVENT: IRN18815]
+Date: 2020-08-18
+Country: Iran | Location: Baneh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 18 August 2020, at least 4 Kurdish cross-border porters or Kolbars were wounded at the Hengeh-Zhal mountain pass near Baneh (Kurdistan) after being fired upon by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN18814]
+Date: 2020-08-18
+Country: Iran | Location: Nowsud
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 18 August 2020, a Kurdish cross-border porter or Kolbar was wounded at the mountain pass near Nowsud (Kermanshah) after being fired upon by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN18818]
+Date: 2020-08-19
+Country: Iran | Location: Paveh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 19 August 2020, a Kurdish cross-border porter or Kolbar was wounded at the mountain pass near Paveh (Kermanshah) after being fired upon by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN18817]
+Date: 2020-08-22
+Country: Iran | Location: Nowsud
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 22 August 2020, a Kurdish cross-border porter or Kolbar was wounded at the mountain pass near Nowsud (Kermanshah) after being fired upon by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN18820]
+Date: 2020-08-23
+Country: Iran | Location: Piranshahr
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 23 August 2020, a Kurdish cross-border porter or Kolbar was wounded in the leg somewhere on Qandil mountain in Piranshahr district (West Azerbaijan) after being fired upon by revolutionary guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN18819]
+Date: 2020-08-24
+Country: Iran | Location: Nowsud
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 24 August 2020, a Kurdish cross-border porter or Kolbar was 'severely' wounded at the mountain pass near Nowsud (Kermanshah) after being fired upon along with other Kolbars by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN18821]
+Date: 2020-08-24
+Country: Iran | Location: Seyah Cheshmeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: Around 24 August 2020 (as reported), a Kurdish cross-border porter or Kolbar was 'severely' wounded at the mountains of the border areas of Chaldoran district (coded to Seyah Cheshmeh) (West Azerbaijan) after being fired upon by border guards on the Iran-Turkey border.
+
+---
+
+[EVENT: IRN18822]
+Date: 2020-08-26
+Country: Iran | Location: Nowsud
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 26 August 2020, 3 Kurdish cross-border porters or Kolbars were wounded at the mountain pass near Nowsud (Kermanshah) after being fired upon by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN7149]
+Date: 2020-08-28
+Country: Iran | Location: Khorramabad
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Iranian Student News Agency [National]
+
+DESCRIPTION:
+Arrests: Around 28 August 2020 (as reported), 244 people were arrested in Khorramabad on charges of disrupting public order and security.
+
+---
+
+[EVENT: IRN18823]
+Date: 2020-08-28
+Country: Iran | Location: Nowsud
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 28 August 2020, a Kurdish cross-border porter or Kolbar was wounded in the leg at the mountain pass near Nowsud (Kermanshah) after being fired upon by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN18913]
+Date: 2020-09-01
+Country: Iran | Location: Khvoy
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 1 September 2020, Turkish border guards shoot at a group of Iranian Kurdish Kolbars (cross-border smugglers) and injured one of them at a mountainous border region in Khoy district (coded to Khvoy) (West Azerbaijan).
+
+---
+
+[EVENT: IRN18824]
+Date: 2020-09-01
+Country: Iran | Location: Nowsud
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 1 September 2020, a Kurdish cross-border porter or Kolbar was wounded at the mountain pass near Nowsud (Kermanshah) after being fired upon by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN7188]
+Date: 2020-09-03
+Country: Iran | Location: Marivan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Military Forces of Iran (1989-) Basij Force [State forces]
+Fatalities: 1
+Sources: Hengaw; Tasnim News Agency [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 3 September 2020, a Basij Force member was killed during a landmine clearing operation when a landmine planted during the Iran-Iraq War exploded in Marivan County. A further 2 individuals were injured.
+
+---
+
+[EVENT: IRN18825]
+Date: 2020-09-03
+Country: Iran | Location: Nowsud
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 3 September 2020, a Kurdish cross-border porter or Kolbar was wounded at the mountain pass near Nowsud (Kermanshah) after being fired upon by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN7321]
+Date: 2020-09-11
+Country: Iran | Location: Fasham
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Manoto [Local partner-Other]
+
+DESCRIPTION:
+Arrests: On 11 September 2020, 28 civilians were arrested by police forces during a private party in the Meygun area near Fasham, seizing musical instruments and DJ gear. Unreasonable intrusion into citizens' private lives is a recurring criticism leveled at Iran's justice system.
+
+---
+
+[EVENT: IRN7374]
+Date: 2020-09-17
+Country: Iran | Location: Qom
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Islamic Republic News Agency [National]
+
+DESCRIPTION:
+Security measures: On 17 September 2020, all gatherings of any kind were forbidden in Qom Province due to a sharp increase in coronavirus infections.
+
+---
+
+[EVENT: IRN7384]
+Date: 2020-09-18
+Country: Iran | Location: West Coast of Hormozgan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2017-2021) [External/Other forces]
+Fatalities: 0
+Sources: Radio Farda [International]
+
+DESCRIPTION:
+Movement of forces: On 18 September 2020, the aircraft carrier USS Nimitz and several other United States warships crossed the Strait of Hormuz into the Persian Gulf following months of escalating tensions with Iran in those waters.
+
+---
+
+[EVENT: IRN18826]
+Date: 2020-09-20
+Country: Iran | Location: Seyah Cheshmeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: Around 20 September 2020, a Kurdish cross-border porter or Kolbar was wounded at the mountains of the border areas of Chaldoran district (coded to Seyah Cheshmeh) (West Azerbaijan) after being fired upon by border guards on the Iran-Turkey border.
+
+---
+
+[EVENT: IRN18827]
+Date: 2020-09-21
+Country: Iran | Location: Nowsud
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 21 September 2020, 4 Kurdish cross-border porters or Kolbars were wounded at the mountain pass near Nowsud (Kermanshah) after being fired upon by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN7403]
+Date: 2020-09-21
+Country: Iran | Location: Tabriz
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Iran International; Iranian Student News Agency [National-International]
+
+DESCRIPTION:
+Security measures: On 21 September 2020, new restrictions were announced in East Azarbaijan Province in response to a new wave of coronavirus infections. In-person schooling, meetings in public places, and funeral ceremonies extending beyond immediate family were all forbidden for 1 month. Additional public, commercial, and recreational centers were also closed in the following weeks with restrictions set to expire 16 October 2020.
+
+---
+
+[EVENT: IRN7411]
+Date: 2020-09-23
+Country: Iran | Location: Qom
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Coordinating Council of Teachers Syndicates in Iran [Other]
+
+DESCRIPTION:
+Security measures: On 23 September 2020, all in-person schooling in Qom Province was forbidden, in response to the rising number of coronavirus infections.
+
+---
+
+[EVENT: IRN18829]
+Date: 2020-09-25
+Country: Iran | Location: Nowsud
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 25 September 2020, a Kurdish cross-border porter or Kolbar was wounded at the mountain pass near Nowsud (Kermanshah) after being fired upon by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN7420]
+Date: 2020-09-26
+Country: Iran | Location: Kermanshah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Islamic Republic News Agency; FARS News Agency (Iran) [National]
+
+DESCRIPTION:
+Security measures: On 26 September 2020, the governor of Kermanshah province imposed several new restrictions (later extended till at least 7 November 2020), including the closure of all schools and universities, restricted activities in public areas, social services, and recreation areas, in response to a new wave of coronavirus cases.
+
+---
+
+[EVENT: IRN7431]
+Date: 2020-09-27
+Country: Iran | Location: Karaj
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: FARS News Agency (Iran); Iran International; Islamic Republic News Agency [National-International]
+
+DESCRIPTION:
+Security measures: On 27 September 2020, restrictions including the closure of schools, recreational centers, theaters, cafes, certain public buildings, mosques, and hair and beauty salons were re-imposed for 1 week (later extended till 6 November 2020) in Alborz Province in response to a new wave of coronavirus infections. Gatherings, ceremonies, and Friday prayers were also banned.
+
+---
+
+[EVENT: IRN18830]
+Date: 2020-09-27
+Country: Iran | Location: Sardasht
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 27 September 2020, a Kurdish cross-border porter or Kolbar was wounded at the border mountain area of Gowzli in the Alan region in Sardasht district (West Azerbaijan) after being fired upon along with other Kolbars by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN18828]
+Date: 2020-09-28
+Country: Iran | Location: Baneh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 28 September 2020, a Kurdish cross-border porter or Kolbar was wounded at the Hengeh-Zhal mountain pass near Baneh (Kurdistan) after being fired upon by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN18831]
+Date: 2020-09-29
+Country: Iran | Location: Nowkan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 29 September 2020, a Kurdish cross-border porter or Kolbar was wounded at the mountain pass in the border region of Nowkan (Sardasht, West Azerbaijan) after being fired upon by border guards on the Iran-Iraq border.
+
+---
+
+[EVENT: IRN7455]
+Date: 2020-09-30
+Country: Iran | Location: Ahvaz
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Islamic Republic News Agency [National]
+
+DESCRIPTION:
+Security measures: On 30 September 2020, new restrictions to combat the spread of coronavirus were announced in Khuzestan Province. Parks and centers of education and recreation were closed and Friday and congregational prayers cancelled until further notice.

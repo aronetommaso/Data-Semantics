@@ -1,0 +1,941 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Turkey (ISO Code: 792)
+Temporal Period: Year 2017 - Quarter Q4
+Total Events in Chunk: 70 / 70
+==================================================
+
+[EVENT: TUR1145]
+Date: 2017-10-01
+Country: Turkey | Location: Yarbasi
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: The Turkish Gendarmerie Forces detonated 3 grenades during a counter-terrorism operation against the PKK militants in the Yarbasi neighbourhood of the Sirnak province's Idil district on Sunday, 1 October 2017.
+
+---
+
+[EVENT: TUR23404]
+Date: 2017-10-01
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 1 October 2017, Van Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 30 days as part of the security measures. On 31 October 2017, the Governor's Office extended the ban for another 30 days. On 30 November 2017, the Governor's Office extended the ban for yet another 30 days as part of the security measures related to public order based on the ongoing state of emergency. On 30 December 2017, the Governor's Office extended the duration of the ban for another 30 days.
+
+---
+
+[EVENT: TUR23408]
+Date: 2017-10-02
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 2 October 2017, Ankara Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province until the end of the month of October as part of the security measures. On 1 November 2017, the Governor's Office extended the ban in the province for 3 more months.
+
+---
+
+[EVENT: TUR1146]
+Date: 2017-10-03
+Country: Turkey | Location: Antalya
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 44 people were arrested by the Turkish Police Forces during an Antalya-based operation in the Antalya province on Tuesday, 3 October 2017.
+
+---
+
+[EVENT: TUR1148]
+Date: 2017-10-03
+Country: Turkey | Location: Cankaya
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 82 people from the Turkish Ministry of Education and the Ministry of Youth and Sports were arrested by the Turkish Police Forces during an Cankaya-based operation in the Ankara province on Tuesday, 3 October 2017.
+
+---
+
+[EVENT: TUR1149]
+Date: 2017-10-03
+Country: Turkey | Location: Kagizman
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: The Turkish Gendarmerie Forces detonated several handmade improvised explosive devices during a counter-terrorism operation against the PKK militants in the Kagizman district of the Kars province on Tuesday, 3 October 2017.
+
+---
+
+[EVENT: TUR1150]
+Date: 2017-10-03
+Country: Turkey | Location: Pervari
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: The Turkish Military Forces detonated 1 improvised explosive device during a land search operation in the Pervari district of the Siirt province on Tuesday, 3 October 2017.
+
+---
+
+[EVENT: TUR1152]
+Date: 2017-10-03
+Country: Turkey | Location: Yuksekova
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: The Turkish Military Forces detonated 2 improvised explosive devices during a land search operation in the Yuksekova district of the Hakkari province on Tuesday, 3 October 2017.
+
+---
+
+[EVENT: TUR1167]
+Date: 2017-10-06
+Country: Turkey | Location: Konya
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 50 university students were arrested by the Turkish Police Forces as part of a Konya-based security operaztion in the Konya province on Friday, 6 October 2017.
+
+---
+
+[EVENT: TUR1077]
+Date: 2017-10-09
+Country: Turkey | Location: Akoren
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction: Unidentified militants attacked a monument built for soldiers who lost their lives using a mortar in the Akoren neighbourhood of the Hakkari province's Semdinli district on Sunday, 10 September 2017. No fatalities or injuries were reported; yet the monument was damaged.
+
+---
+
+[EVENT: TUR1173]
+Date: 2017-10-09
+Country: Turkey | Location: Kagizman
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: The Turkish Gendarmerie Forces detonated 3 hand grenades that belong to the PKK militants during a counter-terrorism operation in the Kagizman district of the Kars province on Monday, 9 October 2017.
+
+---
+
+[EVENT: TUR1187]
+Date: 2017-10-10
+Country: Turkey | Location: Siirt
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: The Turkish Police Forces arrested 24 soldiers and 2 teachers during a Siirt-based security operation in the Siirt province on Tuesday,10 October 2017.
+
+---
+
+[EVENT: TUR1182]
+Date: 2017-10-10
+Country: Turkey | Location: Konya
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: The Turkish Police Forces arrested 30 people during a Konya-based security operation in the Konya province on Tuesday,10 October 2017.
+
+---
+
+[EVENT: TUR1184]
+Date: 2017-10-10
+Country: Turkey | Location: Osmaniye
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: The Turkish Gendarmerie Forces detonated several improvised explosive devices that belong to unidentified militants during a counter-terrorism operation in the Osmaniye province on Tuesday, 10 October 2017.
+
+---
+
+[EVENT: TUR1190]
+Date: 2017-10-11
+Country: Turkey | Location: Cankaya
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: The Turkish Police Forces arrested 36 people during an Cankaya-based security operation in the Ankara province on Wednesday, 11 October 2017.
+
+---
+
+[EVENT: TUR23436]
+Date: 2017-10-11
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 11 October 2017, Bitlis governor's office declared curfews in total 27 villages and 7 zones in Mutki and Guroymak districts due to security operations until further notice.
+
+---
+
+[EVENT: TUR1192]
+Date: 2017-10-11
+Country: Turkey | Location: Konya
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: The Turkish Police Forces arrested 36 people during a Konya-based security operation in the Konya province on Wednesday, 11 October 2017.
+
+---
+
+[EVENT: TUR1193]
+Date: 2017-10-11
+Country: Turkey | Location: Osmaniye
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: The Turkish Police Forces arrested 54 soldiers during an Osmaniye-based security operation in the Osmaniye province on Wednesday, 11 October 2017.
+
+---
+
+[EVENT: TUR23438]
+Date: 2017-10-12
+Country: Turkey | Location: Silvan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 12 October 2017, Diyarbakir governor's office declared curfews in total 15 villages in Silvan district due to security operations until further notice.
+
+---
+
+[EVENT: TUR1200]
+Date: 2017-10-13
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: The Turkish Police Forces arrested 54 people during an Istanbul-based operation in the Istanbul province on Friday, 13 October 2017.
+
+---
+
+[EVENT: TUR1201]
+Date: 2017-10-13
+Country: Turkey | Location: Ordu
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: The Turkish Police Forces arrested 32 people during an Ordu-based operation in the Ordu province on Friday, 13 October 2017.
+
+---
+
+[EVENT: TUR1203]
+Date: 2017-10-14
+Country: Turkey | Location: Ipekyolu
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: Several hand grenades and other improvised explosive devices were detonated by the Turkish Police Forces during a counter-terrorism operation in the Hacibekir neighbourhood of the Van province's Ipekyok district on Saturday, 14 October 2017.
+
+---
+
+[EVENT: TUR23453]
+Date: 2017-10-15
+Country: Turkey | Location: Baykan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 15 October 2017, Siirt governor's office declared curfews in total 9 villages in Baykan district until further notice due to security operations.
+
+---
+
+[EVENT: TUR23452]
+Date: 2017-10-15
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 15 October 2017, Bitlis governor's office declared curfews in total 3 villages and one neighborhood in Mutki district until further notice due to security operations.
+
+---
+
+[EVENT: TUR23455]
+Date: 2017-10-16
+Country: Turkey | Location: Semdinli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 16 October 2017, Hakkari governor's office declared curfews for 24 hours in total 4 villages of Semdinli district due to security operations.
+
+---
+
+[EVENT: TUR1208]
+Date: 2017-10-17
+Country: Turkey | Location: Silvan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: Several hand grenades and other improvised explosive devices were detonated by the Turkish Gendarmerie Forces during a counter-terrorism operation in the Silvan district of the Diyarbakir province on Tuesday, 17 October 2017.
+
+---
+
+[EVENT: TUR23460]
+Date: 2017-10-19
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 19 October 2017, Diyarbakir governor's office declared curfews in total 38 villages in Hazro, Kulp, Silvan and Lice districts until further notice due to ongoing security operations.
+
+---
+
+[EVENT: TUR23465]
+Date: 2017-10-19
+Country: Turkey | Location: Mardin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 19 October 2017, Mardin Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 90 days as part of the security measures related to public order based on the ongoing state of emergency.
+
+---
+
+[EVENT: TUR23475]
+Date: 2017-10-22
+Country: Turkey | Location: Semdinli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 22 October 2017, Hakkari governor's office declared curfews for 24 hours in total 6 villages of Semdinli district due to security operations.
+
+---
+
+[EVENT: TUR23480]
+Date: 2017-10-24
+Country: Turkey | Location: Omerli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 24 October 2017, Mardin governor's office declared curfews in total 12 neighborhoods of Omerli district due to security operations until further notice.
+
+---
+
+[EVENT: TUR1237]
+Date: 2017-10-25
+Country: Turkey | Location: Yuksekova
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: The Turkish military forces detonated a hand-made improvised explosive device during a counter-terrorism operation in the Yuksekova district of the Hakkari province on Wednesday, 25 October 2017.
+
+---
+
+[EVENT: TUR23497]
+Date: 2017-10-28
+Country: Turkey | Location: Yenisehir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Property destruction: Around 28 October 2017 (as reported), police forces destroyed the tombstones of PKK and YPS militants in the Yenikoy cemetery in Yenisehir, Diyarbakir.
+
+---
+
+[EVENT: TUR1245]
+Date: 2017-10-28
+Country: Turkey | Location: Yuksekova
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: The Turkish military forces detonated a hand-made improvised explosive device during a counter-terrorism operation in the Yuksekova district of the Hakkari province on Saturday, 28 October 2017.
+
+---
+
+[EVENT: TUR1242]
+Date: 2017-10-28
+Country: Turkey | Location: Cukurca
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: The Turkish military forces detonated a hand-made improvised explosive device during a counter-terrorism operation in the Cukurca district of the Hakkari province on Saturday, 28 October 2017.
+
+---
+
+[EVENT: TUR1241]
+Date: 2017-10-28
+Country: Turkey | Location: Bayrampasa
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: The Turkish Police Forces have found and detonated a car and a motorbike loaded with explosives, as well as suicide vests during a counter-terrorism operation in the Bayrampasa district of the Istanbul province on Saturday, 28 October 2017.
+
+---
+
+[EVENT: TUR23535]
+Date: 2017-11-10
+Country: Turkey | Location: Yuksekova
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) Special Operations [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Property destruction: On 10 November 2017, police officers from Special Operations unit destroyed the tombstones of PKK and YPS militants in the cemetery in Orman neighborhood of Yuksekova, Hakkari.
+
+---
+
+[EVENT: TUR23542]
+Date: 2017-11-11
+Country: Turkey | Location: Artuklu
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 11 November 2017, Mardin governor's office declared a curfew order in total 4 neighborhoods in Artuklu district of Mardin, effective until further notice due to ongoing military operations.
+
+---
+
+[EVENT: TUR1273]
+Date: 2017-11-12
+Country: Turkey | Location: Kagizman
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: The Turkish Military Forces discovered and detonated a hand-made improvised explosive device during a counter-terrorism operation in the Kagizman district of the Kars province. No injuries reported.
+
+---
+
+[EVENT: TUR1271]
+Date: 2017-11-12
+Country: Turkey | Location: Cukurca
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: The Turkish Military Forces discovered and detonated a hand-made improvised explosive device during a counter-terrorism operation in the Cukurca district of the Hakkari province. No injuries reported.
+
+---
+
+[EVENT: TUR1274]
+Date: 2017-11-12
+Country: Turkey | Location: Yayginyurt
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: The Turkish Gendarmerie Forces found and detonated an unmanned aerial vehicle that belongs to the PKK militants during a field search in the Yayginyurt neighbourhood of the Agri province's Dogubeyazit district on Sunday, 12 November 2017.
+
+---
+
+[EVENT: TUR23543]
+Date: 2017-11-12
+Country: Turkey | Location: Bismil
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Arrests: On 12 November 2017, 30 members and executives of DBP were detained in Bismil district of Diyarbakir during the police operations carried out as part of an investigation targeting the party.
+
+---
+
+[EVENT: TUR23546]
+Date: 2017-11-14
+Country: Turkey | Location: Esenler
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Cumhuriyet; ANF News [National-International]
+
+DESCRIPTION:
+Property destruction: On 14 November 2017, HDP Esenler district branch building was attacked with gunfire by unknown assailants at night when no civilians were inside the building in Esenler, Istanbul. The attack caused material damage on the window glasses and walls of the building but no casualties or interaction with civilians occurred.
+
+---
+
+[EVENT: TUR1284]
+Date: 2017-11-15
+Country: Turkey | Location: Sarikamis
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Unidentified Armed Group (Turkey) [Political militia]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: The Turkish Gendamerie Forces detonated an improvised explosive device planted on a sideroad by unidentified militants in the Sarikamis district of the Kars province on Wednesday, 15 November 2017. No injuries were reported.
+
+---
+
+[EVENT: TUR23554]
+Date: 2017-11-16
+Country: Turkey | Location: Silvan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 16 November 2017, Silvan sub-governor's office declared a curfew order in total 12 villages in Silvan district of Diyarbakir, effective until further notice due to ongoing military operations.
+
+---
+
+[EVENT: TUR23552]
+Date: 2017-11-16
+Country: Turkey | Location: Tunceli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 16 November 2017, Tunceli governor's office declared total 30 zones in Ovacik, Pulumur, Hozat, Nazimiye and the central districts 'special security zones' due to ongoing security operations, banning citizens' entry until 1 December 2017. On 17 December 2017, the governor's office declared the 30 zones 'special security zones' again and banned citizens' entry until 31 December 2017. On 1 January 2018, the ban on citizens' entry was extended to 15 January 2018. On 16 January 2018, the ban on civilian entry to the 30 'special security zones' was extended to 30 January 2018. On 31 January 2018, the governor's office extended the ban until 1 September 2018. On 31 August 2018, the ban was extended yet again, this time until 15 September 2018. On 15 September 2018, the ban was extended until 1 July 2019. On 30 June 2019, the ban was extended until 15 July 2019 due to upcoming 'counter-terrorism' operations.
+
+---
+
+[EVENT: TUR1298]
+Date: 2017-11-20
+Country: Turkey | Location: Sehitler
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) Special Operations [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Defusal: A suspicious bag was found and defused by the Turkish Police Forces, Special Operations team in the Sehitler neighbourhood of the Kars province's Merkez district on Monday, 20 November 2017.
+
+---
+
+[EVENT: TUR1296]
+Date: 2017-11-20
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Kurdistan24 [Regional]
+
+DESCRIPTION:
+Arrests: The Turkish Police Forces detained 51 teachers who are accused of having ties with the Gulen in operations against the capital on Monday, 20 November 2017.
+
+---
+
+[EVENT: TUR1300]
+Date: 2017-11-22
+Country: Turkey | Location: Pulumur
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Unidentified Armed Group (Turkey) [Political militia]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: An improvised explosive device planted on a road in the Pulumur district of the Tunceli province was detonated by the Turkish Gendarmerie Forces on Wednesday, 22 November 2017.
+
+---
+
+[EVENT: TUR1302]
+Date: 2017-11-23
+Country: Turkey | Location: Ozalp
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: The Turkish Gendarmerie Froces arrested 31 PKK-suspects in the Ozalp district of the Van province on Thursday, 23 November 2017.
+
+---
+
+[EVENT: TUR1307]
+Date: 2017-11-24
+Country: Turkey | Location: Torbali
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: The Turkish Police Forces arrested 27 PKK suspects during parallel operations in the Torbali and Menemen district of the Izmir province on Friday, 24 November 2017.
+
+---
+
+[EVENT: TUR1308]
+Date: 2017-11-26
+Country: Turkey | Location: Alaca
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Defusal: Explosive devices were found and defused by the Turkish Military Forces during a counter-terrorism oepration in the Alaca neighbourhood of the Diyarbakir province's Kulo district on Sunday, 26 November 2017.
+
+---
+
+[EVENT: TUR1309]
+Date: 2017-11-27
+Country: Turkey | Location: Gayda
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Defusal: Explosive devices were found and defused by the Turkish Gendarmerie Forces during a counter-terrorism operation in the Gayda neighbourhood of the Bitlis province's Hizan district on Monday, 27 November 2017.
+
+---
+
+[EVENT: TUR1310]
+Date: 2017-11-27
+Country: Turkey | Location: Kumcati
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Defusal: Explosive devices were found and defused by the Turkish Gendarmerie Forces in the Kumcati neighbourhood of the Sirnak province's Merkez district on Monday, 27 November 2017.
+
+---
+
+[EVENT: TUR1313]
+Date: 2017-11-28
+Country: Turkey | Location: Catak
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) Special Operations [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Arrests: The Turkish Police Special Forces and Gendarmerie Forces arrested 35 people during a security operation in the Catak district of the Van province on Tuesday, 28 November 2017.
+
+---
+
+[EVENT: TUR23078]
+Date: 2017-11-29
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 29 November 2017, Diyarbakir governor's office declared a curfew order in total 42 villages in Silvan, Hazro, Kocakoy, Kulp and Lice districts, effective until further notice due to ongoing military operations.
+
+---
+
+[EVENT: TUR1320]
+Date: 2017-12-01
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Yeni Safak [National]
+
+DESCRIPTION:
+Arrests: 62 foreign nationals, suspected of being linked to IS, were arrested by the Turkish Police Forces in 8 different districts of the Istanbul province on Friday, 1 December 2017.
+
+---
+
+[EVENT: TUR23099]
+Date: 2017-12-02
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 2 December 2017, Hakkari Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 30 days as part of the security measures related to public order based on the ongoing state of emergency. On 4 January 2018, the ban was extended until 31 January 2018.
+
+---
+
+[EVENT: TUR23093]
+Date: 2017-12-04
+Country: Turkey | Location: Erdemli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Property destruction: On 4 December 2017, unknown assailants attacked HDP's district organization building with gunfire in Erdemli, Mersin. Only material damage occurred.
+
+---
+
+[EVENT: TUR1326]
+Date: 2017-12-05
+Country: Turkey | Location: Nusaybin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Defusal: On Tuesday, 5 December 2017, the Turkish Military Forces defused 3 handmade explovise devices that were found during a search in the Nusaybin district of the Mardin province.
+
+---
+
+[EVENT: TUR23094]
+Date: 2017-12-05
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 5 December 2017, Bitlis governor's office declared a curfew order in total 11 villages in the central district of Bitlis, effective until further notice due to ongoing military operations.
+
+---
+
+[EVENT: TUR23105]
+Date: 2017-12-08
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 8 December 2017, Diyarbakir governor's office declared a curfew order in total 51 villages in Silvan, Hazro, Kocakoy, Kulp and Lice districts, effective until further notice due to ongoing military operations.
+
+---
+
+[EVENT: TUR23117]
+Date: 2017-12-10
+Country: Turkey | Location: Mardin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 10 December 2017, Mardin governor's office declared a curfew order in 6 rural villages across Dargecit and Nusaybin districts, effective until further notice due to ongoing military operations.
+
+---
+
+[EVENT: TUR23119]
+Date: 2017-12-11
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 11 December 2017, Bitlis governor's office declared a curfew order in total 9 villages and 2 neighborhoods in Tatvan and Mutki districts, effective until further notice due to ongoing military operations.
+
+---
+
+[EVENT: TUR23132]
+Date: 2017-12-12
+Country: Turkey | Location: Kahramanmaras
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 12 December 2017, Kahramanmaras Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 30 days as part of the security measures related to public order.
+
+---
+
+[EVENT: TUR23123]
+Date: 2017-12-13
+Country: Turkey | Location: Hasankeyf
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 13 December 2017, Batman governor's office declared a curfew order in total 4 villages in Hasankeyf district, effective until further notice due to ongoing military operations.
+
+---
+
+[EVENT: TUR1370]
+Date: 2017-12-19
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Arrests: The Turkish Police Forces arrested 51 PKK-linked suspects in 5 different districts of the Izmir province on Tuesday, 19 December 2017.
+
+---
+
+[EVENT: TUR1371]
+Date: 2017-12-19
+Country: Turkey | Location: Semdinli
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Defusal: The Turkish Gendarmerie Forces defused several hand-made improvised explosive devices made by the PKK militants in the Semdinli district of the Hakkari province on Tuesday, 19 December 2017.
+
+---
+
+[EVENT: TUR1372]
+Date: 2017-12-20
+Country: Turkey | Location: Tatvan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: The Turkish Gendarmerie Forces detonated 3 improvised explosive devices that belong to the PKK militants in the Tatvan district of the Bitlis province on Wednesday, 20 December 2017.
+
+---
+
+[EVENT: TUR1373]
+Date: 2017-12-21
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: The Turkish Police Forces arrested 112 suspected IS militants in the provinces of Istnabul, Izmir, Eskisehir, Kahramanmaras, Bursa, Kayseri, Sanliurfa, Samsun during the week of 21 Decemmber 2017.
+
+---
+
+[EVENT: TUR6210]
+Date: 2017-12-27
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: Police arrested 175 people for suspected Islamic State links in the days leading up to New Years Eve in Istanbul.

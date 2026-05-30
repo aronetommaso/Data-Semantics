@@ -1,0 +1,1013 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Turkey (ISO Code: 792)
+Temporal Period: Year 2018 - Quarter Q4
+Total Events in Chunk: 75 / 75
+==================================================
+
+[EVENT: TUR21973]
+Date: 2018-10-01
+Country: Turkey | Location: Lice
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 1 October 2018, it was reported the Turkish military had started an operation against suspected PKK militants in Diyarbakir's Lice district. No information was available as to whether clashes had already occurred between the two sides.
+
+---
+
+[EVENT: TUR6684]
+Date: 2018-10-01
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 25 people including former public workers were detained in Ankara on October 1 during the operations of Police Forces targeting Gulen movement supporters.
+
+---
+
+[EVENT: TUR21974]
+Date: 2018-10-02
+Country: Turkey | Location: Lice
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 2 October 2018, it was reported the Turkish military together with Gendarmerie and Special Operations police were continuing an operation against suspected PKK militants in Diyarbakir's Lice district. No information was available as to whether clashes had already occurred between the two sides.
+
+---
+
+[EVENT: TUR21975]
+Date: 2018-10-03
+Country: Turkey | Location: Kozluk
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 3 October 2018, the governorate of Batman issued a ban on 'irrelevant entry by vehicle and gathering of persons' in Kozluk district, valid until October 8. The ban was issued as the body of a man who had self-immolated in protest during a visit by the Turkish president in Germany was brought to Kozluk and as members of parliament from the opposition HDP party stated they planned to attend related farewell ceremonies in Kozluk.
+
+---
+
+[EVENT: TUR21983]
+Date: 2018-10-03
+Country: Turkey | Location: Judi Mountain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 3 October 2018, it was reported that a large number of Turkish military vehicles were deployed to the Judi Mountain area in Sirnak province ahead of a suspected planned military operation.
+
+---
+
+[EVENT: TUR21981]
+Date: 2018-10-04
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 4 October 2018, the governorate of Diyarbakir declared a curfew until further notice in 65 villages and hamlets in Lice and Hani districts of Diyarbakir province due to an ongoing military operation.
+
+---
+
+[EVENT: TUR21982]
+Date: 2018-10-04
+Country: Turkey | Location: Siirt
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 4 October 2018, the governorate of Siirt declared a curfew in a number of villages in Siirt (Merkez) and Aydinlar (Tillo) districts of Siirt province due to an ongoing military operation and lifted it on the same day.
+
+---
+
+[EVENT: TUR6720]
+Date: 2018-10-06
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Hurriyet Daily [National]
+
+DESCRIPTION:
+Arrests: As reported on October 6, 137 people were suspected to be PKK members or supporters were detained in 13 provinces of Turkey.
+
+---
+
+[EVENT: TUR6714]
+Date: 2018-10-06
+Country: Turkey | Location: Agri
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+Arrests: As reported on October 6, 49 people including HDP members were arrested throughout Turkey on allegations of supporting the PKK, 25 of the detained were in Agri province.
+
+---
+
+[EVENT: TUR21998]
+Date: 2018-10-08
+Country: Turkey | Location: Dargecit
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 8 October 2018, it was reported soldiers blocked entrance to two villages in Mardin's Dargecit district to all except locals, due to arrests being conducted there following an attack on Turkish soldiers in Gercus district on October 4 carried out by suspected PKK militants.
+
+---
+
+[EVENT: TUR6739]
+Date: 2018-10-09
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+Arrests: On October 9, 141 people were detained on suspicion of being PKK and KCK supporters in Diyarbakir province during a Police operation. It was reported that some HDP, KCK, DTK, TJA members, activist, journalists and a university professor were amongst the detained.
+
+---
+
+[EVENT: TUR6761]
+Date: 2018-10-12
+Country: Turkey | Location: Kale
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey; Stockholm Center for Freedom [Other-National]
+
+DESCRIPTION:
+Displacement: As reported on October 12, 927 Syrian refugees were removed from Kale district following heightened tensions over a child abuse scandal which several Syrians were reportedly involved in.
+
+---
+
+[EVENT: TUR22017]
+Date: 2018-10-12
+Country: Turkey | Location: Gaziantep
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 12 October 2018, the governorate of Gaziantep extended the validity of the 'special security zone' along the province's border with Syria to 26 October 2018. All entries of people and vehicles into the zone were to be controlled by police and gendarmerie, who received the right to forbid entry and apply additional security measures.
+
+---
+
+[EVENT: TUR22027]
+Date: 2018-10-14
+Country: Turkey | Location: Hizan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 14 October 2018, the governorate of Bitlis declared a curfew in a village and its surrounding hamlets in Hizan district due to an ongoing military operation, valid until 15 October 2018 06H00.
+
+---
+
+[EVENT: TUR6772]
+Date: 2018-10-15
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Arrests: On October 15, police arrested 36 suspects from the Turkish Air Force who are suspected Gulen members. The operation was led by Ankara police unit but the arrests took place across 18 provinces
+
+---
+
+[EVENT: TUR22034]
+Date: 2018-10-15
+Country: Turkey | Location: Hani
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Special Forces [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 15 October 2018, Special Forces units of the Turkish military started an operation directed at suspected PKK militants in Hani district (Diyarbakir). Roads leading to two villages in the district were closed due the operation.
+
+---
+
+[EVENT: TUR6777]
+Date: 2018-10-16
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Arrests: On October 16, police forces arrested 30 people working at the Gendarmerie military headquarters in Ankara. They were arrested for being suspected Gulen members
+
+---
+
+[EVENT: TUR22041]
+Date: 2018-10-20
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 20 October 2018, the governorate of Hakkari extended the validity of 30 'special security zones' across Hakkari province for another 15 days. Unauthorized entry to the zones was forbidden from 21 October to 4 November 2018.
+
+---
+
+[EVENT: TUR6821]
+Date: 2018-10-25
+Country: Turkey | Location: Mugla
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Property destruction: On October 25, Kurdistan Socialist Party (PSK) Mugla Branch was attacked by unknown perpetrators. The door of the party was broken. The attack was stated as a racist anti-Kurdish attack.
+
+---
+
+[EVENT: TUR22050]
+Date: 2018-10-26
+Country: Turkey | Location: Gaziantep
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 26 October 2018, the governorate of Gaziantep extended the validity of the 'special security zone' along the province's border with Syria to 9 November 2018. All entries of people and vehicles into the zone were to be controlled by police and gendarmerie, who received the right to forbid entry and take additional security measures.
+
+---
+
+[EVENT: TUR22053]
+Date: 2018-10-27
+Country: Turkey | Location: Judi Mountain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 27 October 2018, military helicopters headed towards the Judi Mountain area from a local Gendarmerie base in Sirnak's Cizre district. A 'large number' of military vehicles were also seen leaving Sirnak district in the same direction.
+
+---
+
+[EVENT: TUR22057]
+Date: 2018-10-29
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 29 October 2018, the governorate of Diyarbakir declared a curfew until further notice in 76 villages and hamlets in Lice, Kocakoy and Hazro districts. The curfew ended on 1 November 2018 at 02H00.
+
+---
+
+[EVENT: TUR22061]
+Date: 2018-10-30
+Country: Turkey | Location: Hizan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 30 October 2018, the governorate of Bitlis issued a curfew for 5 villages and 6 hamlets in Hizan district due to an ongoing military operation, valid every day until further notice from 18H00 to 07H00, for all exits from home except those linked to education.
+
+---
+
+[EVENT: TUR22063]
+Date: 2018-10-30
+Country: Turkey | Location: Gabar Mountain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 30 October 2018, a military operation against suspected PKK militants involving soldiers and village guards started in the Gabar Mountain area (Sirnak). Military aircrafts were also seen heading towards the area, entry to which was blocked for civilians.
+
+---
+
+[EVENT: TUR22064]
+Date: 2018-10-31
+Country: Turkey | Location: Batman
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Arrests: On 31 October 2018, police arrested the co-head of Batman Municipality (co-head of Batman province) from the DBP party, along with approximately 10 other politicians of unspecified political affiliation. Charges were not specified.
+
+---
+
+[EVENT: TUR6852]
+Date: 2018-11-01
+Country: Turkey | Location: Ceylanpinar
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Hurriyet Daily [National]
+
+DESCRIPTION:
+Weapons seizure: On November 1, Turkish police found a vehicle loaded with 247.8 kilograms of explosives and other weapons on Ceylanp?nar-K?z?ltepe highway in Mardin province. The materials were claimed to be brought by PKK and YPG militants from Syria.
+
+---
+
+[EVENT: TUR22077]
+Date: 2018-11-03
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 3 November 2018, the governorate of Hakkari created 30 'special security zones' across Hakkari province, unauthorized entry to which was forbidden from 5 November to 19 November 2018.
+
+---
+
+[EVENT: TUR22098]
+Date: 2018-11-06
+Country: Turkey | Location: Balveren
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 6 November 2018, it was reported that Turkish army units had started an operation around Balveren (Sirnak Merkez district), stopping and searching people and vehicles in the area.
+
+---
+
+[EVENT: TUR22099]
+Date: 2018-11-07
+Country: Turkey | Location: Lice
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 7 November 2018, the governorate of Diyarbakir declared a curfew in 73 villages and hamlets across Lice district due to an ongoing military operation. The curfew ended on 9 November at 24H00.
+
+---
+
+[EVENT: TUR22108]
+Date: 2018-11-09
+Country: Turkey | Location: Lice
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: Around 9 November 2018 (as reported), a Turkish military operation against suspected PKK militants in 73 villages of Lice district (Diyarbakir) had entered its 4th day. Multiple military checkpoints were established in the area, and movement of military helicopters and drones was also observed. No information was available as to potential combat or casualties.
+
+---
+
+[EVENT: TUR6893]
+Date: 2018-11-09
+Country: Turkey | Location: Semdinli
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 7
+Sources: Cumhuriyet; People's Defense Forces; Daily Sabah; Yeni Safak [Other-National]
+
+DESCRIPTION:
+Detonation: On November 9, 7 Turkish soldiers were killed and 25 injured after an accidental explosion of defective ammunition occurred during artillery shooting at Sungu Tepe Base, Semdinli, Hakkari. HPG claimed that the PKK attacked the base and caused the incident by firing mortars at the soldiers. HPG reported 17 fatalities but due to the discrepancy, only the 7 confirmed fatalities are coded. Multiple Turkish sources including the president denied that there was a battle and stated that the deaths were caused by an accident. Ministry of Defense announced on 22 November explained the reasons for the explosion in the official report and concluded it was an accident.
+
+---
+
+[EVENT: TUR6892]
+Date: 2018-11-09
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Hurriyet Daily [National]
+
+DESCRIPTION:
+Arrests: On November 9, at least 74 on-duty soldiers have been arrested as a part of a probe into Gulen Movement, believed to have been behind the 2016 defeated coup attempt. Police conducted Istanbul-based, simultaneous operations in 32 provinces.
+
+---
+
+[EVENT: TUR22109]
+Date: 2018-11-09
+Country: Turkey | Location: Gaziantep
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 9 November 2018, the governorate of Gaziantep extended the validity of the 'special security zone' along the province's border with Syria to 23 November 2018. All entries of people and vehicles into the zone were to be controlled by police and gendarmerie, who received the right to forbid entry and take additional security measures. It was reported this was the 5th consecutive extension of this special security zone.
+
+---
+
+[EVENT: TUR22115]
+Date: 2018-11-11
+Country: Turkey | Location: Bingol
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 11 November 2018, the governorate of Bingol created 26 'temporary special security zones' across Bingol province, unauthorized entry to which was forbidden from 11 November to 25 November 2018.
+
+---
+
+[EVENT: TUR6911]
+Date: 2018-11-11
+Country: Turkey | Location: Ercis
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Property Destruction: On November 11, Police and Gendarmerie Forces were reported to have evacuated a civilian house and started a fire while throwing gas canisters inside, causing property damage, in Ercis district of Van.
+
+---
+
+[EVENT: TUR6932]
+Date: 2018-11-16
+Country: Turkey | Location: Uludere
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 1
+Sources: Haberturk; Mezopotamya Agency; Bianet [National]
+
+DESCRIPTION:
+Detonation: On 16 November 2018, an explosion took place during a mortar fire exercise for military training purposes at the Bilic Tepe Base Area in Uludere district of Sirnak. One soldier was killed and four injured.
+
+---
+
+[EVENT: TUR22125]
+Date: 2018-11-16
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 16 November 2018, the governorate of Hakkari extended the validity of 30 'special security zones' across Hakkari province, unauthorized entry to which was forbidden from 20 November to 4 December 2018.
+
+---
+
+[EVENT: TUR6930]
+Date: 2018-11-16
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Arrests: On November 16, 93 people were detained by the Police Forces in Diyarbakir province as they were accused of being PKK members and planning some of the past attacks.
+
+---
+
+[EVENT: TUR22124]
+Date: 2018-11-16
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 16 November 2018, the governorate of Diyarbakir issued a ban on all protests within Diyarbakir city limits for a period of 15 days. HDP politicians and DTK activists claimed the ban was introduced to prevent planned protests demanding an end to the visit ban enforced on the imprisoned head of PKK.
+
+---
+
+[EVENT: TUR22139]
+Date: 2018-11-23
+Country: Turkey | Location: Gaziantep
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 23 November 2018, the governorate of Gaziantep extended the validity of the 'special security zone' along the province's border with Syria to 7 December 2018. All entries of people and vehicles into the zone were to be controlled by police and gendarmerie, who received the right to forbid entry and take additional security measures. It was reported that this was the 6th consecutive extension of this special security zone.
+
+---
+
+[EVENT: TUR22145]
+Date: 2018-11-23
+Country: Turkey | Location: Artuklu
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 23 November 2018, the district governorship of Artuklu banned demonstrations planned by women's organizations in Mardin city on 25 November, on International Day for the Elimination of Violence Against Women. The governorship justified its decision by claiming that 'terrorist elements' intended to appear at these demonstrations with the 'excuse' of supporting women's rights, and said the events could take place indoors or in one of the city's parks.
+
+---
+
+[EVENT: TUR6968]
+Date: 2018-11-24
+Country: Turkey | Location: Agri
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: Between November 20 and 27, 544 people who were accused of being PKK supporters were detained during the operations of Police Forces in various provinces of Turkey. 49 people were detained in Agri province.
+
+---
+
+[EVENT: TUR6966]
+Date: 2018-11-24
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: Between November 20 and 27, 544 people who were accused of being PKK supporters were detained during the operations of Police Forces in various provinces of Turkey. 36 people were detained in Istanbul province.
+
+---
+
+[EVENT: TUR6970]
+Date: 2018-11-24
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: Between November 20 and 27, 544 people who were accused of being PKK supporters were detained during the operations of Police Forces in various provinces of Turkey. 58 people were detained in Agri province.
+
+---
+
+[EVENT: TUR6969]
+Date: 2018-11-24
+Country: Turkey | Location: Mardin
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: Between November 20 and 27, 544 people who were accused of being PKK supporters were detained during the operations of Police Forces in various provinces of Turkey. 27 people were detained in Mardin province.
+
+---
+
+[EVENT: TUR6967]
+Date: 2018-11-24
+Country: Turkey | Location: Van
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Arrests: Between November 20 and 27, 544 people who were accused of being PKK supporters were detained during the operations of Police Forces in various provinces of Turkey. 42 people were detained in Van province.
+
+---
+
+[EVENT: TUR22146]
+Date: 2018-11-24
+Country: Turkey | Location: Cizre
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 24 November 2018, police began enforcing a ban on workplaces staying open after midnight in Cizre city, which would have been adopted by the Cizre district governorship. No written document was published detailing the ban or the reasons for it. Officials at the district governorship told shopkeepers the ban was temporary and was also being applied in the central Sirnak district, and a few other districts of Sirnak province.
+
+---
+
+[EVENT: TUR22153]
+Date: 2018-11-26
+Country: Turkey | Location: Cankaya
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Arrests: On 26 November 2018, police arrested the co-head of the SES trade union in Ankara's Cankaya district, as well as a large number of SES, Tumbel-Sen and HDP leaders across Turkey, including close to 20 people in Izmir.
+
+---
+
+[EVENT: TUR22150]
+Date: 2018-11-26
+Country: Turkey | Location: Lice
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 26 November 2018, the governorate of Diyarbakir declared a curfew in 11 villages and hamlets in Lice district due to an ongoing military operation. The curfew was lifted two days later.
+
+---
+
+[EVENT: TUR6981]
+Date: 2018-11-26
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: On November 26, 40 on duty soldiers were detained by Police Forces on suspicion of being supporters of Gulen Movement and participating military coup attempt of July 2016, in Ankara province.
+
+---
+
+[EVENT: TUR6986]
+Date: 2018-11-27
+Country: Turkey | Location: Sanliurfa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Aydinlik [National]
+
+DESCRIPTION:
+Arrests: On 27 November 2018, at least 28 people who were accused of being PKK supporters were detained by police in Sanliurfa province. At least 20 more people in Istanbul and at least 7 more in Malatya were arrested as part of this operation.
+
+---
+
+[EVENT: TUR6985]
+Date: 2018-11-27
+Country: Turkey | Location: Sirnak
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Aydinlik [National]
+
+DESCRIPTION:
+Arrests: As reported on November 27, 50 people who were accused of being PKK supporters were detained during the operations of Police Forces in Sirnak province.
+
+---
+
+[EVENT: TUR22164]
+Date: 2018-11-29
+Country: Turkey | Location: Hatay
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 29 November 2018, the governorate of Hatay extended the validity of the 'special security zones' previously established along some segments of the province's border with Syria. Unauthorized entry of all citizens including journalists was forbidden, with the exception of local inhabitants and agricultural landowners for agricultural works from dawn to dusk.
+
+---
+
+[EVENT: TUR22944]
+Date: 2018-12-02
+Country: Turkey | Location: Hizan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 2 December 2018, Bitlis governor's office declared a curfew order in total 6 villages and 11 rural zones in Hizan district of the province, effective until further notice due to ongoing military operations.
+
+---
+
+[EVENT: TUR22941]
+Date: 2018-12-02
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 2 December 2018, Diyarbakir governor's office declared a curfew order in total 37 villages in Hani and Lice districts of the province, effective until further notice due to ongoing military operations.
+
+---
+
+[EVENT: TUR7029]
+Date: 2018-12-03
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Arrests: On December 3, 55 people were detained in Istanbul province in a probe into Gulen movement suspected to be behind the 2016 defeated coup, by the police sources.
+
+---
+
+[EVENT: TUR7024]
+Date: 2018-12-03
+Country: Turkey | Location: Kocasinan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Property destruction: On 3 December 2018, a group of unknown people attacked and damaged the building of CHP Kocasinan Branch in Kocasinan town of Kayseri.
+
+---
+
+[EVENT: TUR22947]
+Date: 2018-12-04
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 4 December 2018, Hakkari governor's office declared total 30 zones in Yuksekova, Cukurca, Semdinli and the central districts of the province 'special security zones', banning citizens' entry for 15 days due to security risks.
+
+---
+
+[EVENT: TUR7041]
+Date: 2018-12-06
+Country: Turkey | Location: Sanliurfa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Mezopotamya Agency; Aydinlik [National]
+
+DESCRIPTION:
+Arrests: On 6 December 2018, 47 HDP members were detained in a police raid into the HDP's Sanliurfa Branch, following the 3-day-long hunger strike protest event staged against the strict isolation policy imposed on Abdullah Ocalan, the leader of PKK who is kept in jail by Turkish authorities in solitary confinement. The arrests were made based on the allegation that group chanted slogans in support of PKK during the protest.
+
+---
+
+[EVENT: TUR7043]
+Date: 2018-12-07
+Country: Turkey | Location: Kulp
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Karar [Regional]
+
+DESCRIPTION:
+Weapons seizure: As reported on December 7, 250 kg of explosives belonging to PKK were seized during a military operation in Kulp district of Diyarbakir targeting PKK shelters.
+
+---
+
+[EVENT: TUR7042]
+Date: 2018-12-07
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Yeni Safak [National]
+
+DESCRIPTION:
+Arrests: On December 7, 41 former Turkish Air Force personnel were arrested in Ankara in a probe into Gulen movement suspected to be behind the 2016 defeated coup, during an operation of police forces.
+
+---
+
+[EVENT: TUR7055]
+Date: 2018-12-10
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: On December 10, 25 TJA members were detained after a police raid on the HDP Diyarbakir Branch, on account of staging a hunger strike in protest of long term solitary confinement of PKK leader.
+
+---
+
+[EVENT: TUR7056]
+Date: 2018-12-10
+Country: Turkey | Location: Batman
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: On December 10, 29 TJA members were detained after a police raid on the HDP Batman Branch, on account of staging a hunger strike in protest of long term solitary confinement of PKK leader.
+
+---
+
+[EVENT: TUR22966]
+Date: 2018-12-11
+Country: Turkey | Location: Bingol
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 11 December 2018, Bingol governor's office declared total 26 areas in different districts of the province 'special security zones', banning citizens' entry for 15 days due to security risks.
+
+---
+
+[EVENT: TUR7067]
+Date: 2018-12-12
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: On December 12, 50 people including HDP members were detained after a police raid on the HDP Diyarbakir Branch, on account of staging a hunger strike in protest of long term solitary confinement of PKK leader.
+
+---
+
+[EVENT: TUR22968]
+Date: 2018-12-13
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 13 December 2018, Diyarbakir governor's office declared total 21 neighborhoods in Lice, Kulp and Silvan districts of the province 'special security zones', banning citizens' entry until further notice due to ongoing military operations.
+
+---
+
+[EVENT: TUR22970]
+Date: 2018-12-13
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 13 December 2018, Van Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings near all the prison facilities (within their 1 km perimeter) in the province as well as at several usual demonstration venues in the city (such as outside governor's office, parks, squares etc.) until further notice, in order to prevent the expected protest events aiming to express solidarity with prisoners.
+
+---
+
+[EVENT: TUR7103]
+Date: 2018-12-19
+Country: Turkey | Location: Saricam
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Property destruction: On December 19, a group of unknown people opened fire at the building of Iyi Party Saricam Branch in Saricam town of Adana.
+
+---
+
+[EVENT: TUR22978]
+Date: 2018-12-20
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 20 December 2018, Hakkari governor's office declared total 30 zones in Yuksekova, Cukurca, Semdinli and the central districts of the province 'special security zones', banning citizens' entry for 15 days due to security risks.
+
+---
+
+[EVENT: TUR22993]
+Date: 2018-12-23
+Country: Turkey | Location: Lice
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 23 December 2018, Diyarbakir governor's office declared a curfew order in 2 villages and 5 rural zones in Lice district of the province, effective until further notice due to ongoing military operations. The curfew order was later removed on 24 December.
+
+---
+
+[EVENT: TUR22998]
+Date: 2018-12-26
+Country: Turkey | Location: Lice
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 26 December 2018, Diyarbakir governor's office declared a curfew order in 2 villages and 5 rural zones in Lice district of the province, effective until further notice due to ongoing military operations. The curfew order was later removed on 27 December.
+
+---
+
+[EVENT: TUR7131]
+Date: 2018-12-26
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Arrests: On December 26, 46 people including former military officers were detained during the operations of Police Forces in Izmir city, on suspicion of supporting Gulen movement, which is accused of July 2016 military coup attempt.
+
+---
+
+[EVENT: TUR7129]
+Date: 2018-12-26
+Country: Turkey | Location: Derecik
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Weapons seizure: On December 26, 660 blank cartridge pistols and 12000 rifle cartridges claimed to be belong to PKK were seized in Basakli area of Derecik, Semdinli, Hakkari by the Gendarmerie Forces.
+
+---
+
+[EVENT: TUR7138]
+Date: 2018-12-28
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Aydinlik [National]
+
+DESCRIPTION:
+Arrests: As reported on December 28, 52 people were detained in Ankara city during the operations of Police Forces targeting people supporting Islamic State.
+
+---
+
+[EVENT: TUR7142]
+Date: 2018-12-29
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Weapons seizure: On December 29, 160 kg of explosives belonging to PKK were seized by the Gendarmerie Forces in the outskirts of Bitlis city.

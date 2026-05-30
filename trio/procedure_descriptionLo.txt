@@ -1,0 +1,364 @@
+================================================================================
+  ACLED CONFLICT KNOWLEDGE GRAPH + GRAPHRAG PIPELINE
+  Data Semantics 2025/2026
+================================================================================
+
+Questo documento descrive in modo preciso e completo tutto ciò che è stato
+implementato nel progetto, lo stato attuale, e gli scenari futuri previsti.
+
+
+================================================================================
+  1. OBIETTIVO
+================================================================================
+
+Partendo da un dataset grezzo di conflitti armati (ACLED, Medio Oriente), il
+progetto costruisce un sistema ibrido capace di rispondere a domande complesse
+su pattern di violenza, attori, escalation temporali e dinamiche geopolitiche.
+
+Il sistema integra due tecnologie complementari:
+
+  - Un Knowledge Graph RDF/OWL interrogabile con SPARQL (retrieval preciso)
+  - Una pipeline GraphRAG per reasoning globale su testo narrativo (LLM)
+
+I due layer non sono alternativi: sono progettati per dialogare attraverso un
+bridge che aggancia i risultati narrativi di GraphRAG alle triple esatte del KG.
+
+
+================================================================================
+  2. DATASET
+================================================================================
+
+Sorgente:   ACLED (Armed Conflict Location & Event Data Project)
+Copertura:  Medio Oriente, 15 paesi
+Periodo:    2015-01-03 / 2023-12-31
+Righe:      91.893 eventi
+Attori:     1.035 unici (actor1)
+
+Colonne selezionate (19):
+  event_id_cnty, event_date, disorder_type, event_type, sub_event_type,
+  actor1, inter1, actor2, inter2, iso, country, location,
+  latitude, longitude, source, source_scale, fatalities, notes, tags
+
+La colonna 'notes' contiene descrizioni narrative di ogni evento. Analisi
+preliminare ha rilevato che questa colonna porta informazioni non presenti
+nei campi strutturati:
+  - 6.428 eventi con feriti/arrestati ma fatalities=0
+  - 22.181 eventi con armi/tattiche specifiche (droni, razzi, IED)
+  - 369 eventi dove Hezbollah appare nelle notes ma non in actor1/actor2
+
+Per questo motivo 'notes' viene inclusa nei documenti GraphRAG come sezione
+DESCRIPTION, non ignorata.
+
+
+================================================================================
+  3. FASE 1 — PREPROCESSING E 4 CSV PULITI
+================================================================================
+
+Script: preprocessing_cle2.py
+
+Il CSV grezzo viene trasformato in 4 file puliti con URI precalcolati,
+pronti per il mapping RML e per la costruzione del KG.
+
+Funzione slugify: normalizza i nomi degli attori e delle fonti in slug
+URI-safe stabili. Es: "Hamas Movement" → hamas-movement
+
+Schema URI:
+  Namespace ontologia: http://data-semantics-2526.org/acled/ontology#
+  Namespace istanze:   http://data-semantics-2526.org/acled/resource/
+
+  Evento  → resource/event/{event_id_cnty}
+  Attore  → resource/actor/{slug(nome)}
+  Paese   → resource/country/{iso}
+  Fonte   → resource/source/{slug(nome)}
+
+File prodotti:
+
+  events.csv    — 91.893 righe, 1 per evento
+                  Contiene: tutti i campi strutturati + actor1_uri + actor2_uri
+                  NON contiene: la colonna source (spostata in sources.csv)
+
+  actors.csv    — 1.323 righe, 1 per attore unico
+                  Colonne: actor_uri, actor_name, inter, owl_class
+                  owl_class mappa inter → classe OWL:
+                    "State forces"      → conf:StateForces
+                    "Rebel group"       → conf:RebelGroup
+                    "Political militia" → conf:PoliticalMilitia
+                    ecc.
+
+  sources.csv   — 157.173 righe, 1 per coppia evento-fonte
+                  Costruito con .explode() su ';' — ogni fonte diventa una riga
+                  Colonne: event_uri, source_uri, event_id_cnty, source
+
+  countries.csv — 15 righe, 1 per paese
+                  Colonne: country_uri, iso, country
+
+
+================================================================================
+  4. FASE 2 — ONTOLOGIA OWL
+================================================================================
+
+File: acled_ontologyCle.ttl
+Formato: Turtle (.ttl)
+Validata con: Protégé + HermiT reasoner
+
+L'ontologia definisce lo schema del KG. Va importata in GraphDB PRIMA dei dati.
+
+4 classi principali:
+  conf:ConflictEvent  — ogni evento ACLED
+  conf:Actor          — classe astratta, non si istanzia direttamente
+  conf:Country        — ogni paese
+  conf:Source         — ogni fonte giornalistica
+
+8 sottoclassi di Actor (mappate da inter1/inter2):
+  conf:StateForces      (21.885 occorrenze nel dataset)
+  conf:RebelGroup       ( 7.518)
+  conf:PoliticalMilitia (12.682)
+  conf:IdentityMilitia  ( 1.306)
+  conf:Rioters          ( 6.304)
+  conf:Protesters       (18.048)
+  conf:Civilian         (   676)
+  conf:ExternalOther    (23.474)
+
+La gerarchia rdfs:subClassOf attiva il reasoning automatico in GraphDB:
+una query su conf:Actor restituisce tutte le istanze di tutte le sottoclassi
+senza scrivere 8 query separate.
+
+4 Object Properties:
+  conf:hasActor1   ConflictEvent → Actor
+  conf:hasActor2   ConflictEvent → Actor
+  conf:locatedIn   ConflictEvent → Country
+  conf:reportedBy  ConflictEvent → Source
+
+Data Properties tipizzate:
+  conf:eventDate    xsd:date     — permette ordinamento temporale in SPARQL
+  conf:fatalities   xsd:integer  — permette FILTER(?fatalities > 50)
+  conf:latitude     xsd:decimal
+  conf:longitude    xsd:decimal
+  conf:notes        xsd:string   — testo narrativo dell'evento
+  conf:actorName    xsd:string
+  conf:countryName  xsd:string
+  conf:isoCode      xsd:integer
+  conf:sourceName   xsd:string
+  (+ disorderType, eventType, subEventType, locationName, sourceScale, tags)
+
+
+================================================================================
+  5. FASE 3 — MATERIALIZZAZIONE DEL KNOWLEDGE GRAPH
+================================================================================
+
+Script: kg_builder_final.py
+Output: acled_kg.ttl
+
+Lo script legge i 4 CSV e produce il file Turtle definitivo con tutte le triple.
+
+Scelte architetturali dello script:
+  - Chunking Pandas (blocchi da 10k/20k righe) per contenere l'uso di RAM
+  - URI con slash convertiti in URI assoluti tra <> per validità Turtle
+  - Aggregazione delle fonti per evento con sintassi contratta Turtle
+    (più oggetti separati da virgola per lo stesso predicato)
+  - Escaping dei caratteri speciali in 'notes' per non rompere la struttura
+
+Forma del grafo prodotto (esempio):
+
+  <.../event/PSE42801>
+      a conf:ConflictEvent ;
+      conf:eventDate "2023-12-31"^^xsd:date ;
+      conf:fatalities "0"^^xsd:integer ;
+      conf:locatedIn <.../country/275> ;
+      conf:hasActor1 <.../actor/hamas-movement> ;
+      conf:hasActor2 <.../actor/military-forces-of-israel-2022> ;
+      conf:notes "On 31 December 2023..."^^xsd:string .
+
+  <.../actor/hamas-movement>
+      a conf:PoliticalMilitia ;
+      conf:actorName "Hamas Movement"^^xsd:string .
+
+  <.../event/PSE42801>
+      conf:reportedBy <.../source/arab-48> ,
+                      <.../source/twitter> .
+
+Stato: acled_kg.ttl generato e pronto per import in GraphDB.
+       L'import avviene in due step: prima l'ontologia, poi i dati.
+
+
+================================================================================
+  6. FASE 4 — DOCUMENT ENGINEERING PER GRAPHRAG
+================================================================================
+
+Script: build_graphrag_docs.py
+Output: cartella graphrag_input/ (440 file .txt) + event_index.json
+
+Strategia: ogni documento contiene tutti gli eventi di un paese in un
+trimestre, in formato ibrido strutturato + narrativo.
+
+Perché ibrido e non solo 'notes' grezze:
+  GraphRAG fa NER sul testo. Fornendo le entità già disambiguate e tipizzate
+  nell'header di ogni record, il grafo interno di GraphRAG risulta coerente
+  con il KG RDF per costruzione — non per caso. Si evita che "IDF" e
+  "Military Forces of Israel" vengano trattati come entità separate.
+
+Formato di ogni record nel documento:
+
+  [EVENT: PSE42801]
+  Date: 2023-12-31
+  Country: Palestine | Location: Bani Suheila
+  Type: Battles > Armed clash | Disorder: Political violence
+  Actor1: Hamas Movement [PoliticalMilitia]
+  Actor2: Military Forces of Israel (2022-) [ExternalOther]
+  Fatalities: 0
+  Sources: Arab 48; Twitter [New media-National]
+
+  DESCRIPTION:
+  On 31 December 2023, Hamas militants clashed with IDF troops...
+
+  ---
+
+Raggruppamento: paese + trimestre
+  Motivazione: bilancia granularità semantica (stesso contesto geopolitico)
+  e dimensione dei documenti (evita file troppo piccoli o troppo grandi).
+
+Cap automatico: 800 eventi per file con split e warning esplicito.
+  Trimestri critici rilevati:
+    Palestine Q4 2023: 7.321 eventi → 10 file
+    Syria Q3/Q4 2023: 3.800-4.100 eventi → 5-6 file
+    Yemen, Iraq, Turkey 2023: split in 2-3 file per trimestre
+
+Statistiche output:
+  Documenti prodotti:   440 file .txt
+  Eventi mappati:       91.893 / 91.893 (integrità verificata, 0 mancanti)
+  Paesi coperti:        15
+  File event_index.json: mappa ogni doc_id → lista di event_id_cnty
+
+Verifica integrità eseguita:
+  - Totale event_id nell'index = 91.893 (nessun mancante, nessun duplicato)
+
+
+================================================================================
+  7. FASE 5 — CONFIGURAZIONE GRAPHRAG 3.1.0
+================================================================================
+
+File: settings.yaml
+
+Modello LLM:       Gemini 2.0 Flash Lite (Google AI Studio, gratuito)
+                   Scelto perché supporta structured outputs con JSON schema,
+                   requisito obbligatorio per l'estrazione entità di GraphRAG.
+                   Rate limit configurato: 14 req/min (piano free: 15 req/min)
+
+Modello embedding: nomic-embed-text via Ollama (locale, gratuito, zero latency)
+                   Endpoint: http://localhost:11434
+
+Chunk size:        2.400 token, overlap 200
+                   Ragionamento: i record ACLED sono ~200-400 token ciascuno.
+                   Con 2.400 si contengono ~6-10 eventi per chunk senza
+                   spezzare la sezione DESCRIPTION a metà.
+
+Encoding model:    cl100k_base (compatibile con modelli non-OpenAI)
+
+Entity types configurati (allineati alle classi OWL dell'ontologia):
+  StateForces, RebelGroup, PoliticalMilitia, IdentityMilitia,
+  Rioters, Protesters, Civilian, ExternalOther, Location
+
+Stato: settings.yaml configurato. Indexing NON ancora eseguito.
+       Test pianificato su graphrag_test/ (5 documenti) prima del run completo.
+
+
+================================================================================
+  8. ARCHITETTURA DEL SISTEMA COMPLETO
+================================================================================
+
+                        [ CSV ACLED grezzo ]
+                               |
+                    preprocessing_cle2.py
+                               |
+              ┌────────────────┴────────────────┐
+              │                                 │
+    4 CSV puliti                          acled_kg.ttl
+    (events, actors,                    (Knowledge Graph
+     sources, countries)                 materializzato)
+              │                                 │
+    build_graphrag_docs.py                   GraphDB
+              │                                 │
+    440 .txt ibridi                    SPARQL endpoint
+    + event_index.json                          │
+              │                                 │
+    GraphRAG index                              │
+    (da fare)                                   │
+              │                                 │
+    Community Reports ──────────────────────────┤
+              │                                 │
+              └──────────── BRIDGE ─────────────┘
+                               │
+                          [ Query utente ]
+                               │
+                    GraphRAG: reasoning globale
+                               │
+                    event_index.json: doc_id → event_id
+                               │
+                    SPARQL: retrieval preciso su GraphDB
+                               │
+                    LLM: sintesi narrativa + dati esatti
+
+
+================================================================================
+  9. PROSSIMI PASSI
+================================================================================
+
+STEP 1 — Test indexing GraphRAG (immediato)
+  Lanciare graphrag index --root . sulla cartella graphrag_test/ (5 file).
+  Verificare qualità dei community report prodotti.
+  Se soddisfacente, lanciare su graphrag_input/ completo (440 file).
+  Stima tempo: ore, dipende dal rate limit Gemini.
+  Stima costo: ~0 (piano gratuito Google AI Studio).
+
+STEP 2 — Import KG in GraphDB
+  Installare GraphDB (Ontotext, free tier disponibile).
+  Creare repository con OWL reasoning abilitato.
+  Importare acled_ontologyCle.ttl (prima lo schema).
+  Importare acled_kg.ttl (poi i dati).
+  Verificare con query SPARQL di base:
+    "Tutti gli eventi in Siria con più di 50 vittime nel 2022"
+    "Attori che hanno operato sia in Palestine che in Syria"
+
+STEP 3 — Bridge SPARQL/GraphRAG (script Python)
+  Implementare lo script che:
+    1. Prende una query utente
+    2. La passa a GraphRAG (local o global search)
+    3. Estrae i source document ID dalla risposta
+    4. Legge event_index.json per ottenere gli event_id_cnty
+    5. Costruisce ed esegue query SPARQL su GraphDB
+    6. Fonde i due output in un unico contesto per l'LLM
+
+STEP 4 — NER su 'notes' per arricchimento KG (opzionale, fase futura)
+  Estrazione mirata di weaponType, injuryCount, thirdPartyActor dalle notes.
+  Richiede: pipeline NER + disambiguazione rispetto agli URI esistenti
+  + validazione manuale su campione + SPARQL Update per aggiungere triple.
+  Motivazione: permetterebbe query SPARQL oggi impossibili, tipo:
+    "eventi con droni, >5 vittime, Siria" → oggi non fattibile perché
+    'drone' non è una proprietà del KG.
+  Nota: operazione non banale, introduce rumore se non validata. Da fare
+  solo dopo che il sistema base funziona end-to-end.
+
+
+================================================================================
+  10. STRUTTURA DEI FILE DEL REPOSITORY
+================================================================================
+
+  /
+  ├── preprocessing_cle2.py         # Download e pulizia dati ACLED
+  ├── kg_builder_final.py           # Materializzazione KG in Turtle
+  ├── build_graphrag_docs.py        # Generazione documenti per GraphRAG
+  ├── acled_ontologyCle.ttl         # Ontologia OWL (schema del KG)
+  ├── acled_kg.ttl                  # Knowledge Graph materializzato
+  ├── settings.yaml                 # Configurazione GraphRAG 3.1.0
+  ├── .env                          # API keys (NON in repo, nel .gitignore)
+  ├── .gitignore
+  ├── prompts/                      # Prompt di estrazione GraphRAG (auto-generati)
+  ├── graphrag_input/               # 440 .txt + event_index.json (NON in repo)
+  ├── graphrag_test/                # 5 .txt per test (NON in repo)
+  ├── output/                       # Output GraphRAG (NON in repo)
+  ├── cache/                        # Cache LLM (NON in repo)
+  └── logs/                         # Log di esecuzione (NON in repo)
+
+================================================================================
+  Fine documento
+================================================================================

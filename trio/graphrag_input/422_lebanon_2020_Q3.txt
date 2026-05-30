@@ -1,0 +1,248 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Lebanon (ISO Code: 422)
+Temporal Period: Year 2020 - Quarter Q3
+Total Events in Chunk: 18 / 18
+==================================================
+
+[EVENT: LBN5677]
+Date: 2020-08-10
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Lebanon (2020-2021) [State forces]
+Fatalities: 0
+Sources: Al Nour; An-Nahar [National]
+
+DESCRIPTION:
+Non-violent activity: On 10 August 2020, the Lebanese prime minister Hassan Diab, announced his resignation and dissolved the government, this comes after a massive explosion destroyed the Beirut port area and most likely caused by criminal negligence.
+
+---
+
+[EVENT: LBN5690]
+Date: 2020-08-16
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2020-2021) [State forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Arrests: On 16 August 2020, the head of the customs authority in Beirut was arrested by the military in relation to the Beirut explosion.
+
+---
+
+[EVENT: LBN5694]
+Date: 2020-08-17
+Country: Lebanon | Location: Mays el Jabal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Movement of forces: On 17 August 2020, two Israeli Merkava tanks crossed into Lebanon in Kroum Al Shraqi, east of Mays Al Jabal in a demonstrative operation without crossing the blue line. This is the second time Israeli tanks have crossed the border fence in a week.
+
+---
+
+[EVENT: LBN5697]
+Date: 2020-08-18
+Country: Lebanon | Location: Beirut - Port
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2020-2021) [State forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: On 18 August 2020, security forces were deployed around the grave of former Prime Minister Rafic Hariri, near the Mohammad Al Amin Mosque in Beirut's Port. This comes after a former Hezbollah member was convicted in Hariri's killing, although no ties to Hezbollah were proven.
+
+---
+
+[EVENT: LBN7654]
+Date: 2020-08-21
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Lebanon (2020-2021) [State forces]
+Fatalities: 0
+Sources: Al Nour; Daily Star (Lebanon); GardaWorld; Megaphone News; Xinhua [Other-New media]
+
+DESCRIPTION:
+Security measures: On 21 August 2020, a nationwide curfew was initiated from 6 pm to 6 am, that will last until 7 September in an effort to curb the spread of the coronavirus. On 28 August, a curfew was implemented between 10pm and 6 am. 111 towns and villages will observe a complete lockdown from 4 October to 11 October, and the nationwide 1 am to 6 am curfews remains in tact. 160 towns and villages will be placed under a stay at home order between 11 October and 19 October. Localities in North Lebanon, South Lebanon, Bekaa and Mount Lebanon are affected by the new security measures. 79 localities were placed under an extended lockdown measure from 19 October to 26 October, including Bekaa, North Lebanon (including areas of Tripoli) South Lebanon, and Mount Lebanon. On 1 November, 115 towns and localities were placed under a continued lockdown, and all regions in Lebanon will now observe a night-time curfew between 9 pm and 5 am. Coded at the capital, Beirut.
+
+---
+
+[EVENT: LBN9155]
+Date: 2020-08-22
+Country: Lebanon | Location: Beddawi
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Al Dohaibi Clan Militia (Lebanon) [Identity militia]
+Actor2: Al Ali Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Mustaqbal Web [National]
+
+DESCRIPTION:
+On 22 August 2020, an agreement was reached between Al Dohaibi and Al Ali clans in Al Fawwar Mosque in Beddawi (Al Miniyeh Al Danniyeh) supported by the Future Movement.
+
+---
+
+[EVENT: LBN5714]
+Date: 2020-08-22
+Country: Lebanon | Location: Aita ech Chaab
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: AFP; Al Nour [National-International]
+
+DESCRIPTION:
+Interception: On 22 August 2020, Hezbollah forces shot down and seized an Israeli drone near the town of Ayta Al Shaab, near the border with Palestine.
+
+---
+
+[EVENT: LBN5717]
+Date: 2020-08-23
+Country: Lebanon | Location: Beirut - Ras Beirut
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2020-2021) [State forces]
+Actor2: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+Defusal: On 23 August 2020, security forces defused an explosive device planted by an unidentified group in a bag near the Shakib Arslan School in the Saqiyat Al Janzeer neighborhood in Ras Beirut.
+
+---
+
+[EVENT: LBN5718]
+Date: 2020-08-23
+Country: Lebanon | Location: Mays el Jabal
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Property destruction: On 23 August 2020, 3 Israeli Merkava tanks crossed the technical fence at the border number 331 without violating the Blue Line in the outskirts of Mays Al Jabal in southern Lebanon. When the tanks were retreating they fired smoke bombs which caused fires to erupt in the area.
+
+---
+
+[EVENT: LBN5724]
+Date: 2020-08-25
+Country: Lebanon | Location: Houla
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Property destruction: On 25 August 2020, Israeli forces fired both smoke bombs and flares at Lebanese lands causing damage to at least two buildings. No exact location was provided.
+
+---
+
+[EVENT: LBN5733]
+Date: 2020-08-26
+Country: Lebanon | Location: Mays el Jabal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2020-2021) [State forces]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Movement of forces: On 26 August 2020, Lebanese military forces have sent reinforcements to the blue line at the border with Israel, following multiple aerial attacks by the Israeli military on the area. An exact location was not provided.
+
+---
+
+[EVENT: LBN5738]
+Date: 2020-08-27
+Country: Lebanon | Location: Chebaa
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Government of France (2017-) [External/Other forces]
+Actor2: UNIFIL: United Nations Interim Force in Lebanon (1978-) [External/Other forces]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Agreement: On 27 August 2020, the French Government and UNIFIL forces agreed to a one-year extension of UNIFIL forces across the Lebanese-Israeli border, while reducing the number of soldiers from 15,000 to 13,000. Coded at border town of Chebaa with GP 3.
+
+---
+
+[EVENT: LBN5777]
+Date: 2020-09-10
+Country: Lebanon | Location: Aita ech Chaab
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2020-2021) [State forces]
+Actor2: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+Interception: On 10 September 2020, Lebanese Military forces shot down Israeli drone over the town of Aita Ech Chaab. The drone fell near a Military post 200 meters from the Blue line in Lebanese territory.
+
+---
+
+[EVENT: LBN5781]
+Date: 2020-09-13
+Country: Lebanon | Location: Houla
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 13 September 2020, Israeli forces continued work from April to establish a military observation post on the southern side of the al Abad military site overlooking the town of Houla in the Marjayoun District. They razed lands and removed dirt from the Lebanese al Wazzani parks, and transported the dirt and rocks to the southern side of the Ghajar town.
+
+---
+
+[EVENT: LBN5792]
+Date: 2020-09-16
+Country: Lebanon | Location: Aadayseh Marjayoun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Movement of forces: On 16 September 2020, two Israeli tanks crossed into Lebanon in the Mahfar-Adisa neighbourhood east of Adaysit Marjaayoun without crossing the blue line.
+
+---
+
+[EVENT: LBN5807]
+Date: 2020-09-22
+Country: Lebanon | Location: Laboue
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Property destruction: On 22 September 2020, Israeli forces caused fires to erupt and burn more than 40 dunums of oak and pine trees in Laboue. Means of attack unspecified.
+
+---
+
+[EVENT: LBN5820]
+Date: 2020-09-26
+Country: Lebanon | Location: Baabda
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Lebanon (2020-2021) [State forces]
+Fatalities: 0
+Sources: Megaphone News [New media]
+
+DESCRIPTION:
+Non-violent activity: On 26 September 2020, Prime Minister designate Mustafa Adib stepped down from his position after he failed to form a new government. He announced his resignation during a speech at the Baabda palace.
+
+---
+
+[EVENT: LBN9544]
+Date: 2020-09-27
+Country: Lebanon | Location: Tripoli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2020-2021) [State forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Arrests: On 27 September 2020, 41 people attempting to cross the border illegally were arrested by military naval forces at the northern coast. Syrian and Lebanese nationals were present. Coded in Tripoli.

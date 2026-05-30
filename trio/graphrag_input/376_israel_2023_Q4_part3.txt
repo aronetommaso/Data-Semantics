@@ -1,0 +1,608 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Israel (ISO Code: 376)
+Temporal Period: Year 2023 - Quarter Q4
+Total Events in Chunk: 44 / 1644
+==================================================
+
+[EVENT: ISR38703]
+Date: 2023-12-27
+Country: Israel | Location: Kissufim
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [State forces]
+Actor2: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+Interception: On 27 December 2023, Hamas militants fired rockets from Gaza toward southern Israel, causing sirens to sound in Kissufim (Beer Sheva, HaDarom). Not all of the rockets hit populated areas, as most of the rockets were likely intercepted by the iron dome over the area of Kissufim or fell in open areas.
+
+---
+
+[EVENT: ISR38701]
+Date: 2023-12-27
+Country: Israel | Location: Nahal Oz
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [State forces]
+Actor2: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Haaretz; Ynet [National]
+
+DESCRIPTION:
+Interception: On 27 December 2023, Hamas militants fired rockets from Gaza toward southern Israel, causing sirens to sound in Nahal Oz (Ashqelon, HaDarom). Not all of the rockets hit populated areas, as most of the rockets were likely intercepted by the iron dome over the area of Nahal Oz or fell in open areas.
+
+---
+
+[EVENT: ISR43406]
+Date: 2023-12-27
+Country: Israel | Location: Hadab Al Bustan
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Hezbollah War Media [New media]
+
+DESCRIPTION:
+On 27 December 2023, Hezbollah forces fired 'appropriate weapons' (likely missiles) at Hadab Al Bustan (Akko, HaZafon). There were no casualties.
+
+---
+
+[EVENT: ISR43407]
+Date: 2023-12-27
+Country: Israel | Location: Shomera Armory Camp
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Hezbollah War Media [New media]
+
+DESCRIPTION:
+On 27 December 2023, Hezbollah forces fired Burkan missiles at Israeli soldiers around Khirbet Maar Base (Akko, HaZafon). There were no casualties.
+
+---
+
+[EVENT: ISR43408]
+Date: 2023-12-27
+Country: Israel | Location: Shomera Armory Camp
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Hezbollah War Media [New media]
+
+DESCRIPTION:
+On 27 December 2023, Hezbollah forces fired Burkan missiles at Khirbet Maar Base (Akko, HaZafon). There were no casualties.
+
+---
+
+[EVENT: ISR38700]
+Date: 2023-12-27
+Country: Israel | Location: Kiryat Shmona
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [State forces]
+Actor2: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Globes; Haaretz; Israel Hayom; Ma'ariv; News 0404; Now 14; Times of Israel [National]
+
+DESCRIPTION:
+Interception: On 27 December 2023, Hezbollah forces fired at least 16 rockets from Lebanon toward Kiryat Shmona (Zefat, HaZafon) and surrounding areas. Several rockets fell in Kiryat Shmona, while at least three of the other rockets were intercepted by the iron dome over Kiryat Shmona and surrounding areas. Hezbollah claimed to have launched 30 rockets toward Kiryat Shmona and surrounding areas.
+
+---
+
+[EVENT: ISR38704]
+Date: 2023-12-27
+Country: Israel | Location: Rosh HaNikra
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [State forces]
+Actor2: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Globes; Haaretz; Hezbollah War Media; Times of Israel [New media-National]
+
+DESCRIPTION:
+Interception: On 27 December 2023, Hezbollah forces fired about 18 rockets from Lebanon toward the Western Galilee, causing sirens to sound in Rosh HaNikra (Akko, HaZafon) and surrounding areas. About eight of the rockets fell in open areas, while at least six rockets were intercepted by the Iron Dome over the area of Rosh HaNikra. Hezbollah claimed to be targeting a new Israeli command position in the vicinity of Rosh HaNikra Naval Base with the rocket fire.
+
+---
+
+[EVENT: ISR38633]
+Date: 2023-12-27
+Country: Israel | Location: Kiryat Shmona
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Globes; Haaretz; Israel Hayom; Ma'ariv; News 0404; Now 14; Times of Israel [National]
+
+DESCRIPTION:
+On 27 December 2023, Hezbollah forces fired at least 16 rockets from Lebanon toward Kiryat Shmona (Zefat, HaZafon) and surrounding areas. About six of the rockets fell in Kiryat Shmona, causing damage to residential buildings and other infrastructure in the city. Hezbollah claimed to have launched 30 rockets toward Kiryat Shmona and surrounding areas. Israeli military forces struck Hezbollah sites in Lebanon in response to the rocket fire.
+
+---
+
+[EVENT: ISR38637]
+Date: 2023-12-27
+Country: Israel | Location: Rosh HaNikra
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Globes; Haaretz; Hezbollah War Media; Times of Israel [New media-National]
+
+DESCRIPTION:
+On 27 December 2023, Hezbollah forces fired about 18 rockets from Lebanon toward the Western Galilee, causing sirens to sound in Rosh HaNikra (Akko, HaZafon) and surrounding areas. About eight of the rockets fell in open areas near Rosh HaNikra, while at least six rockets were intercepted by the Iron Dome. Israeli military forces struck the source of the rocket fire in Lebanon. Hezbollah claimed to be targeting a new Israeli command position in the vicinity of Rosh HaNikra Naval Base with the rocket fire.
+
+---
+
+[EVENT: ISR43405]
+Date: 2023-12-27
+Country: Israel | Location: Dhuhra
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Hezbollah War Media [New media]
+
+DESCRIPTION:
+On 27 December 2023, Hezbollah forces fired guided missiles at Israeli special forces south of Dhuhra (Akko, HaZafon) and claimed to have achieved direct hits. Hezbollah claimed to have inflicted casualties. Claimed casualties coded as 0.
+
+---
+
+[EVENT: ISR38711]
+Date: 2023-12-28
+Country: Israel | Location: Akko
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [State forces]
+Actor2: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Arutz Sheva; Colbo News; Haaretz; N12; Now 14; Srugim; Times of Israel [National]
+
+DESCRIPTION:
+Interception: On 28 December 2023, Israeli aerial defense systems intercepted a (presumably armed) drone that crossed from Lebanon into Israeli territory, causing sirens to sound in Akko (HaZafon) and surrounding areas. The drone was launched by Hezbollah.
+
+---
+
+[EVENT: ISR38709]
+Date: 2023-12-28
+Country: Israel | Location: Nirim
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [State forces]
+Actor2: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Haaretz; N12 [National]
+
+DESCRIPTION:
+Interception: On 28 December 2023, Hamas militants fired rockets from Gaza toward southern Israel, causing sirens to sound in Nirim (Beer Sheva, HaDarom) and surrounding towns. Not all of the rockets hit populated areas, as most of the rockets were likely intercepted by the iron dome over the area of Nirim or fell in open areas.
+
+---
+
+[EVENT: ISR43409]
+Date: 2023-12-28
+Country: Israel | Location: Shomera Armory Camp
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Hezbollah War Media [New media]
+
+DESCRIPTION:
+On 28 December 2023, Hezbollah forces fired 'appropriate weapons' (likely missiles) at Khirbet Maar Base (Akko, HaZafon) and claimed to have achieved direct hits. There were no casualties.
+
+---
+
+[EVENT: ISR38710]
+Date: 2023-12-28
+Country: Israel | Location: Yiftah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [State forces]
+Actor2: Hezbollah [Political militia]
+Fatalities: 0
+Sources: N12 [National]
+
+DESCRIPTION:
+Interception: On 28 December 2023, the iron dome intercepted a 'suspicious aerial target' that crossed from Lebanon into Israeli territory, causing sirens to sound in Yiftah (Zefat, HaZafon) and surrounding areas. Hezbollah launched the aerial target.
+
+---
+
+[EVENT: ISR38706]
+Date: 2023-12-28
+Country: Israel | Location: Kiryat Shmona
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [State forces]
+Actor2: Hezbollah [Political militia]
+Fatalities: 0
+Sources: N12; Now 14; Times of Israel; Ynet [National]
+
+DESCRIPTION:
+Interception: On 28 December 2023, Hezbollah forces fired about 20 rockets and anti-tank missiles from Lebanon toward Kiryat Shmona (Zefat, HaZafon). Missiles and shrapnel from intercepted rockets fell in several locations in Kiryat Shmona, causing property damage. Other projectiles presumably fell in open areas outside of Kiryat Shmona.
+
+---
+
+[EVENT: ISR43411]
+Date: 2023-12-28
+Country: Israel | Location: Ramot Naftali
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Hezbollah War Media [New media]
+
+DESCRIPTION:
+On 28 December 2023, Hezbollah forces fired 'appropriate weapons' (likely missiles) at a Israeli military vehicle in Ramot Naftali barracks (Zefat, HaZafon) and claimed to have achieved direct hits. There were no casualties.
+
+---
+
+[EVENT: ISR43410]
+Date: 2023-12-28
+Country: Israel | Location: Mattat Barracks
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Hezbollah War Media [New media]
+
+DESCRIPTION:
+On 28 December 2023, Hezbollah forces fired 'appropriate weapons' (likely missiles) at Israeli soldiers around Mattat Barracks (Akko, HaZafon) and claimed to have achieved direct hits. There were no casualties.
+
+---
+
+[EVENT: ISR38640]
+Date: 2023-12-28
+Country: Israel | Location: Kiryat Shmona
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Fatalities: 0
+Sources: N12; Now 14; Times of Israel; Ynet [National]
+
+DESCRIPTION:
+On 28 December 2023, Hezbollah forces fired about 20 rockets and anti-tank missiles from Lebanon toward Kiryat Shmona (Zefat, HaZafon). Missiles and shrapnel fell in several locations in Kiryat Shmona, causing extensive property damage. In response, Israeli military forces struck the sources of the rocket fire in Aita ech Chaab and Ramieh (coded separately).
+
+---
+
+[EVENT: ISR38712]
+Date: 2023-12-28
+Country: Israel | Location: Shetula
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [State forces]
+Actor2: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Haaretz; N12 [National]
+
+DESCRIPTION:
+Interception: On 28 December 2023, sirens for hostile aircraft infiltration sounded in Shetula (Akko, HaZafon) and surrounding areas. The IDF reported that the 'incident ended' but did not specify further details. Presumably, an aerial target launched from Lebanon by Hezbollah was intercepted over the area of Shetula.
+
+---
+
+[EVENT: ISR38503]
+Date: 2023-12-28
+Country: Israel | Location: Nazareth
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+On 28 December 2023, about 50 Israeli Arabs protested in Nazareth (Yizreel, HaZafon), calling for an end to the war in Gaza. The High Follow-Up Committee organized the protest.
+
+---
+
+[EVENT: ISR38579]
+Date: 2023-12-28
+Country: Israel | Location: Tel Aviv
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+On 28 December 2023, hundreds protested in Tel Aviv city against the war in Gaza. Protesters called for an end to the war, the release of the hostages being held in Gaza, and an end to the occupation. The protest was organized by Jewish-Arab group Standing Together.
+
+---
+
+[EVENT: ISR38547]
+Date: 2023-12-28
+Country: Israel | Location: Mitzpeh Adi Army Base
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Haaretz; Hezbollah War Media; Now 14 [New media-National]
+
+DESCRIPTION:
+On 28 December 2023, Hezbollah forces fired rockets from Lebanon at Ramim Barracks (Zefat, HaZafon), causing sirens to sound in Margaliyyot. The group announced it had achieved direct hits. Israeli sources did not confirm any direct hits, interceptions, or casualties.
+
+---
+
+[EVENT: ISR38707]
+Date: 2023-12-28
+Country: Israel | Location: Ashqelon
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [State forces]
+Actor2: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Haaretz; N12 [National]
+
+DESCRIPTION:
+Interception: On 28 December 2023, Hamas militants fired rockets from Gaza toward southern Israel, causing sirens to sound in Ashqelon (HaDarom) and surrounding areas. Not all of the rockets hit populated areas, as most of the rockets were likely intercepted by the iron dome over the area of Ashqelon or fell in open areas.
+
+---
+
+[EVENT: ISR38708]
+Date: 2023-12-28
+Country: Israel | Location: Erez
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [State forces]
+Actor2: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Haaretz; N12 [National]
+
+DESCRIPTION:
+Interception: On 28 December 2023, Hamas militants fired rockets from Gaza toward southern Israel, causing sirens to sound in Erez (Ashqelon, HaDarom) and surrounding towns. Not all of the rockets hit populated areas, as most of the rockets were likely intercepted by the iron dome over the area of Erez or fell in open areas.
+
+---
+
+[EVENT: ISR38727]
+Date: 2023-12-28
+Country: Israel | Location: Jerusalem - Givat Ram
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+On 28 December 2023, hundreds protested outside of Knesset in Jerusalem - Givat Ram (Judean Mountains), calling for the immediate release of all hostages being held in Gaza by Hamas.
+
+---
+
+[EVENT: ISR38713]
+Date: 2023-12-29
+Country: Israel | Location: Sufa
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [State forces]
+Actor2: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Haaretz; N12 [National]
+
+DESCRIPTION:
+Interception: On 29 December 2023, Hamas militants fired rockets from Gaza toward southern Israel, causing sirens to sound in Sufa (Beer Sheva, HaDarom) and surrounding towns. Not all of the rockets hit populated areas, as most of the rockets were likely intercepted by the iron dome over the area of Sufa or fell in open areas.
+
+---
+
+[EVENT: ISR43416]
+Date: 2023-12-29
+Country: Israel | Location: Hadab Yaroun
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Hezbollah War Media [New media]
+
+DESCRIPTION:
+On 29 December 2023, Hezbollah forces fired 'appropriate weapons' (likely missiles) at Hadab Yaroun (Zefat, HaZafon) and claimed to have achieved direct hits. The site was hit in two separate attacks. There were no casualties.
+
+---
+
+[EVENT: ISR38646]
+Date: 2023-12-29
+Country: Israel | Location: Dovev
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Haaretz; Hezbollah War Media; N12; Times of Israel; Ynet [New media-National]
+
+DESCRIPTION:
+On 29 December 2023, Hezbollah forces fired several missiles from Lebanon at a crane carrying 'espionage equipment' in the Dovev Farms outside of Dovev (Zefat, HaZafon). The group announced it had achieved direct hits. Israeli sources did not confirm any direct hits, interceptions, or casualties. In response, Israeli military forces attacked the source of the missiles with artillery fire as well as struck sites with drones in Yaroun and Hamoul (coded separately).
+
+---
+
+[EVENT: ISR43415]
+Date: 2023-12-29
+Country: Israel | Location: Al Marj
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Hezbollah War Media [New media]
+
+DESCRIPTION:
+On 29 December 2023, Hezbollah forces fired 'appropriate weapons' (likely missiles) at Al Marj (Zefat, HaZafon) and claimed to have achieved direct hits. There were no casualties.
+
+---
+
+[EVENT: ISR43413]
+Date: 2023-12-29
+Country: Israel | Location: Livneh Outpost
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Hezbollah War Media [New media]
+
+DESCRIPTION:
+On 29 December 2023, Hezbollah forces fired 'appropriate weapons' (likely missiles) at Israeli soldiers in Ramia (Akko, HaZafon). There were no casualties.
+
+---
+
+[EVENT: ISR43414]
+Date: 2023-12-29
+Country: Israel | Location: Zarit Barracks
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Hezbollah War Media [New media]
+
+DESCRIPTION:
+On 29 December 2023, Hezbollah forces fired (likely missiles) at Israeli soldiers deployed between Zarit Barracks and Birkat Risha, coded to Zarit Barracks (Akko, HaZafon). There were no casualties.
+
+---
+
+[EVENT: ISR43412]
+Date: 2023-12-29
+Country: Israel | Location: Shomera Armory Camp
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Hezbollah War Media [New media]
+
+DESCRIPTION:
+On 29 December 2023, Hezbollah forces fired 'appropriate weapons' (likely missiles) at Khirbet Maar Base (Akko, HaZafon) targeting artillery positions and claimed to have achieved direct hits. There were no casualties.
+
+---
+
+[EVENT: ISR38714]
+Date: 2023-12-29
+Country: Israel | Location: Ziqim
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [State forces]
+Actor2: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: N12 [National]
+
+DESCRIPTION:
+Interception: On 29 December 2023, Hamas militants fired rockets from Gaza toward southern Israel, causing sirens to sound in Ziqim (Ashqelon, HaDarom) and surrounding areas. Not all of the rockets hit populated areas, as most of the rockets were likely intercepted by the iron dome over the area of Ziqim or fell in open areas.
+
+---
+
+[EVENT: ISR38417]
+Date: 2023-12-30
+Country: Israel | Location: Caesarea
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Actor2: Police Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+On 30 December 2023, hundreds protested outside of the Prime Minister's private residence in Caesarea (Hadera, Haifa), calling for Prime Minister Netanyahu's resignation over his handling of the Israel-Hamas War. Police forces detained two protesters for shouting with megaphones. An additional protester was detained by police forces for attempting to build a stage.
+
+---
+
+[EVENT: ISR38398]
+Date: 2023-12-30
+Country: Israel | Location: Kiryat Shmona
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Haaretz; Hezbollah War Media; N12; Now 14; Ynet [New media-National]
+
+DESCRIPTION:
+On 30 December 2023, Hezbollah forces fired three rockets from Lebanon, two of which fell in the area of Margaliyyot and Kiryat Shmona (Zefat, HaZafon). The third rocket was intercepted over the area of Kiryat Shmona. Hezbollah claimed to have targeted Israeli soldiers around the Ramim Barracks and to have achieved direct hits. Hezbollah also claimed to have fired at Israeli soldiers in the Beit Hillel area and to have inflicted casualties. Claimed casualties coded as 0.
+
+---
+
+[EVENT: ISR38416]
+Date: 2023-12-30
+Country: Israel | Location: Kfar Saba
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Ynet [National]
+
+DESCRIPTION:
+On 30 December 2023, hundreds protested in Kfar Saba (Petah Tiqwa, HaMerkaz), calling for the immediate release of all hostages being held in Gaza by Hamas. Protesters also called for the removal of Prime Minister Netanyahu due to his handling of the Israel-Hamas War. A former MK and Meretz member spoke at the protest.
+
+---
+
+[EVENT: ISR38419]
+Date: 2023-12-30
+Country: Israel | Location: Mefalsim
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [State forces]
+Actor2: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+Interception: On 30 December 2023, Hamas militants fired rockets from Gaza toward southern Israel, causing sirens to sound in Mefalsim (Ashqelon, HaDarom) and surrounding areas. No direct hits to populated areas were reported, as the rockets were likely intercepted by iron dome over the area of Mefalsim or fell in open areas.
+
+---
+
+[EVENT: ISR43417]
+Date: 2023-12-30
+Country: Israel | Location: Jabal Adather
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Hezbollah War Media [New media]
+
+DESCRIPTION:
+On 30 December 2023, Hezbollah forces fired 'appropriate weapons' (likely missiles) at Israeli soldiers in Adather Forest around Jabal Adather (Zefat, HaZafon) and claimed to have achieved direct hits. Hezbollah claimed to have inflicted casualties. Claimed casualties coded as 0.
+
+---
+
+[EVENT: ISR38454]
+Date: 2023-12-30
+Country: Israel | Location: Tel Aviv
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Haaretz; Times of Israel [National]
+
+DESCRIPTION:
+On 30 December 2023, thousands took part in a protest rally in Tel Aviv city, calling for the immediate release of all hostages being held in Gaza by Hamas.
+
+---
+
+[EVENT: ISR38453]
+Date: 2023-12-30
+Country: Israel | Location: Tel Aviv
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Haaretz; Times of Israel [National]
+
+DESCRIPTION:
+On 30 December 2023, hundreds protested in Tel Aviv city, calling for Prime Minister Netanyahu's resignation over his handling of the Israel-Hamas War.
+
+---
+
+[EVENT: ISR38401]
+Date: 2023-12-30
+Country: Israel | Location: Kefar Szold
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Ma'ariv; N12; Times of Israel [National]
+
+DESCRIPTION:
+On 30 December 2023, Hezbollah forces fired an anti-tank missile from Lebanon toward the area of Kefar Szold (Zefat, HaZafon). The missile did not reach the town, but one civilian was lightly injured as a result of the impact.
+
+---
+
+[EVENT: ISR38402]
+Date: 2023-12-31
+Country: Israel | Location: Menara
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Globes; Haaretz; Hezbollah War Media [New media-National]
+
+DESCRIPTION:
+On 31 December 2023, Hezbollah forces fired two anti-tank missiles from Lebanon toward Tziporen Outpost near Menara (Zefat, HaZafon). They claimed to have achieved direct hits. Israeli sources claimed that both missiles fell in open areas near Menara. No injuries occurred.
+
+---
+
+[EVENT: ISR38421]
+Date: 2023-12-31
+Country: Israel | Location: Kissufim
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [State forces]
+Actor2: Hamas Movement [Political militia]
+Fatalities: 0
+Sources: Globes; Haaretz [National]
+
+DESCRIPTION:
+Interception: On 31 December 2023, Hamas militants fired rockets from Gaza toward southern Israel, causing sirens to sound in Kissufim (Beer Sheva, HaDarom) and surrounding areas. No direct hits to populated areas were reported, as the rockets were likely intercepted by iron dome over the area of Kissufim or fell in open areas.
+
+---
+
+[EVENT: ISR43419]
+Date: 2023-12-31
+Country: Israel | Location: Hanita Military Post
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: Military Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Hezbollah War Media [New media]
+
+DESCRIPTION:
+On 31 December 2023, Hezbollah forces fired 'appropriate weapons' (likely missiles) at Hanita Military Post (Akko, HaZafon) and claimed to have achieved direct hits. They attacked the site a second time targeting Israeli soldiers in its vicinity. There were no casualties.

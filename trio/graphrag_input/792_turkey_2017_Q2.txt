@@ -1,0 +1,351 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Turkey (ISO Code: 792)
+Temporal Period: Year 2017 - Quarter Q2
+Total Events in Chunk: 25 / 25
+==================================================
+
+[EVENT: TUR315]
+Date: 2017-04-03
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Arrests: During the raids in 7 Istanbul districts, 49 ISIS suspects, mostly foreigners, were detained in the previous week.
+
+---
+
+[EVENT: TUR313]
+Date: 2017-04-03
+Country: Turkey | Location: Bursa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: 30 suspected members in total of PKK and MLKP (Marxist-Leninist Communist Party) were detained with simultaneous operations of Turkish Police in Bursa city.
+
+---
+
+[EVENT: TUR335]
+Date: 2017-04-05
+Country: Turkey | Location: Tunceli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Arrests: 65 people were detained with the suspicion of being members of illegal organizations including PKK by simultaneous police operations in many cities, mainly Tunceli.
+
+---
+
+[EVENT: TUR338]
+Date: 2017-04-06
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 38 civilians were arrested by the Turkish Police Forces during an anti-coup operation in the Istanbul province on Thursday, 6 April 2017.
+
+---
+
+[EVENT: TUR359]
+Date: 2017-04-08
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: 31 suspects accused of supporting PKK were detained in simultaneous operations by police in various rural areas around Izmir.
+
+---
+
+[EVENT: TUR363]
+Date: 2017-04-08
+Country: Turkey | Location: Konya
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: 38 previously-dismissed police officers, searched by the police with accusations of possible ties to Gulen movement are detained in Konya.
+
+---
+
+[EVENT: TUR377]
+Date: 2017-04-09
+Country: Turkey | Location: Aydin/Efeler
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: 35 suspects accused of supporting PKK were detained by police forces in Aydin city.
+
+---
+
+[EVENT: TUR390]
+Date: 2017-04-11
+Country: Turkey | Location: Tekirdag
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: 62 of the soldiers who were detained one week ago were arrested due to possible ties with Gulen movement during the operations taking place last week, in 15 cities based mostly in Tekirdag.
+
+---
+
+[EVENT: TUR387]
+Date: 2017-04-11
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+Strikes: Rotational hunger strike led by the families of the prisoners who have been on hunger strike for 56 days in prisons has started in Diyarbakir with the support of HDP, DBP, TJA and DTK members.
+
+---
+
+[EVENT: TUR391]
+Date: 2017-04-12
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: 172 suspects were detained in Diyarbakir, accused of planning Diyarbakir/Baglar attack of PKK that took place on the previous day.
+
+---
+
+[EVENT: TUR392]
+Date: 2017-04-12
+Country: Turkey | Location: Inanli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: 43 people were detained in the district of Inanli/Kilis when they entered into forbidden zone. 23 of the detained were minors and an explosive belt and some arms were found in the belongings of some other detainees. 20 detainees are accused of being ISIS members.
+
+---
+
+[EVENT: TUR427]
+Date: 2017-04-18
+Country: Turkey | Location: Bursa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Arrests: 33 people were detained with accusations of supporting and indirectly financing Gulen movement, in three cities, based mostly in Bursa.
+
+---
+
+[EVENT: TUR444]
+Date: 2017-04-20
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Times (United Kingdom) [International]
+
+DESCRIPTION:
+Arrests: Dozens of opposition activists have been arrested in dawnraidsacross Istanbul as the Turkish government cracks down on groups protesting against the result of referendum.
+
+---
+
+[EVENT: TUR446]
+Date: 2017-04-20
+Country: Turkey | Location: Konya
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 31 civilians were arrested by the Turkish Police Forces during a Konya-based anti-coup operation in the Konya province on Thursday, 20 April 2017.
+
+---
+
+[EVENT: TUR454]
+Date: 2017-04-21
+Country: Turkey | Location: Suruc
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Fatalities: 1
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Detonation: An attack with car bomb was realized in Suruc district of Sanliurfa near the hospital. The attacker died during the explosion and no other fatalities were reported.
+
+---
+
+[EVENT: TUR458]
+Date: 2017-04-22
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Arrests: Police in Istanbul held simultaneous operations in many districts of the city and detained 42 people with accusations of supporting Gulen movement.
+
+---
+
+[EVENT: TUR474]
+Date: 2017-04-26
+Country: Turkey | Location: Adana
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: 30 civilians were arrested by the Turkish Police Forces during an anti-coup operation in the Adana province on Wednesday, 26 April 2017.
+
+---
+
+[EVENT: TUR477]
+Date: 2017-04-26
+Country: Turkey | Location: Gaziantep
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Arrests: 82 people were detained in Gaziantep with simultaneous operations of Police forces, with the claim of being members of Gulen Movement.
+
+---
+
+[EVENT: TUR483]
+Date: 2017-04-27
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Non-Violent Activity: 524 policemen were dismissed in Diyarbakir with the claim of being connected to Gulen Movement.
+
+---
+
+[EVENT: TUR501]
+Date: 2017-04-29
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Movement of Forces: A major operation of Turkish Military Forces targeted the PKK militants in eastern Hakkari province. Not clear if clashes occurred.
+
+---
+
+[EVENT: TUR503]
+Date: 2017-04-29
+Country: Turkey | Location: Sirnak
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Movement of Forces: A major operation of Turkish Military Forces targeted the PKK militants in eastern Sirnak province. Not clear if clashes occurred.
+
+---
+
+[EVENT: TUR500]
+Date: 2017-04-29
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Movement of Forces: A major operation of Turkish Military Forces targeted the PKK militants in eastern Diyarbakir province. Not clear if clashes occurred.
+
+---
+
+[EVENT: TUR555]
+Date: 2017-05-11
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Turkey) [Protesters]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+Strikes: Four CHP MPs went on a hunger strike for 24 hours for solidarity with Gulmen and Ozakca who have been on hunger strike for 64 days. The strike began in parliament and continued at Union of municipalities in Ankara city.
+
+---
+
+[EVENT: TUR664]
+Date: 2017-05-30
+Country: Turkey | Location: Sirnak
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Hurriyet Daily [National]
+
+DESCRIPTION:
+Agreement: Five PKK militants Surrendered to the Turkish security forces in the province of Sirnak according to the statement of Turkish General Staff.
+
+---
+
+[EVENT: TUR730]
+Date: 2017-06-14
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; DPA [Local partner-New media]
+
+DESCRIPTION:
+Arrests: Turkish police detained 78 lawyers (189 according to Event 7) in Istanbul with alleged links to Gulen movement.

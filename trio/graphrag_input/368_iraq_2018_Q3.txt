@@ -1,0 +1,267 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iraq (ISO Code: 368)
+Temporal Period: Year 2018 - Quarter Q3
+Total Events in Chunk: 19 / 19
+==================================================
+
+[EVENT: IRQ13450]
+Date: 2018-07-06
+Country: Iraq | Location: Bir ath Thalab
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Property destruction: On June 07, military forces destroyed two IS hideouts and detonated explosive devices under control in the valley of Thalab, northeast of Baqubah. No casualties reported.
+
+---
+
+[EVENT: IRQ13545]
+Date: 2018-07-16
+Country: Iraq | Location: Al-Muqdadiya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraqi News [National]
+
+DESCRIPTION:
+Property destruction: On 16 July 2018, Iraqi troops destroyed four tunnels used by IS and detonated 80 explosive charges on the outskirts of al Muqdadiyah in Anbar province.
+
+---
+
+[EVENT: IRQ13992]
+Date: 2018-07-27
+Country: Iraq | Location: Baghdad - Rusafa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Property destruction: On 27 July 2018, IS militants attacked the national power grid on the Amin Line-East Rusafa which caused the power to go out completely after being shot at.
+
+---
+
+[EVENT: IRQ13640]
+Date: 2018-07-28
+Country: Iraq | Location: Haweeja
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: TMF: Tribal Mobilization Forces [Identity militia]
+Fatalities: 0
+Sources: Amaq [New media]
+
+DESCRIPTION:
+Property destruction: On 28 July 2018, IS militants fired at a house where the TMF is known to frequent in al Bikara neighborhood in Haweeja city, leading to the burning of the house. It was not clear whether anyone was in the house at the time as no injuries were reported.
+
+---
+
+[EVENT: IRQ13678]
+Date: 2018-07-29
+Country: Iraq | Location: Tikrit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Property destruction: On 29 July 2018, after destroying electricity towers 113 & 114 on the transmission line east of Tikrit, IS militants targeted a substation overnight which feeds 10 villages in the vicinity.
+
+---
+
+[EVENT: IRQ14212]
+Date: 2018-08-04
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: on Aug 4, security forces discovered the massive weapons and explosives cache belonging to IS in a cemetery in the western side of Mosul.
+
+---
+
+[EVENT: IRQ14328]
+Date: 2018-08-11
+Country: Iraq | Location: Baquba
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 1
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Detonation: on Aug 11, an expert in IEDs in IS was killed while trying to plant one in the region between the provinces of Diyala and Salah Al-Din.
+
+---
+
+[EVENT: IRQ13870]
+Date: 2018-08-27
+Country: Iraq | Location: Nahiyat ar Riyad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Amaq [New media]
+
+DESCRIPTION:
+Property destruction: on Aug 27, the house of an alleged PMF spy was burned by IS militants in Ar-Riyad.
+
+---
+
+[EVENT: IRQ14764]
+Date: 2018-08-29
+Country: Iraq | Location: Hit
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: All Iraq News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: On Aug 29, the military discovered a large IS weapons cache containing 750 120 mm mortar shells, 600 Katyusha bases, as well as 150 homemade IEDs, 5 missile launchers, 5 20-liter gallons containing ammonium nitrate, and 3 detonators, they were detonated on site by the division's engineering detachments.
+
+---
+
+[EVENT: IRQ15042]
+Date: 2018-09-06
+Country: Iraq | Location: Qaraj
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: on Sept 06, Iraqi security forces seized two large IS weapons caches in the village of Qaraj within the district of Makhmour. The caches contained weapons, ammunition, and explosive devices.
+
+---
+
+[EVENT: IRQ19192]
+Date: 2018-09-08
+Country: Iraq | Location: Batnay
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Yaqein [National]
+
+DESCRIPTION:
+Mass graves: on Sept 08, the head of the Ninewa operation announced the discovery of a mass grave in Batnay city in Tillkaif district containing the remains of 35 civilians, believed to have been killed by militias during the military operation in Mosul city.
+
+---
+
+[EVENT: IRQ14055]
+Date: 2018-09-17
+Country: Iraq | Location: Al Azim
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 3
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Detonation: On Sept 17, a number of IS militants were killed and injured when the IED they were planting exploded north of Al-Azim. Unknown fatalities coded as 3.
+
+---
+
+[EVENT: IRQ14076]
+Date: 2018-09-19
+Country: Iraq | Location: Qaryat Adhirban
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+On 19 September 2018, a military force from the PMF carried out a security operation in the village of Dharban in Hawija district, seizing a cache of ammunition and explosive devices, as well as destroying three IS tunnels, and burning a vehicle and a nest.
+
+---
+
+[EVENT: IRQ14082]
+Date: 2018-09-19
+Country: Iraq | Location: Nahiyat ar Riyad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: TMF: Tribal Mobilization Forces [Identity militia]
+Fatalities: 0
+Sources: Amaq [New media]
+
+DESCRIPTION:
+Property destruction: On Sept 19, IS militants burned the home of a TMF fighter, east of al Sarah area in Nahiyat al Riyad, west of Kirkuk.
+
+---
+
+[EVENT: IRQ19282]
+Date: 2018-09-21
+Country: Iraq | Location: Rawah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Defusal: On 21 September 2018, Iraqi security forces seized an IS weapons cache in Rawa area in Anbar province, containing 1250 homemade weapons rounds, 65 capsule fillers, 36 120mm mortar rounds, 30 mortar rounds, and 15 explosive device launchers, as well as one mortar pillar.
+
+---
+
+[EVENT: IRQ19284]
+Date: 2018-09-22
+Country: Iraq | Location: Tikrit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+On 22 September 2018, the PMF destroyed IS hideouts in Tikrit island and seized light weapons and motorcycles.
+
+---
+
+[EVENT: IRQ19291]
+Date: 2018-09-27
+Country: Iraq | Location: Qaryat Albu Isa
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: Around 27 September 2018 (as reported on), Iraqi security forces defused 117 explosive devices in the area of Albu Isa, which was planted by IS militants.
+
+---
+
+[EVENT: IRQ14149]
+Date: 2018-09-30
+Country: Iraq | Location: Albu Bali
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2014-2018) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: On Sept 30, security forces destroyed a hideout for IS containing a shielded trench for a vehicle, 15 explosive devices filled in containers with C4 capacity of 20 Liter and 13 IEDs were found in the Albu Bali area and Albu Zayaan areas.
+
+---
+
+[EVENT: IRQ14154]
+Date: 2018-09-30
+Country: Iraq | Location: Daquq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Amaq [New media]
+
+DESCRIPTION:
+Property destruction: On Sept 30, IS militant burned two homes belonging to Mukhtars and another belonging to an alleged spy for the PMF in southern Daquq district.

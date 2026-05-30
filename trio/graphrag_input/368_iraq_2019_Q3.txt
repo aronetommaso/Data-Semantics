@@ -1,0 +1,684 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iraq (ISO Code: 368)
+Temporal Period: Year 2019 - Quarter Q3
+Total Events in Chunk: 49 / 49
+==================================================
+
+[EVENT: IRQ20668]
+Date: 2019-07-04
+Country: Iraq | Location: Adhaim
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) Iraqi National Intelligence Service [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Arrests: as reported on July 4, the National Intelligence Service arrested allegedly one of the most dangerous military officials of IS; Wissam Siraj Kamel al-Azzawi and the so-called Abu Riyadh al-Askari, who allegedly led the attack in Al-Adhaim in 2014 and the alleged kidnapping and killing of citizens in the region of Al-Edhaim area.
+
+---
+
+[EVENT: IRQ20747]
+Date: 2019-07-14
+Country: Iraq | Location: Kirkuk
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Defusal: on July 14, security forces found and destroyed a tunnel and hideout used by IS militants in Wadi al-Sahal and Nokit village within the province of Kirkuk, including 15 Katyusha rockets, two mobile phones used for detonation and four 120 mm mortar rounds, as well as five 57mm artillery shells, four shells attached to drones, a 60mm mortar, civilian and military clothes, a solar charge board used to charge batteries and mobile phones, a hand grenade and a gun magazine.
+
+---
+
+[EVENT: IRQ20761]
+Date: 2019-07-15
+Country: Iraq | Location: Mandali
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Iraq (2018-2020) Popular Mobilization Forces [State forces]
+Fatalities: 0
+Sources: Alnabaa TV [International]
+
+DESCRIPTION:
+Property destruction: on July 15, IS militants burned a room belonging to the PMF containing an electricity generator north of Mandali area.
+
+---
+
+[EVENT: IRQ51355]
+Date: 2019-07-15
+Country: Iraq | Location: As Salman
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Basnews; Kurdistan24; Rudaw; Sotaliraq [National]
+
+DESCRIPTION:
+Mass grave: Around 15 July 2019 (month of), first of the mass graves which had been discovered in Tel Al Shaykha area in Al Salman district (coded as As Salman city, Al Muthanna) in late 2018, was opened and remains of 172 Kurdish civilians (women and children) were recovered. The remains date back to the times of the former Iraqi president Saddam Hussein (allegedly the Anfal campaign). While searching the area, the teams found two other mass graves.
+
+---
+
+[EVENT: IRQ20814]
+Date: 2019-07-22
+Country: Iraq | Location: Ar Rutba
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) [State forces]
+Fatalities: 0
+Sources: Asharq Al Awsat [International]
+
+DESCRIPTION:
+Movement of forces: US forces deployed in the strategic Iraqi town of Rutba in Anbar Province withdrew from the area, and the withdrawal of US forces was followed by the departure of an Iraqi police unit tasked with maintaining security in the area.
+
+---
+
+[EVENT: IRQ20816]
+Date: 2019-07-23
+Country: Iraq | Location: Imam Ways
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 1
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Detonation: on July 23, an IS militant was killed by the detonation of an IED while planting it in the Imam Weiss hills, northeast of Baquba.
+
+---
+
+[EVENT: IRQ20827]
+Date: 2019-07-24
+Country: Iraq | Location: Karma
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Arrests: On July 24, security forces arrested a senior IS leader, one of their main benefactors and financiers of the group by raiding his home in Karma, east of Fallujah city.
+
+---
+
+[EVENT: IRQ20821]
+Date: 2019-07-24
+Country: Iraq | Location: Nahiyat al Khalidiyah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Defusal: Iraqi military defused 164 IEDs IS war remnants in al Sufriyah, Albu Khamis and al Khalidiyah areas in Anbar province.
+
+---
+
+[EVENT: IRQ20847]
+Date: 2019-07-26
+Country: Iraq | Location: Dahuk
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Takvim [International]
+
+DESCRIPTION:
+Weapons seizure: As reported on July 26, the Turkish military (during operation claw), seized 1 AT4 antitank gun, one Zagros sniper gun, one Dragunov sniper gun, one HK-33 infantry rifle, three AK-47 infantry rifles, two BKC machine guns, infantry rifle ammunition, various materials used in the construction of EYP in a warehouse in northern Iraq belonging to the PKK.
+
+---
+
+[EVENT: IRQ20871]
+Date: 2019-07-28
+Country: Iraq | Location: As Samawah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Civilians (Kuwait) [Civilians]
+Fatalities: 0
+Sources: Baghdad Post [National]
+
+DESCRIPTION:
+Mass grave: on July 28, Iraqi authorities discovered a mass grave in Muthanna province's desert area containing the remains of 40 Kuwaiti prisoners who were executed in 1990 during the period of late President Saddam Hussein.
+
+---
+
+[EVENT: IRQ20873]
+Date: 2019-07-29
+Country: Iraq | Location: Rashad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: As reported on July 29, police forces destroyed an IS hideout in Rashad district of Kirkuk province and found inside it two homemade explosives and food and medical equipment.
+
+---
+
+[EVENT: IRQ20919]
+Date: 2019-08-02
+Country: Iraq | Location: Nahiyat ar Riyad
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Weapons seizure: on Aug 2, a weapons cache containing 100 IEDs and missiles near Nahiyat al Riyad in Kirkuk province belonging to IS was seized by Iraqi security forces.
+
+---
+
+[EVENT: IRQ20923]
+Date: 2019-08-03
+Country: Iraq | Location: Aradi Hawi al Maytah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 2
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Detonation: As reported on Aug 3, an IS explosives expert and one of his companions were killed while planting an IED in the Al-Mayta area between Diyala and Salah al-Din provinces.
+
+---
+
+[EVENT: IRQ20965]
+Date: 2019-08-09
+Country: Iraq | Location: Zurbatiyah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Explosive remnants of war: As reported on Aug 09, 4 civilians were injured, two of them seriously injured after entering a minefield from the remnants of the Iraq-Iran war near the Iranian border in Zurbatiyah area in Wassit province.
+
+---
+
+[EVENT: IRQ20993]
+Date: 2019-08-12
+Country: Iraq | Location: Al Qayyarah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Property destruction: On Aug 12, the PMF destroyed an IS tunnel used by the militants to move around and as a supply line.
+
+---
+
+[EVENT: IRQ20997]
+Date: 2019-08-12
+Country: Iraq | Location: Mintaqat Uwaysat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Property destruction: On 12 August 2019, the PMF's (brigades 46 and 47) Kataib Hizbullah backed by the Iraqi air force destroyed a vehicle belonging to IS militants and seized a weapons depot in Mintaqat Uwaysat in Jurf Al Sakhr north of Babil province.
+
+---
+
+[EVENT: IRQ21070]
+Date: 2019-08-22
+Country: Iraq | Location: Baghdad
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) Popular Mobilization Forces [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Maloomah; Twitter [New media-National]
+
+DESCRIPTION:
+Interception: On Aug 22, the PMF air force shot down an unidentified reconnaissance drone flying above their headquarters in Baghdad, some reports point that it was not downed but forces to retreat after being fired at. No fatalities or injuries were reported.
+
+---
+
+[EVENT: IRQ21094]
+Date: 2019-08-25
+Country: Iraq | Location: Al Qayyarah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: as reported on Aug 25, Iraqi forces discovered an IS explosives warehouse and seized its materials, which included 37 explosive cylinders of various sizes in the area of Tel Shir in Qayyara district in Mosul.
+
+---
+
+[EVENT: IRQ21106]
+Date: 2019-08-26
+Country: Iraq | Location: Mosul
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) Popular Mobilization Forces [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Interception: On Aug 26, there are unconfirmed reports of the PMF intercepting an unidentified drone in Ninewa province (coded at provincial capital).
+
+---
+
+[EVENT: IRQ21148]
+Date: 2019-09-01
+Country: Iraq | Location: Adhaim
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: as reported on Sept 1, military forces raided and destroyed an IS hideout in Adhaim area in Diyala province, and found a cache of equipment including explosive devices, 82mm, and 60mm mortar rounds and a Bazooka rocket.
+
+---
+
+[EVENT: IRQ21161]
+Date: 2019-09-02
+Country: Iraq | Location: Tulul al Tash
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Defusal: on Sept 2, security forces defused two gallons of explosives in Ramadi district, Anbar, belonging to an unidentified armed group, without any injuries or fatalities from the security forces.
+
+---
+
+[EVENT: IRQ21177]
+Date: 2019-09-04
+Country: Iraq | Location: Shurah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Mass grave: as reported on Sept 4, a mass grave with the remains of 13 women, who are believed to have been IS victims was found in al Shurah area, south of Mosul.
+
+---
+
+[EVENT: IRQ21179]
+Date: 2019-09-04
+Country: Iraq | Location: Hatra
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Property destruction: on Sept 4, Iraqi forces destroyed two IS caches containing explosives, and two hideouts in the desert area in Abu Kasyum in Hatra district, Ninewa province.
+
+---
+
+[EVENT: IRQ21186]
+Date: 2019-09-05
+Country: Iraq | Location: Wadi Zaghaytun
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Property destruction: as reported on Sept 5, the Iraqi police force backed by the global coalition carried out a search operation in the Zaghyatun valley and discovered a cache of IS. An underground room containing integrated equipment, mattresses, cooking utensils and two explosive devices was destroyed.
+
+---
+
+[EVENT: IRQ21185]
+Date: 2019-09-05
+Country: Iraq | Location: Kirkuk
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Property destruction: as reported on Sept 5, Iraqi military forces backed by the police carried out a search operation in Wadi Karha and discovered two hideouts belonging to IS containing five explosive devices and 30 explosive rulers and 300 gunpowder elements and a generator, a solar generator, two tents, various food items and military clothes which were all destroyed.
+
+---
+
+[EVENT: IRQ21183]
+Date: 2019-09-05
+Country: Iraq | Location: Qaryat al Naimiyah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Defusal: as reported on Sept 5, Iraqi forces defused 50 explosive devices in the marshes of Nuaimiya and the Hitawiyeen in Anbar province.
+
+---
+
+[EVENT: IRQ21192]
+Date: 2019-09-06
+Country: Iraq | Location: Mutaibijah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Property destruction: As reported on Sept 06, Iraqi forces raided and destroyed seven IS hideouts in the Mutaibijah area in Salahuddin province. No reported injuries or fatalities.
+
+---
+
+[EVENT: IRQ21195]
+Date: 2019-09-06
+Country: Iraq | Location: Ain Assad Air Base
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2017-2021) [External/Other forces]
+Fatalities: 0
+Sources: Xinhua; Twitter; Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Security measures: on Sept 06, a US convoy of 108 trucks loaded with equipment, weapons and vehicles coming from Jordan through the port of Turaybil arrived at Ayn al Assad airbase in Anbar province.
+
+---
+
+[EVENT: IRQ21223]
+Date: 2019-09-10
+Country: Iraq | Location: Kut
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) Counter-Terrorism Service [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: on Sept 10, the Wassit counter-terrorism forces and Rapid Reactions Forces seized a large pile of explosives, IEDs and mortar shells in the north of the province (coded at provincial capital).
+
+---
+
+[EVENT: IRQ21233]
+Date: 2019-09-11
+Country: Iraq | Location: Nahiyat Kanan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) Popular Mobilization Forces [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Interception: On Sept 11, the PMF's Abbas Combat division (brigade 26) anti-aircraft opened fire on unknown drones while flying above one of its headquarters in Nahiyat Kanan in Diyala province, prompting them to withdraw.
+
+---
+
+[EVENT: IRQ21241]
+Date: 2019-09-12
+Country: Iraq | Location: Wadi al Ghadf
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: Iraqi forces discovered and seized 570 explosive belts, in addition to explosive devices, grenades, and mines, inside an IS cache in Wadi Al-Qadf in Anbar desert.
+
+---
+
+[EVENT: IRQ21259]
+Date: 2019-09-15
+Country: Iraq | Location: Mosul - Old City
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraq News Gazette; National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: As reported on Sept 15, Iraqi forces seized two weapons caches of 80 anti-aircraft (Stirla) missiles, large quantities of explosives, launchers and rockets belonging to IS in the areas of Al-Saif and Al-Faruq (Old City) in Mosul city.
+
+---
+
+[EVENT: IRQ21262]
+Date: 2019-09-15
+Country: Iraq | Location: Tikrit
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) Popular Mobilization Forces [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Al Maloomah [National]
+
+DESCRIPTION:
+Interception: On Sept 15, the PMF's brigades 41 and 43, intercepted an unknown drone flying above Salahuddin province.
+
+---
+
+[EVENT: IRQ21275]
+Date: 2019-09-17
+Country: Iraq | Location: Wadi al Ghadf
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Property destruction: on Sept 17, security forces with the backing of the air force, the PMF and TMF as part of Operation Will of Victory phase 5 destroyed nine IS tunnels in the Wadi al Ghadaf area, western Anbar province.
+
+---
+
+[EVENT: IRQ21278]
+Date: 2019-09-17
+Country: Iraq | Location: Bashiqah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Defusal: On Sept 17, the PMF's Shabak and Badr brigades defused 300 IEDs in agricultural land in the Bashiqah area in Mosul.
+
+---
+
+[EVENT: IRQ21285]
+Date: 2019-09-18
+Country: Iraq | Location: Mukeshefah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Sumaria TV [National]
+
+DESCRIPTION:
+Defusal: On Sept 18, military forces defused 49 explosive devices belonging to IS in the Mukeshefah Island in Salahuddin province.
+
+---
+
+[EVENT: IRQ21298]
+Date: 2019-09-19
+Country: Iraq | Location: Sulaymaniyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: KDP: Kurdistan Democratic Party [Political militia]
+Fatalities: 0
+Sources: Kurdistan24 [National]
+
+DESCRIPTION:
+Property destruction: On Sept 19, unidentified armed men opened fire at the office of the Kurdistan Democratic Party (KDP) in the city of Sulaymaniyah, no reported injuries or fatalities.
+
+---
+
+[EVENT: IRQ21306]
+Date: 2019-09-20
+Country: Iraq | Location: Khanaqin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Unidentified Armed Group (Iraq) [Political militia]
+Fatalities: 0
+Sources: Basnews [National]
+
+DESCRIPTION:
+Interception: On Sept 20, the PMF shot down an unidentified drone flying over the area near Khanaqin town.
+
+---
+
+[EVENT: IRQ21309]
+Date: 2019-09-20
+Country: Iraq | Location: Erbil
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: PUK: Patriotic Union of Kurdistan [Political militia]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Property destruction: On Sept 20, the Patriotic Union of Kurdistan's (PUK) headquarters in Erbil city came under fire from unknown gunmen. No reported injuries or fatalities.
+
+---
+
+[EVENT: IRQ21314]
+Date: 2019-09-21
+Country: Iraq | Location: Khanaqin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Basnews; Patriotic Union of Kurdistan [National]
+
+DESCRIPTION:
+Property destruction: On Sept 21, IS militants burned five homes belonging to buffalo herders and killed many buffalo in the village of Meidan near Khanaqin town in Diyala province. No reported injuries or fatalities.
+
+---
+
+[EVENT: IRQ21332]
+Date: 2019-09-23
+Country: Iraq | Location: Kirkuk
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iraq) [Political militia]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Baghdad Today [National]
+
+DESCRIPTION:
+Property destruction: On Sept 23, unidentified armed men on a motorcycle fired at the Turkmen Front base in Kirkuk district. No reported injuries or fatalities.
+
+---
+
+[EVENT: IRQ21341]
+Date: 2019-09-24
+Country: Iraq | Location: Taza
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) Popular Mobilization Forces [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Basnews [Subnational]
+
+DESCRIPTION:
+Looting: On Sept 24, the PMF allegedly looted properties at a marketplace in the Khan Khurma marketplace in Kirkuk.
+
+---
+
+[EVENT: IRQ21338]
+Date: 2019-09-24
+Country: Iraq | Location: Al Uwaysat
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) Iraqi National Intelligence Service [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Iraq News Gazette [National]
+
+DESCRIPTION:
+Weapons seizure: As reported on Sept 24, the National Intelligence Service, with the support of the PMF, seized a pile of ammunition in the area of Al-Uwaisat, in Anbar province, containing materials involved in the manufacture of IEDs; 16 kg of gunpowder, 16 damaged 82 mm mortar rounds, 17 damaged 60 mm mortar rounds, 15 stun guns, 4 damaged communication devices, 2 kilograms of propellant filler, 500 bullets of hunting rifle, 5 enlightenment launches and 5 damaged launcher rockets.
+
+---
+
+[EVENT: IRQ26663]
+Date: 2019-09-26
+Country: Iraq | Location: Zewka
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Airwars [Other]
+
+DESCRIPTION:
+Displacement: On 26 September 2019, 20 families from the Kurdish village of Zewka, Pishdar district, Ninewa fled their homes.
+
+---
+
+[EVENT: IRQ21361]
+Date: 2019-09-26
+Country: Iraq | Location: Wadi al Ghadf
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Weapons seizure: On Sept 26, Iraqi military forces and National Intelligence forces seized large caches of ammunition containing 360 improvised explosive device (IEDs), 42 anti-tank mines, 200 RPG-7, 95 heat-seeking missiles and 18 jerrycans filled with ammonia nitrate belonging to IS in the area of Wadi al-Qadhif south of al-Rutba.
+
+---
+
+[EVENT: IRQ21365]
+Date: 2019-09-27
+Country: Iraq | Location: Baghdad - 9 Nissan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2018-2020) Popular Mobilization Forces [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National Iraqi News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: As reported on Sept 27, the PMF forces seized various weapons and materiel from an IS hideout, reportedly thwarting a planned attack on Baghdad.
+
+---
+
+[EVENT: IRQ21379]
+Date: 2019-09-28
+Country: Iraq | Location: Taza
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Basnews [Subnational]
+
+DESCRIPTION:
+On 28 September 2019, the PKK set up a military base near Tuz Khurmatu in Diyala province. The base will be a recruitment center where the fresh forces receive military training before their deployment to Qandil.
+
+---
+
+[EVENT: IRQ21381]
+Date: 2019-09-29
+Country: Iraq | Location: Sinjar
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Basnews [Subnational]
+
+DESCRIPTION:
+Mass grave: as reported on Sept 29, a mass grave containing an unidentified number of remains belonging to Kurdish Yezidis believed to have been killed by IS militants was identified outside of Sinjar district.
+
+---
+
+[EVENT: IRQ21382]
+Date: 2019-09-30
+Country: Iraq | Location: Sarkaran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Iraq (2018-2020) Iraqi National Intelligence Service [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: Al Ghad Press [National]
+
+DESCRIPTION:
+Weapons seizure: on Sept 30, the Iraqi intelligence service seized an IS weapons cache in Sarkaran area in Kirkuk province containing grenades, 30 explosive devices, 100 kg of ammonia nitrate, 15 bombs, 6 blasting rulers and 4 Kalashnikovs.

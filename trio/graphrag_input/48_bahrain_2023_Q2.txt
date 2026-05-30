@@ -1,0 +1,2558 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Bahrain (ISO Code: 48)
+Temporal Period: Year 2023 - Quarter Q2
+Total Events in Chunk: 196 / 196
+==================================================
+
+[EVENT: BHR10958]
+Date: 2023-04-01
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 1 April 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to their immediate and unconditional release.
+
+---
+
+[EVENT: BHR12068]
+Date: 2023-04-01
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 1 April 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to their immediate and unconditional release.
+
+---
+
+[EVENT: BHR10957]
+Date: 2023-04-01
+Country: Bahrain | Location: Al Maamir
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 1 April 2023, protesters, including February 14 Youth Coalition, held a demonstration in Al Maamir (Capital) in solidarity with political prisoners and their right to their immediate and unconditional release.
+
+---
+
+[EVENT: BHR10961]
+Date: 2023-04-02
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 2 April 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to their immediate and unconditional release.
+
+---
+
+[EVENT: BHR10960]
+Date: 2023-04-02
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 2 April 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to their immediate and unconditional release.
+
+---
+
+[EVENT: BHR10962]
+Date: 2023-04-04
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 4 April 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to their immediate and unconditional release.
+
+---
+
+[EVENT: BHR10963]
+Date: 2023-04-06
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 6 April 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to their immediate and unconditional release.
+
+---
+
+[EVENT: BHR10964]
+Date: 2023-04-06
+Country: Bahrain | Location: Al Markh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 6 April 2023, protesters, including February 14 Youth Coalition, held a demonstration in Al Markh (Northern) in solidarity with Palestinian people and the continuity of the 'revolutionary movement'.
+
+---
+
+[EVENT: BHR10966]
+Date: 2023-04-07
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 7 April 2023, women protesters held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to their immediate and unconditional release.
+
+---
+
+[EVENT: BHR10965]
+Date: 2023-04-07
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 7 April 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to their immediate and unconditional release.
+
+---
+
+[EVENT: BHR12169]
+Date: 2023-04-08
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 8 April 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to their immediate release.
+
+---
+
+[EVENT: BHR10969]
+Date: 2023-04-08
+Country: Bahrain | Location: Al Muharraq
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 8 April 2023, protesters, including February 14 Youth Coalition, held a large demonstration in Al Muharraq (Capital) in solidarity with the Palestinian people and denouncing the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR10968]
+Date: 2023-04-08
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 8 April 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to their immediate release.
+
+---
+
+[EVENT: BHR10971]
+Date: 2023-04-09
+Country: Bahrain | Location: Ash Shakhurah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 9 April 2023, demonstrators from Abu Saybi and Ash Shakhurah, including February 14 Youth Coalition, blocked the street with fire in one of the two cities (coded to Ash Shakhurah) (Northern) on the occasion of the anniversary of the death of demonstrator Muhammed Jumaa in 2002.
+
+---
+
+[EVENT: BHR10984]
+Date: 2023-04-09
+Country: Bahrain | Location: Al Busaytin
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum; Bahrain Mirror; LuaLua TV [National]
+
+DESCRIPTION:
+On 9 April 2023, protesters held a sit-in in Al Busaytin (Muharraq) to celebrate Al Quds International Day and to denounce the normalization of diplomatic ties with Israel and the Israeli 'aggression' targeting Al Aqsa mosque and worshipers in the mosque.
+
+---
+
+[EVENT: BHR10970]
+Date: 2023-04-12
+Country: Bahrain | Location: Samahij
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 12 April 2023, protesters, including February 14 Youth Coalition, held a demonstration under the slogans 'We will break the fast in Al Quds' and 'The West Bank is Al Quds' shield' in Samahij (Muharraq) to celebrate Al Quds International Day and to denounce the normalization of diplomatic ties with Israel and the Israeli 'aggression' targeting Al Aqsa mosque and worshipers in the mosque.
+
+---
+
+[EVENT: BHR10972]
+Date: 2023-04-12
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 12 April 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners.
+
+---
+
+[EVENT: BHR10973]
+Date: 2023-04-13
+Country: Bahrain | Location: Samahij
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 13 April 2023, protesters, including February 14 Youth Coalition, held a large demonstration in Samahij (Muharraq) to celebrate Al Quds International Day under the slogan 'We will break the fast in Al Quds' and 'The West Banks is Al Quds' shield'.
+
+---
+
+[EVENT: BHR11090]
+Date: 2023-04-14
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 14 April 2023, women protesters, including February 14 Youth Coalition, held a demonstration under the slogan 'We will break the fast in Al Quds' and 'The West Banks is Al Quds' shield' in Demistan (Northern) to celebrate Al Quds International Day and to denounce the normalization of diplomatic ties with Israel and the Israeli 'aggression' targeting Al Aqsa mosque and worshipers in the mosque.
+
+---
+
+[EVENT: BHR10979]
+Date: 2023-04-14
+Country: Bahrain | Location: Sitrah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 14 April 2023, protesters, including February 14 Youth Coalition, held a demonstration under the slogan 'We will break the fast in Al Quds' and 'The West Banks is Al Quds' shield' in Sitrah (Capital) to celebrate Al Quds International Day and to denounce the normalization of diplomatic ties with Israel and the Israeli 'aggression' targeting Al Aqsa mosque and worshipers in the mosque.
+
+---
+
+[EVENT: BHR10981]
+Date: 2023-04-14
+Country: Bahrain | Location: Al Malikiyah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 14 April 2023, protesters, including February 14 Youth Coalition, held a demonstration under the slogan 'We will break the fast in Al Quds' and 'The West Banks is Al Quds' shield' in Al Malikiyah (Northern) to celebrate Al Quds International Day and to denounce the normalization of diplomatic ties with Israel and the Israeli 'aggression' targeting Al Aqsa mosque and worshipers in the mosque.
+
+---
+
+[EVENT: BHR11091]
+Date: 2023-04-14
+Country: Bahrain | Location: Abu Saybi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Mirror [National]
+
+DESCRIPTION:
+Around 14 April 2023 (between 13 - 14 April), protesters held demonstrations in Al Muqsha (Capital), Demistan (Northern), and Abu Saybi (Northern) to celebrate Al Quds International Day and to denounce the normalization of diplomatic ties with Israel and the Israeli 'aggression' targeting Al Aqsa mosque and worshipers in the mosque.
+
+---
+
+[EVENT: BHR10983]
+Date: 2023-04-14
+Country: Bahrain | Location: Shahrakkan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 14 April 2023, protesters, including February 14 Youth Coalition, held a demonstration under the slogan 'We will break the fast in Al Quds' and 'The West Banks is Al Quds' shield' in Shahrakkan (Northern) to celebrate Al Quds International Day and to denounce the normalization of diplomatic ties with Israel and the Israeli 'aggression' targeting Al Aqsa mosque and worshipers in the mosque.
+
+---
+
+[EVENT: BHR10980]
+Date: 2023-04-14
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 14 April 2023, protesters, including February 14 Youth Coalition, held a demonstration under the slogan 'We will break the fast in Al Quds' and 'The West Banks is Al Quds' shield' in Al Diraz (Northern) to celebrate Al Quds International Day and to denounce the normalization of diplomatic ties with Israel and the Israeli 'aggression' targeting Al Aqsa mosque and worshipers in the mosque.
+
+---
+
+[EVENT: BHR10974]
+Date: 2023-04-14
+Country: Bahrain | Location: Al Maamir
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 14 April 2023, protesters, including February 14 Youth Coalition, held a demonstration under the slogan 'We will break the fast in Al Quds' and 'The West Banks is Al Quds' shield' in Al Maamir (Capital) to celebrate Al Quds International Day and to denounce the normalization of diplomatic ties with Israel and the Israeli 'aggression' targeting Al Aqsa mosque and worshipers in the mosque.
+
+---
+
+[EVENT: BHR10982]
+Date: 2023-04-14
+Country: Bahrain | Location: Ash Shakhurah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 14 April 2023, protesters, including February 14 Youth Coalition, held a march under the slogan 'We will break the fast in Al Quds' and 'The West Banks is Al Quds' shield' from Abu Saybi to Ash Shakhurah (Northern) to celebrate Al Quds International Day and to denounce the normalization of diplomatic ties with Israel and the Israeli 'aggression' targeting Al Aqsa mosque and worshipers in the mosque.
+
+---
+
+[EVENT: BHR10992]
+Date: 2023-04-14
+Country: Bahrain | Location: Nuwaidrat
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 14 April 2023, protesters, including February 14 Youth Coalition, held a demonstration under the slogan 'We will break the fast in Al Quds' and 'The West Banks is Al Quds' shield' in Nuwaidrat (Southern) to celebrate Al Quds International Day and to denounce the normalization of diplomatic ties with Israel and the Israeli 'aggression' targeting Al Aqsa mosque and worshipers in the mosque.
+
+---
+
+[EVENT: BHR10985]
+Date: 2023-04-14
+Country: Bahrain | Location: Al Muqsha
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Mirror [National]
+
+DESCRIPTION:
+Around 14 April 2023 (between 13 - 14 April), protesters held demonstrations in Al Muqsha (Capital), Demistan (Northern), and Abu Saybi (Northern) to celebrate Al Quds International Day and to denounce the normalization of diplomatic ties with Israel and the Israeli 'aggression' targeting Al Aqsa mosque and worshipers in the mosque.
+
+---
+
+[EVENT: BHR10978]
+Date: 2023-04-14
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 14 April 2023, protesters, including February 14 Youth Coalition, held a demonstration under the slogan 'We will break the fast in Al Quds' and 'The West Banks is Al Quds' shield' in Sanabis (Capital) to celebrate Al Quds International Day and to denounce the normalization of diplomatic ties with Israel and the Israeli 'aggression' targeting Al Aqsa mosque and worshipers in the mosque.
+
+---
+
+[EVENT: BHR10977]
+Date: 2023-04-14
+Country: Bahrain | Location: Karbabad
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 14 April 2023, protesters, including February 14 Youth Coalition, held a demonstration under the slogan 'We will break the fast in Al Quds' and 'The West Banks is Al Quds' shield' in Karbabad (Capital) to celebrate Al Quds International Day and to denounce the normalization of diplomatic ties with Israel and the Israeli 'aggression' targeting Al Aqsa mosque and worshipers in the mosque.
+
+---
+
+[EVENT: BHR10976]
+Date: 2023-04-14
+Country: Bahrain | Location: Bilad al Qadim
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 14 April 2023, protesters, including February 14 Youth Coalition, held a demonstration under the slogan 'We will break the fast in Al Quds' and 'The West Banks is Al Quds' shield' in Bilad al Qadim (Capital) to celebrate Al Quds International Day and to denounce the normalization of diplomatic ties with Israel and the Israeli 'aggression' targeting Al Aqsa mosque and worshipers in the mosque.
+
+---
+
+[EVENT: BHR10975]
+Date: 2023-04-14
+Country: Bahrain | Location: Al Musalla
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 14 April 2023, protesters, including February 14 Youth Coalition, held a demonstration under the slogan 'We will break the fast in Al Quds' and 'The West Banks is Al Quds' shield' in Al Musalla (Capital) to celebrate Al Quds International Day and to denounce the normalization of diplomatic ties with Israel and the Israeli 'aggression' targeting Al Aqsa mosque and worshipers in the mosque.
+
+---
+
+[EVENT: BHR10993]
+Date: 2023-04-15
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 15 April 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and the Palestinian cause.
+
+---
+
+[EVENT: BHR10994]
+Date: 2023-04-16
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 16 April 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR10988]
+Date: 2023-04-17
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 17 April 2023, women protesters held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR10995]
+Date: 2023-04-17
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 17 April 2023, protesters held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR10996]
+Date: 2023-04-18
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 18 April 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR10997]
+Date: 2023-04-19
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 19 April 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR10989]
+Date: 2023-04-19
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 19 April 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR10998]
+Date: 2023-04-20
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 20 April 2023, protesters held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR10990]
+Date: 2023-04-20
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 20 April 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoner Abdel Wahab Husayn and other political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR10987]
+Date: 2023-04-21
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 21 April 2023, protesters, including February 14 Youth Coalition, held a demonstration in Al Diraz (Northern) in solidarity with political prisoner Abdel Wahab Husayn and his right to immediate release.
+
+---
+
+[EVENT: BHR10991]
+Date: 2023-04-21
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 21 April 2023, women protesters held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR10999]
+Date: 2023-04-21
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 21 April 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoner Abdel Wahab Husayn and other political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11000]
+Date: 2023-04-23
+Country: Bahrain | Location: Jaw Prison
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: ADHRB; Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 23 April 2023, political prisoners of Building 9 in Ward 1 started a sit-in in Jaw Prison (Southern) to denounce medical neglect.
+
+---
+
+[EVENT: BHR11001]
+Date: 2023-04-28
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 28 April 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoner Abdel Wahab Husayn and other political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11002]
+Date: 2023-04-28
+Country: Bahrain | Location: Al Muqsha
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 28 April 2023, protesters, including February 14 Youth Coalition, held a demonstration in Al Muqsha (Capital) in commemoration of the two 'martyrs' Ahmed al Masgan and Ali Abbas and to denounce the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR11004]
+Date: 2023-04-29
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 29 April 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11003]
+Date: 2023-04-29
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 29 April 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11005]
+Date: 2023-04-30
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 30 April 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoner Abdel Wahab Husayn and other political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11006]
+Date: 2023-05-01
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 1 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11007]
+Date: 2023-05-01
+Country: Bahrain | Location: Ash Shakhurah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 1 May 2023, protesters, including February 14 Youth Coalition, held a march from Abu Saybi to Ash Shakhurah (Northern) in solidarity with labor groups and political prisoners and against discrimination in favor of migrant workers.
+
+---
+
+[EVENT: BHR11009]
+Date: 2023-05-02
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 2 May 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11008]
+Date: 2023-05-02
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 2 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11010]
+Date: 2023-05-03
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 3 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11011]
+Date: 2023-05-04
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 4 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11012]
+Date: 2023-05-04
+Country: Bahrain | Location: Jaw Prison
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Actor2: Police Forces of Bahrain (1999-) Prison Guards [State forces]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; AhlulBayt News Agency; Bahrain Alyoum; Bahrain Mirror [Other-National]
+
+DESCRIPTION:
+On 4 May 2023, political prisoners, including February 14 Youth Coalition, held a sit-in protest in Building 6 in Wards 1, 2, and 3 in Jaw Prison (Southern) to denounce their expulsion from their cells and replacement with Asian prisoners as a punishment after their previous sit-in initiated on 23 April to call for better treatment and denounce medical neglect. Prison guards intervened and assaulted the prisoners to force them to end their protest.
+
+---
+
+[EVENT: BHR11014]
+Date: 2023-05-05
+Country: Bahrain | Location: Bu Quwa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 5 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Bu Quwa (Northern) to denounce the assault targeting the endowments and in solidarity with political prisoner Abdel Wahab Husayn and other political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11015]
+Date: 2023-05-05
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 5 May 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11013]
+Date: 2023-05-05
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 5 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to medical care and immediate release.
+
+---
+
+[EVENT: BHR11016]
+Date: 2023-05-06
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 6 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR12172]
+Date: 2023-05-06
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 6 May 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11017]
+Date: 2023-05-07
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 7 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11019]
+Date: 2023-05-07
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 7 May 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11018]
+Date: 2023-05-07
+Country: Bahrain | Location: Al Markh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 7 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Al Markh (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11020]
+Date: 2023-05-08
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 8 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11021]
+Date: 2023-05-09
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 9 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) to commemorate Manhal Al Rabh and in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11023]
+Date: 2023-05-10
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 10 May 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11022]
+Date: 2023-05-10
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 10 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11031]
+Date: 2023-05-10
+Country: Bahrain | Location: Jaw Prison
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Police Forces of Bahrain (1999-) Prison Guards [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: Bahrain Mirror [National]
+
+DESCRIPTION:
+On 10 May 2023, Bahraini prison guards fired pepper spray inside the cells of a number of prisoners in Building 6 in Wards 1 and 2 in Jaw Prison (Southern) causing temporary blindness and shortness of breath. The source claimed that this was retaliatory action for previous protest actions held on 23 April and 4 May to denounce medical neglect and mistreatment and transfer procedures within the prison.
+
+---
+
+[EVENT: BHR11024]
+Date: 2023-05-11
+Country: Bahrain | Location: Manama
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: LuaLua TV [National]
+
+DESCRIPTION:
+On 11 May 2023, unemployed workers held a protest in front of the Social Security Agency building in Manama (Capital) calling on authorities to intervene and provide them with employment.
+
+---
+
+[EVENT: BHR11026]
+Date: 2023-05-11
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 11 May 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11025]
+Date: 2023-05-11
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 11 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11028]
+Date: 2023-05-12
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 12 May 2023, protesters, including February 14 Youth Coalition, held a large demonstration in Al Diraz (Northern) in solidarity with Palestine and to denounce Israeli 'crimes' towards the Palestinian people.
+
+---
+
+[EVENT: BHR11030]
+Date: 2023-05-12
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 12 May 2023, protesters, including February 14 Youth Coalition and women, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11029]
+Date: 2023-05-12
+Country: Bahrain | Location: Barbar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: LuaLua TV [National]
+
+DESCRIPTION:
+On 12 May 2023, protesters held a demonstration in Barbar (Northern) in solidarity with Palestine and to denounce Israeli 'crimes' towards the Palestinian people.
+
+---
+
+[EVENT: BHR11027]
+Date: 2023-05-12
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 12 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11033]
+Date: 2023-05-13
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 13 May 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11032]
+Date: 2023-05-13
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 13 May 2023, protesters, including February 14 Youth Coalition, held a sit-in at the main street in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11034]
+Date: 2023-05-14
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 14 May 2023, protesters, including February 14 Youth Coalition, held a sit-in at the main street in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11036]
+Date: 2023-05-14
+Country: Bahrain | Location: Jaw Prison
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Police Forces of Bahrain (1999-) Prison Guards [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; AhlulBayt News Agency; Bahrain Alyoum; Bahrain Mirror [Other-National]
+
+DESCRIPTION:
+On 14 May 2023, prison guards assaulted political prisoners sentenced to death in Building 6 in Jaw Prison (Southern) resulting in several injuries including burns among prisoners. The assault took place after prison guards stormed the prisoners' cells and destroyed belongings leading some of them to denounce the guards' behavior. 2 prisoners were also transferred to an unknown location.
+
+---
+
+[EVENT: BHR11035]
+Date: 2023-05-14
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 14 May 2023, women protesters held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11037]
+Date: 2023-05-15
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 15 May 2023, protesters held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11039]
+Date: 2023-05-16
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 16 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11040]
+Date: 2023-05-16
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 16 May 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11038]
+Date: 2023-05-16
+Country: Bahrain | Location: Al Maamir
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 16 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Al Maamir (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11042]
+Date: 2023-05-17
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 17 May 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11041]
+Date: 2023-05-17
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 17 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11043]
+Date: 2023-05-18
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 18 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11045]
+Date: 2023-05-19
+Country: Bahrain | Location: Shahrakkan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 19 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Shahrakkan (Northern) in solidarity with Palestinian people and political prisoners.
+
+---
+
+[EVENT: BHR11044]
+Date: 2023-05-19
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 19 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11056]
+Date: 2023-05-20
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 20 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11055]
+Date: 2023-05-21
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 21 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11054]
+Date: 2023-05-21
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 21 May 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11089]
+Date: 2023-05-22
+Country: Bahrain | Location: Southern Sehla
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 22 May 2023, demonstrators, including February 14 Youth Coalition, blocked the street with fire in Southern Sehla (Capital) in solidarity with political prisoners and to denounce the arrest of Shiite sheikh Muhammad Sanqur after his Friday sermon that same day.
+
+---
+
+[EVENT: BHR11085]
+Date: 2023-05-22
+Country: Bahrain | Location: Manama
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 22 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Manama city (Capital) in solidarity with political prisoners and to denounce the arrest of Shiite sheikh Muhammad Sanqur after his Friday sermon that same day.
+
+---
+
+[EVENT: BHR11058]
+Date: 2023-05-22
+Country: Bahrain | Location: Sanabis
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; Bahrain Center for Human Rights [Other-National]
+
+DESCRIPTION:
+On 22 May 2023, Bahraini police forces detained the Shiite sheikh Mohamed Sonqour in Sanabis (Capital) after summoning him for investigation due to 'repeating inflammatory speeches' during his Friday sermons that involved 'illegal violations, including insulting the authorities and openly inciting hatred and contempt for a group of people'. His detainment inspired protests across the country. He was released 4 days later.
+
+---
+
+[EVENT: BHR11049]
+Date: 2023-05-22
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 22 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in front of Shiite sheikh Mohamed Sonqour's house in Sanabis (Capital) to denounce his arrest due to his Friday sermon and call for his release.
+
+---
+
+[EVENT: BHR11059]
+Date: 2023-05-22
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 22 May 2023, women protesters held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11050]
+Date: 2023-05-23
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 23 May 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and the Shiite sheikh Mohamed Sonqour, who was arrested on 22 May 2023 after his Friday sermon.
+
+---
+
+[EVENT: BHR11047]
+Date: 2023-05-23
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 23 May 2023, protesters, including February 14 Youth Coalition, held a large demonstration in Al Diraz (Northern) on the occasion of 'Martyrs of redemption' in solidarity with political prisoners and the Shiite sheikh Mohamed Sonqour, who was arrested on 22 May 2023 after his Friday sermon.
+
+---
+
+[EVENT: BHR11088]
+Date: 2023-05-23
+Country: Bahrain | Location: Karbabad
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 23 May 2023, demonstrators, including February 14 Youth Coalition, blocked a street by lighting unspecified material on fire in Karbabad (Capital) in solidarity with political prisoners and Shiite sheikh Muhammad Sanqur who was arrested on 22 May after his Friday sermon.
+
+---
+
+[EVENT: BHR11087]
+Date: 2023-05-23
+Country: Bahrain | Location: Al Maamir
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 23 May 2023, demonstrators, including February 14 Youth Coalition, blocked a street by lighting unspecified material on fire in Al Maamir (Capital) in solidarity with political prisoners and Shiite sheikh Muhammad Sanqur who was arrested on 22 May after his Friday sermon.
+
+---
+
+[EVENT: BHR11086]
+Date: 2023-05-23
+Country: Bahrain | Location: Al Akr
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 23 May 2023, demonstrators, including February 14 Youth Coalition, blocked the street with fire in Al Akr (Capital) in solidarity with political prisoners and Shiite sheikh Muhammad Sanqur who was arrested on 22 May after his Friday sermon.
+
+---
+
+[EVENT: BHR12174]
+Date: 2023-05-24
+Country: Bahrain | Location: Manama
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 24 May 2023, protesters, including February 14 Youth Coalition, held a demonstration on Al Badi street west of Manama city (Capital) in solidarity with political prisoners and the Shiite sheikh Mohamed Sonqour, who was arrested on 22 May 2023 after his Friday sermon.
+
+---
+
+[EVENT: BHR11046]
+Date: 2023-05-24
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 24 May 2023, hundreds of protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) to denounce the arrest of Shiite sheikh Muhammad Sanqur on 22 May after his Friday sermon. Protesters staged a sit-in in front of Sanqur's house in the city.
+
+---
+
+[EVENT: BHR11057]
+Date: 2023-05-24
+Country: Bahrain | Location: Jidd Hafs
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Al Wafa [Other]
+
+DESCRIPTION:
+On 24 May 2023, demonstrators held a demonstration in Jidd Hafs (Capital) in solidarity with political prisoners and to denounce the arrest of the Shiite sheikh Mohamed Sonqour after his Friday sermon.
+
+---
+
+[EVENT: BHR11084]
+Date: 2023-05-24
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 24 May 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and Shiite sheikh Muhammad Sanqur who was arrested on 22 May after his Friday sermon.
+
+---
+
+[EVENT: BHR11051]
+Date: 2023-05-25
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; AhlulBayt News Agency [Other-Regional]
+
+DESCRIPTION:
+On 25 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners.
+
+---
+
+[EVENT: BHR12173]
+Date: 2023-05-25
+Country: Bahrain | Location: Ash Shakhurah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 25 May 2023, demonstrators from Abu Saybi and Ash Shakhurah, including February 14 Youth Coalition, blocked a street by lighting unspecified material on fire in one of the two cities (coded to Ash Shakhurah) (Northern) in solidarity with political prisoners and the Shiite sheikh Mohamed Sonqour, who was arrested on 22 May 2023 after his Friday sermon.
+
+---
+
+[EVENT: BHR11048]
+Date: 2023-05-26
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Bahrain Alyoum; Bahrain Mirror; Press TV [Other-National]
+
+DESCRIPTION:
+On 26 May 2023, hundreds of protesters, including February 14 Youth Coalition, held a large demonstration in Al Diraz (Northern) in solidarity with political prisoners and to denounce the arrest of Shiite sheikh Muhammad Sanqur on 22 May after his Friday sermon. They also denounced the normalization of diplomatic ties with Israel.
+
+---
+
+[EVENT: BHR11052]
+Date: 2023-05-26
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 26 May 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to immediate release.
+
+---
+
+[EVENT: BHR11053]
+Date: 2023-05-26
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 26 May 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and against death penalty.
+
+---
+
+[EVENT: BHR11060]
+Date: 2023-05-27
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 27 May 2023, protesters, including 14 February Revolution Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11062]
+Date: 2023-05-28
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 28 May 2023, women protesters, including 14 February Revolution Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11061]
+Date: 2023-05-28
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 28 May 2023, protesters, including 14 February Revolution Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11065]
+Date: 2023-05-29
+Country: Bahrain | Location: Al Diraz
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 29 May 2023, demonstrators, including 14 February Revolution Youth Coalition, cut the road with burning tires in Al Diraz (Northern) to denounce the execution of 2 Bahrainis by Saudi authorities the same day under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11066]
+Date: 2023-05-29
+Country: Bahrain | Location: Ash Shakhurah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 29 May 2023, demonstrators, including 14 February Revolution Youth Coalition, cut the road with burning garbage during a march from Abu Saybi to Ash Shakhurah (Northern) to denounce the execution of 2 Bahrainis by Saudi authorities the same day under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11067]
+Date: 2023-05-29
+Country: Bahrain | Location: Demistan
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 29 May 2023, demonstrators, including 14 February Revolution Youth Coalition, cut the road with burning tires in Demistan (Northern) to denounce the execution of 2 Bahrainis by Saudi authorities the same day under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11063]
+Date: 2023-05-29
+Country: Bahrain | Location: Al Maamir
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 29 May 2023, demonstrators, including 14 February Revolution Youth Coalition, cut the road with burning tires in Al Maamir (Capital) to denounce the execution of 2 Bahrainis by Saudi authorities the same day under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11064]
+Date: 2023-05-29
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 29 May 2023, protesters, including 14 February Revolution Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and to denounce the execution of 2 Bahrainis by Saudi authorities the same day under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11068]
+Date: 2023-05-29
+Country: Bahrain | Location: Dar Kulaib
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; ADHRB; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 29 May 2023, thousands of protesters, including 14 February Revolution Youth Coalition, held a large march in Dar Kulaib (Southern) to denounce the execution of 2 Bahrainis by Saudi authorities the same day under accusations of 'terrorist' acts. Dar Kulaib is the home town of the 2 Bahraini who were executed.
+
+---
+
+[EVENT: BHR11069]
+Date: 2023-05-30
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 30 May 2023, protesters, including 14 February Revolution Youth Coalition, held a march in Sanabis (Capital) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts. They also set fire to the photo of Saudi Crown Prince Muhammad bin Salman.
+
+---
+
+[EVENT: BHR11072]
+Date: 2023-05-30
+Country: Bahrain | Location: Nuwaidrat
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 30 May 2023, demonstrators, including 14 February Revolution Youth Coalition, cut the road with burning tires in Nuwaidrat (Southern) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11071]
+Date: 2023-05-30
+Country: Bahrain | Location: Dar Kulaib
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 30 May 2023, protesters, including 14 February Revolution Youth Coalition, held a large march in Dar Kulaib (Southern) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts. Dar Kulaib is the home town of the 2 Bahraini who were executed.
+
+---
+
+[EVENT: BHR11070]
+Date: 2023-05-30
+Country: Bahrain | Location: Al Malikiyah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 30 May 2023, demonstrators, including 14 February Revolution Youth Coalition, cut the road with burning tires in Al Malikiyah (Northern) and set fire to the photo of Saudi Crown Prince Muhammad bin Salman to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11073]
+Date: 2023-05-31
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 31 May 2023, protesters, including 14 February Revolution Youth Coalition, held a demonstration in Sanabis (Capital) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11077]
+Date: 2023-05-31
+Country: Bahrain | Location: Karzakkan
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 31 May 2023, demonstrators, including 14 February Revolution Youth Coalition, cut the road with burning garbage in Karzakkan (Northern) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11076]
+Date: 2023-05-31
+Country: Bahrain | Location: Al Malikiyah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 31 May 2023, demonstrators, including 14 February Revolution Youth Coalition, cut the road with burning tires in Al Malikiyah (Northern) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11074]
+Date: 2023-05-31
+Country: Bahrain | Location: Sitrah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 31 May 2023, demonstrators, including 14 February Revolution Youth Coalition, cut the road with burning tires in Sitrah (Capital) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11075]
+Date: 2023-05-31
+Country: Bahrain | Location: Southern Sehla
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 31 May 2023, demonstrators, including 14 February Revolution Youth Coalition, cut the road with burning tires in Southern Sehla (Capital) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11092]
+Date: 2023-06-01
+Country: Bahrain | Location: Jaw Prison
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Actor2: Police Forces of Bahrain (1999-) Prison Guards [State forces]
+Fatalities: 0
+Sources: ADHRB; AhlulBayt News Agency; LuaLua TV [National-Regional]
+
+DESCRIPTION:
+On 1 June 2023, prisoners in cells 7, 8, and 9 in Block 2 in Building 9 held a protest in Jaw Prison (Southern) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts. Prison guards intervened and 'punished' them.
+
+---
+
+[EVENT: BHR11078]
+Date: 2023-06-01
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 1 June 2023, protesters, including 14 February Revolution Youth Coalition, held a demonstration in Sanabis (Capital) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11079]
+Date: 2023-06-01
+Country: Bahrain | Location: Demistan
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 1 June 2023, demonstrators, including 14 February Revolution Youth Coalition, cut the road with burning tires in Demistan (Northern) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11080]
+Date: 2023-06-01
+Country: Bahrain | Location: Dar Kulaib
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 1 June 2023, protesters, including 14 February Revolution Youth Coalition, held a large march with candles in Dar Kulaib (Southern) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts. Dar Kulaib is the home town of the 2 Bahraini who were executed.
+
+---
+
+[EVENT: BHR12222]
+Date: 2023-06-02
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 2 June 2023, women demonstrators held a protest in Demistan (Northern) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11083]
+Date: 2023-06-02
+Country: Bahrain | Location: Demistan
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 2 June 2023, demonstrators, including 14 February Revolution Youth Coalition, cut the road with burning tires in Demistan (Northern) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11082]
+Date: 2023-06-02
+Country: Bahrain | Location: Ash Shakhurah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 2 June 2023, protesters, including 14 February Revolution Youth Coalition, held a march from Abu Saybi to Ash Shakhurah (Northern) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts. They called for the return of their bodies to Bahrain.
+
+---
+
+[EVENT: BHR11081]
+Date: 2023-06-02
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 2 June 2023, protesters, including 14 February Revolution Youth Coalition, held a march in Sanabis (Capital) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts. They also demanded the return of their bodies to Bahrain and set fire to the photo of Saudi Crown Prince Muhammad bin Salman.
+
+---
+
+[EVENT: BHR11093]
+Date: 2023-06-03
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 3 June 2023, protesters, including 14 February Revolution Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR12175]
+Date: 2023-06-03
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 3 June 2023, protesters, including 14 February Revolution Youth Coalition, held a demonstration in Al Diraz (Northern) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11094]
+Date: 2023-06-04
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 4 June 2023, protesters, including 14 February Revolution Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11095]
+Date: 2023-06-04
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 4 June 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11096]
+Date: 2023-06-05
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 5 June 2023, protesters, including 14 February Revolution Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR12177]
+Date: 2023-06-05
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 5 June 2023, women protesters, including 14 February Revolution Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR12176]
+Date: 2023-06-05
+Country: Bahrain | Location: Al Akr
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 5 June 2023, demonstrators, including 14 February Revolution Youth Coalition, cut the road with burning tires in Al Akr (Capital) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11098]
+Date: 2023-06-06
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 6 June 2023, protesters, including 14 February Revolution Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11097]
+Date: 2023-06-06
+Country: Bahrain | Location: Al Daih
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Al Wafa [Other]
+
+DESCRIPTION:
+On 6 June 2023, protesters held a demonstration in Al Daih (Capital) to denounce the siege that Bahraini security forces imposed on Al Diraz to prevent residents from attending the Friday sermon.
+
+---
+
+[EVENT: BHR11101]
+Date: 2023-06-07
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 7 June 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11100]
+Date: 2023-06-07
+Country: Bahrain | Location: Al Diraz
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Around 7 June 2023 (as reported), demonstrators, including 14 February Revolution Youth Coalition, cut the road with burning tires in Al Diraz (Northern) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11099]
+Date: 2023-06-07
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 7 June 2023, protesters, including 14 February Revolution Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release and to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11102]
+Date: 2023-06-07
+Country: Bahrain | Location: Karranah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Around 7 June 2023 (as reported), demonstrators, including 14 February Revolution Youth Coalition, cut the road with burning tires in Karranah (Northern) to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts.
+
+---
+
+[EVENT: BHR11103]
+Date: 2023-06-08
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 8 June 2023, protesters, including 14 February Revolution Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11104]
+Date: 2023-06-09
+Country: Bahrain | Location: Al Daih
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 9 June 2023, protesters, including 14 February Revolution Youth Coalition, held a demonstration in Al Daih (Capital) in solidarity with political prisoners and their right to an immediate release and to denounce the execution of 2 Bahrainis by Saudi authorities on 29 May under accusations of 'terrorist' acts. The demonstrators also showed solidarity with the Palestinian people.
+
+---
+
+[EVENT: BHR11106]
+Date: 2023-06-09
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 9 June 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11105]
+Date: 2023-06-09
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 9 June 2023, protesters, including 14 February Revolution Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11107]
+Date: 2023-06-10
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 10 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR12178]
+Date: 2023-06-11
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 11 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11117]
+Date: 2023-06-11
+Country: Bahrain | Location: Askar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; LuaLua TV [Other-National]
+
+DESCRIPTION:
+Property destruction: On 11 June 2023, Bahraini authorities demolished the grave of Ali companion Sa'sa'ah bin Sohan who is revered by Shiite Muslims in Askar (Southern). The reason behind the demolition was not reported.
+
+---
+
+[EVENT: BHR11108]
+Date: 2023-06-11
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 11 June 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11109]
+Date: 2023-06-12
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 12 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11110]
+Date: 2023-06-13
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 13 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11112]
+Date: 2023-06-14
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 14 June 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11111]
+Date: 2023-06-14
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 14 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11113]
+Date: 2023-06-15
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 15 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11115]
+Date: 2023-06-16
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 16 June 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11116]
+Date: 2023-06-16
+Country: Bahrain | Location: Karranah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 16 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Karranah (Northern) to denounce the Bahraini regime targeting the Shiite group during Friday prayers and religious rituals.
+
+---
+
+[EVENT: BHR11114]
+Date: 2023-06-16
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 16 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11118]
+Date: 2023-06-17
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 17 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11120]
+Date: 2023-06-18
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 18 June 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11119]
+Date: 2023-06-18
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 18 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) near the houses of political detainees Abduljalil Abdulla al Singace and Sheikh Abdel Hadi al Mokheideir in solidarity with them and their right to an immediate release.
+
+---
+
+[EVENT: BHR11131]
+Date: 2023-06-19
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 19 June 2023, protesters held a demonstration in Sanabis (Capital) in solidarity with political prisoners on the occasion of the 12th anniversary of the life imprisonment sentence targeting a number of opposition leaders.
+
+---
+
+[EVENT: BHR11130]
+Date: 2023-06-19
+Country: Bahrain | Location: Jaw Prison
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: LuaLua TV [National]
+
+DESCRIPTION:
+On 19 June 2023, prisoners in cells 2 in Building 6 held a sit-in protest in Jaw Prison (Southern) to denounce the confiscation by police forces of their equipment to prepare for Ashura commemorations.
+
+---
+
+[EVENT: BHR11132]
+Date: 2023-06-20
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 20 June 2023, women protesters held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11121]
+Date: 2023-06-20
+Country: Bahrain | Location: Jidd Hafs
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Al Wafa; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 20 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in front of the house of Hassan Musheima in Jidd Hafs (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11122]
+Date: 2023-06-20
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 20 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) near the house of political detainee Abduljalil Abdulla al Singace in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11123]
+Date: 2023-06-21
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 21 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) near the house of political detainee Abduljalil Abdulla al Singace in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11126]
+Date: 2023-06-21
+Country: Bahrain | Location: Karranah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 21 June 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Karranah (Northern) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11124]
+Date: 2023-06-22
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 22 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11128]
+Date: 2023-06-22
+Country: Bahrain | Location: Karzakkan
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 22 June 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Karzakkan (Northern) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11127]
+Date: 2023-06-22
+Country: Bahrain | Location: Karranah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 22 June 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Karranah (Northern) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11125]
+Date: 2023-06-23
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 23 June 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR12179]
+Date: 2023-06-23
+Country: Bahrain | Location: Al Akr
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 23 June 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Al Akr (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11129]
+Date: 2023-06-23
+Country: Bahrain | Location: Sanabis
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 23 June 2023, demonstrators, including February 14 Youth Coalition, cut the road with burning tires in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11133]
+Date: 2023-06-24
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 24 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11135]
+Date: 2023-06-25
+Country: Bahrain | Location: Jaw Prison
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: LuaLua TV [National]
+
+DESCRIPTION:
+On 25 June 2023, 16 political prisoners staged a sit-in in Building 3 in Jaw Prison (Southern) calling for an end to their isolation that lasted for 10 months. The source noted that the legal duration for the isolation (6 months) had already passed.
+
+---
+
+[EVENT: BHR11134]
+Date: 2023-06-25
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 25 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11136]
+Date: 2023-06-26
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 26 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11137]
+Date: 2023-06-27
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 27 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR12180]
+Date: 2023-06-27
+Country: Bahrain | Location: Al Akr
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Bahrain) [Rioters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+On 27 June 2023, demonstrators, including February 14 Youth Coalition, set fire to tires in Al Akr (Capital) in remembrance of 'martyr' Husayn Abdallah Abdel Karim who died in 2013.
+
+---
+
+[EVENT: BHR11138]
+Date: 2023-06-27
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 27 June 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11139]
+Date: 2023-06-28
+Country: Bahrain | Location: Sanabis
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 28 June 2023, protesters, including February 14 Youth Coalition, held a demonstration in Sanabis (Capital) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11140]
+Date: 2023-06-28
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 28 June 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11141]
+Date: 2023-06-30
+Country: Bahrain | Location: Al Diraz
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum; LuaLua TV [Other-National]
+
+DESCRIPTION:
+On 30 June 2023, demonstrators, including February 14 Youth Coalition, held a protest in Al Diraz (Northern) to denounce the burning of the Quran during a protest in Sweden.
+
+---
+
+[EVENT: BHR11142]
+Date: 2023-06-30
+Country: Bahrain | Location: Demistan
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition; Bahrain Alyoum [Other-National]
+
+DESCRIPTION:
+On 30 June 2023, women protesters, including February 14 Youth Coalition, held a demonstration in Demistan (Northern) in solidarity with political prisoners and their right to an immediate release.
+
+---
+
+[EVENT: BHR11143]
+Date: 2023-06-30
+Country: Bahrain | Location: Manama
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Bahrain) [Protesters]
+Fatalities: 0
+Sources: Bahrain Alyoum [National]
+
+DESCRIPTION:
+On 30 June 2023, demonstrators held a protest in Manama (Capital) to denounce the burning of the Quran during a protest in Sweden.

@@ -1,0 +1,127 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Israel (ISO Code: 376)
+Temporal Period: Year 2020 - Quarter Q2
+Total Events in Chunk: 9 / 9
+==================================================
+
+[EVENT: ISR1741]
+Date: 2020-04-08
+Country: Israel | Location: Jerusalem
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: On 8 April 2020, Israel went into full lockdown for two days as ordered by the Prime Minister of Israel to prevent the spread of the coronavirus during Passover.
+
+---
+
+[EVENT: ISR1742]
+Date: 2020-04-14
+Country: Israel | Location: Jerusalem
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: on 14 April 2020, the Israeli government announced that the country will be under total lockdown for 36 hours, to try and prevent the spread of the Coronavirus, especially due to the Passover holyday.
+
+---
+
+[EVENT: ISR1802]
+Date: 2020-05-17
+Country: Israel | Location: Jerusalem
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Non-violent activity: On 17 May 2020, a new unity government, including the Likud and Blue and White parties, was sworn in after 500 days without a stable government in Israel.
+
+---
+
+[EVENT: ISR11002]
+Date: 2020-05-31
+Country: Israel | Location: Tirah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [Regional]
+
+DESCRIPTION:
+Property destruction: On 31 May 2020, Israeli forces demolished 4 Arab civilian houses in Tirah village, claiming they were built without permits.
+
+---
+
+[EVENT: ISR47538]
+Date: 2020-06-08
+Country: Israel | Location: Safed
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Quds News Network [Regional]
+
+DESCRIPTION:
+Property destruction: On 8 June 2020, Israeli authorities [coded as police] performed excavations, and moved body remains to an undisclosed location, in an Islamic graveyard in Safed (Zefat, HaZafon).
+
+---
+
+[EVENT: ISR11008]
+Date: 2020-06-08
+Country: Israel | Location: Jaffa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [Regional]
+
+DESCRIPTION:
+Property destruction: On 8 June 2020, Bulldozers belonging to Tel Aviv municipality accompanied by police forces entered an Islamic cemetery in Jaffa and started to demolish it to make way for plans to build a residential complex.
+
+---
+
+[EVENT: ISR11017]
+Date: 2020-06-14
+Country: Israel | Location: Lod
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [Regional]
+
+DESCRIPTION:
+Property destruction: On 14 June 2020, police bulldozers demolished 2 houses belonging to 2 Arab Israeli citizens in Lod, claiming they didn't have a permit to build them.
+
+---
+
+[EVENT: ISR11024]
+Date: 2020-06-18
+Country: Israel | Location: Rahat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [International]
+
+DESCRIPTION:
+Property destruction: On 18 June 2020, Israeli police bulldozers demolished 2 houses belonging to Bedouin citizens of Israel, in Zarnouq unrecognised village near Rahat.
+
+---
+
+[EVENT: ISR11028]
+Date: 2020-06-24
+Country: Israel | Location: Beersheba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [Regional]
+
+DESCRIPTION:
+Property destruction: On 24 June 2020, Israeli police forces demolished 3 houses belonging to Arab Bedouin citizens of Israel, in 3 unrecognized Bedouin villages in Beersheba district.

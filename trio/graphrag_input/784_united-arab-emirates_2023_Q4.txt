@@ -1,0 +1,31 @@
+==================================================
+DOCUMENT CONTEXT
+Country: United Arab Emirates (ISO Code: 784)
+Temporal Period: Year 2023 - Quarter Q4
+Total Events in Chunk: 2 / 2
+==================================================
+
+[EVENT: ARE45]
+Date: 2023-10-30
+Country: United Arab Emirates | Location: Abu Dhabi
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of the United Arab Emirates (2022-) [State forces]
+Actor2: Civilians (United Arab Emirates) [Civilians]
+Fatalities: 0
+Sources: Euro-Med Human Rights Monitor [Other]
+
+DESCRIPTION:
+Around 30 October 2023 (between 7 October - 23 November), UAE security forces arrested several citizens (coded to Abu Dhabi) for publicly expressing their opinion on the conflict in Israel-Palestine amid the latest round of violence. Arrests included activists and the head of Al Quds Youth committee. Academics were also summoned to warn them against organizing any solidarity events with Gaza.
+
+---
+
+[EVENT: ARE46]
+Date: 2023-12-03
+Country: United Arab Emirates | Location: Dubai
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (United Arab Emirates) [Protesters]
+Fatalities: 0
+Sources: Al Arabiya; Khaleej Times; Press TV [National-Regional]
+
+DESCRIPTION:
+On 3 December 2023, more than 100 climate activists held a protest at Dubai expo city in Dubai (Sector 3) on the occasion of COP 28 in solidarity with Palestinian civilians, climate decolonization, and calling for an immediate ceasefire and the end of the 'Hamas-Israel' war in the context of the latest round of violence in Israel-Palestine.

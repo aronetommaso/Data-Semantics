@@ -1,0 +1,74 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Saudi Arabia (ISO Code: 682)
+Temporal Period: Year 2023 - Quarter Q1
+Total Events in Chunk: 5 / 5
+==================================================
+
+[EVENT: SAU54243]
+Date: 2023-01-15
+Country: Saudi Arabia | Location: Ad Dair
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Military Forces of Saudi Arabia (2015-) Border Guard [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 185
+Sources: HRW [Other]
+
+DESCRIPTION:
+Around 15 January 2023 (month of), Saudi border guard forces and a Saudi tank (coded under ORH) fired at a group of 200 migrants, including Ethiopian migrants, crossing the Saudi-Yemen border from Al Thabit in Qatabir border district in Yemen (Sadah) to in Al May in Saudi Arabia, likely in the Ad Dair border district (coded to Ad Dair city) (Jizan), killing 185 migrants.
+
+---
+
+[EVENT: SAU54231]
+Date: 2023-02-19
+Country: Saudi Arabia | Location: Al Khobh
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) Border Guard [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Nukhba Hadramawt [Regional]
+
+DESCRIPTION:
+Around 19 February 2023 (between 16 - 22 February), Saudi forces arrested 393 people at the border between Yemen and Saudi Arabia who were trying to enter Saudi Arabia (coded to Al Khobh border region) (Al Harth, Jizan). Among those arrested 52% with Ethiopian migrants, 36% Yemenis, and 12% of other nationalities.
+
+---
+
+[EVENT: SAU54236]
+Date: 2023-02-20
+Country: Saudi Arabia | Location: Najran
+Type: Violence against civilians > Abduction/forced disappearance | Disorder: Political violence
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Masa Press; Twitter [New media-Regional]
+
+DESCRIPTION:
+On 20 February 2023, Saudi forces summoned and then disappeared the Islah-affiliated commander of the Yemeni 9th Border Guard Brigade -- colonel Muhammad Hadi al Amlasi -- in Najran region (Najran). The reason behind the abduction was not reported.
+
+---
+
+[EVENT: SAU54230]
+Date: 2023-02-22
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Civilians (Saudi Arabia) [Civilians]
+Fatalities: 0
+Sources: General Security (Saudi Arabia); Twitter [New media-National]
+
+DESCRIPTION:
+On 22 February 2023, Saudi police forces arrested an unreported number of individuals who were driving in Riyadh and Hail provinces (Ar Riyadh) with tribal flags and banners, at least one of which belonged to the Shammar tribe, on Saudi Arabia's Founding Day. Police authorities indicated that the arrests took place because the banners 'stirred up tribal strife and destabilized national cohesion'.
+
+---
+
+[EVENT: SAU54232]
+Date: 2023-02-22
+Country: Saudi Arabia | Location: Hail
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Civilians (Saudi Arabia) [Civilians]
+Fatalities: 0
+Sources: General Security (Saudi Arabia); Twitter [New media-National]
+
+DESCRIPTION:
+On 22 February 2023, Saudi police forces arrested an unreported number of individuals who were driving in Riyadh and Hail provinces (Ar Riyadh) with tribal flags and banners, at least one of which belonged to the Shammar tribe, on Saudi Arabia's Founding Day. Police authorities indicated that the arrests took place because the banners 'stirred up tribal strife and destabilized national cohesion'.

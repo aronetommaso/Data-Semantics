@@ -1,0 +1,109 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Jordan (ISO Code: 400)
+Temporal Period: Year 2018 - Quarter Q4
+Total Events in Chunk: 8 / 8
+==================================================
+
+[EVENT: JOR209]
+Date: 2018-10-15
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Jordan (1999-) [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Security measures: On Oct 15, Jordan opened the Jaber border crossing with Syria for the first time in 3 years.
+
+---
+
+[EVENT: JOR212]
+Date: 2018-10-21
+Country: Jordan | Location: Amman
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Jordan (1999-) [State forces]
+Actor2: Government of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: AFP; Haaretz [International]
+
+DESCRIPTION:
+Non-violent activity: On 21 October 2018, King Abdullah II announced that Jordan has notified Israel that it wants to reclaim two plots of territory leased to Israel under the 1994 peace deal; the two areas are known as al-Baqura and al-Ghamr in Arabic, and Naharayim and Zofar in Hebrew. The deal stipulates that the plots could be reclaimed after 25 years.
+
+---
+
+[EVENT: JOR1405]
+Date: 2018-10-31
+Country: Jordan | Location: Amman
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Jordan) [Protesters]
+Fatalities: 0
+Sources: Jo 24 [National]
+
+DESCRIPTION:
+Strikes: On 31 October 2018, municipal workers in 65 municipalities across Jordan started a nationwide open strike by non-attending work, in protest against the government's neglect of their work-related demands (coded to Amman) (Qasabat Amman).
+
+---
+
+[EVENT: JOR222]
+Date: 2018-12-03
+Country: Jordan | Location: Amman
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [International]
+
+DESCRIPTION:
+Displacement: On 3 December 2018, it was estimated that around 28,000 Syrians have returned home from Jordan since the Jordanian-Syrian border was reopened in mid-October.
+
+---
+
+[EVENT: JOR2974]
+Date: 2018-12-03
+Country: Jordan | Location: Amman
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Jordan) [Protesters]
+Fatalities: 0
+Sources: Roya News [National]
+
+DESCRIPTION:
+Strikes: On 3 December 2018, the Jordan Engineers Association and the Syndicate of Agricultural Engineers, announced and started a nationwide strike for engineers working in the Ministry of Education, in protest against the government's neglect of their demands for fairness and better working conditions. The syndicates announced that the strike is the start of a series of escalatory movements. Coded to Amman.
+
+---
+
+[EVENT: JOR227]
+Date: 2018-12-07
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: On Dec 7, the Russian Defense Ministry said that 735 Syrian refugees returned to Syria from Jordan in the last 24 hours through the Jaber/Nasib crossing.
+
+---
+
+[EVENT: JOR228]
+Date: 2018-12-08
+Country: Jordan | Location: Amman
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: On Dec 8, the Russian Defense Ministry said that 581 Syrian refugees returned to Syria from Jordan in the last 24 hours.
+
+---
+
+[EVENT: JOR235]
+Date: 2018-12-24
+Country: Jordan | Location: Jaber as Sirhan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [International]
+
+DESCRIPTION:
+Displacement: Between 23 and 24 of Dec, over 700 Syrian refugees returned to Syria through the Naseeb crossing with Syria.

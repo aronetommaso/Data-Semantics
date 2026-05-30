@@ -1,0 +1,167 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Israel (ISO Code: 376)
+Temporal Period: Year 2022 - Quarter Q2
+Total Events in Chunk: 12 / 12
+==================================================
+
+[EVENT: ISR12017]
+Date: 2022-04-18
+Country: Israel | Location: En Besor
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2021-2022) [State forces]
+Actor2: PIJ: Palestinian Islamic Jihad [Political militia]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+Interception: On 18 April 2022, the Israeli Iron Dome air defense system intercepted above the Eshkol Regional Council (HaDarom, Beer Sheva) a rocket fired toward the area by the PIJ: Palestinian Islamic Jihad from the Gaza Strip. The rocket fire followed threats of the Palestinian armed factions in the Gaza Strip to respond to the recent raids of Israeli security forces in Al Aqsa Compound in Al Quds. It was the first rocket launch from Gaza Strip to Israel in almost four months. [coded at En Besor]
+
+---
+
+[EVENT: ISR12034]
+Date: 2022-04-30
+Country: Israel | Location: Lod
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Jerusalem Post [National]
+
+DESCRIPTION:
+On 30 April 2022, the police arrested a local prominent Muslim cleric in Lod (HaMerkaz, Ramla), for incitement and calls to violence during a speech addressing recent clashes in Al Aqsa Mosque in Al Quds. Elbaz is known by the unofficial title 'the Imam of Lod' [a mixed Jewish-Arab city] and is associated with the outlawed Northern Branch of the Islamic Movement in Israel. Last year, he was arrested and indicted for similar charges attributed to him during the Jewish-Arab riots in Lod on May 2021.
+
+---
+
+[EVENT: ISR12046]
+Date: 2022-05-09
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [International]
+
+DESCRIPTION:
+Property destruction: On 9 May 2022, the Israeli authorities (coded as Police Force of Israel) demolished several improvised dwellings recently built in the unrecognized Bedouin village Al Araqeeb (HaDarom, Beer Sheva). The authorities have thwarted attempts of local Bedouins to rebuild dwellings in the village since its demolition in 2010, as the government does not recognize their claim to the land and demands them to move to alternative lots in nearby towns.
+
+---
+
+[EVENT: ISR12096]
+Date: 2022-06-07
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [International]
+
+DESCRIPTION:
+Property destruction: On 7 June 2022, Israeli authorities (coded as Police Forces of Israel) demolished several dwellings and tents recently built in the unrecognized Bedouin village Al Araqeeb (Beer Sheva, HaDarom). The authorities have thwarted attempts of local Bedouins to rebuild dwellings in the village since its demolition in 2010, as the government does not recognize their claim to the land and demands them to move to alternative lots in nearby towns.
+
+---
+
+[EVENT: ISR12102]
+Date: 2022-06-12
+Country: Israel | Location: Tirah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Al-Ittihad; Arab 48; Palestine News and Information Agency [National-Regional]
+
+DESCRIPTION:
+Property destruction: On 12 June 2022, Israeli police, demolished a house belonging to an Arab citizen of Israel in Tirah city (Sharon, HaMerkaz) under the pretext of not having a building permit. The Arab family built the house on agricultural land due to the housing shortage in Arab areas.
+
+---
+
+[EVENT: ISR12112]
+Date: 2022-06-18
+Country: Israel | Location: Ashqelon
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Times of Israel [National]
+
+DESCRIPTION:
+Interception: On 18 June 2022, Palestinians fired a rocket from the Gaza Strip toward Ashqelon (HaDarom). The rocket was intercepted by the iron dome. No injuries or property damage were reported. No armed Palestinian group claimed responsibility for the rocket.
+
+---
+
+[EVENT: ISR12117]
+Date: 2022-06-22
+Country: Israel | Location: Jerusalem - Givat Ram
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Israel (2021-2022) [State forces]
+Fatalities: 0
+Sources: Haaretz; Times of Israel [National]
+
+DESCRIPTION:
+Other: On 22 June 2022, Israeli lawmakers overwhelmingly passed a preliminary bill to dissolve parliament by a count of 110-10 in Jerusalem - Givat Ram (Judean Mountains). This marks the end of the 'change government' and sets up the country for its fifth election in three and a half years. Foreign Minister Yair Lapid will serve as caretaker prime minister until a new government is formed.
+
+---
+
+[EVENT: ISR13099]
+Date: 2022-06-26
+Country: Israel | Location: Jerusalem
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Ma'ariv [National]
+
+DESCRIPTION:
+Strikes: On 26 June 2022, thousands of bus drivers, organized by the Histadrut Union, participated in a nationwide strike to slow down public transportation for several hours in the morning. These strikes were accompanied by protests in at least two unspecified locations. Coded at Jerusalem (Judean Mountains).
+
+---
+
+[EVENT: ISR13098]
+Date: 2022-06-26
+Country: Israel | Location: Tel Aviv
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Ma'ariv [National]
+
+DESCRIPTION:
+Strikes: On 26 June 2022, thousands of bus drivers, organized by the Histadrut Union, participated in a nationwide strike to slow down public transportation for several hours in the morning. These strikes were accompanied by protests in at least two unspecified locations. Coded at Tel Aviv city.
+
+---
+
+[EVENT: ISR12128]
+Date: 2022-06-27
+Country: Israel | Location: Umm el Fahm
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48; Ma'an News Agency [International]
+
+DESCRIPTION:
+Property destruction: On 27 June 2022, Israeli authorities (coded as Police Forces of Israel) demolished an under-construction house belonging to an Arab Israeli citizen in Umm el Fahm (Hadera, Haifa) under the pretext of not having a building permit.
+
+---
+
+[EVENT: ISR12127]
+Date: 2022-06-27
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2021-2022) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Al-Ittihad; Arab 48; Palestine News and Information Agency [National-International]
+
+DESCRIPTION:
+Property destruction: On 27 June 2022, Israeli authorities (coded as Police Forces of Israel) demolished several dwellings and tents recently built in the unrecognized Bedouin village Al Araqeeb (Beer Sheva, HaDarom). The authorities have thwarted attempts of local Bedouins to rebuild dwellings in the village since its demolition in 2010, as the government does not recognize their claim to the land and demands them to move to alternative lots in nearby towns.
+
+---
+
+[EVENT: ISR12126]
+Date: 2022-06-30
+Country: Israel | Location: Jerusalem - Givat Ram
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Israel (2021-2022) [State forces]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+Other: On 30 June 2022, Israeli lawmakers in the Knesset voted to officially dissolve the national government in Jerusalem - Givat Ram (Judean Mountains). Yair Lapid took over as caretaker Prime Minister. Elections are set for 1 November 2022, the country's fifth round of elections in five years.

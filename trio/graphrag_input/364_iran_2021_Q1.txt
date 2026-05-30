@@ -1,0 +1,633 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iran (ISO Code: 364)
+Temporal Period: Year 2021 - Quarter Q1
+Total Events in Chunk: 46 / 46
+==================================================
+
+[EVENT: IRN8157]
+Date: 2021-01-01
+Country: Iran | Location: West Coast of Hormozgan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) [State forces]
+Actor2: Military Forces of the United States (2017-2021) [External/Other forces]
+Fatalities: 0
+Sources: CNN; Reuters [International]
+
+DESCRIPTION:
+Movement of forces: Around 1 January 2021 (from 30 December 2020 - 1 January 2021), both Iranian and US armed forces heightened military activity and maneuvers in the Persian Gulf as the anniversary of the killing Qasem Soleimani approached. Iranian maritime forces heightened their readiness levels and US air force bombers flew over the region after a US nuclear submarine crossed into Persian Gulf waters. At the same time, the US aircraft carrier Nimitz left the gulf, which some interpreted as an attempt to reduce tensions. Location coded at West Coast of Hormozgan.
+
+---
+
+[EVENT: IRN8123]
+Date: 2021-01-04
+Country: Iran | Location: West Coast of Hormozgan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [State forces]
+Actor2: Civilians (South Korea) [Civilians]
+Fatalities: 0
+Sources: FARS News Agency (Iran); Iran International [National-International]
+
+DESCRIPTION:
+Non-violent activity: On 4 January 2021, naval forces of the Islamic Revolutionary Guard Corps seized a South Korean-flagged oil ship in Persian Gulf waters, reportedly for pollution and environmental hazard reasons, though other sources alleged it was to pressure the South Korean government to unfreeze Iranian assests, reporting that the Iranian government had requested the release of these assets following the seizure, though Iran denied this. Coded at West Coast of Hormozgan.
+
+---
+
+[EVENT: IRN8115]
+Date: 2021-01-04
+Country: Iran | Location: Fordo
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Non-violent activity: On 4 January 2021, Iran began enriching uranium up to 20% at the Fordo nuclear site, the highest level of uranium enrichment since the 2015 Iran Nuclear Deal (JCPOA). Under the terms of the deal, Iran had agreed not to enrich uranium above 3.67 %.
+
+---
+
+[EVENT: IRN8375]
+Date: 2021-01-12
+Country: Iran | Location: Sari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Mehr News Agency; Islamic Republic News Agency [National]
+
+DESCRIPTION:
+Security measures: On 12 January 2021, new or intensified restrictions were introduced throughout Mazandaran Province to combat the high rate of coronavirus infections in that province. All non-native traffic, as well as that between provincial cities, was banned besides exceptional circumstances and Friday prayers were cancelled throughout the province. Coded at provincial capital Sari.
+
+---
+
+[EVENT: IRN8430]
+Date: 2021-01-15
+Country: Iran | Location: Orumiyeh
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Arrests: Around 15 January 2021 (between 1 January - 31 January), at least 74 Kurdish civilians were arrested and arbitrarily detained by Iranian security forces and agencies (coded as police) in West Azarbaijan Province. Several more civilians were likewise arrested in several cities in neighboring provinces. Coded at provincial capital Orumiyeh.
+
+---
+
+[EVENT: IRN8431]
+Date: 2021-01-15
+Country: Iran | Location: Sanandaj
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Arrests: Around 15 January 2021 (between 1 January - 31 January), at least 27 Kurdish civilians were arrested and arbitrarily detained by Iranian security forces and agencies (coded as police) in Kordestan Province. Several more civilians were likewise arrested in several cities in neighboring provinces. Coded at provincial capital Sanandaj.
+
+---
+
+[EVENT: IRN8442]
+Date: 2021-01-23
+Country: Iran | Location: Johlu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Free Union of Iranian Workers [Other]
+
+DESCRIPTION:
+Property destruction: On 23 January 2021, the Konarek prosecutor's office together with local police and security forces demolished the homes of Zarabad flood victims in Johlu village. 3 Baloch civilians were violently arrested after attempting to stop the demolition.
+
+---
+
+[EVENT: IRN8451]
+Date: 2021-01-23
+Country: Iran | Location: Iranshahr
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Ministry of Intelligence [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Baloch Campaign [Other]
+
+DESCRIPTION:
+Property destruction: On 23 January 2021, armed forces of the Ministry of Intelligence and both the Iranshahr prosecutor's office and security council, demolished the foundations of a Sunni mosque in Iranshahr city then under construction. Civic activists ascribed the action as being aimed to put maximum pressure on the local Sunni Baloch population.
+
+---
+
+[EVENT: IRN8440]
+Date: 2021-01-25
+Country: Iran | Location: Minab
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Unidentified Tribal Militia (Iran) [Identity militia]
+Actor2: Unidentified Tribal Militia (Iran) [Identity militia]
+Fatalities: 0
+Sources: Islamic Republic News Agency [National]
+
+DESCRIPTION:
+Agreement: On 25 January 2021, local judicial officials and trustees resolved conflict between 2 warring tribes in Minab County stemming from an armed clash 8 years previously in which 1 person had been shot and killed.
+
+---
+
+[EVENT: IRN8515]
+Date: 2021-01-30
+Country: Iran | Location: Nikshahr
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Javshiri Tribal Militia (Iran) [Identity militia]
+Actor2: Zeinoddini Tribal Militia (Iran) [Identity militia]
+Fatalities: 0
+Sources: Iranian Student News Agency [National]
+
+DESCRIPTION:
+Agreement: Around 30 January 2021 (as reported), local judicial officials and tribal elders negotiated a reconciliation between the Javshiri and Zeinoddini Sunni tribes in Nikshahr County, ending a 5-year inter-tribal conflict which had killed 7 people.
+
+---
+
+[EVENT: IRN8569]
+Date: 2021-02-01
+Country: Iran | Location: Zahedan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [State forces]
+Actor2: Army of Justice [Rebel group]
+Fatalities: 0
+Sources: Baloch Campaign; Independent Persian [Other-International]
+
+DESCRIPTION:
+Non-violent activity: On 1 February 2021, Islamic Revolutionary Guard Corps based in Sistan and Baluchestan Province announced the release of 2 Iranian border guards who were captured and taken hostage by Army of Justice 2.5 years before. According to Iranian security forces, the release came after a 'successful intelligence operation'. At the same time, the Army of Justice reported on the release of at least 4 Sunni prisoners by Iran but it remains unclear what connection, if any, there was between the two events and if an agreement was reached. Coded at provincial capital Zahedan.
+
+---
+
+[EVENT: IRN8518]
+Date: 2021-02-01
+Country: Iran | Location: Sarpol e Zahab
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Islamic Republic News Agency [National]
+
+DESCRIPTION:
+Explosive remnants of war: On 1 February 2021, a civilian was injured in the central district of Sarpol e Zahab County when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN8574]
+Date: 2021-02-04
+Country: Iran | Location: Bagh e Bakhshi
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Baloch Campaign; Sunni News [Other-New media]
+
+DESCRIPTION:
+Arrests: On 4 February 2021, Islamic Revolutionary Guard Corps forces conducted a raid on the village of Bagh e Bakhshi, beating and arresting over 300 Sunni Baloch citizens in response to a riot and acts of arson they'd conducted the day before in a Shiite village. One sources noted that most of the male residents of the village were arrested. The village was still reported as being 'under siege' 11 days later.
+
+---
+
+[EVENT: IRN8570]
+Date: 2021-02-06
+Country: Iran | Location: Tehran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Islamic Republic News Agency; Iran International; Iranian Student News Agency [National-International]
+
+DESCRIPTION:
+Security measures: On 6 February 2021, traffic restrictions were imposed throughout Gilan, Mazandaran, and Golestan Provinces, as well as the cities of Mashhad, Isfahan, Shiraz, Bandar Abbas, Bandar e Bushehr (a province-wide traffic lockdown was mandated from February 9-12), and the islands of Kish and Qeshm, on the entry of non-locally registered cars in an effort to curb a new increase in coronavirus infections. Restrictions on commercial activities and traffic were also imposed in the worst-affected areas of Hamadan Province. Coded at national capital Tehran.
+
+---
+
+[EVENT: IRN8571]
+Date: 2021-02-08
+Country: Iran | Location: Isfahan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: BBC News [International]
+
+DESCRIPTION:
+Non-violent activity: On 8 February 2021, the International Atomic Energy Agency confirmed Iran's production of new uranium metal at the Fuel Plate Fabrication Plant (FPFP) in Isfahan city, in further violation of its commitments under the 2015 Joint Comprehensive Plan of Action (JCPOA) nuclear deal.
+
+---
+
+[EVENT: IRN8607]
+Date: 2021-02-12
+Country: Iran | Location: Mehran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 1
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 12 February 2021, a civilian was killed and another injured while grazing livestock near the Helale Shomali outpost in Mehran County when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN8669]
+Date: 2021-02-13
+Country: Iran | Location: Dehloran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 13 February 2021, a child was injured in Dehloran county when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN8668]
+Date: 2021-02-18
+Country: Iran | Location: Mehran
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Military Forces of Iran (1989-) [State forces]
+Fatalities: 2
+Sources: Tasnim News Agency [National]
+
+DESCRIPTION:
+Explosive remnants of war: On 18 February 2021, a commander of the Iranian Armed Forces committee for locating missing persons from the Iran-Iraq War and one of his colleagues were killed in the border area of Mehran County when a landmine planted during the same war exploded.
+
+---
+
+[EVENT: IRN8758]
+Date: 2021-02-20
+Country: Iran | Location: Kermanshah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: GardaWorld [Other]
+
+DESCRIPTION:
+Security measures: On 20 February 2021, border crossings between Iran and Iraq were closed in Kermanshah province to help curb a renewed spread of coronavirus. Additional restriction on movement and activity were implemented in the province according to severity of outbreak.
+
+---
+
+[EVENT: IRN8755]
+Date: 2021-02-20
+Country: Iran | Location: Ahvaz
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: GardaWorld [Other]
+
+DESCRIPTION:
+Security measures: On 20 February 2021, border crossings between Iran and Iraq were closed in Khuzestan province to help curb a renewed spread of coronavirus. Additional restriction on movement and activity were implemented in the province according to severity of outbreak. Coded at provincial capital Ahvaz.
+
+---
+
+[EVENT: IRN8738]
+Date: 2021-02-20
+Country: Iran | Location: Sardasht
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 2
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Other: On 20 February 2021, 2 people, suspected of smuggling goods, were killed in Iranian border area of Sardasht County when Iranian security forces shot in their direction, causing them to fall and drown in a river.
+
+---
+
+[EVENT: IRN8757]
+Date: 2021-02-21
+Country: Iran | Location: Orumiyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: GardaWorld [Other]
+
+DESCRIPTION:
+Security measures: On 21 February 2021, border crossings between Iran and Iraq were closed in West Azarbaijan province to help curb a renewed spread of coronavirus. Additional restriction on movement and activity were implemented in the province according to severity of outbreak. Coded at provincial capital Orumiyeh.
+
+---
+
+[EVENT: IRN8725]
+Date: 2021-02-22
+Country: Iran | Location: Naft Shahr
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 22 February 2021, a seven-year-old child was badly injured in the area around Naft Shahr when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN8726]
+Date: 2021-02-22
+Country: Iran | Location: Qasr e Shirin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 22 February 2021, a nineteen-year-old was badly injured while tending livestock in the Central District of Qasr e Shirin County when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN8773]
+Date: 2021-02-22
+Country: Iran | Location: Askan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 10
+Sources: HRW; Amnesty International; Radio Farda; Baloch Campaign; Saham News [Other-National]
+
+DESCRIPTION:
+Other: On 22 February 2021, forces of the Islamic Revolutionary Guard Corps (IRGC) fired directly on several Baloch fuel smugglers at the Askan border area, after they attempted to open a border crossing point that the IRGC had closed. According to local activists and human rights organizations, between 10 and 23 fuel porters were killed and at least 5 injured. Iranian authorities alleged Pakistani border guards had fired on the fuel porters, which Pakistan denied.
+
+---
+
+[EVENT: IRN8727]
+Date: 2021-02-23
+Country: Iran | Location: Zardeh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iran) [Political militia]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Property destruction: On 23 February 2021, unknown armed assailants attacked the Tomb of Baba Yadegar, a figure revered by adherents of the Yarsani faith, in the village of Zardeh, causing significant structural damage. No fatalities were reported nor any clashes with Islamic Revolutionary Guard Corps forces who arrived on the scene. The local feeling among Yarsanis was reported as being that the assailants acted with the encouragement and connivance of state security forces.
+
+---
+
+[EVENT: IRN8759]
+Date: 2021-02-23
+Country: Iran | Location: Sanandaj
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Iran International [International]
+
+DESCRIPTION:
+Security measures: On 23 February 2021, border crossings between Iran and Iraq were closed in Kordestan province for 1 week to help curb a renewed spread of coronavirus. Additional restriction on movement and activity were implemented in the province according to severity of outbreak. Coded at provincial capital Sanandaj.
+
+---
+
+[EVENT: IRN8756]
+Date: 2021-02-23
+Country: Iran | Location: Mehran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: GardaWorld [Other]
+
+DESCRIPTION:
+Security measures: On 23 February 2021, the Mehran border crossing between Iran and Iraq was closed in Ilam province to help curb a renewed spread of coronavirus. Additional restriction on movement and activity were implemented in the province according to severity of outbreak.
+
+---
+
+[EVENT: IRN8783]
+Date: 2021-02-24
+Country: Iran | Location: Zahedan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Iran) [Protesters]
+Fatalities: 0
+Sources: Baloch Campaign [Other]
+
+DESCRIPTION:
+Strikes: On 24 February 2021, shopkeepers went on strike in various areas of Sistan and Baluchestan Province, including the cities of Zahedan, Iranshahr, and Jakigor, in support of the then-ongoing protests in Saravan city over the killing of several Baloch fuel porters by Islamic Revolutionary Guard Corps forces 2 days before.
+
+---
+
+[EVENT: IRN8784]
+Date: 2021-02-24
+Country: Iran | Location: Zahedan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: AP; VOA [International]
+
+DESCRIPTION:
+Security measures: On 24 February 2021, the Iranian government shut down the mobile access data network across Sistan and Baluchestan Province in an apparent attempt to conceal their suppression of violent demonstrations which had gripped the province since the killing of several Baloch fuel porters by Islamic Revolutionary Guard Corps forces 2 days before. Coded at provincial capital Zahedan.
+
+---
+
+[EVENT: IRN8823]
+Date: 2021-02-28
+Country: Iran | Location: Tehran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: BBC News; Iran Wire [International]
+
+DESCRIPTION:
+Security measures: On 28 February 2021, Iran's Civil Aviation Administration suspended flights to Iran from 32 countries in an effort to curtail a new wave of coronavirus infections. 1 day later, they also announced all passengers originating from Khuzestan Province, at that point the worst affected in the country, would require a negative coronavirus test to be issued flight tickets. Coded at national capital Tehran.
+
+---
+
+[EVENT: IRN8841]
+Date: 2021-03-02
+Country: Iran | Location: Qasr e Shirin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw; Human Rights Activists in Iran (HRA); Islamic Republic News Agency [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 2 March 2021, a nomadic herder was injured in the Sumar area of Qasr e Shirin County when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN8840]
+Date: 2021-03-02
+Country: Iran | Location: Piranshahr
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 2 March 2021, a civilian was injured in Piranshahr County when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN8850]
+Date: 2021-03-03
+Country: Iran | Location: Kargan
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Baloch Campaign [Other]
+
+DESCRIPTION:
+Other: On 3 March 2021, 2 Baloch fuel porters or Sukhtbars were injured at the port of Kargan when Iranian coast guard forces shot at their boats as they passed. The shooting and killing of Sukhtbars by government forces has led to protests in the past.
+
+---
+
+[EVENT: IRN8941]
+Date: 2021-03-05
+Country: Iran | Location: Bastam
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Hengaw [Local partner-Other]
+
+DESCRIPTION:
+Other: On 5 March 2021, a Kurdish businessman was severely injured near Bastam village (Kurdistan) when police forces opened fire on the car he was travelling in, on the suspicion that it was transporting smuggled goods, though none were found.
+
+---
+
+[EVENT: IRN8942]
+Date: 2021-03-06
+Country: Iran | Location: Ahvaz
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: BBC News [International]
+
+DESCRIPTION:
+Security measures: On 6 March 2021, a quarantine of Khuzestan Province was announced in order to stem the rising number of coronavirus infections. Regular traffic entering and exiting the province was banned and all non-essential government agencies and offices were reduced to 10 percent capacity from 7 March to 20 March 2021. Coded at provincial capital Ahvaz.
+
+---
+
+[EVENT: IRN8935]
+Date: 2021-03-07
+Country: Iran | Location: Zaboli
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Abdulzehi Baloch Tribal Militia (Iran) [Identity militia]
+Actor2: Shahrsanzehi Baloch Tribal Militia (Iran) [Identity militia]
+Fatalities: 0
+Sources: Baloch Campaign [Other]
+
+DESCRIPTION:
+Agreement: On 7 March 2021, a reconciliation, mediated by tribal elders, ulema, and county officials, was established between members of the Abdulzehi and Shahrsanzehi tribes in Mehrestan County, ending a 30-year conflict stemming from the murder of a Shahrsanzehi tribe member. Coded at county capital Zaboli.
+
+---
+
+[EVENT: IRN8938]
+Date: 2021-03-07
+Country: Iran | Location: Natanz
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: Radio Farda; Reuters [International]
+
+DESCRIPTION:
+Non-violent activity: Around 7 March 2021 (as reported), Iran began enriching uranium with a third cluster of advanced IR-2m centrifuges at the Natanz Nuclear Facility northwest of Natanz city, in a further withdrawal of its commitments under the 2015 JCPOA nuclear deal. On 31 March 2021, the International Atomic Energy Agency reported Iran had further advanced to enriching uranium with a fourth cluster of advanced IR-2m centrifuges at Natanz.
+
+---
+
+[EVENT: IRN8944]
+Date: 2021-03-10
+Country: Iran | Location: Saleh Davud
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 1
+Sources: Human Rights Activists in Iran (HRA); Islamic Republic News Agency [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 10 March 2021, a child was killed in Saleh Davud village when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN9007]
+Date: 2021-03-13
+Country: Iran | Location: Bandini Kursar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Baloch Campaign [Other]
+
+DESCRIPTION:
+Property destruction: On 13 March 2021, unidentified Iranian government actors [coded as police] destroyed the homes of Bandini Kursar village Baloch residents who had inhabited the area for centuries. There was no readily identifiable reason for the destruction but some residents of the region consider it a measure to change the population structure of the area to accomodate military bases.
+
+---
+
+[EVENT: IRN9011]
+Date: 2021-03-13
+Country: Iran | Location: Cham Golak
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 1
+Sources: Islamic Republic News Agency [National]
+
+DESCRIPTION:
+Explosive remnants of war: On 13 March 2021, a civilian was killed in Cham Golak city after attempting to handle an explosive projectile from the Iran-Iraq War, which exploded.
+
+---
+
+[EVENT: IRN9008]
+Date: 2021-03-14
+Country: Iran | Location: Iranshahr
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Shahkarmzehi Baloch Tribal Militia (Iran) [Identity militia]
+Actor2: Shehiki Baloch Tribal Militia (Iran) [Identity militia]
+Fatalities: 0
+Sources: Baloch Campaign [Other]
+
+DESCRIPTION:
+Agreement: On 14 March 2021, a peace was established between the Shahkarmzehi and Shehiki tribes at the Al Zahra Mosque in Iranshahr city after 3 years of inter-tribal strife.
+
+---
+
+[EVENT: IRN8960]
+Date: 2021-03-15
+Country: Iran | Location: Natanz
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Fatalities: 0
+Sources: AP; DPA; Radio Farda; Reuters [International]
+
+DESCRIPTION:
+Nonviolent activity: On 15 March 2021, Iran began using faster IR-4 centrifuges to enrich uranium to 5 percent purity at the Natanz nuclear complex, 30 km outside the town of Natanz, in further breach of its commitments under the 2015 JCPOA nuclear deal.
+
+---
+
+[EVENT: IRN9009]
+Date: 2021-03-17
+Country: Iran | Location: Rish Pish e Bala
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Abdulzehi Baloch Tribal Militia (Iran) [Identity militia]
+Actor2: Marandegani Baloch Tribal Militia (Iran) [Identity militia]
+Fatalities: 0
+Sources: Baloch Campaign [Other]
+
+DESCRIPTION:
+Agreement: On 17 March 2021, peace was established between the Abdulzehi and Marandegani tribes in Rish Pish e Bala after 5 years of inter-tribal strife following a clash which injured several members of both tribes were injured.
+
+---
+
+[EVENT: IRN9017]
+Date: 2021-03-23
+Country: Iran | Location: Sumar
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA); Iranian Labour News Agency [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 23 March 2021, a woman was injured in the Sumar District of Qasr e Shirin County when a landmine planted during the Iran-Iraq War exploded.
+
+---
+
+[EVENT: IRN9040]
+Date: 2021-03-27
+Country: Iran | Location: Tehran
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Actor2: Government of China (2012-) [External/Other forces]
+Fatalities: 0
+Sources: Iran International; Radio Farda [International]
+
+DESCRIPTION:
+On 27 March 2021, the governments of Iran and China signed the Iran - China 25-Year Cooperation Program, a bilateral deal increasing political, economic, and strategic cooperation between Iran and China in Tehran (Tehran). The exact provisions of the agreement were not disclosed, prompting noticeable concern among some Iranian citizens of excessive Chinese influence in their country.

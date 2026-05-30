@@ -1,0 +1,200 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Bahrain (ISO Code: 48)
+Temporal Period: Year 2020 - Quarter Q3
+Total Events in Chunk: 14 / 14
+==================================================
+
+[EVENT: BHR9013]
+Date: 2020-08-16
+Country: Bahrain | Location: Bani Jamrah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Non-violent activity: On 16 August 2020, 'mercenaries' of the Al Khalifa regime' (coded as Police Forces) tore down Shiite posters and banners in Bani Jamrah (Northern) that were hung up in commemoration of Ashura.
+
+---
+
+[EVENT: BHR9011]
+Date: 2020-08-16
+Country: Bahrain | Location: Ash Shakhurah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Non-violent activity: On 16 August 2020, 'mercenaries' of the Al Khalifa regime' (coded as Police Forces) tore down Shiite posters and banners in Ash Shakhurah (Northern) that were hung up in commemoration of Ashura.
+
+---
+
+[EVENT: BHR9016]
+Date: 2020-08-16
+Country: Bahrain | Location: Sanabis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Non-violent activity: On 16 August 2020, 'mercenaries' of the Al Khalifa regime' (coded as Police Forces) tore down Shiite posters and banners in Sanabis (Capital) that were hung up in commemoration of Ashura.
+
+---
+
+[EVENT: BHR9009]
+Date: 2020-08-16
+Country: Bahrain | Location: Al Malikiyah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Non-violent activity: On 16 August 2020, 'mercenaries' of the Al Khalifa regime' (coded as Police Forces) tore down Shiite posters and banners in Al Malikiyah (Northern) that were hung up in commemoration of Ashura.
+
+---
+
+[EVENT: BHR9010]
+Date: 2020-08-16
+Country: Bahrain | Location: Al Markh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Non-violent activity: On 16 August 2020, 'mercenaries' of the Al Khalifa regime' (coded as Police Forces) tore down Shiite posters and banners in Al Markh (Northern) that were hung up in commemoration of Ashura.
+
+---
+
+[EVENT: BHR9014]
+Date: 2020-08-16
+Country: Bahrain | Location: Karbabad
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Non-violent activity: On 16 August 2020, 'mercenaries' of the Al Khalifa regime' (coded as Police Forces) tore down Shiite posters and banners in Karbabad (Capital) that were hung up in commemoration of Ashura.
+
+---
+
+[EVENT: BHR9012]
+Date: 2020-08-16
+Country: Bahrain | Location: Az Zinj
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Non-violent activity: On 16 August 2020, 'mercenaries' of the Al Khalifa regime' (coded as Police Forces) tore down Shiite posters and banners in Az Zinj (Capital) that were hung up in commemoration of Ashura.
+
+---
+
+[EVENT: BHR9015]
+Date: 2020-08-16
+Country: Bahrain | Location: Nuwaidrat
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Non-violent activity: On 16 August 2020, 'mercenaries' of the Al Khalifa regime' (coded as Police Forces) tore down Shiite posters and banners in Nuwaidrat (Southern) that were hung up in commemoration of Ashura.
+
+---
+
+[EVENT: BHR9006]
+Date: 2020-08-16
+Country: Bahrain | Location: Al Akr
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Non-violent activity: On 16 August 2020, 'mercenaries' of the Al Khalifa regime' (coded as Police Forces) tore down Shiite posters and banners in Al Akr (Capital) that were hung up in commemoration of Ashura.
+
+---
+
+[EVENT: BHR9008]
+Date: 2020-08-16
+Country: Bahrain | Location: Al Maamir
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Non-violent activity: On 16 August 2020, 'mercenaries' of the Al Khalifa regime' (coded as Police Forces) tore down Shiite posters and banners in Al Maamir (Capital) that were hung up in commemoration of Ashura.
+
+---
+
+[EVENT: BHR9005]
+Date: 2020-08-16
+Country: Bahrain | Location: Abu Saybi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Non-violent activity: On 16 August 2020, 'mercenaries' of the Al Khalifa regime' (coded as Police Forces) tore down Shiite posters and banners in Abu Saybi (Northern) that were hung up in commemoration of Ashura.
+
+---
+
+[EVENT: BHR9007]
+Date: 2020-08-16
+Country: Bahrain | Location: Al Diraz
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Non-violent activity: On 16 August 2020, 'mercenaries' of the Al Khalifa regime' (coded as Police Forces) tore down Shiite posters and banners in Al Diraz (Northern) that were hung up in commemoration of Ashura.
+
+---
+
+[EVENT: BHR11392]
+Date: 2020-08-17
+Country: Bahrain | Location: Manama - Ras Al Ruman
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Non-violent activity: On 17 August 2020, supporters of the Bahraini regime (coded as Police forces of Bahrain) removed Shiite banners that were hung in commemoration of Ashura in Manama - Ras Al Ruman (Capital).
+
+---
+
+[EVENT: BHR11397]
+Date: 2020-08-19
+Country: Bahrain | Location: Southern Sehla
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: 14 February Revolution Youth Coalition [Other]
+
+DESCRIPTION:
+Non-violent activity: On 19 August 2020, state workers (coded as Police forces of Bahrain) removed Shiite banners that were hung in commemoration of Ashura in Southern Sehla (Capital).

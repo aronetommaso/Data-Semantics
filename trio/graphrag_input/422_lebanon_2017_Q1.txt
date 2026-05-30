@@ -1,0 +1,297 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Lebanon (ISO Code: 422)
+Temporal Period: Year 2017 - Quarter Q1
+Total Events in Chunk: 22 / 22
+==================================================
+
+[EVENT: LBN1]
+Date: 2017-01-02
+Country: Lebanon | Location: Ras al Naqoura
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+Security measures: At 4:32 a.m., Israeli military forces opened gunfire at a Lebanese fishing boat inside the Lebanese regional waters opposite Ras al-Naqoura, without causing any injuries.
+
+---
+
+[EVENT: LBN3]
+Date: 2017-01-05
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Detonation: The sound of a hand grenade has been heard in Ain el Helweh Camp on Thursday.
+
+---
+
+[EVENT: LBN10]
+Date: 2017-01-16
+Country: Lebanon | Location: Marjayoun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Movement of forces: Israeli forces erected a sand barricade near the southernLebanonborder village of Marjayoun.
+
+---
+
+[EVENT: LBN6823]
+Date: 2017-01-20
+Country: Lebanon | Location: Sidon
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Lebanon Support; Daily Star (Lebanon) [Local partner-Other]
+
+DESCRIPTION:
+On 20 January 2017, in a large scale operation by Lebanese military forces, 50 Syrian refugees were arrested for having illegal papers, in Al-Ouzai compound on the northern entrance to the city of Sidon.
+
+---
+
+[EVENT: LBN17]
+Date: 2017-01-20
+Country: Lebanon | Location: Khirbet el Mahafir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Movement of forces: Israeli forces Thursday demolished a sand barricade erected by the Lebanese Army along the country's southern border.
+
+---
+
+[EVENT: LBN18]
+Date: 2017-01-21
+Country: Lebanon | Location: Qoubaiyat
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Detonation: An intact 'RPG' bombshell was detected near a refinery in the outskirts of the town of Qobayat on Saturday, whereby an Army unit arrived immediately at the scene, summoning a military expert to detonate it in place.
+
+---
+
+[EVENT: LBN25]
+Date: 2017-01-30
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Actor2: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: Daily Star (Lebanon); National News Agency Lebanon [National]
+
+DESCRIPTION:
+Defusal: Abombwas dismantled in Ein Helwe Refugee camp, near the vegetable market facing an appliance store owned by Palestinian national, Ahmad Abdul Majid, who is affiliated to Fatah Movement.The 300 grambombwas jointly transferred away from the scene by Lebanese and Palestinian security forces.
+
+---
+
+[EVENT: LBN27]
+Date: 2017-02-01
+Country: Lebanon | Location: Tyr
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Times of Israel [Regional]
+
+DESCRIPTION:
+Movement of forces: Hezbollah claimed Wednesday that IDF units had crossed the Israeli-Lebanese border and were operating insideLebanon. The reported cited Hezbollah as saying IDF bulldozers were carrying out work near the border.
+
+---
+
+[EVENT: LBN6448]
+Date: 2017-02-16
+Country: Lebanon | Location: Esh-Sheikh Mohamed
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: National News Agency Lebanon; Lebanon Support [Local partner-Other]
+
+DESCRIPTION:
+On 16 February 2017, in a large scale operation by Lebanese military forces, 30 Syrian refugees were arrested for having illegal papers, in Esh-Sheikh Mohamed village of Akkar district.
+
+---
+
+[EVENT: LBN49]
+Date: 2017-02-17
+Country: Lebanon | Location: Aarsal
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Non-violent activity: Unidentified assailants opened fire on a passenger van in the town of Arsal, inflicting material damage to van but no casualties reported.
+
+---
+
+[EVENT: LBN6633]
+Date: 2017-02-21
+Country: Lebanon | Location: Younine
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Lebanon Support; National News Agency Lebanon [Local partner-Other]
+
+DESCRIPTION:
+On 21 February 2017, in a large scale operation by Lebanese military forces, 50 Syrian refugees were arrested for having illegal papers, in Khirbet Younine of Baalbek district.
+
+---
+
+[EVENT: LBN330]
+Date: 2017-02-27
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Asbat al Ansar [Political militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Movement of forces: Armed members of Asbat-al-Ansar group deployed this evening in Teira and Sofsaf streets inside the Palestinian refugee camp of Ain-el-Hilwe, National News Agency correspondent reported.
+
+---
+
+[EVENT: LBN64]
+Date: 2017-02-27
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Non-violent activity: Hand and Energa grenades intermittently continued to fall in Ain el Hilweh, with shooting and sniper bullets being heard.
+
+---
+
+[EVENT: LBN68]
+Date: 2017-03-04
+Country: Lebanon | Location: Ed Daoura
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Non-violent activity: An anonymous vehicle intercepted this evening the convoy of MP Ibrahim Kenaan on Doura Highway, shooting at them without causing any casualties.
+
+---
+
+[EVENT: LBN76]
+Date: 2017-03-07
+Country: Lebanon | Location: Hasbaya
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Non-violent activity: Israeli forces shot with heavy machine guns the eastern hills facing Jabal Al Sheikh heights.
+
+---
+
+[EVENT: LBN331]
+Date: 2017-03-08
+Country: Lebanon | Location: Sidon
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Security measures: The Lebanese Armed Forces (LAF) cut-off the Habsseh-Sidon highway to both sides of traffic for the sake of preserving public safety from stray bullets resulting from the clashes in Ayn el Helwe Palestinian camp.
+
+---
+
+[EVENT: LBN332]
+Date: 2017-03-09
+Country: Lebanon | Location: Sidon
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Movement of forces: The Lebanese Armed Forces widely deployed its troops on morning in the southern city of Sidon.
+
+---
+
+[EVENT: LBN94]
+Date: 2017-03-21
+Country: Lebanon | Location: Sidon
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Security measures: Around 15 men carrying guns broke into a three-story residential building in Sidon on Monday. The gunmen searched through the belongings of its inhabitants, who are Syrian refugees, and confronted them aggressively before leaving.
+
+---
+
+[EVENT: LBN93]
+Date: 2017-03-21
+Country: Lebanon | Location: Hasbaya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Detonation: The Israeli Army threw on Tuesday night flare bombs over Mount Hermon observatory amid the flight of a reconnaissance warplane over Mount Hermon in the space of the occupied Shebaa Farms.
+
+---
+
+[EVENT: LBN333]
+Date: 2017-03-24
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Defusal: A booby trap found in the vegetable market of the refugee camp of Ain Hilweh was dismantled on Friday
+
+---
+
+[EVENT: LBN101]
+Date: 2017-03-30
+Country: Lebanon | Location: Aarsal
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 3
+Sources: Daily Star (Lebanon); Lebanon Support [Local partner-Other]
+
+DESCRIPTION:
+Detonation: On 30 March 2017, 3 Islamic state militants were killed when a truck they were driving prematurely detonated, in Aarsal.
+
+---
+
+[EVENT: LBN102]
+Date: 2017-03-31
+Country: Lebanon | Location: Aarsal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Fatalities: 0
+Sources: Asharq Al Awsat; Daily Star (Lebanon) [National-Regional]
+
+DESCRIPTION:
+Movement of forces: The Lebanese army adopted on Thursday strict measures in Arsal as part of a security plan aimed at restoring stability in the northeastern border town and its outskirts. The army set up checkpoints at the entrance of the town where it inspected the identification cards and vehicles of travelers in search of fugitives.

@@ -1,0 +1,2734 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Turkey (ISO Code: 792)
+Temporal Period: Year 2022 - Quarter Q3
+Total Events in Chunk: 198 / 198
+==================================================
+
+[EVENT: TUR25973]
+Date: 2022-07-01
+Country: Turkey | Location: Gevas
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Sozcu; Ihlas News Agency [National]
+
+DESCRIPTION:
+On 1 July 2022, gendarmerie forces stopped a suspect vehicle in Gevas district of Van, and detained 35 Afghan migrants they found inside, who entered Turkey illegally.
+
+---
+
+[EVENT: TUR25974]
+Date: 2022-07-03
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency; Cumhuriyet [National]
+
+DESCRIPTION:
+Security measures: On 3 July 2022, Hakkari Governor's office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 15 days. Although the announcement indicated that the restriction aims to curb the coronavirus outbreak, similar measures have been imposed in the province (and several other south-eastern provinces) for some years to maintain public order, presumably against political events that can be organized by Kurdish movement.
+
+---
+
+[EVENT: TUR25984]
+Date: 2022-07-03
+Country: Turkey | Location: Tatvan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Karar; Kurdistan24 [International]
+
+DESCRIPTION:
+Security measures: On 3 July 2022, Bitlis governor's office declared a curfew order in a total of 3 villages (Salllica, Ozekli and Teknecik) and their rural zones in the Tatvan district of the province, effective until further notice due to ongoing military operations and clashes in the area.
+
+---
+
+[EVENT: TUR25992]
+Date: 2022-07-04
+Country: Turkey | Location: Gebze
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 4 July 2022 (as reported), gendarmerie forces stopped a suspect truck in the Gebze district of Kocaeli and detained 103 migrants found inside who entered Turkey illegally.
+
+---
+
+[EVENT: TUR26024]
+Date: 2022-07-04
+Country: Turkey | Location: Coast of Menderes
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 4 July 2022, 45 migrants that attempted to cross the border illegally to Greece on two boats were captured and detained off the coast of Menderes, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR25993]
+Date: 2022-07-04
+Country: Turkey | Location: Coast of Marmaris
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; Haber 7 [National]
+
+DESCRIPTION:
+Around 4 July 2022 (as reported), 67 migrants attempting to cross the border illegally to Greece on a boat were captured and detained off the coast of Marmaris, Mugla by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26003]
+Date: 2022-07-05
+Country: Turkey | Location: Mardin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: A Haber [National]
+
+DESCRIPTION:
+Movement of forces: On 5 July 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-20' against PKK militants with the deployment of 679 personnel in the Mardin province. Village guards also participated in the operation.
+
+---
+
+[EVENT: TUR26008]
+Date: 2022-07-05
+Country: Turkey | Location: Coast of Ayvalik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 5 July 2022, 40 migrants attempting to cross the border illegally to Greece via boats were captured off the coast of Ayvalik, Balikesir and detained by the Coast Guard Command of the Turkish army.
+
+---
+
+[EVENT: TUR26026]
+Date: 2022-07-06
+Country: Turkey | Location: Coast of Kusadasi
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 6 July 2022 (as reported), 28 migrants that attempted to cross the border illegally to Greece on a boat were captured and detained off the coast of Kusadasi, Aydin by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26025]
+Date: 2022-07-06
+Country: Turkey | Location: Coast of Menderes
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 6 July 2022, 45 migrants that attempted to cross the border illegally to Greece on two boats were captured and detained off the coast of Menderes, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26135]
+Date: 2022-07-07
+Country: Turkey | Location: Gurpinar
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7; Takvim [National]
+
+DESCRIPTION:
+Weapons seizure: Around 7 July 2022 (as reported), Turkish gendarmerie forces seized a large amount of weapons and other bomb-making material belonging to PKK, during the security operations carried out in the Gurpinar district of Van. The seized weapons included RPGs, IEDs and ammunition for various weapons.
+
+---
+
+[EVENT: TUR26033]
+Date: 2022-07-07
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: A Haber; TRT Haber [National]
+
+DESCRIPTION:
+Movement of forces: On 7 July 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-21' against PKK militants with the deployment of 1040 personnel in the Diyarbakir province. Village guards also participated in the operation.
+
+---
+
+[EVENT: TUR26134]
+Date: 2022-07-07
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 7 July 2022 (from 28 June - 7 July), a total of 447 migrants attempting to cross the border illegally to Greece were detained during the security operations carried out by Gendarmerie forces in Cesme, Seferihisar, Foca and Karaburun districts of Izmir province.
+
+---
+
+[EVENT: TUR26092]
+Date: 2022-07-07
+Country: Turkey | Location: Avcilar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 7 July 2022, HBDH militants carried out an arson attack in the Avcilar district of Istanbul, inflicting material damage to 7 boats and a yacht.
+
+---
+
+[EVENT: TUR26095]
+Date: 2022-07-08
+Country: Turkey | Location: Mus
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete; Haber 7 [National]
+
+DESCRIPTION:
+Weapons seizure: Around 8 July 2022 (as reported), Turkish gendarmerie forces seized 60 kilograms of explosive material belonging to PKK, during the security operations carried out in the central district of Mus.
+
+---
+
+[EVENT: TUR26102]
+Date: 2022-07-08
+Country: Turkey | Location: Demre
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+Around 8 July 2022 (as reported), gendarmerie forces captured and detained 126 migrants who entered Turkey illegally, during an operation they carried out in Demre district of Antalya.
+
+---
+
+[EVENT: TUR26137]
+Date: 2022-07-10
+Country: Turkey | Location: Hozat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 10 July 2022, YPS militants destroyed a total of 3 camera-trap devices planted by Turkish army forces for the surveillance of the militants in the Hozat district of Tunceli.
+
+---
+
+[EVENT: TUR26141]
+Date: 2022-07-11
+Country: Turkey | Location: Ovacik
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Unidentified Armed Group (Turkey) [Political militia]
+Fatalities: 0
+Sources: Sozcu; TRT Haber [National]
+
+DESCRIPTION:
+Defusal: Around 11 July 2022 (as reported), Turkish Gendarmerie forces located and defused an IED planted by an unspecified group, during the operations they carried out in Ovacik district of Tunceli.
+
+---
+
+[EVENT: TUR26140]
+Date: 2022-07-11
+Country: Turkey | Location: Kofcaz
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Around 11 July 2022 (as reported), gendarmerie forces captured and detained 38 migrants that entered Turkey illegally, during a security operation carried out in Kofcaz district of Kirklareli. The migrants were from Afghanistan and Pakistan.
+
+---
+
+[EVENT: TUR26145]
+Date: 2022-07-12
+Country: Turkey | Location: Erdemli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Jinen Tirejen Roje [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 12 July 2022, Jinen Tirejen Roje militants carried out an arson attack in the Erdemli district of Mersin, inflicting material damage to a hardware store and two civilian vehicles due to their owners' ties with AKP.
+
+---
+
+[EVENT: TUR26143]
+Date: 2022-07-12
+Country: Turkey | Location: Menderes
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+On 12 July 2022, gendarmerie forces captured and detained 143 migrants preparing to cross the border illegally to Greece via boats in Koru bay area in Menderes district of Izmir.
+
+---
+
+[EVENT: TUR26171]
+Date: 2022-07-12
+Country: Turkey | Location: Coast of Dikili
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 12 July 2022, 28 migrants attempting to cross the border illegally to Greece via boats were captured and detained off the coast of Dikili, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26156]
+Date: 2022-07-12
+Country: Turkey | Location: Yuksekova
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Jinen Tirejen Roje [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 12 July 2022, Jinen Tirejen Roje militants destroyed the surveillance cameras on Yuksekova-Semdinli road in Gever (Yuksekova) district of Hakkari.
+
+---
+
+[EVENT: TUR26160]
+Date: 2022-07-13
+Country: Turkey | Location: Yenisehir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On 13 July 2022, HBDH militants attacked a police station in 450 Evler neighborhood of Yenisehir town, Diyarbakir, via stun grenades.
+
+---
+
+[EVENT: TUR26146]
+Date: 2022-07-13
+Country: Turkey | Location: Ovacik
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; TRT Haber [National]
+
+DESCRIPTION:
+Property destruction: Around 13 July 2022 (as reported), Turkish Gendarmerie forces discovered and destroyed a PKK shelter during the Eren-Blockade-7 security operations carried out in the Ovacik district of Tunceli.
+
+---
+
+[EVENT: TUR26150]
+Date: 2022-07-14
+Country: Turkey | Location: Hozat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; Haber 7 [National]
+
+DESCRIPTION:
+Property destruction: Around 14 July 2022 (as reported), Turkish Gendarmerie forces discovered and destroyed a PKK shelter during the Eren-Blockade-7 security operations carried out in the Hozat district of Tunceli.
+
+---
+
+[EVENT: TUR26172]
+Date: 2022-07-14
+Country: Turkey | Location: Coast of Dikili
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 14 July 2022, 42 migrants attempting to cross the border illegally to Greece via boats were captured and detained off the coast of Dikili, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26147]
+Date: 2022-07-14
+Country: Turkey | Location: Hizan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Haber 7; Cumhuriyet [National]
+
+DESCRIPTION:
+Security measures: On 14 July 2022, Bitlis governor's office declared a curfew order in a total of 3 villages (Yolbilen, Caliskanlar and Yaylacik) in the Hizan district of the province effective until 16 July, due to ongoing military operations and clashes in the area.
+
+---
+
+[EVENT: TUR26155]
+Date: 2022-07-15
+Country: Turkey | Location: Beyoglu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: TRT Haber [National]
+
+DESCRIPTION:
+Property destruction: On 15 July 2022, an unidentified armed group assumed attacked a Jewish cemetery in Beyoglu town, Istanbul, destroying a total of 36 tombstones and causing material damage.
+
+---
+
+[EVENT: TUR26154]
+Date: 2022-07-15
+Country: Turkey | Location: Gunyazi
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; Takvim [National]
+
+DESCRIPTION:
+Weapons seizure: Around 15 July 2022 (as reported), Turkish gendarmerie forces seized a large amount of anti-aircraft ammunition belonging to PKK, during the security operations carried out in the vicinity of Gunyazi village in the Semdinli district of Hakkari.
+
+---
+
+[EVENT: TUR26335]
+Date: 2022-07-16
+Country: Turkey | Location: Ipekyolu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Jinen Tirejen Roje [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 16 July 2022, Jinen Tirejen Roje carried out an arson attack in the Cevdet Pasa neighborhood of Ipekyolu, Van, inflicting material damage to a civilian car due to its owner's ties with AKP and MHP.
+
+---
+
+[EVENT: TUR26178]
+Date: 2022-07-16
+Country: Turkey | Location: Sancaktepe
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On 16 July 2022, HBDH militants carried out an arson attack in the Sancaktepe district of Istanbul, inflicting material damage to a total of 16 cars in an auto-dealer store.
+
+---
+
+[EVENT: TUR26164]
+Date: 2022-07-17
+Country: Turkey | Location: Kofcaz
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; TRT Haber [National]
+
+DESCRIPTION:
+Around 17 July 2022 (as reported), gendarmerie forces captured and detained a total of 123 migrants who entered Turkey illegally, during a security operation in Kofcaz district of Kirklareli. Migrants were from Afghanistan, Pakistan and Syria.
+
+---
+
+[EVENT: TUR26165]
+Date: 2022-07-17
+Country: Turkey | Location: Ipekyolu
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; Haber 7 [National]
+
+DESCRIPTION:
+Around 17 July 2022 (as reported), police forces captured and detained 39 migrants that entered Turkey illegally, during an operation they carried out in the Ipekyolu district of Van.
+
+---
+
+[EVENT: TUR26174]
+Date: 2022-07-18
+Country: Turkey | Location: Mardin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Karar; Cumhuriyet [National-International]
+
+DESCRIPTION:
+Security measures: On 18 July 2022, Mardin Governor's office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 15 days in order to maintain public order and security. Similar measures have been imposed in the province (and several other south-eastern provinces) for some years to maintain public order, presumably against political events that can be organized by Kurdish movement.
+
+---
+
+[EVENT: TUR26173]
+Date: 2022-07-18
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency; Ihlas News Agency; Karar [National-Regional]
+
+DESCRIPTION:
+Security measures: On 18 July 2022, Hakkari Governor's office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 15 days. Although the announcement indicated that the restriction aims to curb the coronavirus outbreak, similar measures have been imposed in the province (and several other south-eastern provinces) for some years to maintain public order, presumably against political events that can be organized by Kurdish movement.
+
+---
+
+[EVENT: TUR26170]
+Date: 2022-07-18
+Country: Turkey | Location: Coast of Ayvalik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 18 July 2022 (as reported), 39 migrants attempting to cross the border illegally to Greece via boats were captured off the coast of Ayvalik, Balikesir and detained by the Coast Guard Command of the Turkish army.
+
+---
+
+[EVENT: TUR26179]
+Date: 2022-07-19
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Haber 7; Aydinlik; TRT Haber [National]
+
+DESCRIPTION:
+Movement of forces: On 19 July 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-22' against PKK militants with the deployment of 530 personnel in the Van province.
+
+---
+
+[EVENT: TUR26241]
+Date: 2022-07-20
+Country: Turkey | Location: Yenisehir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On 20 July 2022, HBHD militants carried out an arson attack in Yenisehir town, Diyarbakir, inflicting material damage to a transformer providing electricity to residential buildings nearby.
+
+---
+
+[EVENT: TUR26193]
+Date: 2022-07-20
+Country: Turkey | Location: Coast of Seferihisar
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; Haber 7 [National]
+
+DESCRIPTION:
+On 20 July 2022, a total of 67 migrants attempting to cross the border illegally to Greece via boats were captured and detained off the coast of Seferihisar, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26203]
+Date: 2022-07-20
+Country: Turkey | Location: Tatvan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Sozcu; Kurdistan24 [National-International]
+
+DESCRIPTION:
+Security measures: On 20 July 2022, Bitlis governor's office declared a curfew order in a total of 3 villages (Salllica, Ozekli and Teknecik) and their rural zones in the Tatvan district of the province, effective until 22 July due to ongoing military operations and clashes with PKK militants in the area.
+
+---
+
+[EVENT: TUR26209]
+Date: 2022-07-21
+Country: Turkey | Location: Lice
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Haber 7; Karar [National-Regional]
+
+DESCRIPTION:
+Movement of forces: On 21 July 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-23' against PKK militants with the deployment of 620 personnel in Lice district of Diyarbakir province. Village guards and the special operations unit of police forces also participated in the operation.
+
+---
+
+[EVENT: TUR26337]
+Date: 2022-07-22
+Country: Turkey | Location: Buyukcekmece
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Jinen Tirejen Roje [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 22 July 2022, Jinen Tirejen Roje carried out an arson attack in Buyukcekmece district of Istanbul, inflicting material damage to a total of 3 civilian cars and one hardware store, due to their owner's ties with AKP.
+
+---
+
+[EVENT: TUR26314]
+Date: 2022-07-23
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Haber 7; Takvim [National]
+
+DESCRIPTION:
+Movement of forces: On 23 July 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-24' against PKK militants with the deployment of 483 personnel in Bitlis province. Village guards and the special operations unit of police forces also participated in the operation.
+
+---
+
+[EVENT: TUR26339]
+Date: 2022-07-23
+Country: Turkey | Location: Suleymanpasa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Children of Fire [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 23 July 2022, the Children of Fire carried out arson attacks in Suleymanpasa marina in Tekirdag, inflicting material damage to a number of yachts and boats.
+
+---
+
+[EVENT: TUR26338]
+Date: 2022-07-23
+Country: Turkey | Location: Arnavutkoy
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Jinen Tirejen Roje [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 23 July 2022, Jinen Tirejen Roje carried out arson attacks in Arnavutkoy district of Istanbul, inflicting material damage to a total of 8 civilian cars and one commercial warehouse.
+
+---
+
+[EVENT: TUR26340]
+Date: 2022-07-23
+Country: Turkey | Location: Tusba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 23 July 2022, HBDH carried out an arson attack targeting a car parking area in Tusba district of Van, inflicting material damage to a total of 11 civilian cars.
+
+---
+
+[EVENT: TUR26343]
+Date: 2022-07-24
+Country: Turkey | Location: Mugla
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Sozcu; TRT Haber; Haber 7 [National]
+
+DESCRIPTION:
+On 24 July 2022, a total of 112 migrants who entered Turkey illegally were captured and detained during the police operations carried out in the Mugla province.
+
+---
+
+[EVENT: TUR26347]
+Date: 2022-07-25
+Country: Turkey | Location: Coast of Cesme
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 25 July 2022 (as reported), 41 migrants attempting to cross the border illegally to Greece on a boat were captured and detained off the coast of Cesme, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26346]
+Date: 2022-07-25
+Country: Turkey | Location: Kemah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7; Ihlas News Agency [National]
+
+DESCRIPTION:
+Property destruction: Around 25 July 2022 (as reported), gendarmerie forces discovered and destroyed a large PKK shelter/hideout in the Kemah district of Erzincan.
+
+---
+
+[EVENT: TUR26344]
+Date: 2022-07-25
+Country: Turkey | Location: Coast of Bozcaada
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: TRT Haber; Haber 7 [National]
+
+DESCRIPTION:
+Around 25 July 2022 (as reported), 226 migrants attempting to cross the border illegally to Greece via boats were stopped off the coast of Bozcaada, Canakkale and detained by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26315]
+Date: 2022-07-26
+Country: Turkey | Location: Hani
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Haber 7; Karar; Sozcu [National-Regional]
+
+DESCRIPTION:
+Movement of forces: On 26 July 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-25' against PKK militants with the deployment of 820 personnel in the Hani district of Diyarbakir. Village guards and the special operations unit of police forces also participated in the operation.
+
+---
+
+[EVENT: TUR26348]
+Date: 2022-07-26
+Country: Turkey | Location: Coast of Kusadasi
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 26 July 2022 (as reported), 33 migrants that attempted to cross the border illegally to Greece on a boat were captured and detained off the coast of Kusadasi, Aydin by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26355]
+Date: 2022-07-27
+Country: Turkey | Location: Tatlicak
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; Ihlas News Agency [National]
+
+DESCRIPTION:
+Weapons seizure: On 27 July 2022, Turkish gendarmerie forces seized a number of weapons and explosive material belonging to PKK, during the security operations carried out in the vicinity of Tatlicak village in Yuksekova district of Hakkari.
+
+---
+
+[EVENT: TUR26357]
+Date: 2022-07-27
+Country: Turkey | Location: Coast of Cesme
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 27 July 2022, 46 migrants attempting to cross the border illegally to Greece on a boat were captured and detained off the coast of Cesme, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26316]
+Date: 2022-07-28
+Country: Turkey | Location: Omeryan Mountains
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: A Haber; Sozcu [National]
+
+DESCRIPTION:
+Movement of forces: On 28 July 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-26' against PKK militants with the deployment of 544 personnel in the Omeryan Mountains area in Nusaybin district of Mardin. Village guards and the special operations unit of police forces also participated in the operation.
+
+---
+
+[EVENT: TUR26362]
+Date: 2022-07-28
+Country: Turkey | Location: Fethiye
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 28 July 2022 (as reported), 125 migrants that attempted to cross the border illegally to Greece via boats were captured and detained off the coast of Fethiye, Mugla by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26462]
+Date: 2022-07-30
+Country: Turkey | Location: Fatih
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Cumhuriyet; Ihlas News Agency [National]
+
+DESCRIPTION:
+On 30 July 2022, 132 migrants who entered Turkey illegally were captured and detained by police forces in Fatih town, Istanbul.
+
+---
+
+[EVENT: TUR26419]
+Date: 2022-07-30
+Country: Turkey | Location: Sirnak
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Ihlas News Agency; Takvim [National]
+
+DESCRIPTION:
+Movement of forces: On 30 July 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-27' against PKK militants with the deployment of 1377 personnel in the Sirnak and Siirt provinces. (Sirnak coded as the event location since most of the operation area is in Sirnak province) Village guards and the special operations unit of police forces also participated in the operation.
+
+---
+
+[EVENT: TUR26428]
+Date: 2022-07-31
+Country: Turkey | Location: Lice
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Haber 7; Haberler; Sozcu [National]
+
+DESCRIPTION:
+Movement of forces: On 31 July 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-28' against PKK militants with the deployment of 1021 personnel in the Lice district of Diyarbakir province. Village guards also participated in the operation.
+
+---
+
+[EVENT: TUR26387]
+Date: 2022-08-01
+Country: Turkey | Location: Coast of Kusadasi
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; TRT Haber [National]
+
+DESCRIPTION:
+Around 1 August 2022 (as reported), 35 migrants that attempted to cross the border illegally to Greece on a boat were captured and detained off the coast of Kusadasi, Aydin by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26444]
+Date: 2022-08-01
+Country: Turkey | Location: Luleburgaz
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Aydinlik [National]
+
+DESCRIPTION:
+Around 1 August 2022 (as reported), gendarmerie forces captured and detained a total of 88 migrants who entered Turkey illegally, during a security operation in Luleburgaz district of Kirklareli. Migrants were from Syria and Yemen.
+
+---
+
+[EVENT: TUR26403]
+Date: 2022-08-01
+Country: Turkey | Location: Coast of Cesme
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: TRT Haber [National]
+
+DESCRIPTION:
+Around 1 August 2022 (as reported), 58 migrants attempting to cross the border illegally to Greece on a boat were captured and detained off the coast of Cesme, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26408]
+Date: 2022-08-01
+Country: Turkey | Location: Yuksekova
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 1 August 2022, Turkish military forces deployed a large number of troops and armored vehicles in Sisemizin, Diriske, Dotkan and Xurekana villages (Kurdish names) in Yuksekova district of Hakkari as part of a new security operation launched in the region.
+
+---
+
+[EVENT: TUR26404]
+Date: 2022-08-01
+Country: Turkey | Location: Coast of Karaburun
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 1 August 2022, 45 migrants that attempted to cross the border illegally to Greece on a boat were captured and detained off the coast of Karaburun, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26415]
+Date: 2022-08-02
+Country: Turkey | Location: Coast of Ayvalik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Aydinlik [National]
+
+DESCRIPTION:
+Around 2 August 2022 (as reported), 29 migrants attempting to cross the border illegally to Greece via boats were captured off the coast of Ayvalik, Balikesir and detained by the Coast Guard Command of the Turkish army.
+
+---
+
+[EVENT: TUR26418]
+Date: 2022-08-02
+Country: Turkey | Location: Semdinli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 2 August 2022, Turkish military forces deployed a large number of troops in Begirde, Gerket, Navrezan and Nehri villages (Kurdish names) in Semdinli district of Hakkari as part of a new security operation launched in the region.
+
+---
+
+[EVENT: TUR26395]
+Date: 2022-08-02
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Ihlas News Agency; Karar [National-Regional]
+
+DESCRIPTION:
+Security measures: On 2 August 2022, Hakkari Governor's office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 15 days. Although the announcement indicated that the restriction aims to curb the coronavirus outbreak, similar measures have been imposed in the province (and several other south-eastern provinces) for some years to maintain public order, presumably against political events that can be organized by Kurdish movement.
+
+---
+
+[EVENT: TUR26424]
+Date: 2022-08-02
+Country: Turkey | Location: Kofcaz
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; TRT Haber [National]
+
+DESCRIPTION:
+Around 2 August 2022 (as reported), gendarmerie forces captured and detained a total of 30 migrants who entered Turkey illegally, during a security operation in Kofcaz district of Kirklareli.
+
+---
+
+[EVENT: TUR26380]
+Date: 2022-08-02
+Country: Turkey | Location: Mardin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: A Haber; Cumhuriyet [National]
+
+DESCRIPTION:
+Security measures: On 2 August 2022, Mardin Governor's office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 15 days in order to maintain public order and security. Similar measures have been imposed in the province (and several other south-eastern provinces) for some years to maintain public order, presumably against political events that can be organized by Kurdish movement.
+
+---
+
+[EVENT: TUR26460]
+Date: 2022-08-03
+Country: Turkey | Location: Uskudar
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: TRT Haber; Sozcu [National]
+
+DESCRIPTION:
+On 3 August 2022, 56 Afghan migrants who entered Turkey illegally were captured and detained by police forces on the 15 July Bridge on the Bosporus strait (location coded as Uskudar) in Istanbul.
+
+---
+
+[EVENT: TUR26445]
+Date: 2022-08-04
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: A Haber; Takvim [National]
+
+DESCRIPTION:
+Movement of forces: On 4 August 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-29' against PKK militants with the deployment of 632 personnel in the Hakkari province. Village guards and the special operations unit of police forces also participated in the operation.
+
+---
+
+[EVENT: TUR26452]
+Date: 2022-08-04
+Country: Turkey | Location: Hozat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Ihlas News Agency; TRT Haber [National]
+
+DESCRIPTION:
+Property destruction: Around 4 August 2022 (as reported), Turkish Gendarmerie forces discovered and destroyed 3 PKK shelters together with the supplies they found inside, during the Eren-Blockade-7 security operations carried out in the Hozat district of Tunceli.
+
+---
+
+[EVENT: TUR26423]
+Date: 2022-08-05
+Country: Turkey | Location: Coast of Marmaris
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: TRT Haber [National]
+
+DESCRIPTION:
+Around 5 August 2022 (as reported), 34 migrants attempting to cross the border illegally to Greece on a boat were captured and detained off the coast of Marmaris, Mugla by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26466]
+Date: 2022-08-05
+Country: Turkey | Location: Adiyaman
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 5 August 2022 (as reported), 76 migrants who entered Turkey illegally were captured and detained by police forces in the central district of Adiyaman.
+
+---
+
+[EVENT: TUR26458]
+Date: 2022-08-05
+Country: Turkey | Location: Lice
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: A Haber; Haber 7 [National]
+
+DESCRIPTION:
+Movement of forces: On 5 August 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-30' against PKK militants with the deployment of 920 personnel in the Lice district of Diyarbakir province. Village guards also participated in the operation.
+
+---
+
+[EVENT: TUR26416]
+Date: 2022-08-05
+Country: Turkey | Location: Coast of Ayvacik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 5 August 2022 (as reported), 53 migrants that attempted to cross the border illegally to Greece on a boat were captured and detained off the coast of Ayvacik, Canakkale by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26509]
+Date: 2022-08-06
+Country: Turkey | Location: Adiyaman
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 6 August 2022 (as reported), 37 migrants who entered Turkey illegally were captured and detained by police forces in the central district of Adiyaman. Gendarmerie forces also supported the operation.
+
+---
+
+[EVENT: TUR26523]
+Date: 2022-08-06
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News; Peoples' United Revolutionary Movement [Other-International]
+
+DESCRIPTION:
+Property destruction: On 6 August 2022, HBDH militants carried out an arson attack on Diyarbakir-Sanlirufa highway in Diyarbakir province, inflicting material damage to a commercial truck.
+
+---
+
+[EVENT: TUR26526]
+Date: 2022-08-07
+Country: Turkey | Location: Coast of Dikili
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Haber 7; Ihlas News Agency [National]
+
+DESCRIPTION:
+On 7 August 2022, 38 migrants attempting to cross the border illegally to Greece via boats were captured and detained off the coast of Dikili, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26527]
+Date: 2022-08-07
+Country: Turkey | Location: Tunceli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Beyaz Gazete; Sozcu [National]
+
+DESCRIPTION:
+Property destruction: Around 7 August 2022 (as reported), gendarmerie forces discovered and destroyed two PKK shelters/hideouts in the central district of Tunceli.
+
+---
+
+[EVENT: TUR26510]
+Date: 2022-08-07
+Country: Turkey | Location: Mardin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: A Haber; Haber 7 [National]
+
+DESCRIPTION:
+Movement of forces: On 7 August 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-31' against PKK militants with the deployment of 528 personnel in the Mardin province. Village guards also participated in the operation.
+
+---
+
+[EVENT: TUR26528]
+Date: 2022-08-08
+Country: Turkey | Location: Didim
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 8 August 2022 (as reported), police forces captured and detained a total of 97 migrants who entered Turkey illegally in Didim district of Aydin.
+
+---
+
+[EVENT: TUR26531]
+Date: 2022-08-08
+Country: Turkey | Location: Fethiye
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 8 August 2022 (as reported), police forces captured and detained a total of 33 migrants who entered Turkey illegally in Fethiye district of Mugla.
+
+---
+
+[EVENT: TUR26532]
+Date: 2022-08-08
+Country: Turkey | Location: Seydikemer
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 8 August 2022 (as reported), gendarmerie forces captured and detained a total of 72 migrants who entered Turkey illegally in Yayla Ceylan neighborhood of Seydikemer town, Mugla.
+
+---
+
+[EVENT: TUR26511]
+Date: 2022-08-08
+Country: Turkey | Location: Bitlis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: A Haber; Haber 7; Ihlas News Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 8 August 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-32' against PKK militants with the deployment of 520 personnel in the Bitlis province. Village guards also participated in the operation.
+
+---
+
+[EVENT: TUR26529]
+Date: 2022-08-08
+Country: Turkey | Location: Hizan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber [National]
+
+DESCRIPTION:
+Property destruction: On 8 August 2022, gendarmerie forces discovered and destroyed 4 PKK shelters/hideouts in the Hizan district of Bitlis.
+
+---
+
+[EVENT: TUR26530]
+Date: 2022-08-08
+Country: Turkey | Location: Coast of Ayvacik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 8 August 2022 (as reported), 46 migrants that attempted to cross the border illegally to Greece on a boat were captured and detained off the coast of Ayvacik, Canakkale by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26800]
+Date: 2022-08-09
+Country: Turkey | Location: Kayapinar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement [Other]
+
+DESCRIPTION:
+Property destruction: On 9 August 2022, YPS militants attacked a civilian house via stun grenades in Peyas neighborhood of Kayapinar town, Diyarbakir, due to its owner's drug-selling activities.
+
+---
+
+[EVENT: TUR26797]
+Date: 2022-08-09
+Country: Turkey | Location: Mezitli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Jinen Tirejen Roje [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 9 August 2022, Jinen Tirejen Roje militants carried out an arson attack in Mezitli district of Mersin, inflicting material damage to 5 civilian vehicles and a supermarket due to their owners' ties with AKP.
+
+---
+
+[EVENT: TUR26533]
+Date: 2022-08-09
+Country: Turkey | Location: Sultangazi
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 9 August 2022 (as reported), police forces captured and detained a total of 32 migrants who entered Turkey illegally in Sultangazi district of Istanbul.
+
+---
+
+[EVENT: TUR26534]
+Date: 2022-08-09
+Country: Turkey | Location: Coast of Urla
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 9 August 2022, 45 migrants attempting to cross the border illegally to Greece on a boat were captured and detained off the coast of Urla, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26540]
+Date: 2022-08-10
+Country: Turkey | Location: Seydikemer
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Around 10 August 2022 (as reported), gendarmerie forces captured and detained a total of 89 migrants who entered Turkey illegally in Izzettin neighborhood of Seydikemer town, Mugla. The captured migrants were from Afghanistan, Bangladesh, Eritrea, Somalia, Pakistan and Turkmenistan.
+
+---
+
+[EVENT: TUR26542]
+Date: 2022-08-10
+Country: Turkey | Location: Ipekyolu
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) Special Operations [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Sozcu; Beyaz Gazete [National]
+
+DESCRIPTION:
+Around 10 August 2022 (as reported), special operations unit of police forces captured and detained a total of 33 migrants who entered Turkey illegally, during an operation they carried out in Yeni neighborhood of Ipekyolu town, Van.
+
+---
+
+[EVENT: TUR26539]
+Date: 2022-08-10
+Country: Turkey | Location: Kofcaz
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; TRT Haber [National]
+
+DESCRIPTION:
+Around 10 August 2022 (as reported), gendarmerie forces captured and detained a total of 31 migrants who entered Turkey illegally, during a security operation in Kofcaz district of Kirklareli.
+
+---
+
+[EVENT: TUR26537]
+Date: 2022-08-10
+Country: Turkey | Location: Batman
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey; ANF News [Other-International]
+
+DESCRIPTION:
+Security measures: On 10 August 2022, Batman Governor's Office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 10 days in order to maintain public order and security. Similar measures have been imposed in the province (and several other south-eastern provinces) regularly for some years, presumably against political events that can be organized by Kurdish movement.
+
+---
+
+[EVENT: TUR26544]
+Date: 2022-08-11
+Country: Turkey | Location: Kekova
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; TRT Haber [National]
+
+DESCRIPTION:
+Around 11 August 2022 (as reported), police forces captured and detained a total of 160 migrants who entered Turkey illegally, in Kekova island of Demre, Antalya.
+
+---
+
+[EVENT: TUR26545]
+Date: 2022-08-11
+Country: Turkey | Location: Atasehir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security measures: On 11 August 2022, Atasehir Governor's office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the district for 30 days, as a measure against the recent demonstrations staged by the construction workers.
+
+---
+
+[EVENT: TUR26512]
+Date: 2022-08-11
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: A Haber; Haber 7; Karar [National-International]
+
+DESCRIPTION:
+Movement of forces: On 11 August 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-33' against PKK militants with the deployment of 1054 personnel in the Diyarbakir province. Village guards also participated in the operation.
+
+---
+
+[EVENT: TUR26799]
+Date: 2022-08-11
+Country: Turkey | Location: Arifiye
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Jinen Tirejen Roje [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 11 August 2022, Jinen Tirejen Roje initiative carried out arson attacks in Arifiye district of Sakarya, inflicting material damage to a commercial warehouse and 2 vehicles belonging to the local executive of Ulku Ocaklari Association (Grey Wolves).
+
+---
+
+[EVENT: TUR26549]
+Date: 2022-08-12
+Country: Turkey | Location: Seydikemer
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: TRT Haber; Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 12 August 2022 (as reported), gendarmerie forces captured and detained a total of 81 migrants who entered Turkey illegally in Cukurincir neighborhood of Seydikemer town, Mugla. The captured migrants were from Syria and Palestine.
+
+---
+
+[EVENT: TUR26547]
+Date: 2022-08-12
+Country: Turkey | Location: Cukurca
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; Haber 7 [National]
+
+DESCRIPTION:
+Property destruction: Around 12 August 2022 (as reported), Turkish Gendarmerie forces discovered and destroyed 3 PKK shelters together with the supplies they found inside, during the Eren-Blockade-29 security operations carried out in the Cukurca district of Hakkari.
+
+---
+
+[EVENT: TUR26801]
+Date: 2022-08-13
+Country: Turkey | Location: Derik
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Military Forces of Turkey (2016-) Village Guards [State forces]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 13 August 2022, YPS militants carried out an arson attack in Kale neighborhood of Derik, Mardin, burning down a village guard's vehicle.
+
+---
+
+[EVENT: TUR26790]
+Date: 2022-08-13
+Country: Turkey | Location: Lice
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Movement of forces: On 13 August 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-34' against PKK militants with the deployment of 1200 personnel in the Lice district of Diyarbakir province. Village guards also participated in the operation.
+
+---
+
+[EVENT: TUR26798]
+Date: 2022-08-13
+Country: Turkey | Location: Demirtas
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Jinen Tirejen Roje [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News; Peoples' United Revolutionary Movement [Other-International]
+
+DESCRIPTION:
+Property destruction: On 13 August 2022, Jinen Tirejen Roje militants carried out an arson attack in Demirtas town of Mersin, inflicting material damage to 3 civilian vehicles and a hardware store due to their owners' ties with AKP.
+
+---
+
+[EVENT: TUR26771]
+Date: 2022-08-14
+Country: Turkey | Location: Coast of Urla
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; Sozcu [National]
+
+DESCRIPTION:
+On 14 August 2022, 192 migrants attempting to cross the border illegally to Italy on 2 boats were captured and detained off the coast of Urla, Izmir by the Coast Guard Command of the Turkish Army.
+
+---
+
+[EVENT: TUR26782]
+Date: 2022-08-14
+Country: Turkey | Location: Kirklareli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 14 August 2022 (as reported), gendarmerie forces arrested and deported a total of 227 Afghan migrants who entered Turkey illegally, during the operations they carried out in Kirklareli province.
+
+---
+
+[EVENT: TUR26772]
+Date: 2022-08-15
+Country: Turkey | Location: Coast of Cesme
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+On 15 August 2022, 57 migrants attempting to cross the border illegally to Greece on a boat were captured and detained off the coast of Cesme, Izmir by the Coast Guard Command of the Turkish Army.
+
+---
+
+[EVENT: TUR26773]
+Date: 2022-08-15
+Country: Turkey | Location: Coast of Karaburun
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+On 15 August 2022, 51 migrants that attempted to cross the border illegally to Greece on a boat were captured and detained off the coast of Karaburun, Izmir by the Coast Guard Command of the Turkish Army.
+
+---
+
+[EVENT: TUR26775]
+Date: 2022-08-16
+Country: Turkey | Location: Coast of Kusadasi
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+On 16 August 2022, 27 migrants that attempted to cross the border illegally to Greece on a boat were captured and detained off the coast of Kusadasi, Aydin by the Coast Guard Command of the Turkish Army.
+
+---
+
+[EVENT: TUR26774]
+Date: 2022-08-16
+Country: Turkey | Location: Coast of Datca
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+Around 16 August 2022 (as reported), 78 migrants attempting to cross the border illegally to Greece via boats were captured and detained off the coast of Datca, Mugla by the Coast Guard Command of the Turkish Army.
+
+---
+
+[EVENT: TUR26787]
+Date: 2022-08-17
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: A Haber; Aydinlik [National]
+
+DESCRIPTION:
+Security measures: On 17 August 2022, Hakkari Governor's office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 15 days. Although the announcement indicated that the restriction aims to curb the coronavirus outbreak, similar measures have been imposed in the province (and several other south-eastern provinces) for some years to maintain public order, presumably against political events that can be organized by the Kurdish movement.
+
+---
+
+[EVENT: TUR26788]
+Date: 2022-08-17
+Country: Turkey | Location: Mardin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Karar; Rudaw [International]
+
+DESCRIPTION:
+Security measures: On 17 August 2022, Mardin Governor's office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 15 days in order to maintain public order and security. Similar measures have been imposed in the province (and several other south-eastern provinces) for some years to maintain public order, presumably against political events that can be organized by the Kurdish movement.
+
+---
+
+[EVENT: TUR26783]
+Date: 2022-08-18
+Country: Turkey | Location: Kizlar
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 18 August 2022 (as reported), gendarmerie forces captured and detained a total of 28 Afghan and Pakistani migrants who entered Turkey illegally, during a security operation in Kizlar village of Karakopru, Sanliurfa.
+
+---
+
+[EVENT: TUR26770]
+Date: 2022-08-21
+Country: Turkey | Location: Coast of Ortaca
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 21 August 2022 (as reported), 120 migrants attempting to cross the border illegally via boats were captured off the coast of Ortaca district, Mugla and detained by the Coast Guard Command of the Turkish Army and Gendarmerie forces.
+
+---
+
+[EVENT: TUR26776]
+Date: 2022-08-21
+Country: Turkey | Location: Coast of Izmir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Haber 7; Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 21 August 2022 (from 19 - 21 August), the Coast Guard Command of the Turkish Army captured and arrested 101 migrants that attempted to cross the border illegally via boats, off the coasts of Dikili and Cesme districts of Izmir province [Location coded as coast of Izmir].
+
+---
+
+[EVENT: TUR26792]
+Date: 2022-08-21
+Country: Turkey | Location: Cukurca
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7; TRT Haber [National]
+
+DESCRIPTION:
+Weapons seizure: Around 21 August 2022 (as reported), Turkish gendarmerie forces seized a large amount of weapons belonging to the PKK, during a security operations carried out in the Cukurca district of Hakkari. The seized weapons included rockets, hand grenades and ammunition for various weapons.
+
+---
+
+[EVENT: TUR26778]
+Date: 2022-08-22
+Country: Turkey | Location: Coast of Cesme
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 22 August 2022, 26 migrants that attempted to cross the border illegally to Greece via boats were captured and detained off the coast of Cesme, Izmir by the Coast Guard Command of the Turkish Army.
+
+---
+
+[EVENT: TUR26777]
+Date: 2022-08-22
+Country: Turkey | Location: Coast of Fethiye
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; Sozcu [National]
+
+DESCRIPTION:
+Around 22 August 2022 (as reported), 35 migrants that attempted to cross the border illegally to Greece on a boat were captured and detained off the coast of Fethiye, Mugla by the Coast Guard Command of the Turkish Army.
+
+---
+
+[EVENT: TUR26784]
+Date: 2022-08-23
+Country: Turkey | Location: Milas
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: TRT Haber [National]
+
+DESCRIPTION:
+Around 23 August 2022 (as reported), gendarmerie forces detained 80 Afghan and Palestinian migrants who entered Turkey illegally, during an operation they carried out in the Meselik neighborhood of Milas, Mugla.
+
+---
+
+[EVENT: TUR26780]
+Date: 2022-08-23
+Country: Turkey | Location: Coast of Karaburun
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 23 August 2022, 48 migrants that attempted to cross the border illegally to Greece on a boat were captured and detained off the coast of Karaburun, Izmir by the Coast Guard Command of the Turkish Army.
+
+---
+
+[EVENT: TUR26779]
+Date: 2022-08-23
+Country: Turkey | Location: Coast of Soke
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Aydinlik; Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 23 August 2022 (as reported), 73 migrants that attempted to cross the border illegally to Greece on 2 boats were captured and detained off the coast of Soke, Aydin by the Coast Guard Command of the Turkish Army.
+
+---
+
+[EVENT: TUR26789]
+Date: 2022-08-23
+Country: Turkey | Location: Mezekoy
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Security measures: On 23 August 2022, the governorship of Kosk district, Aydin banned entry and exit from Mezekoy village in the district until 29 August to maintain the public order, as part of the measures taken in response to the recent demonstrations in the village against the building of a geothermal power plant in the area.
+
+---
+
+[EVENT: TUR26786]
+Date: 2022-08-24
+Country: Turkey | Location: Gevas
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 24 August 2022, gendarmerie forces stopped a suspect vehicle in the Gevas district of Van and detained 30 migrants found inside who entered Turkey illegally.
+
+---
+
+[EVENT: TUR26791]
+Date: 2022-08-24
+Country: Turkey | Location: Van
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Takvim; A Haber; Haber 7 [National]
+
+DESCRIPTION:
+Movement of forces: On 24 August 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-35' against PKK militants with the deployment of 622 personnel in the Van province.
+
+---
+
+[EVENT: TUR26781]
+Date: 2022-08-25
+Country: Turkey | Location: Coast of Datca
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+On 25 August 2022, 75 migrants attempting to cross the border illegally to Greece via boats were captured and detained off the coast of Datca, Mugla by the Coast Guard Command of the Turkish Army.
+
+---
+
+[EVENT: TUR26785]
+Date: 2022-08-25
+Country: Turkey | Location: Fethiye
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: TRT Haber; Takvim [National]
+
+DESCRIPTION:
+Around 25 August 2022 (as reported), gendarmerie forces captured and detained a total of 92 migrants who entered Turkey illegally, during an operation they carried out in the Yaniklar neighborhood of Fethiye, Mugla. The migrants were from Afghanistan, Iran, Syria and Bangladesh.
+
+---
+
+[EVENT: TUR26558]
+Date: 2022-08-25
+Country: Turkey | Location: Coast of Fethiye
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+On 25 August 2022, 127 migrants that attempted to cross the border illegally via boats were captured and detained off the coast of Fethiye, Mugla by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26595]
+Date: 2022-08-26
+Country: Turkey | Location: Ipekyolu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 26 August 2022, YPS militants carried out an attack that inflicted material damage to an electricity transformer in Xacort (Hacibekir) neighborhood of Ipekyolu town, Van. The means of the attack was not specified.
+
+---
+
+[EVENT: TUR26567]
+Date: 2022-08-27
+Country: Turkey | Location: Caldiran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7; TRT Haber [National]
+
+DESCRIPTION:
+Weapons seizure: On 27 August 2022, Turkish gendarmerie forces seized a number of weapons, IEDs and bomb-making material belonging to PKK, during the security operations carried out in the Caldiran district of Van.
+
+---
+
+[EVENT: TUR26562]
+Date: 2022-08-27
+Country: Turkey | Location: Duruca
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 27 August 2022 (as reported), border guard units of the Turkish army captured and detained a total of 25 Syrian migrants who attempted to enter Turkey illegally in the vicinity of Duruca village of Kilis.
+
+---
+
+[EVENT: TUR26563]
+Date: 2022-08-27
+Country: Turkey | Location: Judi Mountain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: Around 27 August 2022 (as reported), Turkish military forces deployed a large number of troops in Cudi (Judi Mountain) region of Sirnak as part of a new security operation launched in the region. The village guards also participated in the operation.
+
+---
+
+[EVENT: TUR26579]
+Date: 2022-08-27
+Country: Turkey | Location: Coast of Ayvacik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; TRT Haber [National]
+
+DESCRIPTION:
+On 27 August 2022, 51 migrants that attempted to cross the border illegally to Greece on a boat were captured and detained off the coast of Ayvacik, Canakkale by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26568]
+Date: 2022-08-28
+Country: Turkey | Location: Dogubayazit
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Cumhuriyet; Haber 7 [National]
+
+DESCRIPTION:
+Around 28 August 2022 (as reported), total of 61 migrants who entered Turkey illegally were detained in police operations carried out in the Dogubeyazit district of Agri province. The migrants were from Afghanistan and Bangladesh.
+
+---
+
+[EVENT: TUR26569]
+Date: 2022-08-28
+Country: Turkey | Location: Marmaris
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Haber 7 [National]
+
+DESCRIPTION:
+Around 28 August 2022 (as reported), police forces captured and detained 67 migrants who entered Turkey illegally in Hatipirimi neighborhood of Marmaris town, Mugla. The migrants were from Afghanistan, Syria and Palestine.
+
+---
+
+[EVENT: TUR26577]
+Date: 2022-08-29
+Country: Turkey | Location: Tendurek Mountain
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7; TRT Haber [National]
+
+DESCRIPTION:
+Weapons seizure: Around 29 August 2022 (as reported), Turkish gendarmerie forces seized a number of weapons and bomb-making material belonging to PKK, during the security operations carried out in the Tendurek Mountain region of Agri. The seized weapons included 21 assault weapons, 18 RPGs, 6 hand grenades, 20 kilograms of explosive material and 2,883 rounds of ammunition.
+
+---
+
+[EVENT: TUR26586]
+Date: 2022-08-29
+Country: Turkey | Location: Kofcaz
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Around 29 August 2022 (as reported), gendarmerie forces captured and detained a total of 35 Afghan migrants who entered Turkey illegally, during a security operation in Kofcaz district of Kirklareli.
+
+---
+
+[EVENT: TUR26597]
+Date: 2022-08-30
+Country: Turkey | Location: Bagok Mountain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: Around 30 August 2022 (as reported), Turkish military forces deployed a large number of troops and armoured vehicles in Bagok mountain region of Mardin, supposedly as part of a new security operation launched in the region.
+
+---
+
+[EVENT: TUR26608]
+Date: 2022-08-31
+Country: Turkey | Location: Edirne
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: TRT Haber [National]
+
+DESCRIPTION:
+Around 31 August 2022 (as reported), police forces captured and detained a total of 312 migrants that entered Turkey illegally, during the operations they carried out in Edirne province.
+
+---
+
+[EVENT: TUR26607]
+Date: 2022-08-31
+Country: Turkey | Location: Tendurek Mountain
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: TRT Haber [National]
+
+DESCRIPTION:
+Weapons seizure: Around 31 August 2022 (as reported), Turkish gendarmerie forces seized a number of weapons and explosive material belonging to PKK, during the security operations carried out in the Tendurek Mountain region of Agri. The seized weapons included 2 heavy machine guns, 7 RPGs, 15 hand grenades, 317 rounds of ammunition, 3 IEDs and various other supplies.
+
+---
+
+[EVENT: TUR26610]
+Date: 2022-08-31
+Country: Turkey | Location: Tuzla
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Peoples' United Revolutionary Movement; ANF News [Other-International]
+
+DESCRIPTION:
+Property destruction: On 31 August 2022, HBDH militants carried out an arson attack in Tuzla town, Istanbul, inflicting material damage to a public transport bus.
+
+---
+
+[EVENT: TUR26616]
+Date: 2022-08-31
+Country: Turkey | Location: Coast of Karaburun
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 31 August 2022 (as reported), 35 migrants that attempted to cross the border illegally to Greece on a boat were captured and detained off the coast of Karaburun, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26609]
+Date: 2022-09-01
+Country: Turkey | Location: Mardin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Aydinlik [National]
+
+DESCRIPTION:
+Security measures: On 1 September 2022, Mardin Governor's office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 15 days in order to maintain public order and security. Similar measures have been imposed in the province (and several other south-eastern provinces) for some years to maintain public order, presumably against political events that can be organized by Kurdish movement.
+
+---
+
+[EVENT: TUR26614]
+Date: 2022-09-01
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency; Karar [National-Regional]
+
+DESCRIPTION:
+Security measures: On 1 September 2022, Hakkari Governor's office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 15 days. Although the announcement indicated that the restriction aims to curb the coronavirus outbreak, similar measures have been imposed in the province (and several other south-eastern provinces) for some years to maintain public order, presumably against political events that can be organized by Kurdish movement.
+
+---
+
+[EVENT: TUR26646]
+Date: 2022-09-02
+Country: Turkey | Location: Edirne
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Haber 7; TRT Haber [National]
+
+DESCRIPTION:
+Around 2 September 2022 (as reported), police forces captured and detained 50 migrants that entered Turkey illegally, during an operations they carried out in the central district of Edirne.
+
+---
+
+[EVENT: TUR26688]
+Date: 2022-09-02
+Country: Turkey | Location: Silivri
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+On 2 September 2022, Turkish Police forces arrested Semra Guzel, a MP from HDP at a highway rest stop in Silivri district of Istanbul. Guzel was stripped of her parliamentary immunity on 1 March 2022 after the photos showing her with a militant at a PKK camp circulated in media. Turkish authorities claimed she was captured with a fake ID as she was en route to illegally cross the border to Greece. On the following day, she was taken before the court and sent to Silivri prison on the charge of 'membership of a terrorist organization.'
+
+---
+
+[EVENT: TUR26695]
+Date: 2022-09-03
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Cumhuriyet; TRT Haber [National]
+
+DESCRIPTION:
+Around 3 September 2022 (as reported), a total of 120 migrants who entered Turkey illegally were captured and detained during the police operations carried out in the Esenyurt, Esenler and Kucukcekmece districts of Istanbul province.
+
+---
+
+[EVENT: TUR26707]
+Date: 2022-09-04
+Country: Turkey | Location: Atasehir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+On 4 September 2022, a group staged a march as part of a festival organized to celebrate the 20th anniversary of the 1 Mayis neighborhood in Atasehir, Istanbul. Police intervened in the event as the group opened banners commemorating a killed leftist militant, detaining 34 people.
+
+---
+
+[EVENT: TUR26752]
+Date: 2022-09-05
+Country: Turkey | Location: Gulnar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Jinen Tirejen Roje [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 5 September 2022, Jinen Tirejen Roje militants carried out arson attacks in Gulnar district of Mersin, inflicting material damage to a total of 8 civilian vehicles.
+
+---
+
+[EVENT: TUR26751]
+Date: 2022-09-06
+Country: Turkey | Location: Hendek
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Jinen Tirejen Roje [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 6 September 2022, Jinen Tirejen Roje militants carried out an arson attack in the Hendek district of Sakarya, inflicting material damage to a factory due to their owners' ties with AKP.
+
+---
+
+[EVENT: TUR26730]
+Date: 2022-09-06
+Country: Turkey | Location: Coast of Fethiye
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: TRT Haber [National]
+
+DESCRIPTION:
+Around 6 September 2022 (as reported), 25 migrants that attempted to cross the border illegally to Greece on a boat were captured and detained off the coast of Fethiye, Mugla by the Coast Guard Command of the Turkish Army.
+
+---
+
+[EVENT: TUR26729]
+Date: 2022-09-06
+Country: Turkey | Location: Kirklareli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: TRT Haber; Cumhuriyet [National]
+
+DESCRIPTION:
+Around 6 September 2022 (from 26 August - 6 September), gendarmerie forces captured and detained a total of 226 migrants who entered Turkey illegally, during the operations they carried out in Kirklareli province.
+
+---
+
+[EVENT: TUR27183]
+Date: 2022-09-07
+Country: Turkey | Location: Derince
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Jinen Tirejen Roje [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 7 September 2022, Jinen Tirejen Roje militants carried out arson attacks in Derince district of Kocaeli, inflicting material damage to 4 civilian vehicles and a supermarket due to their owners' ties with Grey Wolves (Ulku Ocaklari).
+
+---
+
+[EVENT: TUR26745]
+Date: 2022-09-08
+Country: Turkey | Location: Tendurek Mountain
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7; Sozcu; TRT Haber [National]
+
+DESCRIPTION:
+Weapons seizure: Around 8 September 2022 (as reported), Turkish gendarmerie forces seized a large amount of bomb-making material and explosives belonging to PKK, during the security operations carried out in the Tendurek Mountain region of the Dogubayazit district of Agri province.
+
+---
+
+[EVENT: TUR26750]
+Date: 2022-09-08
+Country: Turkey | Location: Caglayik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+Around 8 September 2022 (as reported), gendarmerie forces captured and detained 99 migrants who entered Turkey illegally during a security operation in Caglayik village of Kirklareli.
+
+---
+
+[EVENT: TUR26936]
+Date: 2022-09-10
+Country: Turkey | Location: Mus
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: A Haber; Karar [National-International]
+
+DESCRIPTION:
+Movement of forces: On 10 September 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-36' against PKK militants with the deployment of 513 personnel in the Mus province. Village Guards also participated in the operation.
+
+---
+
+[EVENT: TUR26937]
+Date: 2022-09-10
+Country: Turkey | Location: Coast of Seferihisar
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: TRT Haber [National]
+
+DESCRIPTION:
+Around 10 September 2022 (as reported), 75 migrants attempting to cross the border illegally to Greece via boats were captured and detained off the coast of Seferihisar, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26975]
+Date: 2022-09-12
+Country: Turkey | Location: Coast of Cesme
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Cumhuriyet [National]
+
+DESCRIPTION:
+On 12 September 2022, 39 migrants that attempted to cross the border illegally to Greece via boats were captured and detained off the coast of Cesme, Izmir by the Coast Guard Command of the Turkish Army.
+
+---
+
+[EVENT: TUR26954]
+Date: 2022-09-12
+Country: Turkey | Location: Kadikoy
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; Haber 7 [National]
+
+DESCRIPTION:
+Weapons seizure: On 12 September 2022, Turkish gendarmerie forces seized a number of weapons and explosive material belonging to PKK, during the security operations carried out in the Kadikoy village of Yuksekova, Hakkari. The seized weapons included RPGs, mortar shells, hand grenades and ammunition.
+
+---
+
+[EVENT: TUR26955]
+Date: 2022-09-12
+Country: Turkey | Location: Coast of Didim
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: TRT Haber [National]
+
+DESCRIPTION:
+Around 12 September 2022 (as reported), 71 migrants attempting to cross the border illegally to Greece via boats were stopped off the coast of Didim, Aydin and detained by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26957]
+Date: 2022-09-12
+Country: Turkey | Location: Coast of Izmir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: TRT Haber [National]
+
+DESCRIPTION:
+Around 12 September 2022 (as reported), a total of 236 migrants attempting to cross the border illegally to Greece via boats were captured and detained off the coast of Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26968]
+Date: 2022-09-13
+Country: Turkey | Location: Sirnak
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey; Kurdistan24; Sozcu [Other-National]
+
+DESCRIPTION:
+Security measures: On 13 September 2022, Sirnak Governor's office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 15 days in order to maintain public order and security. Similar measures have been imposed in the province (and several other south-eastern provinces) for some years to maintain public order, presumably against political events that can be organized by Kurdish movement.
+
+---
+
+[EVENT: TUR26967]
+Date: 2022-09-13
+Country: Turkey | Location: Ovakislacik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+On 13 September 2022, gendarmerie forces captured and detained a total of 75 migrants who entered Turkey illegally, during an operation they carried out in the vicinity of Ovakislacik village in Milas district, Mugla. The migrants were from Afghanistan and Iraq.
+
+---
+
+[EVENT: TUR26973]
+Date: 2022-09-13
+Country: Turkey | Location: Coast of Ayvacik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; TRT Haber [National]
+
+DESCRIPTION:
+On 13 September 2022, 56 migrants that attempted to cross the border illegally to Greece on a boat were captured and detained off the coast of Ayvacik, Canakkale by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR26963]
+Date: 2022-09-13
+Country: Turkey | Location: Hozat
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Haber 7; TRT Haber [National]
+
+DESCRIPTION:
+Weapons seizure: On 13 September 2022, Turkish gendarmerie forces seized a number of weapons and explosive material belonging to PKK, during the security operations carried out in the Hozat district of Tunceli. The seized weapons bombs, mortar shells and high amount of explosive material.
+
+---
+
+[EVENT: TUR26964]
+Date: 2022-09-13
+Country: Turkey | Location: Kirklareli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Cumhuriyet; Sozcu [National]
+
+DESCRIPTION:
+Around 13 September 2022 (as reported), gendarmerie forces captured and detained a total of 146 migrants who entered Turkey illegally, during the operations they carried out in Luleburgaz, Babaeski and Vize districts of the Kirklareli province.
+
+---
+
+[EVENT: TUR26987]
+Date: 2022-09-14
+Country: Turkey | Location: Coast of Eceabat
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 14 September 2022, 84 migrants attempting to cross the border illegally on a boat were captured off the coast of Eceabat, Canakkale and detained by the Coast Guard Command of the Turkish army.
+
+---
+
+[EVENT: TUR26988]
+Date: 2022-09-15
+Country: Turkey | Location: Coast of Ayvalik
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 15 September 2022 (as reported), 42 migrants attempting to cross the border illegally to Greece via boats were captured off the coast of Ayvalik, Balikesir and detained by the Coast Guard Command of the Turkish army.
+
+---
+
+[EVENT: TUR26982]
+Date: 2022-09-15
+Country: Turkey | Location: Kazan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; Haber 7 [National]
+
+DESCRIPTION:
+Weapons seizure: On 15 September 2022, Turkish gendarmerie forces seized a large number of weapons and explosive material belonging to PKK, during the security operations carried out in the Kazan valley area in Cukurca district of Hakkari province. The seized weapons included mortars, assault rifles, RPGs, mortar shells, hand grenades and thousands of ammunition.
+
+---
+
+[EVENT: TUR26979]
+Date: 2022-09-15
+Country: Turkey | Location: Kazan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Rudaw; Karar; Haber 7 [National-International]
+
+DESCRIPTION:
+Movement of forces: On 15 September 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-37' against PKK militants with the deployment of 610 personnel in the Kazan valley area in Cukurca district of Hakkari province. Village Guards and the special operations unit of the police forces also participated in the operation.
+
+---
+
+[EVENT: TUR26999]
+Date: 2022-09-16
+Country: Turkey | Location: Mardin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency; Cumhuriyet [National]
+
+DESCRIPTION:
+Security measures: On 16 September 2022, Mardin Governor's office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 15 days in order to maintain public order and security. Similar measures have been imposed in the province (and several other south-eastern provinces) for some years to maintain public order, presumably against political events that can be organized by Kurdish movement.
+
+---
+
+[EVENT: TUR26997]
+Date: 2022-09-16
+Country: Turkey | Location: Hakkari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Anadolu Agency; Aydinlik [National]
+
+DESCRIPTION:
+Security measures: On 16 September 2022, Hakkari Governor's office issued a ban on all forms of marches, protests, press conferences, sit-ins and other political gatherings in the province for 15 days in order to maintain public order and security. Similar measures have been imposed in the province (and several other south-eastern provinces) for some years to maintain public order, presumably against political events that can be organized by Kurdish movement.
+
+---
+
+[EVENT: TUR27027]
+Date: 2022-09-17
+Country: Turkey | Location: Coast of Didim
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: TRT Haber [National]
+
+DESCRIPTION:
+Around 17 September 2022 (as reported), 52 migrants attempting to cross the border illegally to Greece via boats were stopped off the coast of Didim, Aydin and detained by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR27038]
+Date: 2022-09-17
+Country: Turkey | Location: Burhaniye
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Jinen Tirejen Roje [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 17 September 2022, Jinen Tirejen Roje militants carried out an arson attack in Burhaniye district of Balikesir, inflicting material damage to a chemical plant.
+
+---
+
+[EVENT: TUR27031]
+Date: 2022-09-18
+Country: Turkey | Location: Hasanova
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: Mezopotamya Agency [National]
+
+DESCRIPTION:
+Movement of forces: On 18 September 2022, Turkish military forces deployed a large number of troops and armored vehicles in the vicinity of Hasanova village of Karliova, Bingol, supposedly as part of a new security operation launched in the region.
+
+---
+
+[EVENT: TUR27032]
+Date: 2022-09-18
+Country: Turkey | Location: Ipekyolu
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+Around 18 September 2022 (as reported), police forces captured and detained 30 Afghan migrants that entered Turkey illegally, during an operation they carried out in the Vali Mithatbey neighborhood of Ipekyolu town, Van.
+
+---
+
+[EVENT: TUR27069]
+Date: 2022-09-19
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Cumhuriyet; TRT Haber [National]
+
+DESCRIPTION:
+Around 19 September 2022 (from 11 - 19 September), a total of 343 migrants attempting to cross the border illegally to Greece were detained during the security operations carried out by Gendarmerie forces in Bayindir, Cesme, Seferihisar, Menderes, Foca, Menemen, Selcuk and Urla districts of Izmir province.
+
+---
+
+[EVENT: TUR27035]
+Date: 2022-09-19
+Country: Turkey | Location: Tendurek Mountain
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: A Haber; Sozcu [National]
+
+DESCRIPTION:
+Property destruction: Around 19 September 2022, gendarmerie forces discovered and destroyed a large PKK shelter in the Tendurek mountain region of Agri, together with the supplies they found inside.
+
+---
+
+[EVENT: TUR27053]
+Date: 2022-09-19
+Country: Turkey | Location: Coast of Dikili
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 19 September 2022, 37 migrants attempting to cross the border illegally to Greece via boats were captured and detained off the coast of Dikili, Izmir by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR27085]
+Date: 2022-09-22
+Country: Turkey | Location: Coast of Didim
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 22 September 2022 (as reported), 45 migrants attempting to cross the border illegally to Greece via boats were stopped off the coast of Didim, Aydin and detained by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR27104]
+Date: 2022-09-23
+Country: Turkey | Location: Aricak
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Fatalities: 0
+Sources: Karar; Takvim [National-International]
+
+DESCRIPTION:
+Movement of forces: On 23 September 2022, Turkish Gendarmerie forces launched a ground operation named 'Eren-Blockade-38' against PKK militants with the deployment of 485 personnel in the Aricak district of Elazig province. Village Guards and the special operations unit of the police forces also participated in the operation.
+
+---
+
+[EVENT: TUR27115]
+Date: 2022-09-24
+Country: Turkey | Location: Caldiran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+Weapons seizure: Around 24 September 2022 (as reported), Turkish gendarmerie forces seized a large number of weapons belonging to PKK, during the security operations carried out in the Tendurek mountain region in Caldiran district of Van. The seized weapons included over 75,000 rounds of ammunition.
+
+---
+
+[EVENT: TUR27114]
+Date: 2022-09-24
+Country: Turkey | Location: Coast of Foca
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency; Sozcu [National]
+
+DESCRIPTION:
+On 24 September 2022, 231 migrants attempting to cross the border illegally to Italy on a boat were stopped off the coast of Foca, Izmir and detained by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR27251]
+Date: 2022-09-25
+Country: Turkey | Location: Silvan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Police Forces of Turkey (2016-) [State forces]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 25 September 2022, YPS militants threw stun grenades at a police vehicle (presumably while parked) in the Yenisehir neighborhood of Silvan town, Diyarbakir. There was no interaction with police forces.
+
+---
+
+[EVENT: TUR27141]
+Date: 2022-09-26
+Country: Turkey | Location: Marmaris
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+Around 26 September 2022 (as reported), police forces captured and detained 85 migrants who entered Turkey illegally in Marmaris district, Mugla. The migrants were from Syria and Palestine.
+
+---
+
+[EVENT: TUR27150]
+Date: 2022-09-26
+Country: Turkey | Location: Coast of Didim
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+Around 26 September 2022 (as reported), 92 migrants attempting to cross the border illegally to Greece via boats were stopped off the coast of Didim, Aydin and detained by the Coast Guard Command of Turkish Army.
+
+---
+
+[EVENT: TUR27143]
+Date: 2022-09-26
+Country: Turkey | Location: Bodrum
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+Around 26 September 2022 (as reported), gendarmerie forces captured and detained 80 migrants who entered Turkey illegally in Bodrum district, Mugla. The migrants were from Iraq and Iran.
+
+---
+
+[EVENT: TUR27142]
+Date: 2022-09-26
+Country: Turkey | Location: Kirklareli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (Afghanistan) [Civilians]
+Fatalities: 0
+Sources: Sozcu [National]
+
+DESCRIPTION:
+Around 26 September 2022 (as reported), gendarmerie forces captured and detained a total of 100 migrants who entered Turkey illegally, during the operations they carried out in Demirkoy and Kofcaz districts of Kirklareli. The migrants were from Afghanistan, Syria and Morocco.
+
+---
+
+[EVENT: TUR27135]
+Date: 2022-09-26
+Country: Turkey | Location: Gaziosmanpasa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Sozcu; Karar; Haber 7 [National-International]
+
+DESCRIPTION:
+Around 26 September 2022 (as reported), police forces captured and detained 120 migrants that entered Turkey illegally, during an operation they carried out in the Gaziosmanpasa district of Istanbul.
+
+---
+
+[EVENT: TUR27186]
+Date: 2022-09-27
+Country: Turkey | Location: Beyoglu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 27 September 2022, YPS militants carried out an arson attack in Kasimpasa quarter of Beyoglu town, Istanbul, inflicting material damage to a supermarket store.
+
+---
+
+[EVENT: TUR27184]
+Date: 2022-09-28
+Country: Turkey | Location: Gebze
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Jinen Tirejen Roje [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 28 September 2022, Jinen Tirejen Roje militants carried out arson attacks in Gebze district of Kocaeli, inflicting material damage to 3 civilian vehicles and a hardware store due to their owners' ties with AKP.
+
+---
+
+[EVENT: TUR27219]
+Date: 2022-09-28
+Country: Turkey | Location: Umraniye
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: YPS: Civil Protection Units [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 28 September 2022, YPS militants carried out an arson attack in Umraniye town, Istanbul, inflicting material damage to the district office of the Turkish ultranationalist Ulku Ocaklari (Grey Wolves) association .
+
+---
+
+[EVENT: TUR27182]
+Date: 2022-09-28
+Country: Turkey | Location: Soke
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Ihlas News Agency [National]
+
+DESCRIPTION:
+On 28 September 2022, police forces captured and detained 94 migrants who entered Turkey illegally in Soke town, Aydin. The migrants were from Iraq and Iran.
+
+---
+
+[EVENT: TUR27185]
+Date: 2022-09-29
+Country: Turkey | Location: Sultanbeyli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Jinen Tirejen Roje [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: On 29 September 2022, Jinen Tirejen Roje militants carried out an arson attack in Sultanbeyli district of Istanbul, inflicting material damage to a factory due to its owner's ties with AKP.
+
+---
+
+[EVENT: TUR27187]
+Date: 2022-09-30
+Country: Turkey | Location: Kavakli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Aydinlik; Karar [National-Regional]
+
+DESCRIPTION:
+Property destruction: Around 30 September 2022, gendarmerie forces discovered and destroyed a large PKK shelter in the vicinity of Kavakli village of Hakkari, together with the supplies they found inside.
+
+---
+
+[EVENT: TUR27241]
+Date: 2022-09-30
+Country: Turkey | Location: Kirklareli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: Karar [International]
+
+DESCRIPTION:
+Around 30 September 2022 (from 24 - 30 September), gendarmerie forces captured and detained a total of 149 migrants who entered Turkey illegally, during the operations they carried out in Kirklareli province.
+
+---
+
+[EVENT: TUR27188]
+Date: 2022-09-30
+Country: Turkey | Location: Urla
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) Gendarmerie [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: TRT Haber [National]
+
+DESCRIPTION:
+Around 30 September 2022 (as reported), gendarmerie forces captured and detained 81 migrants who entered Turkey illegally in Zeytinler neighborhood of Urla town, Izmir.
+
+---
+
+[EVENT: TUR27189]
+Date: 2022-09-30
+Country: Turkey | Location: Coast of Karaburun
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: TRT Haber [National]
+
+DESCRIPTION:
+Around 30 September 2022 (as reported), 75 migrants attempting to cross the border illegally to Greece via boats were stopped off the coast of Karaburun, Izmir, and detained by the Coast Guard Command of Turkish Army.

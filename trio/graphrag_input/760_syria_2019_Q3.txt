@@ -1,0 +1,3149 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Syria (ISO Code: 760)
+Temporal Period: Year 2019 - Quarter Q3
+Total Events in Chunk: 232 / 232
+==================================================
+
+[EVENT: SYR63675]
+Date: 2019-07-01
+Country: Syria | Location: Wasi'ah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 1 July, 2019, unidentified gunmen set fire to lands in the vicinity of Wasi'ah in eastern Deir-ez-Zor countryside.
+
+---
+
+[EVENT: SYR63673]
+Date: 2019-07-01
+Country: Syria | Location: Rabida
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 1 July, 2019, unidentified gunmen set fire to lands between Rabida and Saad in eastern Deir-ez-Zor countryside.
+
+---
+
+[EVENT: SYR63674]
+Date: 2019-07-01
+Country: Syria | Location: Mweileh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 1 July, 2019, unidentified gunmen set fire to lands in the vicinity of Mweileh in eastern Deir-ez-Zor countryside.
+
+---
+
+[EVENT: SYR63616]
+Date: 2019-07-02
+Country: Syria | Location: Al Ghab Plain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: As reported on 02 July 2019, between 29/06 and 01/07, HTS and Islamic Turkestani Party brought military reinforcements to the clash areas in Al Ghab Plain in Hama in preparation for clashes with the regime forces and to protect the Turkish observation point in Shir Maghar in Hama against regime shelling.
+
+---
+
+[EVENT: SYR63617]
+Date: 2019-07-03
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Change to armed group: On 3 July 2019, the Al Hasakeh Military Council was formed under the banner of QSD forces in the area. The move came at the behest of the Global Coalition Against Daesh.
+
+---
+
+[EVENT: SYR63642]
+Date: 2019-07-03
+Country: Syria | Location: Ar-Raqqa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Mass grave: On 03 July 2019, a grave containing the bodies of 200 people was discovered in Ar-Raqqa city. Fatalities assumed to be civilians were most likely killed by IS when it controlled the area and included 3 women, likely killed by stoning, and 5 men likely executed by IS.
+
+---
+
+[EVENT: SYR63678]
+Date: 2019-07-04
+Country: Syria | Location: Hama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Displacement: On 4 July 2019, a large number of civilians fled fighting in northern and western Hama province.
+
+---
+
+[EVENT: SYR63623]
+Date: 2019-07-04
+Country: Syria | Location: Afrin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Al Sham Corps [Rebel group]
+Actor2: YPG: Peoples Protection Units [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Weapons seizure: On 4 July 2019, Al Sham Corps fighters seized a cache of weapons from a YPG cell in the Afrin area.
+
+---
+
+[EVENT: SYR63641]
+Date: 2019-07-05
+Country: Syria | Location: Helubiye
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Sultan Murad Division [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 5 July 2019, Sultan Murad Division fighters looted several homes of Kurdish residents in the town in Helubiye.
+
+---
+
+[EVENT: SYR63591]
+Date: 2019-07-05
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Arrests: On 5 July 2019, regime military intelligence officer arrested several Kurdish youth in the city of Quamishli on unspecified charges.
+
+---
+
+[EVENT: SYR63779]
+Date: 2019-07-07
+Country: Syria | Location: Ein Terma
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 7 July 2019, regime checkpoints have imposed new travel restrictions on civilians travelling from Eastern Ghouta in Rural Damascus to Damascus following the re-opening of the Ein Terma road after 7 years of closure. Civilians over the age of 6 are required to obtain security permission to be able to travel through the area.
+
+---
+
+[EVENT: SYR64140]
+Date: 2019-07-07
+Country: Syria | Location: Kafr Batna
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 7 July 2019 (between 1 July - 15 July), regime security forces expelled 10 families from their houses in Kafr Batna in Rural Damascus and either looted their property or fully seized their houses. The houses that were raided are either owned by opposition members or civilians who had been evacuated to northern Syria following the regime takeover, and were housing IDPs prior to regime raids.
+
+---
+
+[EVENT: SYR64141]
+Date: 2019-07-07
+Country: Syria | Location: Hezzeh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 7 July 2019 (between 1 July - 15 July), regime security forces expelled 20 families from their houses in Hezzeh in Rural Damascus and either looted their property or fully seized their houses. The houses that were raided are either owned by opposition members or civilians who had been evacuated to northern Syria following the regime takeover, and were housing IDPs prior to regime raids.
+
+---
+
+[EVENT: SYR64142]
+Date: 2019-07-07
+Country: Syria | Location: Beit Sawa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 7 July 2019 (between 1 July - 15 July), regime security forces expelled several families from their houses in Beit Sawa in Rural Damascus and either looted their property or fully seized their houses. The houses that were raided are either owned by opposition members or civilians who had been evacuated to northern Syria following the regime takeover, and were housing IDPs prior to regime raids.
+
+---
+
+[EVENT: SYR64143]
+Date: 2019-07-07
+Country: Syria | Location: Ein Terma
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 7 July 2019 (between 1 July - 15 July), regime security forces expelled several families from their houses in Ein Terma in Rural Damascus and either looted their property or fully seized their houses. The houses that were raided are either owned by opposition members or civilians who had been evacuated to northern Syria following the regime takeover, and were housing IDPs prior to regime raids.
+
+---
+
+[EVENT: SYR64144]
+Date: 2019-07-07
+Country: Syria | Location: Hamouriya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 7 July 2019 (between 1 July - 15 July), regime security forces expelled several families from their houses in Hamouriya in Rural Damascus and either looted their property or fully seized their houses. The houses that were raided are either owned by opposition members or civilians who had been evacuated to northern Syria following the regime takeover, and were housing IDPs prior to regime raids.
+
+---
+
+[EVENT: SYR63783]
+Date: 2019-07-07
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Defusal: On 07 July 2019, QSD forces dismantled a 10 KG time bomb planted by an unidentified armed group on the road connecting Shadadah and Qana in Al-Hasakeh.
+
+---
+
+[EVENT: SYR89524]
+Date: 2019-07-07
+Country: Syria | Location: Alma
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Air Force Intelligence Directorate [State forces]
+Actor2: Mutiny of Military Forces of Syria (2000-2024) [Political militia]
+Fatalities: 0
+Sources: SY24 [National]
+
+DESCRIPTION:
+On 7 July 2019, the regime's air force intelligence arrested a Syrian regime soldier who had defected in Alma town in the countryside of Dar'a governorate.
+
+---
+
+[EVENT: SYR63835]
+Date: 2019-07-08
+Country: Syria | Location: Sheikh al-Hadid
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Sultan Suleiman Shah Brigade (Syria) [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 08 July 2019, the leader of the Al-Amshat clan militia imposed taxes and royalties on owners of tractors and agricultural machineries in the towns and villages of Sheikh Hadid town-district in Aleppo. He also prohibited civilians living in the area from visiting areas under the control of opposition rebels in Afrin and its countryside.
+
+---
+
+[EVENT: SYR63829]
+Date: 2019-07-08
+Country: Syria | Location: Aleppo
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 08 July 2019, HTS fighters raided the headquarters of the Islamic Tahrir Party in Jebel Saman area in the countryside of Aleppo and confiscated radio broadcasting devices and equipment. No arrests were made.
+
+---
+
+[EVENT: SYR63903]
+Date: 2019-07-09
+Country: Syria | Location: Azaz
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Defusal: On 09 July 2019, members of the police and public security of pro-Turkey opposition rebels seized a VBIED at Naddah checkpoint east of Azaz town in Aleppo.
+
+---
+
+[EVENT: SYR63970]
+Date: 2019-07-10
+Country: Syria | Location: Sharan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 10 July, 2019, unidentified gunmen looted equipment used at water pumps in Sharan in Afrin district of Aleppo, as well as optical fiber cables in areas near Sharan.
+
+---
+
+[EVENT: SYR63957]
+Date: 2019-07-10
+Country: Syria | Location: Menbij
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Defusal: On 10 July, 2019, QSD and members of the Global Coalition safely dismantled a number of explosive devices in Menbij district in eastern Aleppo countryside.
+
+---
+
+[EVENT: SYR63954]
+Date: 2019-07-10
+Country: Syria | Location: Deir Elfardis
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Arrests: On 10 July, 2019, regime forces arrested several women in Deir Elfardis in southern Hama countryside.
+
+---
+
+[EVENT: SYR63986]
+Date: 2019-07-11
+Country: Syria | Location: Hamamiyat
+Type: Battles > Government regains territory | Disorder: Political violence
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 65
+Sources: Liveuamap; SHAAM; SOHR; Telegram; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On 11 July 2019, regime forces including the Tiger forces backed by pro-regime militia regained control of Hamamiyat village and its strategic hill in northern Hama countryside following a numerous attempts and clashes against opposition and Islamist factions. During the clashes, Syrian and Russian warplanes carried out several airstrikes and an exchange of shelling barrages was reported as well as regime barrel bomb deployment onto the area. 34 regime and pro-regime militia fighters were killed, while 31 fighters of the rebels and Islamists were killed. Total fatalities coded to 65.
+
+---
+
+[EVENT: SYR64015]
+Date: 2019-07-11
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 11 July, 2019, a Turkish convoy entered Syria from the Kafr Lusin border crossing point in northern Idleb countryside, consisting of 20 military vehicles. Accompanied by opposition factions, the convoy arrived at Turkish observation points in Hama.
+
+---
+
+[EVENT: SYR63996]
+Date: 2019-07-11
+Country: Syria | Location: Al Mayadin
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 11 July, 2019, regime forces arrested several civilians in al Mayadin in southern Deir-ez-Zor countryside for conscription purposes.
+
+---
+
+[EVENT: SYR64123]
+Date: 2019-07-13
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 13 July, 2019, QSD military reinforcements arrived to Ras al Ain area of al-Hasakeh.
+
+---
+
+[EVENT: SYR64122]
+Date: 2019-07-13
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 13 July, 2019, QSD military reinforcements arrived to Ain al Arab district of Aleppo.
+
+---
+
+[EVENT: SYR64124]
+Date: 2019-07-13
+Country: Syria | Location: Tell Abiad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 13 July, 2019, QSD military reinforcements arrived to Tell Abiad area of Ar-Raqqa.
+
+---
+
+[EVENT: SYR64202]
+Date: 2019-07-14
+Country: Syria | Location: Eshtabraq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 14 July, 2019, a Turkish military convoy entered Idleb via the Kherbet al Joz border crossing and arrived at the Turkish observation point in Eshtabraq in western Idleb countryside, comprising 15 vehicles carrying military equipment and logistic supplies.
+
+---
+
+[EVENT: SYR64188]
+Date: 2019-07-14
+Country: Syria | Location: Al-Shair - Gas Field
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 14 July, 2019, unidentified armed gunmen attacked and damaged the regime controlled gas line between al-Shair gas field and Ebla gas plant in eastern Homs countryside. Neither fatalities nor injuries were reported.
+
+---
+
+[EVENT: SYR64264]
+Date: 2019-07-15
+Country: Syria | Location: Al Mayadin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Militia (Pro-Iran) [Political militia]
+Actor2: Mutiny of QDW: National Defence Forces [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Recruitment: On 15 July, 2019, tens of QDW members defected from QDW and joined pro-Iranian forces in al Mayadin city in southern Deir-ez-Zor countryside. QDW officially requested handover of said members back, however, the Iranian forces rejected.
+
+---
+
+[EVENT: SYR64139]
+Date: 2019-07-15
+Country: Syria | Location: Saqba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 15 July 2019 (from 1 July - 15 July), as reported on 17 July 2019, regime's security forces expelled 15 families from their houses in Saqba in Rural Damascus and either looted their property or fully seized their houses. The houses that were raided are either owned by opposition members or civilians who had been evacuated to northern Syria following the regime takeover, and were housing IDPs prior to regime raids.
+
+---
+
+[EVENT: SYR64262]
+Date: 2019-07-15
+Country: Syria | Location: Qalamoun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 15 July, 2019, Hezbollah forces are said to have withdrawn many of their forces, along with vehicles and weaponry, from various areas of Syria to the Western Qalamoun area in Rural Damascus.
+
+---
+
+[EVENT: SYR64299]
+Date: 2019-07-16
+Country: Syria | Location: Jurin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 16 July, 2019, regime forces brought military reinforcements to Jurin area and camp in northern Hama countryside, consisting of tanks and armored vehicles.
+
+---
+
+[EVENT: SYR64409]
+Date: 2019-07-17
+Country: Syria | Location: Bab El Hawa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 17 July, 2019, a Turkish military convoy entered Syria via Bab Elhawa and headed towards Turkish observation points in the Greater Idleb area. The convoy consisted of armored vehicles and trucks carrying cement blocks and other supplies.
+
+---
+
+[EVENT: SYR64363]
+Date: 2019-07-17
+Country: Syria | Location: Kafr Hud
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 17 July, 2019, regime forces brought military reinforcements to Kafr Hud in northern Hama countryside.
+
+---
+
+[EVENT: SYR89529]
+Date: 2019-07-17
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SY24 [National]
+
+DESCRIPTION:
+On 17 July 2019, the military intelligence arrested 2 civilian women for being related to former opposition commanders in Dar'a governorate.
+
+---
+
+[EVENT: SYR64362]
+Date: 2019-07-17
+Country: Syria | Location: Jdideh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 17 July, 2019, regime forces brought military reinforcements to Jdideh in northern Hama countryside.
+
+---
+
+[EVENT: SYR64397]
+Date: 2019-07-17
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 2
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Detonation: On 17 July, 2019, 2 gunmen of an unidentified armed group were killed due to the detonation of an IED they were planting in Tal Meshhan area near al-Malikeyyeh in eastern al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR64453]
+Date: 2019-07-18
+Country: Syria | Location: Thiban
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 2
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Detonation: On 18 July 2019, 2 IS members were killed whilst planting an IED in Thiban in Deir-ez-Zor countryside. A third member was wounded and managed to flee the blast location.
+
+---
+
+[EVENT: SYR64513]
+Date: 2019-07-19
+Country: Syria | Location: Tell Abiad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 19 2019, QSD forces brought military reinforcements from Ar-Raqqa province, Ain al Arab, and Ein Issa to the town of Tell Abiad amid news of a Turkish military operation against Kurdish forces in the town.
+
+---
+
+[EVENT: SYR64523]
+Date: 2019-07-19
+Country: Syria | Location: Al-Sirmaniyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Property destruction: On 19 July 2019, opposition rebels downed a Russian reconnaissance drone flying over Al-Sirmaniyah in Hama.
+
+---
+
+[EVENT: SYR64533]
+Date: 2019-07-19
+Country: Syria | Location: Menbij
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 19 2019, Turkish forces and pro-Turkey factions brought military reinforcements into the northern outskirts of Menbij and the border strip areas of Tell Abiad, Ras Al Ain and Ain al Arab in preparation for a military operation against Kurdish forces in the area.
+
+---
+
+[EVENT: SYR64559]
+Date: 2019-07-20
+Country: Syria | Location: Aqrab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Security measures: On 20 July 2019, regime forces carried out a series of raids and arrests in Aqrab in Hama in search of people wanted for military service. No information about arrests.
+
+---
+
+[EVENT: SYR64561]
+Date: 2019-07-20
+Country: Syria | Location: Jarjisa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Security measures: On 20 July 2019, regime forces carried out a series of raids and arrests in Jarjisa in Hama in search of people wanted for military service. No information about arrests.
+
+---
+
+[EVENT: SYR64560]
+Date: 2019-07-20
+Country: Syria | Location: Deir Elfardis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Security measures: On 20 July 2019, regime forces carried out a series of raids and arrests in Deir Elfardis in Hama in search of people wanted for military service. No information about arrests.
+
+---
+
+[EVENT: SYR64833]
+Date: 2019-07-23
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On 23 July 2019, American military forces established an observation post in the town of Ras Al Ain in response to Turkish mobilization in the greater vicinity.
+
+---
+
+[EVENT: SYR64794]
+Date: 2019-07-23
+Country: Syria | Location: Beit Sahm
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Military Forces of Syria (2000-2024) 4th Armored Division [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: as reported on 23 July 2019, regime intelligence forces arrested a number of civilians in the town of Beit Sahm over the previous few days. Many of the civilians had been former rebel or Ahrar al Sham fighters who had accepted reconciliation and settlement deals with the regime, some of whom had joined the regime's 4th Division.
+
+---
+
+[EVENT: SYR64826]
+Date: 2019-07-23
+Country: Syria | Location: Raju
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamist Militia (Syria) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 23 July 2019, a Turkish-backed Islamist faction blocked the passing of vehicles carrying the sumac harvest in Raju sub-district and only let them pass once they paid a bribe.
+
+---
+
+[EVENT: SYR64827]
+Date: 2019-07-23
+Country: Syria | Location: Ma'btali
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Sultan Suleiman Shah Brigade (Syria) [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 23 July 2019, Sultan Suleiman Shah Brigade fighters confiscated a sumac harvest from residents of the village of Kakhrah in Ma'btali sub-district, sold it to merchants and imposed royalties on its sale.
+
+---
+
+[EVENT: SYR64815]
+Date: 2019-07-23
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 23 July 2019, QSD forces sent 150 fighters to the Ras Al Ain area while 6 American armored vehicles patrolled the area in response to Turkish mobilization across the line of control.
+
+---
+
+[EVENT: SYR64818]
+Date: 2019-07-23
+Country: Syria | Location: Ma'btali
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Sultan Murad Division [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 23 July 2019, Sultan Murad Division fighters confiscated the homes and livelihoods of residents of the village of Darkair village in Ma'btali sub-district on the pretext of the residents having worked with the Rojava administration.
+
+---
+
+[EVENT: SYR64832]
+Date: 2019-07-23
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On 23 July 2019, American military forces began to build a base with an air strip near the town of Darbasiyah.
+
+---
+
+[EVENT: SYR64822]
+Date: 2019-07-23
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 2
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Detonation: On 23 July 2019, 2 unidentified gunmen were killed as they attempted to plant an IED along the international highway in the Tal Meshen area of the Al-Malikeyyeh countryside in Al-Hasakeh province.
+
+---
+
+[EVENT: SYR64795]
+Date: 2019-07-23
+Country: Syria | Location: Yalda
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Military Forces of Syria (2000-2024) 4th Armored Division [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: as reported on 23 July 2019, regime intelligence forces arrested a number of civilians in the town of Yalda over the previous few days. Many of the civilians had been former rebel or Ahrar al Sham fighters who had accepted reconciliation and settlement deals with the regime, some of whom had joined the regime's 4th Division.
+
+---
+
+[EVENT: SYR64793]
+Date: 2019-07-23
+Country: Syria | Location: Babella
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Military Forces of Syria (2000-2024) 4th Armored Division [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: as reported on 23 July 2019, regime intelligence forces arrested a number of civilians in the town of Babella over the previous few days. Many of the civilians had been former rebel or Ahrar al Sham fighters who had accepted reconciliation and settlement deals with the regime, some of whom had joined the regime's 4th Division.
+
+---
+
+[EVENT: SYR64933]
+Date: 2019-07-25
+Country: Syria | Location: Nawa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Actor2: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR; SY24 [Other-National]
+
+DESCRIPTION:
+Mass grave: On 25 July 2019, a mass grave of 13 regime fighters was found on the road between Nawa and Sheikh Saed in western Dar'a province. The fighters were reportedly killed in a clash with rebel fighters six years prior.
+
+---
+
+[EVENT: SYR64927]
+Date: 2019-07-25
+Country: Syria | Location: Shezer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 25 July 2019, a large group of regime and loyalist militia reinforcements arrived to the Shezer area in Hama province.
+
+---
+
+[EVENT: SYR64949]
+Date: 2019-07-25
+Country: Syria | Location: Baghuz
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Weapons seizure: On 25 July 2019, QSD forces safely detonated a weapons depot belonging to an unidentified armed group in the town of Baghuz.
+
+---
+
+[EVENT: SYR64928]
+Date: 2019-07-25
+Country: Syria | Location: Treismeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 25 July 2019, a large group of regime and loyalist militia reinforcements arrived to the Treismeh area in Hama province.
+
+---
+
+[EVENT: SYR64996]
+Date: 2019-07-26
+Country: Syria | Location: Hrak
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 26 July, 2019, regime forces arrested 1 former opposition fighters who was a fighter with the regime at the time of his arrest in Hark in Dar'a province.
+
+---
+
+[EVENT: SYR89543]
+Date: 2019-07-27
+Country: Syria | Location: Mlihet Elatash
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Jisr [National]
+
+DESCRIPTION:
+On 27 July 2019, Syrian regime forces conducted a search and arrest operation in Mlihet Elatash town. As a result, 2 civilians were arrested.
+
+---
+
+[EVENT: SYR65093]
+Date: 2019-07-27
+Country: Syria | Location: Abu Hamam
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Weapons seizure: On 27 July, 2019, QSD, backed by Global Coalition ground and aerial forces, confiscated large caches of weapons during a raid on Abu Hamam in southern Deir-ez-Zor countryside against suspected IS members.
+
+---
+
+[EVENT: SYR65094]
+Date: 2019-07-27
+Country: Syria | Location: Kishkiyeh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Weapons seizure: On 27 July, 2019, QSD, backed by Global Coalition ground and aerial forces, confiscated large caches of weapons during a raid on Kishkiyeh in southern Deir-ez-Zor countryside against suspected IS members.
+
+---
+
+[EVENT: SYR65076]
+Date: 2019-07-27
+Country: Syria | Location: Abu Obaidah Al Jarrah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 27 July, 2019, regime forces brought military reinforcements into the northern Hama front, including the Abu Obaidah Al Jarrah area.
+
+---
+
+[EVENT: SYR65169]
+Date: 2019-07-28
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 28 July, 2019, armored vehicles under the Global Coalition patrolled the border in Ras al Ain in northern al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR89562]
+Date: 2019-07-28
+Country: Syria | Location: As-Sweida
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Jisr [National]
+
+DESCRIPTION:
+On 28 July 2019, the regime's military intelligence branch of As-Sweida city arrested 3 civilians from Dar'a governorate after summoning them.
+
+---
+
+[EVENT: SYR65264]
+Date: 2019-07-30
+Country: Syria | Location: Yalda
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) Political Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 30 July 2019 (as reported), the regime's Political Intelligence seized 16 properties in Yalda, Babilla, and Beit Sahm in Rural Damascus that belong to opposition fighters and civilians displaced to the Syrian north following reconciliation with the regime.
+
+---
+
+[EVENT: SYR65308]
+Date: 2019-07-31
+Country: Syria | Location: Abu Zandin
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Agreement: On 31 July 2019, a prisoners exchange involving 15 regime fighters and 14 detainees in regime prisons, including former opposition fighters, took place between opposition rebels and the regime forces, in the presence of Turkish, Russian, and International Red Cross representatives in Abu Zendin crossing in eastern Aleppo countryside.
+
+---
+
+[EVENT: SYR65335]
+Date: 2019-07-31
+Country: Syria | Location: Al Mayadin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Militia (Pro-Iran) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 31 July 2019, Iranian militias brought reinforcements to their positions in Al Mayadin desert in Deir-ez-Zor following several attacks by IS.
+
+---
+
+[EVENT: SYR65347]
+Date: 2019-07-31
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Other: Coalition forces carried out a landing operation in Al-Hadadiyah village located in Shadadah district south of Al-Hasakeh city. No information about the purpose of the landing.
+
+---
+
+[EVENT: SYR65376]
+Date: 2019-08-01
+Country: Syria | Location: Ashara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Arrests: On 1 August 2019, regime forces carried out a campaign of arrests in the town of Ashara. The number of arrests was not reported.
+
+---
+
+[EVENT: SYR65417]
+Date: 2019-08-02
+Country: Syria | Location: Hole Camp
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Displacement: On 2 August 2019, QSD forces forcibly displaced a number of Iraqi families in Al-Hasakeh province to the Hole IDP/refugee camp.
+
+---
+
+[EVENT: SYR65433]
+Date: 2019-08-02
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 2 August 2019, Coalition forces carried out a patrol near the frontline with Turkish forces town of Ras al Ain.
+
+---
+
+[EVENT: SYR65454]
+Date: 2019-08-03
+Country: Syria | Location: Jarablus
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: National Police Forces [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Defusal: On 3 August 2019, National Police Forces officers defused a bomb that was planted by unidentified gunmen in a Syrian National Army vehicle in the town of Jarablus.
+
+---
+
+[EVENT: SYR65460]
+Date: 2019-08-03
+Country: Syria | Location: Al-Heri
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Militia (Pro-Government) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Halab Today; Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Land seizure: On 3 August 2019, loyalist militia fighters took over a number of civilian houses in the village of Al-Heri.
+
+---
+
+[EVENT: SYR65483]
+Date: 2019-08-04
+Country: Syria | Location: Izra'
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Jisr; SHAAM; SOHR [Other-National]
+
+DESCRIPTION:
+On 4 August 2019, the regime's Criminal Security branch (police) arrested 15 young men in the town of Izra' in the countryside of Dar'a while they were conducting administrative matters and transferred them to Dar'a city.
+
+---
+
+[EVENT: SYR65535]
+Date: 2019-08-05
+Country: Syria | Location: Quriyeh
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Arrests: On 5 August 2019, regime forces carried out raids and arrested an unknown number of individuals in the town of Quriyeh.
+
+---
+
+[EVENT: SYR65552]
+Date: 2019-08-05
+Country: Syria | Location: Hama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Displacement: On 5 August 2019, a large number of civilians fled areas in northern Hama as a result of the renewed regime and Russian ground and aerial bombardment.
+
+---
+
+[EVENT: SYR65546]
+Date: 2019-08-05
+Country: Syria | Location: Sharan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Sultan Murad Division [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 5 August 2019, Sultan Murad Division fighters imposed a royalty of $200 for all residents of homes in the village of Koblak in Sharan sub-district that do not own the home they live in. The fighters threatened to expel anyone who does not pay the fee.
+
+---
+
+[EVENT: SYR65609]
+Date: 2019-08-06
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 6 August 2019, American military vehicles carried out patrols in the Ras Al Ain countryside between YPG/QSD and Turkish forces.
+
+---
+
+[EVENT: SYR65684]
+Date: 2019-08-08
+Country: Syria | Location: Atshan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: regime and pro-regime militia forces brought military reinforcements into Atshan in northern Hama countryside
+
+---
+
+[EVENT: SYR65709]
+Date: 2019-08-08
+Country: Syria | Location: Shir Maghar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SHAAM; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 08 August, 2019, a Turkish military convoy entered Syria via Khirbet al Joz border crossing and arrived at the Turkish observation point in Shir Maghar in northern Hama countryside.
+
+---
+
+[EVENT: SYR65682]
+Date: 2019-08-08
+Country: Syria | Location: Abu Dali
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: regime and pro-regime militia forces brought military reinforcements into Abu Dali in eastern Hama countryside
+
+---
+
+[EVENT: SYR65683]
+Date: 2019-08-08
+Country: Syria | Location: Abu Omar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: regime and pro-regime militia forces brought military reinforcements into Abu Omar in northern Hama countryside
+
+---
+
+[EVENT: SYR89557]
+Date: 2019-08-08
+Country: Syria | Location: Nawa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SY24 [National]
+
+DESCRIPTION:
+Around 8 August 2019 (as reported), the Syrian regime security services arrested 10 civilians for unknown reasons in Nawa town in the western countryside of Dar'a governorate.
+
+---
+
+[EVENT: SYR65870]
+Date: 2019-08-11
+Country: Syria | Location: Hmeimim Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Interception: On 11 August 2019, Russian air defenses at the Hmeimim Air Base shot down a drone that was attempting to target the air base. Neither injuries nor fatalities were reported.
+
+---
+
+[EVENT: SYR65872]
+Date: 2019-08-11
+Country: Syria | Location: Deir-ez-Zor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: As reported on 11 August 2019, Iranian Revolutionary Guard Corps and QDW withdrew fighters and military vehicles from their positions in the Deir-ez-Zor desert following several heavy attacks by IS cells.
+
+---
+
+[EVENT: SYR65897]
+Date: 2019-08-12
+Country: Syria | Location: As-Sweida
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) [State forces]
+Actor2: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 12 August 2019, regime security services arrested approximately 100 fighters at the regime's military barracks in As-Sweida, Dar'a, and Homs Provinces over allegations of fighting on the side of the opposition when it controlled the Eastern Ghouta. The fighters (from Saqba, Kafr Batna, Arbain, Hamouriya, Maliha, Jisrein, Zabdin ,and Sayr Al-Safir in Rural Damascus) are former opposition fighters who had carried out settlement and reconciliation with the regime and joined its forces. 15 fighters were transferred to Sidnaya Military Prison.
+
+---
+
+[EVENT: SYR65919]
+Date: 2019-08-12
+Country: Syria | Location: Kafrsajna
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Displacement: On 12 August 2019, tens of civilians fled the shelling and airstrikes on Kafrsajna and its surroundings in Idleb.
+
+---
+
+[EVENT: SYR65916]
+Date: 2019-08-12
+Country: Syria | Location: Al-Sirmaniyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Wa Harredh al Moa'mineen Operation Room [Political militia]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SHAAM [Local partner-New media]
+
+DESCRIPTION:
+Property destruction: On 12 August 2019, members of the Wa Harredh al Moa'mineen Operation Room shut down a Russian reconnaissance drone flying over the vicinity of Al-Sirmaniyah in Hama.
+
+---
+
+[EVENT: SYR65898]
+Date: 2019-08-12
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) [State forces]
+Actor2: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 12 August 2019, regime security services arrested approximately 100 fighters at the regime's military barracks in Dar'a, As-Sweida, and Homs Provinces over allegations of fighting on the side of the opposition when it controlled the Eastern Ghouta. The fighters (from Saqba, Kafr Batna, Arbain, Hamouriya, Maliha, Jisrein, Zabdin ,and Sayr Al-Safir in Rural Damascus) are former opposition fighters who had carried out settlement and reconciliation with the regime and joined its forces. 15 fighters were transferred to Sidnaya Military Prison.
+
+---
+
+[EVENT: SYR65899]
+Date: 2019-08-12
+Country: Syria | Location: Homs
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) [State forces]
+Actor2: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 12 August 2019, regime security services arrested approximately 100 fighters at the regime's military barracks in Homs, Dar'a, and As-Sweida Provinces over allegations of fighting on the side of the opposition when it controlled the Eastern Ghouta. The fighters (from Saqba, Kafr Batna, Arbain, Hamouriya, Maliha, Jisrein, Zabdin ,and Sayr Al-Safir in Rural Damascus) are former opposition fighters who had carried out settlement and reconciliation with the regime and joined its forces. 15 fighters were transferred to Sidnaya Military Prison.
+
+---
+
+[EVENT: SYR65921]
+Date: 2019-08-12
+Country: Syria | Location: Tamanaah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Displacement: On 12 August 2019, tens of civilians fled the shelling and airstrikes on Tamanaah and its surroundings in Idleb.
+
+---
+
+[EVENT: SYR65920]
+Date: 2019-08-12
+Country: Syria | Location: Khan Shaykun
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Displacement: On 12 August 2019, tens of civilians fled the shelling and airstrikes on Khan Shaykun and its surroundings in Idleb.
+
+---
+
+[EVENT: SYR65918]
+Date: 2019-08-12
+Country: Syria | Location: Abdin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Displacement: On 12 August 2019, tens of civilians fled the shelling and airstrikes on Abdin and its surroundings in Idleb.
+
+---
+
+[EVENT: SYR65958]
+Date: 2019-08-13
+Country: Syria | Location: Tafas
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Air Force Intelligence Directorate [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 13 August 2019, regime air force intelligence forces arrested 5 children under the age of 18 in the town of Tafas for unknown reasons.
+
+---
+
+[EVENT: SYR65962]
+Date: 2019-08-13
+Country: Syria | Location: Basuta
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Hamza Division - Aleppo [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 13 August 2019, Hamza Division fighters imposed a royalty of 5,000 Syrian pounds on each family that owns a farm in the Basuta area during the Eid al-Adha period.
+
+---
+
+[EVENT: SYR65963]
+Date: 2019-08-13
+Country: Syria | Location: Afrin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Hamza Division - Aleppo [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 13 August 2019, Hamza Division fighters imposed a royalty of 5,000 Syrian pounds on each family that owns a farm in the Burj Abdalo and Aindara areas in the Afrin district during the Eid al-Adha period.
+
+---
+
+[EVENT: SYR66004]
+Date: 2019-08-14
+Country: Syria | Location: Ma'arrat An Nu'man
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Displacement: Around 14 August 2019 (between 12 August - 16 August), 124,000 civilians from southern Idleb countryside were displaced towards the border areas with Turkey.
+
+---
+
+[EVENT: SYR65997]
+Date: 2019-08-14
+Country: Syria | Location: Sheikh Saed
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 14 August 2019, regime military intelligence forces arrested 5 civilians in their homes in the town of Sheikh Saed and took them to an unknown location.
+
+---
+
+[EVENT: SYR66171]
+Date: 2019-08-15
+Country: Syria | Location: Da'el
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: Around 15 August 2019 (week of), regime forces arrested 10 civilians in the past week in all of Da'el, Abtaa, and Sheikh Miskine of Dar'a. Reported on 19 August 2019 as happening 'the past week'.
+
+---
+
+[EVENT: SYR66057]
+Date: 2019-08-15
+Country: Syria | Location: Masyaf
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Liveuamap; SHAAM; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On 15 August 2019, Israeli warplanes or drones fired missiles at a regime position near the city of Masyaf as Syrian air defenses intercepted the missile. Neither injuries nor fatalities were reported.
+
+---
+
+[EVENT: SYR66172]
+Date: 2019-08-15
+Country: Syria | Location: Sheikh Miskine
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: Around 15 August 2019 (week of), regime forces arrested 10 civilians in the past week in all of Da'el, Abtaa, and Sheikh Miskine of Dar'a. Reported on 19 August 2019 as happening 'the past week'.
+
+---
+
+[EVENT: SYR66065]
+Date: 2019-08-15
+Country: Syria | Location: Idleb
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Ahrar al Sharqiyah [Political militia]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 15 August 2019, Ahrar al Sharqiyah reinforcements were sent to the frontlines of fighting with regime forces in southern Idleb province.
+
+---
+
+[EVENT: SYR66170]
+Date: 2019-08-15
+Country: Syria | Location: Abtaa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: Around 15 August 2019 (week of), regime forces arrested 10 civilians in the past week in all of Da'el, Abtaa, and Sheikh Miskine of Dar'a. Reported on 19 August 2019 as happening 'the past week'.
+
+---
+
+[EVENT: SYR66067]
+Date: 2019-08-15
+Country: Syria | Location: Idleb
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Displacement: On 15 August 2019, civilians continued to flee areas in southern Idleb as a result of the regime offensive.
+
+---
+
+[EVENT: SYR66100]
+Date: 2019-08-16
+Country: Syria | Location: Abdin
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 16 August 2019, regime forces seized control of Abdin in southern Idleb countryside after it was empty of the rebel factions. Neither fatalities nor injuries were reported.
+
+---
+
+[EVENT: SYR66150]
+Date: 2019-08-17
+Country: Syria | Location: Kafr Zeita
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: JWS: Syrian National Army [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 17 August, 2019, opposition rebels including the JWS in Afrin district sent military reinforcements to the northern Hama front.
+
+---
+
+[EVENT: SYR66177]
+Date: 2019-08-18
+Country: Syria | Location: Khan Shaykun
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 100
+Sources: Liveuamap; SNHR; SOHR; Twitter [Local partner-Other]
+
+DESCRIPTION:
+On 18 August 2019, clashes took place between regime and pro-regime militia forces including the Tiger forces against opposition and Islamist factions in the northwestern outskirts of Khan Shaykun in southern Idleb countryside amid Syrian and Russian airstrikes and an exchange of shelling barrages between both sides. As clashes continued, HTS detonated a SVBIED and regime forces and their allied forces achieved some advances and entered the city. As a result of the clashes, 62 opposition and Islamist fighters and 35 regime and allied fighters were killed. 2 civilians were also killed by a Russian airstrike. Total fatalities coded to 100 to account for the HTS suicide operative.
+
+---
+
+[EVENT: SYR66196]
+Date: 2019-08-18
+Country: Syria | Location: Ma'arrat An Nu'man
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: JWS: Syrian National Army [Rebel group]
+Fatalities: 0
+Sources: SOHR; Twitter [Other-New media]
+
+DESCRIPTION:
+Movement of force: On 18 August, 2019, JaS, FaR, and Ahrar al Sharqiyah under the JWS sent military reinforcements from northern Aleppo to the fronts in southern Idleb countryside.
+
+---
+
+[EVENT: SYR89564]
+Date: 2019-08-18
+Country: Syria | Location: Tassil
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Air Force Intelligence Directorate [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Jisr [National]
+
+DESCRIPTION:
+Around 18 August 2019 (between 11 - 18 August), the Syrian regime's air force intelligence arrested 12 civilians at their checkpoints in Tassil and Sheikh Saed towns in the western countryside of Dar'a governorate.
+
+---
+
+[EVENT: SYR89552]
+Date: 2019-08-18
+Country: Syria | Location: Ghabagheb
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+On 18 August 2019, Syrian regime forces arrested a civilian and several former opposition rebels in Ghabagheb town in the countryside of Dar'a governorate for unknown reasons.
+
+---
+
+[EVENT: SYR66249]
+Date: 2019-08-19
+Country: Syria | Location: Ma'arrat An Nu'man
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Displacement: as of 19 August, 2019, 25,000 civilians were displaced from Ma'arrat An Nu'man sub-district into areas in northern Idleb countryside.
+
+---
+
+[EVENT: SYR66252]
+Date: 2019-08-19
+Country: Syria | Location: Ma'arrat An Nu'man
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Telegram; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 19 August, 2019, a Turkish military convoy comprising tanks, armored vehicles, and bulldozers entered Syria via Bab El Hawa border crossing, aiming to reach Murak. Due to the intensive aerial attacks by the regime and Russia, the convoy arrived at Marat Hattat and then to Ma'arrat An Nu'man in southern Idleb countryside amid Turkish overflights.
+
+---
+
+[EVENT: SYR66264]
+Date: 2019-08-19
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 19 August, 2019, a Turkish military convoy comprising tanks, armored vehicles, and bulldozers entered Syria via Kafr Lusin border crossing. This marks the third Turkish convoy to enter Syria on 19 August.
+
+---
+
+[EVENT: SYR66266]
+Date: 2019-08-19
+Country: Syria | Location: Khan al-Sabeel
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 19 August, 2019, a Turkish military convoy entered Syria and arrived in Khan al-Sabeel. This marks the second Turkish convoy to enter Syria on 19 August.
+
+---
+
+[EVENT: SYR66312]
+Date: 2019-08-20
+Country: Syria | Location: Latmin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Other: On 20 August 2019, The rebel factions withdrew from the village of Latmin following weeks of shelling and airstrikes. The withdrawal from Latmin comes after regime forces regained control of Khan Shaykun and their attempt to impose a siege on areas in the northern countryside of Hama adjacent to Khan Shaykun area.
+
+---
+
+[EVENT: SYR66308]
+Date: 2019-08-20
+Country: Syria | Location: Kafr Zeita
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Other: On 20 August 2019, The rebel factions withdrew from the town of Kafr Zeita. The withdrawal from Kafr Zeita comes after regime forces regained control of Khan Shaykun and their attempt to impose a siege on areas in the northern countryside of Hama adjacent to Khan Shaykun area.
+
+---
+
+[EVENT: SYR66300]
+Date: 2019-08-20
+Country: Syria | Location: Duma
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) State Security [State forces]
+Actor2: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Other: On 20 August 2019, the regime's state security responsible for the city of Duma in Rural Damascus expelled the regime's security police from the town following allegations of extorting royalties from people wanted for conscription in exchange for not arresting them fon charges of desertion. Reports claim that the expulsion was requested by Russian forces following several complains by residents of the town.
+
+---
+
+[EVENT: SYR66309]
+Date: 2019-08-20
+Country: Syria | Location: Al-Latamna
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Other: On 20 August 2019, Rebel factions withdrew from the town of Al-Latamna following weeks of shelling and airstrikes. The withdrawal from Al-Latamna comes after regime forces regained control of Khan Shaykun and their attempt to impose a siege on areas in the northern countryside of Hama adjacent to Khan Shaykun area.
+
+---
+
+[EVENT: SYR66310]
+Date: 2019-08-20
+Country: Syria | Location: Murak
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Other: On 20 August 2019, The rebel factions withdrew from Murak town in Hama countryside - with the exception of the Turkish observation point where some of the rebels are still present - after the withdrawal of rebel and Islamist factions from the town following weeks of shelling and airstrikes. The withdrawal from Murak comes after regime forces regained control of Khan Shaykun and their attempt to impose a siege on areas in the northern countryside of Hama adjacent to Khan Shaykun area.
+
+---
+
+[EVENT: SYR66311]
+Date: 2019-08-20
+Country: Syria | Location: Lahaya
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Other: On 20 August 2019,The rebel factions withdrew from the village of Lahaya following weeks of shelling and airstrikes. The withdrawal from Lahaya comes after regime forces regained control of Khan Shaykun and their attempt to impose a siege on areas in the northern countryside of Hama adjacent to Khan Shaykun area.
+
+---
+
+[EVENT: SYR66413]
+Date: 2019-08-22
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SHAAM; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 22 August 2019, a convoy of over 200 Coalition vehicles entered al-Hasakeh province from Iraqi Kurdistan.
+
+---
+
+[EVENT: SYR66400]
+Date: 2019-08-22
+Country: Syria | Location: Ar-Raqqa
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Weapons seizure: On 22 August 2019, QSD forces captured 3 ATGM launchers during a raid in the city of Ar-Raqqa.
+
+---
+
+[EVENT: SYR66415]
+Date: 2019-08-22
+Country: Syria | Location: Tell Abiad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 22 August 2019, Coalition forces carried out patrols in the Tell Abiad area that began in Tal Aqram and passed by Sluk. The area represents a border between QSD and Turkish forces.
+
+---
+
+[EVENT: SYR66409]
+Date: 2019-08-22
+Country: Syria | Location: Ma'arrat An Nu'man
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Displacement: in the 72 hours leading up to and including 22 August 2019, more than 80,000 civilians fled the Ma'arrat An Nu'man area as a result of the aerial and ground bombardments and clashes.
+
+---
+
+[EVENT: SYR66414]
+Date: 2019-08-22
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 22 August 2019, American military forces conducted patrols in the Ras Al Ain area after the withdrawal of QSD forces.
+
+---
+
+[EVENT: SYR66449]
+Date: 2019-08-23
+Country: Syria | Location: Latmin
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; SHAAM; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On 23 August 2019, regime forces captured the village of Latmin after the withdrawal of the rebel and Islamic factions from the town.
+
+---
+
+[EVENT: SYR66456]
+Date: 2019-08-23
+Country: Syria | Location: Khan Shaykun
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: on or around 23 August 2019, regime forces looted and burned civilian homes in the recently captured town of Khan Shaykun under the pretext of searching for rebel and Islamist fighters in the town.
+
+---
+
+[EVENT: SYR66448]
+Date: 2019-08-23
+Country: Syria | Location: Lahaya
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On 23 August 2019, regime forces captured the village of Lahaya after the withdrawal of the rebel and Islamic factions from the town.
+
+---
+
+[EVENT: SYR66445]
+Date: 2019-08-23
+Country: Syria | Location: Murak
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; SHAAM; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On 23 August 2019, regime forces captured the town of Murak after the withdrawal of the rebel and Islamic factions from the town. Reports conflicted as to whether the Turkish observation post near the town was besieged or not.
+
+---
+
+[EVENT: SYR66444]
+Date: 2019-08-23
+Country: Syria | Location: Al-Latamna
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; SHAAM; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On 23 August 2019, regime forces captured the town of Al-Latamna after the withdrawal of the rebel and Islamic factions from the town.
+
+---
+
+[EVENT: SYR66447]
+Date: 2019-08-23
+Country: Syria | Location: Kafr Zeita
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; SHAAM; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On 23 August 2019, regime forces captured the village of Kafr Zeita after the withdrawal of the rebel and Islamic factions from the town.
+
+---
+
+[EVENT: SYR66505]
+Date: 2019-08-24
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 24 August 2019, the first joint Turkish-U.S. patrols began within the QSD-exclusion zone in Al-Hasakeh province.
+
+---
+
+[EVENT: SYR66556]
+Date: 2019-08-25
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: YPG: Peoples Protection Units [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 25 August 2019, YPG forces, in coordination with American forces, began to withdraw from their positions in the village of Al-Adwaniya west of Ras Al Ain as part of an agreement with Turkey.
+
+---
+
+[EVENT: SYR66546]
+Date: 2019-08-25
+Country: Syria | Location: Tell Abiad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: YPG: Peoples Protection Units [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 25 August 2019, YPG forces, in coordination with American forces, began to withdraw from their positions in the Tell Abiad area as part of an agreement with Turkey.
+
+---
+
+[EVENT: SYR66594]
+Date: 2019-08-26
+Country: Syria | Location: Kabani
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 26 August 2019, regime army units arrived to the Kabani frontlines.
+
+---
+
+[EVENT: SYR146289]
+Date: 2019-08-26
+Country: Syria | Location: Damascus
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Scholars at Risk [Other]
+
+DESCRIPTION:
+On 26 August 2019, regime Military Intelligence forces arrested Dr. Rakan Al-Safadi, a Syrian scholar of literature at Qalamoun University while traveling to the university with his son, after stopping him at Qasr Al Mu'tamarat checkpoint in Damascus city, and transferred him to an undisclosed location. His son was permitted to pass through the checkpoint. Al-Safadi was released five days later on 31st August without disclosing the reason for his arrest.
+
+---
+
+[EVENT: SYR66593]
+Date: 2019-08-26
+Country: Syria | Location: Jabal Shashabo
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: JTW: National Liberation Front [Rebel group]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Halab Today; Liveuamap; SHAAM; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Property destruction: On 26 August 2019, National Liberation Front fighters shot down a Russian reconnaissance drone in the Jabal Shashabo with neither injuries nor fatalities reported.
+
+---
+
+[EVENT: SYR66601]
+Date: 2019-08-27
+Country: Syria | Location: Khan Shaykun
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Opposition Rebels (Syria) [Rebel group]
+Fatalities: 52
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 27 August 2019, clashes took place between regime and pro-regime militia forces against opposition and Islamist factions in the eastern vicinity of Khan Shaykun in southern Idleb countryside, amid Syrian and Russian airstrikes and an exchange of shelling barrages between both sides. No advances were reported. During the clashes, 29 regime soldiers and allied militias were killed while opposition and Islamist factions suffered 23 fatalities. Total fatalities coded to 52.
+
+---
+
+[EVENT: SYR66639]
+Date: 2019-08-27
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; SHAAM; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 27 August 2019, QSD continued to evacuate their forces from the 'Safe Zone' in Al-Hasakeh province.
+
+---
+
+[EVENT: SYR66638]
+Date: 2019-08-27
+Country: Syria | Location: Ar-Raqqa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; SHAAM; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 27 August 2019, QSD continued to evacuate their forces from the 'Safe Zone' in Ar-Raqqa province.
+
+---
+
+[EVENT: SYR66687]
+Date: 2019-08-28
+Country: Syria | Location: Ariha
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 28 August 2019, a Turkish military convoy comprising several armored vehicles was deployed from Saraqab to Ariha in Idleb, reportedly in an effort to establish an observation point in the latter city.
+
+---
+
+[EVENT: SYR66734]
+Date: 2019-08-29
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: On 29 August 2019, Turkey and the U.S. conducted a joint aerial patrol over Ras al Ain area in northern al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR66718]
+Date: 2019-08-29
+Country: Syria | Location: Ma'arrat An Nu'man
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Displacement: Between 28 and 29 August, 2019, a total of 7,000 civilians were displaced from areas in Ma'arrat An Nu'man sub-district of Idleb including the city itself towards the border areas with Turkey due to the regime and Russian campaign against southern Idleb countryside.
+
+---
+
+[EVENT: SYR66817]
+Date: 2019-08-31
+Country: Syria | Location: Aleppo
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: regime forces brought military reinforcements, including fighters and heavy military vehicles, to the south-western suburbs of Aleppo city, including 1070 apartments, Menyan, and Al Assad suburbs.
+
+---
+
+[EVENT: SYR66818]
+Date: 2019-08-31
+Country: Syria | Location: Maar Hattat
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: Turkish forces brought military reinforcements to Maar Hattat in Idleb where Turkish forces have been stations since the regime regained control of Khan Shaykun.
+
+---
+
+[EVENT: SYR66815]
+Date: 2019-08-31
+Country: Syria | Location: Heish
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamist Militia (Syria) [Political militia]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 31 August 2019, Islamist factions shut down a Russian reconnaissance drone flying in the vicinity of Heish in Idleb.
+
+---
+
+[EVENT: SYR66819]
+Date: 2019-08-31
+Country: Syria | Location: Sarman
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: Turkish forces brought military reinforcements to its observation point in Sarman in Idleb.
+
+---
+
+[EVENT: SYR66883]
+Date: 2019-09-01
+Country: Syria | Location: Idleb
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: on 01 September 2019, Turkish forces brought reinforcements to their observation points in Idleb.
+
+---
+
+[EVENT: SYR66866]
+Date: 2019-09-01
+Country: Syria | Location: Saqba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) Political Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 1 September 2019 (as reported), a colonel of the regime's Political Intelligence and members of the regime forces looted more than 800 hundred cars in Saqba in Rural Damascus that belong to opposition rebels, displaced civilians, as well as detained citizens.
+
+---
+
+[EVENT: SYR66892]
+Date: 2019-09-02
+Country: Syria | Location: Aleppo
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: on 02 September 2019, regime forces brought military reinforcements to the western and south-western suburbs of Aleppo city.
+
+---
+
+[EVENT: SYR66926]
+Date: 2019-09-03
+Country: Syria | Location: Khan Shaykun
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 03 September, 2019, regime and pro-regime militia looted civilian property in Khan Shaykun in southern Idleb countryside following their recent takeover of the town. Looted goods include furniture and contents of civilian houses, shops, and warehouses.
+
+---
+
+[EVENT: SYR66940]
+Date: 2019-09-03
+Country: Syria | Location: Hmeimim Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Interception: On 03 September, 2019, drones of an unidentified armed group, likely weaponized, were targeted and downed by Russian air defenses in Hmeimim airbase in Lattakia. Neither fatalities nor injuries were reported.
+
+---
+
+[EVENT: SYR66976]
+Date: 2019-09-04
+Country: Syria | Location: Murak
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SHAAM; SOHR; Telegram [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 04 September, 2019, a Turkish military convoy comprising several armored vehicles entered Syria and headed towards Murak and carrying food supplies. The convoy arrived in Maar Hattat in Idleb, awaiting talks with the regime to further advance to Murak. Eventually, the convoy reached the Murak point after passing through regime-controlled areas.
+
+---
+
+[EVENT: SYR66975]
+Date: 2019-09-04
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 04 September, 2019, a joint patrol of U.S. military forces under the Global Coalition and Ras al Ain military council was conducted across the sub-district, comprising 4 vehicles of the former and 3 of the latter.
+
+---
+
+[EVENT: SYR67017]
+Date: 2019-09-06
+Country: Syria | Location: Saqba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: as reported on 6 September 2019, regime forces confiscated more than 120 pieces of property in the town of Sabqa on the pretense of the properties belonging to former rebel or Islamist groups.
+
+---
+
+[EVENT: SYR67009]
+Date: 2019-09-06
+Country: Syria | Location: Ein Terma
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: as reported on 6 September 2019, military patrols forced people who lived in houses in the town of Ein Terma to leave on the pretext of being owned by Jabhat al Nusra. The security forces then requested a bribe of between 500 thousand and 4 million Syrian pounds for the families to be able to re-enter the homes.
+
+---
+
+[EVENT: SYR67018]
+Date: 2019-09-06
+Country: Syria | Location: Otayba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: as reported on 6 September 2019, regime forces confiscated tens of pieces of property in the town of Otayba on the pretense of the properties belonging to former rebel or Islamist groups.
+
+---
+
+[EVENT: SYR67015]
+Date: 2019-09-06
+Country: Syria | Location: Hamouriya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: as reported on 6 September 2019, military patrols forced people who lived in houses in the town of Hamouriya to leave on the pretext of being owned by Jabhat al Nusra. The security forces then requested a bribe of between 500 thousand and 4 million Syrian pounds for the families to be able to re-enter the homes.
+
+---
+
+[EVENT: SYR67024]
+Date: 2019-09-06
+Country: Syria | Location: Deir-ez-Zor
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 1
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Detonation: On 6 September 2019, an unidentified armed individual was killed as they attempted to plant an IED in the village of Al-Sajer in eastern Deir-ez-Zor province.
+
+---
+
+[EVENT: SYR67008]
+Date: 2019-09-06
+Country: Syria | Location: Deir Elasafir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: as reported on 6 September 2019, military patrols forced people who lived in houses in the town of Dier Elsafir to leave on the pretext of being owned by Jabhat al Nusra. The security forces then requested a bribe of between 500 thousand and 4 million Syrian pounds for the families to be able to re-enter the homes.
+
+---
+
+[EVENT: SYR67010]
+Date: 2019-09-06
+Country: Syria | Location: Harasta
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: as reported on 6 September 2019, military patrols forced people who lived in houses in the town of Harasta to leave on the pretext of being owned by Jabhat al Nusra. The security forces then requested a bribe of between 500 thousand and 4 million Syrian pounds for the families to be able to re-enter the homes.
+
+---
+
+[EVENT: SYR67014]
+Date: 2019-09-06
+Country: Syria | Location: Zamalka
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: as reported on 6 September 2019, military patrols forced people who lived in houses in the town of Zamalka to leave on the pretext of being owned by Jabhat al Nusra. The security forces then requested a bribe of between 500 thousand and 4 million Syrian pounds for the families to be able to re-enter the homes.
+
+---
+
+[EVENT: SYR67005]
+Date: 2019-09-06
+Country: Syria | Location: Tall Refaat
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Islamist Militia (Syria) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Interception: On 6 September 2019, regime forces downed an armed drone flown by pro-Turkish Islamist faction fighters in the Tall Refaat area prior to the drone deploying its payload.
+
+---
+
+[EVENT: SYR67019]
+Date: 2019-09-06
+Country: Syria | Location: Bab El Hawa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measure: On 6 September 2019, HTS forces put up roadblocks and blocked all the roads leading to Bab El Hawa in order to prevent demonstrators from reaching the area as they did the previous Friday.
+
+---
+
+[EVENT: SYR67011]
+Date: 2019-09-06
+Country: Syria | Location: Jisrein
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: as reported on 6 September 2019, military patrols forced people who lived in houses in the town of Jisrein to leave on the pretext of being owned by Jabhat al Nusra. The security forces then requested a bribe of between 500 thousand and 4 million Syrian pounds for the families to be able to re-enter the homes.
+
+---
+
+[EVENT: SYR67012]
+Date: 2019-09-06
+Country: Syria | Location: Maliha
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: as reported on 6 September 2019, military patrols forced people who lived in houses in the town of Maliha to leave on the pretext of being owned by Jabhat al Nusra. The security forces then requested a bribe of between 500 thousand and 4 million Syrian pounds for the families to be able to re-enter the homes.
+
+---
+
+[EVENT: SYR67013]
+Date: 2019-09-06
+Country: Syria | Location: Nashabiyeh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: as reported on 6 September 2019, military patrols forced people who lived in houses in the town of Nashabiyeh to leave on the pretext of being owned by Jabhat al Nusra. The security forces then requested a bribe of between 500 thousand and 4 million Syrian pounds for the families to be able to re-enter the homes.
+
+---
+
+[EVENT: SYR67007]
+Date: 2019-09-06
+Country: Syria | Location: Arbin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: as reported on 6 September 2019, military patrols forced people who lived in houses in the town of Arbin to leave on the pretext of being owned by Jabhat al Nusra. The security forces then requested a bribe of between 500 thousand and 4 million Syrian pounds for the families to be able to re-enter the homes.
+
+---
+
+[EVENT: SYR67006]
+Date: 2019-09-06
+Country: Syria | Location: Al Ghab Plain
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Interception: On 6 September 2019, regime forces downed 3 weaponized drones flown by an unidentified armed group that were targeting a regime base in the Al Ghab Plain. The drones were downed before deploying their payload. Neither injuries nor fatalities were reported.
+
+---
+
+[EVENT: SYR67016]
+Date: 2019-09-06
+Country: Syria | Location: Kafr Batna
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: as reported on 6 September 2019, regime forces confiscated more than 100 pieces of property in the town of Kafr Batna on the pretense of the properties belonging to former rebel or Islamist groups.
+
+---
+
+[EVENT: SYR67283]
+Date: 2019-09-08
+Country: Syria | Location: Tell Abiad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 8 September 2019, Turkish and American forces carried out their first joint patrol in the area between the city of Tell Abiad and Ras al Ain.
+
+---
+
+[EVENT: SYR67208]
+Date: 2019-09-09
+Country: Syria | Location: Upper Baqras
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 9 September 2019, regime military intelligence forces arrested an individual in the village of Upper Baqras who works as a real estate broker for Iranian Revolutionary Guard and Liwa al Quds fighters in the area.
+
+---
+
+[EVENT: SYR67266]
+Date: 2019-09-09
+Country: Syria | Location: Tamanaah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Interception: On 9 September 2019, an unidentified armed group downed a Russian reconnaissance aircraft as it was flying near the town of Tamanaah with neither injuries nor fatalities reported.
+
+---
+
+[EVENT: SYR67216]
+Date: 2019-09-11
+Country: Syria | Location: Basira
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 11 September 2019, QSD forces raided the eastern bank of the Euphrates River in the town of Basira and set fire to boats that were being used as a river crossing between the town and the regime-controlled village of Zbari on the other bank.
+
+---
+
+[EVENT: SYR67207]
+Date: 2019-09-11
+Country: Syria | Location: Qodsayya
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: between 10 and 11 September 2019, regime military intelligence forces arrested 15 young men in the town of Qodsayya and sought up to 35 more who they claimed were part of operations to assassinate regime fighters and officials in the city.
+
+---
+
+[EVENT: SYR89568]
+Date: 2019-09-12
+Country: Syria | Location: Da'el
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM; SY24 [National]
+
+DESCRIPTION:
+On 12 September 2019, Syrian police forces arrested several persons for unknown reason in Da'el town in Dar'a governorate.
+
+---
+
+[EVENT: SYR67280]
+Date: 2019-09-12
+Country: Syria | Location: Tell Abiad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 12 September 2019, the first joint Turkish-U.S. helicopter patrols began with flight over the Tell Abiad area as part of the safe area agreement between the two sides.
+
+---
+
+[EVENT: SYR67281]
+Date: 2019-09-12
+Country: Syria | Location: Maar Hattat
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: on 12 September 2019, Turkish forces brought reinforcements comprising 30 vehicles carrying military and logistical equipment to their observation point Maar Hattat in Idleb.
+
+---
+
+[EVENT: SYR67233]
+Date: 2019-09-13
+Country: Syria | Location: Basira
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+property destruction: On 13 September 2019, QSD forces raided river crossings connecting QSD controlled Basira and regime-controlled Al-Zabari in Deir-ez-Zor and destroyed boats used to smuggle goods between the two areas . Neither injuries nor fatalities were reported.
+
+---
+
+[EVENT: SYR67282]
+Date: 2019-09-14
+Country: Syria | Location: Idleb
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: on 14 September 2019, Turkish forces brought reinforcements to their observation points in Idleb.
+
+---
+
+[EVENT: SYR89569]
+Date: 2019-09-14
+Country: Syria | Location: Da'el
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+On 14 September 2019, Syrian regime forces arrested the head of the reconciliation delegation of Da'el town in the countryside of Dar'a governorate.
+
+---
+
+[EVENT: SYR67577]
+Date: 2019-09-15
+Country: Syria | Location: Omar - Oil Fields
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Recruitment: On 15 September 2019, Coalition Forces set up a training center in Omar Oil Fields in Deir-ez-Zor to provide training in the use of drones to members of the Women's Protection Units.
+
+---
+
+[EVENT: SYR67466]
+Date: 2019-09-15
+Country: Syria | Location: Qarfa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 15 September 2019, members of the regime's military intelligence arrested a civilian in the area between Qarfa and Abtaa in Dar'a for unknown reasons. The arrested person is the area's 'head of the negotiation delegation with the Russians.'
+
+---
+
+[EVENT: SYR67470]
+Date: 2019-09-15
+Country: Syria | Location: Qodsayya
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) Political Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 15 September 2019, 4 Syrian-Palestinian civilians were arrested during raids in Qudisya in Rural Damascus. Two of them were arrested during a raid by the regime's political intelligence on their houses in Al-Hara Al-Sakhriyyah in Qudsiya. The other 2 were arrested by members of the 4th Division while passed through a regime checkpoint on the outskirts of the town as they were returning from work in the town's suburbs.
+
+---
+
+[EVENT: SYR67465]
+Date: 2019-09-15
+Country: Syria | Location: Abtaa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Air Force Intelligence Directorate [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 15 September 2019, regime's Air Force Intelligence forces arrested a sheikh in Abtaa town in Dar'a for unknown reasons.
+
+---
+
+[EVENT: SYR67476]
+Date: 2019-09-16
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 16 September 2019, as part of the safe area agreement between the US and Turkey, Coalition Forces and QSD forces carried out a joint patrol in the area between Ras Al Ain and Mabrouka in Al-Hasakeh. Also, QSD withdrew three groups of its forces from the area.
+
+---
+
+[EVENT: SYR67578]
+Date: 2019-09-16
+Country: Syria | Location: Maar Hattat
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 16 September 2019, Turkish forces brought reinforcements, including 4 armored vehicles, to their observation point Maar Hattat in Idleb.
+
+---
+
+[EVENT: SYR67468]
+Date: 2019-09-17
+Country: Syria | Location: Az-Zabdani
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 17 September 2019, the regime's Military Intelligence and 4th Division carried out extensive raids in Az-Zabdani in Rural Damascus during which 30 young people were arrested. The raids come several days after the spread of graffiti denouncing the regime on the walls of schools and train stations in the neighborhoods of al-Mahatta and Ain Jaber in Az-Zabdani.
+
+---
+
+[EVENT: SYR67473]
+Date: 2019-09-19
+Country: Syria | Location: Aqraba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; SHAAM; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Property destruction: on 19 September 2019, Syrian army forces downed an unarmed drone flying over the city of Aqrab in Rural Damascus.
+
+---
+
+[EVENT: SYR67467]
+Date: 2019-09-20
+Country: Syria | Location: Namar
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM; SOHR [Other-National]
+
+DESCRIPTION:
+On 20 September 2019, regime military intelligence officers detained 3 young men at a checkpoint in the town of Namar in Dar'a province and took them to an unidentified location.
+
+---
+
+[EVENT: SYR67444]
+Date: 2019-09-20
+Country: Syria | Location: Salhiyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: on 20 September 2019, regime reinforcements arrived to the frontlines with QSD forces in the town of Salhiyeh in Deir-ez-Zor province.
+
+---
+
+[EVENT: SYR67443]
+Date: 2019-09-20
+Country: Syria | Location: Deir-ez-Zor - Hatla
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: on 20 September 2019, regime reinforcements arrived to the frontlines with QSD forces in the Hatlah area of Deir-ez-Zor city.
+
+---
+
+[EVENT: SYR67475]
+Date: 2019-09-20
+Country: Syria | Location: Kabani
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: on 20 September 2019, HTS reinforcements consisting of men, tanks, and armored vehicles arrived to the Kabani area.
+
+---
+
+[EVENT: SYR67478]
+Date: 2019-09-20
+Country: Syria | Location: Jiah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: on 20 September 2019, QSD reinforcements arrived to the frontlines with regime forces in the village of Jiah.
+
+---
+
+[EVENT: SYR67479]
+Date: 2019-09-20
+Country: Syria | Location: Al-Junaynah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: on 20 September 2019, QSD reinforcements arrived to the frontlines with regime forces in the village of Jneineh.
+
+---
+
+[EVENT: SYR67498]
+Date: 2019-09-20
+Country: Syria | Location: Aleppo
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: JSH: Free Syrian Army Liwa Al Qadissyah [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Change to group: On 20 September 2019, the Free Syrian Army Liwa al Qadissyah unit from Raqqa province joined Ahrar Al Sharqiyah.
+
+---
+
+[EVENT: SYR67477]
+Date: 2019-09-20
+Country: Syria | Location: Deir-ez-Zor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: on 20 September 2019, QSD reinforcements arrived to the frontlines with regime forces in the Al-Ma'amel area in northern and western Deir-ez-Zor countryside.
+
+---
+
+[EVENT: SYR67445]
+Date: 2019-09-21
+Country: Syria | Location: Abdin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 5th Armored Division [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: on 21 September 2019, regime 5th Division reinforcements were brought to the Abdin area on the border with the Golan Heights.
+
+---
+
+[EVENT: SYR67458]
+Date: 2019-09-21
+Country: Syria | Location: Quneitra
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Interception: On 21 September 2019, either regime or Hezbollah forces successfully brought down an armed drone that was flying over northern Quneitra province before it could deploy its payload.
+
+---
+
+[EVENT: SYR67446]
+Date: 2019-09-21
+Country: Syria | Location: Jomleh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 5th Armored Division [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: on 21 September 2019, regime 5th Division reinforcements were brought to the Jomleh area on the border with the Golan Heights.
+
+---
+
+[EVENT: SYR67469]
+Date: 2019-09-21
+Country: Syria | Location: Beit Sahm
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: on 21 September 2019, regime intelligence forces carried out a raid in the town of Beit Sahm and arrested a former Ahrar al Sham commander who had returned to the town and settled his status with the regime. He was arrested after a number of criminal suits were brought against him for killing regime fighters while he was a commander in the town.
+
+---
+
+[EVENT: SYR89570]
+Date: 2019-09-21
+Country: Syria | Location: Tassil
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Air Force Intelligence Directorate [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+On 21 September 2019, Syrian Air Force Intelligence members arrested a civilian at a checkpoint between Tassil and Sahm El Golan towns in the western countryside of Dar'a governorate. In response, several individuals from Sahm El Golan, Hit and Al-Qusayr towns erected a checkpoint On the same road and gave the air force intelligence branch 24 hours to release the civilian.
+
+---
+
+[EVENT: SYR89571]
+Date: 2019-09-21
+Country: Syria | Location: Dara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+On 21 September 2019, Syrian regime forces arrested a former rebel commander in the Omari Brigades in Dara village in the western countryside of As-Sweida governorate.
+
+---
+
+[EVENT: SYR67728]
+Date: 2019-09-23
+Country: Syria | Location: Duma
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 4th Armored Division [State forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: as reported on 23 September 2019, regime 4th Division forces seized the home of a Jaysh al Islam leader in the al-Mansfuh neighborhood of Duma city and began using the building as a new headquarters.
+
+---
+
+[EVENT: SYR67703]
+Date: 2019-09-23
+Country: Syria | Location: Aleppo
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: on 23 September 2019, regime reinforcements consisting of tens of buses and military vehicles arrived in the western Aleppo countryside.
+
+---
+
+[EVENT: SYR67729]
+Date: 2019-09-23
+Country: Syria | Location: Duma
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) State Security [State forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: as reported on 23 September 2019, regime State Security forces seized the home of a former rebel leader near the Al-Baghdadi mosque in the city of Duma and began using the building as a new security detachment.
+
+---
+
+[EVENT: SYR67727]
+Date: 2019-09-24
+Country: Syria | Location: Dhameer
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Air Force Intelligence Directorate [State forces]
+Actor2: QDW: National Defence Forces [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 24 September 2019, regime Air Force Intelligence officers arrested 25 young men in the town of Dhameer who had formerly fought with Ahmad al Abdo Forces and had settled their statuses and joined regime forces, mostly the QDW loyalist militia.
+
+---
+
+[EVENT: SYR67826]
+Date: 2019-09-24
+Country: Syria | Location: Tell Abiad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: on 24 September 2019, Turkish and American forces carried out their 2nd joint patrol of the safe zone in Raqqa province. They began their patrol near the town of Tell Abiad and journeyed east towards the village of Sluk.
+
+---
+
+[EVENT: SYR67827]
+Date: 2019-09-24
+Country: Syria | Location: Ma'arrat An Nu'man
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 24 September 2019, Turkish forces ran a patrol along the Damascus-Aleppo highway to the Maar Hattat gathering south of the town of Ma'arrat An Numaan in Idleb province.
+
+---
+
+[EVENT: SYR67771]
+Date: 2019-09-25
+Country: Syria | Location: Shiheil
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 25 September 2019, QSD forces raided river crossings connecting QSD-controlled Shiheil and regime-controlled areas in Deir-ez-Zor and destroyed boats and ferries used to smuggle goods between the two areas using gunfire and explosives. Neither injuries nor fatalities were reported.
+
+---
+
+[EVENT: SYR67824]
+Date: 2019-09-26
+Country: Syria | Location: Tall Refaat
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 26 September 2019, Russian forces brought reinforcements from Fafin town to their positions in the Tall Refaat area in Aleppo.
+
+---
+
+[EVENT: SYR67702]
+Date: 2019-09-26
+Country: Syria | Location: Aleppo
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 26 September 2019, regime forces and pro-regime militias brought reinforcements to their positions in the western suburbs and countryside of Aleppo city.
+
+---
+
+[EVENT: SYR67701]
+Date: 2019-09-26
+Country: Syria | Location: Idleb
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 26 September 2019, regime forces and pro-regime militias brought reinforcements to their positions in the frontline areas in the eastern and south-eastern countryside of Idleb.
+
+---
+
+[EVENT: SYR67828]
+Date: 2019-09-26
+Country: Syria | Location: Maar Hattat
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 26 September 2019, Turkish forces brought reinforcements, including 15 armored vehicles carrying logistical and military equipment, to their observation point Maar Hattat in Idleb.
+
+---
+
+[EVENT: SYR67736]
+Date: 2019-09-27
+Country: Syria | Location: Andan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 27 September, 2019, HTS reinforced its positions and set up more barricades in the area extending from Andan in northern Aleppo countryside to Daret Azza in the western countryside and brought more fighters.
+
+---
+
+[EVENT: SYR67704]
+Date: 2019-09-27
+Country: Syria | Location: As-Sanamayn
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 9th Armored Division [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 27 September, 2019, the 9th Armored Division of the regime army brought military reinforcements to As-Sanamayn in Dar'a following clashes between the former members of the opposition factions and pro-regime militias.
+
+---
+
+[EVENT: SYR68049]
+Date: 2019-09-27
+Country: Syria | Location: Raju
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 27 September 2019 (week of), opposition rebels manning a checkpoint on Raju road in Afrin district of Aleppo stopped a bus on its way back from Afirn, and looted the driver's mobile phone and money he had in his possession.
+
+---
+
+[EVENT: SYR67772]
+Date: 2019-09-27
+Country: Syria | Location: Afrin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Sultan Murad Division [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 27 September, 2019, Sultan Murad Division looted the house of a female civilian in al Ziyadiyeh neighborhood of Afrin city in northern Aleppo countryside after having forced her to leave her house.
+
+---
+
+[EVENT: SYR67737]
+Date: 2019-09-27
+Country: Syria | Location: Daret Azza
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 27 September, 2019, HTS reinforced its positions and set up more barricades in the area extending from Andan in northern Aleppo countryside to Daret Azza in the western countryside and brought more fighters.
+
+---
+
+[EVENT: SYR67763]
+Date: 2019-09-28
+Country: Syria | Location: Al Bab
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Defusal: On 28 September, 2019, opposition rebels safely dismantled an IED planted by an unidentified armed group under an opposition vehicle in al Bab city in eastern Aleppo countryside.
+
+---
+
+[EVENT: SYR67732]
+Date: 2019-09-28
+Country: Syria | Location: Duma
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 28 September, 2019, regime security forces arrested doctors and nurses in various neighborhoods in Duma city in Rural Damascus including the Grand Mosque area and al Jalaa. All of those arrested used to be active in the health sector during the opposition's control over the city.
+
+---
+
+[EVENT: SYR67825]
+Date: 2019-09-28
+Country: Syria | Location: Tell Abiad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 28 September, 2019, a joint flight operation by the United States and Turkey comprising 4 warplanes total took place over Tell Abiad in northern Ar-Raqqa countryside.
+
+---
+
+[EVENT: SYR68045]
+Date: 2019-09-29
+Country: Syria | Location: Al-Tabiyah Gas Field
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Other: On 29 September, 2019, an unidentified armed group approached QSD positions in al-Tabiyah gas field in Deir-ez-Zor. QSD and American forces under the Global Coalition fired flares and warning shots to stop the group from approaching further. Some sources appear to have exaggerated the events as it seemed to be troop amassment towards QSD positions.
+
+---
+
+[EVENT: SYR68024]
+Date: 2019-09-29
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: On 29 September, 2019, QSD, Ras al Ain Military Council, and US forces under the Global Coalition conducted patrols to locate and remove fortifications near Ras al Ain in northern al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR68051]
+Date: 2019-09-30
+Country: Syria | Location: Deir Sawan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Shuhada al Safirah Division [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 30 September, 2019, members of the Shuhada al Safirah Division, the Sultan Murad affiliate, looted goods from a shop in Deir Sawan in Afrin district of Aleppo and threatened the shop owner with arrest should he protest.
+
+---
+
+[EVENT: SYR68115]
+Date: 2019-09-30
+Country: Syria | Location: Al-Eis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 30 September, 2019, a Turkish military patrol entered Syria from Kafr Lusin border crossing in Idleb and arrived at the Turkish observation point in al Eis in southern Aleppo countryside.
+
+---
+
+[EVENT: SYR67999]
+Date: 2019-09-30
+Country: Syria | Location: Al-Bukamal Border Crossing
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Other: On 30 September 2019, the Iraqi government re-opened the Al-Bukamal border crossing between Syria and Iraq after being closed for over five years.

@@ -1,0 +1,3532 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Syria (ISO Code: 760)
+Temporal Period: Year 2022 - Quarter Q2
+Total Events in Chunk: 265 / 265
+==================================================
+
+[EVENT: SYR100087]
+Date: 2022-04-02
+Country: Syria | Location: Jabal al-Zawiya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 2 April 2022, Turkish forces brought military reinforcements, consisting of 40 armored vehicles and eight trucks carrying military equipment, to Jabal al-Zawiya area in Idleb.
+
+---
+
+[EVENT: SYR100055]
+Date: 2022-04-03
+Country: Syria | Location: Qaryatein
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 3 April 2022, the Syrian regime's military intelligence stormed several houses and arrested several civilian men for weapons' detention and over allegations of communication with their relatives in northwestern Syria and in Al Rukban Camp in Qaryatein city in Homs governorate.
+
+---
+
+[EVENT: SYR100099]
+Date: 2022-04-03
+Country: Syria | Location: Hole Camp
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Security measures: On 3 April 2022, QSD forces enforced a curfew on Hole Camp in Al Hasakeh governorate.
+
+---
+
+[EVENT: SYR100080]
+Date: 2022-04-03
+Country: Syria | Location: Al-Mazraa - Oil Field
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Qaterji Militia [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Looting: On 3 April 2022, Qaterji Militia members stole 46 sheep in the area of Al-Mazraa - Oil Field in Deir ez Zor governorate where they are positioned.
+
+---
+
+[EVENT: SYR100075]
+Date: 2022-04-03
+Country: Syria | Location: Deir-ez-Zor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Houthi Movement - Ansar Allah [Rebel group]
+Fatalities: 0
+Sources: Facebook [New media]
+
+DESCRIPTION:
+Movement of forces: On 3 April 2022, a Houthi Movement - Ansar Allah convoy arrived to Deir-ez-Zor governorate to participate in military trainings conducted by Iranian militias.
+
+---
+
+[EVENT: SYR100067]
+Date: 2022-04-04
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 4 April 2022, a Global Coalition convoy of fifty trucks carrying military and logistical supplies, entered Syria via Al Waleed border crossing, and headed to their bases in Al-Hasakeh province.
+
+---
+
+[EVENT: SYR100068]
+Date: 2022-04-04
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 4 April 2022, a US military patrol escorted by two Global Coalition helicopters, took place in the vicinity of Al-Malikeyyeh town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100076]
+Date: 2022-04-04
+Country: Syria | Location: Ain Diwar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 4 April 2022, a Russian military patrol took place in Ain Diwar area in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100077]
+Date: 2022-04-05
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 5 April 2022, a Russian military patrol took place in the vicinity of Tal Tamer town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100105]
+Date: 2022-04-05
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 5 April 2022, QSD sent reinforcement to Ein Issa town in Ar Raqqa countryside.
+
+---
+
+[EVENT: SYR100070]
+Date: 2022-04-06
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 6 April 2022, a US military patrol took place in Al-Malikeyyeh area in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100071]
+Date: 2022-04-06
+Country: Syria | Location: Omar - Oil Fields
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 6 April 2022, Global Coalition sent a convoy of military and logistical supplies to their base in Al-Omar Oil Field in Deir ez Zor countryside.
+
+---
+
+[EVENT: SYR100069]
+Date: 2022-04-06
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: The Euphrates Post [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 6 April 2022, a Global Coalition convoy of fifty trucks carrying military and logistical supplies, entered Syria via Al Waleed border crossing, and headed to their bases in Al-Hasakeh province.
+
+---
+
+[EVENT: SYR112303]
+Date: 2022-04-07
+Country: Syria | Location: Afrin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: JWS: Syrian National Army [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Defusal: On 7 April 2022, a JWS engineering team safely detonated a landmine planted by a unknown assailants using a minesweeper in the outskirts of Afrin city in Aleppo province.
+
+---
+
+[EVENT: SYR100072]
+Date: 2022-04-07
+Country: Syria | Location: Basira
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SHAAM; The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 7 April 2022, a US military patrol took place in Al 'ishreen street in Basira town in Deir ez Zor countryside. The patrol included Bradley combat vehicles.
+
+---
+
+[EVENT: SYR100078]
+Date: 2022-04-07
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 7 April 2022, a joint Russian and Turkish military patrol of eight vehicles, escorted by two Russian helicopters, took place in rural Darbasiyah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100081]
+Date: 2022-04-08
+Country: Syria | Location: Buladiyeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 8 April 2022, civilians who support the regime blocked the road of a US military patrol of armored vehicles preventing them from passing through Buladiyeh town in rural Quamishli in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100088]
+Date: 2022-04-08
+Country: Syria | Location: Mastumeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 8 April 2022, a Turkish convoy of forty one vehicles of tanks and soldier carriers entered Syria, and arrived at the Turkish base in Mastumeh town in Idleb countryside.
+
+---
+
+[EVENT: SYR100073]
+Date: 2022-04-08
+Country: Syria | Location: Omar - Oil Fields
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Jisr; Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 8 April 2022, a US military convoy arrived to their base in Al-Omar Oil Field in Deir ez Zor countryside.
+
+---
+
+[EVENT: SYR100074]
+Date: 2022-04-08
+Country: Syria | Location: Koniko Gas Field
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Jisr [National]
+
+DESCRIPTION:
+Movement of forces: On 8 April 2022, Global Coalition forces sent reinforcement to Koniko Gas Field in Deir ez Zor countryside.
+
+---
+
+[EVENT: SYR100079]
+Date: 2022-04-08
+Country: Syria | Location: Al-Rasafah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 8 April 2022, regime forces and pro-regime militias reinforcement arrived at Al-Rasafah badia in Ar Raqqa countryside, in preparation to start a combing operation against IS.
+
+---
+
+[EVENT: SYR100107]
+Date: 2022-04-08
+Country: Syria | Location: Abu Rasin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 8 April 2022, QSD sent reinforcement to Abu Rasin town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100086]
+Date: 2022-04-08
+Country: Syria | Location: Sokhneh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 8 April 2022, regime forces and pro-regime militias reinforcement arrived at Sokhneh badia in Homs countryside, in preparation to start a combing operation against IS.
+
+---
+
+[EVENT: SYR100082]
+Date: 2022-04-08
+Country: Syria | Location: Al Dadushieh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QDW: National Defence Forces [Political militia]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Non-violent activity: On 8 April 2022, QDW members blocked the road of a US military patrol of four armored vehicles preventing them from passing through Al Dadushieh town in rural Quamishli in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100230]
+Date: 2022-04-09
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 9 April 2022, a Coalition Forces convoy of 25 vehicles transporting logistical and military support and equipment was observed crossing through Al Waleed Border Crossing from Iraq and going towards the coalition's bases in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR100227]
+Date: 2022-04-09
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Asayish (Syria) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 9 April 2022, Asayish forces blocked the road to the airport and expelled a number of employees of the regime-affiliated Al Baath bakery in Quamishli city after having besieged it for the past 24 hours, in response to the Syrian regime's siege of Sheikh Maqsoud neighborhood in Aleppo.
+
+---
+
+[EVENT: SYR100320]
+Date: 2022-04-09
+Country: Syria | Location: Sokhneh
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) [State forces]
+Actor2: QDW: National Defence Forces [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 9 April 2022, Syrian regime military police arrested three National Defence Forces members, including a commander over allegations of collaboration with IS in Sokhneh town in Homs governorate.
+
+---
+
+[EVENT: SYR100238]
+Date: 2022-04-10
+Country: Syria | Location: Tall Al Dahab
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Non-violent activity: On 10 April 2022, Syrian regime forces and civilians who support the regime blocked the way to a U.S military patrol of five armored vehicles who attempted to enter Tall Al Dahab town in Al Hasakeh governorate, forcing the convoy to change its route.
+
+---
+
+[EVENT: SYR100334]
+Date: 2022-04-10
+Country: Syria | Location: Tadmor
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 10 April 2022, Syrian regime forces arrested a civilian who works in collecting scrap in Tadmor city in Homs governorate for unknown reasons.
+
+---
+
+[EVENT: SYR100371]
+Date: 2022-04-10
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour; SHAAM; The Euphrates Post [Subnational-National]
+
+DESCRIPTION:
+Security measures: On 10 April 2022, QSD forces imposed a siege on the regime-controlled security square in Al-Hasakeh city in response to the siege imposed by the regime on Sheikh Maqsoud and Ashrafiyeh neighborhoods in Aleppo city.
+
+---
+
+[EVENT: SYR100307]
+Date: 2022-04-10
+Country: Syria | Location: Salhiyeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QDW: National Defence Forces [Political militia]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 10 April 2022, National Defence Forces members blocked the way to a U.S military patrol in Salhiyeh town in Al Hasakeh governorate, forcing the convoy to change its route.
+
+---
+
+[EVENT: SYR100232]
+Date: 2022-04-11
+Country: Syria | Location: Tabni
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 17th Division [State forces]
+Fatalities: 0
+Sources: AlBadia 24 [National]
+
+DESCRIPTION:
+Movement of forces: On 11 April 2022, the regime's 17th Division and LaQ sent reinforcement to Tabni badia in Deir ez Zor countryside, in preparation for combing operations looking for IS.
+
+---
+
+[EVENT: SYR100231]
+Date: 2022-04-11
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 11 April 2022, a joint Russian and Turkish military patrol of eight vehicles, escorted by two Russian helicopters, took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR100228]
+Date: 2022-04-12
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 12 April 2022, a Global Coalition convoy of thirty trucks carrying military and logistical supplies, entered Syria via Al Waleed border crossing, and headed to their bases in Al-Hasakeh province.
+
+---
+
+[EVENT: SYR112308]
+Date: 2022-04-12
+Country: Syria | Location: Qatana
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Defusal: On 12 April 2022, a regime forces-affiliated engineering team defused an IED found in the Qatana area in rural Damascus.
+
+---
+
+[EVENT: SYR100305]
+Date: 2022-04-12
+Country: Syria | Location: Hamu
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QDW: National Defence Forces [Political militia]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Non-violent activity: On 12 April 2022, QDW members blocked the road of a US military patrol preventing them from passing through Hamu town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100235]
+Date: 2022-04-12
+Country: Syria | Location: Salhiyeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM [Subnational-National]
+
+DESCRIPTION:
+Non-violent activity: On 12 April 2022, a regime checkpoint blocked the road of a US military patrol preventing them from passing through Salhiyeh town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100237]
+Date: 2022-04-13
+Country: Syria | Location: Hamu
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Facebook; SOHR [Other-New media]
+
+DESCRIPTION:
+Non-violent activity: On 13 April 2022, regime checkpoint members blocked the road of a US military patrol preventing them from passing through Hamu town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100741]
+Date: 2022-04-13
+Country: Syria | Location: Deir-ez-Zor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Fatemiyoun Brigade [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 13 April 2022, two Fatemiyoun Brigade military trucks including missiles and weapons arrived to Al Shibli area in Deir-ez-Zor countryside.
+
+---
+
+[EVENT: SYR100236]
+Date: 2022-04-13
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 13 April 2022, regime checkpoint members blocked the road of a US military patrol preventing them from passing through Al Qusayer town in rural Quamishli city in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100219]
+Date: 2022-04-14
+Country: Syria | Location: Deir-ez-Zor
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-National]
+
+DESCRIPTION:
+On 14 April 2022, a regime checkpoint at the entrance of Deir-ez-Zor city detained a student for unknown reasons.
+
+---
+
+[EVENT: SYR100229]
+Date: 2022-04-14
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 14 April 2022, a Global Coalition convoy carrying military and logistical supplies, entered Syria via Al Waleed border crossing, and headed to their bases in Al-Hasakeh province.
+
+---
+
+[EVENT: SYR100220]
+Date: 2022-04-15
+Country: Syria | Location: Maadan
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour; SHAAM [National]
+
+DESCRIPTION:
+On 15 April 2022, regime forces arrested a man who had signed a reconciliation agreement with the regime at one of their checkpoints in Maadan town in Ar Raqqa countryside for unknown reasons.
+
+---
+
+[EVENT: SYR100459]
+Date: 2022-04-16
+Country: Syria | Location: Maadan
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour; The Euphrates Post [National]
+
+DESCRIPTION:
+On 16 April 2022, Syrian regime forces arrested two civilians despite them having previously reconciled with the regime in Maadan town in Ar Raqqa governorate.
+
+---
+
+[EVENT: SYR100496]
+Date: 2022-04-16
+Country: Syria | Location: Al Waleed Border Crossing
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: The Euphrates Post [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 16 April 2022, a Coalition Forces convoy including 50 trucks with logistic and military equipment was observed entering from Iraq through Al Waleed Border Crossing in Al Hasakeh governorate.
+
+---
+
+[EVENT: SYR100495]
+Date: 2022-04-16
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; The Euphrates Post [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 16 April 2022, a U.S ground patrol was observed in Al-Malikeyyeh city in Al Hasakeh governorate.
+
+---
+
+[EVENT: SYR112313]
+Date: 2022-04-16
+Country: Syria | Location: Al Bab
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: National Police Forces [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Defusal: On 16 April 2022, National Police Forces safely removed two IEDs planted in the center of Al Bab city in Aleppo province by unidentified assailants.
+
+---
+
+[EVENT: SYR100497]
+Date: 2022-04-17
+Country: Syria | Location: Koniko Gas Field
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Facebook [New media]
+
+DESCRIPTION:
+Movement of forces: On 17 April 2022, a Coalition Forces convoy was observed conducted a night patrol leaving from Koniko Gas Field in Deir ez Zor governorate and going towards the frontlines with pro-Iran militias and Syrian regime forces near Al Husseynieh town.
+
+---
+
+[EVENT: SYR100509]
+Date: 2022-04-17
+Country: Syria | Location: Tal Ahmad
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 17 April 2022, Syrian regime forces blocked to road to a U.S military convoy of five armored vehicles in Tal Ahmad village in Al Hasakeh governorate, forcing it to alter its route.
+
+---
+
+[EVENT: SYR100510]
+Date: 2022-04-17
+Country: Syria | Location: Tall Al Dahab
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 17 April 2022, Syrian regime forces blocked to road to a U.S military convoy of five armored vehicles in Tall Al Dahab town in Al Hasakeh governorate, forcing it to alter its route.
+
+---
+
+[EVENT: SYR100461]
+Date: 2022-04-19
+Country: Syria | Location: Qaryatein
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: QDW: National Defence Forces [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 19 April 2022, regime Military Intelligence arrested eight QDW members including a leader in Qaryatein town in Homs countryside, on charges of torturing people for the leader.
+
+---
+
+[EVENT: SYR100515]
+Date: 2022-04-19
+Country: Syria | Location: Tall Al Dahab
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QDW: National Defence Forces [Political militia]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Non-violent activity: On 19 April 2022, a QDW checkpoint blocked the road of a U.S military patrol in Tall Al Dahab town in Al Hasakeh countryside, forcing it to alter its route.
+
+---
+
+[EVENT: SYR100505]
+Date: 2022-04-19
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Property destruction: On 19 April 2022, QSD affiliated members burned the Kurdish National Council center in Al-Malikeyyeh town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100511]
+Date: 2022-04-19
+Country: Syria | Location: Salehiyeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 19 April 2022, a regime checkpoint blocked the road of a U.S military patrol of five armored vehicles on Salehiyeh junction in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100504]
+Date: 2022-04-20
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour; SOHR; The Euphrates Post [Other-National]
+
+DESCRIPTION:
+Property destruction: On 20 April 2022, unknown masked men believed to be PKK's YDG-H attacked two Kurdish National Council offices in Ain al Arab town in Aleppo countryside burning them.
+
+---
+
+[EVENT: SYR100512]
+Date: 2022-04-20
+Country: Syria | Location: Al Qusayr
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QDW: National Defence Forces [Political militia]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 20 April 2022, a QDW checkpoint supported by pro-regime militias blocked the road of a U.S military patrol in Al Qusayr town in Al Hasakeh countryside, forcing it to alter its route.
+
+---
+
+[EVENT: SYR100513]
+Date: 2022-04-20
+Country: Syria | Location: Hamu
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QDW: National Defence Forces [Political militia]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 20 April 2022, a QDW checkpoint supported by pro-regime militias blocked the road of a U.S military patrol in Hamu town in Al Hasakeh countryside, forcing it to alter its route.
+
+---
+
+[EVENT: SYR100514]
+Date: 2022-04-20
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QDW: National Defence Forces [Political militia]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 20 April 2022, a QDW checkpoint supported by pro-regime militias blocked the road of a U.S military patrol in Mas'ada town in rural Quamishli in Al Hasakeh countryside, forcing it to alter its route.
+
+---
+
+[EVENT: SYR100507]
+Date: 2022-04-22
+Country: Syria | Location: Salehiyeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 22 April 2022, regime forces checkpoint supported by pro-regime militias blocked the road of a U.S military patrol in Salehiyeh town in Al Hasakeh countryside, forcing it to alter its route.
+
+---
+
+[EVENT: SYR100508]
+Date: 2022-04-22
+Country: Syria | Location: Tall Al Dahab
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 22 April 2022, regime forces checkpoint supported by pro-regime militias blocked the road of a U.S military patrol in Tall Al Dahab town in Al Hasakeh countryside, forcing it to alter its route.
+
+---
+
+[EVENT: SYR100506]
+Date: 2022-04-22
+Country: Syria | Location: Msheirfeh Remo
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 22 April 2022, regime forces checkpoint supported by pro-regime militias blocked the road of a U.S military patrol in Msheirfeh Remo town in Al Hasakeh countryside, forcing it to alter its route.
+
+---
+
+[EVENT: SYR100752]
+Date: 2022-04-23
+Country: Syria | Location: Al-Bukamal
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Fatemiyoun Brigade [Political militia]
+Actor2: QDW: National Defence Forces [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 23 April 2022, Fatemiyoun Brigade fighters seized control of immigration department building and expelled QDW members after having given them an ultimatum to evacuate the premises in Al-Bukamal city in Deir ez Zor.
+
+---
+
+[EVENT: SYR100744]
+Date: 2022-04-24
+Country: Syria | Location: Sokhneh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 24 April 2022, Syrian regime forces brought military reinforcements to their positions in Sokhneh desert in Homs governorate.
+
+---
+
+[EVENT: SYR100743]
+Date: 2022-04-24
+Country: Syria | Location: Al-Rasafah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 24 April 2022, Syrian regime forces brought military reinforcements to their positions in Al-Rasafah desert in Ar Raqqa governorate.
+
+---
+
+[EVENT: SYR100749]
+Date: 2022-04-24
+Country: Syria | Location: Al Mayadin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Militia (Pro-Iran) [Political militia]
+Fatalities: 0
+Sources: SOHR; The Euphrates Post [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 24 April 2022, a pro-Iran militias military convoy including 35 trucks with weapons and ammunitions entered the Syrian territory from Iraq and went towards Deir-ez-Zor - Military Airbase and the outskirts of Al Mayadin city in Deir ez Zor governorate.
+
+---
+
+[EVENT: SYR100748]
+Date: 2022-04-24
+Country: Syria | Location: Deir-ez-Zor - Military Airbase
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Militia (Pro-Iran) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 24 April 2022, a pro-Iran militias military convoy including 34 trucks with weapons and ammunitions entered the Syrian territory from Iraq and went towards Deir-ez-Zor - Military Airbase and the outskirts of Al Mayadin city in Deir ez Zor governorate.
+
+---
+
+[EVENT: SYR100742]
+Date: 2022-04-25
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 25 April 2022, a Global Coalition convoy of thirty trucks carrying military and logistical supplies, entered Syria via Al Waleed border crossing, and headed to their bases in Al-Hasakeh province.
+
+---
+
+[EVENT: SYR100746]
+Date: 2022-04-25
+Country: Syria | Location: Jabal al-Zawiya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: AlBadia 24 [National]
+
+DESCRIPTION:
+Movement of forces: On 25 April 2022, a Turkish convoy of tanks and armored vehicles arrived at their bases in Jabal al-Zawiya area in Idleb countryside.
+
+---
+
+[EVENT: SYR100750]
+Date: 2022-04-27
+Country: Syria | Location: Al-Bughaz
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Interception: On 27 April 2022, QSD backed Menbij Military Council shot down a suicidal Turkish drone in Al-Bughaz town in Aleppo countryside. Casualties unknown.
+
+---
+
+[EVENT: SYR100745]
+Date: 2022-04-27
+Country: Syria | Location: Al-Rasafah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Facebook; Halab Today; Liveuamap; The Euphrates Post [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 27 April 2022, regime forces sent reinforcement to Al-Rasafah desert in Ar Raqqa countryside, coming from Maskana town in Aleppo countryside.
+
+---
+
+[EVENT: SYR100747]
+Date: 2022-04-28
+Country: Syria | Location: Jabal al-Zawiya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 28 April 2022, a Turkish convoy of fifteen armored vehicles, and more than twenty trucks carrying logistical and military supplies entered Syria, and headed towards the Turkish points in in Jabal al-Zawiya area in Idleb countryside.
+
+---
+
+[EVENT: SYR100945]
+Date: 2022-05-01
+Country: Syria | Location: Ar-Raqqa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Security measures: On 1 May 2022, QSD and the Autonomous Administration in northern Syria banned the entry of motorcycles and trucks into areas controlled by the administration during the Eid Al Fitr festival marking the end of Ramadan. Administrative Regionwide event coded as largest populated location Ar-Raqqa city.
+
+---
+
+[EVENT: SYR100941]
+Date: 2022-05-03
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 3 May 2022, a Russian military patrol escorted by two helicopters took place in rural Al-Malikeyyeh town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100939]
+Date: 2022-05-03
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 3 May 2022, a U.S. military patrol took place in Al-Malikeyyeh town and its countryside in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100943]
+Date: 2022-05-04
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 4 May 2022, QSD sent reinforcement from Al-Hasakeh city to Tal Tamer town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100940]
+Date: 2022-05-04
+Country: Syria | Location: Rmelan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 4 May 2022, a Global Coalition convoy of fifteen trucks carrying military and logistical supplies, entered Syria via Al Waleed border crossing, and arrived at their bases in Rmelan town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR100924]
+Date: 2022-05-04
+Country: Syria | Location: Rukban
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 4 May 2022, regime forces launched a security operation and detained a man after he was transferred from Rukban camp in rural Damascus by the Syrian Red Crescent for treatment for unknown reasons.
+
+---
+
+[EVENT: SYR100944]
+Date: 2022-05-05
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 5 May 2022, QSD sent reinforcement of five military vehicles with 23mm mounted machine guns to Ein Issa town in Ar Raqqa countryside.
+
+---
+
+[EVENT: SYR100942]
+Date: 2022-05-06
+Country: Syria | Location: Tal Samn
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 6 May 2022, a Russian military patrol took place in the vicinity of Tal Samn town in Ar Raqqa countryside.
+
+---
+
+[EVENT: SYR101090]
+Date: 2022-05-07
+Country: Syria | Location: Atil
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Dar'a 24; Jisr; SHAAM; SOHR [Other-National]
+
+DESCRIPTION:
+On 7 May 2022, a group of the Syrian regime's military intelligence erected a checkpoint and detained 20 civilians and Bedouins near Atil town in As Sweida governorate against the backdrop of the theft of the car of a Druze dignitary.
+
+---
+
+[EVENT: SYR101155]
+Date: 2022-05-07
+Country: Syria | Location: Kherbet Eljoz
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 7 May 2022, Turkish forces conducted a rotation of military forces as a military convoy including 17 military vehicles of which three tanks left and another military convoy entered including 14 military vehicles of which one was a tank and 50 Turkish soldiers through Kherbet Eljoz border crossing in Idleb governorate.
+
+---
+
+[EVENT: SYR101140]
+Date: 2022-05-07
+Country: Syria | Location: Damascus - Al-Dahadil
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 7 May 2022, Syrian regime forces stormed the house of a female civilian and arrested her father, an old man from Al Mayadin city who had reconciled with the regime in 2018, in Damascus - Al-Dahadil.
+
+---
+
+[EVENT: SYR101141]
+Date: 2022-05-08
+Country: Syria | Location: Al Sikhah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour; SHAAM [National]
+
+DESCRIPTION:
+On 8 May 2022, Syrian regime forces arrested a number of civilian men for conscription at its checkpoints in Al Sikhah town in Deir ez Zor governorate.
+
+---
+
+[EVENT: SYR101158]
+Date: 2022-05-08
+Country: Syria | Location: Sokhneh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Militia (Pro-Iran) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 8 May 2022, pro-Iran militias brought military and logistical reinforcements to their positions and started digging trenches in the mountainous areas near Sokhneh in Homs governorate.
+
+---
+
+[EVENT: SYR102512]
+Date: 2022-05-08
+Country: Syria | Location: Raju
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: JWS: Syrian National Army [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 8 May 2022, Turkish-backed JWS forces bulldozed the historic Bir Jobana in Raju countryside (Aleppo), destroying it as they looted the archaelogical site.
+
+---
+
+[EVENT: SYR101061]
+Date: 2022-05-08
+Country: Syria | Location: Shiheil
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 8 May 2022, Coalition Forces conducted a patrol in Shiheil town in Deir ez Zor governorate.
+
+---
+
+[EVENT: SYR101152]
+Date: 2022-05-09
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 9 May 2022, Russian and Turkish forces conducted a joint military patrol including eight armored vehicles and two helicopters in the countryside of Ain al Arab city in Aleppo governorate.
+
+---
+
+[EVENT: SYR101156]
+Date: 2022-05-09
+Country: Syria | Location: Khunayfes
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 9 May 2022, Russian forces established a new military observation point overlooking the phosphate mines in the desertic area of Khunayfes in Homs governorate.
+
+---
+
+[EVENT: SYR101153]
+Date: 2022-05-09
+Country: Syria | Location: Tadmor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 9 May 2022, Russian forces and pro-Iran militias brought military reinforcements including ammunitions and weapons to their positions in Tadmor city in Homs governorate.
+
+---
+
+[EVENT: SYR101062]
+Date: 2022-05-09
+Country: Syria | Location: Tadmor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 9 May 2022, an IS military convoy conducted a patrol over 17km on a road north-west of Tadmor city, near Wadi Al Abyad Dam in Homs governorate.
+
+---
+
+[EVENT: SYR101162]
+Date: 2022-05-09
+Country: Syria | Location: Hamu
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QDW: National Defence Forces [Political militia]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Non-violent activity: On 9 May 2022, QDW forces and pro-government militias blocked the road to a U.S military convoy including four armored vehicles in Hamu and Al Dadushieh villages in Al Hasakeh governorate, forcing it to alter its route.
+
+---
+
+[EVENT: SYR101154]
+Date: 2022-05-09
+Country: Syria | Location: Deir-ez-Zor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: AlBadia 24 [National]
+
+DESCRIPTION:
+Movement of forces: On 9 May 2022, Russian forces and the 5th Assault Corps brought reinforcements to their positions in the eastern shores of the Euphrates in Deir-ez-Zor area following the airstrikes conducted by Coalition Forces on pro-Iran militia positions in Deir ez Zor governorate.
+
+---
+
+[EVENT: SYR101142]
+Date: 2022-05-10
+Country: Syria | Location: Jabadeen
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) State Security [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SY24 [National]
+
+DESCRIPTION:
+On 10 May 2022, Syrian State Security and Military Intelligence arrested 7 men accused of avoiding military service in Jabadeen city, Rural Damascus.
+
+---
+
+[EVENT: SYR101143]
+Date: 2022-05-10
+Country: Syria | Location: Damascus - Qaboun
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) State Security [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SY24 [National]
+
+DESCRIPTION:
+On 10 May 2022, Syrian State Security and Military Intelligence arrested 5 men for forced conscription in Damascus - Qaboun.
+
+---
+
+[EVENT: SYR101151]
+Date: 2022-05-10
+Country: Syria | Location: Maadan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Facebook; SY24 [New media-National]
+
+DESCRIPTION:
+Movement of forces: On 10 May 2022, Russian forces including Wagner and Syrian regime forces forces deployed from the Tabqa airport and Al Thawra oil field to the Maadan area of Ar Raqqa. The redeployment is in preparation for a counter-IS operation.
+
+---
+
+[EVENT: SYR101150]
+Date: 2022-05-10
+Country: Syria | Location: Debsi Afnan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Facebook; SY24 [New media-National]
+
+DESCRIPTION:
+Movement of forces: On 10 May 2022, Russian forces including Wagner and Syrian regime forces deployed from the Tabqa airport and Al Thawra oil field to the Debsi Afnan area of Ar Raqqa. The redeployment is in preparation for a counter-IS operation.
+
+---
+
+[EVENT: SYR101161]
+Date: 2022-05-12
+Country: Syria | Location: Dara
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Dar'a 24 [National]
+
+DESCRIPTION:
+Defusal: On 12 May 2022, Syrian regime engineers destroyed an IED in a controlled-detonation near the old social security office in Dara city.
+
+---
+
+[EVENT: SYR101159]
+Date: 2022-05-12
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 12 May 2022, QSD deployed seven 23mm cannon-mounted technicals as reinforcements to Ein Issa city, Ar Raqqa.
+
+---
+
+[EVENT: SYR101160]
+Date: 2022-05-13
+Country: Syria | Location: Abu Rasin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 13 May 2022, QSD deployed 6 vehicles consisting of reinforcements and war materiel into Abu Rasin town, Ar Raqqa.
+
+---
+
+[EVENT: SYR101157]
+Date: 2022-05-13
+Country: Syria | Location: Big Habbuba
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Militia (Pro-Iran) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 13 May 2022, pro-Iran militias moved forces, weapons, and vechiles from Deir ez Zor to their recently established base in Big Habbuba village between Khafsa and Maskanah in Aleppo.
+
+---
+
+[EVENT: SYR101359]
+Date: 2022-05-14
+Country: Syria | Location: Al-Bukamal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Facebook; The Euphrates Post [New media-National]
+
+DESCRIPTION:
+Movement of forces: On 14 May 2022, Russian-backed militias, Syrian regime forces including the 17th Division and Syrian border guards deployed from Damascus to the Al Hajana neighborhood of Al-Bukamal city in Deir ez Zor.
+
+---
+
+[EVENT: SYR101361]
+Date: 2022-05-15
+Country: Syria | Location: Sfayieh Oil Fields
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Mass grave: On 15 May 2022, a mass grave containing the remains of 30 Syrian regime fighters was discovered near the Sfayieh Oil Fields in Ar Raqqa province.
+
+---
+
+[EVENT: SYR102508]
+Date: 2022-05-16
+Country: Syria | Location: Bermaja
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: JWS: Syrian National Army [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: Around 16 May 2022 (as reported), Turkish-backed JWS forces destroyed the Bayshirak archaelogical site near Bermaja village in the countryside of Afrin (Aleppo).
+
+---
+
+[EVENT: SYR101356]
+Date: 2022-05-16
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 16 May 2022, Russian and Turkish forces conducted joint military patrols with eight vehicles in the vicinity of Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR101358]
+Date: 2022-05-17
+Country: Syria | Location: Tal Samn
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 17 May 2022, a Russian military patrol took place in the vicinity of Tal Samn town in Ar Raqqa countryside.
+
+---
+
+[EVENT: SYR101353]
+Date: 2022-05-18
+Country: Syria | Location: Tanf
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: AlBadia 24; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 18 May 2022, a U.S. military convoy of fifteen trucks carrying logistical supplies, escorted by four hummer vehicles, entered Syria coming from Jordan, and arrived at Tanf base in rural Damascus.
+
+---
+
+[EVENT: SYR101352]
+Date: 2022-05-18
+Country: Syria | Location: Azaz
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: AlBadia 24; The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 18 May 2022, a U.S. military convoy escorted by Global Coalition helicopters, entered Azaz area in Aleppo countryside.
+
+---
+
+[EVENT: SYR101357]
+Date: 2022-05-18
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 18 May 2022, a Russian military patrol escorted by QSD took place in Darbasiyah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR101527]
+Date: 2022-05-19
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 19 May 2022, QSD sent reinforcement of seven military vehicles to Tal Tamer town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102523]
+Date: 2022-05-19
+Country: Syria | Location: Al-Junaynah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 19 May 2022, QSD Forces conducted a campaign against smugglers at Al-Junaynah river crossing (Deir ez Zor), confiscating foodstuffs heading towards regime-controlled areas.
+
+---
+
+[EVENT: SYR101339]
+Date: 2022-05-19
+Country: Syria | Location: Ankhel
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 19 May 2022, a regime checkpoint members at the entrance of Ankhel town in Dara countryside, arrested a young man for unknown reasons.
+
+---
+
+[EVENT: SYR101355]
+Date: 2022-05-19
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 19 May 2022, a joint Russian and Turkish military patrol of four vehicles each escorted by two Russian helicopters, took place in rural Darbasiyah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR101338]
+Date: 2022-05-19
+Country: Syria | Location: Sabka
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour; Scholars at Risk; SHAAM [Other-National]
+
+DESCRIPTION:
+On 19 May 2022, regime forces launched a security operation and detained a number of students while heading to Sabka town in Ar Raqqa countryside, to receive their exam IDs.
+
+---
+
+[EVENT: SYR101350]
+Date: 2022-05-19
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; The Euphrates Post [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 19 May 2022, a U.S. military convoy carrying weapons and logistical supplies, entered Syria via Al Waleed border crossing, and arrived at their bases in Al-Hasakeh province.
+
+---
+
+[EVENT: SYR101354]
+Date: 2022-05-19
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 19 May 2022, a joint Russian and regime Military Intelligence forces patrol, took place on the Syrian-Jordanian borders in Dar'a province.
+
+---
+
+[EVENT: SYR102533]
+Date: 2022-05-20
+Country: Syria | Location: Sokhneh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 20 May 2022, regime forces and pro-Iran militias conducted sweeping operations in the desert of Sokhneh in Homs in search of IS cells.
+
+---
+
+[EVENT: SYR102532]
+Date: 2022-05-20
+Country: Syria | Location: Tadmor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 20 May 2022, regime forces and pro-Iran militias conducted sweeping operations in the desert of Tadmor in Homs in search of IS cells.
+
+---
+
+[EVENT: SYR102526]
+Date: 2022-05-20
+Country: Syria | Location: Tadmor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 20 May 2022, Russian armed forces partially withdrew forces from Tadmor area (Homs), likely towards the Hmeimim Air Base (Lattakia).
+
+---
+
+[EVENT: SYR102535]
+Date: 2022-05-20
+Country: Syria | Location: Shuyukh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Interception: Around 20 May 2022 (as reported), regime forces shot down a Turkish drone in Shuyukh in the countryside of Ain Al Arab (Aleppo).
+
+---
+
+[EVENT: SYR101351]
+Date: 2022-05-20
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM [Subnational-National]
+
+DESCRIPTION:
+Movement of forces: On 20 May 2022, a U.S. military patrol took place in the vicinity of Al-Malikeyyeh town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR101599]
+Date: 2022-05-21
+Country: Syria | Location: Hole Camp
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Security measures: On 21 May 2022, QSD imposed a curfew in the Hole Camp, Al Hasakeh, for unknown reasons.
+
+---
+
+[EVENT: SYR101602]
+Date: 2022-05-21
+Country: Syria | Location: Tadmor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 25th Armored Division [State forces]
+Fatalities: 0
+Sources: Facebook [New media]
+
+DESCRIPTION:
+Movement of forces: On 21 May 2022, the regime's 25th Armored Division deployed forces to the central Syrian desert in order to participate in up coming counter-IS operations. The upcoming operation intends to cover the axis from Ithariyah in Hama through Tadmor in Homs towards Al-Rasafah in Ar-Raqqa. Coded as Tadmor city, Homs for central Syrian desert.
+
+---
+
+[EVENT: SYR101593]
+Date: 2022-05-21
+Country: Syria | Location: Koniko Gas Field
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 21 May 2022, Global Coalition Forces moved dozens of military vehicles from the Omar Oil Field to the Koniko Gas Field in Deir ez Zor.
+
+---
+
+[EVENT: SYR101592]
+Date: 2022-05-21
+Country: Syria | Location: Breiha
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-National]
+
+DESCRIPTION:
+On 21 May 2022, overnight the Global Coalition including French forces and QSD raided Breiha village, Deir ez Zor. The Global Coalition arrested 1 displaced person on charges of collaborating with IS militants.
+
+---
+
+[EVENT: SYR101622]
+Date: 2022-05-23
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Property destruction: On 23 May 2022, QSD shot down a Turkish reconnaissance drone in Ein Issa town in Ar Raqqa countryside.
+
+---
+
+[EVENT: SYR101620]
+Date: 2022-05-23
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 23 May 2022, a joint Russian and Turkish military patrol took place in the Ain al Arab area in Aleppo countryside.
+
+---
+
+[EVENT: SYR101619]
+Date: 2022-05-23
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 23 May 2022, a Global Coalition convoy of thirty vehicles carrying weapons and logistical supplies, entered Syria via Al Waleed border crossing, and headed to their bases in Shadadah area in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR101642]
+Date: 2022-05-24
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 24 May 2022, a Russian military convoy of tens of armored vehicles arrived at their base in Ein Issa district in Ar Raqqa countryside. The convoy also conducted a patrol in the area.
+
+---
+
+[EVENT: SYR101641]
+Date: 2022-05-24
+Country: Syria | Location: Al Bab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: AAS: Ahrar al Sham [Rebel group]
+Actor2: JWS: Syrian National Army [Rebel group]
+Fatalities: 0
+Sources: Alkhabour; The Euphrates Post [National]
+
+DESCRIPTION:
+Change to armed group: On 24 May 2022, Ahrar al Sham joined Thae'roun Movement who operates under JWS in Al Bab city in Aleppo countryside.
+
+---
+
+[EVENT: SYR101696]
+Date: 2022-05-26
+Country: Syria | Location: Tadmor
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) General Intelligence Directorate [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 26 May 2022, the regime's General Intelligence Directorate supported by Iranian Islamic Revolutionary Guard Corps launched a security operation and detained a number of people in the western neighborhood of Tadmor city in Homs countryside, on charges of dealing with IS.
+
+---
+
+[EVENT: SYR101719]
+Date: 2022-05-27
+Country: Syria | Location: Tiba
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) General Intelligence Directorate [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 27 May 2022, the regime's General Intelligence Directorate members arrested eleven farmers in Al Bal'om and Tiba areas in rural Al Mayadin in Deir ez Zor countryside, for selling their harvest of wheat to independent merchants instead of selling it to the regime.
+
+---
+
+[EVENT: SYR101723]
+Date: 2022-05-27
+Country: Syria | Location: Idleb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 27 May 2022, regime forces shot down a Turkish reconnaissance drone in southern Idleb countryside.
+
+---
+
+[EVENT: SYR101718]
+Date: 2022-05-27
+Country: Syria | Location: Al Mayadin
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) General Intelligence Directorate [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 27 May 2022, the regime's General Intelligence Directorate arrested eleven farmers in Al Bal'om and Tiba areas in rural Al Mayadin in Deir ez Zor countryside, for selling their harvest of wheat to independent merchants instead of selling it to the regime.
+
+---
+
+[EVENT: SYR101722]
+Date: 2022-05-27
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 27 May 2022, a joint regime, Russian, and QSD patrol escorted by Russian warplanes took place in the area between rural Darbasiyah and Ras al-Ain in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR101773]
+Date: 2022-05-28
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 28 May 2022, Global Coalition forces conducted a vehicle patrol in the Al-Malikeyyeh area of Hasakeh province.
+
+---
+
+[EVENT: SYR101878]
+Date: 2022-05-28
+Country: Syria | Location: Yarmouk Basin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) Military Police [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 28 May 2022, Russian Military Police conducted a vehicle patrol along the Jordanian border in the Yarmouk Basin, Dara.
+
+---
+
+[EVENT: SYR101876]
+Date: 2022-05-28
+Country: Syria | Location: Quamishli Airbase
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 28 May 2022, Russian forces relocated 2 warplanes and 6 helicopters to Quamishli Airbase, Hasakeh. The helicopters conducted air patrols near the Turkish border on the following day.
+
+---
+
+[EVENT: SYR101772]
+Date: 2022-05-28
+Country: Syria | Location: Rmelan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 28 May 2022, US forces conducted a patrol near Rmelan city, Hasakeh.
+
+---
+
+[EVENT: SYR101883]
+Date: 2022-05-28
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Security measures: On 28 May 2022, the Autonomous Administration in Northern Syria suspended military leave in northern Syria. The suspension is a security measure enacted in anticipation of Turkish offensive in Al Hasakeh province. Coded as Al-Hasakeh city.
+
+---
+
+[EVENT: SYR101875]
+Date: 2022-05-28
+Country: Syria | Location: Sabka
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour; SHAAM [National]
+
+DESCRIPTION:
+On 28 May 2022, Syrian regime forces arrested an unknown number of students from Raqqa city as they were travelling to take high school exams in Sabka town, Raqqa. The arrests took place in Ar-Raqqa city.
+
+---
+
+[EVENT: SYR101884]
+Date: 2022-05-28
+Country: Syria | Location: Afrin
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: JWS: Syrian National Army [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Defusal: On 28 May 2022, JWS seized a motorcycle-borne IED in Afrin City, Aleppo.
+
+---
+
+[EVENT: SYR101881]
+Date: 2022-05-28
+Country: Syria | Location: Deir-ez-Zor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Qaterji Militia [Political militia]
+Actor2: Military Forces of Syria (2000-2024) 4th Armored Division [State forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Change to armed group: On 28 May 2022, 400 Qaterji militiamen defected with their leader to the Syrian 4th Armored Division in Deir ez Zor province. The defection resulted from a dispute between leaders of the Qaterji militia concerning protection money and smuggling profit sharing related to the hydrocarbon industry in Deir-ez-Zor. Coded as Deir-ez-Zor city.
+
+---
+
+[EVENT: SYR101774]
+Date: 2022-05-29
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 29 May 2022, Global Coalition forces conducted a vehicle patrol in Tal Tamer town, Hasakeh.
+
+---
+
+[EVENT: SYR101877]
+Date: 2022-05-29
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 29 May 2022, Russia deployed 6 military vehicles from the Tal Salman base to a base in Ein Issa, Raqqa.
+
+---
+
+[EVENT: SYR101766]
+Date: 2022-05-30
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 30 May 2022, a U.S. military patrol took place in rural Al-Malikeyyeh town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR101880]
+Date: 2022-05-30
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 30 May 2022, regime forces sent reinforcement to rural Darbasiyah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR101775]
+Date: 2022-05-30
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 30 May 2022, a joint Russian and Turkish military patrol comprised of eight vehicles took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR101769]
+Date: 2022-05-30
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 30 May 2022, a Global Coalition convoy of thirty vehicles carrying weapons and logistical supplies, entered Syria via Al Waleed border crossing, and headed to their bases in Shadadah area in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR101882]
+Date: 2022-05-31
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 31 May 2022, QSD sent reinforcement to Ein Issa town in Ar Raqqa countryside.
+
+---
+
+[EVENT: SYR101777]
+Date: 2022-05-31
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM [Subnational-National]
+
+DESCRIPTION:
+Movement of forces: On 31 May 2022, a Russian military patrol escorted by helicopters took place in Darbasiyah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR101782]
+Date: 2022-05-31
+Country: Syria | Location: Tall Al Dahab
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Non-violent activity: On 31 May 2022, a regime checkpoint blocked the road of a U.S. military patrol preventing them from passing through Tall Al Dahab town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR101770]
+Date: 2022-06-01
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; The Euphrates Post; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 1 June 2022, a Global Coalition convoy of more than thirty vehicles carrying weapons and logistical supplies, entered Syria via Al Waleed border crossing, and arrived at their bases in Shadadah area in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR112221]
+Date: 2022-06-01
+Country: Syria | Location: Hurriyeh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2021-2022) [External/Other forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Property destruction: On 1 June 2022, Israeli Army forces stormed approximately 400 meters of Syrian territory south-west of Hurriyeh town in Quneitra province, bulldozing dozens of trees In the area and fired gunshots at nearby shepherds and warning shots in the air, without any reported injuries. Syrian forces nearby did not intervene.
+
+---
+
+[EVENT: SYR101767]
+Date: 2022-06-01
+Country: Syria | Location: Al-Asbah farms
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 1 June 2022, a U.S. military patrol of a number of armored vehicles took place in Al Ma'amel area near Al-Asbah farms in Deir ez Zor countryside.
+
+---
+
+[EVENT: SYR101879]
+Date: 2022-06-01
+Country: Syria | Location: Masrab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 1 June 2022, regime forces and Russian special forces sent reinforcement to Masrab badia in Deir ez Zor countryside, in preparation for combing operations against IS.
+
+---
+
+[EVENT: SYR101771]
+Date: 2022-06-02
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 2 June 2022, a Global Coalition military patrol took place in rural Tal Tamer town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102064]
+Date: 2022-06-02
+Country: Syria | Location: Nayrab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 2 June 2022, Turkish Forces deployed forces along the Aleppo-Lattakia M4 highway starting in Nayrab area (Idleb) in order to conduct a sweeping operation removing landmines and IEDs.
+
+---
+
+[EVENT: SYR101776]
+Date: 2022-06-02
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 2 June 2022, a joint Russian and Turkish military patrol of eight vehicles escorted by two Russian helicopters took place in rural Darbasiyah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR101768]
+Date: 2022-06-02
+Country: Syria | Location: Abu Rasin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 2 June 2022, a U.S. military patrol took place in rural Abu Rasin town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR101779]
+Date: 2022-06-03
+Country: Syria | Location: Menbij
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 3 June 2022, Russian forces sent reinforcement to Al Sa'idia base in rural Menbij city in Aleppo countryside.
+
+---
+
+[EVENT: SYR101781]
+Date: 2022-06-03
+Country: Syria | Location: Tall Refaat
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Militia (Pro-Iran) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On 3 June 2022, pro-Iranian militias established two military bases in Tall Refaat town in Aleppo countryside.
+
+---
+
+[EVENT: SYR102065]
+Date: 2022-06-03
+Country: Syria | Location: Tell Abiad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 3 June 2022, Turkish Army reinforcements arrived in the Tell Abiad city countryside (Ar Raqqa).
+
+---
+
+[EVENT: SYR101778]
+Date: 2022-06-03
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 3 June 2022, a Russian military patrol escorted by a Russian helicopter took place in rural Darbasiyah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR101761]
+Date: 2022-06-03
+Country: Syria | Location: Ar-Raqqa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+On 3 June 2022, regime forces started a security operation and detained a number of students in Ar-Raqqa city while they were headed to Sabka town for high school exams for unknown reasons.
+
+---
+
+[EVENT: SYR102058]
+Date: 2022-06-04
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 4 June 2022, a convoy of regime reinforcements reached Ein Issa area (Ar Raqqa), including tanks, heavy weaponry and dozens of forces.
+
+---
+
+[EVENT: SYR101958]
+Date: 2022-06-04
+Country: Syria | Location: Big Balqis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Actor2: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Other: On 4 June 2022, residents prevented a QSD patrol from detaining a civilian in Big Balqis village (Al Hasakeh) over a dispute over agricultural land.
+
+---
+
+[EVENT: SYR102071]
+Date: 2022-06-04
+Country: Syria | Location: Ma'btali
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Sultan Suleiman Shah Brigade (Syria) [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 4 June 2022 (as reported), Sultan Suleiman Shah Brigade took over two residences owned by displaced civilians to convert to a military headquarters for the group in Kaghira village in Ma'btali district (Aleppo).
+
+---
+
+[EVENT: SYR102068]
+Date: 2022-06-04
+Country: Syria | Location: Al-Bukamal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Militia (Pro-Iran) [Political militia]
+Fatalities: 0
+Sources: Facebook; The Euphrates Post [New media-National]
+
+DESCRIPTION:
+Recruitment: On 4 June 2022, approximately 50 recruits joined the pro-Iranian militia Division 47 (Fawj 47) at its office in Al-Bukamal city (Deir ez Zor).
+
+---
+
+[EVENT: SYR102049]
+Date: 2022-06-04
+Country: Syria | Location: Rmelan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 4 June 2022, US Forces conducted a military patrol in the vicinity of Rmelan (Al Hasakeh).
+
+---
+
+[EVENT: SYR112239]
+Date: 2022-06-04
+Country: Syria | Location: Jandairis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Security measures: On 4 June 2022, Turkish and Sharqiya Army forces expanded their presence in Jandairis in Aleppo province and Sharqiya Army forces surrounded the National Police Forces building in the community following the death of a Sharqiya Army fighter who died from injuries sustained from National Police Forces firing live ammunition at demonstrators the day prior.
+
+---
+
+[EVENT: SYR101981]
+Date: 2022-06-05
+Country: Syria | Location: Al-Hasakeh - Ghoweran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 5 June 2022, Global Coalition forces sent military reinforcements to a military base near the Industrial Prison in Al-Hasakeh - Ghoweran (Al Hasakeh).
+
+---
+
+[EVENT: SYR102059]
+Date: 2022-06-05
+Country: Syria | Location: Tall Refaat
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 5 June 2022, regime and pro-Iranian militia reinforcements headed towards Tall Refaat and Menagh - Military Airbase (Aleppo). The reinfocements include rockets, convoys, and tanks.
+
+---
+
+[EVENT: SYR102048]
+Date: 2022-06-05
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 5 June 2022, US forces conducted patrols in the vicinity of Al-Malikeyyeh (Al Hasakeh).
+
+---
+
+[EVENT: SYR102053]
+Date: 2022-06-06
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR; The Euphrates Post [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 6 June 2022, a joint Russian and Turkish military patrol of eight vehicles took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR101982]
+Date: 2022-06-06
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 6 June 2022, a Global Coalition convoy of trucks was headed to their bases in Shadadah town in Al Hasakeh countryside, coming from Al Hasakeh city.
+
+---
+
+[EVENT: SYR102014]
+Date: 2022-06-07
+Country: Syria | Location: Tall Al Dahab
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Militia (Pro-Government) [Political militia]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 7 June 2022, pro-regime militias and QDW members blocked a U.S. military patrol's road in Tall Al Dahab area in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102063]
+Date: 2022-06-07
+Country: Syria | Location: Menagh - Military Airbase
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 4th Armored Division [State forces]
+Fatalities: 0
+Sources: AlBadia 24 [National]
+
+DESCRIPTION:
+Movement of forces: On 7 June 2022, the regime's 4th Armored Division forces sent reinforcement of fifty military vehicles to their bases near Menagh - Military Airbase in Aleppo countryside.
+
+---
+
+[EVENT: SYR102074]
+Date: 2022-06-07
+Country: Syria | Location: Hamu
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Militia (Pro-Government) [Political militia]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM [Subnational-National]
+
+DESCRIPTION:
+Non-violent activity: On 7 June 2022, pro-regime militias blocked a U.S. military patrol's road near Hamu town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102066]
+Date: 2022-06-07
+Country: Syria | Location: Tell Abiad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 7 June 2022, a Turkish military convoy of fifteen vehicles entered OPS area through Al Yabisa crossing point in Tell Abiad area in Ar Raqqa countryside.
+
+---
+
+[EVENT: SYR102047]
+Date: 2022-06-07
+Country: Syria | Location: Atareb
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 7 June 2022, Global Coalition sent reinforcement to northern Aleppo countryside near Atareb town, coming from their base in Koniko gas factory.
+
+---
+
+[EVENT: SYR102050]
+Date: 2022-06-07
+Country: Syria | Location: Tadmor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 7 June 2022, Sayyid al Shuhada Brigade members arrived at Tadmor city in Homs countryside, coming from Al-Bukamal city.
+
+---
+
+[EVENT: SYR102061]
+Date: 2022-06-08
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 8 June 2022, regime forces brought reinforcement from Al Tabqa - Airbase to Ein Issa town in Ar Raqqa countryside.
+
+---
+
+[EVENT: SYR102060]
+Date: 2022-06-08
+Country: Syria | Location: Tall Refaat
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: AlBadia 24; Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 8 June 2022, regime and Russian forces sent large reinforcement to Tall Refaat town in Aleppo countryside.
+
+---
+
+[EVENT: SYR102054]
+Date: 2022-06-08
+Country: Syria | Location: Amuda
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 8 June 2022, a Russian military patrol took place on Amuda road in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102041]
+Date: 2022-06-08
+Country: Syria | Location: Maadan
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour; SHAAM [National]
+
+DESCRIPTION:
+On 8 June 2022, regime forces started a security operation and detained a young man at one of their checkpoints in Maadan town in Ar Raqqa countryside for unknown reasons.
+
+---
+
+[EVENT: SYR102055]
+Date: 2022-06-09
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 9 June 2022, a joint Russian and Turkish military patrol of eight vehicles, escorted by two Russian helicopters took place in rural Quamishli city in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102057]
+Date: 2022-06-09
+Country: Syria | Location: Deir-ez-Zor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Facebook [New media]
+
+DESCRIPTION:
+Movement of forces: On 9 June 2022, Russian forces reinforcement arrived at Deir-ez-Zor city.
+
+---
+
+[EVENT: SYR102067]
+Date: 2022-06-09
+Country: Syria | Location: Tell Abiad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Jisr [National]
+
+DESCRIPTION:
+Movement of forces: On 9 June 2022, a Turkish forces convoy arrived at Tell Abiad district in Ar Raqqa countryside.
+
+---
+
+[EVENT: SYR102062]
+Date: 2022-06-09
+Country: Syria | Location: Tall Refaat
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 9 June 2022, regime military and police forces reinforcement entered Tall Refaat town in Aleppo countryside.
+
+---
+
+[EVENT: SYR102069]
+Date: 2022-06-09
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 9 June 2022, QSD reinforcement of armored vehicles arrived at Ein Issa front in Ar Raqqa countryside.
+
+---
+
+[EVENT: SYR102056]
+Date: 2022-06-09
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Jisr [National]
+
+DESCRIPTION:
+Movement of forces: On 9 June 2022, a Russian forces convoy arrived at Tal Tamer district in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR112139]
+Date: 2022-06-10
+Country: Syria | Location: Sarin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 10 June 2022, Russian reinforcements comprised of fifteen military vehicles arrived in Sadiyah town and part of the convoy headed towards al-Sabt Military Base in Sarin town in the Aleppo countryside.
+
+---
+
+[EVENT: SYR102052]
+Date: 2022-06-10
+Country: Syria | Location: Sadiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SHAAM; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 10 June 2022, Russian reinforcements comprised of fifteen military vehicles arrived in Sadiyah town and part of the convoy headed towards al-Sabt Military Base in Sarin town in the Aleppo countryside.
+
+---
+
+[EVENT: SYR112140]
+Date: 2022-06-10
+Country: Syria | Location: Menbij
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 10 June 2022, QSD mobilized their forces towards regime frontlines south of Menbij in the Aleppo countryside.
+
+---
+
+[EVENT: SYR102051]
+Date: 2022-06-10
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 10 June 2022, a Russian military patrol took place in the vicinity of Darbasiyah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102206]
+Date: 2022-06-11
+Country: Syria | Location: Ar-Raqqa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Fatemiyoun Brigade [Political militia]
+Fatalities: 0
+Sources: SY24 [National]
+
+DESCRIPTION:
+Movement of forces: On 11 June 2022, Fatemiyoun Brigade brought military reinforcements to pro-Iran and Russian positions in the south-western countryside of Ar-Raqqa governorate to support their anti-IS operations in the Syrian desert.
+
+---
+
+[EVENT: SYR102223]
+Date: 2022-06-11
+Country: Syria | Location: Tell Abiad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 11 June 2022, Turkish forces brought military reinforcements to the countryside of Tell Abiad town in Ar Raqqa governorate.
+
+---
+
+[EVENT: SYR102216]
+Date: 2022-06-11
+Country: Syria | Location: Third Station
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [External/Other forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 11 June 2022, IRGC forces sent military reinforcements from Boukamal city to their base in the Third Station in Homs governorate.
+
+---
+
+[EVENT: SYR102144]
+Date: 2022-06-11
+Country: Syria | Location: As-Sweida
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Suwayda24 [Subnational]
+
+DESCRIPTION:
+On 11 June 2022, Syrian military intelligence members arrested two civilians over allegations of being member of the Syrian Brigade Party and of being involved in the destructions of the smart card readers, after storming Mehwari Street in the center of As-Sweida city with two vehicles, and discharging bullets in the air to disperse the crowd.
+
+---
+
+[EVENT: SYR102224]
+Date: 2022-06-11
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 11 June 2022, QSD forces brought military reinforcements including six vehicles mounted with DShK and a number of fighters to Tal Tamer town in Al Hasakeh governorate.
+
+---
+
+[EVENT: SYR102207]
+Date: 2022-06-11
+Country: Syria | Location: Rmelan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 11 June 2022, a U.S military convoy including four armored vehicles and several QSD vehicles was observed patrolling in the area bordering Rmelan city in Al Hasakeh governorate, before returning to its base.
+
+---
+
+[EVENT: SYR102193]
+Date: 2022-06-11
+Country: Syria | Location: Ar-Raqqa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 4th Armored Division [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 11 June 2022, 4th Divisions members arrested a civilian from Tadmor on a checkpoint on the road between Homs and Ar-Raqqa cities for unknown reasons.
+
+---
+
+[EVENT: SYR102556]
+Date: 2022-06-11
+Country: Syria | Location: Al-Bukamal
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Air Force Intelligence Directorate [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Around 11 June 2022 (as reported), while on patrol a member of the Syrian Air Force Intelligence Directorate arrested a woman on Baghdad street in Al-Bukamal city in Deir ez Zor who is accused of photographing State Military headquarters but sources claim she was photographing a relative's house after it was looted.
+
+---
+
+[EVENT: SYR102211]
+Date: 2022-06-12
+Country: Syria | Location: Al Waleed Border Crossing
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 12 June 2022, Coalition forces brought military reinforcements to its bases in Syria from Iraq through Al Waleed Border Crossing in Al Hasakeh governorate.
+
+---
+
+[EVENT: SYR102212]
+Date: 2022-06-12
+Country: Syria | Location: Koniko Gas Field
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 12 June 2022, Coalition Forces sent military reinforcements and equipment through a convoy to their base in the Koniko Gas Field in Deir ez Zor governorate.
+
+---
+
+[EVENT: SYR102219]
+Date: 2022-06-12
+Country: Syria | Location: Tall Refaat
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: AlBadia 24; Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 12 June 2022, Russian military police forces withdrew from Tall Refaat city in Aleppo governorate.
+
+---
+
+[EVENT: SYR102539]
+Date: 2022-06-13
+Country: Syria | Location: Abu Zandin
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: JWS: Syrian National Army [Rebel group]
+Fatalities: 0
+Sources: Jisr; SHAAM [National]
+
+DESCRIPTION:
+On 13 June 2022, a prisoner swap (supervised by the UN, International Committee of the Red Cross, and Syrian Arab Red Crescent, and guaranteed by Turkey and Russia) deal took place between Regime and JWS forces, whereby 5 prisoners were exchanged between both parties at the Abu Zandin crossing in the Eastern Aleppo countryside.
+
+---
+
+[EVENT: SYR102555]
+Date: 2022-06-13
+Country: Syria | Location: Al Mayadin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Militia (Pro-Iran) [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 13 June 2022, a shipment of surface-to-surface missiles for pro-Iranian militias stationed in Al Mayadin agricultural area in the Al Mayadin desert (coded to Al Mayadin) arrived via trucks from Iraq designed to transport vegetables. The equipment was stored in underground warehouses in agricultural farmland in Al Mayadin desert.
+
+---
+
+[EVENT: SYR102220]
+Date: 2022-06-13
+Country: Syria | Location: Tal Samn
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 13 June 2022, a Russian military patrol took place in the vicinity of Tal Samn town in Ar Raqqa countryside.
+
+---
+
+[EVENT: SYR102217]
+Date: 2022-06-13
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 13 June 2022, a joint Russian and Turkish military patrol of eight vehicles took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR102562]
+Date: 2022-06-14
+Country: Syria | Location: Rukban
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Jordan (1999-) [External/Other forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Other: On 14 June 2022, the Government of Jordan allowed food supplies to enter Rukban IDP camp in Rural Damascus for the first time in years, following the camp's continued state of siege imposed by Pro-regime forces over a month ago.
+
+---
+
+[EVENT: SYR102221]
+Date: 2022-06-14
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 14 June 2022, a Russian military patrol of three military vehicles, escorted by two Russian helicopters, took place in rural Darbasiyah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102214]
+Date: 2022-06-15
+Country: Syria | Location: Koniko Gas Field
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 15 June 2022, a Global Coalition convoy of military and logistical supplies was headed from Al Hasakeh province to their bases in Koniko Gas Field in Deir ez Zor countryside.
+
+---
+
+[EVENT: SYR102210]
+Date: 2022-06-15
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 15 June 2022, a joint Global Coalition and QSD patrol of several military vehicles took place in Quamishli city in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102215]
+Date: 2022-06-15
+Country: Syria | Location: Omar - Oil Fields
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 15 June 2022, a Global Coalition convoy of military and logistical supplies was headed from Al Hasakeh province to their bases in Omar - Oil Fields in Deir ez Zor countryside.
+
+---
+
+[EVENT: SYR102213]
+Date: 2022-06-15
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 15 June 2022, a Global Coalition convoy of seventy six vehicles carrying military and logistical supplies, entered Syria via Al Waleed border crossing, and headed to their bases in Al-Hasakeh province.
+
+---
+
+[EVENT: SYR102192]
+Date: 2022-06-15
+Country: Syria | Location: Damascus - International Airport
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 15 June 2022, regime forces started a security operation and detained four employees in Damascus - International Airport, after the Israeli attack on 10th of June.
+
+---
+
+[EVENT: SYR102208]
+Date: 2022-06-16
+Country: Syria | Location: Tanf
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 16 June 2022, a Global Coalition convoy of five vehicles escorted with five U.S. Hummer vehicles carrying military and logistical supplies, entered Syria from Jordan border crossing, and arrived at Tanf base in rural Damascus.
+
+---
+
+[EVENT: SYR102222]
+Date: 2022-06-16
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 16 June 2022, a Russian military patrol took place in the vicinity of Tal Tamer town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102575]
+Date: 2022-06-16
+Country: Syria | Location: Bab Al Salameh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 16 June 2022, a Turkish military convoy comprising of trucks carrying tanks and armored vehicles, entered Syria via the Bab Al Salameh crossing and headed towards Turkish-controlled areas in the Aleppo countryside (coded to Bab Al Salameh).
+
+---
+
+[EVENT: SYR102218]
+Date: 2022-06-16
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 16 June 2022, a joint Russian and Turkish military patrol of eight vehicles escorted by two Russian helicopters, took place in rural Darbasiyah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102552]
+Date: 2022-06-17
+Country: Syria | Location: Sahlat al Banat
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Other: On 17 June 2022, QSD militia expelled an IDP to Regime-controlled areas after the individual complained of poor services offered in the Sahlat al Banat camp in Northern Ar Raqqa.
+
+---
+
+[EVENT: SYR102209]
+Date: 2022-06-17
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 17 June 2022, a U.S. military patrol took place in Tal Tamer town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102578]
+Date: 2022-06-17
+Country: Syria | Location: Nasib Border Crossing
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Jordan (1999-) [External/Other forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Jisr [National]
+
+DESCRIPTION:
+Other: On 17 June 2022, Jordanian customs officials thwarted a vehicle from smuggling a large quantity of Captagon narcotics in a secret vehicle compartment across the Jaber/Nasib border crossing in Dara. The operation was thwarted in cooperation among Jordanian Jaber Customs border officials, the Narcotics Control Department and Jordanian Security Services.
+
+---
+
+[EVENT: SYR102448]
+Date: 2022-06-18
+Country: Syria | Location: Al Bab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: JaS: Levant Front [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 18 June 2022, the Levant Front brought military reinforcements which included 57-caliber tanks and heavy artillery to Al Bab city in Aleppo governorate.
+
+---
+
+[EVENT: SYR102445]
+Date: 2022-06-18
+Country: Syria | Location: Ghazawiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: SHAAM; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 18 June 2022, HTS military reinforcements left the outskirts of Sarmada and Termanin and headed towards Ghazawiyah village in Aleppo governorate to support Ahrar al Shaam in clashes against Levant Front fighters nearby.
+
+---
+
+[EVENT: SYR102449]
+Date: 2022-06-18
+Country: Syria | Location: Deir Ballut
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: JWS: Syrian National Army [Rebel group]
+Fatalities: 0
+Sources: SOHR; The Euphrates Post [Other-National]
+
+DESCRIPTION:
+Security measures: On 18 June 2022, JWS closed Deir Ballut crossing which connects HTS areas of influence in Idleb governorate and Turkey-backed factions areas of influence in northern Aleppo governorate to maintain the safety of civilians amid the recent intensification of hostilities in the countryside of Al Bab city and to prevent more armed factions from joining the fighting.
+
+---
+
+[EVENT: SYR102444]
+Date: 2022-06-18
+Country: Syria | Location: Qatma
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 18 June 2022, an HTS military convoy passed through the camps of Qatma village on its way to the outskirts of Afrin district in Aleppo governorate.
+
+---
+
+[EVENT: SYR102450]
+Date: 2022-06-18
+Country: Syria | Location: Ghazawiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: JWS: Syrian National Army [Rebel group]
+Fatalities: 0
+Sources: SOHR; The Euphrates Post [Other-National]
+
+DESCRIPTION:
+Security measures: On 18 June 2022, JWS closed Ghazawiyah crossing which connects HTS areas of influence in Idleb governorate and Turkey-backed factions areas of influence in northern Aleppo governorate to maintain the safety of civilians amid the recent intensification of hostilities in the countryside of Al Bab city and to prevent more armed factions from joining the fighting.
+
+---
+
+[EVENT: SYR102333]
+Date: 2022-06-18
+Country: Syria | Location: Kawkab
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QDW: National Defence Forces [Political militia]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Non-violent activity: On 18 June 2022, National Defence Forces and pro-regime militias blocked the road to a U.S patrol which included four armored vehicles on the road near Kawkab Mountain in the countryside of Al Hasakeh governorate.
+
+---
+
+[EVENT: SYR112152]
+Date: 2022-06-19
+Country: Syria | Location: Ghazawiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: JaS: Levant Front [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 19 June 2022, Levant Front forces withdrew from several areas in Aleppo governorate (coded to Ghazawiyah), following an agreement reached to cease clashes between Ahrar al Shaam and Levant Front fighters.
+
+---
+
+[EVENT: SYR102329]
+Date: 2022-06-19
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 19 June 2022, Coalition Forces brought military and logistic reinforcements to their positions in Quamishli city in Al Hasakeh governorate from Iraq.
+
+---
+
+[EVENT: SYR112151]
+Date: 2022-06-19
+Country: Syria | Location: Ghazawiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: AAS: Ahrar al Sham [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 19 June 2022, Ahrar al Sham forces withdrew from several areas in Aleppo governorate (coded to Ghazawiyah), following an agreement reached to cease clashes between Ahrar al Shaam and Levant Front fighters.
+
+---
+
+[EVENT: SYR102446]
+Date: 2022-06-19
+Country: Syria | Location: Jandairis
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: Facebook; SHAAM [New media-National]
+
+DESCRIPTION:
+Movement of forces: On 19 June 2022, an HTS military convoy including military equipment and fighters partially withdrew from Jandairis city in Aleppo governorate, following an agreement reached to cease clashes between Ahrar al Shaam and Levant Front fighters.
+
+---
+
+[EVENT: SYR112150]
+Date: 2022-06-19
+Country: Syria | Location: Ghazawiyah
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: AAS: Ahrar al Sham [Rebel group]
+Actor2: JaS: Levant Front [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+On 19 June 2022, Ahrar al Sham and Levant Front fighters reached an agreement to cease all clashes across Aleppo province (coded to Ghazawiyah), to withdraw forces from areas each party took control of the day prior and to exchange prisons. Turkish Intelligence forces intervened to stop the clashes by meeting with AAS and Levant Front commanders, which resulted in the agreement reached.
+
+---
+
+[EVENT: SYR102330]
+Date: 2022-06-20
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 20 June 2022, a French military patrol of the Global Coalition took place in rural Tal Tamer town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102331]
+Date: 2022-06-20
+Country: Syria | Location: Deir-ez-Zor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR; The Euphrates Post [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 20 June 2022, a Global Coalition convoy of thirty vehicles carrying military and logistical supplies, entered Syria via Al Waleed border crossing, and headed to their bases in Shadadah in Al Hasakeh countryside, and Deir-ez-Zor province.
+
+---
+
+[EVENT: SYR102451]
+Date: 2022-06-20
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 20 June 2022, a joint Russian and Turkish military patrol of eight vehicles escorted by two Russian helicopters, took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR102456]
+Date: 2022-06-20
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 20 June 2022, QSD sent reinforcement of seven vehicles with mounted machine guns to Tal Tamer town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102452]
+Date: 2022-06-20
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 20 June 2022, a Russian military patrol took place in the vicinity of Tal Tamer town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102332]
+Date: 2022-06-20
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR; The Euphrates Post [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 20 June 2022, a Global Coalition convoy of thirty vehicles carrying military and logistical supplies, entered Syria via Al Waleed border crossing, and headed to their bases in Shadadah in Al Hasakeh countryside, and Deir-ez-Zor province.
+
+---
+
+[EVENT: SYR112155]
+Date: 2022-06-20
+Country: Syria | Location: Kabashin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 20 June 2022, HTS forces brought military reinforcements to Kabashin village in Aleppo province.
+
+---
+
+[EVENT: SYR112154]
+Date: 2022-06-20
+Country: Syria | Location: Fafertin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 20 June 2022, HTS forces brought military reinforcements to Fafertin village in Aleppo province.
+
+---
+
+[EVENT: SYR112153]
+Date: 2022-06-20
+Country: Syria | Location: Basufan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 20 June 2022, HTS forces brought military reinforcements to Basufan village in Aleppo province.
+
+---
+
+[EVENT: SYR102447]
+Date: 2022-06-21
+Country: Syria | Location: Ghazawiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: AlBadia 24 [National]
+
+DESCRIPTION:
+Movement of forces: On 21 June 2022, HTS sent reinforcement to the area near Ghazawiyah crossing in Aleppo countryside.
+
+---
+
+[EVENT: SYR102441]
+Date: 2022-06-21
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 21 June 2022, a U.S. military patrol took place in the vicinity of Al-Malikeyyeh town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR112158]
+Date: 2022-06-21
+Country: Syria | Location: Dadat
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: JWS: Syrian National Army [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Defusal: On 21 June 2022, an IED planted by an unidentified armed group in a truck was intercepted by JWS forces near Oun Dadat crossing near Dadat town in Aleppo province, and was safely detonated without causing any injuries.
+
+---
+
+[EVENT: SYR112157]
+Date: 2022-06-21
+Country: Syria | Location: Ghazawiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 21 June 2022, HTS forces withdrew from several locations in Aleppo governorate (coded to Ghazawiyah), following an agreement reached to cease clashes between Ahrar al Shaam and Levant Front fighters.
+
+---
+
+[EVENT: SYR102305]
+Date: 2022-06-22
+Country: Syria | Location: Salehiyeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Non-violent activity: On 22 June 2022, regime checkpoint members blocked a U.S. military patrol's road near Salehiyeh town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102454]
+Date: 2022-06-23
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM [Subnational-National]
+
+DESCRIPTION:
+Movement of forces: On 23 June 2022, a joint Russian and Turkish military patrol took place in the vicinity of Darbasiyah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102453]
+Date: 2022-06-23
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 23 June 2022, a joint Russian and Turkish military patrol of eight vehicles escorted by two Russian helicopters, took place in rural Quamishli city in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102443]
+Date: 2022-06-24
+Country: Syria | Location: Rmelan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 24 June 2022, a U.S. military patrol took place in Banokia town in rural Rmelan area in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102442]
+Date: 2022-06-24
+Country: Syria | Location: Shiheil
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Facebook [New media]
+
+DESCRIPTION:
+Movement of forces: On 24 June 2022, a Global Coalition military patrol took place in Shiheil town in Deir ez Zor countryside.
+
+---
+
+[EVENT: SYR102455]
+Date: 2022-06-24
+Country: Syria | Location: Al-Rasafah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 25th Armored Division [State forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 24 June 2022, the regime's 25th Armored Division sent reinforcement to southern Ar Raqqa countryside near Al-Rasafah town.
+
+---
+
+[EVENT: SYR102658]
+Date: 2022-06-25
+Country: Syria | Location: Shiheil
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 25 June 2022, a Global Coalition convoy conducted a join patrol with QSD forces in Shiheil town and the surrounding villages in Deir ez Zor governorate.
+
+---
+
+[EVENT: SYR102636]
+Date: 2022-06-26
+Country: Syria | Location: Al-Bukamal
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+On 26 June 2022, the Syrian regime's military intelligence arrested a civilian who works as a mechanic in Al-Bukamal city in Deir ez Zor governorate for having U.S dollars on him.
+
+---
+
+[EVENT: SYR102665]
+Date: 2022-06-27
+Country: Syria | Location: Kherbet Sheikh Aqil
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 27 June 2022, a Turkish convoy of heavy machinery and armored vehicles, entered Syria via Bab Al Salameh border crossing and headed to their base in Sheikh Aqil mountain in Aleppo countryside.
+
+---
+
+[EVENT: SYR102635]
+Date: 2022-06-27
+Country: Syria | Location: Homs
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Air Force Intelligence Directorate [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 27 June 2022, regime Air Force Intelligence Directorate checkpoint members arrested two young men on Homs highway at Baghdad bridge for unknown reasons.
+
+---
+
+[EVENT: SYR102662]
+Date: 2022-06-27
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 27 June 2022, a joint Russian and Turkish military patrol of eight vehicles escorted by two Russian helicopters, took place in the vicinity of Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR102659]
+Date: 2022-06-28
+Country: Syria | Location: Shiheil
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: The Euphrates Post [National]
+
+DESCRIPTION:
+Movement of forces: On 28 June 2022, a Global Coalition patrol took place in Shiheil town in Deir ez Zor countryside.
+
+---
+
+[EVENT: SYR102664]
+Date: 2022-06-29
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 29 June 2022, regime forces sent reinforcement to Ein Issa town in Ar Raqqa countryside.
+
+---
+
+[EVENT: SYR102660]
+Date: 2022-06-29
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 29 June 2022, a Global Coalition convoy of more than fifty vehicles carrying fuel, and military and logistical supplies, entered Syria via Al Waleed border crossing, and headed to their bases in Al-Hasakeh province.
+
+---
+
+[EVENT: SYR112176]
+Date: 2022-06-29
+Country: Syria | Location: Bulbul
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: JWS: Syrian National Army [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Defusal: On 29 June 2022, JWS forces seized an IED planted in a car belonging to a Bulbul Council member by unknown assailants in Bulbul district in Aleppo countryside, and safely detonated it without incident.
+
+---
+
+[EVENT: SYR102663]
+Date: 2022-06-30
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 30 June 2022, a joint Russian and Turkish military patrol of eight vehicles escorted by two Russian helicopters, took place in rural Darbasiyah town in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR102657]
+Date: 2022-06-30
+Country: Syria | Location: Tadmor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Fatemiyoun Brigade [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 30 June 2022, Fatemiyoun Brigade reinforcement of twenty five member and five military vehicles arrived at Tadmor city in Homs countryside.

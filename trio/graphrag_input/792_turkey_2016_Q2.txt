@@ -1,0 +1,730 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Turkey (ISO Code: 792)
+Temporal Period: Year 2016 - Quarter Q2
+Total Events in Chunk: 53 / 53
+==================================================
+
+[EVENT: TUR2134]
+Date: 2016-04-02
+Country: Turkey | Location: Cizre
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Property destruction: PKK militants reportedly set a mosque on fire while running away from Turkish forces, in Cizre district of Sirnak. The mosque was used as a base by PKK. Reported on February 4.
+
+---
+
+[EVENT: TUR2635]
+Date: 2016-04-03
+Country: Turkey | Location: Siverek
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: On April 3, a group of people gathering for PKK Leader Ocalan's birthday were stopped by the police in Siverek district of Sanliurfa. Police forces detained 60 of them.
+
+---
+
+[EVENT: TUR2660]
+Date: 2016-04-05
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+Arrests: On April 5, 25 Mimar Sinan Fine Arts University students and graduates were detained in house raids in Istanbul city. They were charged with being member or sympathizer of PKK.
+
+---
+
+[EVENT: TUR2707]
+Date: 2016-04-09
+Country: Turkey | Location: Midyat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property Destruction: HPG website reported that on April 9, the group took a road between Midyat district of Mardin and Sirnak and conducted ID checks. Four vehicles belonging to a private company working with AKP were burnt.
+
+---
+
+[EVENT: TUR2717]
+Date: 2016-04-10
+Country: Turkey | Location: Edremit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Property destruction: On 10 April 2016, PKK militants burned down three public schools in Edremit district of Van by Molotov cocktails.
+
+---
+
+[EVENT: TUR2743]
+Date: 2016-04-12
+Country: Turkey | Location: Yesilli
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Hurriyet Daily [National]
+
+DESCRIPTION:
+Defusal: A vehicle carrying three tonnes of explosives belonging to PKK was found and defused (through detonation) by the police in Yesilli district of Mardin on 12 April.
+
+---
+
+[EVENT: TUR2804]
+Date: 2016-04-18
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Arrests: On April 18, 105 people were detained by the police around the country; most of those detained were apprehended in Istanbul. They were accused of financing and being members of Gulen network.
+
+---
+
+[EVENT: TUR2827]
+Date: 2016-04-20
+Country: Turkey | Location: Sariyer
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Defusal: On April 20, the police forces detected a homemade bomb on Istanbul's Fatih Sultan Bridge. The improvised explosive device was found on a motorcycle abandoned on one of the bridge's exit on the European side in Sariyer, Istanbul. The bomb was detonated.
+
+---
+
+[EVENT: TUR2859]
+Date: 2016-04-24
+Country: Turkey | Location: Semdinli
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Non-violent activity: HPG website reported that on April 24, Turkish forces launched a military operation in Semzinan (Semdinli) district of Hakkari. The forces reportedly conducted house raids and threatened people to join village guard forces or leave the area. The operation was ended on April 25 without any clear reason.
+
+---
+
+[EVENT: TUR2892]
+Date: 2016-04-27
+Country: Turkey | Location: Lice
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Defusal: On April 27, Turkish security forces located about 200 kg of explosives and bomb setup on a street in Lice district of Diyarbakir. It was defused.
+
+---
+
+[EVENT: TUR2992]
+Date: 2016-05-02
+Country: Turkey | Location: Lice
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Security Measures: On 2nd May, the governor of Diyarbakir announced that 11 villages in Lice district of Diyarbakir were placed under curfew.
+
+---
+
+[EVENT: TUR2990]
+Date: 2016-05-02
+Country: Turkey | Location: Dogankent
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On 2 May 2016, PKK militants attacked and damaged the dam on the Gavres river in Doganken district of Giresun province, rendering it useless.
+
+---
+
+[EVENT: TUR3025]
+Date: 2016-05-05
+Country: Turkey | Location: Manisa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction: In Manisa city, the Communist Party of Turkey's building was attacked by unknown persons during the evening of the 5th of May.
+
+---
+
+[EVENT: TUR3030]
+Date: 2016-05-06
+Country: Turkey | Location: Gaziantep
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Islamic State (IS) [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: As reported on May 6, 52 suspected IS militants were arrested during a recent operation in Gaziantep province following the deadly attack on May 1. 20 were released soon after.
+
+---
+
+[EVENT: TUR3091]
+Date: 2016-05-14
+Country: Turkey | Location: Tunceli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Twitter; Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Property destruction: PKK burned 4 civilian trucks on the Tunceli-Erzincan road, reported on twitter on the 14th May.
+
+---
+
+[EVENT: TUR3118]
+Date: 2016-05-17
+Country: Turkey | Location: Izmir
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: 29 suspected Gulenists were arrested by Turkish police across Izmir province on Tuesday 17th May. Police reportedly arrested the suspects across 73 locations in Izmir province
+
+---
+
+[EVENT: TUR3129]
+Date: 2016-05-18
+Country: Turkey | Location: Sirnak
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Yeni Safak [National]
+
+DESCRIPTION:
+Property destruction: PKK militants burnt two buildings in Sirnak before escaping on May 18th.
+
+---
+
+[EVENT: TUR3145]
+Date: 2016-05-20
+Country: Turkey | Location: Servi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On May 20 in Genc district of Bingol province, PKK militants attacked a power plant in the village of Servi, forcing the power plant to close.
+
+---
+
+[EVENT: TUR3144]
+Date: 2016-05-20
+Country: Turkey | Location: Genc
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction: During the night of the 20th of May, PKK militants attacked the electrical transformer that powers three villages in Genc district of Bingol province. Electricity was cut as a result.
+
+---
+
+[EVENT: TUR3179]
+Date: 2016-05-24
+Country: Turkey | Location: Nusaybin
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2002-2016) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Journal of Turkish Weekly; Milliyet Haber [National]
+
+DESCRIPTION:
+Arrests: As reported on 24 May 2016, 26 PKK militants surrendered during a military operation in Nusaybin town in Mardin province.
+
+---
+
+[EVENT: TUR3189]
+Date: 2016-05-25
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Property destruction: A school was attacked by masked men with molotovs believed to be PKK militants. The molotovs caused a fire at the school, but it was quickly put out and there were no casualties as no students were there at the time of the attack on 25th May close to the centre of Diyarbakir city
+
+---
+
+[EVENT: TUR3211]
+Date: 2016-05-28
+Country: Turkey | Location: Nusaybin
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Arrests: On 28 May 2016, 42 Kurdish civilians were arrested in Nusaybin town by Turkish police following the PKK evacuation of the city. They were charged on the grounds of threatening the unity of the nation
+
+---
+
+[EVENT: TUR6057]
+Date: 2016-06-01
+Country: Turkey | Location: Semdinli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Military Forces of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On 1 June 2016, PKK militants attacked and damaged diggers belonging to Turkish forces that were used for a road construction in Semdinli district of Hakkari, as reported by HPG.
+
+---
+
+[EVENT: TUR3247]
+Date: 2016-06-01
+Country: Turkey | Location: Kocaeli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Yeni Safak [National]
+
+DESCRIPTION:
+Arrests: Police arrested 80 suspected members of the Gulen movement across Kocaeli province on the 1st June
+
+---
+
+[EVENT: TUR3252]
+Date: 2016-06-01
+Country: Turkey | Location: Tunceli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Security Measures: On 1 June 2016, curfews have been declared for 9 areas of Tunceli province due to anti-terror operations.
+
+---
+
+[EVENT: TUR6066]
+Date: 2016-06-03
+Country: Turkey | Location: Semdinli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Military Forces of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On 3 June 2016, PKK militants attacked and damaged diggers belonging to Turkish forces that were used for a road construction in Semdinli district of Hakkari, as reported by HPG.
+
+---
+
+[EVENT: TUR3264]
+Date: 2016-06-04
+Country: Turkey | Location: Lice
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Security Measures: On the 4th June, the Turkish government imposed a curfew on 9 neighbourhoods of Lice town due to ongoing anti-terror operations against the PKK
+
+---
+
+[EVENT: TUR6077]
+Date: 2016-06-05
+Country: Turkey | Location: Yuksekova
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On 5 June 2016, PKK militants attacked the diggers working for a road construction, led by Turkish forces in Yuksekova district of Hakkari. The diggers were damaged and road construction was stopped, as reported by HPG
+
+---
+
+[EVENT: TUR6079]
+Date: 2016-06-05
+Country: Turkey | Location: Nazimiye
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: On 5 June 2016, PKK militants burned down three vehicles used for cutting trees in Nazimiye district of Tunceli, claiming that the people cutting trees were previously warned, as reported by HPG.
+
+---
+
+[EVENT: TUR3290]
+Date: 2016-06-07
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Security measures: On 7 June 2016, Turkey's president ratified a bill which lifts the immunity of some members of parliament. The bill, which has now passed into law, allows up to 138 lawmakers to face trial.
+
+---
+
+[EVENT: TUR3309]
+Date: 2016-06-10
+Country: Turkey | Location: Dagkonak
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Defusal: The PKK militants planted a vehicle full of explosives near a military post in Dagkonak neighbourhood of Sirnak's province on Friday, 10 June 2016. The Turkish soldiers discovered the vehicle before it went off and defused the explosives safely.
+
+---
+
+[EVENT: TUR3327]
+Date: 2016-06-13
+Country: Turkey | Location: Trabzon
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Yeni Safak [National]
+
+DESCRIPTION:
+Arrests: 33 people suspected of belonging to the Gulen Movement were arrested on 13th of June in Trabzon.
+
+---
+
+[EVENT: TUR3330]
+Date: 2016-06-14
+Country: Turkey | Location: Kislacik
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction: PKK militants attacked a natural gas station in Kislacik district of Siirt province on Tuesday, 14 June 2016.
+
+---
+
+[EVENT: TUR3335]
+Date: 2016-06-15
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: In June among the 106 people detained suspected Islamic State members 32 have been arrested.
+
+---
+
+[EVENT: TUR6108]
+Date: 2016-06-16
+Country: Turkey | Location: Menemen
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Property destruction: On June 16th, an armed attack damaged a HDP building in Menemen town in Izmir province
+
+---
+
+[EVENT: TUR3344]
+Date: 2016-06-18
+Country: Turkey | Location: Lice
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Kurdistan24 [International]
+
+DESCRIPTION:
+Security Measures: On June 18th, 13 villages in Lice-Diyarbakir were placed under curfew by the Turkish authorities due to ongoing anti-PKK operations in the area
+
+---
+
+[EVENT: TUR6113]
+Date: 2016-06-19
+Country: Turkey | Location: Pulumur
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK-YJA STAR: Kurdistan Workers Party-YJA STAR [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: People's Defense Forces [Other]
+
+DESCRIPTION:
+Property destruction: YJA militants destroyed telephone signal towers in Pulumur district of Tunceli province on June 19
+
+---
+
+[EVENT: TUR6112]
+Date: 2016-06-19
+Country: Turkey | Location: Basaksehir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Property destruction: On June 19th, an armed attack damaged a HDP building in Basaksehir neighbourhood in Istanbul
+
+---
+
+[EVENT: TUR3351]
+Date: 2016-06-20
+Country: Turkey | Location: Istanbul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+Arrests: Sebnem Korur Fincanci, the president of TIHV, was arrested in Istanbul on the 20th of June along with a journalist and a writer. The three had held temporary editor positions at the pro-Kurdish newspaper Ozgur Gundem which has been facing threats of closure by the government.
+
+---
+
+[EVENT: TUR6117]
+Date: 2016-06-20
+Country: Turkey | Location: Diyarbakir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security Measures: Curfews were announced in 28 villages across 5 districts (Kulp, Kocakoy, Hani, Silvan and Hazro) of Diyarbakir on the 20th of June.
+
+---
+
+[EVENT: TUR3359]
+Date: 2016-06-21
+Country: Turkey | Location: Ergani
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Yeni Safak [National]
+
+DESCRIPTION:
+Defusal: Police found one ton of explosives in a minibus in the town of Ergani in Diyarbakir. The explosives were found on the June 21st, and buildings were exacuated as the bomb disposal unit searched inside the vehicle and dealt with the explosives.
+
+---
+
+[EVENT: TUR3360]
+Date: 2016-06-21
+Country: Turkey | Location: Sapanca
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Turkey) [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: Beyaz Gazete [National]
+
+DESCRIPTION:
+Property destruction: Reported on Tuesday, 21 June 2016: Unidentified militants engaged in a gun attack against a relay station in Sapanca district of Sakarya province. The equipment was destroyed.
+
+---
+
+[EVENT: TUR6121]
+Date: 2016-06-22
+Country: Turkey | Location: Mus
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security Measures: Curfews were announced in 11 villages in Mus province on the 22nd of June.
+
+---
+
+[EVENT: TUR3369]
+Date: 2016-06-22
+Country: Turkey | Location: Gunyuzu
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Bianet [National]
+
+DESCRIPTION:
+Security Measures: An indefinite curfew was announced in Gunyuzu town of Beytussebap district, Sirnak, early on the 22nd of June due to ongoing operations with the PKK.
+
+---
+
+[EVENT: TUR3376]
+Date: 2016-06-23
+Country: Turkey | Location: Lice
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Xinhua; Kurdistan24 [International]
+
+DESCRIPTION:
+Security Measures: The Turkish government extended the curfews in Lice district of Diyarbakir province to 39 villages (26 more villages) on 23rd of June due to the ongoing anti-terror operations against the PKK. 13 villages had originally been placed under curfew on the 18th May.
+
+---
+
+[EVENT: TUR6128]
+Date: 2016-06-23
+Country: Turkey | Location: Genc
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Human Rights Foundation of Turkey [Other]
+
+DESCRIPTION:
+Security Measures: Curfews were announced in 6 villages in Genc district of Bingol province on the 23rd of June.
+
+---
+
+[EVENT: TUR3390]
+Date: 2016-06-25
+Country: Turkey | Location: Lice
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2002-2016) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Anadolu Agency [National]
+
+DESCRIPTION:
+Arrests: 103 PKK suspects were detained in Lice over a 5-day operation (23rd-27th of June) in Lice-Diyarbakir.
+
+---
+
+[EVENT: TUR3398]
+Date: 2016-06-27
+Country: Turkey | Location: Lice
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2002-2016) [State forces]
+Actor2: PKK: Kurdistan Workers Party [Rebel group]
+Fatalities: 0
+Sources: Yeni Safak [National]
+
+DESCRIPTION:
+Weapons Seizure: In Lice town, the Turkish military seized more than 10 tons of explosives during an anti-PKK operation. As reported on the 27th of June.
+
+---
+
+[EVENT: TUR3408]
+Date: 2016-06-28
+Country: Turkey | Location: Ankara
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Turkey (2002-2016) [State forces]
+Actor2: Unidentified Armed Group (Turkey) [Political militia]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Arrests: During operations in Istanbul, Sirnak, Edirne, Mus, Mardin and Trabzon from June 28 to 29 against gunrunning 87 people - among them 8 policemen - were arrested. 146 guns and 30 shotguns were seized.
+
+---
+
+[EVENT: TUR3423]
+Date: 2016-06-30
+Country: Turkey | Location: Hasanbeyli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: HBDH: Peoples United Revolutionary Movement [Political militia]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ANF News [International]
+
+DESCRIPTION:
+Property destruction: Members of the HBDH destroyed a base station in the Sarat village, Hasanbeyli of the Osmaniye province on June 30.
+
+---
+
+[EVENT: TUR6138]
+Date: 2016-06-30
+Country: Turkey | Location: Siirt
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Turkey (2002-2016) [State forces]
+Fatalities: 0
+Sources: Takvim [National]
+
+DESCRIPTION:
+Security Measures: Curfews were announced in 12 regions of Siirt district on 30th of June.
+
+---
+
+[EVENT: TUR3424]
+Date: 2016-06-30
+Country: Turkey | Location: Mus
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ROJ News [Subnational]
+
+DESCRIPTION:
+Property destruction: An allegedly AKP sympathizing construction firm was working on the roads between Mus and Kulp, Diyarbakir on June 30, when PKK militants burned their 7 machines.
+
+---
+
+[EVENT: TUR3421]
+Date: 2016-06-30
+Country: Turkey | Location: Cepkenli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: PKK: Kurdistan Workers Party [Rebel group]
+Actor2: Civilians (Turkey) [Civilians]
+Fatalities: 0
+Sources: ROJ News [Subnational]
+
+DESCRIPTION:
+Property destruction: PKK militants destroyed a Vodafone-Avea base station in the village Pagan (Aka Cepkenli), Gurpinar of Van on June 30.

@@ -1,0 +1,102 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Bahrain (ISO Code: 48)
+Temporal Period: Year 2016 - Quarter Q2
+Total Events in Chunk: 7 / 7
+==================================================
+
+[EVENT: BHR488]
+Date: 2016-04-30
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Government of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: Bahrain Mirror [National]
+
+DESCRIPTION:
+Agreement: on Saturday, April 30, 2016 the security authorities released the opposition leader and the Secretary General of the Islamic Action Society Amal, Sheikh Mohammed Ali Al-Mahfouz, after serving five years behind bars.
+
+---
+
+[EVENT: BHR9603]
+Date: 2016-06-13
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: Al Wafa [Other]
+
+DESCRIPTION:
+On 13 June 2016, the police forces reportedly arrested the Director of the Bahraini Human Rights Center Nabil Rajab in Manama area (Capital). His colleague, the woman human rights activist Zainab Al Khawaja fled the country to Denmark.
+
+---
+
+[EVENT: BHR1812]
+Date: 2016-06-13
+Country: Bahrain | Location: Riffa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: ProtectDefenders.eu [Local partner-Other]
+
+DESCRIPTION:
+Arrests: 13 June. Prominent human rights activist and opposition leader Nabeel Rajab was arrested at East Riffa Police Station.
+
+---
+
+[EVENT: BHR525]
+Date: 2016-06-14
+Country: Bahrain | Location: Al Diraz
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: LuaLua TV [National]
+
+DESCRIPTION:
+Other: On 14 June 2016, the Ministry of Labor and Social Development shut down the Islamic Awareness association, the major Shiite religious association in Bahrain. Militias belonging to the Ministry of the Interior, accompanied by members of the security services, stormed the building of the Islamic Awareness association in Al Diraz (Northern) after surrounding it with military vehicles.
+
+---
+
+[EVENT: BHR524]
+Date: 2016-06-14
+Country: Bahrain | Location: Bilad al Qadim
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: LuaLua TV [National]
+
+DESCRIPTION:
+Other: On 14 June 2016, 'militias' belonging to the Ministry of Interior (likely police forces) stormed the headquarters of the Islamic National association 'Al-Wefaq' in the Bilad al Qadim (Capital), and also the branches in the western and northern areas of the city after surrounding them with military vehicles. At the same time, the Bahrain Administrative Court suspended the activity of Al-Wefaq, the largest political association in Bahrain, and closed all its headquarters and placed them under security guard.
+
+---
+
+[EVENT: BHR527]
+Date: 2016-06-20
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: LuaLua TV [National]
+
+DESCRIPTION:
+Non-violent activity: On 20th June, the Ministry of Interior announced the stripping of Sheikh Isa Ahmed Qasim Bahraini's citizenship. The Sheikh is one of the highest religious Shiite authority in Bahrain and the founding member of Al Wefaq, Bahrain's biggest opposition society.
+
+---
+
+[EVENT: BHR538]
+Date: 2016-06-23
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: Bahrain Mirror [National]
+
+DESCRIPTION:
+Arrests: On 23 Jun, Bahraini government said that it had arrested six prominent Shiite clerics accused of involvement in rallies for Sheikh Issa Qasim and protests for the withdrawal of his nationality.

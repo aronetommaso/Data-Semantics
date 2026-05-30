@@ -1,0 +1,3257 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Lebanon (ISO Code: 422)
+Temporal Period: Year 2023 - Quarter Q3
+Total Events in Chunk: 244 / 244
+==================================================
+
+[EVENT: LBN14910]
+Date: 2023-07-01
+Country: Lebanon | Location: Qurnat as Sawda
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Tawk Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Communal Militia (Lebanon) [Identity militia]
+Fatalities: 2
+Sources: Al Monitor; Asharq Al Awsat; El Nashra; Lebanese Army [Other-National]
+
+DESCRIPTION:
+On 1 July 2023, two separate armed clashes took place between Tawk clansmen and armed militiamen from Bqaa Safrine at Qurnat as Sawda peak (Al Miniyeh Al Danniyeh), leaving 2 individuals including a Tawk clansman killed. The army deployed to contain the clashes, and exchanged fire with militiamen who were heading to the area during which one of them was killed. The LAF arrested 13 individuals from Bqaa Safrine and 6 Tawk clansmen, while seizing weapons and ammunition. Clashes had occurred in the past between residents from the towns of Bcharri and Bqaa Safrine over land and water disputes at the Qurnat as Sawda peak.
+
+---
+
+[EVENT: LBN14916]
+Date: 2023-07-01
+Country: Lebanon | Location: Nabatiye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 1 July 2023, demonstrators took to the streets outside Al Husayni club in Nabatiye (Al Nabatieh) to demonstrate against the Quran burning incident in Stockholm. The protesters burned Swedish flags.
+
+---
+
+[EVENT: LBN33752]
+Date: 2023-07-02
+Country: Lebanon | Location: Baalbek
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Shokr Clan Militia (Lebanon) [Identity militia]
+Actor2: Shokr Clan Militia (Lebanon) [Identity militia]
+Fatalities: 1
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 2 July 2023, scuffles turned into armed clashes between relatives from Shokr clan in Tibchar town near Baalbek (Baalbek) over clan feuds. 1 Shokr clansmen was killed.
+
+---
+
+[EVENT: LBN14909]
+Date: 2023-07-02
+Country: Lebanon | Location: Houla
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: El Nashra; L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 2 July 2023, Israeli soldiers fired bullets and stun grenades towards citizens who were forcing an Israeli bulldozer to halt its violation of the Blue line and its digging operations near Houla (Marjayoun). There were no casualties. The army later deployed to force the Israeli bulldozer to stop the works.
+
+---
+
+[EVENT: LBN20638]
+Date: 2023-07-03
+Country: Lebanon | Location: Beirut - Mousseitbeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Akhbar al Saha [New media]
+
+DESCRIPTION:
+On 3 July 2023, high school students held a protest outside the Ministry of Education in Beirut - Mousseitbeh (Beirut), to demand a solution to the official exams dilemma. Several students complained that they aren't able to complete the full curriculum.
+
+---
+
+[EVENT: LBN14918]
+Date: 2023-07-03
+Country: Lebanon | Location: Er Rachidiye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 3 July 2023, Palestinian political and labor factions, and refugees held a demonstration in Er Rachidiye refugee camp (Tyr), in support of the Palestinian resistance in Jenin amid an Israeli security operation. Officials from Fatah, Hamas and the PLO attended the rally.
+
+---
+
+[EVENT: LBN14920]
+Date: 2023-07-04
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 4 July 2023, relatives of the Beirut Port Blast victims, held their monthly sit-in outside Gate 3 in Beirut - Port (Beirut), to demand the resumption of the Beirut Port Blast case. The protesters also proposed a law to equate those wounded in the explosion with those wounded in the army.
+
+---
+
+[EVENT: LBN14919]
+Date: 2023-07-04
+Country: Lebanon | Location: Burj el Barajneh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 4 July 2023, Palestinian factions and refugees held a sit-in in Burj el Barajneh refugee camp (Baabda), in support of the Palestinian resistance in Jenin amid an Israeli security operation. Officials from Fatah and the PFLP-GC attended the rally.
+
+---
+
+[EVENT: LBN14921]
+Date: 2023-07-05
+Country: Lebanon | Location: Burj el Barajneh
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 2
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 5 July 2023, an armed man from an unidentified clan opened fire towards 2 other unarmed Palestinian clansmen in Burj el Barajneh (Baabda), killing them over old clan feuds. The perpetrator was later arrested.
+
+---
+
+[EVENT: LBN14914]
+Date: 2023-07-06
+Country: Lebanon | Location: El Majidiye
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 6 July 2023, Israeli military forces targeted open fields near el Majidiye (Hasbeiya) with 2 artillery shells, in retaliation against the launching of a rocket from Lebanon towards Israel.
+
+---
+
+[EVENT: LBN14912]
+Date: 2023-07-06
+Country: Lebanon | Location: Kfar Chouba
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 6 July 2023, Israeli military forces targeted open fields near Mazraat Halta and Kfar Chouba plains (Hasbeiya) with 20 artillery shells, causing fires. The shelling came in retaliation to an earlier rocket launch from Lebanon towards Israel.
+
+---
+
+[EVENT: LBN14915]
+Date: 2023-07-06
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 6 July 2023, activists from the Mouttahidoun group held a protest outside of Justice Palace in Beirut - Achrafieh (Beirut), against the State Shura Council's neglect of unfair circulars against depositors' rights.
+
+---
+
+[EVENT: LBN14908]
+Date: 2023-07-06
+Country: Lebanon | Location: Tyr
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 6 July 2023, local fishermen held a protest in Tyr (Tyr), against illegal fishing and the use of dynamites.
+
+---
+
+[EVENT: LBN33753]
+Date: 2023-07-07
+Country: Lebanon | Location: Tripoli
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 1
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 7 July 2023, a clansman shot and killed his relative which prompted armed clashes between the 2 families from the same clan at the Mankoubin street in Tripoli (Tripoli). Grenades were used during the clashes while the house of the killed was burned down.
+
+---
+
+[EVENT: LBN14907]
+Date: 2023-07-07
+Country: Lebanon | Location: Bar Elias
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 2
+Sources: Naharnet; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 7 July 2023, an armed individual opened fire towards Syrian worshippers as they were leaving the Mosque after Friday prayer in Bar Elias (Zahle), resulting in the death of an individual and 5 injuries. Military forces later arrived and shot the perpetrator critically injuring him. The perpetrator died a few days later from his wounds.
+
+---
+
+[EVENT: LBN14917]
+Date: 2023-07-07
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 7 July 2023, protesters took to the streets outside Al Amine Mosque after Friday prayers in Beirut - Port (Beirut) to demonstrate, against the Quran burning incident in Sweden. The demonstrators burned the Swedish flag and called on the boycott of Swedish products.
+
+---
+
+[EVENT: LBN14911]
+Date: 2023-07-07
+Country: Lebanon | Location: Bar Elias
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 7 July 2023, townspeople burned down the room of the Mosque shooter in Bar Elias (Zahle) over his earlier shooting.
+
+---
+
+[EVENT: LBN14927]
+Date: 2023-07-10
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+Other: On 10 July 2023, a depositor armed with a flammable liquid bottle stormed BML bank branch in Beirut (Beirut) and held its manager hostage until his trapped deposits were released. The depositor was able to obtain his savings.
+
+---
+
+[EVENT: LBN14928]
+Date: 2023-07-10
+Country: Lebanon | Location: Beirut - Ras Beirut
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 10 July 2023, around 4 protesters [presumably students] demonstrated outside the Shakib Erslan high school in Beirut - Ras Beirut (Beirut), against the official exams claiming its unfairness. Two individuals tried to block the Minister of Education's convoy.
+
+---
+
+[EVENT: LBN14922]
+Date: 2023-07-11
+Country: Lebanon | Location: Afqa
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Zaiter Clan Militia (Lebanon) [Identity militia]
+Actor2: Zaiter Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: El Nashra; LBC International [National]
+
+DESCRIPTION:
+On 11 July 2023, scuffles turned into exchanges of fire between rival Zaiter clan factions in Afqa (Jubayl), over old feuds. 1 clansman was lightly injured.
+
+---
+
+[EVENT: LBN14929]
+Date: 2023-07-11
+Country: Lebanon | Location: Beirut - Mousseitbeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 11 July 2023, owners of rented garages held a demonstration outside the Ministry of Interior at Sanayeh neighborhood in Beirut - Mousseitbeh (Beirut), against hardships due to low accomodation costs.
+
+---
+
+[EVENT: LBN14930]
+Date: 2023-07-12
+Country: Lebanon | Location: Ghaziyeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 12 July 2023, townspeople used their cars to block the main road in Ghaziyeh (Sayda), in demonstration against recurring water shortages.
+
+---
+
+[EVENT: LBN14926]
+Date: 2023-07-12
+Country: Lebanon | Location: Kfar Kila
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Al Jazeera; AP; L'Orient Le Jour [National-Regional]
+
+DESCRIPTION:
+On 12 July 2023, rioters hurled stones and firecrackers towards an Israeli security fence, smashed Israeli security cameras installed on the technical fence and started a fire at the border facing Metula near Kfar Kila (Marjayoun). The Israeli army fired in the air to disperse them. Israeli sources claimed that the riots set off mines in the area prompting the Israeli army to fire in the air to disperse them.
+
+---
+
+[EVENT: LBN14925]
+Date: 2023-07-12
+Country: Lebanon | Location: Boustane
+Type: Explosions/Remote violence > Grenade | Disorder: Political violence
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Actor2: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Al Arabiya; Al Jazeera; AP; L'Orient Le Jour; Naharnet [National-Regional]
+
+DESCRIPTION:
+On 12 July 2023, Israeli military forces presumably hurled a grenade towards three Hezbollah members who came close to the border fence near Boustane village (Tyr), lightly injuring them. Reports claimed that a grenade was hurled towards the Hezbollah members. The Israeli army issued a statement claiming the use of non-lethal weapons to disperse activists without naming Hezbollah directly. Some sources reported that the Israeli statement was released to avert escalation along the border.
+
+---
+
+[EVENT: LBN14923]
+Date: 2023-07-12
+Country: Lebanon | Location: Bab al Tabbaneh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 1
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 12 July 2023, scuffles turned into exchanges of fire between two clans in Bab al Tabbaneh (Tripoli) over unknown reasons. A bypasser was killed and an infant was injured.
+
+---
+
+[EVENT: LBN14924]
+Date: 2023-07-13
+Country: Lebanon | Location: Bebnine
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Al Masri Clan Militia (Lebanon) [Identity militia]
+Actor2: Awad Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: An-Nahar; Lebanon24 [National]
+
+DESCRIPTION:
+On 13 July 2023, armed clashes erupted between Al Masri clansmen from one side against Bou Kdal and Awad militiamen from the other side in Bebnine (Akkar), over old clan feuds. Two individuals were lightly injured.
+
+---
+
+[EVENT: LBN14931]
+Date: 2023-07-13
+Country: Lebanon | Location: Tripoli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 13 July 2023, parents of students abroad held a protest at the Banks' street in Tripoli (Tripoli) to demand the implementation of the students' dollar law.
+
+---
+
+[EVENT: LBN14932]
+Date: 2023-07-14
+Country: Lebanon | Location: Beddawi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 14 July 2023, relatives of an individual who was killed during clashes in Tripoli stood on the Beddawi highway (Al Miniyeh Al Danniyeh) to block it, in demonstration against the government's neglect of the individual's killers who haven't been arrested.
+
+---
+
+[EVENT: LBN14933]
+Date: 2023-07-15
+Country: Lebanon | Location: Chebaa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Other: On 15 July 2023, Israeli military forces hurled several smoke grenades towards journalists and an Amal MP who were strolling near the technical fence at Bustra farms near Chebaa (Hasbeiya). The MP and journalists suffocated from the smoke.
+
+---
+
+[EVENT: LBN33754]
+Date: 2023-07-16
+Country: Lebanon | Location: El Aabde
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 16 July 2023, physical clashes erupted between individuals from two different clans at a beach in El Aabde (Akkar) over old clan feuds. Shots were fired in the air during the clashes, while one of the participants was hospitalized with bruises.
+
+---
+
+[EVENT: LBN14934]
+Date: 2023-07-16
+Country: Lebanon | Location: Bent Jbeil
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 16 July 2023, physical clashes erupted between Amal supporters who are from different clans in Bent Jbeil (Bint Jbeil), over old clan feuds from the 2022 Parliamentary Elections over an Amal candidate. 3 participants were injured during the clashes.
+
+---
+
+[EVENT: LBN14935]
+Date: 2023-07-16
+Country: Lebanon | Location: Rasm el Hadeth
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Hajj Hassan Clan Militia (Lebanon) [Identity militia]
+Actor2: Shamas Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: An-Nahar; Lebanon24 [National]
+
+DESCRIPTION:
+On 16 July 2023, armed clashes erupted between Hajj Hassan and Shamas clan militias in Rasm el Hadeth (Baalbek) over old clan feuds. Several types of weapons including machine guns and rockets were used during the clashes while Shamas houses were set on fire. Casualties unknown.
+
+---
+
+[EVENT: LBN14936]
+Date: 2023-07-16
+Country: Lebanon | Location: Bqarsouna
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 16 July 2023, physical clashes erupted between relatives from the same clan in Bqarsouna (Al Miniyeh Al Danniyeh) likely over clan feuds. During the clashes one of the relatives opened fire from a hunting rifle, injuring 4 people.
+
+---
+
+[EVENT: LBN14937]
+Date: 2023-07-17
+Country: Lebanon | Location: Antelias
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: An-Nahar; Naharnet [National]
+
+DESCRIPTION:
+Other: On 17 July 2023, an depositor carrying flammable liquid stormed a bank with his son in Antelias (Al Matn), to demand the release of his trapped savings. The depositor left the bank after he was given his entire savings.
+
+---
+
+[EVENT: LBN14940]
+Date: 2023-07-18
+Country: Lebanon | Location: Tripoli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 18 July 2023, public administration employees held a demonstration outside the government serail and stood on the road facing it to block it in Tripoli (Tripoli), to demand their working rights including the correction of their salaries. A CGTL official from the north was in attendance.
+
+---
+
+[EVENT: LBN14939]
+Date: 2023-07-18
+Country: Lebanon | Location: Chhim
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Other: On 18 July 2023, a depositor armed with a grenade stormed a bank branch in Chhim (Chouf) and held its employees hostages until his trapped savings were released.
+
+---
+
+[EVENT: LBN20606]
+Date: 2023-07-18
+Country: Lebanon | Location: Beirut - Minet El Hosn
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 18 July 2023, over 100 FPM supporters including MPs held a demonstration outside the EU embassy in Beirut - Minet El Hosn (Beirut), against the EU parliament's resolution which defended the continued presence of Syrian refugees in Lebanon.
+
+---
+
+[EVENT: LBN14938]
+Date: 2023-07-18
+Country: Lebanon | Location: Bent Jbeil
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Other: On 18 July 2023, a depositor stormed a BBAC bank in Bent Jbeil (Bint Jbeil) to demand the release of his trapped savings. The depositor left after getting most of his savings.
+
+---
+
+[EVENT: LBN14941]
+Date: 2023-07-19
+Country: Lebanon | Location: Kfar Chouba
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Actor2: Military Forces of Lebanon (2021-) [State forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Other: On 19 July 2023, Israeli military forces hurled 2 smoke grenades towards an army patrol near the technical fence near Kfar Chouba (Hasbeiya).
+
+---
+
+[EVENT: LBN14945]
+Date: 2023-07-20
+Country: Lebanon | Location: Sin El Fil
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+Other: On 20 July 2023, two depositors stormed a bank in Sin El Fil (Al Matn) to demand the release of their trapped savings. Both depositors left the bank after getting their deposits.
+
+---
+
+[EVENT: LBN14943]
+Date: 2023-07-20
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 20 July 2023, workers from the Lebanon Electricity Corporation held a demonstration outside the corporation's headquarters at Corniche El Nahr in Beirut - Achrafieh (Beirut), to demand their working rights and equal rights to other public administration employees. The General Secretary of the CGTL was in attendance.
+
+---
+
+[EVENT: LBN14942]
+Date: 2023-07-20
+Country: Lebanon | Location: Kfar Chouba
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Other: On 20 July 2023, Israeli military forces hurled smoke grenades towards townspeople who came close to the technical fence near Kfar Chouba (Hasbeiya). The Lebanese army quickly deployed to the area. The municipality of Kfar Chouba had started digging works at the same location days ago.
+
+---
+
+[EVENT: LBN14944]
+Date: 2023-07-20
+Country: Lebanon | Location: Naccache
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: El Nashra; L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 20 July 2023, a verbal altercation turned into a fistfight between the founder of Tawhid Party and a journalist affiliated with the Phalanges at a political talk show in Murr TV channel in Naccache (Al Matn). The fistfight escalated into physical clashes between Tawhid supporters and bodyguards and other spectators. The clashes continued outside where the army intervened to contain them. The brawl erupted over an exchange of views on possible US sanctions against corrupt politicians and officials linked to Hezbollah.
+
+---
+
+[EVENT: LBN14955]
+Date: 2023-07-21
+Country: Lebanon | Location: Braytal
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Braytal (Baalbek) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14965]
+Date: 2023-07-21
+Country: Lebanon | Location: Taybeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Taybeh (Baalbek) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14969]
+Date: 2023-07-21
+Country: Lebanon | Location: Ali en Nahri
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Ali en Nahri (Zahle) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14975]
+Date: 2023-07-21
+Country: Lebanon | Location: Fanar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Fanar (Al Matn) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14967]
+Date: 2023-07-21
+Country: Lebanon | Location: Beirut - Mousseitbeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including student supporters and officials from Harakat Al Umma held a demonstration at the Al Daawa al Islamiyya Mosque in Beirut - Mousseitbeh (Beirut). Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14968]
+Date: 2023-07-21
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 21 July 2023, five supporters of Hezbollah held a protest outside the Swedish embassy in Beirut - Port (Beirut). Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14978]
+Date: 2023-07-21
+Country: Lebanon | Location: Jbeil
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Jbeil (Jubayl) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14977]
+Date: 2023-07-21
+Country: Lebanon | Location: Haret Hreik
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets outside al Imamayn Hasanayn Mosque and Al Sayyida Zainab complex in Haret Hreik (Baabda). Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14974]
+Date: 2023-07-21
+Country: Lebanon | Location: Et Tahouita
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets outside Al Imam Khomeini mosque in Et Tahouita (Baabda) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14973]
+Date: 2023-07-21
+Country: Lebanon | Location: Burj el Barajneh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets outside Ar Rassoul al Aazam hospital in Burj el Barajneh (Baabda) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14953]
+Date: 2023-07-21
+Country: Lebanon | Location: Baalbek
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV; An-Nahar [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets outside of mosques in Baalbek city (Baalbek) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14972]
+Date: 2023-07-21
+Country: Lebanon | Location: Al Hadath
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets at Al Kafaat street in Al Hadath (Baabda) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14985]
+Date: 2023-07-21
+Country: Lebanon | Location: Tyr
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets outside of several Mosques in Tyr city (Tyr) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14984]
+Date: 2023-07-21
+Country: Lebanon | Location: Sidon
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets outside several Mosques including, Al Quds, As Sayyida Zahraa, and Al Ghofran Mosques in Sidon (Sayda) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14979]
+Date: 2023-07-21
+Country: Lebanon | Location: Kfar Sal
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets outside Imam Ali Mosque in Kfar Sal (Jubayl) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14959]
+Date: 2023-07-21
+Country: Lebanon | Location: Hortaala
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Hortaala (Baalbek) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14956]
+Date: 2023-07-21
+Country: Lebanon | Location: Chmistar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Chmistar (Baalbek) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14958]
+Date: 2023-07-21
+Country: Lebanon | Location: Hizzine
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Hizzine (Baalbek) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14970]
+Date: 2023-07-21
+Country: Lebanon | Location: Bar Elias
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including members of Qawlouna Lil Aamal group took to the streets outside Omar Ibn Khattab Mosque in Bar Elias (Zahle) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14983]
+Date: 2023-07-21
+Country: Lebanon | Location: Marwanieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Marwanieh (Sayda) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14948]
+Date: 2023-07-21
+Country: Lebanon | Location: Kfar Kila
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including townspeople, supporters and officials from Hezbollah took to the streets in Kfar Kila (Marjayoun) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14982]
+Date: 2023-07-21
+Country: Lebanon | Location: Kfar Houneh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Kfar Houneh (Jezzine) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14957]
+Date: 2023-07-21
+Country: Lebanon | Location: El Qasr
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets after Friday prayers outside Imam Mahdi Mosque in El Qasr (Al Hermel) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14951]
+Date: 2023-07-21
+Country: Lebanon | Location: Al Hermel
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets after Friday prayers outside several Mosques including Imam Ali, Imam al Baqer, and Imam Husayn Mosques in Al Hermel (Al Hermel). Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14947]
+Date: 2023-07-21
+Country: Lebanon | Location: Jibchit
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Jibchit (Al Nabatieh) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14946]
+Date: 2023-07-21
+Country: Lebanon | Location: Houmine el Faouqa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Houmine el Faouqa (Al Nabatieh) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14952]
+Date: 2023-07-21
+Country: Lebanon | Location: Al Nabi Sheet
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Al Nabi Sheet (Baalbek) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14954]
+Date: 2023-07-21
+Country: Lebanon | Location: Bouaidah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets after Friday prayers outside the local Mosque in Bouaidah (Al Hermel) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14949]
+Date: 2023-07-21
+Country: Lebanon | Location: Marjayoun
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets outside of several Mosques in a number of towns and villages in Marjayoun district (Marjayoun) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14950]
+Date: 2023-07-21
+Country: Lebanon | Location: Nabatiye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets after Friday prayers in a number of towns and villages in Nabatiye district (Al Nabatieh) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador. Several protesters burned the Swedish flag.
+
+---
+
+[EVENT: LBN14981]
+Date: 2023-07-21
+Country: Lebanon | Location: Wardaniyeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Wardaniyeh (Chouf) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14980]
+Date: 2023-07-21
+Country: Lebanon | Location: Laylaki
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Laylaki (Baabda) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14966]
+Date: 2023-07-21
+Country: Lebanon | Location: Yahfoufa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Yahfoufa (Baalbek) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14960]
+Date: 2023-07-21
+Country: Lebanon | Location: Jenta
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Jenta (Baalbek) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14964]
+Date: 2023-07-21
+Country: Lebanon | Location: Talya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Talya (Baalbek) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14961]
+Date: 2023-07-21
+Country: Lebanon | Location: Khraibeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Khraibeh (Baalbek) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14962]
+Date: 2023-07-21
+Country: Lebanon | Location: Massa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Massa (Baalbek) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14963]
+Date: 2023-07-21
+Country: Lebanon | Location: Saraain El Faouqa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Saraain El Faouqa (Baalbek) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14971]
+Date: 2023-07-21
+Country: Lebanon | Location: Rayak
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 21 July 2023, protesters including supporters and officials from Hezbollah took to the streets in Rayak (Zahle) to demonstrate. Nationwide demonstrations called on by Hezbollah's Secretary General Hassan Nasrallah were observed after Friday prayers in and outside of mosques, against the burning of the Holy Quran in Sweden. The demonstrators demanded the severance of diplomatic ties with Sweden and the expulsion of its ambassador.
+
+---
+
+[EVENT: LBN14976]
+Date: 2023-07-21
+Country: Lebanon | Location: Hammana
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Other: On 21 July 2023, an unarmed depositor stormed a bank in Hammana (Baabda) to demand the release of his trapped deposits. The bank refused to give the depositor his money back.
+
+---
+
+[EVENT: LBN14997]
+Date: 2023-07-22
+Country: Lebanon | Location: Houmine et Tahta
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 22 July 2023, hundreds of protesters including worshippers and Hezbollah supporters held a demonstration in Houmine et Tahta (Al Nabatieh). Sporadic demonstrations called on by Hezbollah's General Secretary Hassan Nasrallah continued for the second consecutive day to denounce the burning of the Holy Quran in Sweden.
+
+---
+
+[EVENT: LBN14994]
+Date: 2023-07-22
+Country: Lebanon | Location: Arkey
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 22 July 2023, hundreds of protesters including worshippers and Hezbollah supporters held a demonstration in Arkey (Sayda). Sporadic demonstrations called on by Hezbollah's General Secretary Hassan Nasrallah continued for the second consecutive day to denounce the burning of the Holy Quran in Sweden.
+
+---
+
+[EVENT: LBN14995]
+Date: 2023-07-22
+Country: Lebanon | Location: Aazze
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 22 July 2023, hundreds of protesters including worshippers and Hezbollah supporters held a demonstration in Aazze (Al Nabatieh). Sporadic demonstrations called on by Hezbollah's General Secretary Hassan Nasrallah continued for the second consecutive day to denounce the burning of the Holy Quran in Sweden.
+
+---
+
+[EVENT: LBN14988]
+Date: 2023-07-22
+Country: Lebanon | Location: Bzal
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Othman Clan Militia (Lebanon) [Identity militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 22 July 2023, an armed individual presumed to be a Othman clansman opened random fire from his car in Bzal (Akkar), directly hitting and wounding two individuals. The attack is reported to have occurred in retaliation to the death of a Othman clansman during earlier clashes in the town.
+
+---
+
+[EVENT: LBN14996]
+Date: 2023-07-22
+Country: Lebanon | Location: Roumine
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 22 July 2023, hundreds of protesters including worshippers and Hezbollah supporters held a demonstration in Roumine (Al Nabatieh). Sporadic demonstrations called on by Hezbollah's General Secretary Hassan Nasrallah continued for the second consecutive day to denounce the burning of the Holy Quran in Sweden.
+
+---
+
+[EVENT: LBN14989]
+Date: 2023-07-22
+Country: Lebanon | Location: Tripoli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 22 July 2023, a number of protesters burned the Swedish flag during a sit-in at Abdel Hamid Karami square in Tripoli (Tripoli). The protesters denounced the repeated burning and desecration of the Holy Quran in Sweden.
+
+---
+
+[EVENT: LBN14992]
+Date: 2023-07-22
+Country: Lebanon | Location: Haret Saida
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 22 July 2023, hundreds of protesters including worshippers and Hezbollah supporters held a demonstration outside Sayyed Ash Shohada Mosque in Haret Saida (Sayda). Sporadic demonstrations called on by Hezbollah's General Secretary Hassan Nasrallah continued for the second consecutive day to denounce the burning of the Holy Quran in Sweden.
+
+---
+
+[EVENT: LBN14991]
+Date: 2023-07-22
+Country: Lebanon | Location: Ghaziyeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 22 July 2023, hundreds of protesters including worshippers and Hezbollah supporters held a demonstration outside Al Imam Mahdi Mosque in Ghaziyeh (Sayda). Sporadic demonstrations called on by Hezbollah's General Secretary Hassan Nasrallah continued for the second consecutive day to denounce the burning of the Holy Quran in Sweden.
+
+---
+
+[EVENT: LBN14993]
+Date: 2023-07-22
+Country: Lebanon | Location: Aanqoun
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 22 July 2023, hundreds of protesters including worshippers and Hezbollah supporters held a demonstration in Aanqoun (Sayda). Sporadic demonstrations called on by Hezbollah's General Secretary Hassan Nasrallah continued for the second consecutive day to denounce the burning of the Holy Quran in Sweden.
+
+---
+
+[EVENT: LBN14998]
+Date: 2023-07-22
+Country: Lebanon | Location: Zaghdraiya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 22 July 2023, hundreds of protesters including worshippers and Hezbollah supporters held a demonstration in Zaghdraiya (Sayda). Sporadic demonstrations called on by Hezbollah's General Secretary Hassan Nasrallah continued for the second consecutive day to denounce the burning of the Holy Quran in Sweden.
+
+---
+
+[EVENT: LBN14999]
+Date: 2023-07-22
+Country: Lebanon | Location: Qennarit
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 22 July 2023, hundreds of protesters including worshippers and Hezbollah supporters held a demonstration in Qennarit (Sayda). Sporadic demonstrations called on by Hezbollah's General Secretary Hassan Nasrallah continued for the second consecutive day to denounce the burning of the Holy Quran in Sweden.
+
+---
+
+[EVENT: LBN14990]
+Date: 2023-07-22
+Country: Lebanon | Location: Sidon
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV [National]
+
+DESCRIPTION:
+On 22 July 2023, hundreds of protesters including worshippers and Hezbollah supporters held a demonstration outside As Sayyida Zahraa complex in Sidon (Sayda). Sporadic demonstrations called on by Hezbollah's General Secretary Hassan Nasrallah continued for the second consecutive day to denounce the burning of the Holy Quran in Sweden.
+
+---
+
+[EVENT: LBN14987]
+Date: 2023-07-22
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 22 July 2023, a number of protesters held a demonstration outside the Swedish embassy in Beirut - Port (Beirut), against the burning of the Holy Quran in Sweden. The protesters held Bibles and Qurans.
+
+---
+
+[EVENT: LBN14986]
+Date: 2023-07-22
+Country: Lebanon | Location: El Hlaliye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 22 July 2023, townspeople used garbage to block the main road in El Hlaliye (Sayda), against the accumulation of garbage on the side of the roads in the town.
+
+---
+
+[EVENT: LBN15000]
+Date: 2023-07-24
+Country: Lebanon | Location: Jezzine
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 24 July 2023, townspeople from Kfar Hatta, Ain Qana and other surrounding villages stood on the Ain-Mir - Jezzine road near Jezzine (Jezzine) to block it, in demonstration against recurring power outages.
+
+---
+
+[EVENT: LBN15003]
+Date: 2023-07-25
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 25 July 2023, a number of nurses and health workers held a demonstration outside the Syndicate of Hospitals in Beirut - Achrafieh (Beirut) against the Syndicate of Hospitals' stance regarding the correction of salaries for health workers.
+
+---
+
+[EVENT: LBN15002]
+Date: 2023-07-25
+Country: Lebanon | Location: Ein el Hilweh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 25 July 2023, Palestinian refugee protesters held a sit-in outside the UNRWA office in Ein el Hilweh refugee camp (Sayda), to demand the adoption of a monthly stipend for Palestinian refugees amid harsh living conditions.
+
+---
+
+[EVENT: LBN15001]
+Date: 2023-07-25
+Country: Lebanon | Location: Qaraaoun
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 25 July 2023, townspeople from the West Bekaa towns held a demonstration outside the Abdel Aal hydroelectric power plant in Qaraaoun (West Bekaa), against the harsh power rationing.
+
+---
+
+[EVENT: LBN15004]
+Date: 2023-07-26
+Country: Lebanon | Location: Beirut - Mousseitbeh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 26 July 2023, armed clashes erupted between unidentified clan militias in Watah el Msaytbeh in Beirut - Mousseitbeh (Beirut) over unknown reasons. Casualties unknown.
+
+---
+
+[EVENT: LBN15006]
+Date: 2023-07-27
+Country: Lebanon | Location: Beddawi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+On 27 July 2023, townspeople stood on the Beddawi highway (Al Miniyeh Al Danniyeh), against what they described as campaigns that considered them collecting donations and exploiting the illness of children with special needs.
+
+---
+
+[EVENT: LBN15005]
+Date: 2023-07-27
+Country: Lebanon | Location: Jbaa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 27 July 2023, townspeople held a protest at the main square in Jbaa (Al Nabatieh), against the establishment of a waste dump in the town.
+
+---
+
+[EVENT: LBN15007]
+Date: 2023-07-28
+Country: Lebanon | Location: Wadi el Jamous
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 28 July 2023, physical clashes erupted between 2 rival clans in Wadi el Jamous (Akkar) over old clan feuds. Shots were fired in the air during the clashes. Several individuals were injured. The army later intervened to contain the clashes.
+
+---
+
+[EVENT: LBN15008]
+Date: 2023-07-29
+Country: Lebanon | Location: Ein el Hilweh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Fatah Movement [Political militia]
+Actor2: Al Shabab al-Muslim (Palestine) [Identity militia]
+Fatalities: 1
+Sources: Naharnet [National]
+
+DESCRIPTION:
+On 29 July 2023, armed clashes erupted between Fatah members and militiamen, presumably from Al Shabab al Muslim group, in Ein el Hilweh refugee camp (Sayda), following an assassination attempt on an Al Shabaab leader in the camp. 1 Al Shabab member was killed while 6 individuals were injured including children and an Al Shabab leader.
+
+---
+
+[EVENT: LBN15011]
+Date: 2023-07-30
+Country: Lebanon | Location: Al Wazzani
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AlManar TV; El Nashra [National]
+
+DESCRIPTION:
+On 30 July 2023, Hezbollah supporters cut the technical fence established by UNIFIL at the road between Wazzani and Al Aabassiyeh near Al Wazzani (Hasbeiya), in demonstration against the annexation of the Lebanese side of Ghajar village. The protesters crossed a road which Lebanese civilians were legally not allowed to use since 2006.
+
+---
+
+[EVENT: LBN15009]
+Date: 2023-07-30
+Country: Lebanon | Location: Ein el Hilweh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Fatah Movement [Political militia]
+Actor2: Al Shabab al-Muslim (Palestine) [Identity militia]
+Fatalities: 5
+Sources: El Nashra; France24; L'Orient Le Jour; Naharnet; National News Agency Lebanon [National-International]
+
+DESCRIPTION:
+On 30 July 2023, overnight, armed clashes renewed and intensified throughout the day between Fatah movement and militiamen from Bilal Badr militia, Al Shabab al Muslim, and Jund al-Sham in Ein el Hilweh refugee camp (Sayda) over the previous day's clashes and old feuds. A Fatah commander and four of his bodyguards were ambushed and killed, bringing the death toll to 6 fatalities and over 90 injuries in two days of fighting. The clashes occurred at the Safsaf, Tawari, and Briksat neighborhoods where the fighters are stationed and later expanded to include Jabal al Halib and Hittin neighborhoods. A Mosque in Al Tawari neighborhood caught fire after it was hit by a rocket. Stray bullets and shells hit several houses in the nearby city of Sidon, El Hlaliye, and Mieh Mieh, resulting in injuries. A Lebanese soldier was also injured by shrapnel from a mortar that fell on a nearby military barracks and another was hit by a stray bullet near the camp. These clashes occurred two months after a Fatah member was killed in the camp.
+
+---
+
+[EVENT: LBN15010]
+Date: 2023-07-30
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2021-) [State forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Movement of forces: On 30 July 2023, a large force of army commandos deployed near Ein el Hilweh refugee camp (Sayda), as a precautionary measure and to contain the ongoing intense clashes between Fatah and Al Shabab al Muslim militias.
+
+---
+
+[EVENT: LBN15017]
+Date: 2023-07-31
+Country: Lebanon | Location: Sidon
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Fatah Movement [Political militia]
+Actor2: Al Shabab al-Muslim (Palestine) [Identity militia]
+Fatalities: 0
+Sources: L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 31 July 2023, Fatah movement and Al Shabab al Muslim, Bilal Badr and Jund al Sham militias fighting in Ein el Hilweh refugee camp (Sayda), agreed to a ceasefire. The ceasefire was repeatedly broken until Thursday when relative calm prevailed. Coded to Sidon.
+
+---
+
+[EVENT: LBN15012]
+Date: 2023-07-31
+Country: Lebanon | Location: Ein el Hilweh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Fatah Movement [Political militia]
+Actor2: Al Shabab al-Muslim (Palestine) [Identity militia]
+Fatalities: 5
+Sources: Al Arabiya; Al Jazeera; BBC News; El Nashra; L'Orient Le Jour [National-Regional]
+
+DESCRIPTION:
+On 31 July 2023, armed clashes continued for the third consecutive day between Fatah members and the Palestinian Joint Security Forces against militiamen from Bilal Badr militia, Al Shabab al Muslim, and Jund al-Sham in Ein el Hilweh refugee camp (Sayda), particularly in the Safsaf, Tawari, Briksat, Jabal al Halib, and Hittin neighborhoods. 5 individuals were killed during that day, bringing the total to 11 fatalities in three days of fighting, while more than 40 individuals were injured. Two UNRWA schools were damaged during the fighting, a rocket fell at a nearby marketplace in Sidon, and a stray bullet injured a Lebanese soldier. Despite a ceasefire agreement, sporadic clashes resumed early morning, expanded, and intensified throughout the day and evening. The fighters used heavy machine guns, mortars, and RPGs.
+
+---
+
+[EVENT: LBN15016]
+Date: 2023-08-01
+Country: Lebanon | Location: Tripoli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 1 August 2023, protesters including unionists held a demonstration outside the social security office in Tripoli (Tripoli), against the dire condition of the social security sector and its lack of services to its users. The head of FENASOL in the north called for the protest and attended it.
+
+---
+
+[EVENT: LBN15055]
+Date: 2023-08-01
+Country: Lebanon | Location: Ain Ebel
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 1
+Sources: Naharnet [National]
+
+DESCRIPTION:
+Around 1 August 2023 (week of), unidentified armed men abducted and killed a former LF fighter and veteran in Ain Ebel (Bint Jbeil). LF and Kataeb officials have blamed Hezbollah for the murder.
+
+---
+
+[EVENT: LBN15013]
+Date: 2023-08-01
+Country: Lebanon | Location: Ein el Hilweh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Fatah Movement [Political militia]
+Actor2: Al Shabab al-Muslim (Palestine) [Identity militia]
+Fatalities: 0
+Sources: An-Nahar; El Nashra; L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 1 August 2023, armed clashes continued for a fourth consecutive day between Fatah members and militiamen from Bilal Badr militia, Al Shabab al Muslim, and Jund al-Sham in Ein el Hilweh refugee camp (Sayda). There were no fatalities that day. A pregnant woman was hit by a stray bullet and two other individuals were injured. Rockets fell at a Mosque in nearby Sidon city, where several families had taken refuge, and another fell on the building used by journalists in nearby Sayroub. The Palestinian Joint Security Forces repelled an offensive on the Al Briksat neighborhood. The clashes were sporadic throughout the day, then intensified and expanded later in the evening despite an agreed ceasefire.
+
+---
+
+[EVENT: LBN15015]
+Date: 2023-08-02
+Country: Lebanon | Location: Zrariyeh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: El Nashra; L'Orient Le Jour; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 2 August 2023, scuffles turned into exchanges of fire between two rival clans in Zrariyeh (Sayda), over land ownership feuds. 3 participants were injured including critical cases. The clashes occurred at midnight and renewed in the morning.
+
+---
+
+[EVENT: LBN15014]
+Date: 2023-08-02
+Country: Lebanon | Location: Ein el Hilweh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Fatah Movement [Political militia]
+Actor2: Al Shabab al-Muslim (Palestine) [Identity militia]
+Fatalities: 3
+Sources: An-Nahar; AP; El Nashra; L'Orient Le Jour; Naharnet; National News Agency Lebanon [National-International]
+
+DESCRIPTION:
+On 2 August 2023, overnight, heavy armed clashes renewed between Fatah and the Joint Palestinian Security Force against Jund al Sham and Al Shabab al Muslim militiamen in Ein el Hilweh refugee camp (Sayda). During the clashes, a rocket attack by Jund al Sham killed two and wounded 15 Fatah militiamen. The clashes began when Jund al Sham militiamen conducted a surprise offensive against Fatah positions on the Al Briksat front during the night. The fighting occurred on the Al Tawari - Briksat, Al Briksat - Safsaf, and Al Tawari - At Tahtani fronts. A number of stray bullets and rockets fell onto nearby areas, including neighborhoods in the Sidon and the Sidon governmental hospital. A Fatah commander died many days later from wounds sustained during the clashes.
+
+---
+
+[EVENT: LBN15019]
+Date: 2023-08-03
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra; L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 3 August 2023, around 10 activists held a demonstration outside of Justice Palace in Beirut - Achrafieh (Beirut) against political interference in the Beirut Port Blast case. The demonstrators demanded accountability. The activists entered the Justice Palace where they laid down posters of officials and individuals who are prosecuted in the case on the floor.
+
+---
+
+[EVENT: LBN15018]
+Date: 2023-08-03
+Country: Lebanon | Location: Ein el Hilweh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Fatah Movement [Political militia]
+Actor2: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 1
+Sources: El Nashra; L'Orient Le Jour; Lebanon24 [National]
+
+DESCRIPTION:
+On 3 August 2023, snipers presumed to be Fatah fighters shot and killed a fighter from an unidentified militia in Ein el Hilweh refugee camp (Sayda). The militiaman who was killed was involved in the fighting between Fatah and other Palestinian factions. The killing raises the total fatalities toll of the clashes to 14.
+
+---
+
+[EVENT: LBN15020]
+Date: 2023-08-04
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Akhbar al Saha; L'Orient Le Jour; Naharnet; Twitter [New media-National]
+
+DESCRIPTION:
+On 4 August 2023, hundreds of protesters including relatives of the Beirut Port Blast victims, student groups, activists, MPs and Civil defense volunteers, marched from the Civil Defense station in Karantina towards the Immigrant's statue in Beirut - Port (Beirut) to commemorate the third anniversary of the Beirut port blast. The demonstrators demanded justice, accountability and the resumption of the Beirut Port Blast case while denouncing political obstructions. Several protesters chanted against Hezbollah. During the demonstration, a scuffle broke out between some of the protesters who demanded that MPs from the LF and FPM leave the gathering.
+
+---
+
+[EVENT: LBN15021]
+Date: 2023-08-04
+Country: Lebanon | Location: Kfar Chouba
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 4 August 2023, townspeople held a demonstration close to the technical fence near Kfar Chouba (Hasbeiya), to re-affirm Lebanon's rights to these lands.
+
+---
+
+[EVENT: LBN15052]
+Date: 2023-08-06
+Country: Lebanon | Location: Derdghaya
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Al Salman Clan Militia (Lebanon) [Identity militia]
+Actor2: Al Nzal Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 6 August 2023, scuffles turned into exchanges of fire between Al Salman and Al Nzal militiamen at the entrance of Derdghaya (Tyr), over unknown reasons. Two Al Salman clansmen, who are brothers, were injured.
+
+---
+
+[EVENT: LBN15057]
+Date: 2023-08-07
+Country: Lebanon | Location: Tyr
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 7 August 2023, townspeople used burning rubber tires to block Al Masaken road in Tyr (Tyr) in demonstration against the authorities' neglect in collecting waste and garbage in the town.
+
+---
+
+[EVENT: LBN15058]
+Date: 2023-08-08
+Country: Lebanon | Location: Rachaya al Foukhar
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 8 August 2023, townspeople held a demonstration outside the station in Rachaya al Foukhar (Hasbeiya), condemning the repeated attacks on the station's facilities, the last of which was on Sunday night - Monday, when unknown persons destroyed a building and the electricity generator at the station and stole its contents, which disrupted the water pumping to the town and the agricultural sector.
+
+---
+
+[EVENT: LBN15054]
+Date: 2023-08-09
+Country: Lebanon | Location: Kahale
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Military Forces of Lebanon (2021-) [State forces]
+Fatalities: 0
+Sources: Arab News; El Nashra; National News Agency Lebanon [National-Regional]
+
+DESCRIPTION:
+On 9 August 2023, physical clashes erupted between townspeople and soldiers in the town of Kahale (Aley). Locals had blocked the road after a Hezbollah truck carrying ammunition overturned and caused armed clashes in the town. The army deployed to surround the truck and protect it from the locals to transport the ammunition elsewhere.
+
+---
+
+[EVENT: LBN15053]
+Date: 2023-08-09
+Country: Lebanon | Location: Kahale
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: Unidentified Communal Militia (Lebanon) [Identity militia]
+Fatalities: 2
+Sources: Al Arabiya; An-Nahar; Arab News; L'Orient Le Jour; Lebanese Army; Naharnet; Reuters [Other-National]
+
+DESCRIPTION:
+On 9 August 2023, armed clashes erupted between Hezbollah fighters and local militiamen in Kahale (Aley) after a Hezbollah truck carrying ammunition overturned in the town. Crowds of locals had surrounded the truck after it overturned which prompted Hezbollah fighters who were escorting the truck to open fire toward the locals to disperse them, injuring a resident while damaging surrounding buildings. The clashes ensued after the locals hurled stones towards the Hezbollah fighters and local militiamen opened fire towards them, which resulted in the death of a Hezbollah fighter and a local militiaman from the town. The army later deployed to contain the clashes and surrounded the truck.
+
+---
+
+[EVENT: LBN33177]
+Date: 2023-08-09
+Country: Lebanon | Location: Beddawi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 9 August 2023, protesters used a truck to block the highway in Beddawi (Al Miniyeh Al Danniyeh) in demonstration against a patient's inability to pay for a medical treatment.
+
+---
+
+[EVENT: LBN15056]
+Date: 2023-08-09
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 August 2023, protesters including FENASOL unionists, and dismissed workers from the C.W.S.L company responsible for the construction of the US embassy, held a demonstration outside the company headquarters in Beirut - Achrafieh (Beirut), against the non-disbursement of their salaries.
+
+---
+
+[EVENT: LBN15039]
+Date: 2023-08-12
+Country: Lebanon | Location: Batroun
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 12 August 2023, residents of Thoum held a protest outside the Mega Prefab factory in Batroun (Al Batroun), against the company's neglect of the licensing terms.
+
+---
+
+[EVENT: LBN15040]
+Date: 2023-08-12
+Country: Lebanon | Location: Ein el Hilweh
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Palestine) [Rioters]
+Fatalities: 0
+Sources: El Nashra; L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 12 August 2023, Palestinian refugees used burning rubber tires to block the road in Ein el Hilweh refugee camp (Sayda), over the recent clashes that caused damages to their homes. The demonstrators demanded compensation for the damages.
+
+---
+
+[EVENT: LBN15041]
+Date: 2023-08-12
+Country: Lebanon | Location: Baalbek
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Al Hassan Clan Militia (Lebanon) [Identity militia]
+Actor2: Al Solh Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 12 August 2023, scuffles turned into exchanges of fire between Al Hassan and Al Solh militiamen in Baalbek (Baalbek), likely over old clan feuds. 3 individuals were injured.
+
+---
+
+[EVENT: LBN15043]
+Date: 2023-08-14
+Country: Lebanon | Location: Ein el Hilweh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Palestinian Joint Security Force [Political militia]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 14 August 2023, an individual from an Islamist armed groups who participated in prior clashes against Fatah, stabbed a member of the Palestinian Joint Security Forces several times in Ein el Hilweh (Sayda), resulting in his injury.
+
+---
+
+[EVENT: LBN15042]
+Date: 2023-08-15
+Country: Lebanon | Location: Ain Qana
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 15 August 2023, townspeople presumably stood on the main road in Ain Qana (Al Nabatieh) to block it, in protest against severe power cuts.
+
+---
+
+[EVENT: LBN15044]
+Date: 2023-08-16
+Country: Lebanon | Location: Khiara
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Lebanon (2021-) [State forces]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 2
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 16 August 2023, armed clashes erupted between an army patrol and presumably clansmen in Khiara (West Bekaa). The army was headed to the area to contain a dispute when clansmen opened fire towards the patrol. 2 individuals were killed and several others were injured. The army arrested 10 perpetrators.
+
+---
+
+[EVENT: LBN15046]
+Date: 2023-08-16
+Country: Lebanon | Location: Bohssas
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 16 August 2023, residents of Abi Samra neighborhood presumably stood on the road at Palma bridge in Bohssas (Al Kura) to block it, in protest against the state's neglect of the road and the lack of signs and lighting for the highway.
+
+---
+
+[EVENT: LBN15045]
+Date: 2023-08-16
+Country: Lebanon | Location: Ain Qana
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 16 August 2023, townspeople held a protest at the main square in Ain Qana (Al Nabatieh), against severe power cuts.
+
+---
+
+[EVENT: LBN15049]
+Date: 2023-08-17
+Country: Lebanon | Location: Houch el Harime
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Lebanon (2021-) [State forces]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 2
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 17 August 2023, armed clashes erupted between the army and wanted individuals presumably clansmen during a raid in Houch el Harime (West Bekaa). 2 participants were killed while several others were injured. The army conducted the raid after the clansmen intercepted and seized a cement truck and refused to hand it over to its owners.
+
+---
+
+[EVENT: LBN15047]
+Date: 2023-08-17
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Akhbar al Saha; An-Nahar; Twitter [New media-National]
+
+DESCRIPTION:
+On 17 August 2023, a number of protesters including depositors, activists and students' unions held a protest outside of Parliament in Beirut - Port (Beirut), against the proposed Capital Control law.
+
+---
+
+[EVENT: LBN15050]
+Date: 2023-08-17
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 17 August 2023, a number of students groups from the Lebanese University held a protest outside the central administration in Beirut - Achrafieh (Beirut), against the decision to increase tuition fees.
+
+---
+
+[EVENT: LBN15048]
+Date: 2023-08-17
+Country: Lebanon | Location: Tripoli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 17 August 2023, members of the Lebanon Civil Defense held a protest outside the Union of Fihaa' municipalities in Tripoli (Tripoli), to demand the disbursement of their financial rights. The General Secretary of the FENASOL in the north attended the protest in solidarity.
+
+---
+
+[EVENT: LBN15051]
+Date: 2023-08-18
+Country: Lebanon | Location: Beirut - Mazraa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 18 August 2023, protesters including 'Al Duat' group and sheikhs held a protest outside the groups' headquarters at Tariq Jdideh in Beirut - Mazraa (Beirut), against legitimizing homosexuality.
+
+---
+
+[EVENT: LBN15023]
+Date: 2023-08-19
+Country: Lebanon | Location: Al Hermel
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 19 August 2023, armed clashes erupted presumably between unidentified clan militias in Jermash area near Al Hermel (Al Hermel), likely over old clan feuds. Casualties unknown.
+
+---
+
+[EVENT: LBN15022]
+Date: 2023-08-19
+Country: Lebanon | Location: Nahr el Bared
+Type: Explosions/Remote violence > Grenade | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 19 August 2023, unidentified armed men [presumably Palestinian based on the context] hurled a grenade towards the marketplace entrance in Nahr el Bared refugee camp (Akkar), injuring 2 individuals.
+
+---
+
+[EVENT: LBN15037]
+Date: 2023-08-19
+Country: Lebanon | Location: Sir ed Danniye
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 19 August 2023, physical clashes erupted between an unidentified clan and an Arab ethnic group in Sir ed Danniye (Al Miniyeh Al Danniyeh) over old disputes. Rioters were observed shooting in the air, while a car belonging to one of the participants was set on fire. An individual tried to ram another during the clashes but overturned his vehicle.
+
+---
+
+[EVENT: LBN15027]
+Date: 2023-08-20
+Country: Lebanon | Location: Ain Ebel
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 20 August 2023, protesters including townspeople and relatives of a murdered LF official held a protest in the town of Ain Ebel (Bint Jbeil), to demand that the state reveal the truth about the official's murder, and to impose the most severe penalties on the perpetrators. The Al-Hasrouni family also called on UNIFIL to protect civilians in accordance with UNSC Resolution 1701.
+
+---
+
+[EVENT: LBN15038]
+Date: 2023-08-20
+Country: Lebanon | Location: Al Wazzani
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: UNIFIL: United Nations Interim Force in Lebanon (1978-) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 20 August 2023, physical clashes erupted between rioters and UNIFIL soldiers at the Al Wazzani junction (Hasbeiya), over unknown reasons.
+
+---
+
+[EVENT: LBN15028]
+Date: 2023-08-21
+Country: Lebanon | Location: Tripoli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 21 August 2023, protesters including parents' committees and a FENASOL unionist, held a sit-in outside the Education administration in Tripoli (Tripoli), to protest against the authorities' decision to increase tuition fees of private and public schools.
+
+---
+
+[EVENT: LBN15026]
+Date: 2023-08-22
+Country: Lebanon | Location: El Aabde
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 22 August 2023, a number of protesters including townspeople and environmental activists, held a sit-in outside the police station in El Aabde (Akkar), in support of a Sheikh who is also a lumberjack, who was questioned by police for obstructing the work of tree cutters in a nearby town.
+
+---
+
+[EVENT: LBN15024]
+Date: 2023-08-22
+Country: Lebanon | Location: Ein el Hilweh
+Type: Explosions/Remote violence > Grenade | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: AlManar TV; L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 22 August 2023, unidentified armed men hurled a hand grenade near an UNRWA school at Al Fawqani street in Ein el Hilweh refugee camp (Sayda). There were no casualties. Fatah Movement and Jund el Sham blamed each other for the breach of the cease fire agreement.
+
+---
+
+[EVENT: LBN15025]
+Date: 2023-08-23
+Country: Lebanon | Location: Beirut - Rmeil
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: L'Orient Le Jour; Naharnet [National]
+
+DESCRIPTION:
+On 23 August 2023, members of Junud ar Rab group attacked and vandalized a pub at Mar Mikhael street in Beirut - Rmeil (Beirut), over the presence of LGBTQ+ individuals. Civilians locked themselves in the pub before later being safely escorted outside by security forces. Others who tried to escape were beat up by the group, resulting in several injuries.
+
+---
+
+[EVENT: LBN15034]
+Date: 2023-08-23
+Country: Lebanon | Location: Al Fawwar
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 23 August 2023, demonstrators used burning rubber tires to block the Tripoli - Danniyeh road with burning rubber tires at Al Fawwar junction (Zgharta), in demonstration against the arrest of an individual from the town.
+
+---
+
+[EVENT: LBN15029]
+Date: 2023-08-23
+Country: Lebanon | Location: Anfeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 23 August 2023, protesters likely stood on the highway in Anfeh (al Kura) to block it, in protest against the death of an individual in a mysterious way. The protesters demanded that authorities discover the causes of the person's death.
+
+---
+
+[EVENT: LBN15031]
+Date: 2023-08-24
+Country: Lebanon | Location: El Qaa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 24 August 2023, protesters including farmers, local factions and Makhatir (local administrators) stood on the Homs highway in El Qaa (Baalbek), to block it, in demonstration against the smuggling of Syrian agricultural products to Lebanon.
+
+---
+
+[EVENT: LBN15030]
+Date: 2023-08-24
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 24 August 2023, protesters including Ukrainians and supporters of Ukraine held a protest at Martyrs' Square in Beirut - Port (Beirut), to commemorate the 32nd anniversary of Ukraine's independence and against Russia's invasion of Ukraine.
+
+---
+
+[EVENT: LBN15033]
+Date: 2023-08-24
+Country: Lebanon | Location: Kfour
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 24 August 2023, townspeople from Toul and Kfour villages stormed a tire-burning factory in Kfour (Al Nabatieh), in demonstration against these factories that causes environmental and health disasters to the residents of the village and neighboring towns due to the thick black smoke stemming from burning tires. The demonstrators stormed one of the factories where they clashed with the workers using clubs, and forced them to leave.
+
+---
+
+[EVENT: LBN15035]
+Date: 2023-08-25
+Country: Lebanon | Location: Miniyeh
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 25 August 2023, demonstrators used burning rubber tires to block the road near Abu Shaker restaurant in Miniyeh (Al Miniyeh Al Danniyeh), in demonstration against the arrest of an individual from the town.
+
+---
+
+[EVENT: LBN15036]
+Date: 2023-08-25
+Country: Lebanon | Location: Beirut - Mazraa
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 25 August 2023, demonstrators used burning rubber tires to block the Qasqas road in Beirut - Mazraa (Beirut), in demonstration against the shooting of a supporter of an unspecified political party.
+
+---
+
+[EVENT: LBN15032]
+Date: 2023-08-25
+Country: Lebanon | Location: Beirut - Ras Beirut
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 25 August 2023, protesters including representatives of Palestinian and Lebanese factions, and the Khiam Rehabilitation Center held a protest outside the ICRC headquarters in Beirut - Ras Beirut (Beirut), in support of Palestinian prisoners in Israeli prisons.
+
+---
+
+[EVENT: LBN15068]
+Date: 2023-08-26
+Country: Lebanon | Location: Aarida
+Type: Explosions/Remote violence > Remote explosive/landmine/IED | Disorder: Political violence
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 26 August 2023, a Lebanese farmer was severely injured due to the explosion of a landmine in An Nahr al Kabir near Aarida (Akkar). The farmer was hospitalized.
+
+---
+
+[EVENT: LBN15062]
+Date: 2023-08-27
+Country: Lebanon | Location: El Faaour
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2021-) [State forces]
+Actor2: Al Hajj Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: El Nashra; National News Agency Lebanon [National]
+
+DESCRIPTION:
+Weapons seizure: On 27 August 2023, Lebanese military force found and seized military grade weapons and a large quantity of ammunition during a house raid in El Faaour (Zahle, Bekaa), targeting individuals that were involved in an armed clash, including Al Hajj Clan members. 4 were arrested during the operation.
+
+---
+
+[EVENT: LBN33755]
+Date: 2023-08-27
+Country: Lebanon | Location: Naameh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 27 August 2023, scuffles turned into exchanges of fire between Al Naim and Al Nini clans in Naameh (Chouf, Mount Lebanon) for unknown reasons. One individual was injured by two bullets in the leg.
+
+---
+
+[EVENT: LBN15059]
+Date: 2023-08-27
+Country: Lebanon | Location: El Faaour
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Al Hajj Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: El Nashra; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 27 August 2023, scuffles turned into exchanges of fire between Al Hajj and Marhaj clans in El Faaour (Zahle, Bekaa) for unknown reasons. The clans used automatic weapons, bombs, and RPG launchers. Casualties unknown.
+
+---
+
+[EVENT: LBN33178]
+Date: 2023-08-28
+Country: Lebanon | Location: Abi Samra
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2021-) [State forces]
+Actor2: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+Defusal: On 28 August 2023, Lebanese military intelligence safely removed two hand grenades, planted by an unidentified group, found in front an apartment in the Al Lathki and Hammoud building in Abi Samra (Tripoli, North).
+
+---
+
+[EVENT: LBN15064]
+Date: 2023-08-28
+Country: Lebanon | Location: Jiyeh
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: An-Nahar; El Nashra; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 28 August 2023, unidentified assailants broke into the St George church in Jiyeh (Chouf, Mount Lebanon) and destroyed icons. The assailants also attempted to steal the vow money box.
+
+---
+
+[EVENT: LBN15067]
+Date: 2023-08-29
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Megaphone News [New media]
+
+DESCRIPTION:
+On 29 August 2023, a protest was held in front of the Justice Palace in Beirut - Achrafieh (Beirut) demanding the release of a Lebanese comedian held by the authorities.
+
+---
+
+[EVENT: LBN15079]
+Date: 2023-08-29
+Country: Lebanon | Location: Ain Aar
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: Anadolu Agency; L'Orient Le Jour [National-Regional]
+
+DESCRIPTION:
+On 29 August 2023, a group of about 50 Lebanese-Armenian demonstrators hurled projectiles towards the Azerbaijan embassy during a demonstration in Ain Aar (Al Matn) against Azerbaijan's closing of the Lachine corridor.
+
+---
+
+[EVENT: LBN33179]
+Date: 2023-08-30
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2021-) [State forces]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+Security measures: On 30 August 2023, Lebanese forces enforced intensive security measures in Al Janah area near the NBN headquarters in Beirut (Beirut) due to a ceremony held by the Amal movement to commemorate the absence of the Imam Mousa Sadr.
+
+---
+
+[EVENT: LBN15063]
+Date: 2023-08-30
+Country: Lebanon | Location: Ein el Hilweh
+Type: Explosions/Remote violence > Grenade | Disorder: Political violence
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: AlManar TV; El Nashra; Murr TV [National]
+
+DESCRIPTION:
+On 30 August 2023, an unidentified group threw 2 firecrackers and 2 grenades at civilian homes in Hayy Bustan al Quds in Ein el Hilweh (Sayda, South). No casualties reported.
+
+---
+
+[EVENT: LBN15060]
+Date: 2023-08-31
+Country: Lebanon | Location: El Faaour
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 31 August 2023, a member of an unidentified Lebanese clan fired an RPG missile at a Lebanese civilian's home in El Faaour (Zahle, Bekaa). Casualties unknown.
+
+---
+
+[EVENT: LBN15061]
+Date: 2023-08-31
+Country: Lebanon | Location: Sidon
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: UN: United Nations [External/Other forces]
+Fatalities: 0
+Sources: Arab News; Jordan News Agency [Regional]
+
+DESCRIPTION:
+Change to armed group: On 31 August 2023, the UN Security Council voted to extend the mandate of the UNIFIL in Southern Lebanon for another year. Coded to Sidon (Sayda, South) with GP3.
+
+---
+
+[EVENT: LBN33180]
+Date: 2023-08-31
+Country: Lebanon | Location: Ein el Hilweh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Jund al-Sham (Lebanon) [Identity militia]
+Actor2: Fatah Movement [Political militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 31 August 2023, Jund al-Sham militants opened fire at Fatah militants from al Tawari and Al Taameer at Tahatani areas in Ein el Hilweh (Sayda, South). Fatah militants did not fire back. Casualties unknown.
+
+---
+
+[EVENT: LBN15066]
+Date: 2023-09-01
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Megaphone News; Murr TV [New media-National]
+
+DESCRIPTION:
+Strikes: On 1 September 2023, a group of 111 judges announced their cessation of work due to the Lebanese government's inabilities to cover their and their families' hospital, medical, and educational expenses, as well as due to the bad working conditions in Lebanese courts and the bad state of the judicial system has reached. Coded as Beirut with GP3.
+
+---
+
+[EVENT: LBN15065]
+Date: 2023-09-01
+Country: Lebanon | Location: Damour
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra; Murr TV; National News Agency Lebanon [National]
+
+DESCRIPTION:
+Other: On 1 September 2023, an Israeli reconnaissance plane entered Lebanese airspace from over the sea near Damour (Chouf, Mount Lebanon) and performed a circular flight over Damour, Naameh, Beirut, Baabda, and Aliyeh and then left amid hightened tensions between the two countries.
+
+---
+
+[EVENT: LBN33181]
+Date: 2023-09-01
+Country: Lebanon | Location: Ein el Hilweh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 1 September 2023, Lebanese protesters blocked the Darb as Sim road in Ein el Hilweh (Sayda, South) demanding reparations due to damages they sustained from recent armed clashes in the refugee camp.
+
+---
+
+[EVENT: LBN15072]
+Date: 2023-09-02
+Country: Lebanon | Location: Ein el Hilweh
+Type: Explosions/Remote violence > Grenade | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+On 2 September 2023, unidentified armed men hurled two grenades in the Taware' neighborhood between two schools in Ein el Hilweh refugee camp (Sayda). There were no casualties.
+
+---
+
+[EVENT: LBN15074]
+Date: 2023-09-03
+Country: Lebanon | Location: Sidon
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 3 September 2023, local religious and civilian factions held a protest at Martyrs' square in Sidon (Sayda), against the 'normalization of homosexuality'.
+
+---
+
+[EVENT: LBN15076]
+Date: 2023-09-04
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: L'Orient Le Jour; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 4 September 2023, relatives of the Beirut Port Blast victims, held their two monthly separate rallies near the emigrant statue and outside the gate of the Port in Beirut - Port (Beirut). Both groups demanded the resumption of the Beirut Port Blast case. The second group gathered outside the Port entrance is opposed to judge Tarek Bitar.
+
+---
+
+[EVENT: LBN33756]
+Date: 2023-09-04
+Country: Lebanon | Location: Qarqaf
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 4 September 2023, physical clashes erupted between Al Rifaai and unidentified clansmen in Qarqaf (Akkar). The clashes erupted after Al Rifai clansmen beat up an individual called 'Az Zaim'. Relatives of Az Zaim retaliated by beating up a Rifai clansmen and shooting in the air. Rioters also opened fire towards a house owned by Az Zaim and burned a plantation.
+
+---
+
+[EVENT: LBN15075]
+Date: 2023-09-06
+Country: Lebanon | Location: Halba
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 6 September 2023, residents of Qlayaat village held a protest outside the government serail in Halba (Akkar), to demand the release of townspeople including the Qlayaat municipality president over a real estate lawsuit filed against them.
+
+---
+
+[EVENT: LBN15069]
+Date: 2023-09-07
+Country: Lebanon | Location: Beirut - Ras Beirut
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 7 September 2023, protesters from the Depositors Outcry group held a demonstration outside the Central Bank and stood on the road to block it in Beirut - Ras Beirut (Beirut), in demonstration against the Central Bank's policies against depositors and their savings.
+
+---
+
+[EVENT: LBN15073]
+Date: 2023-09-07
+Country: Lebanon | Location: Ein el Hilweh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Fatah Movement [Political militia]
+Actor2: Jund al-Sham (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: An-Nahar; El Nashra; L'Orient Le Jour; Naharnet [National]
+
+DESCRIPTION:
+On 7 September 2023, armed clashes erupted between Fatah and the Palestinian Joint Security Forces, against Jund al Sham and Al Shabab al Muslim fighters in Ein el Hilweh refugee camp (Sayda). The participants used automatic rifles, heavy machineguns, grenades and rockets during the clashes. The clashes erupted over the unwillingness of the militias to hand over the killers of a Fatah commander who was murdered in an ambush over a month ago. The fighting occurred at the Taware', Briksat, Tahtani and Bustan al Qods fronts. At least 10 people were injured while more than 200 camp residents fled or took refuge inside a nearby Mosque. A rocket fell at the Villat neighborhood in Sidon. The fighting resumed following a truce on August 3 between the rival Palestinian groups. Fatah and the Joint Palestinian Security Forces announced that they have repelled an offensive conducted by their rivals.
+
+---
+
+[EVENT: LBN15070]
+Date: 2023-09-07
+Country: Lebanon | Location: Nahr el Bared
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 7 September 2023, protesters including Palestinian refugees and factions held a protest at the Yasser Arafat square in Nahr el Bared refugee camp (Akkar), in support of Palestinian prisoners in Israeli prisons and against Israel's policies towards prisoners.
+
+---
+
+[EVENT: LBN15071]
+Date: 2023-09-07
+Country: Lebanon | Location: Al Bass
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 7 September 2023, protesters including members of Khamis al Asra 253, Palestinian refugees, officials from the PLO. SSNP and other Lebanese and Palestinian factions held a protest at the entrance of Al Bass refugee camp (Tyr), in support of the Palestinian prisoners in Israeli prisons.
+
+---
+
+[EVENT: LBN15077]
+Date: 2023-09-08
+Country: Lebanon | Location: Ein el Hilweh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Fatah Movement [Political militia]
+Actor2: Jund al-Sham (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Al Jazeera; El Nashra; Naharnet; National News Agency Lebanon [National-Regional]
+
+DESCRIPTION:
+On 8 September 2023, armed clashes continued for a second consecutive day between Fatah and the Joint Palestinian Security Forces against Jund al Sham and Al Shabab al Muslim militias in Ein el Hilweh refugee camp (Sayda). The clashes erupted over the unwillingness of the militias to hand over the killers of a Fatah commander who was murdered in an ambush over a month ago. At least 20 individuals were injured during the fighting including a General Security officer, a Fatah militiaman, 3 Civil Defense volunteers, and women and children. The fighting went on throughout the day and involved the use of heavy machineguns, rockets and mortars. The clashes occurred at the Briksat, Taware', Bustan al Qods, Hittin and Jabal al Halib fronts. Rockets and stray bullets fell over the Sidon serail, Villat neighborhood, the military club, Sayroub neighborhood, and Mieh w Mieh town. Despite a ceasefire that was agreed during the day, sporadic clashes were still observed and the fighting resumed in the evening.
+
+---
+
+[EVENT: LBN15078]
+Date: 2023-09-08
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Fatah Movement [Political militia]
+Actor2: Jund al-Sham (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 8 September 2023, Fatah movement, the Joint Palestinian Security Forces, Jund al Sham and Al Shabab al Muslim, agreed to ceasefire in Ein el Hilweh refugee camp (Sayda). The fighting stopped but later resumed in the evening.
+
+---
+
+[EVENT: LBN15100]
+Date: 2023-09-09
+Country: Lebanon | Location: Aley
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 September 2023, protesters including Lebanese Forces supporters, MPs, current and former officials held a sit-in in Aley (Aley), to commemorate the 40th day since the murder of a former LF official, to demand accountability and justice, and to condemn his killing.
+
+---
+
+[EVENT: LBN15091]
+Date: 2023-09-09
+Country: Lebanon | Location: Baabda
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 September 2023, protesters including Lebanese Forces supporters, MPs, current and former officials held a sit-in in Baabda (Baabda), to commemorate the 40th day since the murder of a former LF official, to demand accountability and justice, and to condemn his killing.
+
+---
+
+[EVENT: LBN15097]
+Date: 2023-09-09
+Country: Lebanon | Location: Ez Zahrani
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 September 2023, protesters including Lebanese Forces supporters, MPs, current and former officials held a sit-in in Ez Zahrani (Sayda), to commemorate the 40th day since the murder of a former LF official, to demand accountability and justice, and to condemn his killing.
+
+---
+
+[EVENT: LBN15096]
+Date: 2023-09-09
+Country: Lebanon | Location: Zahle
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 September 2023, protesters including Lebanese Forces supporters, MPs, current and former officials held a sit-in in Zahle (Zahle), to commemorate the 40th day since the murder of a former LF official, to demand accountability and justice, and to condemn his killing.
+
+---
+
+[EVENT: LBN15090]
+Date: 2023-09-09
+Country: Lebanon | Location: Jdaidet
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 September 2023, protesters including Lebanese Forces supporters, MPs, current and former officials held a sit-in in Al Matn district, to commemorate the 40th day since the murder of a former LF official, to demand accountability and justice, and to condemn his killing. Coded to Jdaidet.
+
+---
+
+[EVENT: LBN15080]
+Date: 2023-09-09
+Country: Lebanon | Location: Ein el Hilweh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Fatah Movement [Political militia]
+Actor2: Jund al-Sham (Lebanon) [Identity militia]
+Fatalities: 4
+Sources: El Nashra; L'Orient Le Jour; Lebanon24; Naharnet; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 September 2023, armed clashes continued for a third consecutive day between Fatah and the Palestinian Joint Security Force against Jund al Sham and Al Shabab al Muslim militias in Ein el Hilweh refugee camp (Sayda). 4 were killed, including 2 Fatah fighters, 1 Al Shabab al Muslim gunman, and 1 civilian in the village of Ghazieh next to the camp who was killed by a by a stray bullet from the fighting. At least 15 individuals were injured, including individuals who were hit by stray bullets and rockets in surrounding areas. After relative calm in the night, the fighting broke out following an offensive by the militants against Fatah positions at the Hittin front. The fighting later intensified and expanded to include Taware', Briksat, Safsaf, Hittin - Jabal al Halib, Tayri, Ras el Ahmar and Al Fawqani areas within the camp. Fatah militiamen ceded some ground at the Hittin front after an offensive was conducted by the opposing militias. The clashes included the use of heavy machineguns, rockets, grenades, mortars and snipers. Shells and stray bullets fell over Sidon and Ghazieh. Another ceasefire agreement was agreed later in the evening but was not respected as the fighting continued.
+
+---
+
+[EVENT: LBN15088]
+Date: 2023-09-09
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Fatah Movement [Political militia]
+Actor2: Jund al-Sham (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 9 September 2023, Fatah movement, the Joint Palestinian Security Forces, Jund al Sham and Al Shabab al Muslim, agreed to ceasefire in Ein el Hilweh refugee camp (Sayda). The ceasefire was not respected and the clashes continued.
+
+---
+
+[EVENT: LBN15094]
+Date: 2023-09-09
+Country: Lebanon | Location: Jbeil
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 September 2023, protesters including Lebanese Forces supporters, MPs, current and former officials held a sit-in in Jbeil (Jubayl), to commemorate the 40th day since the murder of a former LF official, to demand accountability and justice, and to condemn his killing.
+
+---
+
+[EVENT: LBN15093]
+Date: 2023-09-09
+Country: Lebanon | Location: Beirut
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 September 2023, protesters including Lebanese Forces supporters, MPs, current and former officials held a sit-in in Beirut (Beirut), to commemorate the 40th day since the murder of a former LF official, to demand accountability and justice, and to condemn his killing.
+
+---
+
+[EVENT: LBN15099]
+Date: 2023-09-09
+Country: Lebanon | Location: Tripoli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 September 2023, protesters including Lebanese Forces supporters, MPs, current and former officials held a sit-in in Tripoli (Tripoli), to commemorate the 40th day since the murder of a former LF official, to demand accountability and justice, and to condemn his killing.
+
+---
+
+[EVENT: LBN15102]
+Date: 2023-09-09
+Country: Lebanon | Location: Jounieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 September 2023, protesters including Lebanese Forces supporters, MPs, current and former officials held a sit-in Keserwan district, to commemorate the 40th day since the murder of a former LF official, to demand accountability and justice, and to condemn his killing. Coded to Jounieh.
+
+---
+
+[EVENT: LBN15095]
+Date: 2023-09-09
+Country: Lebanon | Location: Jezzine
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 September 2023, protesters including Lebanese Forces supporters, MPs, current and former officials held a sit-in in Jezzine (Jezzine), to commemorate the 40th day since the murder of a former LF official, to demand accountability and justice, and to condemn his killing.
+
+---
+
+[EVENT: LBN15103]
+Date: 2023-09-09
+Country: Lebanon | Location: Hasbaya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 September 2023, protesters including Lebanese Forces supporters, MPs, current and former officials held a sit-in in Marjayoun-Hasbeiya governorate, to commemorate the 40th day since the murder of a former LF official, to demand accountability and justice, and to condemn his killing. Coded to Hasbaya.
+
+---
+
+[EVENT: LBN15101]
+Date: 2023-09-09
+Country: Lebanon | Location: Halba
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 September 2023, protesters including Lebanese Forces supporters, MPs, current and former officials held a sit-in Akkar governorate, to commemorate the 40th day since the murder of a former LF official, to demand accountability and justice, and to condemn his killing. Coded to Halba.
+
+---
+
+[EVENT: LBN15089]
+Date: 2023-09-09
+Country: Lebanon | Location: Rashayya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 September 2023, protesters including Lebanese Forces supporters, MPs, current and former officials held a sit-in in East Bekaa governorate, to commemorate the 40th day since the murder of a former LF official, to demand accountability and justice, and to condemn his killing. Coded to Rashayya.
+
+---
+
+[EVENT: LBN15105]
+Date: 2023-09-09
+Country: Lebanon | Location: Sidon
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: L'Orient Le Jour; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 September 2023, bombshells from armed clashes between Palestinian factions in Ein El Hilweh camp landed in Sidon (Sayda, South), a bombshell landed on a ceramic factory in the Arab roundabout in Saida, destroying some of its equipment. Stray bullets wounded an employee at the Osseiran Hospital in Saida, and a second person near the waste factory in the city was also injured.
+
+---
+
+[EVENT: LBN15098]
+Date: 2023-09-09
+Country: Lebanon | Location: Tyr
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 September 2023, protesters including Lebanese Forces supporters, MPs, current and former officials held a sit-in in Tyr (Tyr), to commemorate the 40th day since the murder of a former LF official, to demand accountability and justice, and to condemn his killing.
+
+---
+
+[EVENT: LBN15092]
+Date: 2023-09-09
+Country: Lebanon | Location: Ain Ebel
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 9 September 2023, protesters including Lebanese Forces supporters, MPs, current and former officials held a sit-in in Ain Ebel (Bint Jbeil), to commemorate the 40th day since the murder of a former LF official, to demand accountability and justice, and to condemn his killing.
+
+---
+
+[EVENT: LBN15081]
+Date: 2023-09-10
+Country: Lebanon | Location: Ein el Hilweh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Fatah Movement [Political militia]
+Actor2: Jund al-Sham (Lebanon) [Identity militia]
+Fatalities: 4
+Sources: An-Nahar; AP; El Nashra; National News Agency Lebanon [National-International]
+
+DESCRIPTION:
+On 10 September 2023, armed clashes continued for a fourth consecutive day between Fatah and the Palestinian Joint Security Force against Jund al Sham and Al Shabab al Muslim militias in Ein el Hilweh refugee camp (Sayda). 4 individuals were killed that day while at least 52 people were injured, bringing the total to 8 fatalities since the start of the clashes. Fatah conducted an offensive against the militants from the Briksat towards Taware' - Ras el Ahmar fronts where the militants are based and are occupying UNRWA schools. The offensive was also conducted to relieve pressure from the Hittin front where Fatah had to cede ground to the militants a day earlier. The fighting sides used rockets, grenades, snipers and heavy machineguns during the clashes. Stray bullets and shells hit multiple surrounding areas including the Sidon highway and the city, and the house of a Hamas leader, while a rocket fell at an army checkpoint injuring 5 soldiers including one who's in critical condition. Following the incident the army retaliated by opening fire towards the militants.
+
+---
+
+[EVENT: LBN15084]
+Date: 2023-09-11
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Fatah Movement [Political militia]
+Actor2: Jund al-Sham (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 11 September 2023, Fatah movement, the Joint Palestinian Security Forces, Jund al Sham and Al Shabab al Muslim, agreed to ceasefire in Ein el Hilweh refugee camp (Sayda). The ceasefire agreement was sponsored by the Lebanese General Security. The fighting stopped during the evening but sporadic clashes were later reported.
+
+---
+
+[EVENT: LBN15083]
+Date: 2023-09-11
+Country: Lebanon | Location: Ein el Hilweh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Fatah Movement [Political militia]
+Actor2: Jund al-Sham (Lebanon) [Identity militia]
+Fatalities: 3
+Sources: El Nashra; L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 11 September 2023, armed clashes continued for a fifth consecutive day between Fatah and the Palestinian Joint Security Force against Jund al Sham and Al Shabab al Muslim militias in Ein el Hilweh refugee camp (Sayda) despite a number of ceasefires being agreed between the fighting sides. 3 Fatah fighters were killed that day during an offensive at the Hattin front, raising the toll to 11 fatalities in the 5 days of fighting, while more than 100 individuals were injured including a woman who was hit by shrapnel from a stray rocket that fell in nearby Sidon. One of the suspects involved in the Fatah commander's assassination was critically injured and transported to a nearby Hospital in Sidon where the Lebanese army is keeping him under surveillance. The clashes intensified throughout the day in several fronts including Al Briksat, Safsaf, Ras el Ahmar, Hattin and Jabal al Halib. The fighting sides used heavy machineguns, RPGs, mortars and snipers during the clashes.
+
+---
+
+[EVENT: LBN33757]
+Date: 2023-09-12
+Country: Lebanon | Location: Bqarsouna
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 12 September 2023, at dawn, rival unidentified clan militias exchanged fire in Bqarsouna (Al Miniyeh Al Danniyeh) likely over old clan feuds. Casualties unknown.
+
+---
+
+[EVENT: LBN15085]
+Date: 2023-09-12
+Country: Lebanon | Location: Ein el Hilweh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Fatah Movement [Political militia]
+Actor2: Jund al-Sham (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: An-Nahar; El Nashra; L'Orient Le Jour; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 12 September 2023, armed clashes continued for a sixth consecutive day between Fatah and the Palestinian Joint Security Force against Jund al Sham and Al Shabab al Muslim militias in Ein el Hilweh refugee camp (Sayda) despite another ceasefire that was agreed yesterday. 8 ceasefire breaches were recorded early in the day while the fighting intensified throughout the evening and night. A number of individuals were injured including people who were hit by stray bullets. The fighting occurred at the Hattin, Briksat, Ras el Ahmar, Taware' and Safsaf fronts where militants on both sides used heavy machineguns, RPGs and grenades.
+
+---
+
+[EVENT: LBN15082]
+Date: 2023-09-13
+Country: Lebanon | Location: Ein el Hilweh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Fatah Movement [Political militia]
+Actor2: Jund al-Sham (Lebanon) [Identity militia]
+Fatalities: 7
+Sources: El Nashra; L'Orient Le Jour; National News Agency Lebanon; UNRWA [Other-National]
+
+DESCRIPTION:
+On 13 September 2023, armed clashes continued for a seventh consecutive day between Fatah and the Palestinian Joint Security Force against Jund al Sham and Al Shabab al Muslim militias in Ein el Hilweh refugee camp (Sayda). 7 armed individuals were killed, including at least 2 Fatah fighters killed during an assault against their rivals positions in Hattin neighborhood, and Al Shabab al Muslim militiamen. A mumber of individuals were also injured ,including 2 PIJ officials and 2 paramedics after their vehicle was targeted by bullets, as well as civilians, both Lebanese and Palestinians. At least 18 individuals were killed while more than 140 were injured during the fighting that erupted since last week. The clashes occurred at the Hattin, Briksat, Ras el Ahmar, Jabal al Halib, Taamir, and Taware' fronts where militants on both sides used heavy machineguns, RPGs, snipers and grenades. Stray bullets hit the seaside road in Sidon while a rocket exploded in the air over Ghazieh.
+
+---
+
+[EVENT: LBN15087]
+Date: 2023-09-14
+Country: Lebanon | Location: Ein el Hilweh
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Fatah Movement [Political militia]
+Actor2: Jund al-Sham (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: El Nashra; L'Orient Le Jour; National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 14 September 2023, sporadic armed clashes were observed throughout the day between Fatah and the Palestinian Joint Security Force against Jund al Sham and Al Shabab al Muslim militias in Ein el Hilweh refugee camp (Sayda). There were no casualties. The fighting intensity decreased after a ceasefire was agreed to come into affect at 6 PM. Minor breaches were observed at the Hattine front where fighters exchanged rocket fire.
+
+---
+
+[EVENT: LBN15086]
+Date: 2023-09-14
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Fatah Movement [Political militia]
+Actor2: Jund al-Sham (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 14 September 2023, Fatah movement, the Joint Palestinian Security Forces, Jund al Sham and Al Shabab al Muslim, agreed to ceasefire in Ein el Hilweh refugee camp (Sayda) following meetings with the Lebanese Speaker of Parliament. The fighting stopped at 6 PM and only minor breaches were reported.
+
+---
+
+[EVENT: LBN15104]
+Date: 2023-09-14
+Country: Lebanon | Location: Barja
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 14 September 2023, townspeople held a protest outside the Directorate of Civil Status in Barja (Chouf), in support of the local 'Mukhtar' who was mistreated by an employee.
+
+---
+
+[EVENT: LBN15107]
+Date: 2023-09-16
+Country: Lebanon | Location: Nabatiye
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 16 September 2023, residents of Al Jamiat neighborhood stood on the Nabatieh - Kfar Roummane road in Nabatiye (Al Nabatieh) to block it, in protest against the piling up of garbage on both sides of the main road.
+
+---
+
+[EVENT: LBN15106]
+Date: 2023-09-18
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra; L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 18 September 2023, dozens of public school teachers held a protest outside of Parliament in Beirut - Port (Beirut) to demand better working and financial conditions. An MP joined the protesters and took a list of their demands
+
+---
+
+[EVENT: LBN15108]
+Date: 2023-09-19
+Country: Lebanon | Location: Beirut - Mousseitbeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 19 September 2023, unionists including a FENASOL delegation held a protest outside the main office of Social Security in Beirut - Mousseitbeh (Beirut) against the decision to extend the deadlines for clearances until the end of the year.
+
+---
+
+[EVENT: LBN15111]
+Date: 2023-09-19
+Country: Lebanon | Location: Beirut - Mazraa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Other: On 19 September 2023, a depositor stormed a bank with his wife in Corniche el Mazraa in Beirut - Mazraa (Beirut), to demand the release of their trapped savings.
+
+---
+
+[EVENT: LBN33758]
+Date: 2023-09-19
+Country: Lebanon | Location: Tripoli
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Actor2: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 19 September 2023, physical clashes turned later into armed clashes, presumably between rival clansmen, at Az Zahiriye neighborhood in Tripoli (Tripoli) over old feuds. A civilian was injured by mistake. The army later conducted raids and arrested 2 suspects.
+
+---
+
+[EVENT: LBN15110]
+Date: 2023-09-21
+Country: Lebanon | Location: Haouch El Oumaraa
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Murr TV [National]
+
+DESCRIPTION:
+On 21 September 2023, unidentified armed men opened fire from a vehicle towards the Lebanese Forces headquarters in Haouch El Oumaraa (Zahle) over unknown reasons. There were no casualties.
+
+---
+
+[EVENT: LBN15109]
+Date: 2023-09-22
+Country: Lebanon | Location: Khaldah
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 22 September 2023, a number of demonstrators, likely Arab Khaldah clansmen, used burning rubber tires to block the highway in Khaldah (Aley) in demonstration against the continued arrest of suspects involved in the Khaldah clashes in 2021.
+
+---
+
+[EVENT: LBN15128]
+Date: 2023-09-23
+Country: Lebanon | Location: Bustra
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2021-) [State forces]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Lebanese Army [Other]
+
+DESCRIPTION:
+Other: On 23 September 2023, Israeli military forces hurled smoke grenades towards Lebanese soldiers who responded by firing tear gas towards them near the Blue line in Bustra (Hasbeiya). The Lebanese army was escorting a bulldozer that was removing an Israeli violation north of the Blue line. The Lebanese army's tear gas forced the Israelis to withdraw.
+
+---
+
+[EVENT: LBN15113]
+Date: 2023-09-23
+Country: Lebanon | Location: Kfour
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 23 September 2023, townspeople from Kfour, Toul, Deir ez Zahrani, and Habbouch towns held a protest at the Kfour valley road near Kfour (Al Nabatieh), against tire burning factories that are trying to resume their work after a judge forced them to close a while ago.
+
+---
+
+[EVENT: LBN33182]
+Date: 2023-09-23
+Country: Lebanon | Location: Tripoli
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 23 September 2023, physical clashes erupted between Al Ansar and Al Safa football club fans at Rachid Karami stadium in Tripoli (Tripoli), over earlier disputes [presumably sectarian). The participants used knives and clubs. Police forces intervened [presumably by force] to contain the clashes.
+
+---
+
+[EVENT: LBN33183]
+Date: 2023-09-23
+Country: Lebanon | Location: Ayrouniyeh
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Military Forces of Lebanon (2021-) [State forces]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 23 September 2023, demonstrators blocked the road and scuffled with military forces at the Ayrouniyeh checkpoint (Zgharta), in demonstration against the arrest of an individual from the town for driving a vehicle with dark windows.
+
+---
+
+[EVENT: LBN33184]
+Date: 2023-09-24
+Country: Lebanon | Location: Tripoli
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 24 September 2023, an individual with his family stood on the road facing the government serail in Tripoli (Tripoli) to block it, in demonstration against worsening living and economic conditions and his inability to pay rent.
+
+---
+
+[EVENT: LBN20709]
+Date: 2023-09-25
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Palestinian Joint Security Force [Political militia]
+Fatalities: 0
+Sources: L'Orient Le Jour [National]
+
+DESCRIPTION:
+Security measures: On 25 September 2023, the Palestinian Joint Security Forces deployed to several fronts in Ein el Hilweh refugee camp (Sayda), to ensure the application of the ceasefire, stability in the camp, and the withdrawal of all armed factions from occupied UNRWA schools in the camp following the latest round of clashes.
+
+---
+
+[EVENT: LBN15119]
+Date: 2023-09-26
+Country: Lebanon | Location: Beirut - Mousseitbeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 26 September 2023, protesters including the Committee for the National Initiative to Break the Siege on Gaza, Lebanese, and Palestinian factions held a sit-in at Ramlet el Bayda in Beirut - Mousseitbeh (Beirut), to demand the lifting of the Israeli blockade over the Gaza port.
+
+---
+
+[EVENT: LBN15114]
+Date: 2023-09-26
+Country: Lebanon | Location: Beirut - Achrafieh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 26 September 2023, demonstrators stormed the Lebanon Electricity Corporation in Corniche el Nahr el Beirut - Achrafieh (Beirut), in demonstration against the absence of state electricity since more than a month.
+
+---
+
+[EVENT: LBN15117]
+Date: 2023-09-26
+Country: Lebanon | Location: Majdaloun
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Lebanon (2021-) [State forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 26 September 2023, a large army patrol exchanged fire with wanted Syrian and Lebanese individuals during a raid into a Syrian refugee camp near Majdaloun (Baalbek), following earlier armed clashes between Syrian refugees there. A Lebanese and 2 Syrian suspects opened fire from a vehicle towards the army while trying to escape, which prompted the army patrol to retaliate, injuring a suspect.
+
+---
+
+[EVENT: LBN15116]
+Date: 2023-09-26
+Country: Lebanon | Location: Majdaloun
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 26 September 2023, armed clashes erupted between armed Syrian refugees from the two refugee camps of Al Hamasne and Abou Ras at Majdaloun plains (Baalbek), over unknown reasons. The fighters used firearms and machineguns. Casualties unknown.
+
+---
+
+[EVENT: LBN15115]
+Date: 2023-09-26
+Country: Lebanon | Location: Joubb Jannine
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Other: On 26 September 2023, a depositor [presumably unarmed] stormed a bank branch in Joubb Jannine (West Bekaa), and held its employees hostage to demand the release of his trapped savings. The depositor was able to take his money.
+
+---
+
+[EVENT: LBN33185]
+Date: 2023-09-27
+Country: Lebanon | Location: Baalbek
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2021-) [State forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+Weapons seizure: On 27 September 2023, an army patrol raided several Syrian refugee camps in Sharawneh neighborhood in Baalbek (Baalbek), where they seized weapons and military equipment.
+
+---
+
+[EVENT: LBN15118]
+Date: 2023-09-27
+Country: Lebanon | Location: Al Tal
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 27 September 2023, demonstrators including CGTL unionists stood on the road at Al Tal square (Tripoli) to block it, in protest against the attacks they are being subjected to by illegal Syrian bus drivers on the Jounieh-Jbeil line.
+
+---
+
+[EVENT: LBN33186]
+Date: 2023-09-27
+Country: Lebanon | Location: Abi Samra
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Actor2: Private Security Forces (Lebanon) [External/Other forces]
+Fatalities: 0
+Sources: Lebanon24 [National]
+
+DESCRIPTION:
+On 27 September 2023, a private security guard physically assaulted a protester during a protest outside the Rahme hospital in Abi Samra (Tripoli), amid the visit of the Minister of Social Affairs. The reason for the protest was not reported by the source.
+
+---
+
+[EVENT: LBN15120]
+Date: 2023-09-27
+Country: Lebanon | Location: Bzal
+Type: Explosions/Remote violence > Grenade | Disorder: Political violence
+Actor1: Unidentified Clan Militia (Lebanon) [Identity militia]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 27 September 2023, unidentified armed individuals [presumably clansmen] hurled two grenades towards a house and a vehicle, while other clansmen opened fire towards water tanks and solar panels in Bzal (Akkar), likely over old clan feuds. One of the grenades exploded resulting in material damages while the grenade thrown at the vehicle did not explode. There were no casualties.
+
+---
+
+[EVENT: LBN15129]
+Date: 2023-09-27
+Country: Lebanon | Location: Bustra
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2021-) [State forces]
+Actor2: Military Forces of Israel (2022-) [External/Other forces]
+Fatalities: 0
+Sources: Lebanese Army; Twitter [Other-New media]
+
+DESCRIPTION:
+Other: On 27 September 2023, Israeli military forces hurled smoke grenades towards a Lebanese army patrol who responded by hurling smoke grenades towards them, near the Blue line in Bustra (Hasbeiya). The Lebanese army was escorting a bulldozer that was removing an Israeli violation north of the Blue line.
+
+---
+
+[EVENT: LBN15122]
+Date: 2023-09-28
+Country: Lebanon | Location: Ain Aar
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Lebanon) [Rioters]
+Actor2: Police Forces of Lebanon (2021-) [State forces]
+Fatalities: 0
+Sources: El Nashra; Naharnet [National]
+
+DESCRIPTION:
+On 28 September 2023, Lebanese - Armenian demonstrators hurled firecrackers towards police forces who responded by firing tear gas towards them during a demonstration outside the embassy of Azerbaijan in Ain Aar (Al Matn). Demonstrators including Tashnag supporters and ethnic Armenians had gathered outside the embassy in demonstration against Azerbaijan's capture of Nagorno - Karabakh enclave during the latest offensive. Demonstrators waved Armenian flags and burned posters of Turkey's and Azerbaijan's presidents.
+
+---
+
+[EVENT: LBN15121]
+Date: 2023-09-28
+Country: Lebanon | Location: Wadi Khaled
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Lebanon (2021-) [State forces]
+Actor2: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 1
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 28 September 2023, an army patrol exchanged fire with a smuggler carrying illegal Syrian migrants near the Lebanese - Syrian border near Wadi Khaled (Akkar). The army fired warning shots to try and stop the driver who rammed a soldier, which prompted the soldiers to open fire targeting the vehicle's wheels. The driver was injured and lost control of the vehicle after which he hit a pole and died from the accident.
+
+---
+
+[EVENT: LBN15123]
+Date: 2023-09-28
+Country: Lebanon | Location: Beddawi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+On 28 September 2023, demonstrators used a truck to block both sides of the highway in Beddawi (Al Miniyeh Al Danniyeh), to demand that authorities' bring back a local who suffered a health problem in Turkey. The relatives are unable to bring him back due to the travel costs.
+
+---
+
+[EVENT: LBN15124]
+Date: 2023-09-28
+Country: Lebanon | Location: Halba
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 28 September 2023, employees from the Rahal hospital held a protest outside the hospital in Halba (Akkar), against the hospital's non-disbursement of their late unpaid salaries.
+
+---
+
+[EVENT: LBN15125]
+Date: 2023-09-28
+Country: Lebanon | Location: Beirut - Ras Beirut
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Actor2: Police Forces of Lebanon (2021-) [State forces]
+Fatalities: 0
+Sources: An-Nahar; El Nashra [National]
+
+DESCRIPTION:
+On 28 September 2023, police forces forcefully expelled student activists who stormed the Middle East Airlines headquarters in Beirut - Ras Beirut (Beirut). Students from the General Students' Union had stormed the MEA offices to demand that the company return the money owed to the Lebanese University from the PCR examinations, while rejecting the decision to raise registration fees at the university.
+
+---
+
+[EVENT: LBN20718]
+Date: 2023-09-28
+Country: Lebanon | Location: Beirut - Mousseitbeh
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 28 September 2023, around 10 protesters including activists and public teachers held a protest at the Ministry of Education in Beirut - Mousseitbeh (Beirut), against the education sector's challenges amid worsening living and economic conditions.
+
+---
+
+[EVENT: LBN15126]
+Date: 2023-09-29
+Country: Lebanon | Location: Beddawi
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Palestine) [Protesters]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+On 29 September 2023, Palestinian protesters, including refugees and political factions, held a protest outside the UNRWA director office in Beddawi refugee camp (Al Miniyeh Al Danniyeh), against UNRWA's intentions to reduce its financial services. The protesters demanded the construction of a school to include all students from the camp.
+
+---
+
+[EVENT: LBN15127]
+Date: 2023-09-29
+Country: Lebanon | Location: El Aabde
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+On 29 September 2023, transit truck drivers and owners held a protest outside their syndicate's office in El Aabde (Akkar), to demand solutions to the entry of foreign workers into the marketplace. The protesters also demanded that authorities work on opening the Gulf marketplace for Lebanese drivers.
+
+---
+
+[EVENT: LBN15130]
+Date: 2023-09-30
+Country: Lebanon | Location: Beirut - Port
+Type: Protests > Excessive force against protesters | Disorder: Political violence; Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Actor2: Rioters (Lebanon) [Rioters]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+On 30 September 2023, individuals including groups from Tariq Jdide, the Beirut Suburbs and Junud ar Rab severely beat up demonstrators and journalists during a protest in downtown Beirut - Port (Beirut). The protest was called 'Freedoms March' and was accused by the rioters of supporting and promoting homosexuality. Internal security forces later evacuated the protesters after several were injured and bloodied.
+
+---
+
+[EVENT: LBN20723]
+Date: 2023-09-30
+Country: Lebanon | Location: Laboue
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: L'Orient Le Jour [National]
+
+DESCRIPTION:
+On 30 September 2023, protesters presumably stood on the road at the main square in Laboue (Baalbek) to block it, in protest against the killing of an individual at an army checkpoint earlier. The protesters were the families of the deceased individual and the three others who were arrested with him.

@@ -1,0 +1,308 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Lebanon (ISO Code: 422)
+Temporal Period: Year 2019 - Quarter Q2
+Total Events in Chunk: 23 / 23
+==================================================
+
+[EVENT: LBN1180]
+Date: 2019-04-01
+Country: Lebanon | Location: Sidon
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Displacement: On April 1 2019, the Litani River Authority has forced the displacement of 300 Syrian refugees from the Sidon area.
+
+---
+
+[EVENT: LBN1070]
+Date: 2019-04-15
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on April 15, in the last 24 hours, approximately 321 Syrian refugees returned to Syria from Lebanon. Dozens of Syrians returned through the Yabous and Talakalakh crossings with Syria.
+
+---
+
+[EVENT: LBN1069]
+Date: 2019-04-16
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on April 16, in the last 24 hours, approximately 305 Syrian refugees returned to Syria from Lebanon. Dozens of Syrians returned through the Yabous and Talakalakh crossings with Syria.
+
+---
+
+[EVENT: LBN1071]
+Date: 2019-04-16
+Country: Lebanon | Location: Tyr
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 1
+Sources: An-Nahar [National]
+
+DESCRIPTION:
+Explosive remnants of war: As reported on April 16 2019, a Lebanese farmer was killed in the Ras al Ain area in southern Tyre by an unexploded cluster bomb from a previous war.
+
+---
+
+[EVENT: LBN1068]
+Date: 2019-04-17
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on April 17, in the last 24 hours, approximately 345 Syrian refugees returned to Syria from Lebanon. Dozens of Syrians returned through the Yabous and Talakalakh crossings with Syria.
+
+---
+
+[EVENT: LBN1082]
+Date: 2019-04-23
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on April 23, in the last 24 hours, approximately 311 Syrian refugees returned to Syria from Lebanon. Dozens of Syrians returned through the Yabous and Talakalakh crossings with Syria.
+
+---
+
+[EVENT: LBN1090]
+Date: 2019-04-29
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on April 29, in the last 24 hours, approximately 310 Syrian refugees returned to Syria from Lebanon. Dozens of Syrians returned through the Yabous and Talakalakh crossings with Syria.
+
+---
+
+[EVENT: LBN1096]
+Date: 2019-05-01
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on May 1, in the last 24 hours, approximately 410 Syrian refugees returned to Syria from Lebanon. Dozens of Syrians returned through the Yabous and Talakalakh crossings with Syria.
+
+---
+
+[EVENT: LBN9874]
+Date: 2019-05-04
+Country: Lebanon | Location: Kfar Chouba
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Movement of forces: On 4 May 2019, six armed Israeli military personnel crossed the blue line infiltrating the Lebanese side and walked 25 meters into Kfar Chouba village (Hasbaya) before walking back to the Israeli side.
+
+---
+
+[EVENT: LBN1122]
+Date: 2019-05-13
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on May 13, in the last 24 hours, approximately 314 Syrian refugees returned to Syria from Lebanon. Dozens of Syrians returned through the Yabous and Talakalakh crossings with Syria.
+
+---
+
+[EVENT: LBN1128]
+Date: 2019-05-16
+Country: Lebanon | Location: Mieh Mieh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Fatah Movement [Political militia]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Security measures: As reported on 17 May, three of the primary armed groups in Mieh Mieh Palestinian refugee camp transferred their weapons to Ain al Hilweh refugee camp as part of a weapons-free agreement reached with the military following clashes in October between Fatah and Ansar Allah. Fatah, Ansar Allah, and Hamas moved their weapons to respective warehouses in Ain al Hilweh despite skepticism and concern raised by Ain el Hilweh residents.
+
+---
+
+[EVENT: LBN1142]
+Date: 2019-05-27
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on May 27, in the last 24 hours, 407 Syrian refugees returned to Syria from Lebanon through the Yabos and Talaklakh crossing.
+
+---
+
+[EVENT: LBN1141]
+Date: 2019-05-27
+Country: Lebanon | Location: Kfar Kila
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Security measures: On May 27 2019, Israeli forces installed a large tower on the cement wall separating Lebanon and Israel, that reaches over the Lebanese side of the wall in Kfar Kila in Marjayoun town.
+
+---
+
+[EVENT: LBN1147]
+Date: 2019-05-28
+Country: Lebanon | Location: Masnaa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: INTERPOL: International Criminal Police Organization [External/Other forces]
+Actor2: Civilians (Iraq) [Civilians]
+Fatalities: 0
+Sources: Asharq Al Awsat [International]
+
+DESCRIPTION:
+Arrests: On May 28 2019, former mayor of Baghdad, Naeem Abaob was arrested by Interpol while attempting to cross from Lebanon into Syria. He stands accused of corruption and embezzlement.
+
+---
+
+[EVENT: LBN1143]
+Date: 2019-05-29
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on May 29, in the last 24 hours, 392 Syrian refugees returned to Syria from Lebanon through the Yabos and Talaklakh crossing.
+
+---
+
+[EVENT: LBN1158]
+Date: 2019-06-01
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Displacement: On June 1, approximately 621 Syrian refugees returned to Syria from Lebanon. Syrian refugees gathered at meeting points in Tripoli, Abboudieh, Nabatieh, Sidon, Beirut, Burj Hammoud, Al-Qaa as well as the Masnaa border crossing.
+
+---
+
+[EVENT: LBN1163]
+Date: 2019-06-05
+Country: Lebanon | Location: Dalhamiyeh
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2019-2020) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: The National (UAE) [International]
+
+DESCRIPTION:
+Arrests: As reported on June 5 2019, Lebanese Military arrested 33 Syrians at an informal refugee camp in Delhamiyeh at the entrance of Deir al Ahmar after they attacked fire fighters by stone throwing.
+
+---
+
+[EVENT: LBN7734]
+Date: 2019-06-05
+Country: Lebanon | Location: Dalhamiyeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Lebanon (2019-2020) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Megaphone News [New media]
+
+DESCRIPTION:
+Displacement: On 5 June 2019, Lebanese forces expelled a number of Syrian refugees from their camp in Dalhamiyeh at the entrance to Deir el Ahmar, following clashes between them and civil defence forces earlier in the day.
+
+---
+
+[EVENT: LBN1167]
+Date: 2019-06-06
+Country: Lebanon | Location: Dalhamiyeh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Asharq Al Awsat [International]
+
+DESCRIPTION:
+Property destruction: On June 6 2019, three tents in Lebanon's Caritas camp; an informal refugee camp in Delhamiyeh were set on fire by an unidentified group.
+
+---
+
+[EVENT: LBN1166]
+Date: 2019-06-07
+Country: Lebanon | Location: Dalhamiyeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Asharq Al Awsat [International]
+
+DESCRIPTION:
+Displacement: On June 7 2019, over 700 Syrian refugees were forced to move from their camp in Delhamiyeh as Lebanese authorities decided to shut down the camp after a recent attack on civil workers in the area. Nearly all refugees decided to go to Laat, east of Deir al-Ahmar.
+
+---
+
+[EVENT: LBN1200]
+Date: 2019-06-21
+Country: Lebanon | Location: Ras al Naqoura
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Movement of forces: On June 21 2019, two Israeli naval force boats entered Lebanese waters, one of which fired in the air and dropped sound bombs.
+
+---
+
+[EVENT: LBN1196]
+Date: 2019-06-21
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on June 21, in the last 24 hours, 383 Syrian refugees returned to Syria from Lebanon through the Yabos and Talaklakh crossing.
+
+---
+
+[EVENT: LBN1211]
+Date: 2019-06-27
+Country: Lebanon | Location: Ras al Naqoura
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Movement of forces: On June 27 2019, two Israeli naval force boats entered Lebanese waters opposite to Ras Naqoura, one of which dropped sound bombs into the water.

@@ -1,0 +1,992 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Yemen (ISO Code: 887)
+Temporal Period: Year 2016 - Quarter Q2
+Total Events in Chunk: 73 / 73
+==================================================
+
+[EVENT: YEM13979]
+Date: 2016-04-02
+Country: Yemen | Location: Beit Marran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+Defusal: On 7 April 2016, Security forces reportedly defused an IED planted near a fuel station in Al Makareeb in Arhab of Sanaa; April 2.
+
+---
+
+[EVENT: YEM13986]
+Date: 2016-04-03
+Country: Yemen | Location: Al Quraishyah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 3
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+On 3 April 2016, 3 individuals were reportedly killed when an IED they were planting exploded in Al Rawq area in Al Quraishyah district (Al Bayda).
+
+---
+
+[EVENT: YEM14044]
+Date: 2016-04-06
+Country: Yemen | Location: Al Madid
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen Saeed [National]
+
+DESCRIPTION:
+Movement of forces: Coalition reinforcements reportedly reached Nihm in Sanaa; April 6.
+
+---
+
+[EVENT: YEM14093]
+Date: 2016-04-09
+Country: Yemen | Location: Sanaa
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Huna Aden; Yemen News Agency SABA [National]
+
+DESCRIPTION:
+Agreement: A ceasefire was agreed between The Coalition, in response to President Hadi's request, from one side and the Supreme Revolutionary Committee from the other. The agreement was reached on April 9, while the ceasefire was to take effect at 12:00 AM this night April 10.
+
+---
+
+[EVENT: YEM14128]
+Date: 2016-04-11
+Country: Yemen | Location: Marib
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Al Jazeera [Regional]
+
+DESCRIPTION:
+Interception: On 11 April 2016, Houthi popular committees allegedly fired a ballistic missile in the Marib governorate, which was intercepted by Saudi-led coalition forces, in one of the first breaches of the truce. No casualties were reported. Pro-Hadi forces reported 25 truce violations by Saleh-Houthi forces that day while Saleh-Houthi forces reported 33 truce violations by pro-Hadi forces.
+
+---
+
+[EVENT: YEM14243]
+Date: 2016-04-14
+Country: Yemen | Location: Marib
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: AEI Critical Threats [International]
+
+DESCRIPTION:
+Interception: On 14 April 2016, The Yemeni army (Saleh) and Houthi popular committees fired a ballistic missile at pro-Hadi forces in the Marib governorate, which was intercepted with a Patriot missile. No casualties were reported.
+
+---
+
+[EVENT: YEM14336]
+Date: 2016-04-17
+Country: Yemen | Location: Marib
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Yemen Saeed [National]
+
+DESCRIPTION:
+Interception: On 17 April 2016, a ballistic missile fired by pro Houthi forces was reportedly intercepted in Marib by Coalition anti missile batteries. There were no reports of human casualties or material damage; April 17.
+
+---
+
+[EVENT: YEM14337]
+Date: 2016-04-17
+Country: Yemen | Location: Marib
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+Agreement: A ceasefire was reportedly agreed between pro Houthi and anti Houthi forces on the Marib front, in Sirwah, Al Jeda'an, Harib, Al Abdiya and Nihm. The ceasefire was to take effect at 11:59 pm local time, April 17.
+
+---
+
+[EVENT: YEM14348]
+Date: 2016-04-18
+Country: Yemen | Location: Suq al Khamis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+The Saudi-led coalition carried out air raids in which it dropped sound bombs in the Monabbih district, Sadah governorate. No casualties were reported.
+
+---
+
+[EVENT: YEM14351]
+Date: 2016-04-19
+Country: Yemen | Location: Al Bayda
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: AEI Critical Threats; Al Masdar [National-International]
+
+DESCRIPTION:
+On 19 April 2016, Ansar al Sharia militants (AQAP) and Houthi-Saleh forces proceeded in their largest prisoner exchange to date in Al Bayda governorate. 47 Houthi-Saleh prisoners were exchanged against 49 Ansar al Sharia prisoners including two sons of tribal sheikh Tariq al Fadhli head of a prominent tribe in Abyan who declared his support for Ansar al Sharia in 2014.
+
+---
+
+[EVENT: YEM14356]
+Date: 2016-04-19
+Country: Yemen | Location: Al Masilah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen) [National]
+
+DESCRIPTION:
+Movement of forces: Around 200 Emirati military vehicles reportedly reached Wadi Nahb military camp in Al Masila in Hadramawt. The reinforcements come in preparation for a military offensive against the AQAP in the area; April 19.
+
+---
+
+[EVENT: YEM14355]
+Date: 2016-04-19
+Country: Yemen | Location: Ash Shihr
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: AEI Critical Threats [International]
+
+DESCRIPTION:
+Movement of forces: AQAP militants evacuated the Dhaba oil terminal located in the Ash Shihr area, Hadramawt governorate, and planted explosive around the site.
+
+---
+
+[EVENT: YEM14365]
+Date: 2016-04-20
+Country: Yemen | Location: Al Maudah
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Popular Resistance [Political militia]
+Fatalities: 0
+Sources: AEI Critical Threats; Al Masdar [National-International]
+
+DESCRIPTION:
+On 20 April 2016, Houthi-Saleh and Popular Resistance forces signed a ceasefire in Bayt Diham area of At Taffah district (Al Bayda) to facilitate humanitarian aid delivery and the release of prisoners.
+
+---
+
+[EVENT: YEM14364]
+Date: 2016-04-20
+Country: Yemen | Location: Ad Dali
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+Agreement: A ceasefire agreement was reportedly reached between pro Houthi and anti Houthi factions in Al Dhali. The ceasefire was to cover fighting fronts in Murays, Damt, Hamak and Al Khasba in Al Dhali, and was to take effect at 10:00 pm on April 20.
+
+---
+
+[EVENT: YEM14389]
+Date: 2016-04-21
+Country: Yemen | Location: Al Anad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2009-2017) [External/Other forces]
+Fatalities: 0
+Sources: AFP; Anadolu Agency; Press TV [International]
+
+DESCRIPTION:
+Movement of forces: The US deployed an unspecified but allegedly 'very small number' of troops in the Al Anad airbase in the Tuban district, Lahij governorate, to support the fight against AQAP militants. The undisclosed date of the deployment occurred more than a year after the US withdrew its last troops in the country (over 100 special forces) from the Al Anad airbase, on 21 March 2015.
+
+---
+
+[EVENT: YEM14439]
+Date: 2016-04-24
+Country: Yemen | Location: Al Mukalla
+Type: Battles > Government regains territory | Disorder: Political violence
+Actor1: Hadrami Elite Forces [Political militia]
+Actor2: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 87
+Sources: AFP; AP; United Press International [International]
+
+DESCRIPTION:
+The Yemeni army (Hadi), pro-Hadi militiamen and special forces from the Saudi and Emirati armies entered the city of Al Mukalla, Hadramawt governorate, from AQAP militants. AQAP militants withdrew west to the desert after mediation by Islamist clerics. Clashes erupted when the forces reached the outskirts of the city, supported by airstrikes in and around the city. Yemen Post reported 60 militants, while Al Arabiya confirmed 27 coalition soldiers killed. The city was fully taken on April 25.
+
+---
+
+[EVENT: YEM14436]
+Date: 2016-04-24
+Country: Yemen | Location: Zinjibar
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+The Yemeni army (Hadi) and pro-Hadi militiamen withdrew from the city of Zinjibar, Abyan governorate, which they had entered the previous day, following an AQAP car bombing and fearing other such attacks.
+
+---
+
+[EVENT: YEM14464]
+Date: 2016-04-25
+Country: Yemen | Location: Al Mukalla
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Hadrami Elite Forces [Political militia]
+Actor2: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: Ababiil Net; France24; Mosnad [National-International]
+
+DESCRIPTION:
+By April 25, Pro-Hadi Government forces and UAE forces had fully recaptured Mukalla, along with the rest of the coastal regions of the Hadramaut Province. AQAP militants had withdrawn west to the desert after mediation with Islamic clerics.
+
+---
+
+[EVENT: YEM14469]
+Date: 2016-04-25
+Country: Yemen | Location: An Nazir
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+The Saudi-led coalition carried out air raids in which it dropped flare bombs in several areas of the Razih district, Sadah governorate. No casualties were reported.
+
+---
+
+[EVENT: YEM14522]
+Date: 2016-04-30
+Country: Yemen | Location: Al Qatn
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Hadrami Elite Forces [Political militia]
+Actor2: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+The Yemeni army (Hadi), with support from the Saudi-led coalition, overtook an AQAP training camp in the city of Al Qatn, Hadramawt governorate. No fatalities were reported as it is unclear whether the takeover involved fighting, but 8 AQAP militants were arrested.
+
+---
+
+[EVENT: YEM14524]
+Date: 2016-04-30
+Country: Yemen | Location: Ras Bab el Mandeb
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: ECHO [Other]
+
+DESCRIPTION:
+Movement of forces: The Saudi-led coalition reinforced their positions in the Bab al Mandab area, Taizz governorate.
+
+---
+
+[EVENT: YEM14526]
+Date: 2016-05-01
+Country: Yemen | Location: Aden - Al Mansurah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: Al Omanaa; Yemen News Gate [National]
+
+DESCRIPTION:
+Defusal: On 1 May 2016, Security forces reportedly defused an IED planted near a wedding hall in Al Mansourah in Aden. It was not mentioned who planted the device; May 1.
+
+---
+
+[EVENT: YEM14535]
+Date: 2016-05-02
+Country: Yemen | Location: Al Jabal al Aswad
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Al Yemen Al Araby; Erem News [National]
+
+DESCRIPTION:
+Pro Houthi forces reportedly took control of the 29th Mechanized Brigade in Al Jabal Al Aswad in Harf Sufyan of Amran on May 2. Those in charge of the camp are thought to have given up the camp without resistance. The camp had been under siege since August of last year.
+
+---
+
+[EVENT: YEM14566]
+Date: 2016-05-05
+Country: Yemen | Location: Zinjibar
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Actor2: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: AFP; AP; The National (UAE) [Regional-International]
+
+DESCRIPTION:
+AQAP militants began to withdraw from the city of Zinjibar, Abyan governorate, following tribal mediation. The Yemeni army (Hadi) and pro-Hadi militiamen, including Popular Committes, entered the city on April 24 with air support from the Saudi-led coalition. The complete withdrawal is expected to take a week as militants are supposed to go with their weapons to a mountainous region at the crossroads of the Abyan, Shabwah and Al Bayda governorates.
+
+---
+
+[EVENT: YEM14565]
+Date: 2016-05-05
+Country: Yemen | Location: Jaar
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Actor2: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: AFP; AP; The National (UAE) [Regional-International]
+
+DESCRIPTION:
+AQAP militants began to withdraw from the city of Jaar in the Khanfir district, Abyan governorate, following tribal mediation. The Yemeni army (Hadi) and pro-Hadi militiamen, including Popular Committes, entered the city in April with air support from the Saudi-led coalition. The complete withdrawal is expected to take a week as militants are supposed to go with their weapons to a mountainous region at the crossroads of the Abyan, Shabwah and Al Bayda governorates.
+
+---
+
+[EVENT: YEM52114]
+Date: 2016-05-06
+Country: Yemen | Location: Shurayjah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Aden al Ghad [National]
+
+DESCRIPTION:
+On 6 May 2016, pro-Houthi/Saleh forces reinforcements reportedly arrived in Shurayjah area from Taizz governorate to join the fighting in Kirsh region in southern Yemen (Al Qabbaytah, Lahij).
+
+---
+
+[EVENT: YEM14587]
+Date: 2016-05-07
+Country: Yemen | Location: Al Mukalla
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2009-2017) [External/Other forces]
+Fatalities: 0
+Sources: Sahafa Yemen; Twitter [New media-National]
+
+DESCRIPTION:
+Movement of forces: It was reported that over 200 US marines were deployed in Al Mukalla on May 7. The US force was said to have been accompanied by an aircraft carrier and destroyers. The development comes after days from the AQAP's withdrawal from the city.
+
+---
+
+[EVENT: YEM14591]
+Date: 2016-05-08
+Country: Yemen | Location: Aden
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Southern Resistance [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Arabiya [International]
+
+DESCRIPTION:
+Arrests: Unidentified armed groups that are likely aligned with the Southern Movement and that seem to operate under the command of Yemeni forces (Hadi) raided in the city of Aden, Adan governorate, homes and civilian establishments of Yemeni coming from the city of Taizz and other northern cities. They subsequently arrested more than 2,000 northerner Yemeni citizens and expelled hundreds from Aden. President Hadi criticised the operation.
+
+---
+
+[EVENT: YEM14593]
+Date: 2016-05-08
+Country: Yemen | Location: Al Hawtah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Anba Aden [Subnational]
+
+DESCRIPTION:
+Property destruction: The headquarters of a local newspaper was reportedly raided by security forces in Al Madina Al Khadra in Al Hawta of Lahij, near Dar Sad of Aden on May 8. The property was reportedly vandalised and the newspaper closed. The reason for the raid was not mentioned.
+
+---
+
+[EVENT: YEM14624]
+Date: 2016-05-09
+Country: Yemen | Location: Ras Bab el Mandeb
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen) [National]
+
+DESCRIPTION:
+Movement of Forces: Hundreds of AQAP fighters reportedly arrived in areas south of Bab Al Mandab in Dhubab of Taizz on May 9. The move came after the fighters left areas in Abyan to move to Dhubab.
+
+---
+
+[EVENT: YEM14651]
+Date: 2016-05-12
+Country: Yemen | Location: Al Mukalla
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Hadrami Elite Forces [Political militia]
+Actor2: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Arrests: The Yemeni forces (Hadi) have captured around 250 AQAP militants in the Al Mukalla City district since they retook the city on 24 April 2016. The statement was made on 13 May 2016.
+
+---
+
+[EVENT: YEM41649]
+Date: 2016-05-15
+Country: Yemen | Location: Al Ghayzah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Sana'a Center [Local partner-Other]
+
+DESCRIPTION:
+In May 2016, 200 recruits graduated in Al-Ghayzah city of Al-Mahrah governorate, eastern Yemen, from the first class of security forces of a joint UAE-Yemeni initiative to recruit and train 2,000 locals into the security forces. After disputes about the UAE's role in the programme, it was agreed that the recruits would be trained by Yemeni officers with UAE military officials acting only in an advisory capacity. Reports alleged however that UAE forces attempted to put the newly formed security forces under their direct command.
+
+---
+
+[EVENT: YEM14703]
+Date: 2016-05-15
+Country: Yemen | Location: Ar Rubayi
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Al Yemen Al Araby [National]
+
+DESCRIPTION:
+Movement of forces: Pro Houthi reinforcements reportedly arrived in Al Rubayii in the city of Taizz on May 15.
+
+---
+
+[EVENT: YEM65354]
+Date: 2016-05-16
+Country: Yemen | Location: Coast of Tamnun
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Private Security Forces (International) [External/Other forces]
+Actor2: Unidentified Armed Group (International) [Political militia]
+Fatalities: 0
+Sources: Maritime Safety Office - NGIA [International]
+
+DESCRIPTION:
+Other: On 16 May 2016, private security forces aboard a container ship fired warning shots after being approached by five suspicious and presumed armed skiffs off the Coast of Tamnun (Al Masilah, Al Mahrah) as one of the skiffs deployed a ladder. Nearby Japanese naval forces also deployed a helicopter, prompting the skiffs to retreat.
+
+---
+
+[EVENT: YEM14730]
+Date: 2016-05-17
+Country: Yemen | Location: Al Jabal al Aswad
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+The Saudi-led coalition carried out air raids in which it dropped sound bombs in the Harf Sufyan district, Amran governorate. No casualties were reported.
+
+---
+
+[EVENT: YEM14742]
+Date: 2016-05-18
+Country: Yemen | Location: Nawfan
+Type: Strategic developments > Non-violent transfer of territory | Disorder: Strategic developments
+Actor1: al-Qayfa Tribal Militia (Yemen) [Identity militia]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Al Yemen Al Araby; Yemen Akhbar [National]
+
+DESCRIPTION:
+Tribal militias of Qayfa reportedly took control of Jabal Nawfan in Al Bayda on May 18, 24 hours after it had been taken by pro Houthi forces. No deaths or injuries were reported.
+
+---
+
+[EVENT: YEM14775]
+Date: 2016-05-19
+Country: Yemen | Location: Ad Dabab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Movement of forces: Pro Houthi reinforcements reportedly arrived in Al Dabab in Sabir of Taizz; May 19.
+
+---
+
+[EVENT: YEM14764]
+Date: 2016-05-19
+Country: Yemen | Location: Qaniyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Yemen Akhbar [National]
+
+DESCRIPTION:
+Movement of forces: Pro Houthi reinforcements reportedly arrived in Qaniya and Al Wahbiya in Radman A'l Awadh of Al Bayda after armed clashes with tribal militias in the area; May 19.
+
+---
+
+[EVENT: YEM14759]
+Date: 2016-05-19
+Country: Yemen | Location: An Najd
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Yemen Akhbar [National]
+
+DESCRIPTION:
+Movement of forces: Pro Houthi reinforcements reportedly arrived in Qaniya and Al Wahbiya in Radman A'l Awadh of Al Bayda after armed clashes with tribal militias in the area; May 19.
+
+---
+
+[EVENT: YEM14800]
+Date: 2016-05-21
+Country: Yemen | Location: Mustaba
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+The Saudi-led coalition carried out air raids in which it dropped a sound bomb in Mustaba district, Hajjah governorate. No casualties were reported.
+
+---
+
+[EVENT: YEM14816]
+Date: 2016-05-22
+Country: Yemen | Location: Sanaa - Al Wahdah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Anadolu Agency [International]
+
+DESCRIPTION:
+The Saudi-led coalition carried out air raids in which it dropped sounds bombs on the Al Wahdah area of the city of Sanaa, Amanat al Asimah governorate. No casualties were reported.
+
+---
+
+[EVENT: YEM14818]
+Date: 2016-05-22
+Country: Yemen | Location: Sanaa - Jabal an Nahdayn
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+The Saudi-led coalition carried out air raids in which it dropped sounds bombs on the An Nahdayn area of the As Sabain district of the city of Sanaa, Amanat al Asimah governorate. No casualties were reported.
+
+---
+
+[EVENT: YEM14817]
+Date: 2016-05-22
+Country: Yemen | Location: Sanaa - Az Zubayri
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Anadolu Agency [International]
+
+DESCRIPTION:
+The Saudi-led coalition carried out air raids in which it dropped sounds bombs on the Az Zubayri area of the Al Wahdah district of the city of Sanaa, Amanat al Asimah governorate. No casualties were reported.
+
+---
+
+[EVENT: YEM14824]
+Date: 2016-05-22
+Country: Yemen | Location: Ash Shahil
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+The Saudi-led coalition carried out air raids in which it dropped sound bombs in the Ash Shahil district, Hajjah governorate. No casualties were reported.
+
+---
+
+[EVENT: YEM14820]
+Date: 2016-05-22
+Country: Yemen | Location: Jabal Nuqum
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+The Saudi-led coalition carried out air raids in which it dropped sounds bombs on the Nuqum area of the Azzal district of the city of Sanaa, Amanat al Asimah governorate. No casualties were reported.
+
+---
+
+[EVENT: YEM14819]
+Date: 2016-05-22
+Country: Yemen | Location: Sanaa - Aththaorah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Anadolu Agency [International]
+
+DESCRIPTION:
+The Saudi-led coalition carried out air raids in which it dropped sounds bombs on the Hayl area of the Aththaorah district of the city of Sanaa, Amanat al Asimah governorate. No casualties were reported.
+
+---
+
+[EVENT: YEM14880]
+Date: 2016-05-26
+Country: Yemen | Location: Al Harf
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+The Saudi-led coalition carried out air raids in which it dropped sound bombs in the Harf Sufyan district, Amran governorate. No casualties were reported.
+
+---
+
+[EVENT: YEM14895]
+Date: 2016-05-27
+Country: Yemen | Location: Aden - Al Mansurah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: AEI Critical Threats [International]
+
+DESCRIPTION:
+Defusal: On 27 May 2016, The Yemeni police (Hadi) found and defused two IEDs of which the origin is unknown in the Ar Ridha and As Sabahah mosques of the Al Mansura district of the city of Aden, Adan governorate.
+
+---
+
+[EVENT: YEM14996]
+Date: 2016-06-01
+Country: Yemen | Location: Ghurab Ala
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Militia (Abu al Abbas) [Political militia]
+Fatalities: 0
+Sources: Al Tagheer [National]
+
+DESCRIPTION:
+Agreement: An exchange of prisoners is reported to have taken place on June 1 in the city of Taizz. The exchange between Abu Al Abbas salafist militia and pro Houthi forces had a total of 35 prisoners released, 16 from Abu Al Abbas side and 19 from the Houthi side. The exchange reportedly took place in Ghurab in Taizz.
+
+---
+
+[EVENT: YEM15079]
+Date: 2016-06-06
+Country: Yemen | Location: Marib
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Government of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Asharq Al Awsat; Saudi Gazette [Regional]
+
+DESCRIPTION:
+Agreement: The Saudi-led coalition, in coordination with the ICRC and UNICEF handed over 52 Houthi-Saleh child soldiers to the Hadi government. It seems like the handover took place in the Marib governorate.
+
+---
+
+[EVENT: YEM15129]
+Date: 2016-06-09
+Country: Yemen | Location: Al Harf
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+The Saudi-led coalition carried out air raids in which it dropped sound bombs in the Harf Sufyan district, Amran governorate. No casualties were reported.
+
+---
+
+[EVENT: YEM15158]
+Date: 2016-06-11
+Country: Yemen | Location: Al Qanawis
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+The Saudi-led coalition carried out an air raid in which it dropped a sound bomb in the Al Qanawis district, Al Hudaydah governorate. No casualties were reported.
+
+---
+
+[EVENT: YEM15153]
+Date: 2016-06-11
+Country: Yemen | Location: Aden - Al Mansurah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Islamic State in Yemen (ISY) [Rebel group]
+Actor2: Security Belt Forces [Political militia]
+Fatalities: 0
+Sources: Al Yemen Al Araby [National]
+
+DESCRIPTION:
+Arrests: A force of the Security Belt reportedly arrested 3 IS suspects in Al Mansura in Aden on June 11. One of the arrested is said to have been a senior and prominent leader of the IS in the area. No deaths or injuries were reported.
+
+---
+
+[EVENT: YEM15187]
+Date: 2016-06-12
+Country: Yemen | Location: Ibb
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Government of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+Agreement: The Supreme Revolutionary Committee reportedly released 120 detainees in Ibb on June 12. The detained were reportedly arrested under allegations of 'cooperation with forces of The Saudi Aggression'.
+
+---
+
+[EVENT: YEM15206]
+Date: 2016-06-13
+Country: Yemen | Location: Jabal Jalis
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Actor2: Popular Resistance [Political militia]
+Fatalities: 0
+Sources: Erem News [National]
+
+DESCRIPTION:
+Property destruction: Pro Houthi forces reportedly destroyed two houses belonging to leaders of the Popular Resistance in Al Kaabain in the area of Jabal Jalis in Lahij at a time around June 13. No deaths or injuries were reported.
+
+---
+
+[EVENT: YEM15280]
+Date: 2016-06-18
+Country: Yemen | Location: Taizz
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Popular Resistance [Political militia]
+Actor2: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Agreement: Hadi and Houthi-Saleh affiliated local militias respectively released 118 and 76 prisoners that had been captured in fighting for the city of Taizz following mediation from local tribes. The initiative was unconnected to the peace talks taking place in Kuwait City since April 21.
+
+---
+
+[EVENT: YEM15273]
+Date: 2016-06-18
+Country: Yemen | Location: Uzlat Bani Siham
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+Saudi air forces carried out air raids in which they dropped flash bombs on the Bani Siham area of the Attyal district, Sanaa governorate. No casualties were reported.
+
+---
+
+[EVENT: YEM15288]
+Date: 2016-06-19
+Country: Yemen | Location: Radaa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Houthi-Saleh forces released 200 prisoners in the town of Radaa, Al Bayda governorate.
+
+---
+
+[EVENT: YEM15290]
+Date: 2016-06-19
+Country: Yemen | Location: Al Hazm
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Asharq Al Awsat [Regional]
+
+DESCRIPTION:
+Agreement: pro-Hadi and Houthi-Saleh forces released 15 prisoners each in the Al Jawf governorate.
+
+---
+
+[EVENT: YEM15293]
+Date: 2016-06-19
+Country: Yemen | Location: Dhamar
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Houthi-Saleh forces released 76 prisoners in the Dhamar governorate.
+
+---
+
+[EVENT: YEM15338]
+Date: 2016-06-21
+Country: Yemen | Location: Marib
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Interception: On 21 June 2016, Houthi-Saleh forces fired a ballistic missile towards the city of Marib. It was intercepted by the Saudi-led coalition and did not cause any casualties.
+
+---
+
+[EVENT: YEM15339]
+Date: 2016-06-21
+Country: Yemen | Location: Marib
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Interception: On 21 June 2016, The Saudi-led coalition intercepted a ballistic missile fired by Houthi-Saleh forces towards the city of Marib. No casualties were reported.
+
+---
+
+[EVENT: YEM15324]
+Date: 2016-06-21
+Country: Yemen | Location: Jaar
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Actor2: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Cyprus Mail [International]
+
+DESCRIPTION:
+Non-violent activity: AQAP militants attacked the prison of the city of Jaar in the Abyan governorate and freed an unspecified number of inmates. AQAP militants had withdrawn from Jaar on May 5 and handed the city over to pro-Hadi forces.
+
+---
+
+[EVENT: YEM15353]
+Date: 2016-06-22
+Country: Yemen | Location: Aden - Ash Shaikh Outhman
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Security Belt Forces [Political militia]
+Fatalities: 0
+Sources: AEI Critical Threats [International]
+
+DESCRIPTION:
+Security measures: Hadi government-affiliated Al Hizam security forces raided a qat street market in the Ash Shaikh Outhman district of the city of Aden to enforce the May 16 government-issued ban on the weekday sales of qat.
+
+---
+
+[EVENT: YEM15354]
+Date: 2016-06-22
+Country: Yemen | Location: Aden - Dar Sad
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Security Belt Forces [Political militia]
+Fatalities: 0
+Sources: AEI Critical Threats [International]
+
+DESCRIPTION:
+Security measures: Hadi government-affiliated Al Hizam security forces raided a qat street market in the Dar Sad district of the city of Aden to enforce the May 16 government-issued ban on the weekday sales of qat.
+
+---
+
+[EVENT: YEM15355]
+Date: 2016-06-22
+Country: Yemen | Location: Al Bayda
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Asharq Al Awsat [Regional]
+
+DESCRIPTION:
+Movement of forces: Houthi-Saleh forces allegedly reinforced their positions in the Al Bayda, Al Jawf, Marib and Ibb governorate.
+
+---
+
+[EVENT: YEM15370]
+Date: 2016-06-23
+Country: Yemen | Location: Jaar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: AEI Critical Threats [International]
+
+DESCRIPTION:
+Movement of forces: AQAP militants seem to have returned to the city of Jaar in the Abyan governorate, from which it had withdrawn on May 5 and handed over to pro-Hadi forces. Militants were seen operating freely in both Jaar and Zinjibar on June 23 after they overtook Jaar's prison on June 21.
+
+---
+
+[EVENT: YEM15372]
+Date: 2016-06-23
+Country: Yemen | Location: Zinjibar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: AEI Critical Threats [International]
+
+DESCRIPTION:
+Movement of forces: AQAP militants seem to have returned to the city of Zinjibar in the Abyan governorate, from which it had withdrawn on May 5 and handed over to pro-Hadi forces. Militants were seen operating freely in both Zinjibar and Jaar on June 23 after they overtook Jaar's prison on June 21.
+
+---
+
+[EVENT: YEM15400]
+Date: 2016-06-24
+Country: Yemen | Location: Taizz
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Popular Resistance [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+Looting: Pro-Hadi militiamen allegedly looted areas in the eastern Ash Shamasi neighbourhood of the city of Taizz.
+
+---
+
+[EVENT: YEM15414]
+Date: 2016-06-25
+Country: Yemen | Location: Taizz - Kalabah (Outside)
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Popular Resistance [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+Looting: Pro-Hadi militiamen allegedly looted areas in the eastern Kalabah neighbourhood of the city of Taizz.
+
+---
+
+[EVENT: YEM15402]
+Date: 2016-06-25
+Country: Yemen | Location: Aden - Kraytar
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Aden al Ghad; El Watan (Yemen) [Subnational-National]
+
+DESCRIPTION:
+Non-violent activity: An armed group reportedly broke into the house of Anis Mansoor in the city of Aden on June 25. The group claimed that Mansoor, a journalist and the editor of an online news portal, had published an article in which he criticized security personnel of attacking local markets and forcing workers from northern areas to leave Aden. No deaths or injuries were reported.
+
+---
+
+[EVENT: YEM15422]
+Date: 2016-06-26
+Country: Yemen | Location: Marib
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [State forces]
+Fatalities: 0
+Sources: Al Yemen Al Araby; Mosnad [National]
+
+DESCRIPTION:
+Interception: On 26 June 2016, The Coalition reportedly intercepted a ballistic missile fired by pro Houthi forces on June 26. The remains of the missile reportedly fell in an empty area in the east of the city of Marib. There were no reports of human casualties or material damage.
+
+---
+
+[EVENT: YEM15494]
+Date: 2016-06-29
+Country: Yemen | Location: Taizz - Al Jahmaliyah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Yemen News Agency SABA [National]
+
+DESCRIPTION:
+Property destruction: The Yemeni army (Hadi) and pro-Hadi militiamen burnt a house in the Jahmaliyah neighbourhood of the Usayfirah area of Taizz city. No casualties were reported.

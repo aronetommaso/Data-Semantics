@@ -1,0 +1,17 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Qatar (ISO Code: 634)
+Temporal Period: Year 2023 - Quarter Q1
+Total Events in Chunk: 1 / 1
+==================================================
+
+[EVENT: QAT43]
+Date: 2023-03-07
+Country: Qatar | Location: Doha
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Qatar (2013-) [State forces]
+Fatalities: 0
+Sources: Al Jazeera; Doha News; Reuters [National-Regional]
+
+DESCRIPTION:
+Other: On 7 March 2023, Qatari Emir Sheikh Tamim bin Hamad Al Thani accepted the resignation of Prime Minister and Minister of Interior Sheikh Khalid bin Khalifa bin Abdulaziz Al Thani (coded to capital Doha). The Qatari Emir ordered a cabinet reshuffle the same day that saw the appointment of former foreign minister Sheikh Mohammed bin Abdulrahman Al Thani as Prime Minister, and Sheikh Khalifa bin Hamad as Minister of Interior.

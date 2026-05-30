@@ -1,0 +1,281 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Lebanon (ISO Code: 422)
+Temporal Period: Year 2019 - Quarter Q1
+Total Events in Chunk: 21 / 21
+==================================================
+
+[EVENT: LBN960]
+Date: 2019-01-03
+Country: Lebanon | Location: Aarida Border Crossing
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on Jan 3, over the last 24 hours over 1000 Syrian refugees have returned to Syria from Lebanon through the Arida and Talkalakh crossings (coded to Aarida Border Crossing).
+
+---
+
+[EVENT: LBN961]
+Date: 2019-01-04
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Lebanon) [Protesters]
+Fatalities: 0
+Sources: AP; Xinhua [International]
+
+DESCRIPTION:
+Strikes: Parts of Lebanon's public and private sectors went on a union-organized strike to protest worsening economic conditions and months of delay in the formation of a new government. The one-day strike was called for by the General Confederation of Lebanese Workers, with the backing of the new cross-sectarian Sabaa Party.
+
+---
+
+[EVENT: LBN969]
+Date: 2019-01-12
+Country: Lebanon | Location: Masnaa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: On Jan 13 it was reported that over the last 24 hours 442 Syrian refugees returned to Syria from the New Jabbus/Masnaa and Talkalkh crossings, including 133 women, 225 children.
+
+---
+
+[EVENT: LBN979]
+Date: 2019-01-15
+Country: Lebanon | Location: Deir al Ahmar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Property destruction: On Jan 14, unidentified assailants shot at the house Lebanese Forces MP Habchi in Deir al-Ahmar causing material damage but no injuries. No one was home at the time.
+
+---
+
+[EVENT: LBN982]
+Date: 2019-01-24
+Country: Lebanon | Location: Borj Hammoud
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: AP [International]
+
+DESCRIPTION:
+Displacement: On Jan 24, almost 1,000 Syrian refugees in Lebanon went back to Syria from Lebanon. Hundreds of refugees gathered in Burj Hammound and boarded buses that took them back to Syria. Hundreds of others departed from other parts of Lebanon. Their return was coordinated with the UN's refugee agency, the UNHCR.
+
+---
+
+[EVENT: LBN985]
+Date: 2019-01-31
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Lebanon (2019-2020) [State forces]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Non-violent activity: On Jan 31 2019, Lebanon has announced a new cabinet after an eight month long delay and nationwide protests.
+
+---
+
+[EVENT: LBN14216]
+Date: 2019-02-05
+Country: Lebanon | Location: Tripoli
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2019-2020) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Access Center for Human Rights (ACHR) [Local partner-National]
+
+DESCRIPTION:
+Around 5 February 2019 (as reported), military intelligence stormed a Syrian refugee camp and arrested 32 refugees in Rawhanyia in North governorate (coded to Tripoli, Tripoli). No specific reason was given for the arrests.
+
+---
+
+[EVENT: LBN992]
+Date: 2019-02-06
+Country: Lebanon | Location: Akroum
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2019-2020) [State forces]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Security measures: On Feb 6 2019, the Lebanese military closed off several illegal crossings at the border with Syria in North Bekaa.
+
+---
+
+[EVENT: LBN14217]
+Date: 2019-02-11
+Country: Lebanon | Location: Khirbet Daoud
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2019-2020) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Access Center for Human Rights (ACHR) [Local partner-National]
+
+DESCRIPTION:
+Around 11 February 2019 (as reported), military intelligence stormed a Syrian refugee camp and arrested 25 refugees in Khirbet Daoud (Akkar, Akkar). No specific reason was given for the arrests.
+
+---
+
+[EVENT: LBN1007]
+Date: 2019-02-20
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: Between 19 and 20 of Feb 2019, over 700 Syrian refugees returned to Syria from Jordan and Lebanon.
+
+---
+
+[EVENT: LBN1009]
+Date: 2019-02-21
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: Between 20 and 21 of Feb 2019, 133 Syrian refugees returned to Syria from Lebanon through the Jabos crossing.
+
+---
+
+[EVENT: LBN1012]
+Date: 2019-02-28
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: On Feb 28 2019, approximately 1,300 Syrian refugees returned to Syria from Lebanon. Dozens of Syrians returned through the Yabous, Al Qaa', Talakalakh, Dabbousiyah, and Nassib crossings with Syria.
+
+---
+
+[EVENT: LBN9823]
+Date: 2019-03-03
+Country: Lebanon | Location: Kfar Kila
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Movement of forces: On 3 March 2019, an Israeli military foot patrol crossed the blue line and walked 45 meters into the Lebanese side of the line in Kfar Kila village (Marjayoun).
+
+---
+
+[EVENT: LBN1016]
+Date: 2019-03-03
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: In the last 24 hours, approximately 96 Syrian refugees returned to Syria from Lebanon. Dozens of Syrians returned through the Yabous and talakalakh crossings with Syria.
+
+---
+
+[EVENT: LBN9829]
+Date: 2019-03-06
+Country: Lebanon | Location: Kfar Kila
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Movement of forces: On 6 March 2019, an Israeli military four-man patrol crossed the blue line and walked 45 meters into the Lebanese side of the line in Kfar Kila village (Marjayoun). The patrol stayed on the Lebanese side for around 90 minutes.
+
+---
+
+[EVENT: LBN1021]
+Date: 2019-03-09
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: As reported on March 9, over the last 24 hours over 100 Syrian refugees left Lebanon for Syria.
+
+---
+
+[EVENT: LBN1039]
+Date: 2019-03-19
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: In the last 24 hours, approximately 137 Syrian refugees returned to Syria from Lebanon. Dozens of Syrians returned through the Yabous and Talakalakh crossings with Syria.
+
+---
+
+[EVENT: LBN1042]
+Date: 2019-03-20
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: In the last 24 hours, approximately 187 Syrian refugees returned to Syria from Lebanon. Dozens of Syrians returned through the Yabous and Talakalakh crossings with Syria.
+
+---
+
+[EVENT: LBN1041]
+Date: 2019-03-22
+Country: Lebanon | Location: Rmaysh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Property destruction: On March 22 2019, Israeli forces installed a barbed wire fence while bulldozing dozens of trees at the border posts (142-145) in Wadi Atmoun, opposite the southern town of Rmeish.
+
+---
+
+[EVENT: LBN1044]
+Date: 2019-03-28
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: In the last 24 hours, approximately 214 Syrian refugees returned to Syria from Lebanon. Dozens of Syrians returned through the Yabous and Talakalakh crossings with Syria.
+
+---
+
+[EVENT: LBN1045]
+Date: 2019-03-30
+Country: Lebanon | Location: Beirut
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Al Nour [National]
+
+DESCRIPTION:
+Displacement: In the last 24 hours, approximately 223 Syrian refugees returned to Syria from Lebanon. Dozens of Syrians returned through the Yabous and Talakalakh crossings with Syria.

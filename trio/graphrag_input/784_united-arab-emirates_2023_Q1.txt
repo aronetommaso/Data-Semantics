@@ -1,0 +1,17 @@
+==================================================
+DOCUMENT CONTEXT
+Country: United Arab Emirates (ISO Code: 784)
+Temporal Period: Year 2023 - Quarter Q1
+Total Events in Chunk: 1 / 1
+==================================================
+
+[EVENT: ARE40]
+Date: 2023-03-29
+Country: United Arab Emirates | Location: Abu Dhabi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of the United Arab Emirates (2022-) [State forces]
+Fatalities: 0
+Sources: AP; The National (UAE) [National-International]
+
+DESCRIPTION:
+Other: On 29 March 2023, UAE President Muhammad bin Zayid al-Nahyan appointed his eldest son Sheikh Khalid bin Muhammad bin Zayid al-Nahyan as crown prince of Abu Dhabi, his brother Sheikh Mansur bin Zayid al-Nahyan as vice president and deputy PM of the UAE, and Sheikh Tahnun bin Zayid al-Nahyan and Sheikh Hazza bin Zayid al-Nahyan as deputy rulers of Abu Dhabi (coded to UAE capital Abu Dhabi).

@@ -1,0 +1,673 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Saudi Arabia (ISO Code: 682)
+Temporal Period: Year 2021 - Quarter Q2
+Total Events in Chunk: 48 / 48
+==================================================
+
+[EVENT: SAU22973]
+Date: 2021-04-01
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Ansar Allah; Khabar News Agency (Yemen); Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 1 April 2021, Saudi forces intercepted two bomb-laden drones (Qasif 2K) launched by Houthi forces towards Khamis Mushait (coded to district level at Khamis Mushait) (Asir) in Saudi Arabia.
+
+---
+
+[EVENT: SAU22979]
+Date: 2021-04-06
+Country: Saudi Arabia | Location: King Khalid Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Al Masirah; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 6 April 2021, Saudi forces claimed to have shot down 1 Houthi drone targeting locations in Khamis Mushayt district (Asir). In what is understood to be the same event Houthi forces announced that two Qasif-2K drones had struck King Khalid Air Base in the district.
+
+---
+
+[EVENT: SAU22975]
+Date: 2021-04-07
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Arab News; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 7 April 2021, Saudi forces intercepted a bomb-laden drone (Qasif 2K) launched by Houthi forces towards Khamis Mushait (coded to district level at Khamis Mushait) (Asir) in Saudi Arabia.
+
+---
+
+[EVENT: SAU22976]
+Date: 2021-04-08
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Al Masirah; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 8 April 2021, Saudi forces intercepted a bomb-laden drone (Qasif-2K) launched by Houthi forces towards Jizan (Jizan) in Saudi Arabia.
+
+---
+
+[EVENT: SAU22978]
+Date: 2021-04-09
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 9 April 2021, Saudi forces intercepted a ballistic missile launched by Houthi forces towards Jazan city (JIzan) in Saudi Arabia.
+
+---
+
+[EVENT: SAU22977]
+Date: 2021-04-09
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Al Masirah; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 9 April 2021, Saudi forces intercepted a bomb-laden drone (Qasif 2K) launched by Houthi forces towards Khamis Mushait (coded to district level at Khamis Mushait) (Asir) in Saudi Arabia.
+
+---
+
+[EVENT: SAU22983]
+Date: 2021-04-11
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Aden al Ghad; Twitter [New media-Regional]
+
+DESCRIPTION:
+Interception: On 11 April 2021, Saudi forces intercepted 1 ballistic missile and 2 bomb-laden drones including 1 Qasif-2K drone targeting Jizan (Jizan).
+
+---
+
+[EVENT: SAU22984]
+Date: 2021-04-11
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 11 April 2021, Saudi forces shot down 1 Houthi drone that targeted locations in Khamis Mushayt (Asir). In what is understood to be the same event Houthi forces claimed an attack using 2 Qasif-2K drones and Badr-1 missiles on King Khalid Air Base in the district and on Jizan (coded to district level).
+
+---
+
+[EVENT: SAU22980]
+Date: 2021-04-11
+Country: Saudi Arabia | Location: King Khalid Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Mashhad Al Araby; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 11 April 2021, Saudi forces shot down 1 Houthi drone that targeted locations in Khamis Mushayt (Asir). In what is understood to be the same event Houthi forces claimed an attack using 2 Qasif-2K drones and Badr-1 missiles on King Khalid Air Base in the district and on Jizan (coded to district level).
+
+---
+
+[EVENT: SAU22991]
+Date: 2021-04-15
+Country: Saudi Arabia | Location: Jizan - Saudi ARAMCO
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: AP; Saudi Press Agency; Yemen Data Project; Yemeni Army - Houthi [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 15 April 2021, Saudi forces claimed to have intercepted 4 Houthi bomb-laden drones and 5 Houthi ballistic missiles/rockets targeting Jizan city. Houthi forces claimed to have successfully launched 7 Sair and Badr artillery rockets on Jizan - Saudi ARAMCO and 4 Sammad-3 and Qasif-2K drones on Patriot systems in Jizan (two events coded).
+
+---
+
+[EVENT: SAU22993]
+Date: 2021-04-16
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni - Pro-IRG; Khabar News Agency (Yemen); Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 16 April 2021, Saudi forces intercepted a ballistic missile launched by Houthi forces towards Jazan city (JIzan) in Saudi Arabia.
+
+---
+
+[EVENT: SAU22992]
+Date: 2021-04-16
+Country: Saudi Arabia | Location: Prince Sultan Air Base
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2021-2025) [External/Other forces]
+Fatalities: 0
+Sources: AhlulBayt News Agency [Regional]
+
+DESCRIPTION:
+Movement of forces: On 16 April 2021, it was reported that US military forces deployed 300 airmen and F-16 fighters to the Prince Sultan Airbase (Al Kharj, Ar Riyadh) to support 'national security objectives' in the region.
+
+---
+
+[EVENT: SAU22996]
+Date: 2021-04-20
+Country: Saudi Arabia | Location: Abha Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Twitter; Yemen Data Project; Yemen Media Center [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 20 April 2021, Saudi forces shot down 1 Houthi drone launched towards Khamis Mushayt (Asir). In what is understood to be the same event Houthi forces claimed an attack using 1 Qasif-2K drone targeting Abha Regional Airport.
+
+---
+
+[EVENT: SAU22997]
+Date: 2021-04-21
+Country: Saudi Arabia | Location: King Khalid Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Saudi Press Agency; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 21 April 2021, Saudi forces intercepted 1 Houthi bomb-laden drone launched towards Khamis Mushayt (Asir). In what is understood to be the same event Houthi forces claimed an attack using 1 Qasif-2K drone targeting King Khalid Air Base.
+
+---
+
+[EVENT: SAU22998]
+Date: 2021-04-23
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Al Masirah; Twitter; Xinhua; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 23 April 2021, Saudi forces intercepted 2 Houthi bomb-laden drones launched towards Khamis Mushait (Asir). In what is understood to be the same event Houthi forces claimed an attack using 3 Qasif-2K drones targeting Khamis Mushait (coded to district level at Khamis Mushait).
+
+---
+
+[EVENT: SAU22999]
+Date: 2021-04-23
+Country: Saudi Arabia | Location: Jizan - Saudi ARAMCO
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Twitter; Xinhua [New media-International]
+
+DESCRIPTION:
+Interception: On 23 April 2021, Saudi forces claimed to have intercepted 1 Houthi bomb-laden drone aimed at Jizan (Jizan). In what is understood to be the same event Houthi forces claimed an attack using 1 Sammad-3 drone on Jizan - Saudi ARAMCO.
+
+---
+
+[EVENT: SAU23001]
+Date: 2021-04-24
+Country: Saudi Arabia | Location: King Khalid Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Jazeera; Saudi Press Agency; Twitter; Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 24 April 2021, Saudi forces claimed to have shot down 1 Houthi drone in southern Saudi Arabia. In what is understood to be the same event Houthi forces claimed an attack using 1 Qasif-2K drone targeting King Khalid Air Base (Khamis Mushayt, Asir).
+
+---
+
+[EVENT: SAU23002]
+Date: 2021-04-27
+Country: Saudi Arabia | Location: Coast of Yanbu
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Unidentified Armed Group (International) [Political militia]
+Fatalities: 0
+Sources: Al Arabiya; Al Jazeera; Reuters; UN Panel of Experts; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 27 April 2021, Saudi forces intercepted 1 explosive-laden drone boat of unknown origin off the Coast of Yanbu (Al Madinah) close to Yanbu Refinery. The interception took place 1.4 nm from Singaporean-flagged crude oil tanker TORM HERMIA (IMO: 9797993) moored at the refinery. UN experts believe that a 'mothership' was involved while the source of the attack remained unknown. The wreckage of a second explosive-laden drone boat was found in the Shuban al Sabah area around 30 nm south of Yanbu.
+
+---
+
+[EVENT: SAU23003]
+Date: 2021-04-28
+Country: Saudi Arabia | Location: King Khalid Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Khabar News Agency (Yemen); Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 28 April 2021, Saudi forces intercepted 1 Houthi bomb-laden drone launched towards Khamis Mushayt (Asir). In what is understood to be the same event Houthi forces claimed an attack using 1 Qasif-2K drone targeting King Khalid Air Base.
+
+---
+
+[EVENT: SAU23005]
+Date: 2021-05-01
+Country: Saudi Arabia | Location: Jeddah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Mashhad Al Araby; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 1 May 2021, Saudi forces intercepted a bomb-laden drone launched by Houthi forces towards Jeddah (Jiddah, Mecca).
+
+---
+
+[EVENT: SAU23006]
+Date: 2021-05-02
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Al Masirah; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 2 May 2021, Saudi forces intercepted a bomb-laden drone (Qasif-2K) launched by Houthi forces towards Khamis Mushait (coded to district level at Khamis Mushait) (Asir).
+
+---
+
+[EVENT: SAU23008]
+Date: 2021-05-03
+Country: Saudi Arabia | Location: Najran - Najran Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Aden al Ghad; Al Arabiya; Al Masdar; Ansar Allah; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 3 May 2021, Saudi forces claimed to have intercepted and shot down 2 Houthi ballistic missiles and 3 Houthi bomb-laden drones launched towards Najran. In what is understood to be the same event Houthi forces had earlier claimed to have launched 4 Qasif-2K drones and 2 Badr artillery rockets at Saudi military sites in Najran - Najran Airport (Najran) and at King Khalid Air Base in Asir.
+
+---
+
+[EVENT: SAU23012]
+Date: 2021-05-06
+Country: Saudi Arabia | Location: Prince Sultan Air Base
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2021-) Marine Corps [External/Other forces]
+Fatalities: 0
+Sources: AhlulBayt News Agency; AFCENT [Other-International]
+
+DESCRIPTION:
+Movement of forces: Around 6 May 2021 (week of), F/A-18D Hornet fighter jets and squadron personnel from the Marine All Weather Fighter Attack Squadron 224 (Marine Aircraft Group 31) deployed to Prince Sultan Air Base (Al Kharj, Ar Riyadh) as part of a dynamic force employment to 'enhance USCENTCOM's ability to deter aggression and promote security and stability within the USCENTCOM area of responsibility'.
+
+---
+
+[EVENT: SAU23010]
+Date: 2021-05-08
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Omanaa; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 8 May 2021, Saudi forces claimed to have intercepted a bomb-laden drone launched by Houthi forces towards Khamis Mushait (coded to district level at Khamis Mushait) (Asir).
+
+---
+
+[EVENT: SAU23009]
+Date: 2021-05-09
+Country: Saudi Arabia | Location: King Khalid Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Sahwah; Ansar Allah; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 9 May 2021, Saudi forces claimed to have intercepted a bomb-laden drone launched by Houthi forces towards Khamis Mushait (Khamis Mushayt, Asir). In what is understood to be the same event Houthi forces claimed to have successfully targeted King Khalid Air Base with a Qasif-2K drone.
+
+---
+
+[EVENT: SAU23011]
+Date: 2021-05-10
+Country: Saudi Arabia | Location: Abha Regional Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Saudi Press Agency; Twitter; Yemen Data Project; Yemen News Agency SABA [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 10 May 2021, Saudi forces claimed to have intercepted a bomb-laden drone launched by Houthi forces towards Abha Regional Airport (Asir). In what is understood to be the same event Houthi forces claimed to have successfully struck a military target at the airport with a Qasif-2K drone.
+
+---
+
+[EVENT: SAU23014]
+Date: 2021-05-13
+Country: Saudi Arabia | Location: Najran - Saudi ARAMCO
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Khabar News Agency (Yemen); Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 13 May 2021, Saudi air defense forces claimed to have intercepted 8 Houthi bomb-laden drones and 3 Houthi missiles fired at the country. In what are understood to be the same events Houthi forces claimed to have successfully targeted Najran - Saudi ARAMCO, Najran - Najran Airport, and other 'sensitive targets' in Najran city with 5 Qasif-2K drones and with 7 Sair and Badr type artillery rockets.
+
+---
+
+[EVENT: SAU23013]
+Date: 2021-05-13
+Country: Saudi Arabia | Location: Najran - Najran Airport
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Khabar News Agency (Yemen); Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 13 May 2021, Saudi air defense forces claimed to have intercepted 8 Houthi bomb-laden drones and 3 Houthi missiles fired at the country. In what are understood to be the same events Houthi forces claimed to have successfully targeted Najran - Saudi ARAMCO, Najran - Najran Airport, and other 'sensitive targets' in Najran city with 5 Qasif-2K drones and with 7 Sair and Badr type artillery rockets.
+
+---
+
+[EVENT: SAU23015]
+Date: 2021-05-13
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Khabar News Agency (Yemen); Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 13 May 2021, Saudi air defense forces claimed to have intercepted 8 Houthi bomb-laden drones and 3 Houthi missiles fired at the country. In what are understood to be the same events Houthi forces claimed to have successfully targeted Najran - Saudi ARAMCO, Najran - Najran Airport, and other 'sensitive targets' in Najran city with 5 Qasif-2K drones and with 7 Sair and Badr type artillery rockets.
+
+---
+
+[EVENT: SAU23016]
+Date: 2021-05-20
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Saudi Press Agency; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 20 May 2021, Saudi forces claimed to have shot down a Houthi explosive-laden drone that was launched towards Jizan (Jizan).
+
+---
+
+[EVENT: SAU23018]
+Date: 2021-05-28
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Mashhad Al Araby; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 28 May 2021, Saudi forces claimed to have shot down a Houthi bomb-laden drone targeting locations in Southern Saudi Arabia (coded to Najran).
+
+---
+
+[EVENT: SAU23020]
+Date: 2021-05-29
+Country: Saudi Arabia | Location: King Khalid Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Khalasah; Al Masirah; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 29 May 2021, Saudi forces claimed to have intercepted two bomb-laden drones launched by Houthi forces towards Khamis Mushayt district (Asir). In what is understood to be the same event Houthi forces claimed to have successfully targeted King Khalid Air Base in the district with two Qasif-2K drones (similar claims were made for three consecutive days over 29-31 May).
+
+---
+
+[EVENT: SAU23021]
+Date: 2021-05-30
+Country: Saudi Arabia | Location: King Khalid Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Al Masirah; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 30 May 2021, Saudi forces claimed to have intercepted a bomb-laden drone launched by Houthi forces towards Khamis Mushayt district (Asir). In what is understood to be the same event Houthi forces claimed to have successfully targeted King Khalid Air Base in the district with a Qasif-2K drones (similar claims were made for three consecutive days over 29-31 May).
+
+---
+
+[EVENT: SAU23030]
+Date: 2021-06-02
+Country: Saudi Arabia | Location: Riyadh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2021-2025) [External/Other forces]
+Fatalities: 0
+Sources: Al Jazeera [Regional]
+
+DESCRIPTION:
+Movement of forces: On 2 June 2021, the Pentagon started to withdraw US troops from several countries in the Middle East, including 8 Patriot antimissile batteries from Kuwait, Saudi Arabia, Iraq, and Jordan, and one Terminal High Altitude Area Defense (THAD) system from Saudi Arabia.
+
+---
+
+[EVENT: SAU23023]
+Date: 2021-06-06
+Country: Saudi Arabia | Location: King Khalid Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Sputnik News Service; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 6 June 2021, Saudi forces claimed to have intercepted a bomb-laden drone launched by Houthi forces towards Khamis Mushait (Khamis Mushayt, Asir). Houthi forces claimed to have successfully targeted King Khalid Air Base in Khamis Mushayt with a Qasif-2K drone.
+
+---
+
+[EVENT: SAU23024]
+Date: 2021-06-10
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Hour News; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 10 June 2021, Saudi forces claimed to have intercepted a Houthi drone that was sent to target locations in Khamis Mushait (Khamis Mushait, Asir).
+
+---
+
+[EVENT: SAU23027]
+Date: 2021-06-14
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Ansar Allah; Saudi Press Agency; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 14 June 2021, Saudi forces claimed to have intercepted a bomb-laden drone launched by Houthi forces towards Khamis Mushait (Khamis Mushait, Asir).
+
+---
+
+[EVENT: SAU23029]
+Date: 2021-06-17
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 17 June 2021, Saudi forces claimed to have intercepted a bomb-laden drone launched by Houthi forces towards Khamis Mushait (Khamis Mushait, Asir).
+
+---
+
+[EVENT: SAU23031]
+Date: 2021-06-19
+Country: Saudi Arabia | Location: King Khalid Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Al Masdar; Ansar Allah; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 19 June 2021, Saudi forces claimed to have intercepted 3 bomb-laden drones launched by Houthi forces towards Khamis Mushayt district (Asir). In what is understood to be the same event Houthi forces claimed to have successfully targeted King Khalid Air Base in the district with a Qasif-2K drone.
+
+---
+
+[EVENT: SAU54251]
+Date: 2021-06-19
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Interception: On 19 June 2021, Saudi forces claimed to have intercepted 1 Houthi drone presumed to be a Sammad or a Qasif towards Najran (coded to district level).
+
+---
+
+[EVENT: SAU23032]
+Date: 2021-06-20
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 20 June 2021, Saudi forces claimed to have intercepted a bomb-laden drone launched by Houthi forces towards Khamis Mushait (Khamis Mushait, Asir).
+
+---
+
+[EVENT: SAU23034]
+Date: 2021-06-22
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 22 June 2021, Saudi air defenses intercepted and shot down a Houthi bomb-laden drone that was targeting locations in Khamis Mushait (Asir).
+
+---
+
+[EVENT: SAU54250]
+Date: 2021-06-23
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 23 June 2021, Saudi air defenses intercepted and shot down 1 Houthi bomb-laden drone in Jizan (coded to governorate level).
+
+---
+
+[EVENT: SAU23035]
+Date: 2021-06-23
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Twitter; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 23 June 2021, Saudi air defenses intercepted and shot down 4 Houthi bomb-laden drones launched towards 'the southern area' (coded to Najran).
+
+---
+
+[EVENT: SAU23036]
+Date: 2021-06-25
+Country: Saudi Arabia | Location: King Khalid Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Al Khaleej; Twitter; Yemen Data Project; Yemen News Agency (SABA) - IRG [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 25 June 2021, Saudi forces claimed to have intercepted a bomb-laden drone launched by Houthi forces towards Khamis Mushayt district (Asir). In what is understood to be the same event Houthi forces claimed to have successfully targeted King Khalid Air Base in the district with a Qasif-2K drone.
+
+---
+
+[EVENT: SAU23037]
+Date: 2021-06-26
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 26 June 2021, Saudi forces claimed to have intercepted two bomb-laden drones launched by Houthi forces in the southern regions of Saudi Arabia and one in Najran.
+
+---
+
+[EVENT: SAU23040]
+Date: 2021-06-27
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Al Masirah; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 27 June 2021, Saudi forces claimed to have intercepted a ballistic missile launched by Houthi forces towards Najran. Houthi forces claimed to have successfully targeted King Khalid Air Base in Khamis Mushayt (Asir), the National Guard camp in Najran (Najran), and military sites at Abha Regional Airport (Asir) with 5 ballistic missiles and 5 bomb-laden drones.
+
+---
+
+[EVENT: SAU23039]
+Date: 2021-06-27
+Country: Saudi Arabia | Location: King Khalid Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Al Masirah; Yemen Data Project [Local partner-Regional]
+
+DESCRIPTION:
+Interception: On 27 June 2021, Saudi forces claimed to have intercepted a bomb-laden drone and a ballistic missile launched by Houthi forces towards Khamis Mushait (Khamis Mushayt, Asir). Houthi forces claimed to have successfully targeted King Khalid Air Base in Khamis Mushayt (Asir), the National Guard camp in Najran (Najran), and military sites at Abha Regional Airport (Asir) with 5 ballistic missiles and 5 bomb-laden drones.

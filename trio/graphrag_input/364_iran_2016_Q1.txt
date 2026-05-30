@@ -1,0 +1,102 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Iran (ISO Code: 364)
+Temporal Period: Year 2016 - Quarter Q1
+Total Events in Chunk: 7 / 7
+==================================================
+
+[EVENT: IRN1431]
+Date: 2016-01-04
+Country: Iran | Location: Tehran
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Government of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: FARS News Agency (Iran) [National]
+
+DESCRIPTION:
+Arrests: Iranian Deputy Interior Minister for Security and Law Enforcement Affairs Hossein Zolfaqari announced that a sum of 154 suspects have been detained or summoned to the judicial system in relation to the recent storming of the Saudi embassy in Tehran.
+
+---
+
+[EVENT: IRN16298]
+Date: 2016-01-11
+Country: Iran | Location: Qasr e Shirin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: Around 11 January 2016 (as reported), a mine set during the Iran-Iraq War exploded near Qasr e Shirin, injuring 1. It is unclear who planted the mine.
+
+---
+
+[EVENT: IRN1478]
+Date: 2016-02-24
+Country: Iran | Location: Shabestar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Iran) [Political militia]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Iranian Labour News Agency [National]
+
+DESCRIPTION:
+Looting: A group of men have attacked the house of a pro-reform candidate in Shabestar County and destroyed his car by setting it on fire. They also attacked the house of the candidate's brother and threatened his wife by a knife.
+
+---
+
+[EVENT: IRN15839]
+Date: 2016-02-27
+Country: Iran | Location: Sari
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Iran (1989-) [State forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Arrests: Around 27 February 2016 (as reported), 83 people were arrested in Mazandaran Province over allegations of vote buying during the 2016 Iranian legislative election. Coded at provincial capital, Sari.
+
+---
+
+[EVENT: IRN15841]
+Date: 2016-03-13
+Country: Iran | Location: Eyn e Khowsh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 13 March 2016, a nomad was injured in the area surrounding Eyn e Khowsh after stepping on a landmine planted during the Iran-Iraq War. It is unknown who planted the landmine.
+
+---
+
+[EVENT: IRN15842]
+Date: 2016-03-13
+Country: Iran | Location: Cham Hendi
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 13 March 2016, a shepherd was injured in the area surrounding Cham Hendi after stepping on a landmine planted during the Iran-Iraq War. It is unknown who planted the landmine.
+
+---
+
+[EVENT: IRN15844]
+Date: 2016-03-27
+Country: Iran | Location: Mahabad
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Human Rights Activists in Iran (HRA) [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 27 March 2016, a municipal worker was injured in Mahabad when a mine left over from the Iran-Iraq War exploded. It is unknown who planted the landmine.

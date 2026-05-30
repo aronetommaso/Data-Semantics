@@ -1,0 +1,171 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Saudi Arabia (ISO Code: 682)
+Temporal Period: Year 2016 - Quarter Q3
+Total Events in Chunk: 12 / 12
+==================================================
+
+[EVENT: SAU2473]
+Date: 2016-07-04
+Country: Saudi Arabia | Location: Abha
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [External/Other forces]
+Fatalities: 0
+Sources: AFP; UN Panel of Experts [Other-International]
+
+DESCRIPTION:
+Interception: On 4 July 2016, Saudi forces intercepted a Houthi-Saleh Qahir-1 free flight rocket targeting Abha (Asir). The rocket was launched from As Safra (Sadah).
+
+---
+
+[EVENT: SAU2478]
+Date: 2016-07-13
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Fatalities: 0
+Sources: AEI Critical Threats [International]
+
+DESCRIPTION:
+Movement of forces: Saudi ground forces were deployed by the Saudi-Yemeni border in Jazan district, as a response to Houthi-Saleh forces making progress towards the border from the Harad district in Hajjah governorate.
+
+---
+
+[EVENT: SAU2497]
+Date: 2016-07-23
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; UN Panel of Experts [Other-National]
+
+DESCRIPTION:
+Interception: On 23 July 2016, Saudi forces intercepted a Houthi-Saleh Qahir-1 free flight rocket targeting Najran (Najran).
+
+---
+
+[EVENT: SAU23222]
+Date: 2016-07-27
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [External/Other forces]
+Fatalities: 0
+Sources: UN Panel of Experts [Other]
+
+DESCRIPTION:
+Interception: On 27 July 2016, Saudi forces intercepted a Houthi-Saleh Qahir-1 free flight rocket targeting Khamis Mushait (Asir). The rocket was launched from As Safra (Sadah). The strike was reported by Saudi forces but not in the news.
+
+---
+
+[EVENT: SAU2571]
+Date: 2016-08-10
+Country: Saudi Arabia | Location: Abha
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [External/Other forces]
+Fatalities: 0
+Sources: AFP; Agence Tunis Afrique Presse; UN Panel of Experts [Other-International]
+
+DESCRIPTION:
+Interception: On 10 August 2016, Saudi forces intercepted a Houthi-Saleh Qahir-1 free flight rocket targeting Abha (Asir). The rocket was launched from As Safra (Sadah).
+
+---
+
+[EVENT: SAU2573]
+Date: 2016-08-10
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [External/Other forces]
+Fatalities: 0
+Sources: AFP; Agence Tunis Afrique Presse; UN Panel of Experts [Other-International]
+
+DESCRIPTION:
+Interception: On 10 August 2016, Saudi forces intercepted a Houthi-Saleh Qahir-1 free flight rocket targeting the Saudi military base in Khamis Mushait (Asir). The rocket was launched from As Safra (Sadah).
+
+---
+
+[EVENT: SAU2589]
+Date: 2016-08-13
+Country: Saudi Arabia | Location: Abha
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [External/Other forces]
+Fatalities: 0
+Sources: Asharq Al Awsat; UN Panel of Experts [Other-National]
+
+DESCRIPTION:
+Interception: On 13 August 2016, Saudi forces intercepted a Houthi-Saleh Qahir-1 free flight rocket targeting Abha (Asir). The rocket was launched from As Safra (Sadah).
+
+---
+
+[EVENT: SAU2599]
+Date: 2016-08-14
+Country: Saudi Arabia | Location: Najran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya [National]
+
+DESCRIPTION:
+Interception: On 14 August 2016, Saudi air defence forces intercepted two ballistic missiles fired by Houthi-Saleh forces towards the city of Najran. No casualties were reported.
+
+---
+
+[EVENT: SAU23224]
+Date: 2016-08-19
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [External/Other forces]
+Fatalities: 0
+Sources: UN Panel of Experts [Other]
+
+DESCRIPTION:
+Interception: On 19 August 2016, Saudi forces intercepted a Houthi-Saleh Qahir-1 free flight rocket targeting Khamis Mushait (Asir).
+
+---
+
+[EVENT: SAU2652]
+Date: 2016-08-25
+Country: Saudi Arabia | Location: Jizan
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [External/Other forces]
+Fatalities: 0
+Sources: AEI Critical Threats; Al Masdar; UN Panel of Experts [Other-Regional]
+
+DESCRIPTION:
+Interception: On 25 August 2016, Saudi forces intercepted an undetermined Houthi-Saleh free flight rocket/short-range ballistic missile targeting Jizan city (Jizan). The rocket/missile was launched from Bani Matar (Sanaa).
+
+---
+
+[EVENT: SAU2758]
+Date: 2016-09-12
+Country: Saudi Arabia | Location: King Khalid Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [External/Other forces]
+Fatalities: 0
+Sources: UN Panel of Experts; Yemen News Agency (SABA) - Houthi [Other-Regional]
+
+DESCRIPTION:
+Interception: On 12 September 2016, Saudi forces intercepted a Houthi-Saleh Scud (Burkan-1) short-range ballistic missile targeting King Khalid Air Base (Khamis Mushayt, Asir). The missile was launched from Sahar (Sadah).
+
+---
+
+[EVENT: SAU2780]
+Date: 2016-09-19
+Country: Saudi Arabia | Location: Khamis Mushait
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [State forces]
+Actor2: Military Forces of Yemen (2015-2017) Houthi-Saleh [External/Other forces]
+Fatalities: 0
+Sources: Al Arabiya; Yemen News Agency SABA; Yemen Sky [National-Regional]
+
+DESCRIPTION:
+Interception: On 19 September 2016, Pro-Saudi media reported that Saudi air defence forces intercepted a ballistic missile fired by Houthi/Saleh forces towards Khamis Mushait city in Asir governorate, while pro-Houthi/Saleh media reported that the missile struck Khamis Mushait military base and caused fatalities.

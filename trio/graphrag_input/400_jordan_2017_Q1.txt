@@ -1,0 +1,18 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Jordan (ISO Code: 400)
+Temporal Period: Year 2017 - Quarter Q1
+Total Events in Chunk: 1 / 1
+==================================================
+
+[EVENT: JOR10]
+Date: 2017-03-17
+Country: Jordan | Location: Irbid
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Jordan News Agency; Times of Israel [National-International]
+
+DESCRIPTION:
+Detonation: Debris from Israeli missiles intercepting Syrian missiles fell in several towns in the northern governorate of Irbid and in Ghor al Safi in the SouthernJordanValley. The army and security agencies are currently collecting the debris from populated areas. Noinjuries reported.

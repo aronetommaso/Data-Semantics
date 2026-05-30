@@ -1,0 +1,18 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Bahrain (ISO Code: 48)
+Temporal Period: Year 2018 - Quarter Q3
+Total Events in Chunk: 1 / 1
+==================================================
+
+[EVENT: BHR932]
+Date: 2018-09-23
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: Bahrain Mirror [National]
+
+DESCRIPTION:
+Arrests: On 23/9/2018, 27 people were arrested for taking part at the Ashura prayer in Manama city center.

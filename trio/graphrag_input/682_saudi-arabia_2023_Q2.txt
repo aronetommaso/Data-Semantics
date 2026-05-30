@@ -1,0 +1,18 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Saudi Arabia (ISO Code: 682)
+Temporal Period: Year 2023 - Quarter Q2
+Total Events in Chunk: 1 / 1
+==================================================
+
+[EVENT: SAU54239]
+Date: 2023-06-28
+Country: Saudi Arabia | Location: Jeddah
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Unidentified Armed Group (Saudi Arabia) [Political militia]
+Actor2: Police Forces of Saudi Arabia (2015-) [State forces]
+Fatalities: 2
+Sources: Al Arabiya; France24; Xinhua [National-International]
+
+DESCRIPTION:
+On 28 June 2023, an unidentified gunman exchanged fire with Saudi security forces and private security forces in Jeddah (Jiddah, Mecca) after the gunman opened fire on the US consulate in the city. The exchange of fire resulted in killing 2 (the gunman + a Nepalese security worker in the consulate).

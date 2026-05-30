@@ -1,0 +1,834 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Israel (ISO Code: 376)
+Temporal Period: Year 2023 - Quarter Q3
+Total Events in Chunk: 63 / 863
+==================================================
+
+[EVENT: ISR16089]
+Date: 2023-09-23
+Country: Israel | Location: Bet Neqofa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Black Flag Movement [Other]
+
+DESCRIPTION:
+On 23 September 2023, a protest took place at the Hemed Interchange in Bet Neqofa (Judean Mountains, Jerusalem) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16074]
+Date: 2023-09-23
+Country: Israel | Location: Netanya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Calcalist; Globes; Netanya Net; Walla!News [Subnational-National]
+
+DESCRIPTION:
+On 23 September 2023, about 8,000 protested in Netanya (Sharon, HaMerkaz) against the Netanyahu-led coalition's planned judicial overhaul. A Yesh Atid MK spoke at the protest. IDF veterans and anti-occupation activists took part in the protest.
+
+---
+
+[EVENT: ISR16069]
+Date: 2023-09-23
+Country: Israel | Location: Kabri
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+On 23 September 2023, a protest took place in Kabri (Akko, HaZafon) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16078]
+Date: 2023-09-23
+Country: Israel | Location: Nahariyya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Globes [National]
+
+DESCRIPTION:
+On 23 September 2023, a protest took place in Nahariyya (Akko, HaZafon) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16062]
+Date: 2023-09-23
+Country: Israel | Location: Tel Aviv
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Haaretz; Times of Israel; Walla!News [National]
+
+DESCRIPTION:
+On 23 September 2023, about 1,000 protested outside of Likud MK Amir Ohana's house in Tel Aviv city following the main protest in the city against the Netanyahu-led coalition's planned judicial overhaul. LGBTQ activists were present at the protest.
+
+---
+
+[EVENT: ISR16061]
+Date: 2023-09-23
+Country: Israel | Location: Tel Aviv
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Black Flag Movement; Calcalist; Globes; Haaretz; Times of Israel; Walla!News [Other-National]
+
+DESCRIPTION:
+On 23 September 2023, about 100,000 protested in Tel Aviv city against the Netanyahu-led coalition's planned judicial overhaul. IDF veterans, army reservists, LGBTQ activists, and anti-occupation activists took part in the protest. A protest group of bereaved families also took part in the protest. Kaplan Force protest leader and Black Flag Movement founder Shikma Bressler spoke at the protest. The Kaplan Force led and organized the protest.
+
+---
+
+[EVENT: ISR16087]
+Date: 2023-09-23
+Country: Israel | Location: Eilat
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Times of Israel [National]
+
+DESCRIPTION:
+On 23 September 2023, a protest took place in Eilat (Beer Sheva, HaDarom) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16066]
+Date: 2023-09-23
+Country: Israel | Location: Ramat Hasharon
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Calcalist; Globes; Haaretz; Walla!News [National]
+
+DESCRIPTION:
+On 23 September 2023, about 700 protested in Ramat Hasharon (Tel Aviv) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16067]
+Date: 2023-09-23
+Country: Israel | Location: Raanana
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Haaretz; Walla!News [National]
+
+DESCRIPTION:
+On 23 September 2023, hundreds to about 3,000 protested in Raanana (Petah Tiqwa, HaMerkaz) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16065]
+Date: 2023-09-23
+Country: Israel | Location: Ness Ziona
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+On 23 September 2023, hundreds protested in Ness Ziona (Rehovot, HaMerkaz) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16080]
+Date: 2023-09-23
+Country: Israel | Location: Kfar Saba
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Calcalist; Globes; Walla!News [National]
+
+DESCRIPTION:
+On 23 September 2023, about 6,000 protested in Kfar Saba (Petah Tiqwa, HaMerkaz) against the Netanyahu-led coalition's planned judicial overhaul. Anti-occupation activists took part in the protest.
+
+---
+
+[EVENT: ISR16070]
+Date: 2023-09-23
+Country: Israel | Location: Nahalal
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+On 23 September 2023, a protest took place in Nahalal (Yizreel, HaZafon) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16111]
+Date: 2023-09-24
+Country: Israel | Location: Bat Hefer
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Long War Journal [International]
+
+DESCRIPTION:
+On 24 September 2023, an unidentified Palestinian militant(s) opened fire toward the Israeli town of Bat Hefer near Shuwaykah village /Tulkarm (Eastern Sharon, HaMerkaz). There were no casualties.
+
+---
+
+[EVENT: ISR16104]
+Date: 2023-09-24
+Country: Israel | Location: Magen
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Kan News; N12; Now 14 [National]
+
+DESCRIPTION:
+On 24 September 2023, Palestinian militants in the Gaza Strip launched incendiary balloons towards Israel that landed in southern Israel in the area of the Eshkol Regional Council, presumably near Magen (Beer Sheva, HaDarom), sparking several fires in open areas. There were no casualties.
+
+---
+
+[EVENT: ISR16090]
+Date: 2023-09-24
+Country: Israel | Location: Tel Aviv
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Actor2: Police Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: 13 News; Calcalist; Globes; Haaretz; Times of Israel [National]
+
+DESCRIPTION:
+On 24 September 2023, hundreds protested at a public Yom Kippur prayer service in Tel Aviv city against the planned segregation of the service between men and women. Protesters yelled 'shame' at worshippers, removed the chairs that were set up for the service, and took down the temporary barrier between men and women. Heated verbal confrontations took place between protesters and some worshippers after most of the worshippers left. Police forces detained one protester after he dismantled the main stage of the prayer service. The segregated service was organized despite an order from the Tel Aviv municipality to not hold it.
+
+---
+
+[EVENT: ISR16096]
+Date: 2023-09-24
+Country: Israel | Location: Rehovot
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+On 24 September 2023, a protest took place at the site of a planned public Yom Kippur prayer service in Rehovot (HaMerkaz) against the planned segregation of the service between men and women.
+
+---
+
+[EVENT: ISR16092]
+Date: 2023-09-25
+Country: Israel | Location: Jaffa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Calcalist; Haaretz; Times of Israel [National]
+
+DESCRIPTION:
+On 25 September 2023, a protest took place at a public Yom Kippur prayer service in Jaffa (Tel Aviv) against the planned segregation of the service between men and women. Worshippers who planned to attend the public service went to a nearby synagogue instead. Protests took place around the country against gender-segregated services that were planned to take place in public spaces.
+
+---
+
+[EVENT: ISR16098]
+Date: 2023-09-25
+Country: Israel | Location: Hod HaSharon
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Times of Israel [National]
+
+DESCRIPTION:
+On 25 September 2023, a protest took place at the site of a planned public Yom Kippur prayer service in Hod HaSharon (Petah Tiqwa, HaMerkaz) against the planned segregation of the service between men and women. Protests took place around the country against gender-segregated services that were planned to take place in public places.
+
+---
+
+[EVENT: ISR16094]
+Date: 2023-09-25
+Country: Israel | Location: Zikhron Yaaqov
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Haaretz; Times of Israel [National]
+
+DESCRIPTION:
+On 25 September 2023, a protest took place at the site of a planned public Yom Kippur prayer service in Zikhron Yaaqov (Hadera, Haifa) against the planned segregation of the service between men and women. Verbal confrontations took place between protesters and worshippers. Due to the protesters, the service did not take place as planned. Protests took place around the country against gender-segregated services that were planned to take place in public places.
+
+---
+
+[EVENT: ISR16091]
+Date: 2023-09-25
+Country: Israel | Location: Tel Aviv
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: 13 News; Calcalist; Globes; Haaretz; Times of Israel [National]
+
+DESCRIPTION:
+On 25 September 2023, hundreds protested in at least three separate locations in Tel Aviv city against the planned gender-segregated Yom Kippur services set to take place in public spaces. Heated verbal confrontations took place at the planned site of a service in Dizengoff. Police forces nonviolently dispersed protesters at two of the locations.
+
+---
+
+[EVENT: ISR16093]
+Date: 2023-09-25
+Country: Israel | Location: Givatayim
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: 13 News; Haaretz [National]
+
+DESCRIPTION:
+On 25 September 2023, about 30 protested at the site of a planned public Yom Kippur prayer service in Givatayim (Tel Aviv) against the planned segregation of the service between men and women. Due to the protesters, the service did not take place as planned. Protests took place around the country against gender-segregated services that were planned to take place in public places.
+
+---
+
+[EVENT: ISR16097]
+Date: 2023-09-25
+Country: Israel | Location: Herzliya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Times of Israel [National]
+
+DESCRIPTION:
+On 25 September 2023, a protest took place at the site of a planned public Yom Kippur prayer service in Herzliya (Tel Aviv) against the planned segregation of the service between men and women. Protests took place around the country against gender-segregated services that were planned to take place in public places.
+
+---
+
+[EVENT: ISR16095]
+Date: 2023-09-25
+Country: Israel | Location: Haifa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: 13 News; Haaretz; Mynet; Times of Israel [National]
+
+DESCRIPTION:
+On 25 September 2023, a protest took place at the site of a planned public Yom Kippur prayer service in Haifa city against the planned segregation of the service between men and women. Heated verbal confrontations took place as worshippers tore down some signs that were hung up by protesters. LGBTQ activists took part in the protest. Protests took place around the country against gender-segregated services that were planned to take place in public places.
+
+---
+
+[EVENT: ISR16108]
+Date: 2023-09-26
+Country: Israel | Location: Jerusalem
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Israel) [Rioters]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Makor Rishon [National]
+
+DESCRIPTION:
+On 26 September 2023, three Israeli Arab rioters threw stones toward Israeli Jews during two separate instances in Jerusalem (Judean Mountains). No injuries or material damages were reported. Police forces later detained the three rioters.
+
+---
+
+[EVENT: ISR16136]
+Date: 2023-09-26
+Country: Israel | Location: Yavne
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: BE106 [Subnational]
+
+DESCRIPTION:
+On 26 September 2023, dozens of anti-judicial overhaul activists protested outside of a local Likud campaign event in Yavne (Rehovot, HaMerkaz). Likud MKs were present at the event.
+
+---
+
+[EVENT: ISR16101]
+Date: 2023-09-26
+Country: Israel | Location: Kfar Saba
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Ynet [National]
+
+DESCRIPTION:
+On 26 September 2023, dozens of anti-judicial overhaul activists protested in Kfar Saba (Petah Tiqwa, HaMerkaz) as Likud MK and Education Minister Yoav Kisch arrived at an event for a Likud candidate for city council.
+
+---
+
+[EVENT: ISR16105]
+Date: 2023-09-26
+Country: Israel | Location: Kefar Azza
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Jerusalem Post; Times of Israel; Ynet [National]
+
+DESCRIPTION:
+On 26 September 2023, Palestinian militants in the Gaza Strip launched incendiary balloons towards Israel that landed in southern Israel, sparking a fire in an open area near Kefar Azza (Ashqelon, HaDarom). There were no casualties.
+
+---
+
+[EVENT: ISR16099]
+Date: 2023-09-27
+Country: Israel | Location: Netanya
+Type: Riots > Violent demonstration | Disorder: Demonstrations
+Actor1: Rioters (Israel) [Rioters]
+Actor2: Police Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Israel Hayom; Netanya Net; Times of Israel; Ynet [Subnational-National]
+
+DESCRIPTION:
+On 27 September 2023, about 200 Israelis of Ethiopian descent blocked traffic on in Netanya (Sharon, HaMerkaz) in demonstration against Israeli authorities' handling of a hit-and-run incident that killed an Ethiopian boy several months ago. Police forces forcibly dispersed demonstrators who were blocking traffic, leading to clashes at the scene.
+
+---
+
+[EVENT: ISR16106]
+Date: 2023-09-27
+Country: Israel | Location: Beeri
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Israel Hayom [National]
+
+DESCRIPTION:
+On 27 September 2023, Palestinian militants in the Gaza Strip launched incendiary balloons towards Israel that landed in southern Israel, sparking two fires in the forest in Beeri (Beer Sheva, HaDarom). There were no casualties.
+
+---
+
+[EVENT: ISR16100]
+Date: 2023-09-27
+Country: Israel | Location: Basmat Tabun
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Jerusalem Post; N12; Ynet [National]
+
+DESCRIPTION:
+On 27 September 2023, Israeli Arabs protested in Basmat Tabun (Yizreel, HaZafon) outside of a house where National Security Minister Itamar Ben Gvir was visiting the family of victims who were recently killed in the latest attacks within the Israeli Arab community. Protesters stated that Ben Gvir has 'blood on his hands,' as an increase in crime and homicide rates has taken place in the Arab sector during his tenure.
+
+---
+
+[EVENT: ISR16109]
+Date: 2023-09-27
+Country: Israel | Location: Al Araqeeb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2022-) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48 [Regional]
+
+DESCRIPTION:
+Property destruction: On 27 September 2023, Israeli authorities (coded as police forces) demolished several dwellings and tents recently built in the unrecognized Bedouin village of Al Araqeeb (Beer Sheva, HaDarom). Israeli authorities have thwarted attempts of local Bedouins to rebuild dwellings in the village since its demolition in 2010, as the government does not recognize their claim to the land and demands them to move to alternate lots in nearby towns.
+
+---
+
+[EVENT: ISR16102]
+Date: 2023-09-28
+Country: Israel | Location: Jerusalem - Rehavia
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Actor2: Police Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Haaretz; Jerusalem Post; Ynet [National]
+
+DESCRIPTION:
+On 28 September 2023, dozens protested outside of Prime Minister Netanyahu's home in Jerusalem - Rehavia (Judean Mountains) against the Netanyahu-led coalition's planned judicial overhaul. Army reservists and IDF veterans took part in the protest. Police forces detained four protesters for violating public order, after some protesters attempted to break through security barriers. A group of protesters then gathered outside of the nearby police station where the arrested protesters were being held.
+
+---
+
+[EVENT: ISR16107]
+Date: 2023-09-28
+Country: Israel | Location: Beeri
+Type: Explosions/Remote violence > Shelling/artillery/missile attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Fatalities: 0
+Sources: Israel Hayom [National]
+
+DESCRIPTION:
+On 28 September 2023, Palestinian militants in the Gaza Strip launched incendiary balloons towards Israel that landed in southern Israel, sparking a fire in the forest in Beeri (Beer Sheva, HaDarom). There were no casualties.
+
+---
+
+[EVENT: ISR16110]
+Date: 2023-09-28
+Country: Israel | Location: Tirah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2022-) [State forces]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Arab 48; Panet [National-Regional]
+
+DESCRIPTION:
+Property destruction: On 28 September 2023, Israeli authorities [coded as police forces] demolished an under-construction house belonging to an Israeli Arab citizen in Tirah (Sharon, HaMerkaz) for not having a building permit.
+
+---
+
+[EVENT: ISR16103]
+Date: 2023-09-28
+Country: Israel | Location: Tel Aviv
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Times of Israel; Walla!News [National]
+
+DESCRIPTION:
+On 28 September 2023, hundreds attended a protest prayer service in Tel Aviv city against the Netanyahu-led coalition's planned judicial overhaul. A Labor party MK attended the protest event.
+
+---
+
+[EVENT: ISR16148]
+Date: 2023-09-29
+Country: Israel | Location: Jerusalem - Givat Ram
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Im Tirtzu [Other]
+
+DESCRIPTION:
+On 29 September 2023, right-wing Im Tirtzu activists held a protest outside of the Supreme Court in Jerusalem - Givat Ram (Judean Mountains), stating that the Supreme Court 'destroys' and 'wastes' everyone's votes. Protesters called on the court to not intervene in government's judicial overhaul legislation.
+
+---
+
+[EVENT: ISR16150]
+Date: 2023-09-29
+Country: Israel | Location: Tel Aviv
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Israel) [Rioters]
+Actor2: Rioters (Israel) [Rioters]
+Fatalities: 0
+Sources: Haaretz [National]
+
+DESCRIPTION:
+On 29 September 2023, brawls broke out in Tel Aviv city between groups of rioting Eritrean asylum seekers, presumably supporters and opponents of the Eritrean regime. Ten Eritrean asylum seekers were injured during the brawls.
+
+---
+
+[EVENT: ISR47575]
+Date: 2023-09-29
+Country: Israel | Location: Meirav
+Type: Violence against civilians > Attack | Disorder: Political violence
+Actor1: Unidentified Armed Group (Palestine) [Political militia]
+Actor2: Civilians (Israel) [Civilians]
+Fatalities: 0
+Sources: Quds News Network; Twitter [New media-Regional]
+
+DESCRIPTION:
+On 29 September 2023, unidentified Palestinian militants opened fire toward the Israeli town of Meirav (Bet Shean Basin, HaZafon). There were no casualties.
+
+---
+
+[EVENT: ISR16120]
+Date: 2023-09-30
+Country: Israel | Location: Nahalal
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Globes; Haaretz; Walla!News [National]
+
+DESCRIPTION:
+On 30 September 2023, hundreds protested in Nahalal (Yizreel, HaZafon) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16115]
+Date: 2023-09-30
+Country: Israel | Location: Haifa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Haaretz; Mynet; Times of Israel [National]
+
+DESCRIPTION:
+On 30 September 2023, dozens of Israeli Arabs and Jews protested in Haifa city against the government's inaction regarding the rise in crime and homicide rates in the Arab community. This protest took place at the same time as the main protest in the city against the judicial overhaul. Hadash MK and head of the Joint List Ayman Odeh took part in the protest.
+
+---
+
+[EVENT: ISR16130]
+Date: 2023-09-30
+Country: Israel | Location: Pardes Hanna Karkur
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Calcalist; Globes; Ynet [National]
+
+DESCRIPTION:
+On 30 September 2023, hundreds protested in Pardes Hanna Karkur (Hadera, Haifa) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16121]
+Date: 2023-09-30
+Country: Israel | Location: Zomet Zemah
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Calcalist; Globes; Haaretz; Times of Israel; Walla!News [National]
+
+DESCRIPTION:
+On 30 September 2023, hundreds protested at Zomet Zemah (Kinneret, HaZafon) against the Netanyahu-led coalition's planned judicial overhaul. A man was documented heckling protesters, calling them 'nobodies' and saying that 'it's a shame that the Germans ran out of gas.'
+
+---
+
+[EVENT: ISR16127]
+Date: 2023-09-30
+Country: Israel | Location: Nezer Sereni
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Globes [National]
+
+DESCRIPTION:
+On 30 September 2023, a protest took place in Nezer Sereni (Ramla, HaMerkaz) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16114]
+Date: 2023-09-30
+Country: Israel | Location: Haifa
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Calcalist; Globes; Haaretz; Mynet; Times of Israel; Walla!News [National]
+
+DESCRIPTION:
+On 30 September 2023, about 1,000 protested in Haifa city against the Netanyahu-led coalition's planned judicial overhaul. Students took part in the protest. Israeli Arab activists took part in the protest, stating that those protesting for democracy should also 'fight against crime' in Arab communities.
+
+---
+
+[EVENT: ISR16122]
+Date: 2023-09-30
+Country: Israel | Location: Beersheba
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Globes [National]
+
+DESCRIPTION:
+On 30 September 2023, a protest took place in Beersheba (Beer Sheva, HaDarom) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16128]
+Date: 2023-09-30
+Country: Israel | Location: Ketura
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Globes [National]
+
+DESCRIPTION:
+On 30 September 2023, a protest took place in Ketura (Beer Sheva, HaDarom) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16125]
+Date: 2023-09-30
+Country: Israel | Location: Bet HaShitta
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Globes [National]
+
+DESCRIPTION:
+On 30 September 2023, a protest took place in Bet HaShitta (Yizreel, HaZafon) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16117]
+Date: 2023-09-30
+Country: Israel | Location: Herzliya
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Haaretz; Ynet [National]
+
+DESCRIPTION:
+On 30 September 2023, thousands protested in Herzliya (Tel Aviv) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16118]
+Date: 2023-09-30
+Country: Israel | Location: Kfar Saba
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Calcalist; Haaretz; Times of Israel; Ynet [National]
+
+DESCRIPTION:
+On 30 September 2023, thousands protested in Kfar Saba (Petah Tiqwa, HaMerkaz) against the Netanyahu-led coalition's planned judicial overhaul. A former supreme court justice spoke at the protest.
+
+---
+
+[EVENT: ISR16116]
+Date: 2023-09-30
+Country: Israel | Location: Jerusalem
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Globes; Haaretz; Times of Israel; Walla!News [National]
+
+DESCRIPTION:
+On 30 September 2023, hundreds protested outside of the president's residence in Jerusalem (Judean Mountains) against the Netanyahu-led coalition's planned judicial overhaul. A prominent Israeli Rabbi spoke at the protest, in addition to a former Hadash MK.
+
+---
+
+[EVENT: ISR16134]
+Date: 2023-09-30
+Country: Israel | Location: Afula
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Black Flag Movement [Other]
+
+DESCRIPTION:
+On 30 September 2023, a protest took place in Afula (Yizreel, HaZafon) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16123]
+Date: 2023-09-30
+Country: Israel | Location: Kabri
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Globes [National]
+
+DESCRIPTION:
+On 30 September 2023, a protest took place in Kabri (Akko, HaZafon) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16131]
+Date: 2023-09-30
+Country: Israel | Location: Modiin
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Calcalist; Walla!News [National]
+
+DESCRIPTION:
+On 30 September 2023, hundreds protested in Modiin (Ramla, HaMerkaz) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16151]
+Date: 2023-09-30
+Country: Israel | Location: Sakhnin
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Al-Ittihad; Arab 48 [National-Regional]
+
+DESCRIPTION:
+On 30 September 2023, about 2,000 Israeli Arabs gathered and marched in the city of Sakhnin (Shefaram, HaZafon) to commemorate the Arab uprising that occurred in 2000. Protesters raised Palestinian flags and voiced their grievances, chanting against the Israeli government's inaction in addressing the violence within Arab communities. The event was called by the High Follow-Up Committee for Arab Citizens of Israel.
+
+---
+
+[EVENT: ISR16132]
+Date: 2023-09-30
+Country: Israel | Location: Rosh Haayin
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Walla!News [National]
+
+DESCRIPTION:
+On 30 September 2023, a protest took place in Rosh Haayin (Petah Tiqwa, HaMerkaz) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16119]
+Date: 2023-09-30
+Country: Israel | Location: Zomet Gome
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Black Flag Movement; Haaretz [Other-National]
+
+DESCRIPTION:
+On 30 September 2023, hundreds protested at Zomet Gome (Zefat, HaZafon) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16124]
+Date: 2023-09-30
+Country: Israel | Location: Haogen
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Black Flag Movement; Calcalist; Globes [Other-National]
+
+DESCRIPTION:
+On 30 September 2023, hundreds protested in Haogen (Sharon, HaMerkaz) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16129]
+Date: 2023-09-30
+Country: Israel | Location: Rehovot
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Black Flag Movement; Calcalist; Globes; Walla!News [Other-National]
+
+DESCRIPTION:
+On 30 September 2023, about 1,000 protested in Rehovot (HaMerkaz) against the Netanyahu-led coalition's planned judicial overhaul. The former deputy mayor of Tel Aviv spoke at the protest.
+
+---
+
+[EVENT: ISR16126]
+Date: 2023-09-30
+Country: Israel | Location: Bnei Dror
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Calcalist; Globes [National]
+
+DESCRIPTION:
+On 30 September 2023, dozens protested at the Dror Interchange in Bnei Dror (Sharon, HaMerkaz) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16112]
+Date: 2023-09-30
+Country: Israel | Location: Tel Aviv
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Black Flag Movement; Calcalist; Globes; Haaretz; Times of Israel; Walla!News [Other-National]
+
+DESCRIPTION:
+On 30 September 2023, about 85,000 protested in Tel Aviv city against the Netanyahu-led coalition's planned judicial overhaul. A former IDF deputy chief of staff spoke at the protest. Kaplan Force protest leader and Black Flag Movement founder Shikma Bressler also spoke at the protest. The Kaplan Force organzed and led the protest.
+
+---
+
+[EVENT: ISR16113]
+Date: 2023-09-30
+Country: Israel | Location: Tel Aviv
+Type: Protests > Protest with intervention | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Actor2: Police Forces of Israel (2022-) [State forces]
+Fatalities: 0
+Sources: Calcalist; Globes; Haaretz; Times of Israel; Walla!News [National]
+
+DESCRIPTION:
+On 30 September 2023, dozens blocked traffic on Ayalon Highway in Tel Aviv city in protest against the Netanyahu-led coalition's planned judicial overhaul. Protesters built a sukkah on the road and lit flares, while some also chained themselves to the sukkah. Police nonviolently dispersed the protesters after about 25 minutes and detained two protesters before releasing them later in the evening.
+
+---
+
+[EVENT: ISR16133]
+Date: 2023-09-30
+Country: Israel | Location: Neurim
+Type: Protests > Peaceful protest | Disorder: Demonstrations
+Actor1: Protesters (Israel) [Protesters]
+Fatalities: 0
+Sources: Calcalist [National]
+
+DESCRIPTION:
+On 30 September 2023, dozens protested in Neurim (Sharon, HaMerkaz) against the Netanyahu-led coalition's planned judicial overhaul.
+
+---
+
+[EVENT: ISR16149]
+Date: 2023-09-30
+Country: Israel | Location: Netanya
+Type: Riots > Mob violence | Disorder: Political violence
+Actor1: Rioters (Israel) [Rioters]
+Actor2: Rioters (Israel) [Rioters]
+Fatalities: 1
+Sources: Haaretz [National]
+
+DESCRIPTION:
+On 30 September 2023, brawls broke out in Netanya (Sharon, HaMerkaz) between groups of rioting Eritrean asylum seekers, presumably supporters and opponents of the Eritrean regime. One person was stabbed to death, while eight others were injured in the brawls. Police forces arrested four rioters and are investigating the incident.

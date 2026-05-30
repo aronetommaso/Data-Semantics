@@ -1,0 +1,289 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Lebanon (ISO Code: 422)
+Temporal Period: Year 2017 - Quarter Q3
+Total Events in Chunk: 21 / 21
+==================================================
+
+[EVENT: LBN194]
+Date: 2017-07-02
+Country: Lebanon | Location: Bent Jbeil
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 1
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Explosive remnants of war: On 2 July 2017, Shibli Issa, 72, from the border town of Ramia in the Bint Jbeil district, died on Monday of wounds she sustained on Sunday night in the explosion of a landmine from the remnants of the Israeli occupation era.
+
+---
+
+[EVENT: LBN6241]
+Date: 2017-07-08
+Country: Lebanon | Location: Braytal
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Lebanon Support; National News Agency Lebanon [Local partner-Other]
+
+DESCRIPTION:
+On 8 July 2017, in an operation by Lebanese military forces, 50 Syrian refugees were arrested for having illegal papers, in Khirbet Daoud of Aakkar.
+
+---
+
+[EVENT: LBN199]
+Date: 2017-07-09
+Country: Lebanon | Location: Kfar Chouba
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Movement of forces: Israeli military on Sunday crossed the Blue line at Roueisat al-Alam, east of the town of Kfar Shuba on the southeastLebanonborder, withdrawing 15 minutes later.
+
+---
+
+[EVENT: LBN6433]
+Date: 2017-07-09
+Country: Lebanon | Location: El Qasr
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: El Nashra; Lebanon Support [Local partner-Other]
+
+DESCRIPTION:
+On 9 July 2017, in an operation by Lebanese military forces, 60 Syrian refugees were arrested for having illegal papers, in El Qasr village of Hermel.
+
+---
+
+[EVENT: LBN203]
+Date: 2017-07-12
+Country: Lebanon | Location: Aarsal
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Displacement: Around 300 refugees returned to their hometown in Syria on Wednesday from northeast Lebanon, where tensions have been high following army raids and suicide attacks on camps in the area.
+
+---
+
+[EVENT: LBN222]
+Date: 2017-07-22
+Country: Lebanon | Location: Jroud Arsal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Saraya Ahl al Sham [Rebel group]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Movement of forces: Around 30 militants of Saraya Ahl al Sham withdrew from the ongoing battles in Arsal's outskirts towards al-Malahi Refugee Camp, east of Arsal.
+
+---
+
+[EVENT: LBN228]
+Date: 2017-07-23
+Country: Lebanon | Location: Jroud Arsal
+Type: Battles > Non-state actor overtakes territory | Disorder: Political violence
+Actor1: Hezbollah [Political militia]
+Actor2: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 69
+Sources: BBC News; Naharnet [National-International]
+
+DESCRIPTION:
+On 23 July 2017, Military Media showed maps of the purported advances, saying that the entire area of rural Flita in the Western Qalamoun mountainous chain and 64 per cent of Jroud Arsal were in Hezbollah's hands. According to the military media unit, at least 46 Nusra militants were killed in Arsal's outskirts and at least 23 others were killed in Flita's outskirts on Sunday while dozens of the jihadist group's fighters were wounded.
+
+---
+
+[EVENT: LBN225]
+Date: 2017-07-23
+Country: Lebanon | Location: Jroud Arsal
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Saraya Ahl al Sham [Rebel group]
+Actor2: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+Agreement: On Sunday, the Saraya Ahl al Sham rebel group announced a ceasefire in Arsal 'in preparation for negotiations.'
+
+---
+
+[EVENT: LBN240]
+Date: 2017-07-27
+Country: Lebanon | Location: Aarsal
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Actor2: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: BBC News; Naharnet; Xinhua [National-International]
+
+DESCRIPTION:
+Agreement: The Lebanese General Security Director, Maj Gen Abbas Ibrahim is overseeing a negotiated agreement for the evacuation of militants from the Lebanese-Syria border area, Lebanese media has reported. Hezbollah announced that a 72-hour ceasefire took effect on all fronts in the Jroud Arsal area, on the Lebanese eastern borders with Syria, starting from 0300 gmt on 27 July.
+
+---
+
+[EVENT: LBN244]
+Date: 2017-07-31
+Country: Lebanon | Location: Aarsal
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Actor2: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: Al Arabiya [Regional]
+
+DESCRIPTION:
+Agreement: The second stage of the prisoners swap between Hezbollah militia and al-Nusra Front fighters began Monday morning.
+
+---
+
+[EVENT: LBN246]
+Date: 2017-08-03
+Country: Lebanon | Location: Aarsal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Press TV [Regional]
+
+DESCRIPTION:
+Movement of forces: Hezbollah has formally announced an end to a security operation aimed at clearing the Lebanese town of Arsal on the border with Syria of Al Qaeda-linked Nusra Front militants.
+
+---
+
+[EVENT: LBN247]
+Date: 2017-08-03
+Country: Lebanon | Location: Aarsal
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Actor2: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Agreement: Five Hezbollah captives were released Thursday and returned to Lebanon from the rebel-held Syrian province of Hama as part of a deal that ended Jabhat Fatah al-Sham's armed presence in the country. Their release came after 116 buses and 17 ambulances carrying militants from Jabhat Fatah al-Sham previously known as the Nusra Front made their way to Idlib.
+
+---
+
+[EVENT: LBN258]
+Date: 2017-08-14
+Country: Lebanon | Location: Jroud Arsal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Saraya Ahl al Sham [Rebel group]
+Fatalities: 0
+Sources: Naharnet; Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Change to armed group: On Aug 14, Buses carrying Saraya Ahl al Sham rebels and displaced Syrians took off from east Arsal heading to Syria's eastern al-Qalamoun
+
+---
+
+[EVENT: LBN9205]
+Date: 2017-08-20
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Asbat al Ansar [Political militia]
+Fatalities: 0
+Sources: El Nashra [National]
+
+DESCRIPTION:
+Movement of forces: On 20 August 2017, Osbat el Ansar was deployed in Ein el Hilweh.
+
+---
+
+[EVENT: LBN277]
+Date: 2017-08-22
+Country: Lebanon | Location: Ras al Kaf
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Detonation: Lebanese Army units are working on dismantling explosives and booby traps left behind by Daesh in Ras al-Kaf.
+
+---
+
+[EVENT: LBN336]
+Date: 2017-08-23
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Palestinian Joint Security Force [Political militia]
+Fatalities: 0
+Sources: National News Agency Lebanon [National]
+
+DESCRIPTION:
+Movement of forces: The joint Palestinian National Authority (PNA) deployed in Al-Tira neighborhood in Ain al-Hilweh refugee camp after the cease-fire, in order to stabilize the situation and call on the inhabitants of the camp to inspect the damaged areas and the losses suffered as a result of the heavy clashes.
+
+---
+
+[EVENT: LBN281]
+Date: 2017-08-24
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Militia (Bilal Arqoub) [Political militia]
+Fatalities: 0
+Sources: Daily Star (Lebanon) [National]
+
+DESCRIPTION:
+Movement of forces: Bilal Arqoub has reportedly left Ain al-Hilweh withdrawing from his former stronghold. Bilal Badr said in a statement Thursday that he would withdraw from the camp's Al-Tiri neighbourhood, which has been the site of heavyclashes.
+
+---
+
+[EVENT: LBN284]
+Date: 2017-08-27
+Country: Lebanon | Location: Ras Baalbek
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Lebanon (2016-2019) [State forces]
+Actor2: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Agreement: The Lebanese army announced a ceasefire in its offensive against IS. Lebanese authorities later located human remains belonging to 8 troops kidnapped by the Islamic State group three years ago.
+
+---
+
+[EVENT: LBN286]
+Date: 2017-08-28
+Country: Lebanon | Location: Jroud Arsal
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Lebanon (2016-2019) [State forces]
+Fatalities: 0
+Sources: AFP; Xinhua [International]
+
+DESCRIPTION:
+Agreement: Islamic State militants and their families began leaving a border area between Lebanon and Syria on Monday as part of a controversial negotiated deal with the group to end its presence there. Around 700 Islamic State (IS) militants and their families started evacuating their last stronghold in western Qalamoun region toward the eastern city of Bukamal on Monday.
+
+---
+
+[EVENT: LBN287]
+Date: 2017-09-03
+Country: Lebanon | Location: Ein el Hilweh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Lebanon) [Political militia]
+Fatalities: 0
+Sources: Naharnet [National]
+
+DESCRIPTION:
+Detonation: A hand grenade exploded at 8:00 am Sunday in Ain el-Hilweh Palestinian refugee camp, causing no casualties.
+
+---
+
+[EVENT: LBN5934]
+Date: 2017-09-06
+Country: Lebanon | Location: Aarsal
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Unidentified Military Forces [External/Other forces]
+Actor2: Civilians (Lebanon) [Civilians]
+Fatalities: 0
+Sources: Lebanon Support; National News Agency Lebanon [Local partner-Other]
+
+DESCRIPTION:
+Explosive remnants of war: On 6 September 2017, 2 civilians were injured by a landmine leftover by an unknown military force, in al-Rahwa area near Aarsal.

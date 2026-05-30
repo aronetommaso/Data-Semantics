@@ -1,0 +1,1602 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Yemen (ISO Code: 887)
+Temporal Period: Year 2021 - Quarter Q2
+Total Events in Chunk: 117 / 117
+==================================================
+
+[EVENT: YEM63915]
+Date: 2021-04-03
+Country: Yemen | Location: As Salif Port
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Masirah; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 3 April 2021, Saudi-led coalition forces claimed to have destroyed 1 Houthi bomb-laden boat (WBIED) in As Salif (coded to As Salif Port) (Al Hudaydah) while Houthi forces reported 1 Saudi-led coalition air raid on As Salif district in what is understood to be the same event.
+
+---
+
+[EVENT: YEM64014]
+Date: 2021-04-04
+Country: Yemen | Location: Al Habilayn
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Support and Reinforcement Brigades) [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Crater Sky; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 4 April 2021, 5th Support and Reinforcement brigade arrested the head of the office of the local authority's director in Radfan district (Lahij). Reason for the arrest is unclear.
+
+---
+
+[EVENT: YEM64021]
+Date: 2021-04-04
+Country: Yemen | Location: Tawr al Bahah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council of South Arabia [Political militia]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Movement of forces: On 4 April 2021, STC forces (coded as STC generic forces), sent 20 military units, two armored vehicles, and medium and light weapons to the Tur al Bahah district (Lahij).
+
+---
+
+[EVENT: YEM64022]
+Date: 2021-04-05
+Country: Yemen | Location: Marib
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: 26 September News - IRG; Al Khabar Post; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 5 April 2021, pro-Hadi forces shot down a bomb-laden Houthi drone northwest of Marib City (Marib).
+
+---
+
+[EVENT: YEM64020]
+Date: 2021-04-07
+Country: Yemen | Location: Sanaa - Al Sabeen
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Mareb Press [National]
+
+DESCRIPTION:
+Security measures: On 7 April 2021, Houthi forces deployed throughout the Al Sabeen area (As Sabain, Amanat al Asimah).
+
+---
+
+[EVENT: YEM64023]
+Date: 2021-04-08
+Country: Yemen | Location: Al Jufaynah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Masdar; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 8 April 2021, pro-Hadi military forces shot down a Qasif Houthi drone west of Al Jufaynah camp (Marib City, Marib).
+
+---
+
+[EVENT: YEM64031]
+Date: 2021-04-09
+Country: Yemen | Location: Hami
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Salafist Muslim Militia (Yemen) [Identity militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Property destruction: On 9 April 2021, unidentified Salafi militants destroyed several graves in Hami (Shihr, Hadramawt).
+
+---
+
+[EVENT: YEM64116]
+Date: 2021-04-10
+Country: Yemen | Location: Al Buqa
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Sahwah; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 10 April 2021, Saudi forces shot down a Houthi bomb-laden drone launched towards Saudi Arabia while it was in Yemeni airspace (unclear location coded to Al Buqa) (Kitaf wa Al Boqee, Sadah).
+
+---
+
+[EVENT: YEM64095]
+Date: 2021-04-10
+Country: Yemen | Location: Al Hillah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Property destruction: On 10 April 2021, Houthi forces burnt down an IDP camp in Al Hillah village (Hays, Al Hudaydah).
+
+---
+
+[EVENT: YEM64110]
+Date: 2021-04-10
+Country: Yemen | Location: Marib
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Al Motabaat; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Security measures: On 10 April 2021, pro-coalition forces and pro-Hadi forces established fortifications and military constructions in the western side of Marib City (Marib). According to source, this is done in preparation for street warfare.
+
+---
+
+[EVENT: YEM64126]
+Date: 2021-04-11
+Country: Yemen | Location: Al Fakhir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Omanaa; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 11 April 2021, Houthi reinforcements were seen to make their way to Rabat As Sallami in Al Fakhir frontline (Qaatabah, Ad Dali). The forces came from Ibb.
+
+---
+
+[EVENT: YEM64144]
+Date: 2021-04-11
+Country: Yemen | Location: Al Mashjah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Giants Brigades [Political militia]
+Fatalities: 0
+Sources: Mareb Press; Mujtahid News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 11 April 2021, Giants brigades' forces withdrew from Al Mashjah and Sirwah fronts (Sirwah, Marib) into Marib city.
+
+---
+
+[EVENT: YEM64172]
+Date: 2021-04-13
+Country: Yemen | Location: Al Khabr
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Security Belt Forces) [Political militia]
+Actor2: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Nukhba Hadramawt [National]
+
+DESCRIPTION:
+Agreement: On 13 April 2021, STC forces reached an agreement with pro-Hadi military forces to end clashes and for pro-Hadi military forces to withdraw from Khabr al Maraqishah (Khanfir, Abyan). Mediation was facilitated by the Giants Brigade.
+
+---
+
+[EVENT: YEM64214]
+Date: 2021-04-14
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: STC: Southern Transitional Council of South Arabia [Political militia]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Arrests: On 14 April 2021, the local authority in Shabwah raided a gathering where STC representatives were handing out food for residents in Ataq (Ataq, Shabwah). The forces also detained Ahmed Al Haqel, a member of the STC's human rights department, who was there part of the team handing out food.
+
+---
+
+[EVENT: YEM64193]
+Date: 2021-04-14
+Country: Yemen | Location: Aden - Hayy an Nasr
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council of South Arabia [Political militia]
+Actor2: STC: Southern Transitional Council (Shabwani Elite Forces) [Political militia]
+Fatalities: 0
+Sources: Al Janoob al Youm; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 14 April 2021, pro-STC forces, (coded as STC generic forces), arrested 18 soldiers of the Shabwani Elite forces and took them to the Sulban camp in Aden - Hayy an Nasr (Khur Maksar) because they were involved in demonstrations in Aden two days before demanding their unpaid salaries.
+
+---
+
+[EVENT: YEM64233]
+Date: 2021-04-15
+Country: Yemen | Location: Ibb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni - Pro-IRG [National]
+
+DESCRIPTION:
+Property destruction: On 15 April 2021, Houthi forces looted the Omar bin Abdulaziz mosque in eastern Ibb city (Al Mashannah, Ibb), confiscating over 500 books from its library.
+
+---
+
+[EVENT: YEM64255]
+Date: 2021-04-16
+Country: Yemen | Location: As Sawmaah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 16 April 2021, pro-Hadi forces and Hazamiyah tribesmen (part of the Popular Resistance) shot down 1 Houthi Rasid drone over As Sawmaah district (Al Bayda).
+
+---
+
+[EVENT: YEM64298]
+Date: 2021-04-18
+Country: Yemen | Location: Aden - Khawr Maksar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Omanaa; Crater Sky; Twitter; Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+Property destruction: On 18 April 2021, an unidentified armed group burned the car of STC-affiliated Khur Maksar's Director General near his house in the district (Aden). The car was mildly damaged.
+
+---
+
+[EVENT: YEM64314]
+Date: 2021-04-18
+Country: Yemen | Location: Al Buqa
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Mareb Press; Twitter [New media-National]
+
+DESCRIPTION:
+Interception: On 18 April 2021, Saudi forces (coded under ORH) intercepted 1 Houthi bomb-laden drone within Yemeni airspace as they were launched towards Saudi Arabia (coded to Al Buqa) (Kitaf wa Al Boqee, Sadah).
+
+---
+
+[EVENT: YEM64302]
+Date: 2021-04-18
+Country: Yemen | Location: Al Jah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Other: On 18 April 2021, Houthi snipers targeted residential villages in Al Jah (Bayt Al Faqiah, Al Hudaydah) with various types of ammunition. *Based on previous events and reporting patterns, the actual 'residential' nature of these areas is unclear.
+
+---
+
+[EVENT: YEM64301]
+Date: 2021-04-18
+Country: Yemen | Location: Al Jah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Fatalities: 0
+Sources: Al Masirah; Ansar Allah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 18 April 2021, anti-Houthi forces, coded as WCJF, uprooted palm trees in Al Jah (Bayt Al Faqiah, Al Hudaydah) to build fortifications.
+
+---
+
+[EVENT: YEM109364]
+Date: 2021-04-18
+Country: Yemen | Location: Sanaa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: HRW; Twitter [Other-New media]
+
+DESCRIPTION:
+Looting: On 18 April 2021, Houthi Judicial Guard (coded as Houthi generic police forces) stormed, looted, and shut down 2 private media companies in Amanat al Asimah governorate (coded to governorate capital Sanaa). The companies, Yemen Live for Media Production and Satellite Broadcasting and Yemen Digital Media, belonged to the same owner and provided media services to various national and international media channels and newspapers. The reason behind the raid was that the Houthi forces 'had information that the media companies were working with the enemy'.
+
+---
+
+[EVENT: YEM64316]
+Date: 2021-04-19
+Country: Yemen | Location: Lawdar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Islamic State in Yemen (ISY) [Rebel group]
+Fatalities: 0
+Sources: Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 19 April 2021, Islamic State leader Abu Safia Al Abyani arrived to Lawdar district (Abyan) accompanied by a number of IS fighters. According to the source, the group will make their way to As Sawmaah in Al Bayda governorate. Abu Safia was previously active in Afghanistan and Syria.
+
+---
+
+[EVENT: YEM64335]
+Date: 2021-04-20
+Country: Yemen | Location: Ad Durayhimi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Sputnik News Service; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 20 April 2021, WCJF shot down 1 Houthi reconnaissance drone in the east of Ad Durayhimi district (Al Hudaydah).
+
+---
+
+[EVENT: YEM64334]
+Date: 2021-04-20
+Country: Yemen | Location: Ad Durayhimi
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Sputnik News Service; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 20 April 2021, WCJF shot down 1 Houthi DJI Mavic 2 Pro modified to drop grenades drone in the skies of Ad Durayhimi district (Al Hudaydah).
+
+---
+
+[EVENT: YEM64323]
+Date: 2021-04-22
+Country: Yemen | Location: Al Mashjah
+Type: Battles > Armed clash | Disorder: Political violence
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 50
+Sources: 26 September News - IRG; Masa Press; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 22 April 2021, pro-Hadi forces supported by the Popular Resistance, with air cover from Saudi-led coalition airstrikes, clashed with Houthi forces at Al Mashjah front (Sirwah, Marib), resulting in more than 50 Houthi fatalities and the destruction of 12 Houthi combat vehicles.
+
+---
+
+[EVENT: YEM64401]
+Date: 2021-04-23
+Country: Yemen | Location: Qahban
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Ayyam (Yemen); Al Mawqea; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 23 April 2021, pro-Hadi forces shot down 1 Houthi Rasid reconnaissance drone in Qahban front (Maqbanah, Taizz).
+
+---
+
+[EVENT: YEM64398]
+Date: 2021-04-23
+Country: Yemen | Location: Al Mashjah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Mawqea; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 23 April 2021, pro-Hadi forces shot down 2 bomb-laden Houthi drones including 1 Qasif in the skies of Al Mashjah front (Sirwah, Marib).
+
+---
+
+[EVENT: YEM64812]
+Date: 2021-04-24
+Country: Yemen | Location: As Saqya
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Sahil Al Gharbi; UN Panel of Experts [Other-Subnational]
+
+DESCRIPTION:
+Weapons seizure: On 24 April 2021, Giants Brigades forces (coded under WCJF) from the Bab el Mandeb Brigade seized a truck carrying material used in the construction of IEDs (1.5 million non-electric detonators) in Al Khamari near As Saqya area (Dhubab, Taizz). According to the source the truck was headed to Houthi areas. The markings and stickers on the crates indicate that the items were manufactured on 27 February 2021 by the India-based Gulf Oil Corporation Limited and that the consignee was the Djibouti-based Wahah Trading Company.
+
+---
+
+[EVENT: YEM64406]
+Date: 2021-04-25
+Country: Yemen | Location: Jabal as Sawda
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 0
+Sources: Al Mashhad Al Araby; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 25 April 2021, a number of AQAP fighters were deployed in Jabal As Sawda (Ataq, Shabwah). No fatalities reported.
+
+---
+
+[EVENT: YEM64408]
+Date: 2021-04-26
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of the United States (2021-2025) [External/Other forces]
+Fatalities: 0
+Sources: Moka News Agency; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 26 April 2021, US military drones were seen flying in the skies of a number of district in Shabwah governorate (Shabwah). This follows news on AQAP deployment in the governorate the previous day.
+
+---
+
+[EVENT: YEM64427]
+Date: 2021-04-26
+Country: Yemen | Location: Al Mashjah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 26 April 2021, pro-Hadi forces shot a Houthi bomb-laden drone in Al Mashjah frontline (Sirwah, Marib).
+
+---
+
+[EVENT: YEM64819]
+Date: 2021-04-26
+Country: Yemen | Location: Barh
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Sahil Al Gharbi [Subnational]
+
+DESCRIPTION:
+Weapons seizure: On 26 April 2021, 22nd Infantry Brigade of the WCJF seized a shipment of detonators in a house in Barh area (Maqbanah, Taizz). The detonators were reportedly going to be transported to Houthi forces.
+
+---
+
+[EVENT: YEM82445]
+Date: 2021-04-27
+Country: Yemen | Location: Al Kasarah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Interception: On 27 April 2021, Saudi forces shot down 1 bomb-laden Houthi drone over Al Kasarah front (coded to Sirwah, Marib).
+
+---
+
+[EVENT: YEM64556]
+Date: 2021-04-30
+Country: Yemen | Location: Dhamar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Police Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen) [National]
+
+DESCRIPTION:
+Land seizure: Around 30 April 2021 (as reported), a local Houthi supervisor -- 'Abu Yasin' -- seized a large property of land that was alloted for a police station in Azzan area of Dhamar city.
+
+---
+
+[EVENT: YEM64568]
+Date: 2021-05-01
+Country: Yemen | Location: Jabal al Balaq al Qibli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi - Special Security Forces [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Masdar; Twitter [New media-National]
+
+DESCRIPTION:
+Interception: On 1 May 2021, pro-Hadi Special Security forces intercepted and shot down 1 Rasid drone near Jabal al Balaq al Qibli (Sirwah) (Marib).
+
+---
+
+[EVENT: YEM64643]
+Date: 2021-05-02
+Country: Yemen | Location: Karish
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Support and Reinforcement Brigades) [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Nukhba Hadramawt [National]
+
+DESCRIPTION:
+Defusal: On 2 May 2021, the 5th STC Support and Reinforcement Brigade defused two Houthi IEDs on the Jabal Humalah-Al Ghurayb road in Kirsh front (Al Qabbaytah, Lahij). No fatalities were reported.
+
+---
+
+[EVENT: YEM64605]
+Date: 2021-05-04
+Country: Yemen | Location: Al Hudaydah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: National Resistance (Guards of the Republic) [Political militia]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen News Agency (SABA) - Houthi [Local partner-National]
+
+DESCRIPTION:
+Change to armed group: On 4 May 2021, the 6th Battalion of the Guardians of the Republic defected and joined the Houthis. The Houthi local authorities in Al Hudaydah city (Al Hudaydah) received the leader of the battalion -- Haytham Salem Arbak -- and welcomed his decision.
+
+---
+
+[EVENT: YEM64632]
+Date: 2021-05-05
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Mashhad Al Araby; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Looting: On 5 May 2021, an unidentified armed group, dressed in military uniform, looted 10 Million YR from a car associated with As Safi exchange company as it was parked in Al Ajr market in Ataq city (Shabwah).
+
+---
+
+[EVENT: YEM64669]
+Date: 2021-05-07
+Country: Yemen | Location: Al Kasarah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: 26 September News - IRG; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 7 May 2021, pro-Hadi forces shot down a Houthi bomb-laden drone in Al Kasarah front (Sirwah, Marib).
+
+---
+
+[EVENT: YEM64691]
+Date: 2021-05-08
+Country: Yemen | Location: Sanaa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni [National]
+
+DESCRIPTION:
+Property destruction: On 8 May 2021, Houthi forces demolished the grave of historical revolutionary figure Ali Abdullah Al Sallal, son of the first president of the Yemen Arab Republic, in Sanaa (Amanat Al Asimah). This caused wide spread condemnation.
+
+---
+
+[EVENT: YEM64702]
+Date: 2021-05-09
+Country: Yemen | Location: Aden - Salah ad Din Camp
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Saiqa Brigades) [Political militia]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Movement of forces: On 9 May 2021, Saiqa Brigades forces coming from Lahij governorate deployed a military force comprised of 20 military vehicles to the Aden - Salah ad Din Camp (Al Buraiqeh, Aden) where STC forces are concentrated.
+
+---
+
+[EVENT: YEM64730]
+Date: 2021-05-10
+Country: Yemen | Location: Sanaa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni [National]
+
+DESCRIPTION:
+Property destruction: On 10 May 2021, Houthi forces bulldozed a number of stores in a shopping mall in Sanaa (Amanat al Asimah) after their owners refused to pay the 'zakat'.
+
+---
+
+[EVENT: YEM64760]
+Date: 2021-05-13
+Country: Yemen | Location: Al Urrah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Sahwah [National]
+
+DESCRIPTION:
+On 13 May 2021, just after midnight, state forces led by a Houthi supervisor arrested around 60 residents of Al Urrah village (Shibam Kawkaban, Al Mahwit) as they were celebrating Eid. According to the source, the reason behind the arrests was that the residents had erased 'sectarian slogans' and removed pictures of Iranian leaders from the village's mosque.
+
+---
+
+[EVENT: YEM82321]
+Date: 2021-05-15
+Country: Yemen | Location: Suq Sirwah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Other: On 15 May 2021, a Rasid Houthi drone crashed northwest of Marib city (coded to Sirwah district at Suq Sirwah) (Marib). No further information was reported on the incident.
+
+---
+
+[EVENT: YEM73904]
+Date: 2021-05-15
+Country: Yemen | Location: Hadibu
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council of South Arabia [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Sana'a Center; Twitter [Local partner-Other]
+
+DESCRIPTION:
+On 15 May 2021, STC-affiliated forces (coded as STC generic forces) arrested 1 prominent Soqotri tribal sheikh in Suqutra governorate after he called for a protest against UAE and Saudi interference on the archipelago on WhatsApp. The sheikh was released on 18 May.
+
+---
+
+[EVENT: YEM82342]
+Date: 2021-05-16
+Country: Yemen | Location: Ad Durayhimi
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Interception: On 16 May 2021, WCJF shot down 1 Houthi Rujum drone (modified YD6-1000S) over Ad Durayhimi district (Al Hudaydah).
+
+---
+
+[EVENT: YEM64846]
+Date: 2021-05-16
+Country: Yemen | Location: Asdas
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Mawqea; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 16 May 2021, pro-Hadi military forces shot down a Houthi drone (presumed weaponized) northwest of Marib (coded to Raghwan district at Asdas) (Marib).
+
+---
+
+[EVENT: YEM64878]
+Date: 2021-05-18
+Country: Yemen | Location: Qarn al Kulasi
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Nukhba Hadramawt [National]
+
+DESCRIPTION:
+Movement of forces: On 18 May 2021, presumed pro-Hadi Islah-affiliated forces (reported as AQAP/Al Islah forces by the source) deployed to several locations in Abyan including Qarn al Kulasi (Khanfir, Abyan).
+
+---
+
+[EVENT: YEM64934]
+Date: 2021-05-20
+Country: Yemen | Location: Al Buqa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Ansar Allah; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 20 May 2021, Houthi forces shot down 1 Saudi-led coalition Wing Loong II type drone in Najran region front (coded to Al Buqa) (Kitaf wa Al Boqee, Sadah). *ACLED defaults to coding the event on the Yemeni side when the source describes a large area along the Saudi-Yemeni border.
+
+---
+
+[EVENT: YEM64941]
+Date: 2021-05-21
+Country: Yemen | Location: Jair
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Actor2: AQAP: Al Qaeda in the Arabian Peninsula [Rebel group]
+Fatalities: 2
+Sources: Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Other: On 21 May 2021, AQAP leadership executed two leaders in the group in Jair (As Sawmaah, Al Bayda) on charges of treason and communication with Emirati officers in Aden.
+
+---
+
+[EVENT: YEM64984]
+Date: 2021-05-23
+Country: Yemen | Location: Bir al Maraziq
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 23 May 2021, Houthi forces claimed to have shot down a Saudi-led coalition CH4 weaponized drone over Bir al Maraziq (Khabb wa ash Shaaf, Al Jawf).
+
+---
+
+[EVENT: YEM64990]
+Date: 2021-05-24
+Country: Yemen | Location: Shuqrah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Hayrout; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: Around 24 May 2021, pro-Hadi military reinforcements were sent to a camp in Shuqrah (Khanfir, Abyan), reportedly as a response to anticipated tensions with pro-STC forces in Abyan governorate.
+
+---
+
+[EVENT: YEM65007]
+Date: 2021-05-24
+Country: Yemen | Location: Al Kasarah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Masdar; Twitter; Yemen Data Project; Yemen Window [Local partner-National]
+
+DESCRIPTION:
+Interception: On 24 May 2021, pro-Hadi forces intercepted a Sammad-1 Houthi drone on a likely reconnaissance mission over Al Kasarah front (Sirwah, Marib).
+
+---
+
+[EVENT: YEM65023]
+Date: 2021-05-25
+Country: Yemen | Location: Sanaa - Old City
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni - Pro-IRG [National]
+
+DESCRIPTION:
+Property destruction: On 25 May 2021, Houthi forces completed the destruction of Al Nahrayn Mosque in Sanaa - Old City (Amanat al Asimah) after initiating its destruction in February 2021.
+
+---
+
+[EVENT: YEM65030]
+Date: 2021-05-25
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+Other: On 25 May 2021, senior officials in pro-Hadi government were transported by a helicopter to Ataq city (Shabwah) and were reportedly received by governor of Shabwah Saleh bin Adio. Source speculates that ex-minister of interior Ahmad Al Maysari was among the officials.
+
+---
+
+[EVENT: YEM65037]
+Date: 2021-05-26
+Country: Yemen | Location: Ad Durayhimi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: West Coast Joint Forces [Political militia]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 26 May 2021, WCJF claimed to have shot down a Rasid Houthi drone from the sky of Ad Durayhimi district (Al Hudaydah).
+
+---
+
+[EVENT: YEM65052]
+Date: 2021-05-27
+Country: Yemen | Location: Al Kasarah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 10
+Sources: Al Khalasah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Detonation: On 27 May 2021, a Houthi IED previously planted in Al Kasarah frontline (Sirwah, Marib) was triggered by Houthi fighters exploding and killing them. Unclear fatalities coded as 10.
+
+---
+
+[EVENT: YEM65101]
+Date: 2021-05-29
+Country: Yemen | Location: Coast of As Salif
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Masirah; Saudi Press Agency; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 29 May 2021, Saudi-led coalition forces claimed to have destroyed 2 Houthi bomb-laden boats (WBIEDs) off the Coast of As Salif Port (Al Hudaydah) while Houthi forces reported 6 Saudi-led coalition air raids on As Salif district in what is understood to be the same event.
+
+---
+
+[EVENT: YEM65103]
+Date: 2021-05-29
+Country: Yemen | Location: Hays
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 4
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Detonation: On 29 May 2021, Houthi forces attempted to plant mines in Dar al Masawi and Dar al Qahim areas, south of Hays city (Al Hudaydah), but accidentally detonated them themselves, killing 4 and injuring 2.
+
+---
+
+[EVENT: YEM65180]
+Date: 2021-06-01
+Country: Yemen | Location: Hadibu
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council of South Arabia [Political militia]
+Actor2: Military Forces of Yemen (2012-2022) Hadi - Military Police [State forces]
+Fatalities: 0
+Sources: Crater Sky; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 1 June 2021, pro-STC forces (coded as STC generic forces) arrested first lieutenant Said Ad Daia of the military police branch in Suqutra governorate. According to the source, his affiliation with Hadi could be the reason of the arrest.
+
+---
+
+[EVENT: YEM65171]
+Date: 2021-06-01
+Country: Yemen | Location: Ibb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Aden al Ghad [National]
+
+DESCRIPTION:
+Looting: On 1 June 2021, Houthi forces raided and took over the house of the father of Yemen TV's President -- Jamil Ezz ad Din -- in Ibb governorate, after expelling its inhabitants. Houthi forces claimed that there was a court order to seize the house, while a number of sources speculated that the incident was aimed to get back at Jamil Ezz ad Din for his coverage of the pro-Hadi government.
+
+---
+
+[EVENT: YEM65182]
+Date: 2021-06-02
+Country: Yemen | Location: Shuqrah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Al Khabar al Yemeni; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 2 June 2021, pro-Hadi forces were deployed to Shuqrah (Khanfir, Abyan). According to the source, the deployment included armored vehicles, tanks, and troop carriers, and came as part of a plan to retake Abyan.
+
+---
+
+[EVENT: YEM65184]
+Date: 2021-06-02
+Country: Yemen | Location: Aden - Al Banjasar
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council of South Arabia [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Masdar; HRW; Yemen Data Project; Yemen News Agency (SABA) - IRG [Local partner-National]
+
+DESCRIPTION:
+Other: On 2 June 2021, pro-STC armed forces led by Mukhtar Al Yafai, the Vice-President of the National Southern Media Authority, took over the building of the Yemen News Agency (SABA) and Al Thawrah newspaper located in Ad Dikkah/Tourists Quay area (coded to Aden - Al Banjasar) (Attawahi). According to the source, the group aims to launch a new media channel called 'Aden News Agency for the State of the South'.
+
+---
+
+[EVENT: YEM65206]
+Date: 2021-06-03
+Country: Yemen | Location: Ad Dihthath
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Property destruction: On 3 June 2021, Houthi forces shot at a civilian house in Ad Dihthath village (Al Mashannah, Ibb) damaging the house and destroying the car of the owner's brother. According to one source, the target is a member of the security forces.
+
+---
+
+[EVENT: YEM73905]
+Date: 2021-06-04
+Country: Yemen | Location: Hadibu
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council of South Arabia [Political militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: New Arab; Sana'a Center [Local partner-Other]
+
+DESCRIPTION:
+On 4 June 2021, STC-affiliated forces (coded as STC generic forces) arrested 1 Yemeni activist in Suqutra governorate after he criticized UAE influence over the STC on Facebook. He was released after four days.
+
+---
+
+[EVENT: YEM65292]
+Date: 2021-06-09
+Country: Yemen | Location: Zinjibar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council of South Arabia [Political militia]
+Fatalities: 0
+Sources: Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 9 June 2021, pro-STC forces (coded as STC generic forces) reportedly made their way to Abyan governorate on the eastern Aden-Abyan road in anticipation of a pro-Hadi offensive on Aden. The forces included trucks loaded with missiles, armored vehicles, and troop carriers.
+
+---
+
+[EVENT: YEM65299]
+Date: 2021-06-09
+Country: Yemen | Location: Al Khanjar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Khalasah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 9 June 2021, pro-Hadi forces claimed to have shot down 1 Houthi reconnaissance drone in Al Khanjar front (Khabb wa ash Shaaf, Al Jawf).
+
+---
+
+[EVENT: YEM65298]
+Date: 2021-06-09
+Country: Yemen | Location: Al Jadafir
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Bawabati; Twitter; Yemen Data Project; Yemeni Army - IRG [Local partner-National]
+
+DESCRIPTION:
+Interception: On 9 June 2021, pro-Hadi forces claimed to have shot down a Rasid Houthi bomb-laden drone above Al Jadafir east of Al Hazm city (Al Hazm, Al Jawf).
+
+---
+
+[EVENT: YEM65319]
+Date: 2021-06-09
+Country: Yemen | Location: Marib
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni - Pro-IRG; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 9 June 2021, Houthi forces reportedly withdrew from Al Jawf governorate to redeploy in Al Judaan, Haylan, and Al Kasarah fronts in Marib governorate.
+
+---
+
+[EVENT: YEM65389]
+Date: 2021-06-12
+Country: Yemen | Location: Al Mahjal
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Yemeni Army - IRG [Other]
+
+DESCRIPTION:
+Defusal: On 12 June 2021, pro-Hadi forces claimed to have defused 300 landmines allegedly planted by Houthi forces in the northeast of Al Jawf governorate (coded to Khabb wa Ash Shaaf district).
+
+---
+
+[EVENT: YEM65381]
+Date: 2021-06-12
+Country: Yemen | Location: Jaar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Security Belt Forces) [Political militia]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Movement of forces: On 12 June 2021, pro-STC Security Belt Forces and Support and Reinforcement Brigades deployed a large number of forces to checkpoints and road intersections in Khanfir and Zingibar districts (Abyan) amid reported tensions between pro-Hadi and pro-STC forces, as talks on the Riyadh Agreement are taking place in Saudi Arabia.
+
+---
+
+[EVENT: YEM65383]
+Date: 2021-06-12
+Country: Yemen | Location: Wadi Hassan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council of South Arabia [Political militia]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Movement of forces: On 12 June 2021, pro-STC forces (coded as STC generic forces) deployed to the east of Zinjibar, on the outskirts of Wadi Hassan and by the Irsal area (Zingibar, Abyan), amid reported tensions between pro-Hadi and pro-STC forces, as talks on the Riyadh Agreement are taking place in Saudi Arabia.
+
+---
+
+[EVENT: YEM65384]
+Date: 2021-06-12
+Country: Yemen | Location: Zinjibar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Security Belt Forces) [Political militia]
+Fatalities: 0
+Sources: Al Masdar [National]
+
+DESCRIPTION:
+Movement of forces: On 12 June 2021, pro-STC Security Belt Forces and Support and Reinforcement Brigades deployed a large number of forces to checkpoints and road intersections in Khanfir and Zingibar districts (Abyan) amid reported tensions between pro-Hadi and pro-STC forces, as talks on the Riyadh Agreement are taking place in Saudi Arabia.
+
+---
+
+[EVENT: YEM65473]
+Date: 2021-06-17
+Country: Yemen | Location: Ataq
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi - Special Security Forces [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: South24 Center for News and Studies; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 17 June 2021, pro-Hadi Special Security forces arrested five STC Hadramawt branch officials in Shabwah governorate as the officials were leaving the governorate after conducting a visit. Reason for the arrest is unclear. The officials were reportedly released on June 18.
+
+---
+
+[EVENT: YEM65463]
+Date: 2021-06-17
+Country: Yemen | Location: Al Jabaliyah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Other: On 17 June 2021, Houthi forces targeted residential neighborhoods north of At Tuhayta city center and in Al Fazzah and Al Jabaliyah (At Tuhayat, Al Hudaydah) with machine guns and sniper rifles. *Based on previous events and reporting patterns, the actual 'residential' nature of these areas is unclear.
+
+---
+
+[EVENT: YEM65464]
+Date: 2021-06-17
+Country: Yemen | Location: At Tuhayta
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Other: On 17 June 2021, Houthi forces targeted residential neighborhoods north of At Tuhayta city center and in Al Fazzah and Al Jabaliyah (At Tuhayat, Al Hudaydah) with machine guns and sniper rifles. *Based on previous events and reporting patterns, the actual 'residential' nature of these areas is unclear.
+
+---
+
+[EVENT: YEM65468]
+Date: 2021-06-17
+Country: Yemen | Location: Uzlat Madghil al Judaan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 17 June 2021, Houthi forces were deployed in Madghil al Judaan front (Medghal, Marib), and Jabal al Alam and Sirwah fronts (Sirwah, Marib), reportedly in a preparation for an offensive on Marib city.
+
+---
+
+[EVENT: YEM65469]
+Date: 2021-06-17
+Country: Yemen | Location: Jabal al Alam
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 17 June 2021, Houthi forces were deployed in Madghil al Judaan front (Medghal, Marib), and Jabal al Alam and Sirwah fronts (Sirwah, Marib), reportedly in a preparation for an offensive on Marib city.
+
+---
+
+[EVENT: YEM65470]
+Date: 2021-06-17
+Country: Yemen | Location: Suq Sirwah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 17 June 2021, Houthi forces were deployed in Madghil al Judaan front (Medghal, Marib), and Jabal al Alam and Sirwah fronts (Sirwah, Marib), reportedly in a preparation for an offensive on Marib city.
+
+---
+
+[EVENT: YEM65462]
+Date: 2021-06-17
+Country: Yemen | Location: Al Fazzah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Other: On 17 June 2021, Houthi forces targeted residential neighborhoods north of At Tuhayta city center and in Al Fazzah and Al Jabaliyah (At Tuhayat, Al Hudaydah) with machine guns and sniper rifles. *Based on previous events and reporting patterns, the actual 'residential' nature of these areas is unclear.
+
+---
+
+[EVENT: YEM82299]
+Date: 2021-06-17
+Country: Yemen | Location: Al Mashjah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [External/Other forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Interception: On 17 June 2021, pro-Hadi forces shot down 1 DJI Mavic 2 Houthi drone modified to carry explosives over Al Mashjah front (Sirwah, Marib).
+
+---
+
+[EVENT: YEM65482]
+Date: 2021-06-18
+Country: Yemen | Location: Abs
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 18 June 2021, hundreds of Houthi forces were deployed in Abs and Mustaba districts (Hajjah) and set up military constructions. According to the source, this was done in preparation for an attempt to regain territory taken recently by Hadi forces such as Bani Hasan village.
+
+---
+
+[EVENT: YEM65483]
+Date: 2021-06-18
+Country: Yemen | Location: Mustaba
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 18 June 2021, hundreds of Houthi forces were deployed in Abs and Mustaba districts (Hajjah) and set up military constructions. According to the source, this was done in preparation for an attempt to regain territory taken recently by Hadi forces such as Bani Hasan village.
+
+---
+
+[EVENT: YEM65475]
+Date: 2021-06-18
+Country: Yemen | Location: Dawran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 18 June 2021, dozens of Houthi fighters were deployed in Al Husha district (Ad Dali) setting up camps and fortifications in the district. According to the source, the deployment took place near Al Mishwas camp.
+
+---
+
+[EVENT: YEM65516]
+Date: 2021-06-19
+Country: Yemen | Location: Al Buqa
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Arabiya; Al Masdar; Ansar Allah; Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 19 June 2021, Saudi forces claimed to have intercepted 7 bomb-laden drones (presumed to be Sammad or Qasif) launched by Houthi forces towards the southern regions of Saudi Arabia as they were flying in 'Yemeni airspace' (unclear location coded to Al Buqa) (Kitaf wa Al Boqee, Sadah).
+
+---
+
+[EVENT: YEM65495]
+Date: 2021-06-19
+Country: Yemen | Location: Hays
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 3
+Sources: Al Amaliqah; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Detonation: On 19 June 2021, Houthi forces attempted to plant mines north of Hays city (Al Hudaydah) but accidentally detonated them, killing 3 and injuring 8 Houthi fighters.
+
+---
+
+[EVENT: YEM65535]
+Date: 2021-06-20
+Country: Yemen | Location: Al Mashjah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: Al Masirah; AP; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 20 June 2021, Houthi forces claimed to have shot down 1 US-made reconnaissance ScanEagle drone (presumed to be operated by the Saudi-led coalition) over Al Mashjah (Sirwah, Marib).
+
+---
+
+[EVENT: YEM82335]
+Date: 2021-06-20
+Country: Yemen | Location: Suq Sirwah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Interception: On 20 June 2021, pro-Hadi forces shot down 1 Houthi Qasif drone west of Marib governorate (coded to Sirwah district at Suq Sirwah).
+
+---
+
+[EVENT: YEM65771]
+Date: 2021-06-21
+Country: Yemen | Location: Jawl ar Raydah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi - Special Security Forces [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Khabar al Yemeni; Facebook; Yafa News [New media-National]
+
+DESCRIPTION:
+On 21 June 2021, pro-Hadi Islah-affiliated Special Security Forces manning Jawl ar Raydah checkpoint (Mayfaa, Shabwah) arrested two members of the STC National Assembly as they were leaving Shabwah and heading to Al Mukalla. *Note that it is unclear whether this is an arrest or an abduction.
+
+---
+
+[EVENT: YEM65576]
+Date: 2021-06-21
+Country: Yemen | Location: Al Mashjah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Operation Restoring Hope [External/Other forces]
+Fatalities: 0
+Sources: AhlulBayt News Agency; Ansar Allah; Twitter [New media-National]
+
+DESCRIPTION:
+Interception: On 21 June 2021, Houthi forces claimed to have shot down 1 reconnaissance ScanEagle drone (presumed to be operated by the Saudi-led coalition) over Al Mashjah (Sirwah, Marib). This was the second such incident in 48 hours.
+
+---
+
+[EVENT: YEM65558]
+Date: 2021-06-21
+Country: Yemen | Location: Rudum
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Nukhba Hadramawt [National]
+
+DESCRIPTION:
+On 21 June 2021, pro-Hadi Islah-affiliated security forces kidnapped two members of the Southern Resistance, including a reported leader, at Al Khibiyah checkpoint in Rudum district (Shabwah). According to sources, this is part of a series of arrests/kidnappings of prominent southern activists/STC affiliates ahead of an STC-organized anti-Islah protest in Wadi Abadan on 26 June. *Note that it is unclear whether this is an arrest or an abduction.
+
+---
+
+[EVENT: YEM72492]
+Date: 2021-06-22
+Country: Yemen | Location: Shihan Border Crossing
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Unidentified Armed Group (International) [Political militia]
+Fatalities: 0
+Sources: UN Panel of Experts [Other]
+
+DESCRIPTION:
+Weapons seizure: On 22 June 2021, Yemeni customs officers (coded as pro-Hadi police) seized seven RU90/120G thermal weapon sights in Shihan Border Crossing (Shahan, Al Mahrah) made by a Chinese-Iranian joint venture. The sights were transported on a civilian vehicle with an Omani license plate that was carrying ceramics and was driven by a Pakistani individual. The driver told authorities that the sights were given to him by a Yemeni inside Oman.
+
+---
+
+[EVENT: YEM82333]
+Date: 2021-06-23
+Country: Yemen | Location: Al Mashjah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Interception: On 23 June 2021, pro-Hadi forces claimed to have shot down at least 1 DJI Mavic 2 Pro Houthi drone modified to carry explosives in Al Mashjah (Sirwah, Marib).
+
+---
+
+[EVENT: YEM65602]
+Date: 2021-06-23
+Country: Yemen | Location: Wadi Abadan
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi - Special Security Forces [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Khabar al Yemeni; Al Mashhad Al Araby; Al Sharaea News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 23 June 2021, pro-Hadi Islah-affiliated Special Security Forces kidnapped a member of the STC Southern National Assembly and his companions as they were on their way from Aden to Wadi Abadan (Nisab, Shabwah). According to sources, this is part of a series of arrests/kidnappings of prominent southern activists/STC affiliates ahead of an STC-organized anti-Islah protest in Wadi Abadan on 26 June. *Note that it is unclear whether this is an arrest or an abduction.
+
+---
+
+[EVENT: YEM82331]
+Date: 2021-06-23
+Country: Yemen | Location: Al Kasarah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Interception: On 23 June 2021, pro-Hadi forces shot down 1 Rujum Houthi drone (modified YD6-1000S) carrying 60mm mortars over Al Kasarah front (Sirwah, Marib).
+
+---
+
+[EVENT: YEM65950]
+Date: 2021-06-24
+Country: Yemen | Location: Sadah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: 2 December News; Al Masdar [National]
+
+DESCRIPTION:
+Around 24 June 2021 (week of), Houthi authorities arrested Al Shanan tribal sheikh Khalid Shajaa in Sadah governorate claiming that he had killed a Houthi fighter some years back. The arrestee was reportedly released on 12 July due to tribal pressure after having been sentenced to death.
+
+---
+
+[EVENT: YEM65617]
+Date: 2021-06-24
+Country: Yemen | Location: Taizz - Old Airport
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Al Ayyam (Yemen); Yemen Data Project; Yemen News Agency (SABA) - IRG [Local partner-National]
+
+DESCRIPTION:
+Interception: On 24 June 2021, pro-Hadi forces shot down 1 Houthi reconnaissance drone in Taizz - Old Airport front (At Taiziyah).
+
+---
+
+[EVENT: YEM65628]
+Date: 2021-06-25
+Country: Yemen | Location: Hafrah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Nukhba Hadramawt [National]
+
+DESCRIPTION:
+Movement of forces: On 25 June 2021, pro-Hadi Islah-affiliated forces surrounded Wadi Abadan (Nisab, Shabwah) by establishing checkpoint at all its entrances, deploying more than 50 vehicles, in addition to 7 armored vehicles and 3 tanks, to Wadi Nisab, Qarn Hafrah, Al Kirmum, and Muawad to prevent the arrival of protestors to an STC-organized anti-Islah event in the area on 26 June
+
+---
+
+[EVENT: YEM65638]
+Date: 2021-06-25
+Country: Yemen | Location: Wadi Abadan
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+On 25 June 2021, pro-Hadi Islah-affiliated security forces arrested a photographer who was on his way to take pictures in an STC-organized anti-Islah event taking place in Wadi Abadan (Nisab, Shabwah). According to sources, this is part of a series of arrests/kidnappings of prominent southern activists/STC affiliates ahead of the event on 26 June. *Note that it is unclear whether this is an arrest or an abduction.
+
+---
+
+[EVENT: YEM65632]
+Date: 2021-06-25
+Country: Yemen | Location: Wadi Abadan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Nukhba Hadramawt [National]
+
+DESCRIPTION:
+Movement of forces: On 25 June 2021, pro-Hadi Islah-affiliated forces surrounded Wadi Abadan (Nisab, Shabwah) by establishing checkpoint at all its entrances, deploying more than 50 vehicles, in addition to 7 armored vehicles and 3 tanks, to Wadi Nisab, Qarn Hafrah, Al Kirmum, and Muawad to prevent the arrival of protestors to an STC-organized anti-Islah event in the area on 26 June
+
+---
+
+[EVENT: YEM65637]
+Date: 2021-06-25
+Country: Yemen | Location: Wadi Abadan
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Nukhba Hadramawt [National]
+
+DESCRIPTION:
+On 25 June 2021, pro-Hadi Islah-affiliated security forces arrested a poet and member of the STC Media Department in Shabwah governorate at a security checkpoint as he was on his way to Wadi Abadan (Nisab, Shabwah). According to sources, this is part of a series of arrests/kidnappings of prominent southern activists/STC affiliates ahead of an STC-organized anti-Islah protest in Wadi Abadan on 26 June. *Note that it is unclear whether this is an arrest or an abduction.
+
+---
+
+[EVENT: YEM65629]
+Date: 2021-06-25
+Country: Yemen | Location: Nisab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Nukhba Hadramawt [National]
+
+DESCRIPTION:
+Movement of forces: On 25 June 2021, pro-Hadi Islah-affiliated forces surrounded Wadi Abadan (Nisab, Shabwah) by establishing checkpoint at all its entrances, deploying more than 50 vehicles, in addition to 7 armored vehicles and 3 tanks, to Wadi Nisab, Qarn Hafrah, Al Kirmum, and Muawad to prevent the arrival of protestors to an STC-organized anti-Islah event in the area on 26 June
+
+---
+
+[EVENT: YEM82330]
+Date: 2021-06-25
+Country: Yemen | Location: Al Kasarah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Interception: On 25 June 2021, pro-Hadi forces shot down 1 Houthi DJI Mavic 2 Pro drone over Al Kasarah front (Sirwah, Marib).
+
+---
+
+[EVENT: YEM65627]
+Date: 2021-06-25
+Country: Yemen | Location: Al Kirmum
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Nukhba Hadramawt [National]
+
+DESCRIPTION:
+Movement of forces: On 25 June 2021, pro-Hadi Islah-affiliated forces surrounded Wadi Abadan (Nisab, Shabwah) by establishing checkpoint at all its entrances, deploying more than 50 vehicles, in addition to 7 armored vehicles and 3 tanks, to Wadi Nisab, Qarn Hafrah, Al Kirmum, and Muawad to prevent the arrival of protestors to an STC-organized anti-Islah event in the area on 26 June
+
+---
+
+[EVENT: YEM71675]
+Date: 2021-06-25
+Country: Yemen | Location: Al Hawtah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: STC: Southern Transitional Council (Support and Reinforcement Brigades) [Political militia]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Change to armed group: On 25 June 2021, STC President Aydarus Al Zubaydi appointed Major General Saleh Ahmad Muhammad Al Sayid as commander of the Support and Reinforcement Brigades and ordered that forces be deployed outside of Aden governorate (presumably in neighboring Lahij governorate) following tensions in Aden. Al Sayid was previously the director of Lahij Security.
+
+---
+
+[EVENT: YEM65653]
+Date: 2021-06-26
+Country: Yemen | Location: Al Kasarah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Belqees Channel; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 26 June 2021, pro-Hadi forces shot down two Houthi bomb-laden drones over Al Kasarah front (Sirwah, Marib).
+
+---
+
+[EVENT: YEM65687]
+Date: 2021-06-28
+Country: Yemen | Location: Al Hudaydah - Kilu 16
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 6
+Sources: 2 December News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Detonation: On 28 June 2021, Houthi forces failed to launch a ballistic missile east of Al Hudaydah - Kilu 16 (Ad Durayhimi). The missile exploded at take-off and killed and injured dozens of Houthi fighters. Unclear fatalities coded as 6 (half of dozen).
+
+---
+
+[EVENT: YEM82328]
+Date: 2021-06-29
+Country: Yemen | Location: Al Kasarah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Interception: On 29 June 2021, pro-Hadi forces shot down 1 Qasif-2K Houthi drone over Al Kasarah front (Sirwah, Marib).
+
+---
+
+[EVENT: YEM65709]
+Date: 2021-06-29
+Country: Yemen | Location: Rihab
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2017-) Houthi [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Al Mashhad Al Yemeni - Pro-IRG [National]
+
+DESCRIPTION:
+Land seizure: On 29 June 2021, the Houthi supervisor of Ash Shair district -- Khalil Ahmad Abu Hajira -- seized agricultural land belonging to 12 families that he had earlier displaced in Al Qafra district (Ibb).
+
+---
+
+[EVENT: YEM82329]
+Date: 2021-06-29
+Country: Yemen | Location: Suq Sirwah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Interception: On 29 June 2021, pro-Hadi forces shot down 1 Qasif Houthi drone over Sirwah district (coded to Suq Sirwah) (Marib).
+
+---
+
+[EVENT: YEM65732]
+Date: 2021-06-30
+Country: Yemen | Location: Mayfaah
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Yemen (2012-2022) Hadi - Special Security Forces [State forces]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: South24 Center for News and Studies; Yemen Data Project; Yemen Press Agency [Local partner-National]
+
+DESCRIPTION:
+On 30 June 2021, pro-Hadi Islah-affiliated Special Security forces arrested a lawyer and director of the STC Legal Department in Mayfaa district (Shabwah).
+
+---
+
+[EVENT: YEM65720]
+Date: 2021-06-30
+Country: Yemen | Location: Al Khashaah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Al Jaidi Tribal Militia (Yemen) [Identity militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Yemen Data Project; Hayrout; Al Mashhad Al Araby [Local partner-National]
+
+DESCRIPTION:
+Looting: On 30 June 2021, Al Jaidi tribesmen forcefully stopped the oil production in the fields of Block 9 in Huraidhah district (Hadramawt) and seized fuel trucks belonging to Hussein Ahmad Al Huthayli, a businessman affiliated with pro-Hadi VP Ali Mohsen, as they were passing through a road in Al Khashaah (Wadi Al Ayn, Hadramawt) after leaving Block 9. According to sources, the tribesmen did this to call out the corruption by Hadi-affiliated entities in Hadramawt's oil sector.
+
+---
+
+[EVENT: YEM65719]
+Date: 2021-06-30
+Country: Yemen | Location: Huraydah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Al Jaidi Tribal Militia (Yemen) [Identity militia]
+Actor2: Civilians (Yemen) [Civilians]
+Fatalities: 0
+Sources: Hayrout; Al Mashhad Al Araby; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Looting: On 30 June 2021, Al Jaidi tribesmen forcefully stopped the oil production in the fields of Block 9 in Huraidhah district (Hadramawt) and seized fuel trucks belonging to Hussein Ahmad Al Huthayli, a businessman affiliated with pro-Hadi VP Ali Mohsen, as they were passing through a road in Al Khashaah (Wadi Al Ayn, Hadramawt) after leaving Block 9. According to sources, the tribesmen did this to call out the corruption by Hadi-affiliated entities in Hadramawt's oil sector.
+
+---
+
+[EVENT: YEM65727]
+Date: 2021-06-30
+Country: Yemen | Location: Al Buqa
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Restoring Hope [External/Other forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Aden News; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 30 June 2021, the Saudi-led coalition claimed to have shot down a Houthi bomb-laden drone that was heading to locations in southern Saudi Arabia. Unclear location coded to Al Buqa (Kitaf wa Al Boqee, Sadah).
+
+---
+
+[EVENT: YEM65724]
+Date: 2021-06-30
+Country: Yemen | Location: Suq Sirwah
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Actor2: Military Forces of Yemen (2017-) Houthi [State forces]
+Fatalities: 0
+Sources: Khabar News Agency (Yemen); RT; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Interception: On 30 June 2021, pro-Hadi forces shot down two Houthi bomb-laden drones in Sirwah front (Marib) as they were headed to Marib city.
+
+---
+
+[EVENT: YEM65713]
+Date: 2021-06-30
+Country: Yemen | Location: Lawdar
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Yemen (2012-2022) Hadi [State forces]
+Fatalities: 0
+Sources: Twitter; Yemen Data Project [Local partner-National]
+
+DESCRIPTION:
+Movement of forces: On 30 June 2021, pro-Hadi forces led by Islah leader Bin Maili were deployed from Marib governorate to Lawdar district (Abyan) to prepare for an offensive to take back Lawdar city. The source claimed that they were supported by AQAP and IS forces in reporting that is estimated to be propaganda.

@@ -1,0 +1,5023 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Syria (ISO Code: 760)
+Temporal Period: Year 2020 - Quarter Q3
+Total Events in Chunk: 378 / 378
+==================================================
+
+[EVENT: SYR79707]
+Date: 2020-07-01
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 1 July 2020, 2 Turkish military convoys entered Syria's Idleb via Kafr Lusin border crossing on two occasions and headed toward Turkish observation points in the area. The first convoy comprised 15 vehicles while the second consisted of 30 vehicles, both carrying troops and equipment, including an air defense system.
+
+---
+
+[EVENT: SYR79703]
+Date: 2020-07-01
+Country: Syria | Location: Abu Rasin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 1 July 2020, regime forces brought military reinforcements to the area of Abu Rasin in al-Hasakeh. Reportedly, the deployment will extend from the village of Kasra north of Abu Rasin to Tal Tamer in the Hasakeh countryside.
+
+---
+
+[EVENT: SYR79714]
+Date: 2020-07-01
+Country: Syria | Location: Maaret Al Naasan
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 1 July 2020, Turkish forces set up a military base on the outskirt of Maaret al Naasan in Idleb.
+
+---
+
+[EVENT: SYR79717]
+Date: 2020-07-01
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+On 1 July 2020, US forces under the Global Coalition intercepted a Russian patrol on the outskirts of al-Malikeyyeh in al-Hasakeh, and prevented its access beyond the point.
+
+---
+
+[EVENT: SYR79691]
+Date: 2020-07-01
+Country: Syria | Location: Sarin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 1 July 2020, a Russian convoy of 10 military vehicles entered Menbij and headed towards Sarin airbase in Ain al Arab, carrying two radars and other communication equipment.
+
+---
+
+[EVENT: SYR79705]
+Date: 2020-07-01
+Country: Syria | Location: Jisr-Ash-Shugur
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Telegram; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: On 1 July 2020, Turkish and Russian forces conducted their 19th joint patrol on the M4 highway, setting off from Tarnabah all the way to Jisr-Ash-Shugur.
+
+---
+
+[EVENT: SYR79692]
+Date: 2020-07-02
+Country: Syria | Location: Al Qahtaniyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 2 July 2020, Russian forces withdrew from Derna Aghi village in al Qahtaniyah countryside after having been stationed there for two days.
+
+---
+
+[EVENT: SYR79713]
+Date: 2020-07-02
+Country: Syria | Location: Ya'robiyah
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 2 July 2020, US forces under the Global Coalition transformed an agriculture airport near Ya'robiyah in al-Hasakeh into an airbase, set up a helipad and additional airstrips for cargo planes. US forces also fortified the airbase.
+
+---
+
+[EVENT: SYR79706]
+Date: 2020-07-02
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: On 2 July 2020, Turkish and Russian forces conducted a joint patrol in Ain al Arab district of Aleppo, setting off from Ashmah village. Russian helicopters were seen overhead.
+
+---
+
+[EVENT: SYR79719]
+Date: 2020-07-02
+Country: Syria | Location: Dardara Tal Tamer
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SHAAM; SOHR [Other-National]
+
+DESCRIPTION:
+Non-violent activity: On 2 July 2020, regime forces and civilians blocked the road of US armored vehicles under the Global Coalition on Dardara Tal Tamer bridge, preventing their access ahead. Russian forces intervened to diffuse the situation, although the road remained blocked for the convoy.
+
+---
+
+[EVENT: SYR79718]
+Date: 2020-07-02
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 2 July 2020, US armored vehicles under the Global Coalition blocked the road for a Russian patrol in Ain al Abd in Ras al Ain sub-district of al-Hasakeh, preventing access ahead for the patrol.
+
+---
+
+[EVENT: SYR79699]
+Date: 2020-07-02
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 2 July 2020, Russian forces conducted a patrol in al-Malikeyyeh countryside in al-Hasakeh.
+
+---
+
+[EVENT: SYR79700]
+Date: 2020-07-02
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) Military Police [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 2 July 2020, a Russian forces convoy of the Military Police arrived in Ein Issa town in Ar-Raqqa.
+
+---
+
+[EVENT: SYR79696]
+Date: 2020-07-03
+Country: Syria | Location: Deir-ez-Zor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 3 July 2020, Russian forces brought military reinforcements to the city of Deir-ez-Zor from Ar-Raqqa desert.
+
+---
+
+[EVENT: SYR79709]
+Date: 2020-07-03
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 3 July 2020, Turkish forces brought military reinforcements to their positions in Idleb province. The convoy entered Syrian territory via Kafr Lusin border crossing.
+
+---
+
+[EVENT: SYR79711]
+Date: 2020-07-04
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 4 July 2020, Turkish forces brought military reinforcements to their positions in Idleb province. The convoy consisting of 30 vehicles entered Syrian territory via Kafr Lusin border crossing.
+
+---
+
+[EVENT: SYR79698]
+Date: 2020-07-04
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 4 July 2020, Russian forces conducted a patrol in the countryside of Tal Tamer in Al-Hasakeh.
+
+---
+
+[EVENT: SYR79899]
+Date: 2020-07-05
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 5 July 2020, a Turkish convoy entered Syria via Kafr Lusin border crossing with Turkey and headed towards Turkish observation outposts in Idleb.
+
+---
+
+[EVENT: SYR79907]
+Date: 2020-07-05
+Country: Syria | Location: Kafraya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Imam Bukhari Battalion [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 5 July 2020, suspected Imam Bukhari Battalion brought military reinforcements to the outskirts of Kafraya in Idleb to prevent an attack by the locals against them who were protesting their presence.
+
+---
+
+[EVENT: SYR79825]
+Date: 2020-07-06
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 6 July 2020, Turkish and Russian forces conducted a joint patrol in al-Malikeyyeh countryside in al-Hasakeh.
+
+---
+
+[EVENT: SYR79887]
+Date: 2020-07-06
+Country: Syria | Location: Jabal al-Zawiya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 6 July 2020, a Turkish convoy entered Syria via Kafr Lusin border crossing with Turkey, comprised of 25 vehicles, and headed towards the Turkish observation outpost in Tall al Sheikh Tammam in Jabal al-Zawiya.
+
+---
+
+[EVENT: SYR79835]
+Date: 2020-07-07
+Country: Syria | Location: Badama
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 7 July 2020, a joint patrol by Russian and Turkish forces took place on M4 highway starting from Turnabah to Badama in Idleb countryside.
+
+---
+
+[EVENT: SYR79991]
+Date: 2020-07-07
+Country: Syria | Location: Teftnaz - Military Air Base
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 7 July 2020, a Turkish column of logistical equipment and military vehicles entered the Syrian territories via Kafr Lusin border crossing, heading to Teftnaz - Military Air Base in Idleb countryside.
+
+---
+
+[EVENT: SYR79828]
+Date: 2020-07-08
+Country: Syria | Location: Aniq El Hawa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 8 July 2020, Turkey backed factions whom are operating under OPS set houses on fire in Aniq El Hawa town in Al-Hasakeh countryside after looting them, accusing the owners of belonging to QSD.
+
+---
+
+[EVENT: SYR79980]
+Date: 2020-07-08
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 8 July 2020, a Russian patrol took place in Tal Tamer town and surrounding areas in Al-Hasakah countryside.
+
+---
+
+[EVENT: SYR79979]
+Date: 2020-07-08
+Country: Syria | Location: Tal Mohammad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 8 July 2020, Turkey backed factions whom are operating under OPS set houses on fire in Tal Mohammad town in Al-Hasakeh countryside after looting them, accusing the owners of belonging to QSD.
+
+---
+
+[EVENT: SYR79900]
+Date: 2020-07-08
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 8 July 2020, a new Turkish military column of nearly 25 vehicles carrying logistical equipment and supplies entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR79941]
+Date: 2020-07-09
+Country: Syria | Location: Qarfa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 9 July 2020, regime forces conducted a security campaign raiding several houses in Qarfa town in Dar'a countryside, and arrested at least four people.
+
+---
+
+[EVENT: SYR79901]
+Date: 2020-07-09
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 9 July 2020, three Turkish military columns of nearly 70 vehicles carrying logistical equipment and supplies entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR79890]
+Date: 2020-07-09
+Country: Syria | Location: Jabal al-Zawiya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 5th Assault Corps [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 9 July 2020, 5th Assault Corps military reinforcement, including personnel and heavy gears arrived at Jabal al-Zawiya frontline in Idleb countryside.
+
+---
+
+[EVENT: SYR79946]
+Date: 2020-07-09
+Country: Syria | Location: Rmelan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 9 July 2020, a US patrol took place from Rmelan oil field in Al-Hasakeh countryside to Smelka on the border with Kurdistan Region of Iraq.
+
+---
+
+[EVENT: SYR79807]
+Date: 2020-07-09
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 9 July 2020, a joint patrol by Russian and Turkish forces took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR79982]
+Date: 2020-07-10
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Non-violent activity: On 10 July 2020, regime forces prevented a US patrol from passing through one of regime's checkpoints in the vicinity of Tal Tamer in Al-Hasakeh, forcing it to return to base.
+
+---
+
+[EVENT: SYR79902]
+Date: 2020-07-10
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 10 July 2020, Turkish forces brought military reinforcements to their positions in Idleb province. The convoy consisting of 20 military vehicles entered Syrian territory via Kafr Lusin border crossing.
+
+---
+
+[EVENT: SYR79818]
+Date: 2020-07-11
+Country: Syria | Location: Al-Bukamal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Militia (Pro-Iran) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 11 July 2020, Pro-Iran militias established several prisons in the city of Al-Bukamal in the eastern countryside of Deir-ez-Zor.
+
+---
+
+[EVENT: SYR79903]
+Date: 2020-07-11
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 11 July 2020, Turkish forces brought military reinforcements to their positions in Idleb province. The convoy entered Syrian territory via Kafr Lusin border crossing.
+
+---
+
+[EVENT: SYR79986]
+Date: 2020-07-11
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Non-violent activity: On 11 July 2020, regime forces prevented a US patrol from roaming in the vicinity of Tal Tamer in Al-Hasakeh.
+
+---
+
+[EVENT: SYR79822]
+Date: 2020-07-11
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Non-violent activity: On 11 July 2020, QSD handed over control of the wheat building in the city of Al-Hasakeh to regime forces after it took control of it several days earlier.
+
+---
+
+[EVENT: SYR79939]
+Date: 2020-07-11
+Country: Syria | Location: Mzeireb
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Arrests: On 11 July 2020, regime forces arrested 3 young men in the town of Mzeireb in the countryside of Dar'a for unknown reasons.
+
+---
+
+[EVENT: SYR79876]
+Date: 2020-07-11
+Country: Syria | Location: Hmeimim Air Base
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Unidentified Military Forces [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Interception: On 11 July 2020, regime air defenses intercepted a drone attack by unknown military forces near Hmeimim Air Base in Lattakia, which is used by Russian forces. It was reported that explosions were heard near the Russian base. Casualties unknown.
+
+---
+
+[EVENT: SYR79961]
+Date: 2020-07-11
+Country: Syria | Location: Semalka Border Crossing
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 11 July 2020, a convoy of US forces under the Global Coalition entered al-Hasakeh via Semalka border crossing and headed towards US bases in the province, carrying military and logistical supplies.
+
+---
+
+[EVENT: SYR79861]
+Date: 2020-07-11
+Country: Syria | Location: Eshtabraq
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 11 July 2020, Turkish forces brought military reinforcements to their base in Eshtabraq in Idleb. The convoy consisting of 10 military vehicles entered Syrian territory via Kherbet Eljoz border crossing.
+
+---
+
+[EVENT: SYR80065]
+Date: 2020-07-12
+Country: Syria | Location: Damascus
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Air Force Intelligence Directorate [State forces]
+Actor2: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: Around 12 July 2020 (as reported), the regime's intelligence arrested 15 regime forces officers and officials in Damascus and its countryside over allegations of 'dealing with foreign bodies and embezzling state funds.'
+
+---
+
+[EVENT: SYR80050]
+Date: 2020-07-12
+Country: Syria | Location: Azaz
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: JWS: Syrian National Army [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Agreement: On 12 July 2020, a prisoners exchange involving a rebel fighter and a woman accused of spying for regime forces and Hezbollah took place between regime forces and JWS near the town of Azaz in the northern countryside of Aleppo.
+
+---
+
+[EVENT: SYR80047]
+Date: 2020-07-12
+Country: Syria | Location: As-Safeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 12 July 2020, QSD-affiliated Self-Defence Forces seized the regime controlled telecommunication center in the QSD controlled village of As-Safeh in the northern countryside of Al Hasakeh for unknown reasons.
+
+---
+
+[EVENT: SYR80071]
+Date: 2020-07-12
+Country: Syria | Location: Dar'a - Shuhada
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 12 July 2020 , the regime's military intelligence arrested a civilian from Mzeireb at a checkpoint in Dar'a Mahatta in Shuhada neighborhood in Dar'a city for unknown reasons.
+
+---
+
+[EVENT: SYR80020]
+Date: 2020-07-12
+Country: Syria | Location: Al-Bukamal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iraq (2020-2022) Popular Mobilization Forces [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 12 July 2020, Iraqi Popular Mobilization Forces brought military reinforcements to their positions in pro-Iran militias-controlled areas in Al-Bukamal in the eastern countryside of Deir-ez-Zor.
+
+---
+
+[EVENT: SYR80212]
+Date: 2020-07-12
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 53rd Armored Brigade [State forces]
+Actor2: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 12 July 2020, members of the regime's 53rd Armored Brigade prevented a US patrol from passing through the village of Mansaf Tahtani in the countryside of Tal Tamer in Al-Hasakeh. A captain of the division threatened to burn down the patrol.
+
+---
+
+[EVENT: SYR80171]
+Date: 2020-07-12
+Country: Syria | Location: Rmelan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 12 July 2020, a US patrol roamed Rmelan city in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR80149]
+Date: 2020-07-12
+Country: Syria | Location: Mastomeh - Military Camp
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 12 July 2020, Turkish forces brought military reinforcements to their positions in Mastomeh Military Camp in Idleb province. The convoy, consisting of 40 vehicles, entered Syrian territory via Kafr Lusin border crossing.
+
+---
+
+[EVENT: SYR80072]
+Date: 2020-07-13
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 13 July 2020, a joint patrol by Turkish and Russian forces took place in the countryside of Darbasiyah in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR80172]
+Date: 2020-07-13
+Country: Syria | Location: Rmelan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SHAAM; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 13 July 2020, US forces and QSD conducted a joing patrol in Rmelan in Al-Hasakeh.
+
+---
+
+[EVENT: SYR80026]
+Date: 2020-07-13
+Country: Syria | Location: Qahtaniyyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 13 July 2020, US forces and QSD conducted a joing patrol in Qahtaniyyah 'Tirbespiy' area in the northern countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR80182]
+Date: 2020-07-13
+Country: Syria | Location: Sarin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 13 July 2020, Russian forces brought military reinforcements to their base in Sarin Air Base in the countryside of Ain Al Arab in Aleppo.
+
+---
+
+[EVENT: SYR80165]
+Date: 2020-07-13
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 13 July 2020, US forces and QSD conducted a join patrol in Quamishli area in Al-Hasakeh.
+
+---
+
+[EVENT: SYR80124]
+Date: 2020-07-13
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 13 July 2020, Turkish forces brought military reinforcements to their positions in Idleb province. The convoy, consisting of 30 vehicles, entered Syrian territory via Kafr Lusin border crossing.
+
+---
+
+[EVENT: SYR80081]
+Date: 2020-07-13
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 13 July 2020, regime forces imposed royalties on civilians displaced from the village of Bougha in the western countryside of Ein Issa in exchange for allowing them to check on their properties and take their furniture.
+
+---
+
+[EVENT: SYR80041]
+Date: 2020-07-14
+Country: Syria | Location: Ariha
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Displacement: Around 14 July 2020 (as reported), an unknown number of civilians were displaced from several villages in Jabal al-Zawiya in Idleb following the increase in regime and Russian attacks on the area.
+
+---
+
+[EVENT: SYR80224]
+Date: 2020-07-14
+Country: Syria | Location: Turnabah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 14 July 2020, a joint patrol by Turkish and Russian forces took place on the M4 highway starting from Turnabah towards Ein Elhur in the northern countryside of Lattakia. The patrol was cut short following the explosion of a VBIED near Mseibin that injured 3 Russian soldiers.
+
+---
+
+[EVENT: SYR80125]
+Date: 2020-07-14
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 14 July 2020, Turkish forces brought military reinforcements to their positions in Idleb province. The convoy, consisting of 15 vehicles, entered Syrian territory via Kafr Lusin border crossing.
+
+---
+
+[EVENT: SYR80066]
+Date: 2020-07-14
+Country: Syria | Location: Damascus
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM; SOHR [Other-National]
+
+DESCRIPTION:
+On 14 July 2020, the regime's police forces arrested a woman from Jizeh in Dar'a at one of their checkpoints in the city of Damascus. Gunmen from Jizeh deployed in the city demanding the release of the woman.
+
+---
+
+[EVENT: SYR80112]
+Date: 2020-07-14
+Country: Syria | Location: Jabal al-Zawiya
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Displacement: Around 14 July 2020 (as reported), an unknown number of civilians were displaced from the town of Ariha in Idleb following the increase in regime and Russian attacks on the area.
+
+---
+
+[EVENT: SYR80131]
+Date: 2020-07-14
+Country: Syria | Location: Kaljibrin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 14 July 2020, Turkish forces cut down dozens of Pistachio trees near their base in the village of Kaljibrin in the countryside of Aleppo without compensating the owners of the trees.
+
+---
+
+[EVENT: SYR80126]
+Date: 2020-07-15
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 15 July 2020, Turkish forces brought military reinforcements to their positions in Idleb province. The convoy entered Syrian territory via Kafr Lusin border crossing.
+
+---
+
+[EVENT: SYR80217]
+Date: 2020-07-15
+Country: Syria | Location: Tall Al Samn
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 15 July 2020, Russian forces conducted a patrol in the vicinity of Tall Al Samn in the northern countryside of Ar-Raqqa.
+
+---
+
+[EVENT: SYR80032]
+Date: 2020-07-16
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On 16 July 2020, Russian forces established a new base on the Turkish border near Al-Malikeyyeh in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR80033]
+Date: 2020-07-16
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SHAAM; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Non-violent activity: On 16 July 2020, US forces blocked the Russian patrol near Shukr Khaj near Al-Malikeyyeh in Al-Hasakah countryside.
+
+---
+
+[EVENT: SYR80107]
+Date: 2020-07-16
+Country: Syria | Location: Idleb
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 16 July 2020, Turkish forces sent reinforcements including tanks and military vehicles to Idleb province.
+
+---
+
+[EVENT: SYR80031]
+Date: 2020-07-16
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 16 July 2020, a Russian patrol of six vehicles took place from Quamishli headed to Al-Malikeyyeh in Al-Hasakah countryside.
+
+---
+
+[EVENT: SYR80009]
+Date: 2020-07-16
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 16 July 2020, a joint patrol by Russian and Turkish forces took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR80220]
+Date: 2020-07-17
+Country: Syria | Location: Tell Abiad
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 17 July 2020, Turkish forces established a new base in the western countryside of Tell Abiad town in Ar-Raqqa countryside.
+
+---
+
+[EVENT: SYR80230]
+Date: 2020-07-17
+Country: Syria | Location: Zir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 17 July 2020, a Coalition military convoy entered Zir town in Deir-ez-Zor countryside, closed all roads to the town, and searched a number of houses there.
+
+---
+
+[EVENT: SYR80123]
+Date: 2020-07-17
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 17 July 2020, a new Turkish military columns of nearly 100 armoured vehicles and trucks carrying logistical equipment and supplies entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR80215]
+Date: 2020-07-17
+Country: Syria | Location: Talbiseh
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 17 July 2020, regime intelligence carried out security campaign, and arrested five people whom are related to the former rebel fighters who shot and killed the regime officer in Talbiseh city in Homs countryside.
+
+---
+
+[EVENT: SYR80173]
+Date: 2020-07-18
+Country: Syria | Location: Rmelan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 18 July 2020, a US patrol took place in Rmelan town in Al-Hasakah countryside.
+
+---
+
+[EVENT: SYR80160]
+Date: 2020-07-18
+Country: Syria | Location: Qahtaniyyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 18 July 2020, a US patrol took place in Qahtaniyyah town in Al-Hasakah countryside.
+
+---
+
+[EVENT: SYR80030]
+Date: 2020-07-18
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 18 July 2020, a US patrol took place in Al-Malikeyyeh town in Al-Hasakah countryside.
+
+---
+
+[EVENT: SYR80304]
+Date: 2020-07-19
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 19 July 2020, a new Turkish military column of nearly 45 vehicles entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR80295]
+Date: 2020-07-20
+Country: Syria | Location: Qasrok Airbase
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 20 July 2020, a US armored vehicles escorted trucks heading towards Qasrok Airbase in Al Hasakeh countryside.
+
+---
+
+[EVENT: SYR80301]
+Date: 2020-07-20
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) Military Police [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 20 July 2020, a joint patrol by Russian police and Turkish forces took place on the M4 highway between Ein Issa town in Ar-Raqqa countryside and Tal Tamer town in Al-Hasakah countryside.
+
+---
+
+[EVENT: SYR80305]
+Date: 2020-07-20
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Halab Today; Liveuamap [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 20 July 2020, a new Turkish military column which includes armored vehicles and trucks, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR89760]
+Date: 2020-07-20
+Country: Syria | Location: Hrak
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Military Forces of Israel (2009-2021) [External/Other forces]
+Fatalities: 0
+Sources: Dar'a 24 [Subnational]
+
+DESCRIPTION:
+Interception: On 20 July 2020, regime air defenses intercepted a number of Israeli missiles, and some of regime defense missiles fell on agricultural lands between Hrak and Izra' towns in Dar'a countryside. Neither injuries nor fatalities were reported.
+
+---
+
+[EVENT: SYR80300]
+Date: 2020-07-20
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 20 July 2020, a Russian patrol took place near Tal Tamer town in Al-Hasakah countryside.
+
+---
+
+[EVENT: SYR80306]
+Date: 2020-07-21
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 21 July 2020, a new Turkish military column of 20 armored vehicles and trucks carrying military and logistical equipment, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR80311]
+Date: 2020-07-22
+Country: Syria | Location: Ariha
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Defusal: On 22 July 2020, Turkish forces defused 2 landmines planted by unidentified armed group at the entrance of Ariha city, where a joint Turkish and Russian joint patrol was decided to pass through the city on the same day. Neither fatalities nor injuries were reported.
+
+---
+
+[EVENT: SYR80309]
+Date: 2020-07-22
+Country: Syria | Location: Idleb
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Telegram; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: On 22 July 2020, Turkish and Russian forces conducted a joint patrol on the M4 highway in Idleb district, setting off from Tarnaba and reaching Ein Hour on the M4 and with participation of air elements.
+
+---
+
+[EVENT: SYR80307]
+Date: 2020-07-22
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 22 July 2020, a Turkish military convoy entered Syria via Kafr Lusin crossing comprising 30 armored vehicles and trucks.
+
+---
+
+[EVENT: SYR80298]
+Date: 2020-07-22
+Country: Syria | Location: Qahtaniyyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 22 July 2020, a US patrol under the Global Coalition roamed the Qahtaniyyah area in al-Hasakeh.
+
+---
+
+[EVENT: SYR80303]
+Date: 2020-07-23
+Country: Syria | Location: Jabal al-Zawiya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Tiger Paramilitary Forces (Qawat al Nimr) [State forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 23 July 2020, regime forces sent military reinforcements of the Tiger forces and the 5th Assault Corps to Jabal al-Zawiya area in Idleb.
+
+---
+
+[EVENT: SYR80316]
+Date: 2020-07-23
+Country: Syria | Location: Tanf
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Actor2: Civilians (Iran) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Non-violent activity: On 23 July 2020, a US warplane approached an Iranian commercial airplane of Mahan Air near Tanf within the Syrian airspace en route to Beirut. The aircraft, which had members of Hezbollah and IRGC on board, reportedly made an emergency landing in Damascus. During the event, the pilot abruptly dropped altitude, which triggered panic aboard and led to several minor injuries.
+
+---
+
+[EVENT: SYR80310]
+Date: 2020-07-23
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 23 July 2020, Turkish and Russian forces conducted a joint patrol, force vehicles each, in Darbasiyah area in al-Hasakeh. Villages roamed include Dalek, Quanytarah, al Qarmaniyah, Tal Kadish, and Ghanamiyah.
+
+---
+
+[EVENT: SYR80299]
+Date: 2020-07-24
+Country: Syria | Location: Idleb
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: Around 24 July 2020 (as reported), HTS and AAS brought military reinforcements to the frontline areas in the southern countryside of Idleb.
+
+---
+
+[EVENT: SYR80308]
+Date: 2020-07-24
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 24 July 2020, Turkish forces brought military reinforcements to their positions in Idleb province. The convoy entered Syrian territory via Kafr Lusin border crossing.
+
+---
+
+[EVENT: SYR80315]
+Date: 2020-07-24
+Country: Syria | Location: Qude
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Hamza Division - Aleppo [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 24 July 2020, members of the Hamza Division looted civilian properties in the village of Qude in the countryside of Afrin in Aleppo.
+
+---
+
+[EVENT: SYR80302]
+Date: 2020-07-24
+Country: Syria | Location: Al Ghab Plain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: Around 24 July 2020 (as reported), regime forces brought military reinforcements to the frontline areas in Al Ghab Plain in Hama province.
+
+---
+
+[EVENT: SYR80296]
+Date: 2020-07-25
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 25 July 2020, Coalition Forces brought military reinforcements to the Al-Malikeyyeh area in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR80274]
+Date: 2020-07-25
+Country: Syria | Location: Dar'a - Shuhada
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Arrests: On 25 July 2020, regime forces arrested 2 civilian in the area of Dar'a Mahatta in the Shuhada neighborhood of Dar'a city and took them to an unknown destination.
+
+---
+
+[EVENT: SYR80297]
+Date: 2020-07-25
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 25 July 2020, US forces conducted a military patrol in Al-Malikeyyeh area in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR80470]
+Date: 2020-07-26
+Country: Syria | Location: Damascus
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) State Security [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Jisr; SOHR [Other-National]
+
+DESCRIPTION:
+Arrests: On 26 July 2020, members of the regime's police state security arrested 2 civilians from Jlein in Dar'a at a checkpoint in the city of Damascus and took them to an unknown destination.
+
+---
+
+[EVENT: SYR80506]
+Date: 2020-07-26
+Country: Syria | Location: Basira
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 26 July 2020, unidentified gunmen attacked and destroyed the contents of the DFNS' Directorate of Agriculture in the city of Basira in the eastern countryside of Deir-ez-Zor. The gunmen demanded that they be employed at the directorate.
+
+---
+
+[EVENT: SYR80507]
+Date: 2020-07-27
+Country: Syria | Location: Shiheil
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 27 July 2020, unidentified gunmen robbed a vehicle carrying teachers and money belonging to the educational complex of Basira city as it was travelling near Shiheil town in the eastern countryside of Deir-ez-Zor. They stole large sums of money.
+
+---
+
+[EVENT: SYR80490]
+Date: 2020-07-27
+Country: Syria | Location: Tal Baydar Haskeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 27 July 2020, Coalition Forces brought military reinforcements to the US base of Tal Baydar in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR80510]
+Date: 2020-07-27
+Country: Syria | Location: Abu Rasin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Displacement: On 27 July 2020, an unknown number of civilians were displaced from Abu Rasin in Al-Hasakeh due to renewed shelling of the town by OPS factions.
+
+---
+
+[EVENT: SYR80509]
+Date: 2020-07-27
+Country: Syria | Location: Jabal al-Zawiya
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Displacement: Around 27 July 2020 (as reported), an unknown number of civilians were displaced from several villages in Jabal al-Zawiya in Idleb following the increase in regime attacks on the area.
+
+---
+
+[EVENT: SYR80496]
+Date: 2020-07-27
+Country: Syria | Location: Al Ghab Plain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: Around 27 July 2020 (as reported), HTS deployed its forces at the former bases and positions of Hurras al Deen's in Al Ghab Plain in Hama after the latter withdrew their forces and heavy and medium weapons from the area, likely at the request of Turkish intelligence.
+
+---
+
+[EVENT: SYR80498]
+Date: 2020-07-28
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Halab Today; Liveuamap; SOHR [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 28 July 2020, a Russian patrol took place near Tal Tamer town in Al-Hasakah countryside.
+
+---
+
+[EVENT: SYR80497]
+Date: 2020-07-28
+Country: Syria | Location: Tal Brak
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 28 July 2020, a Russian patrol took place around Tal Brak town in Al-Hasakah countryside.
+
+---
+
+[EVENT: SYR80500]
+Date: 2020-07-28
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 28 July 2020, a new Turkish military column of 35 vehicles entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR80492]
+Date: 2020-07-28
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 28 July 2020, a US patrol took place near the Syrian-Iraqi borders with Kurdistan in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR80491]
+Date: 2020-07-28
+Country: Syria | Location: Al-Hasakeh - Ghoweran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 28 July 2020, a US patrol took place in Ghoweran neighbourhood in Al-Hasakeh city.
+
+---
+
+[EVENT: SYR80493]
+Date: 2020-07-29
+Country: Syria | Location: Al-Hasakeh - Ghoweran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 29 July 2020, a US convoy has entered Ghoweran neighbourhood in Al-Hasakeh city.
+
+---
+
+[EVENT: SYR80501]
+Date: 2020-07-29
+Country: Syria | Location: Nayrab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 29 July 2020, a Turkish patrol took place starting from Nayrab town in Idleb countryside, headed to Ain Hour.
+
+---
+
+[EVENT: SYR80505]
+Date: 2020-07-29
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 29 July 2020, US forces established a new military checkpoint near Al-Malikeyyeh town in Al-Hasakeh countryside, to block Russian patrols.
+
+---
+
+[EVENT: SYR80502]
+Date: 2020-07-30
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 30 July 2020, a new Turkish military column of 20 armoured vehicles carrying logistical and military equipment, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR80715]
+Date: 2020-07-31
+Country: Syria | Location: Teftnaz
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SNHR [Local partner-Other]
+
+DESCRIPTION:
+Property destruction: On 31 July 2020, unknown armed group raided a school in Teftnaz town in Idleb countryside, and burned the furniture.
+
+---
+
+[EVENT: SYR80657]
+Date: 2020-08-01
+Country: Syria | Location: Damascus
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) General Intelligence Directorate [State forces]
+Actor2: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 1 August 2020, the regime's intelligence services arrested 12 regime fighters and officers and 9 former members of Al Bustan Militia associated with Rami Makhlouf in the city of Damascus.
+
+---
+
+[EVENT: SYR80494]
+Date: 2020-08-01
+Country: Syria | Location: Qahtaniyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 1 August 2020, US forces under the Global Coalition conducted a patrol in Qahtaniyyeh countryside in al-Hasakeh. Comprising 4 armored vehicles, the patrol passed through Derna Aghi and Baterzan, among other locations.
+
+---
+
+[EVENT: SYR80495]
+Date: 2020-08-01
+Country: Syria | Location: Rmelan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Security measures: On 1 August 2020, US forces under the Global Coalition conducted a patrol on the outskirts of Rmelan in al-Hasakeh.
+
+---
+
+[EVENT: SYR80499]
+Date: 2020-08-01
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 1 August 2020, a Turkish military convoy entered Syria via Kafr Lusin border crossing and headed to Turkish positions in Idleb. The convoy comprised 40 armored vehicles carrying tanks, military vehicles, trucks, and armored vehicles.
+
+---
+
+[EVENT: SYR80693]
+Date: 2020-08-02
+Country: Syria | Location: Jabal al-Zawiya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 2 August 2020, regime forces brought new military reinforcements into frontlines in Jabal al-Zawiya including Ma'arrat An Nu'man in Idleb.
+
+---
+
+[EVENT: SYR80694]
+Date: 2020-08-03
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 3 August 2020, a Turkish military column entered Syria via Kafr Lusin border crossing comprising 20 armored vehicles and headed to Turkish positions in the Idleb area.
+
+---
+
+[EVENT: SYR80716]
+Date: 2020-08-03
+Country: Syria | Location: Qastun
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Wa Harredh al Moa'mineen Operation Room [Political militia]
+Actor2: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Liveuamap; SHAAM; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Property destruction: On 3 August 2020, Wa Harredh al Moa'mineen Operation Room downed a reigme reconnaciance UAV over Qastun in Hama.
+
+---
+
+[EVENT: SYR80689]
+Date: 2020-08-04
+Country: Syria | Location: Al-Bukamal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 4 August 2020, IRGC brought military reinforcements, comprising 70 military vehicles, to its areas of control in Al-Bukamal area in Deir-ez-Zor.
+
+---
+
+[EVENT: SYR80698]
+Date: 2020-08-04
+Country: Syria | Location: Al-Harra
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 4 August 2020, regime forces set up posts and checkpoints in several areas in Al-Harra area in Dar'a. They also brought military reinforcements to the area.
+
+---
+
+[EVENT: SYR80714]
+Date: 2020-08-04
+Country: Syria | Location: Maarbalit
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Property destruction: On 4 August 2020, opposition rebels shot down a reconnaissance drone that belongs to an unknown armed group in Maarbalit in Idleb.
+
+---
+
+[EVENT: SYR127300]
+Date: 2020-08-04
+Country: Syria | Location: Al-Hawayij
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Al Naba [International]
+
+DESCRIPTION:
+Property destruction: On 4 August 2020, IS members burned a QSD vehicle in Al-Hawayij town in Deir ez Zor countryside, destroying it.
+
+---
+
+[EVENT: SYR80699]
+Date: 2020-08-04
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 4 August 2020, a Turkish military convoy, comprising 30 vehicles, entered Syria via Kafr Lusin border crossing and headed to Turkish positions in Idleb.
+
+---
+
+[EVENT: SYR80697]
+Date: 2020-08-04
+Country: Syria | Location: Jasim
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 4 August 2020, regime forces set up a checkpoint in the area between Jasim and Kafr Shams in Dar'a. They also brought military reinforcements to several areas in Jasim and other areas in As-Sanamayn district in Dar'a.
+
+---
+
+[EVENT: SYR80685]
+Date: 2020-08-04
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 4 August 2020, US forces conducted a patrol in the town of Tal Tamer in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR80684]
+Date: 2020-08-04
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 4 August 2020, QSD forces imposed a curfew on its areas of control in northern Syria to prevent the spread of coronavirus. Unspecified location coded to Al-Hasakeh.
+
+---
+
+[EVENT: SYR80709]
+Date: 2020-08-05
+Country: Syria | Location: Thiban
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: On 5 August 2020, QSD imposed a curfew on the area of Thiban in the eastern countryside of Deir-ez-Zor following the outbreak of riots in the area in the wake of the killing of an Ekeidat tribal elder by unidentified gunmen.
+
+---
+
+[EVENT: SYR80708]
+Date: 2020-08-05
+Country: Syria | Location: Shiheil
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: On 5 August 2020, QSD imposed a curfew on the area of Shiheil in the eastern countryside of Deir-ez-Zor following the outbreak of riots in the area in the wake of the killing of an Ekeidat tribal elder by unidentified gunmen.
+
+---
+
+[EVENT: SYR80695]
+Date: 2020-08-05
+Country: Syria | Location: Jabal al-Zawiya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 5 August 2020, regime forces and pro-regime militias brought military reinforcements to the their new positions in Jabal al-Zawiya in the countryside of Idleb.
+
+---
+
+[EVENT: SYR80705]
+Date: 2020-08-05
+Country: Syria | Location: Shiheil
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 5 August 2020, QSD brought more military reinforcements to the town of Shiheil and its outskirts in the eastern countryside of Deir-ez-Zor. QSD began bringing military reinforcements to the area following the breakout of riots in the area in the wake of the killing of an Ekeidat tribal elder by unidentified gunmen.
+
+---
+
+[EVENT: SYR80696]
+Date: 2020-08-05
+Country: Syria | Location: Kafr Nobol
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 5 August 2020, regime forces and pro-regime militias brought military reinforcements to the their new positions near the city of Kafr Nobol in the countryside of Idleb.
+
+---
+
+[EVENT: SYR80686]
+Date: 2020-08-05
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 5 August 2020, Coalition Forces brought military reinforcements to their bases in the countryside of Al-Hasakeh. A convoy consisting of 30 vehicles entered Syrian territory from the Kurdistan region in Iraq via Al-Walid crossing.
+
+---
+
+[EVENT: SYR80707]
+Date: 2020-08-05
+Country: Syria | Location: Al-Hawayij
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 5 August 2020, QSD imposed a curfew on the area of Al-Hawayij in the eastern countryside of Deir-ez-Zor following the outbreak of riots in the area in the wake of the killing of an Ekeidat tribal elder by unidentified gunmen.
+
+---
+
+[EVENT: SYR80692]
+Date: 2020-08-05
+Country: Syria | Location: Tal Samn
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) Military Police [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 5 August 2020, the Russian military police conducted a patrol in Tal Samn area in the countryside of Ar-Raqqa.
+
+---
+
+[EVENT: SYR80706]
+Date: 2020-08-05
+Country: Syria | Location: Basira
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 5 August 2020, QSD deployed checkpoints in several areas in the eastern countryside of Deir-ez-Zor following the outbreak of riots in the towns of Basira, Shiheil, Thiban, and Al-Hawayij in the wake of the killing of an Ekeidat tribal elder by unidentified gunmen.
+
+---
+
+[EVENT: SYR80700]
+Date: 2020-08-05
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 5 August 2020, a Turkish military convoy, comprising 15 vehicles, entered Syria via Kafr Lusin border crossing and headed to Turkish positions in Idleb.
+
+---
+
+[EVENT: SYR80690]
+Date: 2020-08-06
+Country: Syria | Location: Al-Kasra
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SHAAM; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 6 August 2020, a joint Turkish and Russian patrol took place from Sherik crossing on Turkey border, headed to Al-Kasra town in Al-Hasakah countryside.
+
+---
+
+[EVENT: SYR80701]
+Date: 2020-08-06
+Country: Syria | Location: Tall al Nabi Ayoub
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 6 August 2020, two new Turkish military columns of 50 vehicles carrying tanks, heavy weapons, and ammunition, entered the Syrian territories, heading to Tall al Nabi Ayoub in Idleb countryside.
+
+---
+
+[EVENT: SYR80656]
+Date: 2020-08-06
+Country: Syria | Location: Deir-ez-Zor
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 6 August 2020, regime forces arrested a number of young men in Deir-ez-Zor city for conscription purposes.
+
+---
+
+[EVENT: SYR80712]
+Date: 2020-08-07
+Country: Syria | Location: Tal Mohammad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 7 August 2020, Turkey backed factions whom are operating under OPS stole furniture in Tal Mohammad town in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR80691]
+Date: 2020-08-07
+Country: Syria | Location: Tal Samn
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 7 August 2020, a Russian military police patrol took place near Tal Samn town in Ar-Raqqa countryside.
+
+---
+
+[EVENT: SYR80711]
+Date: 2020-08-07
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 7 August 2020, JWS whom are operating under OPS stole electrical wires connecting between Al-Lubaydah and Al-Wastah villages in rural Ein Issa town in Ar-Raqqa countryside.
+
+---
+
+[EVENT: SYR80702]
+Date: 2020-08-07
+Country: Syria | Location: Jabal al-Zawiya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 7 August 2020, a new Turkish military column of 35 vehicles entered the Syrian territories via Kafr Lusin border crossing, heading to their positions in Jabal al-Zawiya in Idleb countryside.
+
+---
+
+[EVENT: SYR80713]
+Date: 2020-08-07
+Country: Syria | Location: Umm Ashba
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 7 August 2020, Turkey backed factions whom are operating under OPS set a civilian's house on fire in Umm Ashba town in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR80687]
+Date: 2020-08-07
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 7 August 2020, a Global Coalition convoy of 30 trucks carrying logistics and concrete blocks, accompanied by armoured vehicles has entered Syria via Al-Walid border crossing, and headed to their bases in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR80688]
+Date: 2020-08-08
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 8 August 2020, a US patrol took place in Tal Tamer town in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR80704]
+Date: 2020-08-08
+Country: Syria | Location: Jabal al-Zawiya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 8 August 2020, opposition rebels sent reinforcement to their positions in Jabal al-Zawiya in Idleb countryside, while Turkish forces made several deployments in several villages in Jabal al-Zawiya as well.
+
+---
+
+[EVENT: SYR80703]
+Date: 2020-08-08
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 8 August 2020, a new Turkish military column of 40 vehicles carrying tanks, armoured vehicles, and logistical materials, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR80873]
+Date: 2020-08-09
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 9 August 2020, a US patrol took place in Shadadah town in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR89775]
+Date: 2020-08-09
+Country: Syria | Location: Jasim
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Dar'a 24 [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 9 August 2020, regime forces sent reinforcement to the vicinity of Jasim city in Dar'a countryside, preparing to storm the city.
+
+---
+
+[EVENT: SYR80888]
+Date: 2020-08-09
+Country: Syria | Location: Haddada
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+On 9 August 2020, Turkish forces established a new military base on Al-Raqim hill overlooking Haddada hill in northern Lattakia countryside.
+
+---
+
+[EVENT: SYR80877]
+Date: 2020-08-10
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 10 August 2020, a new Turkish military column of 20 armoured vehicles carrying logistical and military equipment, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR80874]
+Date: 2020-08-10
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 10 August 2020, a joint Turkish and Russian patrol took place in rural Ain al Arab town in Aleppo countryside.
+
+---
+
+[EVENT: SYR80887]
+Date: 2020-08-10
+Country: Syria | Location: Jabal al-Akrad
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 10 August 2020, Turkish forces established a new military base in Jabal al-Akrad area in northern Lattakia countryside.
+
+---
+
+[EVENT: SYR80889]
+Date: 2020-08-11
+Country: Syria | Location: Saraqab
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Property destruction: On 11 August 2020, regime forces and Hezbollah militias destroyed roofs of some houses in Saraqab town in Idleb countryside, to extract metal objects in order to sell them.
+
+---
+
+[EVENT: SYR80878]
+Date: 2020-08-12
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Halab Today; Liveuamap; SOHR [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 12 August 2020, a Turkish military convoy entered Syria via Kafr Lusin border crossing and headed towards Turkish positions in the area. The convoy comprised 30 armored vehicles carrying logistical and military equipment.
+
+---
+
+[EVENT: SYR89767]
+Date: 2020-08-12
+Country: Syria | Location: Jasim
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) State Security [State forces]
+Actor2: Military Forces of Syria (2000-2024) 5th Assault Corps [State forces]
+Fatalities: 0
+Sources: Dar'a 24; SY24 [Subnational-National]
+
+DESCRIPTION:
+Agreement: On 12 August 2020, an agreement was made between regime's state security forces and members of the 5th Assault Corps in Jasim in Dar'a, to allow for joint patrol in the city and prevent a regime offensive in the area.
+
+---
+
+[EVENT: SYR80808]
+Date: 2020-08-12
+Country: Syria | Location: Miznaz
+Type: Strategic developments > Agreement | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: HTS: Hayat Tahrir al Sham [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Agreement: On 12 August 2020, a prisoner swap took place between regime forces and HTS at the Miznaz-Maaret al Naasan crossing, whereby 7 female detainees at regime prisoners were released in exchange for HTS releasing a regime officer and two civilians of the Shiite sect.
+
+---
+
+[EVENT: SYR80876]
+Date: 2020-08-12
+Country: Syria | Location: Qahtaniyyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 12 August 2020, Russian forces conducted a patrol in Qahtaniyyah countryside in al-Hasakeh consisting of 8 vehicles.
+
+---
+
+[EVENT: SYR80880]
+Date: 2020-08-12
+Country: Syria | Location: Turnabah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 12 August 2020, Turkish and Russian forces conducted a joint patrol on the M4 highway in Idleb, setting off from Turnabah to Ein Hur.
+
+---
+
+[EVENT: SYR80893]
+Date: 2020-08-13
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Other: On 13 August 2020, US forces under the Global Coalition prevented a Russian patrol from entering an agricultural airbase in Rubariyeh in al-Malikeyyeh area of al-Hasakeh, as Coalition forces reportedly use the airbase.
+
+---
+
+[EVENT: SYR80871]
+Date: 2020-08-13
+Country: Syria | Location: Semalka Border Crossing
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 13 August 2020, a Global Coalition convoy entered al-Hasakeh from Semalka border crossing and headed towards Coalition bases in the province, consisting of 40 armored vehicles.
+
+---
+
+[EVENT: SYR80846]
+Date: 2020-08-14
+Country: Syria | Location: Zahraa
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 14 August 2020, regime forces and pro-regime militias captured tens of people in the town of Zahraa in the country side of Aleppo. A total of 40 people were captured in the towns of Nabul and Zahraa. The civilians, many of whom from Dar'a, were trying to reach rebel-controlled Afrin via smuggling routes that pass through regime-controlled areas when they entered a minefield that killed and injured tens of people and led to the capture of many others.
+
+---
+
+[EVENT: SYR80845]
+Date: 2020-08-14
+Country: Syria | Location: Nabul
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 14 August 2020, regime forces and pro-regime militias captured tens of people in the town of Nabul in the country side of Aleppo. A total of 40 people were captured in the towns of Nabul and Zahraa. The civilians, many of whom from Dar'a, were trying to reach rebel-controlled Afrin via smuggling routes that pass through regime-controlled areas when they entered a minefield that killed and injured tens of people and led to the capture of many others.
+
+---
+
+[EVENT: SYR80875]
+Date: 2020-08-14
+Country: Syria | Location: Tal Samn
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 14 August 2020, Russian forces conducted a patrol in Tal Samn area in the countryside of Ar-Raqqa.
+
+---
+
+[EVENT: SYR80890]
+Date: 2020-08-14
+Country: Syria | Location: Nadas
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 14 August 2020 (as reported), OPS factions took over the harvesting and selling of wheat owned by farmers in the village of Nadas in the countryside Ras Al Ain in Al-Hasakeh and sold it to Turkish grain buyers. The owners were neither informed of the quantities of wheat harvested nor of the selling price.
+
+---
+
+[EVENT: SYR80891]
+Date: 2020-08-14
+Country: Syria | Location: Tell Abiad
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 14 August 2020 (as reported), OPS factions looted power grid cables in their areas of control in Al-Hasakeh and Ar-Raqqa to produce aluminium, which they sell to Turkish buyers.
+
+---
+
+[EVENT: SYR80879]
+Date: 2020-08-14
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 14 August 2020, Turkish forces brought military reinforcements to their positions in the countryside of Idleb. A convoy consisting of 20 entered Syrian territory via Kafr Lusin crossing.
+
+---
+
+[EVENT: SYR80872]
+Date: 2020-08-15
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 15 August 2020, US forces conducted a military patrol in the village of Deir Ghosn in Al-Malikeyyeh area in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR80881]
+Date: 2020-08-15
+Country: Syria | Location: Amuda
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Actor2: Unidentified Military Forces [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Interception: On 15 August 2020, Russian forces intercepted a suspected drone that was heading towards their base in Amuda in the northern countryside of Al-Hasakeh, using a surface-to-air missile. Neither fatalities nor injuries were reported.
+
+---
+
+[EVENT: SYR81299]
+Date: 2020-08-16
+Country: Syria | Location: Mjeibreh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Property destruction: On 16 August 2020, QSD destroyed the content of several houses during a security raid in the village of Mjeibreh in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR81416]
+Date: 2020-08-16
+Country: Syria | Location: Umm Ashba
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: Around 16 August 2020 (from 13 - 16 August), rebel factions, which operate under OPS, including Northern Hawks Brigade, withdrew their forces from their headquarters in the village of Umm Ashba near the frontline area with QSD in the countryside of Ras Al Ain in Al-Hasakeh. 8 Turkish forces fighters and 12 Northern Hawks Brigade remained in the area. The withdrawal comes in preparation for the established of a joint Russian -Turkish observation point in the area.
+
+---
+
+[EVENT: SYR81172]
+Date: 2020-08-16
+Country: Syria | Location: Hersh Banin
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Al Fath Al Mubeen Operation Room [Rebel group]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 16 August 2020, Al Fath Al Mubeen Operation Room rebel factions shut down a suspected Russian reconnaissance drone while it was flying over the village of Hersh Banin in the countryside of Idleb.
+
+---
+
+[EVENT: SYR81377]
+Date: 2020-08-16
+Country: Syria | Location: Suluk
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Defusal: On 16 August 2020, JWS, which operates under OPS, dismantled a booby-trapped motorcycle that was parked near the Al-Sina'a roundabout in the town of Suluk in the northern countryside of Ar-Raqqa.
+
+---
+
+[EVENT: SYR81029]
+Date: 2020-08-16
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 16 August 2020, Coalition forces brought military reinforcements from their Shadadah base to their bases in the countryside of Al-Hasakeh city.
+
+---
+
+[EVENT: SYR81038]
+Date: 2020-08-16
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Halab Today; Liveuamap; SHAAM [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 16 August 2020, US forces conducted a military patrol in the vicinity of Al-Malikeyyeh in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR81113]
+Date: 2020-08-16
+Country: Syria | Location: Deir-ez-Zor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 16 August 2020, US forces brought military reinforcements to QSD-controlled areas in Deir-ez-Zor province.
+
+---
+
+[EVENT: SYR81256]
+Date: 2020-08-17
+Country: Syria | Location: Karama
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 17 August 2020, regime forces brought military reinforcements to the areas of control in the area of Karama along the frontline areas with QSD-controlled areas in the eastern countryside of Ar-Raqqa.
+
+---
+
+[EVENT: SYR81126]
+Date: 2020-08-17
+Country: Syria | Location: Ein Elhur
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 17 August 2020, Turkish and Russian forces carried out a joint patrol on the M4 Highway from Ein Elhur village in Lattakia to Turnabah in Idleb. A Turkish vehicle was targeted with an IED or an RPG near Ariha in Idleb.
+
+---
+
+[EVENT: SYR81320]
+Date: 2020-08-17
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 17 August 2020, Sultan Murad Division, Jaysh al Islam, Al Mu'tasim Brigade, and Ahrar al Sharqiyah, which operate under OPS, withdrew their forces from their headquarters in the village of Merid near the frontline area with QSD in the countryside of Ras Al Ain in Al-Hasakeh. 20 members of these factions remained in the area. The withdrawal comes in preparation for the established of a joint Russian -Turkish observation point in the area.
+
+---
+
+[EVENT: SYR81177]
+Date: 2020-08-17
+Country: Syria | Location: Hliwah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 17 August 2020, Sultan Murad Division, Jaysh al Islam, Al Mu'tasim Brigade, and Ahrar al Sharqiyah, which operate under OPS, withdrew their forces from their headquarters in the village of Hliwah near the frontline area with QSD in the countryside of Ras Al Ain in Al-Hasakeh. 20 members of these factions remained in the area. The withdrawal comes in preparation for the established of a joint Russian -Turkish observation point in the area.
+
+---
+
+[EVENT: SYR81176]
+Date: 2020-08-17
+Country: Syria | Location: Hliwah
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: National Police Forces [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 17 August 2020, members of the National Police Forces verbally assaulted civilians and destroyed the content of their properties during a security campaign in 'search of suspicious individuals' in the village of Hliwah in the countryside of Ras Al Ain in Al-Hasakeh.
+
+---
+
+[EVENT: SYR81007]
+Date: 2020-08-17
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Actor2: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 17 August 2020, Russian forces based near the radio station in the western countryside of Ain Al Arab shot down a Turkish reconnaissance drone that was flying over Ain Al Arab area in Aleppo.
+
+---
+
+[EVENT: SYR81106]
+Date: 2020-08-17
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 17 August 2020, Turkish and Russian forces carried out a joint patrol in the area of Darbasiyah in Al-Hasakeh. The patrol was escorted by 2 Russian helicopters
+
+---
+
+[EVENT: SYR81067]
+Date: 2020-08-17
+Country: Syria | Location: Bab al Kheir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 17 August 2020, Sultan Murad Division, Jaysh al Islam, Al Mu'tasim Brigade, and Ahrar al Sharqiyah, which operate under OPS, withdrew their forces from their headquarters in the village of Bab al Kheir near the frontline area with QSD in the countryside of Ras Al Ain in Al-Hasakeh. 20 members of these factions remained in the area. The withdrawal comes in preparation for the established of a joint Russian -Turkish observation point in the area.
+
+---
+
+[EVENT: SYR81287]
+Date: 2020-08-17
+Country: Syria | Location: Madhba'a
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: National Police Forces [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 17 August 2020, members of the National Police Forces verbally assaulted civilians and destroyed the content of their properties during a security campaign in 'search of suspicious individuals' in the village of Madhba'a in the countryside of Ras Al Ain in Al-Hasakeh.
+
+---
+
+[EVENT: SYR81288]
+Date: 2020-08-17
+Country: Syria | Location: Madhba'a
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 17 August 2020, Sultan Murad Division, Jaysh al Islam, Al Mu'tasim Brigade, and Ahrar al Sharqiyah, which operate under OPS, withdrew their forces from their headquarters in the village of Madhba'a near the frontline area with QSD in the countryside of Ras Al Ain in Al-Hasakeh. 20 members of these factions remained in the area. The withdrawal comes in preparation for the established of a joint Russian -Turkish observation point in the area.
+
+---
+
+[EVENT: SYR81000]
+Date: 2020-08-18
+Country: Syria | Location: Abu Rasin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 18 August 2020, a joint Turkish and Russian patrol took place in the vicinity of Abu Rasin town in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR81068]
+Date: 2020-08-18
+Country: Syria | Location: Badama
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 18 August 2020, opposition anti-aircraft machine guns shot down a Russian reconnaissance drone over Badama town in Idleb countryside. Neither injuries nor fatalities were reported.
+
+---
+
+[EVENT: SYR81346]
+Date: 2020-08-18
+Country: Syria | Location: Sarmada
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 18 August 2020, opposition anti-aircraft machine guns shot down a Russian reconnaissance drone near the western sector of Sarmada town in Idleb countryside. Neither injuries nor fatalities were reported.
+
+---
+
+[EVENT: SYR81221]
+Date: 2020-08-18
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 18 August 2020, five new Turkish military columns of 75 armoured vehicles carrying logistical and military equipment, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR81238]
+Date: 2020-08-18
+Country: Syria | Location: Kafr Takharim
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Property destruction: On 18 August 2020, opposition anti-aircraft machine guns shot down a Russian reconnaissance drone near Kafr Takharim town in Idleb countryside. Neither injuries nor fatalities were reported.
+
+---
+
+[EVENT: SYR81411]
+Date: 2020-08-19
+Country: Syria | Location: Um Walad
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Dar'a 24; SHAAM; SOHR [Other-Subnational]
+
+DESCRIPTION:
+On 19 August 2020, regime Military Intelligence supported by a group of former opposition rebels raided civilians' houses in Um Walad town in Dar'a countryside, they arrested three civilians, and took them to security posts.
+
+---
+
+[EVENT: SYR81222]
+Date: 2020-08-19
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 19 August 2020, seven new Turkish military columns of 450 military vehicles carrying logistical and military equipment, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR81039]
+Date: 2020-08-19
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 19 August 2020, a US patrol took place in the vicinity of Al-Malikeyyeh town in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR81193]
+Date: 2020-08-19
+Country: Syria | Location: Jabal al-Zawiya
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 19 August 2020, a Turkish patrol took place on Jabal al-Zawiya frontline in Idleb countryside.
+
+---
+
+[EVENT: SYR81223]
+Date: 2020-08-20
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 20 August 2020, a new Turkish military column of 25 vehicles carrying logistical and military equipment, entered the Syrian territories via Kafr Lusin border crossing.
+
+---
+
+[EVENT: SYR81321]
+Date: 2020-08-20
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Ahrar al Sharqiyah [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: Around 20 August 2020 (from 20 - 22 August), Ahrar al Sharqiyah sent military reinforcements into Masbagha village in Ras al Ain in al-Hasakeh.
+
+---
+
+[EVENT: SYR81224]
+Date: 2020-08-21
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 21 August 2020, a Turkish military column entered Idleb, Syria from Kafr Lusin border crossing and headed toward Turkish positions in the area. The column consisted of 50 armored vehicles carrying military and logistical supplies.
+
+---
+
+[EVENT: SYR81116]
+Date: 2020-08-21
+Country: Syria | Location: Deir-ez-Zor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 5th Assault Corps [State forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 21 August 2020, military reinforcements of the regime's 5th Assault Corps arrived in Deir-ez-Zor city.
+
+---
+
+[EVENT: SYR81373]
+Date: 2020-08-21
+Country: Syria | Location: Sidnaya Military Prison
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 21 August 2020, regime forces arrested a regime lieutenant colonel in an unidentified location after he had criticized the poor food quality provided for the army. Unknown location coded at Sidnaya Military Prison.
+
+---
+
+[EVENT: SYR81040]
+Date: 2020-08-21
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Security measures: On 21 August 2020, US forces under the Global Coalition conducted a patrol on the outskirts of al-Malikeyyeh in al-Hasakeh.
+
+---
+
+[EVENT: SYR81306]
+Date: 2020-08-22
+Country: Syria | Location: Mzeireb
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 4th Armored Division [State forces]
+Fatalities: 0
+Sources: Dar'a 24; Jisr; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 22 August 2020, military reinforcements of the regime's 4th Armored Division arrived in al Rayy area near Mzeireb in Dar'a, in suspected preparations for a military offensive in the area.
+
+---
+
+[EVENT: SYR81225]
+Date: 2020-08-22
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 22 August 2020, several Turkish military columns entered Idleb, Syria from Kafr Lusin border crossing and headed toward Turkish positions in the area. The columns consisted of 145 armored vehicles in total carrying military and logistical supplies.
+
+---
+
+[EVENT: SYR81424]
+Date: 2020-08-22
+Country: Syria | Location: Zayzun
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 4th Armored Division [State forces]
+Fatalities: 0
+Sources: Dar'a 24; Jisr; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 22 August 2020, military reinforcements of the regime's 4th Armored Division arrived in Zayzun in Dar'a, in suspected preparations for a military offensive in the area.
+
+---
+
+[EVENT: SYR81357]
+Date: 2020-08-22
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 22 August 2020, a US military convoy under the Global Coalition entered al-Hasakeh via al Walid crossing and headed towards the Coalition base in Shadadah, comprising 40 trucks carrying tanks and armored vehicles.
+
+---
+
+[EVENT: SYR81052]
+Date: 2020-08-23
+Country: Syria | Location: Ariha
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 23 August 2020, a Turkish military convoy entered Idleb via Kafr Lusin crossing and deployed on the M4 highway.
+
+---
+
+[EVENT: SYR81130]
+Date: 2020-08-24
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 24 August 2020, a Russian military convoy of 13 vehicles headed from regime-held areas to the Russian base in Ein Issa area in Ar-Raqqa, carrying logistical supplies.
+
+---
+
+[EVENT: SYR81313]
+Date: 2020-08-24
+Country: Syria | Location: Qahtaniyyah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 24 August 2020, a US patrol of several vehicles under the Global Coalition chased a Russian patrol near Qahtaniyyah in al-Hasakeh. Russian helicopters were seen flying over the area during the incident.
+
+---
+
+[EVENT: SYR81226]
+Date: 2020-08-24
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 24 August 2020, a Turkish military convoy entered Idleb via Kafr Lusin crossing and headed toward Turkish outposts in the area comprising 20 trucks.
+
+---
+
+[EVENT: SYR81359]
+Date: 2020-08-25
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 25 August 2020, US forces conducted a military patrol in the areas surrounding Shadadah in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR81041]
+Date: 2020-08-25
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 25 August 2020, US forces conducted a military patrol on the road between Rmelan and Al-Malikeyyeh in the countryside of Al-Hasakeh. The patrol stationed on the road to block Russian patrols from accessing the road to Simalka crossing.
+
+---
+
+[EVENT: SYR81059]
+Date: 2020-08-25
+Country: Syria | Location: Ash Shula
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: LaQ: Quds Brigade [Political militia]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: On 25 August 2020, LaQ and other pro-regime militias, supported by Russian forces, began a sweeping operation in search of IS cells in the Deir-ez-Zor desert area stretching from Ash Shula in the west to Al-Bukamal in the east. No information if any IS cells were captured.
+
+---
+
+[EVENT: SYR81303]
+Date: 2020-08-25
+Country: Syria | Location: Muraykiz
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 25 August 2020 (as reported), pro-Turkey rebel factions, which operate under OPS, looted civilian and public properties, including doors, windows, water tanks, and cables in the village of Muraykiz in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR81242]
+Date: 2020-08-25
+Country: Syria | Location: Kani Kirk
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 25 August 2020, Russian forces conducted a military patrol in the village of Kani Kirk (Hassaniyah) in the countryside of Al-Malikeyyeh in Al-Hasakeh. The patrol was escorted by a Russian helicopter.
+
+---
+
+[EVENT: SYR81408]
+Date: 2020-08-25
+Country: Syria | Location: Turnabah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 25 August 2020, Turkish and Russian forces carried out a joint patrol on the M4 Highway from Turnabah in Idleb to Ein Elhur village in Lattakia. 2 Russian soldiers were wounded when their vehicle was hit by an RPG fired by an unidentified armed group, likely Khattab Al-Shishani Brigade, near Orm Eljoz in Idleb.
+
+---
+
+[EVENT: SYR81227]
+Date: 2020-08-26
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 26 August 2020, a Turkish military convoy, comprising 20 vehicles, entered Syria via Kafr Lusin border crossing and headed to Turkish positions in Idleb.
+
+---
+
+[EVENT: SYR81331]
+Date: 2020-08-26
+Country: Syria | Location: Rmelan
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Property destruction: On 26 August 2020, unidentified gunmen set fire to several QSD-controlled oil wells in the vicinity of Rmelan in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR81056]
+Date: 2020-08-26
+Country: Syria | Location: Ar-Raqqa
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Mass grave: Around 26 August 2020 (week of), a grave containing the remains of more than 20 civilians, including women, in Al Furussia cemetry in the western vicinity ofAr-Raqqa city. They were allegedly executed by IS when it controlled the area.
+
+---
+
+[EVENT: SYR81021]
+Date: 2020-08-26
+Country: Syria | Location: Al Mayadin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: LaQ: Quds Brigade [Political militia]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 26 August 2020, a group of LaQ and QDW militia fighters began a sweeping operation in search of IS cells in the Joueif area in Al Mayadin desert in Deir-Ez-Zor. LaQ and QDW sent reinforcements into the desert after they lost contact with the group.
+
+---
+
+[EVENT: SYR81008]
+Date: 2020-08-27
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Telegram [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 27 August 2020, a joint Turkish and Russian patrol of four vehicles each, escourted with two Russian helicopters, took place in rural Ain al Arab in Aleppo countryside, touring several villages there.
+
+---
+
+[EVENT: SYR81043]
+Date: 2020-08-27
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SHAAM; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 27 August 2020, a US patrol of four armoured vehicles took place in rural Al-Malikeyyeh town in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR81228]
+Date: 2020-08-27
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 27 August 2020, a new Turkish military column of 20 vehicles, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR81229]
+Date: 2020-08-28
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 28 August 2020, a new Turkish military column of military trucks and armored vehicles, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR81001]
+Date: 2020-08-28
+Country: Syria | Location: Abu Rasin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 28 August 2020, a Russian patrol took place in the vicinity of Abu Rasin town in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR81388]
+Date: 2020-08-29
+Country: Syria | Location: Tal Baydar Haskeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 29 August 2020, a Global Coalition column and US forces of nearly 50 trucks carrying military and logistical supplies, entered the Syrian territories via Al Waleed border crossing, heading to their base in Tal Baydar town in north western countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR81328]
+Date: 2020-08-29
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 29 August 2020, Turkey backed Ahrar al Sharqiyah and Sultan Murad Division whom are operating under OPS, looted electricity power towers in several villages in rural Ras Al Ain in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR81230]
+Date: 2020-08-29
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 29 August 2020, a new Turkish military column of more than 60 vehicles including personnel carriers and armoured vehicles, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR81461]
+Date: 2020-08-30
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 30 August 2020, Global Coalition sent a convoy carrying weapons and logistical equipment to Shadadah base in southern Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR81467]
+Date: 2020-08-30
+Country: Syria | Location: Tal Baydar Haskeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 30 August 2020, Global Coalition sent a convoy carrying weapons and logistical equipment to Tal Baydar base in northern Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR81452]
+Date: 2020-08-30
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 30 August 2020, a new Turkish military column of 20 armoured vehicles and trucks, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR81476]
+Date: 2020-08-31
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 31 August 2020, a US patrol took place in the vicinity of Al-Malikeyyeh town in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR81488]
+Date: 2020-08-31
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 31 August 2020, a Russian convoy of 13 military vehicles carrying fuel, ammunition, and logistical equipment was seen headed towards their base in Ein Issa area in Ar-Raqqa countryside.
+
+---
+
+[EVENT: SYR81506]
+Date: 2020-08-31
+Country: Syria | Location: Shiheil
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Facebook [New media]
+
+DESCRIPTION:
+Movement of forces: On 31 August 2020, QSD have brought military reinforcement to Shiheil town in Deir-ez-Zor countryside
+
+---
+
+[EVENT: SYR81487]
+Date: 2020-08-31
+Country: Syria | Location: Deir-ez-Zor - Military Airbase
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: AlBadia 24 [National]
+
+DESCRIPTION:
+Movement of forces: On 31 August 2020, regime forces have brought military reinforcement to Deir-ez-Zor - Military Airport.
+
+---
+
+[EVENT: SYR81479]
+Date: 2020-08-31
+Country: Syria | Location: Balyun
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Halab Today; Liveuamap; SOHR [Local partner-New media]
+
+DESCRIPTION:
+On 31 August 2020, Turkish forces established a new military base in Balyun town in Idleb countryside.
+
+---
+
+[EVENT: SYR81486]
+Date: 2020-08-31
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Liveuamap; SHAAM; SOHR [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 31 August 2020, a joint Turkish and Russian patrol of four vehicles each, escourted with two Russian helicopters, took place in rural Darbasiyah in Al-Hasakeh countryside, touring several villages there.
+
+---
+
+[EVENT: SYR81532]
+Date: 2020-09-01
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 1 September 2020, a Russian patrol took place in Quamishli city in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR81512]
+Date: 2020-09-01
+Country: Syria | Location: Al-Bukamal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 1 September 2020, a Russian military column accompanied by regime Border Guards was seen roaming near Al-Bukamal city in Deir-ez-Zor countryside.
+
+---
+
+[EVENT: SYR81564]
+Date: 2020-09-02
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Facebook [New media-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 2 September 2020, a convoy of the Global Coalition Against Daesh carrying military and logistical supplies arrived in bases in Shadadah in al-Hasakeh.
+
+---
+
+[EVENT: SYR81547]
+Date: 2020-09-02
+Country: Syria | Location: Farhaniya
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Islamic State in Iraq and the Levant (ISIL) [Rebel group]
+Actor2: Military Forces of Syria (2000-2024) 17th Division [State forces]
+Fatalities: 0
+Sources: Alkhabour; Liveuamap; SHAAM [Local partner-New media]
+
+DESCRIPTION:
+Mass grave: On 2 September 2020, two mass graves were found in the Farhaniya area in Ar-Raqqa, one containing 55 bodies of the regime's 93rd Brigade, 17th Division, while the other containing 17 bodies of the same brigade and division whom were executed by IS.
+
+---
+
+[EVENT: SYR81538]
+Date: 2020-09-02
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Security measures: On 2 September 2020, US forces under the Global Coalition conducted a joint patrol with QSD in the vicinity of al-Malikeyyeh in al-Hasakeh.
+
+---
+
+[EVENT: SYR81554]
+Date: 2020-09-02
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 2 September 2020, a Turkish forces military convoy entered Idleb via Kafr Lusin border crossing and headed toward Turkish outposts in the area. The convoy comprised 25 vehicles.
+
+---
+
+[EVENT: SYR81545]
+Date: 2020-09-02
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Displacement: On 2 September 2020, 10 per cent of residents of Darbasiyah in al-Hasakeh were displaced from the area over fears of an imminent Turkish-led offensive in the area.
+
+---
+
+[EVENT: SYR81537]
+Date: 2020-09-02
+Country: Syria | Location: Abu Rasin
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Displacement: On 2 September 2020, 10 per cent of residents of Abu Rasin town and its suburbs in al-Hasakeh were displaced from the area over fears of an imminent Turkish-led offensive in the area.
+
+---
+
+[EVENT: SYR81584]
+Date: 2020-09-03
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 3 September 2020, a Turkish forces military convoy entered Idleb via Kafr Lusin border crossing and headed toward Turkish outposts in the area. The convoy comprised 30 vehicles carrying tanks, trucks and military supplies.
+
+---
+
+[EVENT: SYR81619]
+Date: 2020-09-04
+Country: Syria | Location: Qahtaniyyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR; Twitter [Other-New media]
+
+DESCRIPTION:
+Movement of forces: On 4 September 2020, Russian forces conducted a military patrol in the area of Qahtaniyyah in the countryside of Quamishli in Al-Hasakeh.
+
+---
+
+[EVENT: SYR81597]
+Date: 2020-09-04
+Country: Syria | Location: Bab al Kheir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 4 September 2020, Turkish forces conducted a military patrol in the areas between the villages of Umm Ashba and Bab al Khair in the countryside of Ras Al Ain in Al-Hasakeh.
+
+---
+
+[EVENT: SYR81623]
+Date: 2020-09-04
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 4 September 2020 (as reported), pro-Turkey rebel factions, which operate under OPS, looted civilian and public properties in the village of Al Shirkeh in the countryside of Ras Al Ain in Al-Hasakeh.
+
+---
+
+[EVENT: SYR81605]
+Date: 2020-09-04
+Country: Syria | Location: Duma
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: Around 4 September 2020 (as reported), regime forces seized properties near Al Burj Tibbi in Duma in Rural Damascus and used them to house regime officers and soldiers and their families who were brought to the area from the Syrian coast. The properties belong to opposition fighters and civilians who were displaced to the Syrian north after the regime controlled the area.
+
+---
+
+[EVENT: SYR81595]
+Date: 2020-09-04
+Country: Syria | Location: Al-Hasakeh - Ghoweran
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: SHAAM; Twitter [New media-National]
+
+DESCRIPTION:
+Defusal: On 4 September 2020, QSD dismantled a VBIED parked by an unidentified armed group in front of Taqwa restaurant in Ghoweran neighborhood in Al-Hasakeh city.
+
+---
+
+[EVENT: SYR81610]
+Date: 2020-09-04
+Country: Syria | Location: Hayaka
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 4 September 2020, residents of the village of Hayaka in the countryside of Al-Malikeyyeh in Al-Hasakeh prevented Russian forces from establishing a military base in their village, forcing them to return to the city of Quamishli.
+
+---
+
+[EVENT: SYR81607]
+Date: 2020-09-04
+Country: Syria | Location: Ein Terma
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: Around 4 September 2020 (as reported), regime forces seized a large number of properties on the Aswaq Al Khair Road in Ein Terma in Rural Damascus and used them to house regime officers and soldiers and their families who were brought to the area from the Syrian coast. The properties belong to opposition fighters and civilians who were displaced to the Syrian north after the regime controlled the area.
+
+---
+
+[EVENT: SYR81600]
+Date: 2020-09-04
+Country: Syria | Location: Basira
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 4 September 2020, QSD imposed a curfew on the town of Basira in the eastern countryside of Deir-ez-Zor for unknown reasons.
+
+---
+
+[EVENT: SYR81614]
+Date: 2020-09-04
+Country: Syria | Location: Kafr Batna
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: Around 4 September 2020 (as reported), regime forces seized a large number of properties in Al Arin and Al Karam neighborhoods in Kafr Batna in Rural Damascus and used them to house regime officers and soldiers and their families who were brought to the area from the Syrian coast. The properties belong to opposition fighters and civilians who were displaced to the Syrian north after the regime controlled the area.
+
+---
+
+[EVENT: SYR81631]
+Date: 2020-09-04
+Country: Syria | Location: Zamalka
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Land seizure: Around 4 September 2020 (as reported), regime forces seized a large number of properties near Al Motahalik Al Janobi in Zamalka in Rural Damascus and used them to house regime officers and soldiers and their families who were brought to the area from the Syrian coast. The properties belong to opposition fighters and civilians who were displaced to the Syrian north after the regime controlled the area.
+
+---
+
+[EVENT: SYR81625]
+Date: 2020-09-04
+Country: Syria | Location: Sarmasak
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Civilians (Syria) [Civilians]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Non-violent activity: On 4 September 2020, residents of the village of Sarmasak Tahtani in the countryside of Al-Malikeyyeh in Al-Hasakeh prevented Russian forces from establishing a military base in their village, forcing them to return to the city of Quamishli.
+
+---
+
+[EVENT: SYR81646]
+Date: 2020-09-05
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 5 September 2020, a Turkish military convoy, comprising 20 vehicles, entered Syria via Kafr Lusin border crossing and headed to Turkish positions in Idleb.
+
+---
+
+[EVENT: SYR81656]
+Date: 2020-09-05
+Country: Syria | Location: Tell Halaf
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: National Police Forces [Rebel group]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Defusal: On 5 September 2020, the National Police Forces dismantled a VBIED in the town of Tell Halaf in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR81652]
+Date: 2020-09-05
+Country: Syria | Location: Tal Baydar Haskeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 5 September 2020, US forces brought military reinforcements, comprising trucks and armored vehicles, to the Coalition Forces base in Tal Baydar in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR81636]
+Date: 2020-09-05
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR; Twitter [Other-New media]
+
+DESCRIPTION:
+Movement of forces: On 5 September 2020, Russian forces conducted a military patrol in the areas surrounding Al-Malikeyyeh in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR81651]
+Date: 2020-09-05
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Twitter [New media]
+
+DESCRIPTION:
+Movement of forces: On 5 September 2020, Coalition Forces brought military reinforcements to their base in Shadadah in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR81751]
+Date: 2020-09-06
+Country: Syria | Location: Damascus - Soumariyyeh
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 6 September 2020, members of the regime's military intelligence arrested a woman from M'adamiyat al-Sham at their checkpoint in the Soumariyyeh area of Damascus for unknown reasons.
+
+---
+
+[EVENT: SYR81784]
+Date: 2020-09-06
+Country: Syria | Location: Al Kashmeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Facebook [New media]
+
+DESCRIPTION:
+Movement of forces: On 6 September 2020, QSD withdrew all fighters manning its checkpoints on the main road in Al Kashmeh village in the countryside of Deir-ez-Zor for unknown reasons.
+
+---
+
+[EVENT: SYR81782]
+Date: 2020-09-07
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 7 September 2020, JWS, which operates under OPS, brought military reinforcements to the frontline areas with QSD in the countryside of Ras Al Ain in Al-Hasakeh.
+
+---
+
+[EVENT: SYR81769]
+Date: 2020-09-07
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 7 September 2020, US forces carried out a patrol in the area of Shadadah in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR81777]
+Date: 2020-09-07
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-National]
+
+DESCRIPTION:
+Movement of forces: On 7 September 2020, Turkish and Russian forces carried out a joint patrol in several villages in the eastern countryside of Ain Al Arab in the northern countryside of Aleppo.
+
+---
+
+[EVENT: SYR81778]
+Date: 2020-09-08
+Country: Syria | Location: Quamishli Airbase
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 8 September 2020, Russian forces sent weapons and logistical supplies through Quamishli Airbase to their bases.
+
+---
+
+[EVENT: SYR81770]
+Date: 2020-09-08
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 8 September 2020, a US patrol took place in the vicinity of Tal Tamer town in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR81781]
+Date: 2020-09-09
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 9 September 2020, a new Turkish military column of 15 armoured vehicles and trucks including personnel carriers, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR81771]
+Date: 2020-09-09
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 9 September 2020, a new Global Coalition column of 20 military trucks accompanied by military helicopters, enterd the Syrian territories via Al Waleed border crossing, and headed to Shadadah town in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR81986]
+Date: 2020-09-10
+Country: Syria | Location: Ma'arrat An Nu'man
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SNHR [Local partner-Other]
+
+DESCRIPTION:
+Looting: On 10 September 2020, regime forces raided Abdul Fattah Quzayiz school in Ma'arrat An Nu'man town in Idleb countryside, and turned it into a training center, after looting its contents.
+
+---
+
+[EVENT: SYR81775]
+Date: 2020-09-10
+Country: Syria | Location: Quamishli Airbase
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 10 September 2020, Russian forces sent 50 trucks carrying weapons, armoured vehicles, and logistical supplies, which arrived at Quamishli Airbase in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR81767]
+Date: 2020-09-10
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 10 September 2020, a US patrol took place in the vicinity of Tal Tamer town in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR81780]
+Date: 2020-09-10
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 10 September 2020, a new Turkish military column of armoured vehicles carrying officers, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR81748]
+Date: 2020-09-10
+Country: Syria | Location: Deir-ez-Zor - Al-Joura-Al-Thawra
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 10 September 2020, regime forces started a security campaign in Al-Joura neighbourhood in Deir-ez-Zor city, and arrested several young men for conscription.
+
+---
+
+[EVENT: SYR81749]
+Date: 2020-09-10
+Country: Syria | Location: Deir-ez-Zor - Al-Qosor
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 10 September 2020, regime forces started a security campaign in Al-Qosor neighbourhood in Deir-ez-Zor city, and arrested several young men for conscription.
+
+---
+
+[EVENT: SYR81774]
+Date: 2020-09-10
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 10 September 2020, a joint Turkish and Russian patrol of four vehicles each, escourted with two Russian helicopters, took place in rural Darbasiyah in Al-Hasakeh countryside, touring several villages there.
+
+---
+
+[EVENT: SYR81783]
+Date: 2020-09-11
+Country: Syria | Location: Maadan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QDW: National Defence Forces [Political militia]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 11 September 2020, trucks carrying members of QDW's Martyr Ali Zin Abdin Brigade arrived in Maadan in Ar-Raqqa.
+
+---
+
+[EVENT: SYR81750]
+Date: 2020-09-12
+Country: Syria | Location: Tabni
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Arrests: On 12 September 2020, regime forces arrested several male civilians in Tabni sub-district of Deir-ez-Zor for conscription purposes.
+
+---
+
+[EVENT: SYR89779]
+Date: 2020-09-12
+Country: Syria | Location: Jasim
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) State Security [State forces]
+Actor2: Unidentified Armed Group (Syria) [Political militia]
+Fatalities: 0
+Sources: Jisr; SY24 [National]
+
+DESCRIPTION:
+On 12 September 2020, regime's state security supported by former opposition fighters (currently members of the force) conducted a search and arrest operation in Jasim in Dar'a in search for suspects involved in attacks against regime members in the past week. 1 of the suspects was reportedly arrested as search operations continued.
+
+---
+
+[EVENT: SYR81768]
+Date: 2020-09-12
+Country: Syria | Location: Tanf Border Crossing
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Facebook; SOHR [Other-New media]
+
+DESCRIPTION:
+Movement of forces: On 12 September 2020, a Global Coalition convoy entered Syria via Tanf border crossing and headed toward Coalition bases. The convoy consisted of 50 trucks carrying military and logistical supplies.
+
+---
+
+[EVENT: SYR81776]
+Date: 2020-09-12
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Facebook [New media]
+
+DESCRIPTION:
+Movement of forces: On 12 September 2020, Russian forces brought military reinforcements from Tall al Samn into Ein Issa area in Ar-Raqqa, comprising heavy machinery and pre-made structures.
+
+---
+
+[EVENT: SYR81773]
+Date: 2020-09-12
+Country: Syria | Location: Al-Hasakeh - Ghoweran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Security measures: On 12 September 2020, US forces under the Global Coalition conducted a patrol in Ghoweran neighborhood of al-Hasakeh city.
+
+---
+
+[EVENT: SYR81772]
+Date: 2020-09-12
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Security measures: On 12 September 2020, a US patrol of 3 vehicles under the Global Coalition escorted by a QSD vehicle toured al-Malikeyyeh countryside in al-Hasakeh.
+
+---
+
+[EVENT: SYR81779]
+Date: 2020-09-12
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 12 September 2020, a Russian patrol of 6 vehicles escorted by a QSD vehicle toured al-Malikeyyeh countryside in al-Hasakeh, passing through Sarmasak, Hayaka, and Rubariyah.
+
+---
+
+[EVENT: SYR82128]
+Date: 2020-09-13
+Country: Syria | Location: Tal Samn
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 13 September 2020, a Russian patrol was conducted in areas in Tal Samn in northern Ar-Raqqa countryside.
+
+---
+
+[EVENT: SYR82124]
+Date: 2020-09-13
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 13 September 2020, a Global Coalition convoy comprising 50 trucks arrived in Shadadah in al-Hasakeh. Coalition helicopters were seen escorting the convoy.
+
+---
+
+[EVENT: SYR82127]
+Date: 2020-09-13
+Country: Syria | Location: Quamishli Airbase
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Facebook; Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 13 September 2020, a Russian convoy comprising 20 trucks arrived at Quamishli airbase carrying logistical and military equipment. Russian helicopters were seen escorting the convoy.
+
+---
+
+[EVENT: SYR82120]
+Date: 2020-09-13
+Country: Syria | Location: Maskana
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+On 13 September 2020, regime forces arrested 12 male civilians in the vicinity of Maskana in Aleppo for conscription purposes.
+
+---
+
+[EVENT: SYR82129]
+Date: 2020-09-13
+Country: Syria | Location: Ma'arrat An Nu'man
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 13 September 2020, regime and pro-regime militia forces reinforcements arrived in the Ma'arrat An Nu'man and Khan Shaykun area in al Ma'ra district of Idleb.
+
+---
+
+[EVENT: SYR82125]
+Date: 2020-09-14
+Country: Syria | Location: Eastern Jurdi
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Facebook; Halab Today; Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 14 September 2020, a US convoy under the Global Coalition entered Jurdi al-Sharqi in Deir-ez-Zor along with a QSD convoy.
+
+---
+
+[EVENT: SYR82130]
+Date: 2020-09-14
+Country: Syria | Location: Sheikh Miskine
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 14 September 2020, regime forces deployed forces to Sheikh Miskine in Dar'a and set up additional checkpoints in the area following the assassination of 2 regime members on 12 September.
+
+---
+
+[EVENT: SYR82126]
+Date: 2020-09-14
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: On 14 September 2020, US forces under the Global Coalition conducted a patrol along the al-Hasakeh - Tal Tamer road.
+
+---
+
+[EVENT: SYR82121]
+Date: 2020-09-14
+Country: Syria | Location: Deir-ez-Zor
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+On 14 September 2020, regime forces arrested several male civilians from Deir-ez-Zor city for conscription purposes.
+
+---
+
+[EVENT: SYR82131]
+Date: 2020-09-14
+Country: Syria | Location: Sheikh Miskine
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 14 September 2020, regime forces expelled several civilians from their houses in Sheikh Miskine in Dar'a to set up command centers.
+
+---
+
+[EVENT: SYR81970]
+Date: 2020-09-15
+Country: Syria | Location: Rmelan
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 15 September 2020, US forces carried out a patrol in the area of Rmelan in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR81978]
+Date: 2020-09-15
+Country: Syria | Location: Sfayieh Oil Fields
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 5th Assault Corps [State forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 15 September 2020, the Regime's 5th Assault Corps brought military reinforcements to the Sfayieh Oil Fields area in the countryside of Ar-Raqqa.
+
+---
+
+[EVENT: SYR81979]
+Date: 2020-09-15
+Country: Syria | Location: Turnabah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Halab Today; Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 15 September 2020, Turkish forces carried out a patrol on the M4 Highway in Idleb in conjunction with the overflight of Turkish reconnaissance drones over the area. Russian forces didn't take part in the patrol.
+
+---
+
+[EVENT: SYR81981]
+Date: 2020-09-15
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 15 September 2020, pro-Turkey rebel factions, which operate under OPS, and National Police Forces deployed forces in Ras Al Ain and its surroundings in Al-Hasakeh province.
+
+---
+
+[EVENT: SYR81954]
+Date: 2020-09-15
+Country: Syria | Location: Sheikh Miskine
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Arrests: On 15 September 2020, the regime forces and the military and Air force intelligence branches stormed the town of Sheikh Miskine in Dar'a province and arrested 22 civilians for unknown reasons.
+
+---
+
+[EVENT: SYR81972]
+Date: 2020-09-15
+Country: Syria | Location: Turnabah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Halab Today; Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 15 September 2020, Russian forces deployed fighters on the M4 Highway in Idleb while a Turkish patrol was taking part in the area.
+
+---
+
+[EVENT: SYR81988]
+Date: 2020-09-16
+Country: Syria | Location: Khrbit Al-Banat
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 16 September 2020 (as reported), rebel factions, which operate under OPS, imposed fees on local residents in order to allow them to pass through their checkpoints in the village of Khrbit Al-Banat in the countryside of Ras Al Ain in Al-Hasakeh
+
+---
+
+[EVENT: SYR81991]
+Date: 2020-09-16
+Country: Syria | Location: Mahmudiyeh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 16 September 2020, opposition rebels, which operate under OPS, set several civilian houses on fire in the village of Mahmudiyeh in the countryside of Ras Al Ain in Al-Hasakeh for unknown reasons.
+
+---
+
+[EVENT: SYR81987]
+Date: 2020-09-16
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: Around 16 September 2020 (as reported), Sultan Murad Division, which operates under OPS, demolished mud houses, likely belonging to displaced civilians, and dismantled electricity towers in the village of Koe' Shallah in the countryside of Ras Al Ain in Al-Hasakeh to extract tin plates.
+
+---
+
+[EVENT: SYR81990]
+Date: 2020-09-16
+Country: Syria | Location: Kherbet Jamu
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Property destruction: On 16 September 2020, opposition rebels, which operate under OPS, set several civilian houses on fire in the village of Kherbet Jamu in the countryside of Ras Al Ain in Al-Hasakeh for unknown reasons.
+
+---
+
+[EVENT: SYR81971]
+Date: 2020-09-16
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 16 September 2020, US forces carried out a patrol in the area of Tal Tamer in the countryside of Al-Hasakeh.
+
+---
+
+[EVENT: SYR81992]
+Date: 2020-09-16
+Country: Syria | Location: Qahtaniyyah
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Facebook; Liveuamap; SHAAM; SOHR [Local partner-New media]
+
+DESCRIPTION:
+Non-violent activity: On 16 September 2020, a US forces patrol blocked the M4 road near Qahtaniyyah in Al-Hasakeh to prevent a Russian patrol from passing through the area amidst the overflight of 2 US and 2 Russian helicopters over the area.
+
+---
+
+[EVENT: SYR81993]
+Date: 2020-09-16
+Country: Syria | Location: Baghuz
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Facebook; Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: On 16 September 2020, QSD, supported by Coalition Forces, carried out raids in the town of Baghuz in the countryside of Deir-ez-Zor. Gunshots were heard in the area. It is not known if any arrests were made.
+
+---
+
+[EVENT: SYR81989]
+Date: 2020-09-16
+Country: Syria | Location: Tal Khanzir
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 16 September 2020 (as reported), rebel factions, which operate under OPS, imposed fees on local residents in order to allow them to pass through their checkpoints in the village of Tal Khanzir in the countryside of Ras Al Ain in Al-Hasakeh
+
+---
+
+[EVENT: SYR81982]
+Date: 2020-09-17
+Country: Syria | Location: Shiheil
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Facebook; Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 17 September 2020, a QSD and Global Coalition military column entered Shiheil town in Deir-ez-Zor countryside.
+
+---
+
+[EVENT: SYR81973]
+Date: 2020-09-17
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Facebook; Liveuamap; SOHR [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 17 September 2020, a joint Turkish and Russian patrol of four armored vehicles each, escorted with two Russian helicopters, took place in rural Ain al Arab in Aleppo countryside. The patrol will be touring several villages there.
+
+---
+
+[EVENT: SYR81955]
+Date: 2020-09-18
+Country: Syria | Location: Tabni
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Arrests: On 18 September 2020, regime forces arrested two young men in Tabni town in Deir-ez-Zor countryside, in charges of taking pictures of their military bases and checkpoints.
+
+---
+
+[EVENT: SYR81976]
+Date: 2020-09-18
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 18 September 2020, regime forces have sent reinforcement of 15 buses carrying soldiers and logistical materials which arrived at Ein Issa area in Ar-Raqqa countryside, and will be headed to 93rd Brigade Army Base.
+
+---
+
+[EVENT: SYR81980]
+Date: 2020-09-18
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 18 September 2020, a new Turkish military column of 40 armored vehicles and trucks carrying logistical and military equipment, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR81983]
+Date: 2020-09-19
+Country: Syria | Location: Al-Hasakeh - Ghoweran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: SHAAM [National]
+
+DESCRIPTION:
+Movement of forces: On 19 September 2020, QSD have sent reinforcement to Ghoweran neighborhood in Al-Hasakeh city.
+
+---
+
+[EVENT: SYR81977]
+Date: 2020-09-19
+Country: Syria | Location: 93rd Brigade Army Base
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 19 September 2020, regime forces have sent reinforcement to 93rd Brigade Army Base in Ar-Raqqa countryside.
+
+---
+
+[EVENT: SYR81975]
+Date: 2020-09-19
+Country: Syria | Location: Darbasiyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Facebook; SHAAM; SOHR [Other-New media]
+
+DESCRIPTION:
+Movement of forces: On 19 September 2020, a Russian patrol took place in the area from Darbasiyah countryside to Abu Rasin countryside, then headed back to their base in Quamishli city.
+
+---
+
+[EVENT: SYR81974]
+Date: 2020-09-19
+Country: Syria | Location: Quamishli Airbase
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 19 September 2020, a Russian convoy of tens of vehicles carrying weapons and logistical supplies, headed from M4 highway to their base in Quamishli Airbase in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR82494]
+Date: 2020-09-20
+Country: Syria | Location: Ar-Raqqa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Land seizure: On 20 September 2020, QSD forcibly took position of a number of houses belonging to IDP families north of Ar-Raqqa city.
+
+---
+
+[EVENT: SYR82656]
+Date: 2020-09-20
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Facebook [New media]
+
+DESCRIPTION:
+Movement of forces: On 20 September 2020, a Global Coalition column of vehicles carrying military equipment and logistical supplies, entered the Syrian territories via Al Waleed border crossing, arrived at Quamishli city in Al-Hasakeh countryside, and headed to US bases in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR82600]
+Date: 2020-09-20
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 20 September 2020, a new Turkish military column of 15 vehicles and trucks carrying logistical and military equipment, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR82547]
+Date: 2020-09-20
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Looting: On 20 September 2020, QSD stole 20 sheeps in Dibis village in rural Ein Issa in Ar-Raqqa countryside, which belongs to a civilian.
+
+---
+
+[EVENT: SYR82577]
+Date: 2020-09-21
+Country: Syria | Location: Al-Rasafah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 21 September 2020, regime forces have sent military reinforcement to Al-Rasafah area in the southern Ar-Raqqa countryside through Ithariyah road.
+
+---
+
+[EVENT: SYR82664]
+Date: 2020-09-21
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Facebook; SOHR [Other-New media]
+
+DESCRIPTION:
+Movement of forces: On 21 September 2020, a joint Turkish and Russian patrol of four vehicles each, escorted with Russian helicopters, took place in rural Ras Al Ain in Al-Hasakeh countryside, The patrol toured several villages there.
+
+---
+
+[EVENT: SYR82703]
+Date: 2020-09-21
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 21 September 2020, a US patrol took place in Tal Tamer area in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR82657]
+Date: 2020-09-21
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 21 September 2020, a Global Coalition column of 60 trucks carrying military equipment and logistical supplies, entered the Syrian territories via Al Waleed border crossing, headed to Quamishli city, and then to their bases in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR82484]
+Date: 2020-09-21
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 21 September 2020, a Russian patrol of five armored vehicles accompanied by two helicopters took place in rural Al-Malikeyyeh in Al-Hasakeh countryside, and headed to Al-Maabdaa countryside.
+
+---
+
+[EVENT: SYR82525]
+Date: 2020-09-21
+Country: Syria | Location: Bishri Mountain - Deir-ez-Zor
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Facebook; Liveuamap; The Euphrates Post [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 21 September 2020, regime forces and pro-regime militias have sent military reinforcement to Bishri Mountain in Deir-ez-Zor countryside.
+
+---
+
+[EVENT: SYR82601]
+Date: 2020-09-21
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 21 September 2020, a new Turkish military column of vehicles and trucks carrying tanks, logistical and military equipment, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR82476]
+Date: 2020-09-22
+Country: Syria | Location: Al-Hasakeh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Syria) [Political militia]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Facebook [New media]
+
+DESCRIPTION:
+Property destruction: On 22 September 2020, an unknown armed group set a car belongs to Syrian Red Crescent board member on fire in front of his house in Al-Hasakeh city.
+
+---
+
+[EVENT: SYR82477]
+Date: 2020-09-22
+Country: Syria | Location: Al-Hasakeh - Ghoweran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SHAAM [Subnational-National]
+
+DESCRIPTION:
+Movement of forces: On 22 September 2020, a US patrol took place in Ghoweran neighbourhood in Al-Hasakeh city.
+
+---
+
+[EVENT: SYR82539]
+Date: 2020-09-23
+Country: Syria | Location: Debsi Afnan
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: QDW: National Defence Forces [Political militia]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+On 23 September 2020, QDW established a headquarters in Debsi Afnan in Ar-Raqqa for recruitment purposes.
+
+---
+
+[EVENT: SYR82546]
+Date: 2020-09-23
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 23 September 2020, regime forces sent military reinforcements to the Ein Issa sub-district of Ar-Raqqa province. 12 buses were seen crossing into QSD-held areas.
+
+---
+
+[EVENT: SYR82602]
+Date: 2020-09-23
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 23 September 2020, 2 Turkish military convoys entered Syria via Kafr Lusin border crossing, comprising 40 and 30 armored vehicles and personnel carriers, respectively.
+
+---
+
+[EVENT: SYR82704]
+Date: 2020-09-23
+Country: Syria | Location: Tal Tamer
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: On 23 September 2020, US forces, operating under the Global Coalition Forces, patrolled Tal Tamer - al-Hasakeh road, and Tal Tamer - Quamishli road.
+
+---
+
+[EVENT: SYR82459]
+Date: 2020-09-24
+Country: Syria | Location: Ain al Arab
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: On 24 September 2020, a joint Russian - Turkish patrol of 4 vehicles each and 2 Russian helicopters patrolled Ain al Arab sub-district, taking off from Gharib area.
+
+---
+
+[EVENT: SYR82473]
+Date: 2020-09-24
+Country: Syria | Location: Al-Bukamal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Liwa al Baqir [Political militia]
+Fatalities: 0
+Sources: Facebook [New media]
+
+DESCRIPTION:
+Movement of forces: On 24 September 2020, Liwa al Baqir, which is affiliated with IRGC sent reinforcements to Al-Bukamal city and sub-district, where about 100 militiamen arrived with their weaponry and equipment. In Al-Bukamal city, members of the militia arrived at an Iraqi Hezbollah headquarters in al Hajjaneh area. Elsewhere, militiamen arrived at positions in Ta's al-Shayir and Ghabra in the sub-district.
+
+---
+
+[EVENT: SYR82701]
+Date: 2020-09-24
+Country: Syria | Location: Tal Brak
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Facebook; SOHR [Other-New media]
+
+DESCRIPTION:
+Security measures: On 24 September 2020, US forces operating under the Global Coalition Forces patrolled the vicinity of Tal Brak in al-Hasakeh.
+
+---
+
+[EVENT: SYR82666]
+Date: 2020-09-24
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 24 September 2020 (from 22 - 24 September), opposition rebels, which operate under OPS, looted items from civilians' homes in Qasemiyeh Sharabin in al-Hasakeh, including firewood and fodder. Looting operations lasted for 3 days.
+
+---
+
+[EVENT: SYR82501]
+Date: 2020-09-24
+Country: Syria | Location: Aziziyeh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 24 September 2020 (from 22 - 24 September), opposition rebels, which operate under OPS, looted items from civilians' homes in Aziziyeh in al-Hasakeh, including firewood and fodder. Looting operations lasted for 3 days.
+
+---
+
+[EVENT: SYR82668]
+Date: 2020-09-24
+Country: Syria | Location: Rihaniya
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 24 September 2020 (from 22 - 24 September), opposition rebels, which operate under OPS, looted items from civilians' homes in Rihaniya in al-Hasakeh, including firewood and fodder. Looting operations lasted for 3 days.
+
+---
+
+[EVENT: SYR82576]
+Date: 2020-09-24
+Country: Syria | Location: Ithariyah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Liwa al Baqir [Political militia]
+Fatalities: 0
+Sources: Facebook [New media]
+
+DESCRIPTION:
+Movement of forces: On 24 September 2020, Liwa al Baqir, which is affiliated with the IRGC, sent reinforcements to Ithariyah - As-Salamiyeh road in Hama.
+
+---
+
+[EVENT: SYR82651]
+Date: 2020-09-24
+Country: Syria | Location: Qasemiyeh
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 24 September 2020 (from 22 - 24 September), opposition rebels, which operate under OPS, looted items from civilians' homes in Qasemiyeh in al-Hasakeh, including firewood and fodder. Looting operations lasted for 3 days.
+
+---
+
+[EVENT: SYR82665]
+Date: 2020-09-24
+Country: Syria | Location: Ras al-Ain
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Operation Peace Spring [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: Around 24 September 2020 (from 22 - 24 September), opposition rebels, which operate under OPS, looted items from civilians' homes in Qasemiyeh Samayla in al-Hasakeh, including firewood and fodder. Looting operations lasted for 3 days.
+
+---
+
+[EVENT: SYR82613]
+Date: 2020-09-25
+Country: Syria | Location: Kanaker
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 25 September 2020, regime forces, supported by tanks and heavy weapons, besieged the town of Kanaker in Rural Damascus. They demand the handover of approximately 150 civilians accused of 'taking arms against the state' and participating in demonstrations during which pictures of the Syrian president were burned several days prior.
+
+---
+
+[EVENT: SYR82603]
+Date: 2020-09-25
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 25 September 2020, Turkish forces brought military reinforcements to their positions in the de-escalation zone in Idleb. The convoy, comprising 20 armored vehicles and trucks, entered Syrian territory via Kafr Lusin crossing with Turkey.
+
+---
+
+[EVENT: SYR82540]
+Date: 2020-09-25
+Country: Syria | Location: Sur
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Facebook; Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: On 25 September 2020, QSD, supported by Coalition Forces warplanes, began a sweeping operation in the north-eastern desert of Deir-ez-Zor province in Sur area along the border with Iraq in search of IS cells and to block IS smuggling routes between Syria and Iraq.
+
+---
+
+[EVENT: SYR82604]
+Date: 2020-09-26
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 26 September 2020, Turkish forces brought military reinforcements to their positions in the de-escalation zone in Idleb. The convoy, comprising 15 armored vehicles and trucks, entered Syrian territory via Kafr Lusin crossing with Turkey.
+
+---
+
+[EVENT: SYR82483]
+Date: 2020-09-26
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Facebook; SOHR [Other-New media]
+
+DESCRIPTION:
+Movement of forces: On 26 September 2020, US forces carried out a patrol in the countrysides of Al-Malikeyyeh and Al-Maabdaa in Al-Hasakeh. The patrol was escorted by US helicopters.
+
+---
+
+[EVENT: SYR82478]
+Date: 2020-09-26
+Country: Syria | Location: Al-Hasakeh - Ghoweran
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 26 September 2020, US forces carried out a patrol in the Ghoweran neighborhood of Al-Hasakeh city.
+
+---
+
+[EVENT: SYR82585]
+Date: 2020-09-26
+Country: Syria | Location: Jasim
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 26 September 2020, regime forces launched a security campaign in the town of Jasim in Dar'a to confiscate motorcycles for unknown reasons.
+
+---
+
+[EVENT: SYR82503]
+Date: 2020-09-26
+Country: Syria | Location: Baghuz
+Type: Strategic developments > Headquarters or base established | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Around 26 September 2020 (as reported), QSD and US forces started building a joint base in the city of Baghuz in the eastern countryside of Deir-ez-Zor with the aim of observing Iranian movements in the city of Al-Bukamal.
+
+---
+
+[EVENT: SYR82843]
+Date: 2020-09-27
+Country: Syria | Location: Sosa
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 27 September 2020, QSD seized dozens of motorcycles in the town of Sosa in Deir-ez-Zor after it imposed a curfew on the use of motorcycles in the town.
+
+---
+
+[EVENT: SYR82816]
+Date: 2020-09-27
+Country: Syria | Location: Ein Issa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Facebook; SOHR [Other-New media]
+
+DESCRIPTION:
+Movement of forces: On 27 September 2020, Russian forces brought military reinforcements from Quamishli city in Al-Hasakeh to Ein Issa in Ar-Raqqa. The convoy was escorted by Russian helicopters.
+
+---
+
+[EVENT: SYR82833]
+Date: 2020-09-27
+Country: Syria | Location: Suluk
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 27 September 2020, QSD brought military reinforcements to the village of Shirka in Suluk district in the northern countryside of Ar-Raqqa.
+
+---
+
+[EVENT: SYR82844]
+Date: 2020-09-27
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Actor2: Government of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Looting: On 27 September 2020, QSD's DFNS government took over the running of the transportation and garage department in the city of Quamishli in Al-Hasakeh, which is under the control of the Syrian regime.
+
+---
+
+[EVENT: SYR82824]
+Date: 2020-09-27
+Country: Syria | Location: Dweir
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) 5th Assault Corps [State forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 27 September 2020, the regime's 5th Assault Corps deployed forces in the area between Dweir and Hasrat in the countryside of Deir-ez-Zor.
+
+---
+
+[EVENT: SYR82813]
+Date: 2020-09-27
+Country: Syria | Location: Al-Bukamal
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Hezbollah [Political militia]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 27 September 2020, Hezbollah, Harakat Hezbollah Al Nujaba, LAFA, and Zainabiyoun Brigade withdrew from their positions in the vicinity of Al-Bukamal and headed to Al Qaim in Iraq for unknown reasons.
+
+---
+
+[EVENT: SYR82832]
+Date: 2020-09-27
+Country: Syria | Location: Qantari
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Movement of forces: On 27 September 2020, QSD brought military reinforcements to the village of Qantari in the northern countryside of Ar-Raqqa.
+
+---
+
+[EVENT: SYR82810]
+Date: 2020-09-28
+Country: Syria | Location: Shadadah
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 28 September 2020, Coalition Forces brought military reinforcements to their bases in the area of Shadadah in the countryside of Al-Hasakeh. A convoy consisting of 40 vehicles entered Syrian territory from the Kurdistan region in Iraq via Al-Walid crossing.
+
+---
+
+[EVENT: SYR82827]
+Date: 2020-09-28
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 28 September 2020, Turkish forces brought military reinforcements to their positions in the de-escalation zone in Idleb. The convoy, comprising 25 armored vehicles and trucks, entered Syrian territory via Kafr Lusin crossing.
+
+---
+
+[EVENT: SYR82834]
+Date: 2020-09-28
+Country: Syria | Location: Sosa
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: QSD: Syrian Democratic Forces [Rebel group]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Security measures: On 28 September 2020, QSD imposed a curfew on the town of Sosa in the eastern countryside of Deir-ez-Zor for unknown reasons.
+
+---
+
+[EVENT: SYR82842]
+Date: 2020-09-28
+Country: Syria | Location: Sheikh al-Hadid
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Opposition Rebels (Syria) [Rebel group]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Looting: On 28 September 2020, members of pro-Turkey rebel factions forcibly took over possession of 4 shops owned by a civilian from Afrin in the village of Sheikh al-Hadid in the countryside of Afrin in Aleppo. The owner was also subjected to humiliation by the fighters.
+
+---
+
+[EVENT: SYR82817]
+Date: 2020-09-28
+Country: Syria | Location: Quamishli
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Movement of forces: On 28 September 2020, Russian forces carried out a patrol in the areas surrounding Quamishli city in Al-Hasakeh.
+
+---
+
+[EVENT: SYR82823]
+Date: 2020-09-28
+Country: Syria | Location: Kanaker
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Security measures: On 28 September 2020, regime forces continue to besiege the town of Kanaker in Rural Damascus after local gunmen who had previously accepted reconciliation with the regime refused to accept the terms and conditions of a new reconciliation agreement with the regime.
+
+---
+
+[EVENT: SYR82828]
+Date: 2020-09-29
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: SOHR [Other]
+
+DESCRIPTION:
+Movement of forces: On 29 September 2020, three new Turkish military columns of more than 60 armoured vehicles and trucks carrying logistical and military equipment, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR82818]
+Date: 2020-09-29
+Country: Syria | Location: Abu Rasin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 29 September 2020, a Russian patrol took place in the vicinity of Abu Rasin town in rural Ras Al Ain in Al-Hasakeh countryside.
+
+---
+
+[EVENT: SYR82792]
+Date: 2020-09-30
+Country: Syria | Location: Maadan
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Alkhabour [National]
+
+DESCRIPTION:
+Arrests: On 30 September 2020, regime forces arrested several young men in Maadan town in Ar-Raqqa countryside for conscription.
+
+---
+
+[EVENT: SYR82764]
+Date: 2020-09-30
+Country: Syria | Location: Dar'a
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Military Forces of Syria (2000-2024) Military Intelligence [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Dar'a 24; SOHR [Other-Subnational]
+
+DESCRIPTION:
+Arrests: On 30 September 2020, a group of the former opposition factions which works for the regime military intelligence conducted a security campaign in Dar'a Al Balad in Dar'a city, and arrested at least two men.
+
+---
+
+[EVENT: SYR82793]
+Date: 2020-09-30
+Country: Syria | Location: Deir-ez-Zor - Al-Joura-Al-Thawra
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Syria (2000-2024) General Intelligence Directorate [State forces]
+Actor2: Civilians (Syria) [Civilians]
+Fatalities: 0
+Sources: Facebook [New media]
+
+DESCRIPTION:
+Arrests: On 30 September 2020, members of the regime's General Intelligence Directorate arrested several young men in Al-Joura neighbourhood in Deir-ez-Zor city for conscription.
+
+---
+
+[EVENT: SYR82840]
+Date: 2020-09-30
+Country: Syria | Location: Idleb
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: JWS: Syrian National Army [Rebel group]
+Actor2: Military Forces of Russia (2000-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Property destruction: On 30 September 2020, Turkey backed JWS shot down a Russian reconnaissance drone in Idleb city.
+
+---
+
+[EVENT: SYR82830]
+Date: 2020-09-30
+Country: Syria | Location: Kafr Lusin
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Turkey (2016-) [External/Other forces]
+Fatalities: 0
+Sources: Liveuamap; SOHR; Twitter [Local partner-New media]
+
+DESCRIPTION:
+Movement of forces: On 30 September 2020, six new Turkish military columns of 140 armoured vehicles and trucks carrying logistical and military equipment, entered the Syrian territories via Kafr Lusin border crossing, heading to the de-escalation zone.
+
+---
+
+[EVENT: SYR82812]
+Date: 2020-09-30
+Country: Syria | Location: Al-Malikeyyeh
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Global Coalition Against Daesh [External/Other forces]
+Fatalities: 0
+Sources: Alkhabour [Subnational]
+
+DESCRIPTION:
+Movement of forces: On 30 September 2020, a US patrol took place in the vicinity of Al-Malikeyyeh town in Al-Hasakeh countryside.

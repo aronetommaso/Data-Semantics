@@ -1,0 +1,30 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Jordan (ISO Code: 400)
+Temporal Period: Year 2021 - Quarter Q4
+Total Events in Chunk: 2 / 2
+==================================================
+
+[EVENT: JOR2831]
+Date: 2021-11-01
+Country: Jordan | Location: Amman
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Jordan) [Protesters]
+Fatalities: 0
+Sources: Amman Net [National]
+
+DESCRIPTION:
+Strikes: On 1 November 2021, thousands of smart transportation applications drivers began a day long nationwide strike in protest against the neglect of their demands by the Ministry of transport. Coded to Amman.
+
+---
+
+[EVENT: JOR1101]
+Date: 2021-11-29
+Country: Jordan | Location: Amman
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Protesters (Jordan) [Protesters]
+Fatalities: 0
+Sources: Jo 24 [National]
+
+DESCRIPTION:
+Strikes: On 29 November 2021, UNRWA workers started a one day nation-wide strike in protest against the neglect of their demands, threatening to further escalate. Coded to Amman.

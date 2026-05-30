@@ -1,0 +1,18 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Qatar (ISO Code: 634)
+Temporal Period: Year 2022 - Quarter Q4
+Total Events in Chunk: 1 / 1
+==================================================
+
+[EVENT: QAT37]
+Date: 2022-10-29
+Country: Qatar | Location: Doha
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Qatar (2013-) [State forces]
+Actor2: Civilians (International) [Civilians]
+Fatalities: 0
+Sources: AFP [International]
+
+DESCRIPTION:
+Other: Around 29 October 2022 (as reported), Qatari authorities (coded as police) forcibly evicted hundreds of migrant workers from their residential buildings in Al Mansoura in central Doha (Ad Dawnah) under the pretext that they were 'uninhabitable', claiming that due notice and alternative accommodation were provided.

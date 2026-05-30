@@ -1,0 +1,141 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Bahrain (ISO Code: 48)
+Temporal Period: Year 2017 - Quarter Q2
+Total Events in Chunk: 10 / 10
+==================================================
+
+[EVENT: BHR120]
+Date: 2017-04-28
+Country: Bahrain | Location: Karbabad
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: Press TV [International]
+
+DESCRIPTION:
+Arrests: Bahraini regime forces have arrested another Shia Muslim cleric as the crackdown on members of the Shia community continues. Bahraini troopers stormed the house of Sheikh Abdulzahra Karbabadi in the village of Karbabad early on Friday, and arrested the cleric and his wife.
+
+---
+
+[EVENT: BHR10697]
+Date: 2017-05-04
+Country: Bahrain | Location: Sar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Bahrain) [Political militia]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: Al Wasat; ADHRB [National]
+
+DESCRIPTION:
+Property destruction: On 4 May 2017, an unidentified group smashed the rear glass of the car of former General Secretary of the General Federation of Bahrain Trade Unions Salman al Mahfud near his house in Sar (Northern). ADHRB organization speculated that this was part of a pattern of intimidation by the authorities that targeted civil and political society leaders.
+
+---
+
+[EVENT: BHR121]
+Date: 2017-05-05
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [External/Other forces]
+Fatalities: 0
+Sources: Press TV [International]
+
+DESCRIPTION:
+Movement of Forces: Two days before the court pronounces its ruling against the spiritual leader of the al-Wefaq , Sheikh Qassim, Saudi Arabia has deployed military reinforcements to Bahrain apparently to help the Bahraini regime control potential anti-regime protests. On May 3, senior clerics in Bahrain reiterated their support for Sheikh Qassim, and called on all members of the public to reject any court ruling against the distinguished cleric.
+
+---
+
+[EVENT: BHR10698]
+Date: 2017-05-07
+Country: Bahrain | Location: Jabalt Hibshi
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Bahrain) [Political militia]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: Al Wasat; ADHRB [National]
+
+DESCRIPTION:
+Property destruction: On 7 May 2017, the car of Deputy Secretary General of the dissolved Al Wefaq National Islamic Society Khalil al Marzuq caught fire near his house in Jabalt Hibshi (Northern). The authorities claimed that the fire was caused by a short circuit, however, ADHRB organization speculated that this was part of a pattern of intimidation by the authorities that targeted civil and political society leaders.
+
+---
+
+[EVENT: BHR122]
+Date: 2017-05-11
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Saudi Arabia (2015-) [External/Other forces]
+Fatalities: 0
+Sources: Press TV [International]
+
+DESCRIPTION:
+Movement of Forces: Saudi Arabia has reportedly dispatched hundreds of troops into Bahrain ahead of the planned trial of the island's most senior Shia cleric Sheikh Isa Qassim.
+
+---
+
+[EVENT: BHR10696]
+Date: 2017-05-12
+Country: Bahrain | Location: Sar
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Bahrain) [Political militia]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: Al Wasat; ADHRB [National]
+
+DESCRIPTION:
+Property destruction: On 12 May 2017, an unidentified party burned the car of the son of former General Secretary of the General Federation of Bahrain Trade Unions Salman al Mahfud near his house in Sar (Northern). ADHRB organization speculated that this was part of a pattern of intimidation by the authorities that targeted civil and political society leaders.
+
+---
+
+[EVENT: BHR10699]
+Date: 2017-05-15
+Country: Bahrain | Location: Jid Ali
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Bahrain) [Political militia]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: Instagram; ADHRB; Ministry of Interior (Bahrain) [Other-New media]
+
+DESCRIPTION:
+Property destruction: On 15 May 2017, the car of a human rights activist caught fire near her house in Jid Ali (Capital). The authorities claimed that the fire was caused by a short circuit, however, ADHRB organization speculated that this was part of a pattern of intimidation by the authorities that targeted civil and political society leaders.
+
+---
+
+[EVENT: BHR6213]
+Date: 2017-05-21
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: Bahrain Mirror [National]
+
+DESCRIPTION:
+Non-violent activity: On 21/5/2017, a Bahraini High Criminal Court found leading Shiite cleric and spiritual lead of Wefaq, Ayatollah Sheikh Isa Qassim, as well as, Hussein al-Qasab, and Mirza Al-Dirazi guilty for collecting the Khums religious money, which the Public Prosecution classified as collecting funds without authorization. They were sentenced to a 1-years imprisonment suspended for 3 years, and a fine. The court also ordered the confiscation of the Khums money deposited in Ayatollah Sheikh Isa Qassim's account, and the confiscation of two properties registered to his name. This judgement has caused wide-scale protests in Bahrain due to the imprisonment of Bahrain's leading Shia cleric and a politician and the other top clerics. Many believe that the legal case is an arbitrary abuse of power intended to quash dissent in Bahrain.
+
+---
+
+[EVENT: BHR140]
+Date: 2017-05-31
+Country: Bahrain | Location: Manama
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Government of Bahrain (1999-) [State forces]
+Actor2: Civilians (Bahrain) [Civilians]
+Fatalities: 0
+Sources: Bahrain News Gazette [National]
+
+DESCRIPTION:
+Other: On 31 May 2017, a court has ordered the dissolution of Bahrain's main secular opposition group, The National Democratic Action Society (Waad), on charges of 'advocating violence and incitement to encourage crimes' (coded to Manama) (Capital). less than a year after it dissolved the country's main Shia opposition party (Al Wefaq National Islamic Society), as the Gulf state continues a crackdown on dissent.
+
+---
+
+[EVENT: BHR147]
+Date: 2017-06-19
+Country: Bahrain | Location: Al Hajar
+Type: Strategic developments > Disrupted weapons use | Disorder: Strategic developments
+Actor1: Unidentified Armed Group (Yemen) [Political militia]
+Fatalities: 1
+Sources: Bahrain News Gazette [National]
+
+DESCRIPTION:
+Detonation: A man whose affiliations are unknown was killed in his farm in the Shiite village of Hajar when the suicide vest he was wearing exploded.

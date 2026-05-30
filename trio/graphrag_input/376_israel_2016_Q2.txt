@@ -1,0 +1,72 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Israel (ISO Code: 376)
+Temporal Period: Year 2016 - Quarter Q2
+Total Events in Chunk: 5 / 5
+==================================================
+
+[EVENT: ISR554]
+Date: 2016-05-03
+Country: Israel | Location: Mitzpe Ramon
+Type: Strategic developments > Other | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) Prison Guards [State forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestine News and Information Agency [International]
+
+DESCRIPTION:
+Non-Violent Activity: the Israeli prison authorities have shut down the supply of water and electricity to Nafha prison (in Matzpe Ramon), where hundreds of Palestinian prisoners are detained.
+
+---
+
+[EVENT: ISR555]
+Date: 2016-05-10
+Country: Israel | Location: Akko
+Type: Strategic developments > Looting/property destruction | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Palestinian News Network [International]
+
+DESCRIPTION:
+Property Destruction: on May 10, Israeli military forces demolished a hall room owned by a Palestinian who lives in Acre (Akka) city. Israeli forces released a demolition threat three months before, however, the court issued a decision to temporarily retreat from the demolition order until further sessions.
+
+---
+
+[EVENT: ISR566]
+Date: 2016-05-25
+Country: Israel | Location: Nazareth
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Military Forces of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Xinhua [International]
+
+DESCRIPTION:
+Movement of Forces: On May 25th, both sides of the Israeli-Lebanese border witnessed heavy mobilization of troops, and the creation of new monitoring stations. Israel flew drones to survey the border area. On the same day, Hezbollah was celebrating the 16th anniversary of the liberation of South Lebanon from Israeli occupation.
+
+---
+
+[EVENT: ISR572]
+Date: 2016-06-12
+Country: Israel | Location: Tel Aviv
+Type: Strategic developments > Arrests | Disorder: Strategic developments
+Actor1: Police Forces of Israel (2009-2021) [State forces]
+Actor2: Civilians (Palestine) [Civilians]
+Fatalities: 0
+Sources: Ma'an News Agency [International]
+
+DESCRIPTION:
+Arrests: 27 undocumented Palestinians were arrested between Saturday and Sunday (June 12), by the Israeli Police. The measure is the result of the attack that killed four people in Tel Aviv on June 8.
+
+---
+
+[EVENT: ISR573]
+Date: 2016-06-14
+Country: Israel | Location: Nazareth
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Israel (2009-2021) [State forces]
+Fatalities: 0
+Sources: Times of Israel [National]
+
+DESCRIPTION:
+Security Measures: on Tuesday June 14 Israeli staff soldiers started to train civilians in the Northern district of the country, on the border with Lebanon in order to prepare them to the eventuality of a new conflict with Lebanon. These measures have been undertake by the Israeli government after an attack on a patrol in January 2016 perpetrated by Hezbollah.

@@ -1,0 +1,30 @@
+==================================================
+DOCUMENT CONTEXT
+Country: Kuwait (ISO Code: 414)
+Temporal Period: Year 2020 - Quarter Q1
+Total Events in Chunk: 2 / 2
+==================================================
+
+[EVENT: KWT48]
+Date: 2020-03-04
+Country: Kuwait | Location: Kuwait City
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Kuwait (2006-2020) [State forces]
+Fatalities: 0
+Sources: Arab News; Khaleej Times [Regional]
+
+DESCRIPTION:
+Security measures: On 4 March 2020, amidst the spread of the coronavirus, Kuwait closed all schools and university until October 2020. On 10 March, Kuwait also closed all cinemas, theater halls, and hotels, as well the cancellation of all wedding parties until further notice. On 14 March, it closed down all shopping malls, arcades, barber shops and salons, all public transportation, including taxi services, and prayers in mosques. On 10 May, Kuwait enacted a 'total curfew', but eases it to a 12-hour one during night on 7 June.
+
+---
+
+[EVENT: KWT47]
+Date: 2020-03-15
+Country: Kuwait | Location: Kuwait City
+Type: Strategic developments > Change to group/activity | Disorder: Strategic developments
+Actor1: Government of Kuwait (2006-2020) [State forces]
+Fatalities: 0
+Sources: Arab Times [National]
+
+DESCRIPTION:
+Security measures: On 15 March 2020, Kuwait implemented a full closure of airspace amidst the spread of the coronavirus.
