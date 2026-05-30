@@ -816,3 +816,8 @@ contesto dell'LLM, la pipeline di GraphRAG applichera un sotto-campionamento
 stratificato per anno, garantendo la produzione di Community Reports capaci di 
 sintetizzare l'evoluzione cronologica dei conflitti senza perdita di informazione."
 ================================================================================
+
+
+[Fase Semantica]                  [Fase GraphRAG]
+ 📜 01_build_kg.py  ──(Genera)──►  📜 02_leiden_communities.py  ──(Genera)──►  📜 03_build_reports.py  ──(Genera)──►  📜 04_global_search.py
+ (RDF / Ontologia)                 (Grafo di Rete / JSON)                    (Report di Comunità)                   (Interfaccia Query)
