@@ -501,7 +501,7 @@ MAP 4 — CountriesMap (da countries.csv)
   Attributi: countryName, isoCode
 
 --------------------------------────────────────────────────────----------------
-  La Pipeline di Materializzazione Custom in Python
+  La Pipeline di Materializzazione Custom in Python ------> al posto del mapping (Lore)
 --------------------------------────────────────────────────────----------------
 
 Al posto di un motore di mapping dichiarativo esterno (come Morph-KGC), per la 
