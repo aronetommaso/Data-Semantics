@@ -821,3 +821,11 @@ sintetizzare l'evoluzione cronologica dei conflitti senza perdita di informazion
 [Fase Semantica]                  [Fase GraphRAG]
  📜 01_build_kg.py  ──(Genera)──►  📜 02_leiden_communities.py  ──(Genera)──►  📜 03_build_reports.py  ──(Genera)──►  📜 04_global_search.py
  (RDF / Ontologia)                 (Grafo di Rete / JSON)                    (Report di Comunità)                   (Interfaccia Query)
+
+
+PER CREARE I REPORT DI COMUNITA' SERVE LE NOTES, NON SOLO GLI ATTORI ECC.
+
+Information Extraction aggiuntiva (Opzionale/Avanzato): Potreste usare un LLM per 
+fare Entity/Relation Extraction sulle notes per estrarre sotto-eventi, armi usate o 
+motivazioni, arricchendo ulteriormente il KG con triple che ACLED non fornisce 
+nativamente nelle colonne standard.
