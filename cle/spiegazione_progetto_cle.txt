@@ -829,3 +829,32 @@ Information Extraction aggiuntiva (Opzionale/Avanzato): Potreste usare un LLM pe
 fare Entity/Relation Extraction sulle notes per estrarre sotto-eventi, armi usate o 
 motivazioni, arricchendo ulteriormente il KG con triple che ACLED non fornisce 
 nativamente nelle colonne standard.
+
+
+
+
+da fare:
+
+  creare_report.py:
+    - LLM (leggero)
+    - input --> comunità (da capire come) (notes) --> da capire come vanno messe ecc.
+    - output --> summaries
+
+  LLM: 
+    -prompt: creami il summaries di questa comunita sapendo {notes}
+
+
+  interfaccia.py:
+    - Domanda
+    - LLM --> score ad ogni report (importanza)
+    - LLM finale usa il report con score più alto (o topk)
+    - Output
+
+  aggiunta:
+
+    - LLM --> decide se usiamo query (serve una risposta più mirata) oppure una risposta summary (GraphRAG)
+    - Query_Answering.py
+
+
+
+GEMINI 2.5 FLASH (GOOGLE AI STUDIO)
