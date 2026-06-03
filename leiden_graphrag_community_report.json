@@ -1,0 +1,1089 @@
+{
+  "strategy": "full GraphRAG second-level rebuild from Leiden base communities",
+  "original_number_of_leiden_communities": 306,
+  "seed_communities": 13,
+  "final_report_communities": 17,
+  "target_report_count": 40,
+  "reports_avoided": 289,
+  "thresholds": {
+    "seed_min_events": 20,
+    "seed_min_actors": 5,
+    "min_events_per_report": 20,
+    "min_actors_per_report": 5,
+    "max_events_per_report": 800,
+    "attach_threshold": 0.2,
+    "force_merge_threshold": 0.08,
+    "residual_similarity_threshold": 0.24
+  },
+  "similarity_weights": {
+    "country_weight": 0.3,
+    "event_type_weight": 0.22,
+    "sub_event_type_weight": 0.18,
+    "time_overlap_weight": 0.12,
+    "source_weight": 0.04,
+    "actor_graph_weight": 0.14
+  },
+  "query_errors": {},
+  "final_communities": {
+    "graphrag_community_001": {
+      "original_community_count": 1,
+      "actor_count": 94,
+      "event_count": 21124,
+      "first_date": "2016-01-06",
+      "last_date": "2023-12-31",
+      "seed_community_id": "community_3",
+      "top_countries": {
+        "Palestine": 48890,
+        "Israel": 14326,
+        "Lebanon": 5407,
+        "Syria": 1181,
+        "Jordan": 20
+      },
+      "top_event_types": {
+        "Explosions/Remote violence": 17666,
+        "Riots": 17440,
+        "Battles": 15411,
+        "Protests": 9201,
+        "Strategic developments": 6604
+      },
+      "top_sub_event_types": {
+        "Armed clash": 15405,
+        "Mob violence": 13368,
+        "Air/drone strike": 8614,
+        "Shelling/artillery/missile attack": 8115,
+        "Peaceful protest": 7338
+      },
+      "quality": {
+        "country_entropy": 1.2221253657321138,
+        "event_type_entropy": 2.4069008026183645,
+        "sub_event_type_entropy": 3.1315728054700975
+      }
+    },
+    "graphrag_community_002": {
+      "original_community_count": 1,
+      "actor_count": 250,
+      "event_count": 18712,
+      "first_date": "2016-01-02",
+      "last_date": "2023-12-31",
+      "seed_community_id": "community_0",
+      "top_countries": {
+        "Syria": 43928,
+        "Iraq": 479,
+        "Lebanon": 306,
+        "Turkey": 109,
+        "Jordan": 76
+      },
+      "top_event_types": {
+        "Strategic developments": 15328,
+        "Explosions/Remote violence": 13735,
+        "Battles": 7655,
+        "Violence against civilians": 6241,
+        "Protests": 1648
+      },
+      "top_sub_event_types": {
+        "Shelling/artillery/missile attack": 7859,
+        "Armed clash": 7424,
+        "Change to group/activity": 5559,
+        "Attack": 3595,
+        "Remote explosive/landmine/IED": 2945
+      },
+      "quality": {
+        "country_entropy": 0.19038177752505916,
+        "event_type_entropy": 2.1065403009234385,
+        "sub_event_type_entropy": 3.3429910296989114
+      }
+    },
+    "graphrag_community_003": {
+      "original_community_count": 1,
+      "actor_count": 18,
+      "event_count": 14022,
+      "first_date": "2016-01-04",
+      "last_date": "2023-12-31",
+      "seed_community_id": "community_8",
+      "top_countries": {
+        "Palestine": 36024,
+        "Israel": 1247,
+        "Lebanon": 132,
+        "Syria": 53,
+        "Jordan": 3
+      },
+      "top_event_types": {
+        "Strategic developments": 25497,
+        "Riots": 5062,
+        "Explosions/Remote violence": 5033,
+        "Violence against civilians": 1572,
+        "Protests": 188
+      },
+      "top_sub_event_types": {
+        "Other": 12408,
+        "Looting/property destruction": 12192,
+        "Mob violence": 4469,
+        "Air/drone strike": 4403,
+        "Attack": 1559
+      },
+      "quality": {
+        "country_entropy": 0.2616243433387219,
+        "event_type_entropy": 1.4118780819974528,
+        "sub_event_type_entropy": 2.394983313799511
+      }
+    },
+    "graphrag_community_004": {
+      "original_community_count": 1,
+      "actor_count": 221,
+      "event_count": 12619,
+      "first_date": "2015-01-03",
+      "last_date": "2023-12-31",
+      "seed_community_id": "community_1",
+      "top_countries": {
+        "Yemen": 34514,
+        "Saudi Arabia": 2146,
+        "Israel": 59,
+        "United Arab Emirates": 52,
+        "Kuwait": 33
+      },
+      "top_event_types": {
+        "Strategic developments": 16909,
+        "Battles": 7734,
+        "Explosions/Remote violence": 5731,
+        "Protests": 3130,
+        "Violence against civilians": 3089
+      },
+      "top_sub_event_types": {
+        "Armed clash": 7460,
+        "Disrupted weapons use": 5324,
+        "Change to group/activity": 3963,
+        "Looting/property destruction": 3575,
+        "Peaceful protest": 2938
+      },
+      "quality": {
+        "country_entropy": 0.39100839768977336,
+        "event_type_entropy": 2.0638500785173934,
+        "sub_event_type_entropy": 3.3125229005947157
+      }
+    },
+    "graphrag_community_005": {
+      "original_community_count": 1,
+      "actor_count": 27,
+      "event_count": 8883,
+      "first_date": "2015-04-17",
+      "last_date": "2023-12-31",
+      "seed_community_id": "community_7",
+      "top_countries": {
+        "Iraq": 10344,
+        "Turkey": 7647,
+        "Syria": 3920,
+        "Yemen": 123,
+        "Iran": 15
+      },
+      "top_event_types": {
+        "Strategic developments": 9765,
+        "Explosions/Remote violence": 9664,
+        "Battles": 2350,
+        "Violence against civilians": 234,
+        "Protests": 45
+      },
+      "top_sub_event_types": {
+        "Air/drone strike": 5861,
+        "Arrests": 4227,
+        "Shelling/artillery/missile attack": 3693,
+        "Armed clash": 2345,
+        "Change to group/activity": 1900
+      },
+      "quality": {
+        "country_entropy": 1.5510531965730698,
+        "event_type_entropy": 1.4847168922276115,
+        "sub_event_type_entropy": 2.819554275690385
+      }
+    },
+    "graphrag_community_006": {
+      "original_community_count": 1,
+      "actor_count": 78,
+      "event_count": 8871,
+      "first_date": "2016-01-02",
+      "last_date": "2023-12-31",
+      "seed_community_id": "community_4",
+      "top_countries": {
+        "Turkey": 14905,
+        "Syria": 17,
+        "Yemen": 10,
+        "Israel": 5,
+        "Lebanon": 2
+      },
+      "top_event_types": {
+        "Strategic developments": 7750,
+        "Protests": 6338,
+        "Riots": 483,
+        "Violence against civilians": 208,
+        "Battles": 83
+      },
+      "top_sub_event_types": {
+        "Peaceful protest": 5528,
+        "Looting/property destruction": 4081,
+        "Change to group/activity": 1710,
+        "Arrests": 1460,
+        "Protest with intervention": 810
+      },
+      "quality": {
+        "country_entropy": 0.028076344196741865,
+        "event_type_entropy": 1.3431275636640074,
+        "sub_event_type_entropy": 2.479879834989922
+      }
+    },
+    "graphrag_community_007": {
+      "original_community_count": 1,
+      "actor_count": 121,
+      "event_count": 7713,
+      "first_date": "2016-01-01",
+      "last_date": "2023-12-31",
+      "seed_community_id": "community_2",
+      "top_countries": {
+        "Iraq": 13720,
+        "Syria": 2266,
+        "Lebanon": 14,
+        "Turkey": 14,
+        "Iran": 8
+      },
+      "top_event_types": {
+        "Strategic developments": 8833,
+        "Battles": 3157,
+        "Explosions/Remote violence": 1655,
+        "Violence against civilians": 1316,
+        "Protests": 927
+      },
+      "top_sub_event_types": {
+        "Armed clash": 2917,
+        "Disrupted weapons use": 2877,
+        "Looting/property destruction": 2626,
+        "Attack": 1226,
+        "Arrests": 1008
+      },
+      "quality": {
+        "country_entropy": 0.6282156978387401,
+        "event_type_entropy": 1.870990997676062,
+        "sub_event_type_entropy": 3.2259892840743905
+      }
+    },
+    "graphrag_community_008": {
+      "original_community_count": 1,
+      "actor_count": 41,
+      "event_count": 5202,
+      "first_date": "2015-03-05",
+      "last_date": "2023-12-31",
+      "seed_community_id": "community_5",
+      "top_countries": {
+        "Iran": 10393,
+        "Syria": 476,
+        "Yemen": 290,
+        "Iraq": 149,
+        "Turkey": 21
+      },
+      "top_event_types": {
+        "Protests": 6419,
+        "Strategic developments": 3222,
+        "Riots": 517,
+        "Battles": 422,
+        "Explosions/Remote violence": 410
+      },
+      "top_sub_event_types": {
+        "Peaceful protest": 5807,
+        "Other": 1971,
+        "Protest with intervention": 588,
+        "Change to group/activity": 467,
+        "Armed clash": 422
+      },
+      "quality": {
+        "country_entropy": 0.579498940185182,
+        "event_type_entropy": 1.6967256242902722,
+        "sub_event_type_entropy": 2.385347827387217
+      }
+    },
+    "graphrag_community_009": {
+      "original_community_count": 1,
+      "actor_count": 37,
+      "event_count": 1614,
+      "first_date": "2016-01-01",
+      "last_date": "2023-12-31",
+      "seed_community_id": "community_6",
+      "top_countries": {
+        "Bahrain": 1906,
+        "Jordan": 574,
+        "Palestine": 134,
+        "Israel": 97,
+        "Saudi Arabia": 89
+      },
+      "top_event_types": {
+        "Protests": 1894,
+        "Strategic developments": 737,
+        "Riots": 173,
+        "Violence against civilians": 30,
+        "Battles": 26
+      },
+      "top_sub_event_types": {
+        "Peaceful protest": 1782,
+        "Other": 349,
+        "Violent demonstration": 142,
+        "Change to group/activity": 118,
+        "Protest with intervention": 112
+      },
+      "quality": {
+        "country_entropy": 1.5588787853736812,
+        "event_type_entropy": 1.2773707113964912,
+        "sub_event_type_entropy": 2.0681587742845626
+      }
+    },
+    "graphrag_community_010": {
+      "original_community_count": 96,
+      "actor_count": 154,
+      "event_count": 144,
+      "first_date": "2015-04-02",
+      "last_date": "2023-12-06",
+      "seed_community_id": null,
+      "top_countries": {
+        "Syria": 244,
+        "Yemen": 203,
+        "Iraq": 68,
+        "Lebanon": 45
+      },
+      "top_event_types": {
+        "Battles": 531,
+        "Strategic developments": 15,
+        "Explosions/Remote violence": 13,
+        "Violence against civilians": 1
+      },
+      "top_sub_event_types": {
+        "Armed clash": 531,
+        "Shelling/artillery/missile attack": 9,
+        "Looting/property destruction": 8,
+        "Change to group/activity": 6,
+        "Remote explosive/landmine/IED": 4
+      },
+      "quality": {
+        "country_entropy": 1.714561652491764,
+        "event_type_entropy": 0.3549567486468102,
+        "sub_event_type_entropy": 0.4097245615979785
+      }
+    },
+    "graphrag_community_011": {
+      "original_community_count": 74,
+      "actor_count": 77,
+      "event_count": 119,
+      "first_date": "2016-03-13",
+      "last_date": "2023-12-14",
+      "seed_community_id": null,
+      "top_countries": {
+        "Syria": 100,
+        "Iraq": 24,
+        "Turkey": 15,
+        "Yemen": 10,
+        "Saudi Arabia": 5
+      },
+      "top_event_types": {
+        "Strategic developments": 176,
+        "Protests": 1
+      },
+      "top_sub_event_types": {
+        "Change to group/activity": 151,
+        "Other": 13,
+        "Non-violent transfer of territory": 6,
+        "Headquarters or base established": 4,
+        "Disrupted weapons use": 2
+      },
+      "quality": {
+        "country_entropy": 2.2821187263357907,
+        "event_type_entropy": 0.05031761290692778,
+        "sub_event_type_entropy": 0.8765625728047599
+      }
+    },
+    "graphrag_community_012": {
+      "original_community_count": 17,
+      "actor_count": 33,
+      "event_count": 96,
+      "first_date": "2016-12-24",
+      "last_date": "2023-12-21",
+      "seed_community_id": "community_10",
+      "top_countries": {
+        "Lebanon": 153,
+        "Iran": 24,
+        "Qatar": 21,
+        "Kuwait": 15,
+        "Oman": 11
+      },
+      "top_event_types": {
+        "Battles": 122,
+        "Strategic developments": 59,
+        "Protests": 54
+      },
+      "top_sub_event_types": {
+        "Armed clash": 122,
+        "Peaceful protest": 54,
+        "Agreement": 38,
+        "Other": 11,
+        "Change to group/activity": 5
+      },
+      "quality": {
+        "country_entropy": 1.7874750187300537,
+        "event_type_entropy": 1.4791134563018165,
+        "sub_event_type_entropy": 1.8620551844807327
+      }
+    },
+    "graphrag_community_013": {
+      "original_community_count": 88,
+      "actor_count": 114,
+      "event_count": 95,
+      "first_date": "2015-03-15",
+      "last_date": "2023-12-22",
+      "seed_community_id": null,
+      "top_countries": {
+        "Syria": 78,
+        "Yemen": 62,
+        "Iraq": 30,
+        "Lebanon": 14,
+        "Israel": 2
+      },
+      "top_event_types": {
+        "Battles": 132,
+        "Strategic developments": 57,
+        "Explosions/Remote violence": 1
+      },
+      "top_sub_event_types": {
+        "Armed clash": 132,
+        "Other": 29,
+        "Change to group/activity": 24,
+        "Disrupted weapons use": 3,
+        "Shelling/artillery/missile attack": 1
+      },
+      "quality": {
+        "country_entropy": 1.9596912341609285,
+        "event_type_entropy": 0.9259884790535471,
+        "sub_event_type_entropy": 1.3301952918389128
+      }
+    },
+    "graphrag_community_014": {
+      "original_community_count": 11,
+      "actor_count": 31,
+      "event_count": 43,
+      "first_date": "2023-01-02",
+      "last_date": "2023-12-07",
+      "seed_community_id": "community_12",
+      "top_countries": {
+        "Yemen": 206,
+        "Lebanon": 21
+      },
+      "top_event_types": {
+        "Battles": 221,
+        "Violence against civilians": 6
+      },
+      "top_sub_event_types": {
+        "Armed clash": 221,
+        "Attack": 6
+      },
+      "quality": {
+        "country_entropy": 0.44479617681471706,
+        "event_type_entropy": 0.17616857262204577,
+        "sub_event_type_entropy": 0.17616857262204577
+      }
+    },
+    "graphrag_community_015": {
+      "original_community_count": 8,
+      "actor_count": 14,
+      "event_count": 40,
+      "first_date": "2023-01-14",
+      "last_date": "2023-12-12",
+      "seed_community_id": "community_11",
+      "top_countries": {
+        "Syria": 121,
+        "Turkey": 14,
+        "United Arab Emirates": 3
+      },
+      "top_event_types": {
+        "Battles": 115,
+        "Explosions/Remote violence": 10,
+        "Protests": 7,
+        "Riots": 6
+      },
+      "top_sub_event_types": {
+        "Armed clash": 115,
+        "Peaceful protest": 7,
+        "Mob violence": 6,
+        "Grenade": 6,
+        "Shelling/artillery/missile attack": 4
+      },
+      "quality": {
+        "country_entropy": 0.621275847204286,
+        "event_type_entropy": 0.9084382519505825,
+        "sub_event_type_entropy": 0.9787969906791817
+      }
+    },
+    "graphrag_community_016": {
+      "original_community_count": 2,
+      "actor_count": 11,
+      "event_count": 25,
+      "first_date": "2017-12-26",
+      "last_date": "2023-12-06",
+      "seed_community_id": "community_9",
+      "top_countries": {
+        "Yemen": 126
+      },
+      "top_event_types": {
+        "Battles": 122,
+        "Strategic developments": 2,
+        "Explosions/Remote violence": 2
+      },
+      "top_sub_event_types": {
+        "Armed clash": 122,
+        "Change to group/activity": 2,
+        "Remote explosive/landmine/IED": 2
+      },
+      "quality": {
+        "country_entropy": -0.0,
+        "event_type_entropy": 0.23481996173267736,
+        "sub_event_type_entropy": 0.23481996173267736
+      }
+    },
+    "graphrag_community_017": {
+      "original_community_count": 1,
+      "actor_count": 2,
+      "event_count": 1,
+      "first_date": "2023-11-07",
+      "last_date": "2023-11-07",
+      "seed_community_id": null,
+      "top_countries": {
+        "Saudi Arabia": 6
+      },
+      "top_event_types": {
+        "Strategic developments": 6
+      },
+      "top_sub_event_types": {
+        "Agreement": 6
+      },
+      "quality": {
+        "country_entropy": -0.0,
+        "event_type_entropy": -0.0,
+        "sub_event_type_entropy": -0.0
+      }
+    }
+  },
+  "merge_records": [
+    {
+      "source": "community_13",
+      "target": "community_12",
+      "score": 0.4242,
+      "reason": "metadata similarity via time_overlap (0.52)",
+      "strategy": "attach_non_seed_to_seed"
+    },
+    {
+      "source": "community_15",
+      "target": "community_12",
+      "score": 0.2979,
+      "reason": "metadata similarity via time_overlap (0.63)",
+      "strategy": "attach_non_seed_to_seed"
+    },
+    {
+      "source": "community_159",
+      "target": "community_11",
+      "score": 0.3496,
+      "reason": "metadata similarity via countries (0.53)",
+      "strategy": "attach_non_seed_to_seed"
+    },
+    {
+      "source": "community_164",
+      "target": "community_11",
+      "score": 0.2075,
+      "reason": "metadata similarity via countries (0.28)",
+      "strategy": "attach_non_seed_to_seed"
+    },
+    {
+      "source": "community_20",
+      "target": "community_12",
+      "score": 0.4519,
+      "reason": "metadata similarity via countries (0.60)",
+      "strategy": "attach_non_seed_to_seed"
+    },
+    {
+      "source": "community_21",
+      "target": "community_9",
+      "score": 0.58,
+      "reason": "metadata similarity via countries (0.85)",
+      "strategy": "attach_non_seed_to_seed"
+    },
+    {
+      "source": "community_22",
+      "target": "community_12",
+      "score": 0.2861,
+      "reason": "metadata similarity via time_overlap (0.63)",
+      "strategy": "attach_non_seed_to_seed"
+    },
+    {
+      "source": "community_23",
+      "target": "community_12",
+      "score": 0.3344,
+      "reason": "metadata similarity via countries (0.50)",
+      "strategy": "attach_non_seed_to_seed"
+    },
+    {
+      "source": "community_68",
+      "target": "community_12",
+      "score": 0.3426,
+      "reason": "metadata similarity via countries (0.45)",
+      "strategy": "attach_non_seed_to_seed"
+    },
+    {
+      "source": "community_78",
+      "target": "community_12",
+      "score": 0.3273,
+      "reason": "metadata similarity via time_overlap (0.67)",
+      "strategy": "attach_non_seed_to_seed"
+    },
+    {
+      "source": "community_81",
+      "target": "community_11",
+      "score": 0.2861,
+      "reason": "metadata similarity via time_overlap (0.47)",
+      "strategy": "attach_non_seed_to_seed"
+    },
+    {
+      "source": "community_85",
+      "target": "community_12",
+      "score": 0.3085,
+      "reason": "metadata similarity via time_overlap (0.76)",
+      "strategy": "attach_non_seed_to_seed"
+    },
+    {
+      "source": "community_86",
+      "target": "community_12",
+      "score": 0.5866,
+      "reason": "metadata similarity via time_overlap (0.75)",
+      "strategy": "attach_non_seed_to_seed"
+    },
+    {
+      "source": "community_97",
+      "target": "community_12",
+      "score": 0.3215,
+      "reason": "metadata similarity via countries (0.45)",
+      "strategy": "attach_non_seed_to_seed"
+    },
+    {
+      "source": [
+        "community_100",
+        "community_103",
+        "community_104",
+        "community_108",
+        "community_109",
+        "community_110",
+        "community_118",
+        "community_119",
+        "community_125",
+        "community_126",
+        "community_127",
+        "community_134",
+        "community_135",
+        "community_136",
+        "community_139",
+        "community_14",
+        "community_140",
+        "community_145",
+        "community_146",
+        "community_147",
+        "community_149",
+        "community_153",
+        "community_154",
+        "community_155",
+        "community_157",
+        "community_160",
+        "community_162",
+        "community_168",
+        "community_169",
+        "community_17",
+        "community_171",
+        "community_173",
+        "community_175",
+        "community_177",
+        "community_178",
+        "community_18",
+        "community_183",
+        "community_184",
+        "community_187",
+        "community_189",
+        "community_19",
+        "community_192",
+        "community_203",
+        "community_205",
+        "community_206",
+        "community_208",
+        "community_211",
+        "community_212",
+        "community_215",
+        "community_216",
+        "community_217",
+        "community_222",
+        "community_224",
+        "community_225",
+        "community_25",
+        "community_26",
+        "community_27",
+        "community_28",
+        "community_30",
+        "community_304",
+        "community_31",
+        "community_33",
+        "community_37",
+        "community_38",
+        "community_40",
+        "community_41",
+        "community_44",
+        "community_46",
+        "community_47",
+        "community_48",
+        "community_49",
+        "community_53",
+        "community_58",
+        "community_59",
+        "community_62",
+        "community_64",
+        "community_65",
+        "community_66",
+        "community_67",
+        "community_69",
+        "community_70",
+        "community_71",
+        "community_72",
+        "community_73",
+        "community_80",
+        "community_82",
+        "community_84",
+        "community_88",
+        "community_89",
+        "community_92",
+        "community_93",
+        "community_94",
+        "community_95",
+        "community_96",
+        "community_98",
+        "community_99"
+      ],
+      "target": "graphrag_residual_1",
+      "score": null,
+      "reason": "residual meta-graph clustering",
+      "strategy": "cluster_unassigned_residuals"
+    },
+    {
+      "source": [
+        "community_101",
+        "community_102",
+        "community_105",
+        "community_106",
+        "community_107",
+        "community_115",
+        "community_121",
+        "community_123",
+        "community_128",
+        "community_130",
+        "community_131",
+        "community_132",
+        "community_133",
+        "community_137",
+        "community_144",
+        "community_148",
+        "community_151",
+        "community_152",
+        "community_156",
+        "community_158",
+        "community_161",
+        "community_163",
+        "community_165",
+        "community_166",
+        "community_167",
+        "community_170",
+        "community_172",
+        "community_174",
+        "community_176",
+        "community_181",
+        "community_182",
+        "community_185",
+        "community_186",
+        "community_188",
+        "community_190",
+        "community_191",
+        "community_195",
+        "community_196",
+        "community_197",
+        "community_199",
+        "community_200",
+        "community_201",
+        "community_202",
+        "community_207",
+        "community_209",
+        "community_210",
+        "community_213",
+        "community_214",
+        "community_219",
+        "community_221",
+        "community_223",
+        "community_226",
+        "community_227",
+        "community_229",
+        "community_232",
+        "community_234",
+        "community_235",
+        "community_251",
+        "community_252",
+        "community_253",
+        "community_257",
+        "community_258",
+        "community_268",
+        "community_277",
+        "community_282",
+        "community_285",
+        "community_29",
+        "community_305",
+        "community_32",
+        "community_36",
+        "community_39",
+        "community_45",
+        "community_50",
+        "community_51",
+        "community_52",
+        "community_54",
+        "community_55",
+        "community_56",
+        "community_57",
+        "community_60",
+        "community_61",
+        "community_63",
+        "community_77",
+        "community_79",
+        "community_83",
+        "community_87",
+        "community_90",
+        "community_91"
+      ],
+      "target": "graphrag_residual_2",
+      "score": null,
+      "reason": "residual meta-graph clustering",
+      "strategy": "cluster_unassigned_residuals"
+    },
+    {
+      "source": [
+        "community_117",
+        "community_138",
+        "community_141",
+        "community_143",
+        "community_150",
+        "community_179",
+        "community_180",
+        "community_193",
+        "community_198",
+        "community_218",
+        "community_220",
+        "community_230",
+        "community_231",
+        "community_233",
+        "community_236",
+        "community_237",
+        "community_238",
+        "community_239",
+        "community_240",
+        "community_241",
+        "community_242",
+        "community_243",
+        "community_244",
+        "community_245",
+        "community_246",
+        "community_247",
+        "community_248",
+        "community_249",
+        "community_250",
+        "community_254",
+        "community_255",
+        "community_256",
+        "community_259",
+        "community_261",
+        "community_262",
+        "community_263",
+        "community_264",
+        "community_265",
+        "community_266",
+        "community_267",
+        "community_269",
+        "community_270",
+        "community_271",
+        "community_272",
+        "community_273",
+        "community_274",
+        "community_275",
+        "community_276",
+        "community_278",
+        "community_279",
+        "community_280",
+        "community_281",
+        "community_283",
+        "community_284",
+        "community_286",
+        "community_287",
+        "community_289",
+        "community_290",
+        "community_291",
+        "community_292",
+        "community_293",
+        "community_294",
+        "community_295",
+        "community_296",
+        "community_297",
+        "community_298",
+        "community_299",
+        "community_300",
+        "community_301",
+        "community_302",
+        "community_303",
+        "community_35",
+        "community_74",
+        "community_76"
+      ],
+      "target": "graphrag_residual_3",
+      "score": null,
+      "reason": "residual meta-graph clustering",
+      "strategy": "cluster_unassigned_residuals"
+    },
+    {
+      "source": [
+        "community_111",
+        "community_112",
+        "community_113",
+        "community_114",
+        "community_16",
+        "community_204",
+        "community_24",
+        "community_34",
+        "community_42",
+        "community_75"
+      ],
+      "target": "graphrag_residual_4",
+      "score": null,
+      "reason": "residual meta-graph clustering",
+      "strategy": "cluster_unassigned_residuals"
+    },
+    {
+      "source": [
+        "community_116",
+        "community_122",
+        "community_124",
+        "community_129"
+      ],
+      "target": "graphrag_residual_5",
+      "score": null,
+      "reason": "residual meta-graph clustering",
+      "strategy": "cluster_unassigned_residuals"
+    },
+    {
+      "source": [
+        "community_120",
+        "community_194",
+        "community_228"
+      ],
+      "target": "graphrag_residual_6",
+      "score": null,
+      "reason": "residual meta-graph clustering",
+      "strategy": "cluster_unassigned_residuals"
+    },
+    {
+      "source": [
+        "community_260",
+        "community_288"
+      ],
+      "target": "graphrag_residual_7",
+      "score": null,
+      "reason": "residual meta-graph clustering",
+      "strategy": "cluster_unassigned_residuals"
+    },
+    {
+      "source": [
+        "community_43"
+      ],
+      "target": "graphrag_residual_8",
+      "score": null,
+      "reason": "residual meta-graph clustering",
+      "strategy": "cluster_unassigned_residuals"
+    },
+    {
+      "source": [
+        "community_142"
+      ],
+      "target": "graphrag_residual_9",
+      "score": null,
+      "reason": "residual meta-graph clustering",
+      "strategy": "cluster_unassigned_residuals"
+    },
+    {
+      "source": "graphrag_residual_4",
+      "target": "community_10",
+      "score": 0.1567,
+      "reason": "metadata similarity via time_overlap (0.86)",
+      "strategy": "force_tiny_final_group_into_seed"
+    },
+    {
+      "source": "graphrag_residual_5",
+      "target": "community_10",
+      "score": 0.1162,
+      "reason": "metadata similarity via time_overlap (0.95)",
+      "strategy": "force_tiny_final_group_into_seed"
+    },
+    {
+      "source": "graphrag_residual_6",
+      "target": "community_11",
+      "score": 0.1146,
+      "reason": "metadata similarity via time_overlap (0.95)",
+      "strategy": "force_tiny_final_group_into_seed"
+    },
+    {
+      "source": "graphrag_residual_7",
+      "target": "community_10",
+      "score": 0.0885,
+      "reason": "metadata similarity via time_overlap (0.39)",
+      "strategy": "force_tiny_final_group_into_seed"
+    },
+    {
+      "source": "graphrag_residual_9",
+      "target": "community_11",
+      "score": 0.0814,
+      "reason": "metadata similarity via time_overlap (0.68)",
+      "strategy": "force_tiny_final_group_into_seed"
+    }
+  ],
+  "graph_metrics": {
+    "graph_nodes": 1323,
+    "graph_edges": 2411,
+    "original_partition": {
+      "communities": 306,
+      "modularity": 0.7065058396620755,
+      "average_conductance": 0.006683591390035787,
+      "min_conductance": 0.0,
+      "max_conductance": 0.23076923076923078
+    },
+    "final_partition": {
+      "communities": 17,
+      "modularity": 0.7065031732272568,
+      "average_conductance": 0.08367159992381325,
+      "min_conductance": 0.0,
+      "max_conductance": 0.2
+    },
+    "final_conductance_by_community": {
+      "graphrag_community_001": 0.199007,
+      "graphrag_community_002": 0.118444,
+      "graphrag_community_003": 0.187752,
+      "graphrag_community_004": 0.014649,
+      "graphrag_community_005": 0.13012,
+      "graphrag_community_006": 0.114324,
+      "graphrag_community_007": 0.116756,
+      "graphrag_community_008": 0.119057,
+      "graphrag_community_009": 0.127854,
+      "graphrag_community_010": 0.014085,
+      "graphrag_community_011": 0.0,
+      "graphrag_community_012": 0.054054,
+      "graphrag_community_013": 0.0,
+      "graphrag_community_014": 0.026316,
+      "graphrag_community_015": 0.2,
+      "graphrag_community_016": 0.0,
+      "graphrag_community_017": 0.0
+    }
+  }
+}

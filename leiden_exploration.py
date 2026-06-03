@@ -4,14 +4,14 @@ from datetime import datetime
 import requests
 
 # Load your communities and the KG
-with open("leiden_attached_new_reports_input.json", "r") as f:
+with open("leiden_graphrag_report_input.json", "r") as f:
     communities = json.load(f)
 
 GRAPHDB_URL = "http://localhost:7200/repositories/MiddleEastConflict"
 print(f"Querying GraphDB directly at {GRAPHDB_URL}...")
 
 sorted_communities = sorted(communities.items(), key=lambda x: len(x[1]), reverse=True)
-top_10_communities = sorted_communities[:6]
+top_10_communities = sorted_communities[:17]
 
 # Analyze all communities
 for comm_id, actors in top_10_communities:

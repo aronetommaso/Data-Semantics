@@ -1,0 +1,19 @@
+| Community              | Actors | Periodo                 |    Durata | Paese dominante | Eventi nel paese dominante | Eventi totali |
+| ---------------------- | -----: | ----------------------- | --------: | --------------- | -------------------------: | ------------: |
+| graphrag_community_002 |    250 | 2016-01-02 → 2023-12-31 | 7.99 anni | Syria           |                     26,408 |        27,050 |
+| graphrag_community_004 |    221 | 2015-01-03 → 2023-12-31 | 8.99 anni | Yemen           |                     18,445 |        19,396 |
+| graphrag_community_010 |    154 | 2015-04-02 → 2023-12-06 | 8.68 anni | Syria           |                        118 |           278 |
+| graphrag_community_007 |    121 | 2016-01-01 → 2023-12-31 | 8.00 anni | Iraq            |                     10,806 |        11,965 |
+| graphrag_community_013 |    114 | 2015-03-15 → 2023-12-22 | 8.77 anni | Syria           |                         77 |           161 |
+| graphrag_community_001 |     94 | 2016-01-06 → 2023-12-31 | 7.98 anni | Palestine       |                     19,568 |        30,324 |
+| graphrag_community_006 |     78 | 2016-01-02 → 2023-12-31 | 7.99 anni | Turkey          |                     11,536 |        11,554 |
+| graphrag_community_011 |     77 | 2016-03-13 → 2023-12-14 | 7.75 anni | Syria           |                         59 |           122 |
+| graphrag_community_008 |     41 | 2015-03-05 → 2023-12-31 | 8.82 anni | Iran            |                      5,834 |         6,339 |
+| graphrag_community_009 |     37 | 2016-01-01 → 2023-12-31 | 8.00 anni | Bahrain         |                      1,037 |         1,822 |
+| graphrag_community_012 |     33 | 2016-12-24 → 2023-12-21 | 6.99 anni | Lebanon         |                         67 |           131 |
+| graphrag_community_014 |     31 | 2023-01-02 → 2023-12-07 | 0.93 anni | Yemen           |                         79 |            84 |
+| graphrag_community_005 |     27 | 2015-04-17 → 2023-12-31 | 8.71 anni | Iraq            |                      7,125 |        14,416 |
+| graphrag_community_003 |     18 | 2016-01-04 → 2023-12-31 | 7.99 anni | Palestine       |                     22,526 |        23,213 |
+| graphrag_community_015 |     14 | 2023-01-14 → 2023-12-12 | 0.91 anni | Syria           |                         61 |            72 |
+| graphrag_community_016 |     11 | 2017-12-26 → 2023-12-06 | 5.94 anni | Yemen           |                         48 |            48 |
+| graphrag_community_017 |      2 | 2023-11-07 → 2023-11-07 | 0.00 anni | Saudi Arabia    |                          2 |             2 |
