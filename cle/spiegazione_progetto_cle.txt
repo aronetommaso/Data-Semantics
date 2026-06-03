@@ -17,8 +17,8 @@ Graph, in modo che chiunque possa capire cosa abbiamo fatto e perché.
   4. Fase 2 — Esplorazione del dataset
   5. Fase 3 — Preprocessing
   6. Fase 4 — Ontologia OWL
-  7. Fase 5 — Mapping RML
-  8. Prossimi passi (GraphDB e GraphRAG)
+  7. Fase 5 — Mapping RML--> materializzazione
+  8. Prossimi passi (Communities + GraphDB e GraphRAG)
   9. Glossario
 
 
