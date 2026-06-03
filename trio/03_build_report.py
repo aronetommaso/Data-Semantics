@@ -67,8 +67,8 @@ def calculate_severity_metrics(comm_events):
 def main():
     events_path = "C:\\Users\\HP\\Desktop\\data_science\\primo_anno\\DataSemantics\\Project\\Data-Semantics\\events.csv"
     actors_path = "C:\\Users\\HP\\Desktop\\data_science\\primo_anno\\DataSemantics\\Project\\Data-Semantics\\actors.csv"          # FIX 2: usiamo actor_name reale
-    communities_path = "C:\\Users\\HP\\Desktop\\data_science\\primo_anno\\DataSemantics\\Project\\Data-Semantics\\leiden_communities.json"
-    output_dir = "C:\\Users\\HP\\Desktop\\data_science\\primo_anno\\DataSemantics\\Project\\Data-Semantics\\trio\\community_reports"
+    communities_path = "C:\\Users\\HP\\Desktop\\data_science\\primo_anno\\DataSemantics\\Project\\Data-Semantics\\leiden_graphrag_report_input.json"
+    output_dir = "C:\\Users\\HP\\Desktop\\data_science\\primo_anno\\DataSemantics\\Project\\Data-Semantics\\trio\\final_community_reports"
     os.makedirs(output_dir, exist_ok=True)
 
     client = setup_gemini()
@@ -177,10 +177,10 @@ Tone: academic, formal, objective. Language: English."""
             print(f"CRITICAL ERROR for {comm_id}: {e}")
 
         # FIX 5: sleep più lungo per stare sotto TPM con comunità grandi
-        print("    Cooling down 5 seconds...")
-        time.sleep(5)
+        print("    Cooling down 25 seconds...")
+        time.sleep(25)
 
-    print("\nDone. Check ./community_reports/")
+    print("\nDone. Check ./final_community_reports/")
 
 if __name__ == "__main__":
     main()
