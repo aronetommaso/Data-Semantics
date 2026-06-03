@@ -1,0 +1,1617 @@
+{
+  "strategy": "small communities may attach to already reported top communities",
+  "original_number_of_communities": 306,
+  "final_number_of_analysis_communities": 36,
+  "already_reported_preserved_communities": 30,
+  "new_reports_required": 6,
+  "reports_avoided_after_first_30": 270,
+  "small_communities_attached_to_existing_reports": 161,
+  "small_remaining_communities": 276,
+  "thresholds": {
+    "preserve_top_n": 30,
+    "min_events_per_report": 20,
+    "min_actors_per_report": 5,
+    "similarity_threshold": 0.18,
+    "attach_to_preserved_threshold": 0.18,
+    "meta_leiden_threshold": 0.28
+  },
+  "query_errors": {},
+  "new_report_communities": {
+    "attached_meta_small_1": {
+      "original_community_count": 56,
+      "actor_count": 57,
+      "event_count": 60,
+      "first_date": "2015-03-15",
+      "last_date": "2023-12-14",
+      "top_countries": {
+        "Iraq": 21,
+        "Yemen": 17,
+        "Syria": 15,
+        "Saudi Arabia": 5,
+        "Palestine": 5
+      },
+      "top_event_types": {
+        "Strategic developments": 73,
+        "Protests": 1
+      },
+      "top_sub_event_types": {
+        "Change to group/activity": 43,
+        "Other": 24,
+        "Headquarters or base established": 2,
+        "Disrupted weapons use": 2,
+        "Non-violent transfer of territory": 2
+      }
+    },
+    "attached_meta_small_2": {
+      "original_community_count": 50,
+      "actor_count": 63,
+      "event_count": 50,
+      "first_date": "2023-02-04",
+      "last_date": "2023-12-22",
+      "top_countries": {
+        "Syria": 68,
+        "Iraq": 26,
+        "Lebanon": 6
+      },
+      "top_event_types": {
+        "Battles": 100
+      },
+      "top_sub_event_types": {
+        "Armed clash": 100
+      }
+    },
+    "attached_meta_small_3": {
+      "original_community_count": 6,
+      "actor_count": 11,
+      "event_count": 7,
+      "first_date": "2017-06-30",
+      "last_date": "2023-05-16",
+      "top_countries": {
+        "Iran": 8,
+        "Jordan": 4
+      },
+      "top_event_types": {
+        "Strategic developments": 10,
+        "Protests": 2
+      },
+      "top_sub_event_types": {
+        "Agreement": 10,
+        "Peaceful protest": 2
+      }
+    },
+    "attached_meta_small_4": {
+      "original_community_count": 1,
+      "actor_count": 1,
+      "event_count": 1,
+      "first_date": "2023-09-01",
+      "last_date": "2023-09-01",
+      "top_countries": {
+        "Iraq": 4
+      },
+      "top_event_types": {
+        "Explosions/Remote violence": 4
+      },
+      "top_sub_event_types": {
+        "Remote explosive/landmine/IED": 4
+      }
+    },
+    "attached_meta_small_5": {
+      "original_community_count": 1,
+      "actor_count": 1,
+      "event_count": 1,
+      "first_date": "2023-01-20",
+      "last_date": "2023-01-20",
+      "top_countries": {
+        "Turkey": 4
+      },
+      "top_event_types": {
+        "Explosions/Remote violence": 4
+      },
+      "top_sub_event_types": {
+        "Shelling/artillery/missile attack": 4
+      }
+    },
+    "attached_meta_small_6": {
+      "original_community_count": 1,
+      "actor_count": 1,
+      "event_count": 3,
+      "first_date": "2023-02-01",
+      "last_date": "2023-09-14",
+      "top_countries": {
+        "Turkey": 6
+      },
+      "top_event_types": {
+        "Riots": 6
+      },
+      "top_sub_event_types": {
+        "Mob violence": 6
+      }
+    }
+  },
+  "merge_reasons": [
+    {
+      "source": "community_100",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.4572,
+      "reason": "metadata similarity via countries (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_102",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.4472,
+      "reason": "metadata similarity via time_overlap (0.85)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_103",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.3778,
+      "reason": "metadata similarity via countries (0.44)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_104",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.4179,
+      "reason": "metadata similarity via event_types (0.73)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_106",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2429,
+      "reason": "metadata similarity via countries (0.29)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_107",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2429,
+      "reason": "metadata similarity via countries (0.29)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_108",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.4572,
+      "reason": "metadata similarity via countries (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_109",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2572,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_110",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.4572,
+      "reason": "metadata similarity via countries (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_112",
+      "target": "community_122",
+      "target_report_status": "already_reported",
+      "score": 0.2333,
+      "reason": "metadata similarity via countries (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_118",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.4571,
+      "reason": "metadata similarity via countries (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_119",
+      "target": "community_81",
+      "target_report_status": "already_reported",
+      "score": 0.33,
+      "reason": "metadata similarity via time_overlap (0.39)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_120",
+      "target": "community_122",
+      "target_report_status": "already_reported",
+      "score": 0.225,
+      "reason": "metadata similarity via event_types (0.50)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_125",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_126",
+      "target": "community_81",
+      "target_report_status": "already_reported",
+      "score": 0.2965,
+      "reason": "metadata similarity via time_overlap (0.72)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_127",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.3,
+      "reason": "metadata similarity via event_types (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_13",
+      "target": "community_20",
+      "target_report_status": "already_reported",
+      "score": 0.6854,
+      "reason": "metadata similarity via countries (0.83)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_130",
+      "target": "community_81",
+      "target_report_status": "already_reported",
+      "score": 0.2333,
+      "reason": "metadata similarity via time_overlap (0.79)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_134",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_135",
+      "target": "community_81",
+      "target_report_status": "already_reported",
+      "score": 0.4213,
+      "reason": "metadata similarity via countries (0.44)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_136",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.4554,
+      "reason": "metadata similarity via time_overlap (0.52)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_139",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_14",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.6899,
+      "reason": "metadata similarity via countries (0.78)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_140",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.3139,
+      "reason": "metadata similarity via countries (0.88)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_141",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.4124,
+      "reason": "metadata similarity via time_overlap (0.72)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_144",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2429,
+      "reason": "metadata similarity via countries (0.29)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_145",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_147",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.3452,
+      "reason": "metadata similarity via event_types (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_149",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.4571,
+      "reason": "metadata similarity via countries (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_15",
+      "target": "community_78",
+      "target_report_status": "already_reported",
+      "score": 0.7578,
+      "reason": "metadata similarity via countries (0.86)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_153",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_154",
+      "target": "community_250",
+      "target_report_status": "already_reported",
+      "score": 0.4078,
+      "reason": "metadata similarity via countries (0.91)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_155",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.3682,
+      "reason": "metadata similarity via event_types (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_157",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.3,
+      "reason": "metadata similarity via event_types (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_16",
+      "target": "community_122",
+      "target_report_status": "already_reported",
+      "score": 0.2333,
+      "reason": "metadata similarity via countries (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_160",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_162",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_164",
+      "target": "community_81",
+      "target_report_status": "already_reported",
+      "score": 0.7587,
+      "reason": "metadata similarity via countries (0.89)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_166",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.2933,
+      "reason": "metadata similarity via time_overlap (0.79)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_167",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via countries (0.43)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_168",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.3013,
+      "reason": "metadata similarity via event_types (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_169",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_17",
+      "target": "community_81",
+      "target_report_status": "already_reported",
+      "score": 0.5583,
+      "reason": "metadata similarity via countries (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_171",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_173",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_175",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_177",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_178",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_18",
+      "target": "community_81",
+      "target_report_status": "already_reported",
+      "score": 0.5725,
+      "reason": "metadata similarity via countries (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_181",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via countries (0.43)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_183",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_184",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_187",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.4013,
+      "reason": "metadata similarity via event_types (0.89)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_189",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.2845,
+      "reason": "metadata similarity via time_overlap (0.56)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_192",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_194",
+      "target": "community_122",
+      "target_report_status": "already_reported",
+      "score": 0.3,
+      "reason": "metadata similarity via event_types (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_195",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.3218,
+      "reason": "metadata similarity via countries (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_199",
+      "target": "community_260",
+      "target_report_status": "already_reported",
+      "score": 0.2,
+      "reason": "metadata similarity via countries (0.33)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_203",
+      "target": "community_81",
+      "target_report_status": "already_reported",
+      "score": 0.4848,
+      "reason": "metadata similarity via countries (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_205",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.4572,
+      "reason": "metadata similarity via countries (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_206",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2572,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_208",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.3013,
+      "reason": "metadata similarity via event_types (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_211",
+      "target": "community_81",
+      "target_report_status": "already_reported",
+      "score": 0.4722,
+      "reason": "metadata similarity via countries (0.56)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_212",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.3013,
+      "reason": "metadata similarity via event_types (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_215",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2572,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_216",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.3646,
+      "reason": "metadata similarity via countries (0.44)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_217",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2572,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_22",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.4573,
+      "reason": "metadata similarity via time_overlap (0.92)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_222",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2572,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_223",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.3254,
+      "reason": "metadata similarity via countries (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_224",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.3,
+      "reason": "metadata similarity via event_types (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_225",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2572,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_229",
+      "target": "community_260",
+      "target_report_status": "already_reported",
+      "score": 0.2667,
+      "reason": "metadata similarity via countries (0.33)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_23",
+      "target": "community_78",
+      "target_report_status": "already_reported",
+      "score": 0.5686,
+      "reason": "metadata similarity via countries (0.70)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_230",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.2056,
+      "reason": "metadata similarity via countries (0.25)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_234",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2572,
+      "reason": "metadata similarity via countries (0.43)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_238",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.3078,
+      "reason": "metadata similarity via time_overlap (0.64)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_24",
+      "target": "community_122",
+      "target_report_status": "already_reported",
+      "score": 0.2458,
+      "reason": "metadata similarity via countries (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_241",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.2056,
+      "reason": "metadata similarity via countries (0.25)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_242",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.2056,
+      "reason": "metadata similarity via countries (0.25)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_244",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.2126,
+      "reason": "metadata similarity via countries (0.25)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_247",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.2085,
+      "reason": "metadata similarity via event_types (0.50)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_25",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.4004,
+      "reason": "metadata similarity via event_types (0.73)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_256",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.2506,
+      "reason": "metadata similarity via event_types (0.62)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_257",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.3334,
+      "reason": "metadata similarity via countries (0.71)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_259",
+      "target": "community_260",
+      "target_report_status": "already_reported",
+      "score": 0.2222,
+      "reason": "metadata similarity via time_overlap (0.93)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_26",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.4702,
+      "reason": "metadata similarity via countries (0.88)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_264",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.2126,
+      "reason": "metadata similarity via countries (0.25)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_266",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.2056,
+      "reason": "metadata similarity via countries (0.25)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_27",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.2879,
+      "reason": "metadata similarity via time_overlap (0.59)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_271",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.215,
+      "reason": "metadata similarity via countries (0.25)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_272",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.2126,
+      "reason": "metadata similarity via countries (0.25)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_273",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.3188,
+      "reason": "metadata similarity via countries (0.38)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_274",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.2126,
+      "reason": "metadata similarity via countries (0.25)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_276",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.3188,
+      "reason": "metadata similarity via countries (0.38)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_278",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.6379,
+      "reason": "metadata similarity via countries (0.75)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_28",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.4571,
+      "reason": "metadata similarity via countries (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_281",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.2125,
+      "reason": "metadata similarity via countries (0.25)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_284",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.365,
+      "reason": "metadata similarity via countries (0.50)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_285",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2619,
+      "reason": "metadata similarity via countries (0.43)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_286",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.5111,
+      "reason": "metadata similarity via countries (0.75)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_287",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.2125,
+      "reason": "metadata similarity via countries (0.25)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_288",
+      "target": "community_260",
+      "target_report_status": "already_reported",
+      "score": 0.633,
+      "reason": "metadata similarity via countries (0.83)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_289",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.2125,
+      "reason": "metadata similarity via countries (0.25)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_29",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2429,
+      "reason": "metadata similarity via countries (0.29)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_292",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.2125,
+      "reason": "metadata similarity via countries (0.25)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_293",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.2125,
+      "reason": "metadata similarity via countries (0.25)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_297",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.2125,
+      "reason": "metadata similarity via countries (0.25)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_30",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.4571,
+      "reason": "metadata similarity via countries (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_304",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.375,
+      "reason": "metadata similarity via countries (0.86)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_31",
+      "target": "community_81",
+      "target_report_status": "already_reported",
+      "score": 0.5971,
+      "reason": "metadata similarity via countries (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_32",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2429,
+      "reason": "metadata similarity via countries (0.29)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_33",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.5001,
+      "reason": "metadata similarity via countries (0.86)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_34",
+      "target": "community_260",
+      "target_report_status": "already_reported",
+      "score": 0.2,
+      "reason": "metadata similarity via countries (0.33)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_35",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.7377,
+      "reason": "metadata similarity via countries (0.88)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_37",
+      "target": "community_78",
+      "target_report_status": "already_reported",
+      "score": 0.5766,
+      "reason": "metadata similarity via countries (0.71)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_38",
+      "target": "community_78",
+      "target_report_status": "already_reported",
+      "score": 0.5766,
+      "reason": "metadata similarity via countries (0.71)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_40",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2572,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_41",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2572,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_43",
+      "target": "community_260",
+      "target_report_status": "already_reported",
+      "score": 0.25,
+      "reason": "metadata similarity via event_types (1.00)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_44",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.5091,
+      "reason": "metadata similarity via countries (0.86)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_45",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2286,
+      "reason": "metadata similarity via countries (0.29)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_46",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.4571,
+      "reason": "metadata similarity via countries (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_47",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.4776,
+      "reason": "metadata similarity via countries (0.88)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_48",
+      "target": "community_78",
+      "target_report_status": "already_reported",
+      "score": 0.5773,
+      "reason": "metadata similarity via countries (0.71)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_49",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.26,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_50",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2429,
+      "reason": "metadata similarity via countries (0.29)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_53",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.5001,
+      "reason": "metadata similarity via countries (0.86)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_55",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.1889,
+      "reason": "metadata similarity via countries (0.22)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_58",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.5,
+      "reason": "metadata similarity via countries (0.86)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_59",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.5091,
+      "reason": "metadata similarity via countries (0.86)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_61",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2286,
+      "reason": "metadata similarity via countries (0.29)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_62",
+      "target": "community_81",
+      "target_report_status": "already_reported",
+      "score": 0.2744,
+      "reason": "metadata similarity via time_overlap (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_64",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.4571,
+      "reason": "metadata similarity via countries (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_65",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.3013,
+      "reason": "metadata similarity via event_types (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_66",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.5092,
+      "reason": "metadata similarity via countries (0.86)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_67",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.4176,
+      "reason": "metadata similarity via countries (0.44)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_68",
+      "target": "community_78",
+      "target_report_status": "already_reported",
+      "score": 0.6408,
+      "reason": "metadata similarity via countries (0.78)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_69",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2572,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_70",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.5001,
+      "reason": "metadata similarity via countries (0.86)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_71",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.5092,
+      "reason": "metadata similarity via countries (0.86)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_72",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.3778,
+      "reason": "metadata similarity via countries (0.44)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_73",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.5001,
+      "reason": "metadata similarity via countries (0.86)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_76",
+      "target": "community_180",
+      "target_report_status": "already_reported",
+      "score": 0.6288,
+      "reason": "metadata similarity via countries (0.75)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_79",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.1889,
+      "reason": "metadata similarity via countries (0.22)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_80",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.3216,
+      "reason": "metadata similarity via event_types (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_82",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.4776,
+      "reason": "metadata similarity via countries (0.88)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_83",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2429,
+      "reason": "metadata similarity via countries (0.29)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_84",
+      "target": "community_78",
+      "target_report_status": "already_reported",
+      "score": 0.4867,
+      "reason": "metadata similarity via countries (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_85",
+      "target": "community_78",
+      "target_report_status": "already_reported",
+      "score": 0.7675,
+      "reason": "metadata similarity via countries (0.86)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_87",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2286,
+      "reason": "metadata similarity via countries (0.29)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_88",
+      "target": "community_78",
+      "target_report_status": "already_reported",
+      "score": 0.5952,
+      "reason": "metadata similarity via countries (0.71)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_89",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.5091,
+      "reason": "metadata similarity via countries (0.86)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_91",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2429,
+      "reason": "metadata similarity via countries (0.29)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_92",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.5091,
+      "reason": "metadata similarity via countries (0.86)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_93",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.8231,
+      "reason": "metadata similarity via countries (1.00)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_94",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.4013,
+      "reason": "metadata similarity via event_types (0.89)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_95",
+      "target": "community_19",
+      "target_report_status": "already_reported",
+      "score": 0.3013,
+      "reason": "metadata similarity via event_types (0.67)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_96",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.2571,
+      "reason": "metadata similarity via event_types (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_97",
+      "target": "community_78",
+      "target_report_status": "already_reported",
+      "score": 0.6275,
+      "reason": "metadata similarity via countries (0.78)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": "community_98",
+      "target": "community_99",
+      "target_report_status": "already_reported",
+      "score": 0.4571,
+      "reason": "metadata similarity via countries (0.57)",
+      "strategy": "attach_small_to_best_target_including_preserved"
+    },
+    {
+      "source": [
+        "community_117",
+        "community_138",
+        "community_143",
+        "community_150",
+        "community_174",
+        "community_179",
+        "community_191",
+        "community_193",
+        "community_198",
+        "community_210",
+        "community_218",
+        "community_220",
+        "community_231",
+        "community_232",
+        "community_233",
+        "community_235",
+        "community_237",
+        "community_239",
+        "community_240",
+        "community_243",
+        "community_245",
+        "community_246",
+        "community_248",
+        "community_249",
+        "community_251",
+        "community_252",
+        "community_253",
+        "community_254",
+        "community_255",
+        "community_258",
+        "community_261",
+        "community_262",
+        "community_263",
+        "community_265",
+        "community_267",
+        "community_268",
+        "community_269",
+        "community_270",
+        "community_275",
+        "community_277",
+        "community_279",
+        "community_280",
+        "community_282",
+        "community_283",
+        "community_290",
+        "community_291",
+        "community_294",
+        "community_295",
+        "community_296",
+        "community_298",
+        "community_299",
+        "community_300",
+        "community_301",
+        "community_302",
+        "community_305",
+        "community_74"
+      ],
+      "target": "attached_meta_small_1",
+      "target_report_status": "new_report_required",
+      "score": null,
+      "reason": "meta-graph Leiden/greedy grouping after preserved-target attachment",
+      "strategy": "residual_meta_graph_clustering"
+    },
+    {
+      "source": [
+        "community_101",
+        "community_105",
+        "community_115",
+        "community_121",
+        "community_123",
+        "community_128",
+        "community_131",
+        "community_132",
+        "community_133",
+        "community_137",
+        "community_148",
+        "community_151",
+        "community_152",
+        "community_156",
+        "community_158",
+        "community_161",
+        "community_163",
+        "community_165",
+        "community_170",
+        "community_172",
+        "community_176",
+        "community_182",
+        "community_185",
+        "community_186",
+        "community_188",
+        "community_190",
+        "community_196",
+        "community_197",
+        "community_200",
+        "community_201",
+        "community_202",
+        "community_207",
+        "community_209",
+        "community_213",
+        "community_214",
+        "community_219",
+        "community_221",
+        "community_226",
+        "community_227",
+        "community_36",
+        "community_39",
+        "community_51",
+        "community_52",
+        "community_54",
+        "community_56",
+        "community_57",
+        "community_60",
+        "community_63",
+        "community_77",
+        "community_90"
+      ],
+      "target": "attached_meta_small_2",
+      "target_report_status": "new_report_required",
+      "score": null,
+      "reason": "meta-graph Leiden/greedy grouping after preserved-target attachment",
+      "strategy": "residual_meta_graph_clustering"
+    },
+    {
+      "source": [
+        "community_111",
+        "community_113",
+        "community_114",
+        "community_204",
+        "community_42",
+        "community_75"
+      ],
+      "target": "attached_meta_small_3",
+      "target_report_status": "new_report_required",
+      "score": null,
+      "reason": "meta-graph Leiden/greedy grouping after preserved-target attachment",
+      "strategy": "residual_meta_graph_clustering"
+    },
+    {
+      "source": [
+        "community_146"
+      ],
+      "target": "attached_meta_small_4",
+      "target_report_status": "new_report_required",
+      "score": null,
+      "reason": "meta-graph Leiden/greedy grouping after preserved-target attachment",
+      "strategy": "residual_meta_graph_clustering"
+    },
+    {
+      "source": [
+        "community_228"
+      ],
+      "target": "attached_meta_small_5",
+      "target_report_status": "new_report_required",
+      "score": null,
+      "reason": "meta-graph Leiden/greedy grouping after preserved-target attachment",
+      "strategy": "residual_meta_graph_clustering"
+    },
+    {
+      "source": [
+        "community_142"
+      ],
+      "target": "attached_meta_small_6",
+      "target_report_status": "new_report_required",
+      "score": null,
+      "reason": "meta-graph Leiden/greedy grouping after preserved-target attachment",
+      "strategy": "residual_meta_graph_clustering"
+    }
+  ],
+  "graph_metrics": {
+    "graph_nodes": 1323,
+    "graph_edges": 2411,
+    "original_partition": {
+      "communities": 306,
+      "modularity": 0.7065058396620755,
+      "average_conductance": 0.006683591390035787,
+      "min_conductance": 0.0,
+      "max_conductance": 0.23076923076923078
+    },
+    "final_partition": {
+      "communities": 36,
+      "modularity": 0.7065046617127968,
+      "average_conductance": 0.04336514866404368,
+      "min_conductance": 0.0,
+      "max_conductance": 0.23076923076923078
+    },
+    "new_report_community_conductance": {
+      "attached_meta_small_1": 0.0,
+      "attached_meta_small_2": 0.0,
+      "attached_meta_small_3": 0.0,
+      "attached_meta_small_4": 0.0,
+      "attached_meta_small_5": 0.0,
+      "attached_meta_small_6": 0.0
+    },
+    "average_new_report_conductance": 0.0
+  }
+}
