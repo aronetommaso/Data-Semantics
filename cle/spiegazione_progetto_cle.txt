@@ -562,7 +562,218 @@ Il grafo risultante assume questa forma sintattica pulita:
   <http://data-semantics-2526.org/acled/resource/event/PSE42801>
       conf:reportedBy <http://data-semantics-2526.org/acled/resource/source/arab-48> ,
                       <http://data-semantics-2526.org/acled/resource/source/twitter> .
-                      
+
+
+
+================================================================================
+REPORT DI VALUTAZIONE TOPOLOGICA: METRICHE DI COMMUNITY DETECTION (DATASET ACLED)
+================================================================================
+
+Nel contesto dell'architettura GraphRAG, la qualita delle risposte globali fornite 
+dall'LLM dipende in modo critico dalla stabilita e dalla coerenza dei cluster 
+generati a monte. Se l'algoritmo di partizione producesse raggruppamenti caotici 
+o casuali, i report inviati all'LLM risulterebbero privi di una linea narrativa 
+geopolitica sensata. 
+
+Le due metriche calcolate sul grafo NetworkX estratto da GraphDB forniscono una 
+validazione matematica robusta e oggettiva della struttura informativa del dataset.
+
+--------------------------------------------------------------------------------
+1. MODULARITA GLOBALE (Global Modularity) = 0.7202
+--------------------------------------------------------------------------------
+
+DEFINIZIONE TEORICA:
+La Modularita e la metrica di riferimento per valutare la bonta di una rete divisa 
+in comunita. Essa misura quanto la ripartizione in cluster ottenuta dall'algoritmo 
+sia piu densa e strutturata rispetto a una configurazione in cui gli stessi archi 
+venissero ridistribuiti in modo totalmente casuale tra i nodi (mantenendo inalterato 
+solo il grado dei nodi stessi). In termini semplici, calcola la densita di archi 
+interni ai cluster rispetto a quelli esterni.
+
+INTERPRETAZIONE DEL RISULTATO (0.7202):
+- La scala teorica della modularita spazia da -0.5 a 1.0.
+- In letteratura scientifica, valori superiori a 0.4 indicano reti dotate di una 
+  struttura a comunita eccezionalmente marcata, definita e non casuale.
+- Il punteggio ottenuto di 0.7202 e straordinariamente alto. Dimostra che il 
+  Knowledge Graph dei conflitti in Medio Oriente non e un agglomerato omogeneo 
+  e caotico (dove "tutti interagiscono con tutti"), ma possiede un segnale 
+  semantico pulito. La rete e polarizzata in fazioni, sotto-conflitti geografici 
+  e blocchi di alleanze/scontri iper-coerenti (es. il blocco siriano, l'ego-network 
+  yemenita, il teatro di Gaza).
+
+--------------------------------------------------------------------------------
+2. CONDOTTA MEDIA (Average Conductance) = 0.0134
+--------------------------------------------------------------------------------
+
+DEFINIZIONE TEORICA:
+Mentre la modularita offre uno sguardo macroscopico sull'intera rete, la Condotta 
+(Conductance) esamina le singole comunita a livello microscopico per valutarne 
+l'isolamento e la compattezza. E definita come il rapporto tra il numero di archi 
+che "escono" dai confini della comunita verso l'esterno e il volume totale di 
+archi racchiusi all'interno della comunita stessa. Rappresenta, di fatto, la 
+probabilita che un cammino casuale nel grafo esca dal cluster.
+
+INTERPRETAZIONE DEL RISULTATO (0.0134):
+- Per questa metrica vale la regola "lower is better": piu il valore e vicino a 
+  zero, piu la comunita e isolata e autosufficiente; piu e vicino a 1, piu la 
+  comunita e frammentata e fusa con l'esterno.
+- Un valore medio di 0.0134 (corrispondente a circa l'1.3%) e un risultato eccellente. 
+  Indica che le comunita individuate dall'algoritmo sono veri e propri "silos" 
+  informativi indipendenti. Gli attori geopolitici appartenenti a un determinato 
+  cluster interagiscono quasi esclusivamente tra di loro.
+- Ai fini della pipeline GraphRAG, una condotta cosi bassa riduce drasticamente 
+  il rumore di fondo. Garantisce che, quando un singolo Community Report verra 
+  inviato all'LLM nella fase di MAP, quel frammento conterra una storia 
+  geopolitica completa e autosufficiente, eliminando il rischio di allucinazioni 
+  dovute alla perdita di connessioni rimaste incastrate in altri cluster.
+
+================================================================================
+SINTESI PER LA DISCUSSIONE D'ESAME
+================================================================================
+"L'unione di una Modularita Globale elevata (0.7202) e di una Condotta Media 
+estremamente bassa (0.0134) convalida l'approccio strutturale del progetto. 
+I dati dimostrano che la topologia della rete riflette fedelmente le reali 
+dinamiche geopolitiche del dataset ACLED. Questo partizionamento netto assicura 
+che la fase successiva di generazione dei report (Community Summarization) e il 
+conseguente recupero delle informazioni tramite Map-Reduce (Global Search) 
+operino su basi di dati stabili, coerenti e matematicamente fondate."
+================================================================================
+
+================================================================================
+REPORT DI VALIDAZIONE GEOGRAFICA E TEMPORALE DELLE MACRO-COMUNITA (DATASET ACLED)
+================================================================================
+
+Questo documento analizza l'estrazione statistica eseguita tramite query SPARQL 
+sulle 10 comunita piu popolose individuate dall'algoritmo di Leiden. L'obiettivo 
+e validare la coerenza semantica del grafo sia sotto l'aspetto della distribuzione 
+spaziale (nazioni coinvolte) sia sotto quello della stabilita temporale (estensione 
+in anni degli eventi), fornendo elementi chiave per la discussione d'esame.
+
+--------------------------------------------------------------------------------
+1. VALIDAZIONE GEOGRAFICA: EMERGENZA DEI TEATRI NAZIONALI
+--------------------------------------------------------------------------------
+
+L'analisi quantitativa mostra un successo straordinario dell'algoritmo nella 
+separazione spaziale dei conflitti. Senza alcuna conoscenza geografica pregressa 
+(l'algoritmo ha analizzato solo la topologia della rete, ignorando i letterali 
+testuali), i cluster si sono allineati quasi al 100% con i confini geopolitici reali:
+
+- COMUNITA 0 (250 attori): Focalizzata sulla Siria. Rappresenta ben 26.408 eventi 
+  su 27.050 totali del cluster (97.6% di coerenza geografica).
+- COMUNITA 1 (221 attori): Focalizzata sullo Yemen. Rappresenta 18.445 eventi 
+  su 19.396 totali del cluster (95.1% di coerenza geografica).
+- COMUNITA 2 & 7: Isolano chirurgicamente il teatro dell'Iraq (es. la Comonita 2 
+  raggruppa 10.806 eventi in Iraq su 11.965).
+- COMUNITA 3 & 8: Intercettano la totalita delle dinamiche in Palestina 
+  (Gaza e Cisgiordania), dividendo la fitta rete di attori locali e forze esterne.
+- COMUNITA 4: Isola in modo netto il contesto della Turchia (11.536 eventi su 11.554).
+
+SIGNIFICATO SEMANTICO:
+I dati dimostrano che il Knowledge Graph possiede una struttura a "silos geografici". 
+Le milizie siriane combattono in Siria, i gruppi yemeniti in Yemen, e cosi via. 
+Le interazioni transnazionali tra attori di paesi diversi esistono ma sono 
+topologicamente secondarie rispetto alla densita degli scontri interni a ciascun 
+paese. Questo garantisce che la GraphRAG interroghera contesti geografici puliti.
+
+--------------------------------------------------------------------------------
+2. ANALISI TEMPORALE: IL PATTERN DELLE COMUNITA "ATEMPORALI"
+--------------------------------------------------------------------------------
+
+Un dato critico emerso dall'analisi e l'estensione temporale (Temporal extension) 
+di quasi tutte le macro-comunita (dalla 0 alla 8), costantemente attestata 
+tra i 7.98 e gli 8.99 anni. Ciascun cluster copre l'intero arco cronologico del 
+dataset, partendo dal 2015/2016 fino al 31 Dicembre 2023.
+
+SIGNIFICATO STRUTTURALE:
+L'algoritmo di Leiden ha generato comunita di tipo "storico-monolitico". Ha preso 
+un intero scenario nazionale (es. lo scenario Siriano nella Comunita 0) e ha 
+accorpato tutti gli attori che vi hanno operato nell'arco di quasi un decennio. 
+
+- IMPLICAZIONE POSITIVA: Questo comportamento e ideale per le query di tipo 
+  "Global Search" volte a comprendere l'evoluzione storica a lungo termine 
+  di un conflitto (es. "Quali sono state le fasi principali della guerra in Yemen?"). 
+  Il report associato a quel cluster conterra l'intera cronologia degli eventi.
+- IMPLICAZIONE CRITICA: Il cluster tende a "schiacciare" la dimensione temporale, 
+  mettendo nello stesso gruppo attori che nel 2016 erano attivi e nel 2023 erano 
+  ormai dissolti o inattivi (es. l'ascesa e la caduta dello Stato Islamico in 
+  Iraq e Siria, o i cambi di denominazione delle milizie ribelli).
+
+--------------------------------------------------------------------------------
+3. IMPLICAZIONI ARCHITETTURALI PER LA GENERAZIONE DEI REPORT (03_build_reports.py)
+--------------------------------------------------------------------------------
+
+Dato che le comunita sono macroscopiche (la Comunita 0 conta oltre 27.000 eventi 
+e 250 attori), e tecnicamente impossibile ed economicamente insostenibile inviare 
+tutti i dati all'LLM in un'unica chiamata. La context window andrebbe in crash.
+
+Per risolvere questo problema, la pipeline implementera una tecnica di 
+"Sotto-campionamento Semantico e Temporale" (Semantic & Temporal Sub-sampling):
+1. SELEZIONE DEGLI HUB: Lo script estrarra solo i top 10/15 attori piu importanti 
+   di ciascun cluster (quelli con il maggior numero di eventi associati).
+2. DISTRIBUZIONE CRONOLOGICA: Per questi attori, verra estratto un campione fisso 
+   di note testuali (conf:narrativeNotes) equamente distribuito per ciascun anno 
+   (es. le 5 note piu rilevanti del 2016, 5 del 2017, ecc.), oppure pesando 
+   maggiormente gli eventi con un alto tasso di vittime (fatalities) per catturare 
+   i momenti di picco ed escalation.
+
+In questo modo, il Community Report generato dall'LLM per ciascuna macro-comunita 
+sara denso, accurato e raccontera una storia geopolitica perfettamente bilanciata 
+lungo tutti gli 8 anni di storia del conflitto.
+
+================================================================================
+SINTESI PER LA RELAZIONE D'ESAME
+================================================================================
+"L'esplorazione delle 10 comunita piu popolose conferma l'efficacia macro-spaziale 
+dell'algoritmo di Leiden, il quale ha isolato i teatri di scontro nazionali con 
+una precisione vicina al 100%. L'estensione temporale uniforme di circa 8 anni 
+identifica queste comunita come macro-silos storici del Medio Oriente. Al fine 
+di preservare la granularita temporale ed evitare il superamento dei limiti di 
+contesto dell'LLM, la pipeline di GraphRAG applichera un sotto-campionamento 
+stratificato per anno, garantendo la produzione di Community Reports capaci di 
+sintetizzare l'evoluzione cronologica dei conflitti senza perdita di informazione."
+================================================================================
+
+
+[Fase Semantica]                  [Fase GraphRAG]
+ 📜 01_build_kg.py  ──(Genera)──►  📜 02_leiden_communities.py  ──(Genera)──►  📜 03_build_reports.py  ──(Genera)──►  📜 04_global_search.py
+ (RDF / Ontologia)                 (Grafo di Rete / JSON)                    (Report di Comunità)                   (Interfaccia Query)
+
+
+PER CREARE I REPORT DI COMUNITA' SERVE LE NOTES, NON SOLO GLI ATTORI ECC.
+
+Information Extraction aggiuntiva (Opzionale/Avanzato): Potreste usare un LLM per 
+fare Entity/Relation Extraction sulle notes per estrarre sotto-eventi, armi usate o 
+motivazioni, arricchendo ulteriormente il KG con triple che ACLED non fornisce 
+nativamente nelle colonne standard.
+
+
+
+
+da fare:
+
+  creare_report.py:
+    - LLM (leggero)
+    - input --> comunità (da capire come) (notes) --> da capire come vanno messe ecc.
+    - output --> summaries
+
+  LLM: 
+    -prompt: creami il summaries di questa comunita sapendo {notes}
+
+
+  interfaccia.py:
+    - Domanda
+    - LLM --> score ad ogni report (importanza)
+    - LLM finale usa il report con score più alto (o topk)
+    - Output
+
+  aggiunta:
+
+    - LLM --> decide se usiamo query (serve una risposta più mirata) oppure una risposta summary (GraphRAG)
+    - Query_Answering.py
+
+
+
+GEMINI 2.5 FLASH (GOOGLE AI STUDIO)
 ================================================================================
   8. PROSSIMI PASSI
 ================================================================================
