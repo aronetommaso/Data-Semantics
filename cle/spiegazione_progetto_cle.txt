@@ -775,86 +775,97 @@ da fare:
 
 GEMINI 2.5 FLASH (GOOGLE AI STUDIO)
 ================================================================================
-  8. PROSSIMI PASSI
+  FASE 8 — QUERY ANSWERING: DA LINGUAGGIO NATURALE A SPARQL
 ================================================================================
-
-FASE 6 — Import in GraphDB
-  GraphDB è un database RDF con SPARQL endpoint e reasoner OWL integrato.
-  Procedura:
-    1. Creare un repository in GraphDB
-    2. Importare acled_ontologyCle.ttl (prima lo schema)
-    3. Importare acled_kg.ttl generato da Morph-KGC (poi i dati)
-    4. GraphDB espone un endpoint SPARQL per le query
-  
-  Esempio di query SPARQL che sarà possibile fare:
-    "Tutti gli eventi in Siria con più di 50 vittime nel 2022"
-    "Gli attori che hanno operato sia in Palestine che in Syria"
-    "Le fonti che hanno coperto più eventi con actor1 = State forces"
-
-FASE 7 — GraphRAG
-  GraphRAG di Microsoft non fa solo ricerca vettoriale come un RAG classico.
-  Usa l'algoritmo di Leiden per trovare comunità di nodi densamente connessi
-  nel grafo, poi chiede a un LLM di scrivere un "community report" per ogni
-  cluster — una sintesi tematica.
-  
-  Quando si fa una query, il sistema:
-    1. Individua i community report rilevanti
-    2. Li passa all'LLM come contesto
-    3. L'LLM risponde ragionando su pattern globali, non solo su singoli eventi
-  
-  La colonna "notes" del dataset è il testo principale su cui GraphRAG
-  costruisce questi report — è la colonna più preziosa per questa fase.
-
-
-================================================================================
-  9. GLOSSARIO
-================================================================================
-
-RDF     Resource Description Framework. Standard W3C per rappresentare
-        informazioni come triple (soggetto, predicato, oggetto).
-        Es: (Hamas Movement) → (è di tipo) → (PoliticalMilitia)
-
-URI     Uniform Resource Identifier. Identificatore univoco di una risorsa.
-        Es: http://data-semantics-2526.org/acled/resource/event/PSE42801
-
-Triple  L'unità base di RDF. Composta da (soggetto, predicato, oggetto).
-        Soggetto e predicato sono sempre URI. L'oggetto può essere URI o literal.
-
-Literal Valore testuale o numerico. Es: "Hamas Movement", 3, "2023-12-31".
-        Diverso da un URI — non punta a un nodo del grafo.
-
-Turtle  Formato di serializzazione RDF leggibile (file .ttl).
-        Alternativa a RDF/XML o JSON-LD — più compatto e leggibile.
-
-OWL     Web Ontology Language. Estende RDF per definire ontologie con
-        classi, proprietà, gerarchie e regole di inferenza.
-
-Reasoner Sistema che applica le regole OWL per inferire nuove conoscenze.
-        Es: se A è subClassOf B, ogni istanza di A è anche istanza di B.
-
-SPARQL  Linguaggio di query per grafi RDF. Come SQL ma per i KG.
-
-RML     RDF Mapping Language. Standard per mappare CSV/JSON/XML in RDF.
-
-Slug    Versione URI-safe di una stringa. Es: "Hamas Movement" → hamas-movement
-
-Namespace Prefisso comune a un gruppo di URI. Rende i file più leggibili.
-        @prefix conf: <http://...> permette di scrivere conf:Actor invece
-        dell'URI completo.
-
-KG      Knowledge Graph. Grafo di conoscenza — rete di entità collegate.
-
-GraphRAG Graph-augmented Retrieval Augmented Generation. Sistema che combina
-        un KG con un LLM per rispondere a domande complesse sui dati.
-
-Morph-KGC Tool open source che esegue il mapping RML e produce il file .ttl.
-
-GraphDB Database RDF con SPARQL endpoint e reasoner OWL integrato.
-        Prodotto da Ontotext.
-
-ACLED   Armed Conflict Location & Event Data Project. Organizzazione non-profit
-        che raccoglie dati su violenza politica e proteste nel mondo.
-
-================================================================================
-  Fine documento
-================================================================================
+ 
+Script: sparql_generator_cle(daNLaSPARQL).py
+Obiettivo: permettere all'utente di fare domande in inglese e ricevere
+risposte fattuali estratte direttamente dal Knowledge Graph tramite SPARQL.
+ 
+--------------------------------------------------------------------------------
+  Pipeline interna
+--------------------------------------------------------------------------------
+ 
+  [Domanda utente in inglese]
+        │
+        ▼
+  [Step 1] LLM (Llama 3.3 70B su Groq) riceve:
+            - Schema dell'ontologia (classi, proprietà, tipi xsd)
+            - 6 esempi few-shot (domanda → query SPARQL corretta)
+            - La domanda dell'utente
+           → produce una query SPARQL valida
+        │
+        ▼
+  [Step 2] La query viene eseguita su GraphDB via HTTP POST
+           → restituisce risultati in formato JSON
+        │
+        ▼
+  [Step 3] Un secondo LLM call legge i risultati raw
+           → produce la risposta finale in linguaggio naturale
+ 
+--------------------------------------------------------------------------------
+  Scelte tecniche rilevanti
+--------------------------------------------------------------------------------
+ 
+ONTOLOGY_SCHEMA nel prompt:
+  L'LLM non legge il file .owl direttamente. Riceve nel prompt una
+  descrizione testuale dell'ontologia con classi, proprietà e tipi.
+  Questo è necessario per generare query sintatticamente corrette.
+ 
+Few-shot prompting:
+  6 coppie (domanda → query) insegnano al modello per analogia come
+  tradurre domande in SPARQL. Senza esempi, il modello tende a generare
+  query con nomi di proprietà inventati o strutture errate.
+ 
+temperature = 0.1:
+  Valore bassissimo per output deterministici. Per la generazione di
+  query SPARQL la creatività è controproducente — serve correttezza.
+ 
+--------------------------------------------------------------------------------
+  Problemi riscontrati e soluzioni adottate
+--------------------------------------------------------------------------------
+ 
+PROBLEMA 1 — Distinzione location vs actor
+  Domanda "Is Israel included?" generava query che cercavano solo eventi
+  localizzati IN Israele, ignorando che le forze israeliane operano
+  prevalentemente in Palestine (come attori, non come location).
+  SOLUZIONE: aggiunta nel prompt la distinzione esplicita tra
+  conf:locatedIn (dove è successo) e conf:hasActor1/2 (chi era coinvolto).
+ 
+PROBLEMA 2 — Query ASK invece di SELECT
+  Domande tipo "Is X present?" inducevano il modello a generare query ASK
+  che restituiscono solo true/false. Il parser non gestiva questo formato
+  e stampava "No results found" anche per risposte affermative.
+  SOLUZIONE: regola esplicita nel prompt ("always use SELECT, never ASK")
+  + gestione del formato ASK nel parser come safety net.
+ 
+PROBLEMA 3 — Attori con varianti temporali
+  ACLED rinomina gli attori nel tempo: "Military Forces of Israel (2009-2021)"
+  e "Military Forces of Israel (2022-)" sono URI diversi. Query sul nome
+  esatto trovavano solo una delle due versioni.
+  SOLUZIONE: esempio few-shot con FILTER(CONTAINS(LCASE(?actorName), "keyword"))
+  che cattura tutte le varianti con una sola condizione.
+ 
+PROBLEMA 4 — UNION su actor1 e actor2
+  La versione iniziale cercava solo conf:hasActor1, ignorando actor2.
+  SOLUZIONE: tutti gli esempi usano ora:
+  { ?event conf:hasActor1 ?actor } UNION { ?event conf:hasActor2 ?actor }
+ 
+--------------------------------------------------------------------------------
+  Limitazioni note
+--------------------------------------------------------------------------------
+ 
+  - I nomi degli attori nel dataset sono specifici e non ovvi
+    (es. "USA" non funziona — bisogna cercare "united states").
+    Il sistema non ha un dizionario dei nomi esatti degli attori.
+ 
+  - Nessuna memoria conversazionale: ogni domanda è indipendente.
+    Non è possibile fare domande di follow-up senza riformulare tutto.
+ 
+  - Domande narrative ("What are the main dynamics in Syria?") non sono
+    supportate: SPARQL risponde solo a domande fattuali quantificabili.
+    Per domande narrative si usa la modalità GraphRAG (graphrag_responder.py).
+ 
+  - Se GraphDB non è avviato (docker compose up -d), lo script fallisce
+    con un errore di connessione.
+ 

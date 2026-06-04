@@ -128,9 +128,7 @@
         "mutiny-of-hamza-division-aleppo",
         "sheikh-al-karama",
         "burkan-al-furrat",
-        "qsd-syrian-democratic-forces-military-police",
         "al-hessan-communal-militia-syria",
-        "sur-communal-militia-syria",
         "jaysh-al-nukhba",
         "civilians-tunisia",
         "al-bakeer-tribal-militia-syria",
@@ -180,6 +178,7 @@
         "qarayya-communal-militia-syria",
         "civilians-algeria",
         "imam-hussein-brigade",
+        "government-of-jordan-1999",
         "2nd-coastal-division",
         "government-of-syria-2000-2024",
         "jai-islamic-front",
@@ -253,8 +252,8 @@
     ],
     "community_1": [
         "protesters-yemen",
-        "civilians-ethiopia",
         "unidentified-armed-group-yemen",
+        "civilians-ethiopia",
         "military-forces-of-yemen-2017-houthi",
         "military-forces-of-yemen-2022-2026-presidential-leadership-council-stc-hazm-brigades",
         "civilians-yemen",
@@ -267,8 +266,8 @@
         "police-forces-of-yemen-2022-2026-presidential-leadership-council",
         "military-forces-of-yemen-2022-2026-presidential-leadership-council-170th-air-defence-brigade",
         "unidentified-tribal-militia-yemen",
-        "military-forces-of-yemen-2022-2026-presidential-leadership-council-stc-support-and-reinforcement-brigades",
         "aqap-al-qaeda-in-the-arabian-peninsula",
+        "military-forces-of-yemen-2022-2026-presidential-leadership-council-stc-support-and-reinforcement-brigades",
         "operation-restoring-hope",
         "giants-brigades",
         "military-forces-of-yemen-2022-2026-presidential-leadership-council-stc",
@@ -285,8 +284,8 @@
         "al-adhmi-al-himyari-tribal-militia-yemen",
         "military-forces-of-yemen-2022-2026-presidential-leadership-council-nation-shield-forces",
         "military-forces-of-yemen-2022-2026-presidential-leadership-council-17th-infantry-brigade",
-        "al-awaliq-tribal-militia-yemen",
         "khalifa-tribal-militia-yemen",
+        "al-awaliq-tribal-militia-yemen",
         "daham-tribal-militia-yemen",
         "bani-nawf-tribal-militia-yemen",
         "al-shibanah-tribal-militia-yemen",
@@ -299,8 +298,8 @@
         "al-islah-party",
         "unidentified-armed-group-international",
         "military-forces-of-yemen-2022-2026-presidential-leadership-council-political-security-organization",
-        "al-hamad-tribal-militia-yemen",
         "sulaiman-tribal-militia-yemen",
+        "al-hamad-tribal-militia-yemen",
         "military-forces-of-yemen-2022-2026-presidential-leadership-council-presidential-guard",
         "police-forces-of-yemen-2017-houthi-security-and-intelligence-service",
         "unidentified-armed-group-somalia",
@@ -393,8 +392,8 @@
         "al-hada-tribal-militia-yemen",
         "dabwan-tribal-militia-yemen",
         "militia-hamud-said-al-mikhlafi",
-        "murad-tribal-militia-yemen",
         "al-aqqar-tribal-militia-yemen",
+        "murad-tribal-militia-yemen",
         "bayt-al-lahabi-tribal-militia-yemen",
         "al-halimi-tribal-militia-yemen",
         "yafan-bani-dabyan-tribal-militia-yemen",
@@ -527,6 +526,8 @@
         "bani-aqba-tribal-militia-iraq",
         "al-mawajid-tribal-militia-iraq",
         "al-mawali-tribal-militia-syria",
+        "qsd-syrian-democratic-forces-military-police",
+        "sur-communal-militia-syria",
         "civilians-sweden",
         "ansar-allah-al-awfiya",
         "badr-organization",
@@ -598,8 +599,8 @@
         "police-forces-of-kuwait-2006-2020"
     ],
     "community_3": [
-        "military-forces-of-israel-2022",
         "hamas-movement",
+        "military-forces-of-israel-2022",
         "rioters-palestine",
         "pij-palestinian-islamic-jihad",
         "unidentified-armed-group-israel",
@@ -639,6 +640,9 @@
         "private-security-forces-lebanon",
         "military-forces-of-lebanon-2021",
         "military-forces-of-iran-1989-quds-force",
+        "government-of-israel-2022",
+        "government-of-palestine-2007-hamas-government-in-gaza",
+        "government-of-palestine-1994-palestinian-national-authority",
         "hamas-kataib-al-ayyash",
         "al-ahrar-palestininian-freedom-movement",
         "unidentified-clan-militia-lebanon",
@@ -667,7 +671,6 @@
         "police-forces-of-egypt-2014",
         "jaafar-clan-militia-lebanon",
         "al-saloum-clan-militia-lebanon",
-        "military-forces-of-egypt-2014",
         "tfail-communal-militia-lebanon",
         "msheik-clan-militia-lebanon",
         "pij-katibat-birqin",
@@ -675,8 +678,8 @@
         "aamb-katibat-as-samu",
         "al-sharif-clan-militia-lebanon",
         "awada-clan-militia-lebanon",
-        "safwan-clan-militia-lebanon",
         "al-miqdad-clan-militia-lebanon",
+        "safwan-clan-militia-lebanon",
         "al-rifai-clan-militia-lebanon",
         "al-qamar-clan-militia-palestine",
         "arab-khaldah-clan-militia-lebanon",
@@ -687,7 +690,9 @@
         "kdp-i-kurdistan-democratic-party-iran",
         "military-forces-of-lebanon-2020-2021",
         "government-of-lebanon-2020-2021",
+        "government-of-israel-2009-2021",
         "police-forces-of-lebanon-2020-2021",
+        "government-of-morocco-1999",
         "fpm-free-patriotic-movement",
         "police-forces-of-israel-2009-2021-border-police",
         "saraya-ahl-al-sham",
@@ -775,10 +780,10 @@
     ],
     "community_5": [
         "protesters-iran",
-        "unidentified-military-forces",
         "military-forces-of-iran-1989-islamic-revolutionary-guard-corps",
-        "military-forces-of-iran-1989",
+        "unidentified-military-forces",
         "civilians-iran",
+        "military-forces-of-iran-1989",
         "police-forces-of-iran-1989-islamic-republic-of-iran-border-guard-command",
         "kataib-hezbollah-iraq",
         "rioters-iran",
@@ -817,47 +822,8 @@
         "civilians-panama"
     ],
     "community_6": [
-        "protesters-bahrain",
-        "protesters-jordan",
-        "rioters-bahrain",
-        "government-of-palestine-2007-hamas-government-in-gaza",
-        "government-of-israel-2022",
-        "police-forces-of-jordan-1999",
-        "unidentified-armed-group-jordan",
-        "government-of-palestine-1994-palestinian-national-authority",
-        "rioters-jordan",
-        "civilians-jordan",
-        "government-of-the-united-states-2021-2025",
-        "police-forces-of-bahrain-1999",
-        "civilians-saudi-arabia",
-        "police-forces-of-saudi-arabia-2015",
-        "police-forces-of-the-united-arab-emirates-2022",
-        "civilians-united-arab-emirates",
-        "civilians-bahrain",
-        "unidentified-tribal-militia-jordan",
-        "unidentified-armed-group-saudi-arabia",
-        "police-forces-of-bahrain-1999-prison-guards",
-        "government-of-lebanon-2021",
-        "government-of-bahrain-1999",
-        "government-of-qatar-2013",
-        "government-of-jordan-1999",
-        "unidentified-clan-militia-jordan",
-        "government-of-israel-2021-2022",
-        "government-of-saudi-arabia-2015",
-        "military-forces-of-israel-2021-2022-mossad",
-        "government-of-the-united-arab-emirates-2004-2022",
-        "unidentified-armed-group-bahrain",
-        "government-of-israel-2009-2021",
-        "government-of-morocco-1999",
-        "civilians-china",
-        "police-forces-of-saudi-arabia-2015-presidency-of-state-security",
-        "military-forces-of-israel-2009-2021-special-forces",
-        "al-wefaq-national-islamic-society",
-        "islamic-state-saudi-arabia-province-issap"
-    ],
-    "community_7": [
-        "pkk-kurdistan-workers-party",
         "military-forces-of-turkey-2016",
+        "pkk-kurdistan-workers-party",
         "civilians-international",
         "military-forces-of-turkey-2016-gendarmerie",
         "ypg-peoples-protection-units",
@@ -884,6 +850,31 @@
         "mutiny-of-military-forces-of-turkey-2016",
         "military-forces-of-turkey-2002-2016"
     ],
+    "community_7": [
+        "protesters-bahrain",
+        "rioters-bahrain",
+        "government-of-the-united-states-2021-2025",
+        "police-forces-of-bahrain-1999",
+        "police-forces-of-saudi-arabia-2015",
+        "civilians-saudi-arabia",
+        "police-forces-of-the-united-arab-emirates-2022",
+        "civilians-united-arab-emirates",
+        "civilians-bahrain",
+        "unidentified-armed-group-saudi-arabia",
+        "police-forces-of-bahrain-1999-prison-guards",
+        "government-of-lebanon-2021",
+        "government-of-bahrain-1999",
+        "government-of-qatar-2013",
+        "government-of-israel-2021-2022",
+        "government-of-saudi-arabia-2015",
+        "military-forces-of-israel-2021-2022-mossad",
+        "government-of-the-united-arab-emirates-2004-2022",
+        "unidentified-armed-group-bahrain",
+        "civilians-china",
+        "police-forces-of-saudi-arabia-2015-presidency-of-state-security",
+        "al-wefaq-national-islamic-society",
+        "islamic-state-saudi-arabia-province-issap"
+    ],
     "community_8": [
         "civilians-palestine",
         "rioters-israel",
@@ -892,6 +883,7 @@
         "private-security-forces-israel",
         "police-forces-of-israel-2022-prison-guards",
         "al-zubaydat-clan-militia-palestine",
+        "military-forces-of-egypt-2014",
         "military-forces-of-israel-2022-golani-brigade",
         "military-forces-of-israel-2021-2022",
         "private-security-forces-palestine",
@@ -900,13 +892,14 @@
         "police-forces-of-israel-2009-2021",
         "unidentified-clan-militia-israel",
         "police-forces-of-israel-2009-2021-prison-guards",
+        "military-forces-of-israel-2009-2021-special-forces",
         "civilians-netherlands",
         "qusra-communal-militia-palestine",
         "islamic-movement-in-israel-northern-branch"
     ],
     "community_9": [
-        "al-ash-shaddad-tribal-militia-yemen",
         "al-awad-tribal-militia-yemen",
+        "al-ash-shaddad-tribal-militia-yemen",
         "salim-bin-daha-tribal-militia-yemen",
         "al-yaslam-tribal-militia-yemen",
         "dhu-muhammad-tribal-militia-yemen",
@@ -915,6 +908,15 @@
         "al-shaqra-tribal-militia-yemen"
     ],
     "community_10": [
+        "protesters-jordan",
+        "police-forces-of-jordan-1999",
+        "unidentified-armed-group-jordan",
+        "rioters-jordan",
+        "civilians-jordan",
+        "unidentified-tribal-militia-jordan",
+        "unidentified-clan-militia-jordan"
+    ],
+    "community_11": [
         "fatah-movement",
         "jund-al-sham-lebanon",
         "al-shabab-al-muslim-palestine",
@@ -922,1016 +924,1016 @@
         "asbat-al-ansar",
         "ansar-allah"
     ],
-    "community_11": [
+    "community_12": [
         "militia-refugeesidps",
         "jaramana-communal-militia-syria",
         "tadaf-communal-militia-syria",
-        "al-ojeil-tribal-militia-syria",
         "andan-communal-militia-syria",
+        "al-ojeil-tribal-militia-syria",
         "al-jawadra-tribal-militia-syria"
     ],
-    "community_12": [
-        "bilharith-tribal-militia-yemen",
+    "community_13": [
         "al-butahif-tribal-militia-yemen",
+        "bilharith-tribal-militia-yemen",
         "al-aqil-tribal-militia-yemen",
         "al-musabin-tribal-militia-yemen",
         "al-hudayb-tribal-militia-yemen"
     ],
-    "community_13": [
+    "community_14": [
         "al-nasr-tribal-militia-yemen",
         "rabiz-tribal-militia-yemen",
-        "sanid-tribal-militia-yemen",
-        "al-al-bahri-tribal-militia-yemen"
-    ],
-    "community_14": [
-        "awad-clan-militia-lebanon",
-        "al-masri-clan-militia-lebanon",
-        "hadara-clan-militia-lebanon"
+        "al-al-bahri-tribal-militia-yemen",
+        "sanid-tribal-militia-yemen"
     ],
     "community_15": [
-        "mirsas-tribal-militia-yemen",
-        "al-dawla-tribal-militia-yemen",
-        "al-lashram-tribal-militia-yemen"
-    ],
-    "community_16": [
-        "abdulzehi-baloch-tribal-militia-iran",
-        "marandegani-baloch-tribal-militia-iran",
-        "shahrsanzehi-baloch-tribal-militia-iran"
-    ],
-    "community_17": [
-        "al-faraj-tribal-militia-syria",
-        "dalim-tribal-militia-syria",
-        "al-kassar-tribal-militia-syria"
-    ],
-    "community_18": [
-        "al-maghlatan-tribal-militia-syria",
-        "al-nasir-tribal-militia-syria",
-        "al-wahab-tribal-militia-syria"
-    ],
-    "community_19": [
-        "al-solh-clan-militia-lebanon",
-        "al-hassan-clan-militia-lebanon",
-        "daher-clan-militia-lebanon"
-    ],
-    "community_20": [
-        "al-khalil-tribal-militia-yemen",
-        "masud-tribal-militia-yemen",
-        "lasfar-masud-tribal-militia-yemen"
-    ],
-    "community_21": [
-        "al-maqariha-tribal-militia-yemen",
-        "al-dayf-allah-tribal-militia-yemen",
-        "an-nisiyin-tribal-militia-yemen"
-    ],
-    "community_22": [
-        "unidentified-communal-militia-lebanon",
-        "tawk-clan-militia-lebanon",
-        "arab-ethnic-militia-lebanon"
-    ],
-    "community_23": [
-        "military-forces-of-yemen-2022-2026-presidential-leadership-council-coast-guard",
-        "private-security-forces-india",
-        "civilians-russia"
-    ],
-    "community_24": [
-        "natuzehi-tribal-militia-iran",
-        "askani-tribal-militia-iran",
-        "balochzehi-tribal-militia-iran"
-    ],
-    "community_25": [
         "al-hatim-tribal-militia-iraq",
         "ettab-tribal-militia-iraq",
         "karagol-tribal-militia-iraq"
     ],
+    "community_16": [
+        "military-forces-of-yemen-2022-2026-presidential-leadership-council-coast-guard",
+        "private-security-forces-india",
+        "civilians-russia"
+    ],
+    "community_17": [
+        "unidentified-communal-militia-lebanon",
+        "tawk-clan-militia-lebanon",
+        "arab-ethnic-militia-lebanon"
+    ],
+    "community_18": [
+        "abdulzehi-baloch-tribal-militia-iran",
+        "marandegani-baloch-tribal-militia-iran",
+        "shahrsanzehi-baloch-tribal-militia-iran"
+    ],
+    "community_19": [
+        "al-maghlatan-tribal-militia-syria",
+        "al-nasir-tribal-militia-syria",
+        "al-wahab-tribal-militia-syria"
+    ],
+    "community_20": [
+        "al-dawla-tribal-militia-yemen",
+        "mirsas-tribal-militia-yemen",
+        "al-lashram-tribal-militia-yemen"
+    ],
+    "community_21": [
+        "natuzehi-tribal-militia-iran",
+        "askani-tribal-militia-iran",
+        "balochzehi-tribal-militia-iran"
+    ],
+    "community_22": [
+        "al-solh-clan-militia-lebanon",
+        "al-hassan-clan-militia-lebanon",
+        "daher-clan-militia-lebanon"
+    ],
+    "community_23": [
+        "al-maqariha-tribal-militia-yemen",
+        "al-dayf-allah-tribal-militia-yemen",
+        "an-nisiyin-tribal-militia-yemen"
+    ],
+    "community_24": [
+        "awad-clan-militia-lebanon",
+        "al-masri-clan-militia-lebanon",
+        "hadara-clan-militia-lebanon"
+    ],
+    "community_25": [
+        "al-faraj-tribal-militia-syria",
+        "dalim-tribal-militia-syria",
+        "al-kassar-tribal-militia-syria"
+    ],
     "community_26": [
+        "al-batut-tribal-militia-iraq",
+        "al-shaheen-tribal-militia-iraq",
+        "al-hamadna-tribal-militia-iraq"
+    ],
+    "community_27": [
         "al-bahaj-tribal-militia-yemen",
         "laswad-tribal-militia-yemen",
         "al-kashmim-tribal-militia-yemen"
     ],
-    "community_27": [
-        "al-shaheen-tribal-militia-iraq",
-        "al-batut-tribal-militia-iraq",
-        "al-hamadna-tribal-militia-iraq"
-    ],
     "community_28": [
-        "bayt-naam-communal-militia-yemen",
-        "al-ghurzah-communal-militia-yemen"
+        "masud-tribal-militia-yemen",
+        "al-khalil-tribal-militia-yemen",
+        "lasfar-masud-tribal-militia-yemen"
     ],
     "community_29": [
-        "al-mashdali-tribal-militia-yemen",
-        "al-dabani-tribal-militia-yemen"
+        "al-berri-tribal-militia-syria",
+        "hamrat-balasim-tribal-militias"
     ],
     "community_30": [
-        "al-hamad-bin-husayn-tribal-militia-yemen",
-        "al-ash-shaybah-tribal-militia-yemen"
+        "al-harash-clan-militia-lebanon",
+        "nashar-clan-militia-lebanon"
     ],
     "community_31": [
-        "baydar-tribal-militia-syria",
-        "lajat-communal-militia-syria"
+        "al-laaush-tribal-militia-yemen",
+        "al-qayed-tribal-militia-yemen"
     ],
     "community_32": [
-        "ali-al-faqih-tribal-militia-yemen",
-        "al-abd-al-hakim-al-hamid-bam-muslim-tribal-militia-yemen"
+        "hasham-tribal-militia-yemen",
+        "al-haddi-tribal-militia-yemen"
     ],
     "community_33": [
-        "al-iwanah-tribal-militia-yemen",
-        "al-abu-badi-tribal-militia-yemen"
+        "al-abadi-tribal-militia-syria",
+        "al-harbiyat-tribal-militia-syria"
     ],
     "community_34": [
-        "al-dohaibi-clan-militia-lebanon",
-        "al-ali-clan-militia-lebanon"
+        "hajam-tribal-militia-iraq",
+        "albu-ziyada-tribal-militia-iraq"
     ],
     "community_35": [
-        "qss-youth-of-sunna-forces",
-        "102nd-brigade"
+        "al-said-bin-ali-tribal-militia-yemen",
+        "al-al-rubaydi-tribal-militia-yemen"
     ],
     "community_36": [
-        "al-asad-clan-militia-syria",
-        "al-deeb-clan-militia-syria"
-    ],
-    "community_37": [
-        "al-al-rawai-tribal-militia-yemen",
-        "al-jabur-tribal-militia-yemen"
-    ],
-    "community_38": [
-        "al-tahir-tribal-militia-yemen",
-        "al-muhanna-tribal-militia-yemen"
-    ],
-    "community_39": [
-        "al-awad-tribal-militia-iraq",
-        "al-sayed-taher-tribal-militia-iraq"
-    ],
-    "community_40": [
-        "al-shuwailat-tribal-militia-iraq",
-        "al-nabhan-tribal-militia-iraq"
-    ],
-    "community_41": [
-        "kab-tribal-militia-iraq",
-        "al-aakili-tribal-militia-iraq"
-    ],
-    "community_42": [
-        "sheyyab-tribal-militia-jordan",
-        "athamneh-tribal-militia-jordan"
-    ],
-    "community_43": [
-        "military-forces-of-sudan-2019",
-        "rapid-support-forces"
-    ],
-    "community_44": [
-        "bani-ahkam-tribal-militia-yemen",
-        "az-zubayrat-tribal-militia-yemen"
-    ],
-    "community_45": [
-        "daghar-tribal-militia-yemen",
-        "al-nakhur-tribal-militia-yemen"
-    ],
-    "community_46": [
-        "bafajish-tribal-militia-yemen",
-        "al-babakri-tribal-militia-yemen"
-    ],
-    "community_47": [
-        "salamah-tribal-militia-yemen",
-        "al-daraq-tribal-militia-yemen"
-    ],
-    "community_48": [
-        "al-al-hatilah-tribal-militia-yemen",
-        "al-an-nuba-tribal-militia-yemen"
-    ],
-    "community_49": [
-        "albu-kareem-tribal-militia-iraq",
-        "albu-ghanim-tribal-militia-iraq"
-    ],
-    "community_50": [
-        "al-haddi-tribal-militia-yemen",
-        "hasham-tribal-militia-yemen"
-    ],
-    "community_51": [
-        "shammar-tribal-militia-iraq",
-        "al-rudiniyya-tribal-militia-iraq"
-    ],
-    "community_52": [
-        "nashar-clan-militia-lebanon",
-        "al-harash-clan-militia-lebanon"
-    ],
-    "community_53": [
-        "al-ghalib-tribal-militia-yemen",
-        "al-jarun-tribal-militia-yemen"
-    ],
-    "community_54": [
-        "al-bess-clan-militia-lebanon",
-        "al-brays-clan-militia-lebanon"
-    ],
-    "community_55": [
-        "haidar-clan-militia-lebanon",
-        "durra-clan-militia-lebanon"
-    ],
-    "community_56": [
-        "al-harbiyat-tribal-militia-syria",
-        "al-abadi-tribal-militia-syria"
-    ],
-    "community_57": [
-        "al-jahish-tribal-militia-syria",
-        "albu-mahna-tribal-militia-syria"
-    ],
-    "community_58": [
-        "al-lahaqad-tribal-militia-yemen",
-        "al-qays-tribal-militia-yemen"
-    ],
-    "community_59": [
-        "al-laaql-tribal-militia-yemen",
-        "al-as-sawaharah-tribal-militia-yemen"
-    ],
-    "community_60": [
-        "hamrat-balasim-tribal-militias",
-        "al-berri-tribal-militia-syria"
-    ],
-    "community_61": [
-        "mansur-tribal-militia-yemen",
-        "al-suraymi-tribal-militia-yemen"
-    ],
-    "community_62": [
-        "al-kharaji-tribal-militia-syria",
-        "beni-khalid-tribal-militia-syria"
-    ],
-    "community_63": [
-        "al-jahl-tribal-militia-iraq",
-        "al-hamid-tribal-militia-iraq"
-    ],
-    "community_64": [
-        "al-al-rubaydi-tribal-militia-yemen",
-        "al-said-bin-ali-tribal-militia-yemen"
-    ],
-    "community_65": [
-        "albu-krit-tribal-militia-syria",
-        "albu-ghram-tribal-militia-syria"
-    ],
-    "community_66": [
-        "al-qaraa-tribal-militia-yemen",
-        "amsidi-tribal-militia-yemen"
-    ],
-    "community_67": [
-        "shokr-clan-militia-lebanon",
-        "chahla-clan-militia-lebanon"
-    ],
-    "community_68": [
-        "al-atwin-tribal-militia-yemen",
-        "al-maamiyah-tribal-militia-yemen"
-    ],
-    "community_69": [
-        "sanjara-tribal-militia-iraq",
-        "bani-hujaim-tribal-militia-iraq"
-    ],
-    "community_70": [
-        "al-al-jawfi-tribal-militia-yemen",
-        "al-khabrani-tribal-militia-yemen"
-    ],
-    "community_71": [
-        "jazia-tribal-militia-yemen",
-        "al-marfad-tribal-militia-yemen"
-    ],
-    "community_72": [
-        "shouman-clan-militia-lebanon",
-        "mazloum-clan-militia-lebanon"
-    ],
-    "community_73": [
-        "al-khublan-tribal-militia-yemen",
-        "dhu-fari-tribal-militia-yemen"
-    ],
-    "community_74": [
-        "national-unity-party",
-        "new-hope"
-    ],
-    "community_75": [
-        "heidarzehi-baloch-tribal-militia-iran",
-        "bahadarzehi-baloch-tribal-militia-iran"
-    ],
-    "community_76": [
-        "jaa-army-of-free-tribes",
-        "southern-hawks-brigade"
-    ],
-    "community_77": [
-        "abu-assi-tribal-militia-syria",
-        "al-rawi-tribal-militia-syria"
-    ],
-    "community_78": [
-        "ash-shahari-tribal-militia-yemen",
-        "ad-dumayni-tribal-militia-yemen"
-    ],
-    "community_79": [
-        "al-hafitha-clan-militia-lebanon",
-        "al-khdour-clan-militia-lebanon"
-    ],
-    "community_80": [
-        "albu-ziyada-tribal-militia-iraq",
-        "hajam-tribal-militia-iraq"
-    ],
-    "community_81": [
-        "al-heri-communal-militia-syria",
-        "al-jaghayfa-tribal-militia-syria"
-    ],
-    "community_82": [
-        "al-al-baudah-tribal-militia-yemen",
-        "baqatimi-tribal-militia-yemen"
-    ],
-    "community_83": [
-        "al-hamid-tribal-militia-yemen",
-        "al-tayouz-tribal-militia-yemen"
-    ],
-    "community_84": [
-        "al-qayed-tribal-militia-yemen",
-        "al-laaush-tribal-militia-yemen"
-    ],
-    "community_85": [
-        "haydarah-tribal-militia-yemen",
-        "al-altawmah-tribal-militia-yemen"
-    ],
-    "community_86": [
-        "ash-shamayah-tribal-militia-yemen",
-        "al-buraymah-tribal-militia-yemen"
-    ],
-    "community_87": [
-        "bayt-al-kahdir-tribal-militia-yemen",
-        "an-najashi-tribal-militia-yemen"
-    ],
-    "community_88": [
-        "bani-abbadi-tribal-militia-yemen",
-        "bani-issa-tribal-militia-yemen"
-    ],
-    "community_89": [
-        "al-silmi-tribal-militia-yemen",
-        "al-ghazzi-tribal-militia-yemen"
-    ],
-    "community_90": [
-        "al-salman-clan-militia-lebanon",
-        "al-nzal-clan-militia-lebanon"
-    ],
-    "community_91": [
-        "al-awatef-tribal-milita-yemen",
-        "al-fatihah-tribal-milita-yemen"
-    ],
-    "community_92": [
-        "al-jaibah-tribal-militia-yemen",
-        "al-arjan-tribal-militia-yemen"
-    ],
-    "community_93": [
-        "shamas-clan-militia-lebanon",
-        "hajj-hassan-clan-militia-lebanon"
-    ],
-    "community_94": [
-        "albu-eilan-tribal-militia-syria",
-        "albu-rahma-tribal-militia-syria"
-    ],
-    "community_95": [
-        "albu-azdin-tribal-militia-syria",
-        "al-boukhalaf-tribal-militia-syria"
-    ],
-    "community_96": [
-        "al-hassasra-tribal-militia-iraq",
-        "al-ziyad-tribal-militia-iraq"
-    ],
-    "community_97": [
-        "ad-dawmar-communal-militia-yemen",
-        "bani-asaad-tribal-militia-yemen"
-    ],
-    "community_98": [
-        "al-hazm-tribal-militia-yemen",
-        "al-kitan-tribal-militia-yemen"
-    ],
-    "community_99": [
-        "raafit-tribal-militia-yemen",
-        "zaabanut-tribal-militia-yemen"
-    ],
-    "community_100": [
-        "al-qaramish-tribal-militia-yemen",
-        "al-hanam-tribal-militia-yemen"
-    ],
-    "community_101": [
         "sabihat-tribal-militia-iraq",
         "al-habib-tribal-militia-iraq"
     ],
-    "community_102": [
-        "al-qadri-tribal-militia-yemen",
-        "al-sharba-tribal-militia-yemen"
+    "community_37": [
+        "mansur-tribal-militia-yemen",
+        "al-suraymi-tribal-militia-yemen"
     ],
-    "community_103": [
+    "community_38": [
+        "az-zubayrat-tribal-militia-yemen",
+        "bani-ahkam-tribal-militia-yemen"
+    ],
+    "community_39": [
+        "al-al-baudah-tribal-militia-yemen",
+        "baqatimi-tribal-militia-yemen"
+    ],
+    "community_40": [
+        "an-najashi-tribal-militia-yemen",
+        "bayt-al-kahdir-tribal-militia-yemen"
+    ],
+    "community_41": [
+        "al-muhanna-tribal-militia-yemen",
+        "al-tahir-tribal-militia-yemen"
+    ],
+    "community_42": [
+        "al-hanam-tribal-militia-yemen",
+        "al-qaramish-tribal-militia-yemen"
+    ],
+    "community_43": [
+        "ali-al-faqih-tribal-militia-yemen",
+        "al-abd-al-hakim-al-hamid-bam-muslim-tribal-militia-yemen"
+    ],
+    "community_44": [
         "tlais-clan-militia-lebanon",
         "ismail-clan-militia-lebanon"
     ],
-    "community_104": [
-        "albu-bakhit-tribal-militia-iraq",
-        "al-nawafil-tribal-militia-iraq"
+    "community_45": [
+        "al-nabhan-tribal-militia-iraq",
+        "al-shuwailat-tribal-militia-iraq"
     ],
-    "community_105": [
-        "al-qiyaz-tribal-militia-syria",
-        "al-sabti-tribal-militia-syria"
+    "community_46": [
+        "al-sabti-tribal-militia-syria",
+        "al-qiyaz-tribal-militia-syria"
     ],
-    "community_106": [
+    "community_47": [
+        "al-brays-clan-militia-lebanon",
+        "al-bess-clan-militia-lebanon"
+    ],
+    "community_48": [
         "al-obaid-hamdan-tribal-militia-yemen",
         "al-shajn-hamdan-tribal-militia-yemen"
     ],
-    "community_107": [
-        "abdullah-dayan-tribal-militia-yemen",
-        "al-saleh-al-dayan-tribal-militia-yemen"
+    "community_49": [
+        "haidar-clan-militia-lebanon",
+        "durra-clan-militia-lebanon"
     ],
-    "community_108": [
-        "al-laqit-tribal-militia-yemen",
-        "al-ishaq-tribal-militia-yemen"
+    "community_50": [
+        "bahadarzehi-baloch-tribal-militia-iran",
+        "heidarzehi-baloch-tribal-militia-iran"
     ],
-    "community_109": [
-        "al-khateeb-tribal-militia-syria",
-        "sweidan-tribal-militia-syria"
+    "community_51": [
+        "al-dohaibi-clan-militia-lebanon",
+        "al-ali-clan-militia-lebanon"
     ],
-    "community_110": [
-        "al-manjidah-tribal-militia-yemen",
-        "jawb-tribal-militia-yemen"
+    "community_52": [
+        "albu-azdin-tribal-militia-syria",
+        "al-boukhalaf-tribal-militia-syria"
     ],
-    "community_111": [
+    "community_53": [
+        "al-rudiniyya-tribal-militia-iraq",
+        "shammar-tribal-militia-iraq"
+    ],
+    "community_54": [
+        "al-hamad-bin-husayn-tribal-militia-yemen",
+        "al-ash-shaybah-tribal-militia-yemen"
+    ],
+    "community_55": [
+        "lajat-communal-militia-syria",
+        "baydar-tribal-militia-syria"
+    ],
+    "community_56": [
+        "al-hamid-tribal-militia-yemen",
+        "al-tayouz-tribal-militia-yemen"
+    ],
+    "community_57": [
+        "al-babakri-tribal-militia-yemen",
+        "bafajish-tribal-militia-yemen"
+    ],
+    "community_58": [
+        "bani-abbadi-tribal-militia-yemen",
+        "bani-issa-tribal-militia-yemen"
+    ],
+    "community_59": [
+        "al-fatihah-tribal-milita-yemen",
+        "al-awatef-tribal-milita-yemen"
+    ],
+    "community_60": [
+        "shamas-clan-militia-lebanon",
+        "hajj-hassan-clan-militia-lebanon"
+    ],
+    "community_61": [
+        "al-an-nuba-tribal-militia-yemen",
+        "al-al-hatilah-tribal-militia-yemen"
+    ],
+    "community_62": [
+        "albu-ghanim-tribal-militia-iraq",
+        "albu-kareem-tribal-militia-iraq"
+    ],
+    "community_63": [
+        "shokr-clan-militia-lebanon",
+        "chahla-clan-militia-lebanon"
+    ],
+    "community_64": [
+        "al-awad-tribal-militia-iraq",
+        "al-sayed-taher-tribal-militia-iraq"
+    ],
+    "community_65": [
+        "al-khublan-tribal-militia-yemen",
+        "dhu-fari-tribal-militia-yemen"
+    ],
+    "community_66": [
         "fatehi-baloch-tribal-militia-iran",
         "narouei-baloch-tribal-militia-iran"
     ],
-    "community_112": [
+    "community_67": [
+        "southern-hawks-brigade",
+        "jaa-army-of-free-tribes"
+    ],
+    "community_68": [
+        "al-rawi-tribal-militia-syria",
+        "abu-assi-tribal-militia-syria"
+    ],
+    "community_69": [
+        "ad-dumayni-tribal-militia-yemen",
+        "ash-shahari-tribal-militia-yemen"
+    ],
+    "community_70": [
+        "al-khdour-clan-militia-lebanon",
+        "al-hafitha-clan-militia-lebanon"
+    ],
+    "community_71": [
+        "al-kharaji-tribal-militia-syria",
+        "beni-khalid-tribal-militia-syria"
+    ],
+    "community_72": [
+        "al-hamid-tribal-militia-iraq",
+        "al-jahl-tribal-militia-iraq"
+    ],
+    "community_73": [
+        "rapid-support-forces",
+        "military-forces-of-sudan-2019"
+    ],
+    "community_74": [
+        "al-qays-tribal-militia-yemen",
+        "al-lahaqad-tribal-militia-yemen"
+    ],
+    "community_75": [
+        "al-ghurzah-communal-militia-yemen",
+        "bayt-naam-communal-militia-yemen"
+    ],
+    "community_76": [
+        "daghar-tribal-militia-yemen",
+        "al-nakhur-tribal-militia-yemen"
+    ],
+    "community_77": [
+        "haydarah-tribal-militia-yemen",
+        "al-altawmah-tribal-militia-yemen"
+    ],
+    "community_78": [
+        "al-buraymah-tribal-militia-yemen",
+        "ash-shamayah-tribal-militia-yemen"
+    ],
+    "community_79": [
+        "al-jabur-tribal-militia-yemen",
+        "al-al-rawai-tribal-militia-yemen"
+    ],
+    "community_80": [
+        "al-laaql-tribal-militia-yemen",
+        "al-as-sawaharah-tribal-militia-yemen"
+    ],
+    "community_81": [
+        "al-silmi-tribal-militia-yemen",
+        "al-ghazzi-tribal-militia-yemen"
+    ],
+    "community_82": [
+        "al-salman-clan-militia-lebanon",
+        "al-nzal-clan-militia-lebanon"
+    ],
+    "community_83": [
+        "salamah-tribal-militia-yemen",
+        "al-daraq-tribal-militia-yemen"
+    ],
+    "community_84": [
+        "al-jaibah-tribal-militia-yemen",
+        "al-arjan-tribal-militia-yemen"
+    ],
+    "community_85": [
+        "al-heri-communal-militia-syria",
+        "al-jaghayfa-tribal-militia-syria"
+    ],
+    "community_86": [
+        "albu-bakhit-tribal-militia-iraq",
+        "al-nawafil-tribal-militia-iraq"
+    ],
+    "community_87": [
+        "albu-krit-tribal-militia-syria",
+        "albu-ghram-tribal-militia-syria"
+    ],
+    "community_88": [
+        "albu-eilan-tribal-militia-syria",
+        "albu-rahma-tribal-militia-syria"
+    ],
+    "community_89": [
+        "al-hassasra-tribal-militia-iraq",
+        "al-ziyad-tribal-militia-iraq"
+    ],
+    "community_90": [
+        "ad-dawmar-communal-militia-yemen",
+        "bani-asaad-tribal-militia-yemen"
+    ],
+    "community_91": [
+        "al-kitan-tribal-militia-yemen",
+        "al-hazm-tribal-militia-yemen"
+    ],
+    "community_92": [
+        "zaabanut-tribal-militia-yemen",
+        "raafit-tribal-militia-yemen"
+    ],
+    "community_93": [
+        "al-qaraa-tribal-militia-yemen",
+        "amsidi-tribal-militia-yemen"
+    ],
+    "community_94": [
+        "al-maamiyah-tribal-militia-yemen",
+        "al-atwin-tribal-militia-yemen"
+    ],
+    "community_95": [
+        "al-qadri-tribal-militia-yemen",
+        "al-sharba-tribal-militia-yemen"
+    ],
+    "community_96": [
+        "al-asad-clan-militia-syria",
+        "al-deeb-clan-militia-syria"
+    ],
+    "community_97": [
+        "bani-hujaim-tribal-militia-iraq",
+        "sanjara-tribal-militia-iraq"
+    ],
+    "community_98": [
+        "al-al-jawfi-tribal-militia-yemen",
+        "al-khabrani-tribal-militia-yemen"
+    ],
+    "community_99": [
+        "al-jarun-tribal-militia-yemen",
+        "al-ghalib-tribal-militia-yemen"
+    ],
+    "community_100": [
+        "al-abu-badi-tribal-militia-yemen",
+        "al-iwanah-tribal-militia-yemen"
+    ],
+    "community_101": [
+        "al-mashdali-tribal-militia-yemen",
+        "al-dabani-tribal-militia-yemen"
+    ],
+    "community_102": [
+        "al-marfad-tribal-militia-yemen",
+        "jazia-tribal-militia-yemen"
+    ],
+    "community_103": [
+        "al-saleh-al-dayan-tribal-militia-yemen",
+        "abdullah-dayan-tribal-militia-yemen"
+    ],
+    "community_104": [
+        "shouman-clan-militia-lebanon",
+        "mazloum-clan-militia-lebanon"
+    ],
+    "community_105": [
+        "al-jahish-tribal-militia-syria",
+        "albu-mahna-tribal-militia-syria"
+    ],
+    "community_106": [
+        "al-aakili-tribal-militia-iraq",
+        "kab-tribal-militia-iraq"
+    ],
+    "community_107": [
+        "al-ishaq-tribal-militia-yemen",
+        "al-laqit-tribal-militia-yemen"
+    ],
+    "community_108": [
+        "sweidan-tribal-militia-syria",
+        "al-khateeb-tribal-militia-syria"
+    ],
+    "community_109": [
+        "jawb-tribal-militia-yemen",
+        "al-manjidah-tribal-militia-yemen"
+    ],
+    "community_110": [
+        "national-unity-party",
+        "new-hope"
+    ],
+    "community_111": [
         "zengik-tribal-militia-iran",
         "moqaddamzadeh-tribal-militia-iran"
     ],
-    "community_113": [
+    "community_112": [
         "shehiki-baloch-tribal-militia-iran",
         "shahkarmzehi-baloch-tribal-militia-iran"
     ],
-    "community_114": [
+    "community_113": [
         "javshiri-tribal-militia-iran",
         "zeinoddini-tribal-militia-iran"
     ],
+    "community_114": [
+        "qss-youth-of-sunna-forces",
+        "102nd-brigade"
+    ],
     "community_115": [
-        "al-juwaibar-tribal-militia-iraq"
+        "sheyyab-tribal-militia-jordan",
+        "athamneh-tribal-militia-jordan"
     ],
     "community_116": [
-        "protesters-qatar"
+        "al-juwaibar-tribal-militia-iraq"
     ],
     "community_117": [
-        "al-daae-party"
+        "protesters-qatar"
     ],
     "community_118": [
-        "al-maqrai-tribal-militia-yemen"
+        "al-daae-party"
     ],
     "community_119": [
-        "shahba-communal-militia-syria"
+        "al-maqrai-tribal-militia-yemen"
     ],
     "community_120": [
-        "protesters-united-arab-emirates"
+        "shahba-communal-militia-syria"
     ],
     "community_121": [
-        "dweir-communal-militia-syria"
+        "protesters-united-arab-emirates"
     ],
     "community_122": [
-        "protesters-afghanistan"
+        "dweir-communal-militia-syria"
     ],
     "community_123": [
-        "rashid-communal-militia-syria"
+        "protesters-afghanistan"
     ],
     "community_124": [
-        "protesters-oman"
+        "rashid-communal-militia-syria"
     ],
     "community_125": [
-        "al-mayadin-communal-militia-syria"
+        "protesters-oman"
     ],
     "community_126": [
-        "kishkiya-communal-militia-syria"
+        "al-mayadin-communal-militia-syria"
     ],
     "community_127": [
-        "unidentified-communal-militia-iraq"
+        "kishkiya-communal-militia-syria"
     ],
     "community_128": [
-        "saju-communal-militia-syria"
+        "unidentified-communal-militia-iraq"
     ],
     "community_129": [
-        "protesters-kuwait"
+        "saju-communal-militia-syria"
     ],
     "community_130": [
-        "eastern-jurdi-communal-militia-syria"
+        "protesters-kuwait"
     ],
     "community_131": [
-        "qasiba-communal-militia-syria"
+        "eastern-jurdi-communal-militia-syria"
     ],
     "community_132": [
-        "sfireh-tahtani-communal-militia-syria"
+        "qasiba-communal-militia-syria"
     ],
     "community_133": [
-        "al-junaynah-communal-militia-syria"
+        "sfireh-tahtani-communal-militia-syria"
     ],
     "community_134": [
-        "bedouins-tribal-militia-syria"
+        "al-junaynah-communal-militia-syria"
     ],
     "community_135": [
-        "hajin-communal-militia-syria"
+        "bedouins-tribal-militia-syria"
     ],
     "community_136": [
-        "unidentified-clan-militia-palestine"
+        "hajin-communal-militia-syria"
     ],
     "community_137": [
-        "gharanij-tribal-militia-syria"
+        "unidentified-clan-militia-palestine"
     ],
     "community_138": [
-        "military-forces-of-kuwait-2020"
+        "gharanij-tribal-militia-syria"
     ],
     "community_139": [
-        "jadal-communal-militia-syria"
+        "military-forces-of-kuwait-2020"
     ],
     "community_140": [
-        "al-qazaah-tribal-militia-yemen"
+        "jadal-communal-militia-syria"
     ],
     "community_141": [
-        "military-forces-of-syria-2000-2024-9th-armored-division"
+        "al-qazaah-tribal-militia-yemen"
     ],
     "community_142": [
-        "rioters-international"
+        "military-forces-of-syria-2000-2024-9th-armored-division"
     ],
     "community_143": [
-        "military-forces-of-germany-2021-2025"
+        "rioters-international"
     ],
     "community_144": [
-        "tihama-resistance"
+        "military-forces-of-germany-2021-2025"
     ],
     "community_145": [
-        "tawadifah-tribal-militia-syria"
+        "tihama-resistance"
     ],
     "community_146": [
-        "tevgeri-azadi"
+        "tawadifah-tribal-militia-syria"
     ],
     "community_147": [
-        "aleppo-communal-militia-syria"
+        "tevgeri-azadi"
     ],
     "community_148": [
-        "sbeikhan-communal-militia-syria"
+        "aleppo-communal-militia-syria"
     ],
     "community_149": [
-        "al-baras-tribal-militia-yemen"
+        "sbeikhan-communal-militia-syria"
     ],
     "community_150": [
-        "kab-baath-brigades"
+        "al-baras-tribal-militia-yemen"
     ],
     "community_151": [
-        "hssein-communal-militia-syria"
+        "kab-baath-brigades"
     ],
     "community_152": [
-        "al-muwali-tribal-militia-syria"
+        "hssein-communal-militia-syria"
     ],
     "community_153": [
-        "dashishah-communal-militia-syria"
+        "al-muwali-tribal-militia-syria"
     ],
     "community_154": [
-        "kafra-communal-militia-syria"
+        "dashishah-communal-militia-syria"
     ],
     "community_155": [
-        "hamrat-nasir-communal-militia-syria"
+        "kafra-communal-militia-syria"
     ],
     "community_156": [
-        "hamrat-jumaysah-communal-militia-syria"
+        "hamrat-nasir-communal-militia-syria"
     ],
     "community_157": [
-        "hreiji-communal-militia-syria"
+        "hamrat-jumaysah-communal-militia-syria"
     ],
     "community_158": [
-        "zayadiyeh-communal-militia-syria"
+        "hreiji-communal-militia-syria"
     ],
     "community_159": [
-        "ar-raqqa-communal-militia-syria"
+        "zayadiyeh-communal-militia-syria"
     ],
     "community_160": [
-        "mansura-communal-militia-syria"
+        "ar-raqqa-communal-militia-syria"
     ],
     "community_161": [
-        "hazano-communal-militia-syria"
+        "mansura-communal-militia-syria"
     ],
     "community_162": [
-        "dimo-communal-militia-syria"
+        "hazano-communal-militia-syria"
     ],
     "community_163": [
-        "al-jamiliya-tribal-militia-iraq"
+        "dimo-communal-militia-syria"
     ],
     "community_164": [
-        "al-tabqa-communal-militia-syria"
+        "al-jamiliya-tribal-militia-iraq"
     ],
     "community_165": [
-        "shuhada-badr"
+        "al-tabqa-communal-militia-syria"
     ],
     "community_166": [
-        "muntasr-billah-battalion"
+        "shuhada-badr"
     ],
     "community_167": [
-        "supreme-popular-resistance-council"
+        "muntasr-billah-battalion"
     ],
     "community_168": [
-        "arna-communal-militia-syria"
+        "supreme-popular-resistance-council"
     ],
     "community_169": [
-        "zayzun-communal-militia-syria"
+        "arna-communal-militia-syria"
     ],
     "community_170": [
-        "ambiya-communial-militia-syria"
+        "zayzun-communal-militia-syria"
     ],
     "community_171": [
-        "jizeh-communal-militia-syria"
+        "ambiya-communial-militia-syria"
     ],
     "community_172": [
-        "azaz-communal-militia-syria"
+        "jizeh-communal-militia-syria"
     ],
     "community_173": [
-        "quamishli-communal-militia-syria"
+        "azaz-communal-militia-syria"
     ],
     "community_174": [
-        "government-of-denmark-2019"
+        "quamishli-communal-militia-syria"
     ],
     "community_175": [
-        "menbij-communal-militia-syria"
+        "government-of-denmark-2019"
     ],
     "community_176": [
-        "aziziyeh-communal-militia-syria"
+        "menbij-communal-militia-syria"
     ],
     "community_177": [
-        "al-bukhamiss-tribal-militia-syria"
+        "aziziyeh-communal-militia-syria"
     ],
     "community_178": [
-        "ariqa-communal-militia-syria"
+        "al-bukhamiss-tribal-militia-syria"
     ],
     "community_179": [
-        "imam-ali-brigades-syria"
+        "ariqa-communal-militia-syria"
     ],
     "community_180": [
-        "military-forces-of-syria-2000-2024-11th-armored-division"
+        "imam-ali-brigades-syria"
     ],
     "community_181": [
-        "shabwah-people-alliance"
+        "military-forces-of-syria-2000-2024-11th-armored-division"
     ],
     "community_182": [
-        "um-hojairah-communal-militia-syria"
+        "shabwah-people-alliance"
     ],
     "community_183": [
-        "basira-communal-militia-syria"
+        "um-hojairah-communal-militia-syria"
     ],
     "community_184": [
-        "ankhel-communal-militia-syria"
+        "basira-communal-militia-syria"
     ],
     "community_185": [
-        "fakheth-al-lyat-tribal-militia-syria"
+        "ankhel-communal-militia-syria"
     ],
     "community_186": [
-        "jaghayfa-clan-militia-iraq"
+        "fakheth-al-lyat-tribal-militia-syria"
     ],
     "community_187": [
-        "western-jurdi-communal-militia-syria"
+        "jaghayfa-clan-militia-iraq"
     ],
     "community_188": [
-        "mare-communal-militia-syria"
+        "western-jurdi-communal-militia-syria"
     ],
     "community_189": [
-        "mashekh-communal-militia-syria"
+        "mare-communal-militia-syria"
     ],
     "community_190": [
-        "al-maghashghash-tribal-militia-iraq"
+        "mashekh-communal-militia-syria"
     ],
     "community_191": [
-        "hadramawt-national-council"
+        "al-maghashghash-tribal-militia-iraq"
     ],
     "community_192": [
-        "al-zuhairia-tribal-militia-iraq"
+        "hadramawt-national-council"
     ],
     "community_193": [
-        "government-of-iraq-2022-2026-kurdistan-regional-government"
+        "al-zuhairia-tribal-militia-iraq"
     ],
     "community_194": [
-        "protesters-ukraine"
+        "government-of-iraq-2022-2026-kurdistan-regional-government"
     ],
     "community_195": [
-        "foreign-military-forces"
+        "protesters-ukraine"
     ],
     "community_196": [
-        "shafa-communal-militia-syria"
+        "foreign-military-forces"
     ],
     "community_197": [
-        "buferio-tribal-militia-syria"
+        "shafa-communal-militia-syria"
     ],
     "community_198": [
-        "kataib-sabireen"
+        "buferio-tribal-militia-syria"
     ],
     "community_199": [
-        "pflp-gc-popular-front-for-the-liberation-of-palestine-general-command"
+        "kataib-sabireen"
     ],
     "community_200": [
-        "baghuz-communal-militia-syria"
+        "pflp-gc-popular-front-for-the-liberation-of-palestine-general-command"
     ],
     "community_201": [
-        "al-hawatem-tribal-militia-iraq"
+        "baghuz-communal-militia-syria"
     ],
     "community_202": [
-        "bani-zaid-tribal-militia-iraq"
+        "al-hawatem-tribal-militia-iraq"
     ],
     "community_203": [
-        "al-afadilah-tribal-militia-syria"
+        "bani-zaid-tribal-militia-iraq"
     ],
     "community_204": [
-        "protesters-sudan"
+        "al-afadilah-tribal-militia-syria"
     ],
     "community_205": [
-        "al-maktab-tribal-militia-yemen"
+        "protesters-sudan"
     ],
     "community_206": [
-        "al-jawarayn-tribal-militia-iraq"
+        "al-maktab-tribal-militia-yemen"
     ],
     "community_207": [
-        "al-mahimid-clan-militia-syria"
+        "al-jawarayn-tribal-militia-iraq"
     ],
     "community_208": [
-        "mhemideh-tribal-militia-syria"
+        "al-mahimid-clan-militia-syria"
     ],
     "community_209": [
-        "mhemideh-communal-militia-syria"
+        "mhemideh-tribal-militia-syria"
     ],
     "community_210": [
-        "military-forces-of-denmark-2019"
+        "mhemideh-communal-militia-syria"
     ],
     "community_211": [
-        "jadid-bakkara-communal-militia-syria"
+        "military-forces-of-denmark-2019"
     ],
     "community_212": [
-        "dael-communal-militia-syria"
+        "jadid-bakkara-communal-militia-syria"
     ],
     "community_213": [
-        "shahabat-tribal-militia-syria"
+        "dael-communal-militia-syria"
     ],
     "community_214": [
-        "erbil-communal-militia-iraq"
+        "shahabat-tribal-militia-syria"
     ],
     "community_215": [
-        "hawayej-bumasaa-communal-militia-syria"
+        "erbil-communal-militia-iraq"
     ],
     "community_216": [
-        "hamadah-clan-militia-lebanon"
+        "hawayej-bumasaa-communal-militia-syria"
     ],
     "community_217": [
-        "abtaa-communal-militia-syria"
+        "hamadah-clan-militia-lebanon"
     ],
     "community_218": [
-        "battalion-of-martyr-omar-abu-laila"
+        "abtaa-communal-militia-syria"
     ],
     "community_219": [
-        "bani-said-tribal-militia-iraq"
+        "battalion-of-martyr-omar-abu-laila"
     ],
     "community_220": [
-        "protesters-sierra-leone"
+        "bani-said-tribal-militia-iraq"
     ],
     "community_221": [
-        "tal-brak-communal-militia-syria"
+        "protesters-sierra-leone"
     ],
     "community_222": [
-        "al-kalabeen-tribal-militia-syria"
+        "tal-brak-communal-militia-syria"
     ],
     "community_223": [
-        "military-authority-of-the-southern-army-and-security-of-al-mahrah"
+        "al-kalabeen-tribal-militia-syria"
     ],
     "community_224": [
-        "salhabiya-communal-militia-syria"
+        "military-authority-of-the-southern-army-and-security-of-al-mahrah"
     ],
     "community_225": [
-        "rashidiya-communal-militia-syria"
+        "salhabiya-communal-militia-syria"
     ],
     "community_226": [
-        "al-muzan-tribal-militia-iraq"
+        "rashidiya-communal-militia-syria"
     ],
     "community_227": [
-        "al-breij-tribal-militia-syria"
+        "al-muzan-tribal-militia-iraq"
     ],
     "community_228": [
-        "pyd-kurdish-democratic-union-party"
+        "al-breij-tribal-militia-syria"
     ],
     "community_229": [
-        "lebanese-phalanges-party"
+        "pyd-kurdish-democratic-union-party"
     ],
     "community_230": [
-        "military-forces-of-syria-2000-2024-12th-armored-brigade"
+        "lebanese-phalanges-party"
     ],
     "community_231": [
-        "al-nakhain-dhalaah-tribal-militia-yemen"
+        "military-forces-of-syria-2000-2024-12th-armored-brigade"
     ],
     "community_232": [
-        "balad-national-democratic-assembly"
+        "al-nakhain-dhalaah-tribal-militia-yemen"
     ],
     "community_233": [
-        "imam-ali-brigades-iraq"
+        "balad-national-democratic-assembly"
     ],
     "community_234": [
-        "al-jalal-tribal-militia-yemen"
+        "imam-ali-brigades-iraq"
     ],
     "community_235": [
-        "military-and-security-authority-of-al-mahrah"
+        "al-jalal-tribal-militia-yemen"
     ],
     "community_236": [
-        "military-forces-of-the-united-states-2021-marine-corps"
+        "military-and-security-authority-of-al-mahrah"
     ],
     "community_237": [
-        "ashbah-al-sahra"
+        "military-forces-of-the-united-states-2021-marine-corps"
     ],
     "community_238": [
-        "mda-deir-ez-zor-military-council"
+        "ashbah-al-sahra"
     ],
     "community_239": [
-        "fateh-khaybar-brigade"
+        "mda-deir-ez-zor-military-council"
     ],
     "community_240": [
-        "kataib-al-muhandis-iraq"
+        "fateh-khaybar-brigade"
     ],
     "community_241": [
-        "azim-operation-room"
+        "kataib-al-muhandis-iraq"
     ],
     "community_242": [
-        "thaeroun-movement"
+        "azim-operation-room"
     ],
     "community_243": [
-        "military-forces-of-qatar-2013"
+        "thaeroun-movement"
     ],
     "community_244": [
-        "haj-qassim-soleimani"
+        "military-forces-of-qatar-2013"
     ],
     "community_245": [
-        "katiba-al-sabiqun"
+        "haj-qassim-soleimani"
     ],
     "community_246": [
-        "kahol-lavan-blue-and-white"
+        "katiba-al-sabiqun"
     ],
     "community_247": [
-        "government-of-kuwait-2006-2020"
+        "kahol-lavan-blue-and-white"
     ],
     "community_248": [
-        "military-forces-of-sudan-2019-2023-rapid-support-forces"
+        "government-of-kuwait-2006-2020"
     ],
     "community_249": [
-        "imam-bukhari-battalion"
+        "military-forces-of-sudan-2019-2023-rapid-support-forces"
     ],
     "community_250": [
-        "fathbatou-operation-room"
+        "imam-bukhari-battalion"
     ],
     "community_251": [
-        "soqotri-tribal-militia-yemen"
+        "fathbatou-operation-room"
     ],
     "community_252": [
-        "al-sabah-tribal-militia-yemen"
+        "soqotri-tribal-militia-yemen"
     ],
     "community_253": [
-        "who-world-health-organization"
+        "al-sabah-tribal-militia-yemen"
     ],
     "community_254": [
-        "wfp-world-food-programme"
+        "who-world-health-organization"
     ],
     "community_255": [
-        "military-forces-of-the-czech-republic-2018-2021"
+        "wfp-world-food-programme"
     ],
     "community_256": [
-        "government-of-iraq-2018-2020-kurdistan-regional-government"
+        "military-forces-of-the-czech-republic-2018-2021"
     ],
     "community_257": [
-        "al-hurayz-tribal-militia-yemen"
+        "government-of-iraq-2018-2020-kurdistan-regional-government"
     ],
     "community_258": [
-        "government-of-oman-1970-2020"
+        "al-hurayz-tribal-militia-yemen"
     ],
     "community_259": [
-        "military-forces-of-iraq-2018-2020-peshmerga"
+        "government-of-oman-1970-2020"
     ],
     "community_260": [
-        "government-of-lebanon-2019-2020"
+        "military-forces-of-iraq-2018-2020-peshmerga"
     ],
     "community_261": [
-        "military-forces-of-israel-2009-2021-golani-brigade"
+        "government-of-lebanon-2019-2020"
     ],
     "community_262": [
-        "yemeni-socialist-party"
+        "military-forces-of-israel-2009-2021-golani-brigade"
     ],
     "community_263": [
-        "police-forces-of-jordan-1999-gendarmerie"
+        "yemeni-socialist-party"
     ],
     "community_264": [
-        "jsh-free-syrian-army-liwa-al-qadissyah"
+        "police-forces-of-jordan-1999-gendarmerie"
     ],
     "community_265": [
-        "government-of-the-netherlands-2010-2024"
+        "jsh-free-syrian-army-liwa-al-qadissyah"
     ],
     "community_266": [
-        "military-forces-of-syria-2000-2024-30th-division"
+        "government-of-the-netherlands-2010-2024"
     ],
     "community_267": [
-        "armlp-arab-resistance-movement-to-liberate-palestine"
+        "military-forces-of-syria-2000-2024-30th-division"
     ],
     "community_268": [
-        "mutiny-of-ypg-peoples-protection-units"
+        "armlp-arab-resistance-movement-to-liberate-palestine"
     ],
     "community_269": [
-        "ypg-peoples-protection-units-special-task-forces"
+        "mutiny-of-ypg-peoples-protection-units"
     ],
     "community_270": [
-        "maaret-harma-military-council"
+        "ypg-peoples-protection-units-special-task-forces"
     ],
     "community_271": [
-        "shuhadaa-al-sharqiyyah-division"
+        "maaret-harma-military-council"
     ],
     "community_272": [
-        "syriac-security-office-syria"
+        "shuhadaa-al-sharqiyyah-division"
     ],
     "community_273": [
-        "undof-united-nations-disengagement-observer-force-1974"
+        "syriac-security-office-syria"
     ],
     "community_274": [
-        "jaysh-fatah-al-jadid"
+        "undof-united-nations-disengagement-observer-force-1974"
     ],
     "community_275": [
-        "military-forces-of-syria-2000-2024-taha-group"
+        "jaysh-fatah-al-jadid"
     ],
     "community_276": [
-        "jaysh-al-janub"
+        "military-forces-of-syria-2000-2024-taha-group"
     ],
     "community_277": [
-        "military-forces-of-malaysia-2018-2020"
+        "jaysh-al-janub"
     ],
     "community_278": [
-        "the-south-central-operations-room"
+        "military-forces-of-malaysia-2018-2020"
     ],
     "community_279": [
-        "popular-clannish-resistance"
+        "the-south-central-operations-room"
     ],
     "community_280": [
-        "jaysh-al-inqaz"
+        "popular-clannish-resistance"
     ],
     "community_281": [
-        "mutiny-of-far-al-rahman-corps"
+        "jaysh-al-inqaz"
     ],
     "community_282": [
-        "future-syria-party"
+        "mutiny-of-far-al-rahman-corps"
     ],
     "community_283": [
-        "military-forces-of-syria-2000-2024-7th-armored-division"
+        "future-syria-party"
     ],
     "community_284": [
-        "sanadid-al-jazeera-shield"
+        "military-forces-of-syria-2000-2024-7th-armored-division"
     ],
     "community_285": [
-        "military-forces-of-yemen-2017-houthi-republican-guard"
+        "sanadid-al-jazeera-shield"
     ],
     "community_286": [
-        "mfs-syriac-military-council"
+        "military-forces-of-yemen-2017-houthi-republican-guard"
     ],
     "community_287": [
-        "rad-al-toghan"
+        "mfs-syriac-military-council"
     ],
     "community_288": [
-        "government-of-lebanon-2016-2019"
+        "rad-al-toghan"
     ],
     "community_289": [
-        "tribes-army"
+        "government-of-lebanon-2016-2019"
     ],
     "community_290": [
-        "hazmiyoon"
+        "tribes-army"
     ],
     "community_291": [
-        "white-flags"
+        "hazmiyoon"
     ],
     "community_292": [
-        "htw-national-liberation-movement"
+        "white-flags"
     ],
     "community_293": [
-        "mutiny-of-sultan-murad-division"
+        "htw-national-liberation-movement"
     ],
     "community_294": [
-        "government-of-iraq-2014-2018"
+        "mutiny-of-sultan-murad-division"
     ],
     "community_295": [
-        "militia-bilal-arqoub"
+        "government-of-iraq-2014-2018"
     ],
     "community_296": [
-        "jaysh-hama"
+        "militia-bilal-arqoub"
     ],
     "community_297": [
-        "southern-front"
+        "jaysh-hama"
     ],
     "community_298": [
-        "eastern-shield-army"
+        "southern-front"
     ],
     "community_299": [
-        "islamist-militia-yemen"
+        "eastern-shield-army"
     ],
     "community_300": [
-        "elad"
+        "islamist-militia-yemen"
     ],
     "community_301": [
-        "militia-abu-hamza"
+        "elad"
     ],
     "community_302": [
-        "government-of-iraq-2014-2018-kurdistan-regional-government"
+        "militia-abu-hamza"
     ],
     "community_303": [
-        "government-of-turkey-2002-2016"
+        "government-of-iraq-2014-2018-kurdistan-regional-government"
     ],
     "community_304": [
-        "operation-decisive-storm"
+        "government-of-turkey-2002-2016"
     ],
     "community_305": [
+        "operation-decisive-storm"
+    ],
+    "community_306": [
         "national-salvation-alliance"
     ]
 }
