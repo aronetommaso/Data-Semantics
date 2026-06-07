@@ -74,8 +74,9 @@ Metriche di Validazione:
   - Condotta Media: 0.0134 (Comunità isolate, "silos" geopolitici perfetti)
 
 Senza alcuna conoscenza geografica pregressa, Leiden ha isolato con precisione 
-quasi assoluta i teatri nazionali reali (es. Comunità 0 = Siria, Comunità 1 = 
-Yemen). L'output è salvato in `leiden_communities.json`.
+quasi assoluta i teatri nazionali reali, ottimizzando il partizionamento in 
+17 macro-comunità dense e semanticamente coerenti. L'output è salvato in 
+`leiden_graphrag_report_input.json`.
 
 
 ================================================================================
@@ -85,9 +86,9 @@ Yemen). L'output è salvato in `leiden_communities.json`.
 Script: 03_build_reports.py
 Modello LLM: Gemini 2.5 Flash (Google AI Studio - Tier Pay-as-you-go)
 
-Avendo comunità macroscopiche (es. oltre 18.000 eventi storici per la Siria, 
-estesi per 9 anni), il progetto implementa una sofisticata pipeline di data 
-engineering pre-LLM, strutturata in 4 passaggi chiave:
+Avendo 17 macro-comunità strutturate (alcune contenenti decine di migliaia di 
+eventi storici estesi per 9 anni), il progetto implementa una sofisticata 
+pipeline di data engineering pre-LLM, strutturata in 4 passaggi chiave:
 
   1. Calcolo Metriche Deterministiche (Pandas):
      Prima di invocare l'LLM, lo script calcola matematicamente tre punteggi 
@@ -137,7 +138,7 @@ accademici, perfetti per la fase successiva di retrieval.
                  │                                       │
       02_leiden_communities.py                           │
                  │                                       │
-      leiden_communities.json                            │
+      leiden_graphrag_report_input.json                  │
       (Cluster Topologici)                               │
                  │                                       │
                  └───────────────────┬───────────────────┘
@@ -157,8 +158,8 @@ accademici, perfetti per la fase successiva di retrieval.
 ================================================================================
 
 STEP 1 — Generazione Report (Completata/In corso)
-  Esecuzione massiva di `03_build_reports.py` con gestione robusta degli errori 
-  (Exponential Backoff) e checkpointing.
+  Esecuzione massiva di `03_build_reports.py` sulle 17 macro-comunità, con 
+  gestione robusta degli errori (Exponential Backoff) e checkpointing.
 
 STEP 2 — Costruzione Interfaccia Query (04_global_search.py)
   Sviluppare l'interfaccia utente finale in cui:
@@ -177,17 +178,17 @@ STEP 3 — NER su 'notes' per arricchimento KG (Fase futura avanzata)
 ================================================================================
 
   /
-  ├── 01_build_kg.py                # Preprocessing e Materializzazione KG
-  ├── 02_leiden_communities.py      # Estrazione GraphDB + Algoritmo Leiden
-  ├── 03_build_reports.py           # Sub-sampling, Metriche e API Gemini
-  ├── acled_ontologyCle.ttl         # Ontologia OWL (schema del KG)
-  ├── acled_kg.ttl                  # Knowledge Graph materializzato (NON in repo)
-  ├── leiden_communities.json       # Output dei cluster topologici
-  ├── .env.txt                      # Chiavi API (NON in repo)
-  ├── events.csv                    # Dati puliti (Eventi e Notes)
-  ├── actors.csv                    # Dati puliti (Anagrafica Attori)
-  ├── community_reports/            # Output LLM in Markdown (NON in repo)
-  └── acled_leiden_network.gexf     # Esportazione rete per Gephi
+  ├── 01_build_kg.py                     # Preprocessing e Materializzazione KG
+  ├── 02_leiden_communities.py           # Estrazione GraphDB + Algoritmo Leiden
+  ├── 03_build_reports.py                # Sub-sampling, Metriche e API Gemini
+  ├── acled_ontologyCle.ttl              # Ontologia OWL (schema del KG)
+  ├── acled_kg.ttl                       # Knowledge Graph materializzato (NON in repo)
+  ├── leiden_graphrag_report_input.json  # Output dei cluster topologici (17 macro-comunità)
+  ├── .env.txt                           # Chiavi API (NON in repo)
+  ├── events.csv                         # Dati puliti (Eventi e Notes)
+  ├── actors.csv                         # Dati puliti (Anagrafica Attori)
+  ├── community_reports/                 # Output LLM in Markdown (NON in repo)
+  └── acled_leiden_network.gexf          # Esportazione rete per Gephi
 
 ================================================================================
   Fine documento
