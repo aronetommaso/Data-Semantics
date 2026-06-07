@@ -1,0 +1,27 @@
+
+╔══════════════════════════════════════════════════════════╗
+║         ACLED KG Builder — Report Finale                 ║
+╠══════════════════════════════════════════════════════════╣
+║  Tempo di esecuzione :   18.0s
+║  File output         : /Users/CleliaMeloni/Desktop/Data-Semantics/cle/acled_kg.ttl
+║  Dimensione file     : 109.99 MB
+║
+║  Entità processate
+║    Paesi             :       15
+║    Attori            :    1,323
+║    Eventi            :   91,893
+║    Coppie evt-fonte  :  157,173
+║    Fonti uniche      :      810
+║
+║  Triple prodotte
+║    Da countries.csv  :       45
+║    Da actors.csv     :    2,646
+║    Da events.csv     : 1,274,130
+║    Da sources.csv    :  158,793
+║    ──────────────────────────────────────
+║    TOTALE            : 1,435,614
+║
+║  Note
+║    Eventi senza actor2  :  36,809
+║    Date malformate      :       0
+╚══════════════════════════════════════════════════════════╝
