@@ -30,7 +30,7 @@ if not env_path.exists():
 load_dotenv(dotenv_path=env_path)
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-GRAPHDB_REPO_URL = os.getenv("GRAPHDB_REPO_URL", "http://localhost:7200/repositories/acled-kg")
+GRAPHDB_REPO_URL = os.getenv("GRAPHDB_REPO_URL", "http://localhost:7200/repositories/MiddleEastConflict")
 
 if not GROQ_API_KEY:
     raise ValueError("GROQ_API_KEY not found in .env")
