@@ -21,7 +21,7 @@ import time
 import requests
 from dotenv import load_dotenv
 
-from router import GROQ_API_KEY, GROQ_API_URL, _load_sparql_module, route_question
+from router import GROQ_API_URL, load_sparql_module, require_groq_api_key, route_question
 from graphrag_terminal import GraphRAGAnswerer, GraphRAGConfig
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -32,6 +32,9 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 DEFAULT_DATASET = SCRIPT_DIR / "evaluation_dataset.json"
 DEFAULT_RESULTS = SCRIPT_DIR / "evaluation_results.json"
 JUDGE_MODEL = "llama-3.3-70b-versatile"
+REQUEST_TIMEOUT = 60
+MAX_RETRIES = 3
+RETRY_STATUS_CODES = {429, 500, 502, 503, 504}
 
 JUDGE_SYSTEM = """
 You are an expert evaluator for a Q&A system about ACLED Middle East conflict data.
@@ -47,9 +50,26 @@ Return ONLY a JSON object with exactly these keys:
 # 2. LLM-AS-JUDGE
 # ──────────────────────────────────────────────────────────────────────────────
 
+def post_with_retry(url: str, **kwargs) -> requests.Response:
+    timeout = kwargs.pop("timeout", REQUEST_TIMEOUT)
+    response = None
+    for attempt in range(MAX_RETRIES):
+        response = requests.post(url, timeout=timeout, **kwargs)
+        if response.status_code not in RETRY_STATUS_CODES or attempt == MAX_RETRIES - 1:
+            return response
+
+        retry_after = response.headers.get("Retry-After")
+        wait_seconds = float(retry_after) if retry_after and retry_after.isdigit() else 30.0
+        time.sleep(min(wait_seconds, 60.0))
+
+    if response is None:
+        raise RuntimeError("HTTP request was not executed")
+    return response
+
+
 def llm_judge(question: str, answer: str) -> dict:
     headers = {
-        "Authorization": f"Bearer {GROQ_API_KEY}",
+        "Authorization": f"Bearer {require_groq_api_key()}",
         "Content-Type": "application/json",
     }
     payload = {
@@ -61,28 +81,38 @@ def llm_judge(question: str, answer: str) -> dict:
         "temperature": 0.0,
         "response_format": {"type": "json_object"},
     }
-    response = requests.post(GROQ_API_URL, headers=headers, json=payload)
+    response = post_with_retry(GROQ_API_URL, headers=headers, json=payload)
     response.raise_for_status()
     return json.loads(response.json()["choices"][0]["message"]["content"])
 
 
 def _normalize_number(text: str) -> str:
-    return re.sub(r"[,\.]", "", text.lower())
+    normalized = text.lower()
+    normalized = re.sub(r"(?<=\d),(?=\d{3}\b)", "", normalized)
+    normalized = re.sub(r"(?<=\d)\.(?=\d{3}\b)", "", normalized)
+    return normalized
 
 def exact_match(answer: str, expected_value: str) -> bool:
-    return _normalize_number(expected_value) in _normalize_number(answer)
+    expected = re.escape(_normalize_number(str(expected_value)).strip())
+    normalized_answer = _normalize_number(answer)
+    return re.search(rf"(?<![\w.]){expected}(?![\w.])", normalized_answer) is not None
+
+
+def write_results(results_path: Path, results: list[dict]) -> None:
+    with results_path.open("w", encoding="utf-8") as f:
+        json.dump(results, f, indent=2, ensure_ascii=False)
 
 
 # ──────────────────────────────────────────────────────────────────────────────
 # 3. EVALUATION LOOP
 # ──────────────────────────────────────────────────────────────────────────────
 
-def evaluate(dataset_path: Path) -> None:
+def evaluate(dataset_path: Path, results_path: Path, sleep_seconds: float) -> None:
     with dataset_path.open("r", encoding="utf-8") as f:
         dataset = json.load(f)
 
     print("Loading pipelines...")
-    sparql_module = _load_sparql_module()
+    sparql_module = load_sparql_module()
     graphrag_answerer = GraphRAGAnswerer(GraphRAGConfig())
 
     results = []
@@ -113,6 +143,7 @@ def evaluate(dataset_path: Path) -> None:
                     continue
                 print(f"  ERROR: {exc}")
                 results.append({"id": qid, "question": question, "error": str(exc)})
+                write_results(results_path, results)
                 break
 
             # GraphRAG catches 429 internally and returns it as a status field
@@ -142,21 +173,32 @@ def evaluate(dataset_path: Path) -> None:
 
         # ── Answer quality ────────────────────────────────────────────────────
         score = {}
-        if answer_type == "exact":
+        score_skipped = False
+        if "rate_limit" in payload.get("status", ""):
+            score = {"skipped": True, "reason": payload.get("status")}
+            score_skipped = True
+            print(f"  Score:  skipped ({payload.get('status')})")
+        elif answer_type == "exact":
             expected_value = item["expected_value"]
             match = exact_match(answer, expected_value)
             score = {"exact_match": match, "expected": expected_value}
             answer_scores.append(1.0 if match else 0.0)
             print(f"  Exact:  {'✓' if match else '✗'}  (expected: {expected_value})")
         else:
-            judged = llm_judge(question, answer)
-            score = judged
-            relevance = judged.get("relevance", 0)
-            faithfulness = judged.get("faithfulness", 0)
-            avg = (relevance + faithfulness) / 2
-            answer_scores.append(avg / 10)
-            print(f"  Relevance: {relevance}/10  |  Faithfulness: {faithfulness}/10")
-            print(f"  Rationale: {judged.get('rationale', '')}")
+            try:
+                judged = llm_judge(question, answer)
+            except Exception as exc:
+                score = {"skipped": True, "reason": f"judge_error: {exc}"}
+                score_skipped = True
+                print(f"  Score:  skipped (judge error: {exc})")
+            else:
+                score = judged
+                relevance = judged.get("relevance", 0)
+                faithfulness = judged.get("faithfulness", 0)
+                avg = (relevance + faithfulness) / 2
+                answer_scores.append(avg / 10)
+                print(f"  Relevance: {relevance}/10  |  Faithfulness: {faithfulness}/10")
+                print(f"  Rationale: {judged.get('rationale', '')}")
 
         results.append({
             "id": qid,
@@ -166,9 +208,12 @@ def evaluate(dataset_path: Path) -> None:
             "route_correct": route_correct,
             "answer": answer,
             "score": score,
+            "score_skipped": score_skipped,
         })
+        write_results(results_path, results)
 
-        time.sleep(5)
+        if sleep_seconds > 0:
+            time.sleep(sleep_seconds)
 
     # ── Summary ───────────────────────────────────────────────────────────────
     print("\n" + "=" * 70)
@@ -183,9 +228,8 @@ def evaluate(dataset_path: Path) -> None:
     print("=" * 70)
 
     # ── Save results ──────────────────────────────────────────────────────────
-    with DEFAULT_RESULTS.open("w", encoding="utf-8") as f:
-        json.dump(results, f, indent=2, ensure_ascii=False)
-    print(f"\nDetailed results saved to {DEFAULT_RESULTS.name}")
+    write_results(results_path, results)
+    print(f"\nDetailed results saved to {results_path.name}")
 
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -200,6 +244,18 @@ def parse_args() -> argparse.Namespace:
         default=DEFAULT_DATASET,
         help="Path to evaluation dataset JSON (default: evaluation_dataset.json)",
     )
+    parser.add_argument(
+        "--output",
+        type=Path,
+        default=DEFAULT_RESULTS,
+        help="Path for evaluation results JSON (default: evaluation_results.json)",
+    )
+    parser.add_argument(
+        "--sleep-between-questions",
+        type=float,
+        default=5.0,
+        help="Seconds to wait between questions (default: 5)",
+    )
     return parser.parse_args()
 
 
@@ -208,7 +264,7 @@ def main() -> None:
     if not args.dataset.exists():
         print(f"Dataset not found: {args.dataset}")
         sys.exit(1)
-    evaluate(args.dataset)
+    evaluate(args.dataset, args.output, args.sleep_between_questions)
 
 
 if __name__ == "__main__":

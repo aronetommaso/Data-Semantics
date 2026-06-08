@@ -1,5 +1,7 @@
 import requests
 
+REQUEST_TIMEOUT = 60
+
 def upload_to_graphdb(file_path, repo_id):
     print(f"Caricamento di {file_path} nel repository '{repo_id}' di GraphDB...")
     
@@ -12,7 +14,7 @@ def upload_to_graphdb(file_path, repo_id):
     
     try:
         with open(file_path, 'rb') as f:
-            response = requests.put(url, data=f, headers=headers)
+            response = requests.put(url, data=f, headers=headers, timeout=REQUEST_TIMEOUT)
             
         if response.status_code in [200, 204]:
             print("KG caricato con successo su GraphDB localhost!")
@@ -24,4 +26,4 @@ def upload_to_graphdb(file_path, repo_id):
 
 if __name__ == '__main__':
 
-    upload_to_graphdb('./cle/acled_populated_kg.ttl', 'MiddleEastConflict')
+    upload_to_graphdb('./cle/acled_populated_kg.ttl', 'acled-kg')

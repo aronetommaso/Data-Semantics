@@ -16,6 +16,7 @@ Dependencies:
 import os
 import re
 import requests
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from dotenv import load_dotenv
@@ -33,11 +34,11 @@ load_dotenv(dotenv_path=env_path)
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 GRAPHDB_REPO_URL = os.getenv("GRAPHDB_REPO_URL", "http://localhost:7200/repositories/acled-kg")
 
-if not GROQ_API_KEY:
-    raise ValueError("GROQ_API_KEY not found in .env")
-
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 MODEL_NAME = "llama-3.3-70b-versatile"
+REQUEST_TIMEOUT = 60
+MAX_RETRIES = 3
+RETRY_STATUS_CODES = {429, 500, 502, 503, 504}
 
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -216,9 +217,32 @@ WHERE {
 # 4. FUNCTIONS
 # ──────────────────────────────────────────────────────────────────────────────
 
+def require_groq_api_key() -> str:
+    if not GROQ_API_KEY:
+        raise ValueError("GROQ_API_KEY not found in .env")
+    return GROQ_API_KEY
+
+
+def post_with_retry(url: str, **kwargs) -> requests.Response:
+    timeout = kwargs.pop("timeout", REQUEST_TIMEOUT)
+    response = None
+    for attempt in range(MAX_RETRIES):
+        response = requests.post(url, timeout=timeout, **kwargs)
+        if response.status_code not in RETRY_STATUS_CODES or attempt == MAX_RETRIES - 1:
+            return response
+
+        retry_after = response.headers.get("Retry-After")
+        wait_seconds = float(retry_after) if retry_after and retry_after.isdigit() else 2.0 * (attempt + 1)
+        time.sleep(min(wait_seconds, 30.0))
+
+    if response is None:
+        raise RuntimeError("HTTP request was not executed")
+    return response
+
+
 def call_groq(prompt: str, system_message: str = "") -> str:
     headers = {
-        "Authorization": f"Bearer {GROQ_API_KEY}",
+        "Authorization": f"Bearer {require_groq_api_key()}",
         "Content-Type": "application/json",
     }
     messages = []
@@ -231,7 +255,7 @@ def call_groq(prompt: str, system_message: str = "") -> str:
         "messages": messages,
         "temperature": 0.1,
     }
-    response = requests.post(GROQ_API_URL, headers=headers, json=payload)
+    response = post_with_retry(GROQ_API_URL, headers=headers, json=payload)
     response.raise_for_status()
     return response.json()["choices"][0]["message"]["content"]
 
@@ -239,9 +263,12 @@ def call_groq(prompt: str, system_message: str = "") -> str:
 def extract_sparql(text: str) -> str:
     match = re.search(r"```(?:sparql)?\s*(.*?)```", text, re.DOTALL)
     if match:
-        return match.group(1).strip()
-    if "SELECT" in text.upper() or "PREFIX" in text.upper():
-        return text.strip()
+        candidate = match.group(1).strip()
+    else:
+        candidate = text.strip()
+
+    if re.match(r"(?is)^\s*(PREFIX\s+\w+:\s*<[^>]+>\s*)*(SELECT|CONSTRUCT|DESCRIBE|ASK)\b", candidate):
+        return candidate
     raise ValueError("No SPARQL query found in model response")
 
 
@@ -271,7 +298,7 @@ def execute_sparql(query: str) -> dict:
         "Accept": "application/sparql-results+json",
         "Content-Type": "application/sparql-query",
     }
-    response = requests.post(GRAPHDB_REPO_URL, data=query, headers=headers)
+    response = post_with_retry(GRAPHDB_REPO_URL, data=query, headers=headers)
     if response.status_code != 200:
         raise RuntimeError(f"GraphDB error ({response.status_code}): {response.text}")
     return response.json()
@@ -315,25 +342,32 @@ present it in a readable way (e.g. use thousand separators).
     return call_groq(prompt)
 
 
-def answer_question(question: str) -> dict:
+def answer_question(question: str, verbose: bool = False) -> dict:
     """Pipeline: question → SPARQL → raw results → NL answer."""
-    print(f"\nQuestion: {question}\n")
+    if verbose:
+        print(f"\nQuestion: {question}\n")
 
     # Step 1: Generate SPARQL
-    print("Generating SPARQL query...")
+    if verbose:
+        print("Generating SPARQL query...")
     query = generate_sparql_query(question)
-    print(f"\nGenerated query:\n{query}\n")
+    if verbose:
+        print(f"\nGenerated query:\n{query}\n")
 
     # Step 2: Execute on GraphDB
-    print("Executing on GraphDB...")
+    if verbose:
+        print("Executing on GraphDB...")
     raw_results = execute_sparql(query)
     results_text = format_results_as_text(raw_results)
-    print(f"\nRaw results:\n{results_text}\n")
+    if verbose:
+        print(f"\nRaw results:\n{results_text}\n")
 
     # Step 3: Format as natural language
-    print("Formatting final answer...")
+    if verbose:
+        print("Formatting final answer...")
     final_answer = explain_results(question, query, results_text)
-    print(f"\nAnswer:\n{final_answer}\n")
+    if verbose:
+        print(f"\nAnswer:\n{final_answer}\n")
 
     return {
         "route": "sparql",
@@ -377,7 +411,7 @@ if __name__ == "__main__":
             if question.lower() in {"exit", "quit", "q"}:
                 print("Goodbye!")
                 break
-            answer_question(question)
+            answer_question(question, verbose=True)
         except KeyboardInterrupt:
             print("\nGoodbye!")
             break

@@ -312,9 +312,11 @@ def metadata_from_raw(raw: dict[str, Any] | None, markdown_path: Path) -> dict[s
         Metadata dictionary.
     """
 
+    report_text = markdown_path.read_text(encoding="utf-8")
     metadata: dict[str, Any] = {
         "report_file": str(markdown_path),
-        "report_size_chars": markdown_path.stat().st_size,
+        "report_size_chars": len(report_text),
+        "report_size_bytes": markdown_path.stat().st_size,
     }
     if not raw:
         return metadata
@@ -849,6 +851,7 @@ class GraphRAGAnswerer:
         local_ranked = sorted(local_scores, key=lambda item: item.score, reverse=True)
         candidate_scores = local_ranked[: self.config.max_scorer_reports]
         scores_by_id = {score.report_id: score for score in local_scores}
+        llm_scores_by_id = {}
         llm_scored_ids = []
         rate_limited = False
 
@@ -863,6 +866,7 @@ class GraphRAGAnswerer:
                     self.config.scorer_report_chars,
                 )
                 scores_by_id[llm_score.report_id] = llm_score
+                llm_scores_by_id[llm_score.report_id] = llm_score
                 llm_scored_ids.append(llm_score.report_id)
             except requests.HTTPError as exc:
                 if exc.response is not None and exc.response.status_code == 429:
@@ -873,13 +877,14 @@ class GraphRAGAnswerer:
                         rationale="Groq rate limit reached during LLM scoring; using local prefilter score.",
                         matched_evidence=candidate.matched_evidence,
                     )
-                    continue
+                    break
                 raise
 
         scores = list(scores_by_id.values())
+        selection_scores = list(llm_scores_by_id.values()) if llm_scores_by_id else scores
         selected_reports, selected_scores = select_reports(
             self.reports,
-            scores,
+            selection_scores,
             self.config.score_threshold,
             self.config.max_context_reports,
         )

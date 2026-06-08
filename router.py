@@ -16,6 +16,7 @@ import importlib.util
 import json
 import os
 import sys
+import time
 from pathlib import Path
 
 import requests
@@ -34,22 +35,50 @@ if not env_path.exists():
 load_dotenv(dotenv_path=env_path)
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-if not GROQ_API_KEY:
-    raise ValueError("GROQ_API_KEY not found in .env")
 
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 ROUTER_MODEL = "llama-3.1-8b-instant"
+REQUEST_TIMEOUT = 60
+MAX_RETRIES = 3
+RETRY_STATUS_CODES = {429, 500, 502, 503, 504}
 
 # ──────────────────────────────────────────────────────────────────────────────
 # 2. LOAD SPARQL MODULE (filename has parentheses, cannot use normal import)
 # ──────────────────────────────────────────────────────────────────────────────
 
-def _load_sparql_module():
+def require_groq_api_key() -> str:
+    if not GROQ_API_KEY:
+        raise ValueError("GROQ_API_KEY not found in .env")
+    return GROQ_API_KEY
+
+
+def post_with_retry(url: str, **kwargs) -> requests.Response:
+    timeout = kwargs.pop("timeout", REQUEST_TIMEOUT)
+    response = None
+    for attempt in range(MAX_RETRIES):
+        response = requests.post(url, timeout=timeout, **kwargs)
+        if response.status_code not in RETRY_STATUS_CODES or attempt == MAX_RETRIES - 1:
+            return response
+
+        retry_after = response.headers.get("Retry-After")
+        wait_seconds = float(retry_after) if retry_after and retry_after.isdigit() else 2.0 * (attempt + 1)
+        time.sleep(min(wait_seconds, 30.0))
+
+    if response is None:
+        raise RuntimeError("HTTP request was not executed")
+    return response
+
+
+def load_sparql_module():
     path = SCRIPT_DIR / "SPARQL_Generator_cle(daNLaSPARQL).py"
     spec = importlib.util.spec_from_file_location("sparql_generator", path)
     mod = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(mod)
     return mod
+
+
+def _load_sparql_module():
+    return load_sparql_module()
 
 # ──────────────────────────────────────────────────────────────────────────────
 # 3. ROUTING LOGIC
@@ -77,7 +106,7 @@ Use "graphrag" for:
 
 def decide_route(question: str) -> str:
     headers = {
-        "Authorization": f"Bearer {GROQ_API_KEY}",
+        "Authorization": f"Bearer {require_groq_api_key()}",
         "Content-Type": "application/json",
     }
     payload = {
@@ -89,7 +118,7 @@ def decide_route(question: str) -> str:
         "temperature": 0.0,
         "response_format": {"type": "json_object"},
     }
-    response = requests.post(GROQ_API_URL, headers=headers, json=payload)
+    response = post_with_retry(GROQ_API_URL, headers=headers, json=payload)
     response.raise_for_status()
     content = response.json()["choices"][0]["message"]["content"]
     parsed = json.loads(content)
@@ -159,7 +188,7 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> None:
     args = parse_args()
-    sparql_module = _load_sparql_module()
+    sparql_module = load_sparql_module()
     graphrag_answerer = GraphRAGAnswerer(GraphRAGConfig())
 
     if args.query:
