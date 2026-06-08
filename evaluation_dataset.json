@@ -10,53 +10,192 @@
     "id": "q002",
     "question": "How many conflict events are there in total?",
     "expected_route": "sparql",
-    "answer_type": "llm_judge"
+    "answer_type": "exact",
+    "expected_value": "91893"
   },
   {
     "id": "q003",
     "question": "Total fatalities in Yemen in 2022?",
     "expected_route": "sparql",
-    "answer_type": "llm_judge"
+    "answer_type": "exact",
+    "expected_value": "620"
   },
   {
     "id": "q004",
-    "question": "Which country had the most conflict events?",
+    "question": "How many unique journalistic sources are mapped in the graph?",
     "expected_route": "sparql",
-    "answer_type": "llm_judge"
+    "answer_type": "exact",
+    "expected_value": "811"
   },
   {
     "id": "q005",
-    "question": "How many events involved Hamas?",
+    "question": "How many conflict events occurred in Palestine?",
     "expected_route": "sparql",
-    "answer_type": "llm_judge"
+    "answer_type": "exact",
+    "expected_value": "22397"
   },
   {
     "id": "q006",
-    "question": "Which actors caused the most fatalities?",
+    "question": "How many total fatalities were recorded across all events in the dataset?",
     "expected_route": "sparql",
-    "answer_type": "llm_judge"
+    "answer_type": "exact",
+    "expected_value": "74927"
   },
   {
     "id": "q007",
-    "question": "What are the main conflict dynamics in Syria?",
-    "expected_route": "graphrag",
-    "answer_type": "llm_judge"
+    "question": "How many events involved the Hamas Movement?",
+    "expected_route": "sparql",
+    "answer_type": "exact",
+    "expected_value": "1716"
   },
   {
     "id": "q008",
-    "question": "Describe the relationships between armed groups in Yemen.",
-    "expected_route": "graphrag",
-    "answer_type": "llm_judge"
+    "question": "What is the total number of fatalities in Syria?",
+    "expected_route": "sparql",
+    "answer_type": "exact",
+    "expected_value": "15571"
   },
   {
     "id": "q009",
-    "question": "What patterns of violence are most common in Iraq?",
+    "question": "How many events are categorized as Battles?",
+    "expected_route": "sparql",
+    "answer_type": "exact",
+    "expected_value": "8637"
+  },
+  {
+    "id": "q010",
+    "question": "How many events are categorized as Protests?",
+    "expected_route": "sparql",
+    "answer_type": "exact",
+    "expected_value": "17883"
+  },
+  {
+    "id": "q011",
+    "question": "How many distinct countries are represented in the dataset?",
+    "expected_route": "sparql",
+    "answer_type": "exact",
+    "expected_value": "15"
+  },
+  {
+    "id": "q012",
+    "question": "Which country had the most conflict events overall?",
+    "expected_route": "sparql",
+    "answer_type": "exact",
+    "expected_value": "Palestine"
+  },
+  {
+    "id": "q013",
+    "question": "Which actor was involved in the events that caused the most fatalities overall?",
+    "expected_route": "sparql",
+    "answer_type": "exact",
+    "expected_value": "Islamic State in Iraq and the Levant (ISIL)"
+  },
+  {
+    "id": "q014",
+    "question": "Which country experienced the highest number of protests?",
+    "expected_route": "sparql",
+    "answer_type": "exact",
+    "expected_value": "Turkey"
+  },
+  {
+    "id": "q015",
+    "question": "What is the primary event type involving State Forces?",
+    "expected_route": "sparql",
+    "answer_type": "exact",
+    "expected_value": "Strategic developments"
+  },
+  {
+    "id": "q016",
+    "question": "Which non-state actors had the most interactions with external forces?",
+    "expected_route": "sparql",
+    "answer_type": "exact",
+    "expected_value": "Civilians (Palestine)"
+  },
+  {
+    "id": "q017",
+    "question": "Identify the most active rebel group in the dataset based on total event frequency.",
+    "expected_route": "sparql",
+    "answer_type": "exact",
+    "expected_value": "PKK: Kurdistan Workers Party"
+  },
+  {
+    "id": "q018",
+    "question": "In which specific location did the highest number of civilian fatalities occur?",
+    "expected_route": "sparql",
+    "answer_type": "exact",
+    "expected_value": "Mosul"
+  },
+  {
+    "id": "q019",
+    "question": "List the most cited journalistic source for events with strictly more than 50 fatalities.",
+    "expected_route": "sparql",
+    "answer_type": "exact",
+    "expected_value": "Twitter"
+  },
+  {
+    "id": "q020",
+    "question": "Which actor is most frequently involved in Explosions/Remote violence?",
+    "expected_route": "sparql",
+    "answer_type": "exact",
+    "expected_value": "Military Forces of Israel (2022-)"
+  },
+  {
+    "id": "q021",
+    "question": "What are the main conflict dynamics and escalation patterns in Syria?",
     "expected_route": "graphrag",
     "answer_type": "llm_judge"
   },
   {
-    "id": "q010",
+    "id": "q022",
+    "question": "Describe the evolution of relationships between armed groups in Yemen.",
+    "expected_route": "graphrag",
+    "answer_type": "llm_judge"
+  },
+  {
+    "id": "q023",
+    "question": "What patterns of violence are most common in Iraq according to the topological communities?",
+    "expected_route": "graphrag",
+    "answer_type": "llm_judge"
+  },
+  {
+    "id": "q024",
     "question": "What are the main trends in the Middle East conflict landscape between 2015 and 2023?",
+    "expected_route": "graphrag",
+    "answer_type": "llm_judge"
+  },
+  {
+    "id": "q025",
+    "question": "How do the strategic alliances of geopolitical actors influence the regional conflict network?",
+    "expected_route": "graphrag",
+    "answer_type": "llm_judge"
+  },
+  {
+    "id": "q026",
+    "question": "Summarize the geopolitical role of external actors in the Palestine conflict community.",
+    "expected_route": "graphrag",
+    "answer_type": "llm_judge"
+  },
+  {
+    "id": "q027",
+    "question": "Explain the fragmentation and evolution of rebel groups within the Syrian conflict theater.",
+    "expected_route": "graphrag",
+    "answer_type": "llm_judge"
+  },
+  {
+    "id": "q028",
+    "question": "What are the primary differences in conflict dynamics between urban protests and armed border clashes?",
+    "expected_route": "graphrag",
+    "answer_type": "llm_judge"
+  },
+  {
+    "id": "q029",
+    "question": "How did the involvement of State Forces shift geographically over the documented eight-year period?",
+    "expected_route": "graphrag",
+    "answer_type": "llm_judge"
+  },
+  {
+    "id": "q030",
+    "question": "Which distinct geopolitical communities emerge from the interactions of Identity Militias across the Middle East?",
     "expected_route": "graphrag",
     "answer_type": "llm_judge"
   }
