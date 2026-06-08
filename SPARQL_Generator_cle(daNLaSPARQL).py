@@ -16,6 +16,7 @@ Dependencies:
 import os
 import re
 import requests
+from datetime import datetime, timezone
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -30,7 +31,7 @@ if not env_path.exists():
 load_dotenv(dotenv_path=env_path)
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-GRAPHDB_REPO_URL = os.getenv("GRAPHDB_REPO_URL", "http://localhost:7200/repositories/MiddleEastConflict")
+GRAPHDB_REPO_URL = os.getenv("GRAPHDB_REPO_URL", "http://localhost:7200/repositories/acled-kg")
 
 if not GROQ_API_KEY:
     raise ValueError("GROQ_API_KEY not found in .env")
@@ -113,6 +114,11 @@ QUERY STYLE RULES:
   - When searching for an actor that may have multiple time-period variants
     (e.g. "Military Forces of Israel (2009-2021)" and "Military Forces of Israel (2022-)"),
     use FILTER(CONTAINS(LCASE(?actorName), "keyword")) to match all variants.
+  - NEVER use "?actor a conf:Actor" to find actors — OWL reasoning is disabled,
+    so conf:Actor as a class returns no results. Always reach actors via events:
+      { ?event conf:hasActor1 ?actor } UNION { ?event conf:hasActor2 ?actor }
+  - ALWAYS add ORDER BY and LIMIT 20 when the query returns a list of entities
+    (actors, countries, event types, etc.). Never return unbounded lists.
 """
 
 
@@ -288,7 +294,11 @@ def format_results_as_text(results: dict) -> str:
     return "\n".join(lines)
 
 
+MAX_RESULTS_CHARS = 6000
+
 def explain_results(question: str, query: str, results_text: str) -> str:
+    if len(results_text) > MAX_RESULTS_CHARS:
+        results_text = results_text[:MAX_RESULTS_CHARS] + "\n[... truncated for length ...]"
     prompt = f"""
 The user asked this question: "{question}"
 
@@ -326,11 +336,22 @@ def answer_question(question: str) -> dict:
     print(f"\nAnswer:\n{final_answer}\n")
 
     return {
-        "question": question,
-        "sparql_query": query,
-        "raw_results": raw_results,
-        "results_text": results_text,
-        "final_answer": final_answer,
+        "route": "sparql",
+        "query": question,
+        "answer": final_answer,
+        "status": "ok",
+        "created_at": datetime.now(timezone.utc).isoformat(),
+        "models": {
+            "query_generator": MODEL_NAME,
+            "answer_generator": MODEL_NAME,
+        },
+        "retrieval": {
+            "sparql_query": query,
+            "results_text": results_text,
+        },
+        "context": {
+            "raw_results": raw_results,
+        },
     }
 
 

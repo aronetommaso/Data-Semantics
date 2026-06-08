@@ -1,0 +1,63 @@
+[
+  {
+    "id": "q001",
+    "question": "How many actors are there in the Knowledge Graph?",
+    "expected_route": "sparql",
+    "answer_type": "exact",
+    "expected_value": "1323"
+  },
+  {
+    "id": "q002",
+    "question": "How many conflict events are there in total?",
+    "expected_route": "sparql",
+    "answer_type": "llm_judge"
+  },
+  {
+    "id": "q003",
+    "question": "Total fatalities in Yemen in 2022?",
+    "expected_route": "sparql",
+    "answer_type": "llm_judge"
+  },
+  {
+    "id": "q004",
+    "question": "Which country had the most conflict events?",
+    "expected_route": "sparql",
+    "answer_type": "llm_judge"
+  },
+  {
+    "id": "q005",
+    "question": "How many events involved Hamas?",
+    "expected_route": "sparql",
+    "answer_type": "llm_judge"
+  },
+  {
+    "id": "q006",
+    "question": "Which actors caused the most fatalities?",
+    "expected_route": "sparql",
+    "answer_type": "llm_judge"
+  },
+  {
+    "id": "q007",
+    "question": "What are the main conflict dynamics in Syria?",
+    "expected_route": "graphrag",
+    "answer_type": "llm_judge"
+  },
+  {
+    "id": "q008",
+    "question": "Describe the relationships between armed groups in Yemen.",
+    "expected_route": "graphrag",
+    "answer_type": "llm_judge"
+  },
+  {
+    "id": "q009",
+    "question": "What patterns of violence are most common in Iraq?",
+    "expected_route": "graphrag",
+    "answer_type": "llm_judge"
+  },
+  {
+    "id": "q010",
+    "question": "What are the main trends in the Middle East conflict landscape between 2015 and 2023?",
+    "expected_route": "graphrag",
+    "answer_type": "llm_judge"
+  }
+]
