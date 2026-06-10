@@ -6,7 +6,7 @@ community reports are first scored for relevance by a lightweight LLM, then the
 highest-scoring reports are passed as context to a stronger answer LLM.
 
 Dependencies:
-    pip install requests python-dotenv
+    pip install requests python-dotenv google-genai
 """
 
 from __future__ import annotations
@@ -34,6 +34,9 @@ DEFAULT_RETRIEVAL_LOG_PATH = SCRIPT_DIR / "graphrag_retrieval_validation.jsonl"
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 DEFAULT_SCORER_MODEL = "llama-3.1-8b-instant"
 DEFAULT_ANSWER_MODEL = "llama-3.3-70b-versatile"
+DEFAULT_LLM_PROVIDER = "groq"
+DEFAULT_GEMINI_SCORER_MODEL = "gemini-2.5-flash"
+DEFAULT_GEMINI_ANSWER_MODEL = "gemini-2.5-flash"
 
 
 @dataclass(frozen=True)
@@ -86,10 +89,12 @@ class GraphRAGConfig:
         answer_report_chars: Maximum report characters sent to the answer LLM.
         request_timeout: HTTP timeout in seconds for Groq calls.
         retrieval_log_path: Optional JSONL path used to validate retrieval decisions.
+        llm_provider: LLM provider for GraphRAG scoring and answer generation.
     """
 
     reports_dir: Path = DEFAULT_REPORTS_DIR
     communities_path: Path | None = DEFAULT_COMMUNITIES_PATH
+    llm_provider: str = DEFAULT_LLM_PROVIDER
     scorer_model: str = DEFAULT_SCORER_MODEL
     answer_model: str = DEFAULT_ANSWER_MODEL
     score_threshold: float = 7.0
@@ -99,6 +104,16 @@ class GraphRAGConfig:
     answer_report_chars: int = 12000
     request_timeout: int = 90
     retrieval_log_path: Path | None = DEFAULT_RETRIEVAL_LOG_PATH
+
+    def __post_init__(self) -> None:
+        provider = self.llm_provider.lower()
+        if provider not in {"groq", "gemini"}:
+            raise ValueError("llm_provider must be 'groq' or 'gemini'")
+        object.__setattr__(self, "llm_provider", provider)
+        if provider == "gemini" and self.scorer_model == DEFAULT_SCORER_MODEL:
+            object.__setattr__(self, "scorer_model", DEFAULT_GEMINI_SCORER_MODEL)
+        if provider == "gemini" and self.answer_model == DEFAULT_ANSWER_MODEL:
+            object.__setattr__(self, "answer_model", DEFAULT_GEMINI_ANSWER_MODEL)
 
 
 class GroqClient:
@@ -177,11 +192,54 @@ class GroqClient:
         return response.json()["choices"][0]["message"]["content"]
 
 
-def load_environment() -> str:
-    """Load `.env` and return the Groq API key.
+class GeminiClient:
+    """Small client adapter exposing the same chat interface for Gemini."""
+
+    def __init__(self, api_key: str, timeout: int = 90) -> None:
+        """Initialize the Gemini client.
+
+        Args:
+            api_key: Gemini API key.
+            timeout: Reserved for interface compatibility.
+        """
+
+        try:
+            from google import genai
+        except ImportError as exc:
+            raise ImportError("Install google-genai to use --llm-provider gemini") from exc
+
+        self.client = genai.Client(api_key=api_key)
+        self.timeout = timeout
+
+    def chat(
+        self,
+        model: str,
+        system_message: str,
+        user_message: str,
+        temperature: float = 0.1,
+        response_format: dict[str, str] | None = None,
+    ) -> str:
+        """Call a Gemini model and return the text content."""
+
+        config: dict[str, Any] = {"temperature": temperature}
+        if response_format and response_format.get("type") == "json_object":
+            config["response_mime_type"] = "application/json"
+
+        response = self.client.models.generate_content(
+            model=model,
+            contents=f"{system_message.strip()}\n\n{user_message}",
+            config=config,
+        )
+        if not response.text:
+            raise RuntimeError("Gemini returned an empty response")
+        return response.text
+
+
+def load_environment(provider: str = DEFAULT_LLM_PROVIDER) -> str:
+    """Load `.env` and return the selected provider API key.
 
     Returns:
-        Groq API key from `GROQ_API_KEY`.
+        API key from `GROQ_API_KEY` or `GEMINI_API_KEY`.
 
     Raises:
         ValueError: If the API key is missing.
@@ -192,10 +250,30 @@ def load_environment() -> str:
         env_path = SCRIPT_DIR.parent / ".env"
     load_dotenv(dotenv_path=env_path)
 
-    api_key = os.getenv("GROQ_API_KEY")
+    provider = provider.lower()
+    env_key = "GEMINI_API_KEY" if provider == "gemini" else "GROQ_API_KEY"
+    api_key = os.getenv(env_key)
     if not api_key:
-        raise ValueError("GROQ_API_KEY not found in .env")
+        raise ValueError(f"{env_key} not found in .env")
     return api_key
+
+
+def make_llm_client(provider: str, timeout: int):
+    """Build the configured GraphRAG LLM client."""
+
+    api_key = load_environment(provider)
+    if provider == "gemini":
+        return GeminiClient(api_key, timeout=timeout)
+    return GroqClient(api_key, timeout=timeout)
+
+
+def is_rate_limit_error(exc: Exception) -> bool:
+    """Return whether an LLM exception looks like a provider rate limit."""
+
+    if isinstance(exc, requests.HTTPError):
+        return exc.response is not None and exc.response.status_code == 429
+    message = str(exc)
+    return "429" in message or "RESOURCE_EXHAUSTED" in message
 
 
 def top_items(values: dict[str, int] | None, limit: int = 8) -> list[tuple[str, int]]:
@@ -799,7 +877,7 @@ class GraphRAGAnswerer:
         """
 
         self.config = config
-        self.client = GroqClient(load_environment(), timeout=config.request_timeout)
+        self.client = make_llm_client(config.llm_provider, timeout=config.request_timeout)
         self.reports = load_community_reports(config.reports_dir, config.communities_path)
 
     def answer(self, query: str, log_retrieval: bool = True) -> dict[str, Any]:
@@ -868,13 +946,16 @@ class GraphRAGAnswerer:
                 scores_by_id[llm_score.report_id] = llm_score
                 llm_scores_by_id[llm_score.report_id] = llm_score
                 llm_scored_ids.append(llm_score.report_id)
-            except requests.HTTPError as exc:
-                if exc.response is not None and exc.response.status_code == 429:
+            except Exception as exc:
+                if is_rate_limit_error(exc):
                     rate_limited = True
                     scores_by_id[candidate.report_id] = RetrievalScore(
                         report_id=candidate.report_id,
                         score=candidate.score,
-                        rationale="Groq rate limit reached during LLM scoring; using local prefilter score.",
+                        rationale=(
+                            f"{self.config.llm_provider} rate limit reached during LLM scoring; "
+                            "using local prefilter score."
+                        ),
                         matched_evidence=candidate.matched_evidence,
                     )
                     break
@@ -898,13 +979,13 @@ class GraphRAGAnswerer:
                 self.config.answer_model,
                 self.config.answer_report_chars,
             )
-        except requests.HTTPError as exc:
-            if exc.response is None or exc.response.status_code != 429:
+        except Exception as exc:
+            if not is_rate_limit_error(exc):
                 raise
             answer_status = "rate_limited_answer_generation"
             selected_ids = ", ".join(score.report_id for score in selected_scores) or "none"
             answer = (
-                "Groq rate limit was reached during answer generation. "
+                f"{self.config.llm_provider} rate limit was reached during answer generation. "
                 f"Retrieval still selected these reports for validation: {selected_ids}. "
                 "Retry later or lower --max-scorer-reports, --scorer-report-chars, or --answer-report-chars."
             )
@@ -916,6 +997,7 @@ class GraphRAGAnswerer:
             "status": answer_status,
             "created_at": datetime.now(timezone.utc).isoformat(),
             "models": {
+                "llm_provider": self.config.llm_provider,
                 "retrieval_scorer": self.config.scorer_model,
                 "answer_generator": self.config.answer_model,
             },
@@ -1051,6 +1133,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Run the ACLED GraphRAG terminal pipeline.")
     parser.add_argument("--reports-dir", type=Path, default=DEFAULT_REPORTS_DIR)
     parser.add_argument("--communities-path", type=Path, default=DEFAULT_COMMUNITIES_PATH)
+    parser.add_argument("--llm-provider", choices=("groq", "gemini"), default=DEFAULT_LLM_PROVIDER)
     parser.add_argument("--scorer-model", default=DEFAULT_SCORER_MODEL)
     parser.add_argument("--answer-model", default=DEFAULT_ANSWER_MODEL)
     parser.add_argument("--score-threshold", type=float, default=7.0)
@@ -1075,6 +1158,7 @@ def main() -> None:
     config = GraphRAGConfig(
         reports_dir=args.reports_dir,
         communities_path=args.communities_path,
+        llm_provider=args.llm_provider,
         scorer_model=args.scorer_model,
         answer_model=args.answer_model,
         score_threshold=args.score_threshold,

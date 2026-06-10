@@ -1,0 +1,274 @@
+[
+  {
+    "id": "q001",
+    "question": "How many actors are there in the Knowledge Graph?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "There are 1,323 actors in the Knowledge Graph.",
+    "score": {
+      "exact_match": true,
+      "expected": "1323"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q002",
+    "question": "How many conflict events are there in total?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "There are 91,893 conflict events in total.",
+    "score": {
+      "exact_match": true,
+      "expected": "91893"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q003",
+    "question": "Total fatalities in Yemen in 2022?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "The total fatalities in Yemen in 2022 were 620.",
+    "score": {
+      "exact_match": false,
+      "expected": "620"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q004",
+    "question": "How many unique journalistic sources are mapped in the graph?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "There are 0 unique journalistic sources mapped in the graph.",
+    "score": {
+      "exact_match": false,
+      "expected": "811"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q005",
+    "question": "How many conflict events occurred in Palestine?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "There were 22,397 conflict events that occurred in Palestine.",
+    "score": {
+      "exact_match": true,
+      "expected": "22397"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q006",
+    "question": "How many total fatalities were recorded across all events in the dataset?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "According to the dataset, a total of 74,927 fatalities were recorded across all events.",
+    "score": {
+      "exact_match": true,
+      "expected": "74927"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q007",
+    "question": "How many events involved the Hamas Movement?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "There were 1,716 events that involved the Hamas Movement.",
+    "score": {
+      "exact_match": true,
+      "expected": "1716"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q008",
+    "question": "What is the total number of fatalities in Syria?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "The total number of fatalities in Syria is 15,571.",
+    "score": {
+      "exact_match": false,
+      "expected": "15571"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q009",
+    "question": "How many events are categorized as Battles?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "There are 0 events categorized as Battles.",
+    "score": {
+      "exact_match": false,
+      "expected": "8637"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q010",
+    "question": "How many events are categorized as Protests?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "There are 0 events categorized as Protests.",
+    "score": {
+      "exact_match": false,
+      "expected": "17883"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q011",
+    "question": "How many distinct countries are represented in the dataset?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "There are 15 distinct countries represented in the dataset.",
+    "score": {
+      "exact_match": true,
+      "expected": "15"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q012",
+    "question": "Which country had the most conflict events overall?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "The country with the most conflict events overall is Palestine, with 22,397 conflict events.",
+    "score": {
+      "exact_match": true,
+      "expected": "Palestine"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q013",
+    "question": "Which actor was involved in the events that caused the most fatalities overall?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "The actor involved in the events that caused the most fatalities overall is the Islamic State in Iraq and the Levant (ISIL), with a total of 25,808 fatalities.",
+    "score": {
+      "exact_match": true,
+      "expected": "Islamic State in Iraq and the Levant (ISIL)"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q014",
+    "question": "Which country experienced the highest number of protests?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "There is no information available on the country that experienced the highest number of protests, as the query did not return any results.",
+    "score": {
+      "exact_match": false,
+      "expected": "Turkey"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q015",
+    "question": "What is the primary event type involving State Forces?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "There is no primary event type involving State Forces, as the query did not return any results.",
+    "score": {
+      "exact_match": false,
+      "expected": "Strategic developments"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q016",
+    "question": "Which non-state actors had the most interactions with external forces?",
+    "error": "GraphDB error (400): MALFORMED QUERY: Encountered \" \"union\" \"UNION \"\" at line 13, column 1.\nWas expecting one of:\n    <EOF> \n    \"order\" ...\n    \"group\" ...\n    \"limit\" ...\n    \"offset\" ...\n    \"having\" ...\n    \"bindings\" ...\n    \"values\" ...\n    "
+  },
+  {
+    "id": "q017",
+    "question": "Identify the most active rebel group in the dataset based on total event frequency.",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "The most active rebel group in the dataset is the \"Opposition Rebels (Syria)\", with a total of 893 events.",
+    "score": {
+      "exact_match": false,
+      "expected": "PKK: Kurdistan Workers Party"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q018",
+    "question": "In which specific location did the highest number of civilian fatalities occur?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "The highest number of civilian fatalities occurred in Mosul, with a total of 2,372 fatalities.",
+    "score": {
+      "exact_match": true,
+      "expected": "Mosul"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q019",
+    "question": "List the most cited journalistic source for events with strictly more than 50 fatalities.",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "There is no most cited journalistic source for events with strictly more than 50 fatalities, as the query did not return any results. This suggests that there are no events in the Knowledge Graph with more than 50 fatalities that have been reported by a journalistic source.",
+    "score": {
+      "exact_match": false,
+      "expected": "Twitter"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q020",
+    "question": "Which actor is most frequently involved in Explosions/Remote violence?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "The actor most frequently involved in Explosions/Remote violence is the Military Forces of Israel (2022-), with 6,015 events.",
+    "score": {
+      "exact_match": true,
+      "expected": "Military Forces of Israel (2022-)"
+    },
+    "score_skipped": false
+  },
+  {
+    "id": "q021",
+    "question": "What are the main conflict dynamics and escalation patterns in Syria?",
+    "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  },
+  {
+    "id": "q022",
+    "question": "Describe the evolution of relationships between armed groups in Yemen.",
+    "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  },
+  {
+    "id": "q023",
+    "question": "What patterns of violence are most common in Iraq according to the topological communities?",
+    "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  },
+  {
+    "id": "q024",
+    "question": "What are the main trends in the Middle East conflict landscape between 2015 and 2023?",
+    "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  }
+]
