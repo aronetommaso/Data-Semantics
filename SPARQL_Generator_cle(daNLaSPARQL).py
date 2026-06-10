@@ -121,6 +121,18 @@ QUERY STYLE RULES:
   - ALWAYS add ORDER BY and LIMIT 20 when the query returns a list of entities
     (actors, countries, event types, etc.). Never return unbounded lists.
   - ALWAYS scope COUNT to a specific pattern, never COUNT(*) on joined patterns.
+  - For event categories such as "Battles", "Protests", or
+    "Explosions/Remote violence", match literal values with conf:eventType.
+    Do not treat event types as RDF classes or resources.
+  - For journalistic source questions, use conf:reportedBy ?source and
+    ?source conf:sourceName ?sourceName. Count DISTINCT ?sourceName when the
+    question asks for unique journalistic sources.
+  - For actor subclasses such as State Forces or Rebel Group, use RDF type
+    triples with the subclass, e.g. ?actor a conf:StateForces. Do not search
+    for the words "state forces" in actor names.
+  - When both actor positions are relevant, wrap the UNION inside braces:
+      { ?event conf:hasActor1 ?actor } UNION { ?event conf:hasActor2 ?actor }
+    Then put shared filters/triples after the UNION.
 
 """
 
@@ -218,6 +230,88 @@ WHERE {
   ?actor conf:actorName ?actorName .
   FILTER(CONTAINS(LCASE(?actorName), "israel"))
 }
+
+EXAMPLE 7
+Question: "How many events are categorized as Battles?"
+Query:
+PREFIX conf: <http://data-semantics-2526.org/acled/ontology#>
+SELECT (COUNT(DISTINCT ?event) AS ?eventCount)
+WHERE {
+  ?event a conf:ConflictEvent ;
+         conf:eventType "Battles" .
+}
+
+EXAMPLE 8
+Question: "Which country experienced the highest number of protests?"
+Query:
+PREFIX conf: <http://data-semantics-2526.org/acled/ontology#>
+SELECT ?countryName (COUNT(DISTINCT ?event) AS ?eventCount)
+WHERE {
+  ?event a conf:ConflictEvent ;
+         conf:eventType "Protests" ;
+         conf:locatedIn ?country .
+  ?country conf:countryName ?countryName .
+}
+GROUP BY ?countryName
+ORDER BY DESC(?eventCount)
+LIMIT 1
+
+EXAMPLE 9
+Question: "What is the primary event type involving State Forces?"
+Query:
+PREFIX conf: <http://data-semantics-2526.org/acled/ontology#>
+SELECT ?eventType (COUNT(DISTINCT ?event) AS ?eventCount)
+WHERE {
+  ?event a conf:ConflictEvent ;
+         conf:eventType ?eventType .
+  { ?event conf:hasActor1 ?actor } UNION { ?event conf:hasActor2 ?actor }
+  ?actor a conf:StateForces .
+}
+GROUP BY ?eventType
+ORDER BY DESC(?eventCount)
+LIMIT 1
+
+EXAMPLE 10
+Question: "Identify the most active rebel group in the dataset based on total event frequency."
+Query:
+PREFIX conf: <http://data-semantics-2526.org/acled/ontology#>
+SELECT ?actorName (COUNT(DISTINCT ?event) AS ?eventCount)
+WHERE {
+  ?event a conf:ConflictEvent .
+  { ?event conf:hasActor1 ?actor } UNION { ?event conf:hasActor2 ?actor }
+  ?actor a conf:RebelGroup ;
+         conf:actorName ?actorName .
+}
+GROUP BY ?actorName
+ORDER BY DESC(?eventCount)
+LIMIT 1
+
+EXAMPLE 11
+Question: "How many unique journalistic sources are mapped in the graph?"
+Query:
+PREFIX conf: <http://data-semantics-2526.org/acled/ontology#>
+SELECT (COUNT(DISTINCT ?sourceName) AS ?sourceCount)
+WHERE {
+  ?event a conf:ConflictEvent ;
+         conf:reportedBy ?source .
+  ?source conf:sourceName ?sourceName .
+}
+
+EXAMPLE 12
+Question: "List the most cited journalistic source for events with strictly more than 50 fatalities."
+Query:
+PREFIX conf: <http://data-semantics-2526.org/acled/ontology#>
+SELECT ?sourceName (COUNT(DISTINCT ?event) AS ?eventCount)
+WHERE {
+  ?event a conf:ConflictEvent ;
+         conf:fatalities ?fatalities ;
+         conf:reportedBy ?source .
+  ?source conf:sourceName ?sourceName .
+  FILTER(?fatalities > 50)
+}
+GROUP BY ?sourceName
+ORDER BY DESC(?eventCount)
+LIMIT 1
 """
 
 

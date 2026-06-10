@@ -35,6 +35,15 @@ DEFAULT_RESULTS = SCRIPT_DIR / "evaluation_results.json"
 JUDGE_MODEL = "gemini-2.5-flash"
 MAX_RETRIES = 6
 BASE_RETRY_DELAY = 20.0
+DEFAULT_QUESTION_RETRIES = 12
+TRANSIENT_ERROR_PATTERNS = (
+    "429",
+    "503",
+    "RESOURCE_EXHAUSTED",
+    "UNAVAILABLE",
+    "high demand",
+    "temporarily unavailable",
+)
 
 env_path = SCRIPT_DIR / ".env"
 if not env_path.exists():
@@ -84,7 +93,7 @@ def generate_with_backoff(client, prompt: str) -> str:
             if attempt == MAX_RETRIES - 1:
                 raise
             wait_seconds = BASE_RETRY_DELAY * (2 ** attempt)
-            if "429" in str(exc) or "RESOURCE_EXHAUSTED" in str(exc):
+            if is_transient_error(exc):
                 wait_seconds = max(wait_seconds, 70.0)
             print(
                 f"  Judge error, waiting {wait_seconds:.0f}s... "
@@ -113,21 +122,70 @@ def llm_judge(client, question: str, answer: str) -> dict:
     return _parse_json_object(generate_with_backoff(client, prompt))
 
 
+def is_transient_error(exc: Exception) -> bool:
+    message = str(exc)
+    return any(pattern in message for pattern in TRANSIENT_ERROR_PATTERNS)
+
+
+def retry_delay(attempt: int) -> float:
+    return min(30.0 * (2 ** max(attempt - 1, 0)), 300.0)
+
+
 def _normalize_number(text: str) -> str:
     normalized = text.lower()
     normalized = re.sub(r"(?<=\d),(?=\d{3}\b)", "", normalized)
     normalized = re.sub(r"(?<=\d)\.(?=\d{3}\b)", "", normalized)
     return normalized
 
+
+def _is_numeric_expected(value: str) -> bool:
+    return re.fullmatch(r"\d+(?:[.,]\d+)?", value.strip()) is not None
+
+
 def exact_match(answer: str, expected_value: str) -> bool:
-    expected = re.escape(_normalize_number(str(expected_value)).strip())
+    expected_text = str(expected_value).strip()
+    expected_normalized = _normalize_number(expected_text)
     normalized_answer = _normalize_number(answer)
-    return re.search(rf"(?<![\w.]){expected}(?![\w.])", normalized_answer) is not None
+
+    if _is_numeric_expected(expected_text):
+        expected_number = expected_normalized.replace(",", ".")
+        answer_numbers = re.findall(r"(?<!\w)\d+(?:\.\d+)?(?!\w)", normalized_answer)
+        return expected_number in answer_numbers
+
+    expected = re.escape(re.sub(r"\s+", " ", expected_normalized))
+    normalized_answer = re.sub(r"\s+", " ", normalized_answer)
+    return re.search(rf"(?<!\w){expected}(?!\w)", normalized_answer) is not None
 
 
 def write_results(results_path: Path, results: list[dict]) -> None:
     with results_path.open("w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
+
+
+def load_existing_results(results_path: Path) -> dict[str, dict]:
+    if not results_path.exists():
+        return {}
+    with results_path.open("r", encoding="utf-8") as f:
+        existing = json.load(f)
+    if not isinstance(existing, list):
+        return {}
+    return {
+        str(item["id"]): item
+        for item in existing
+        if isinstance(item, dict) and "id" in item
+    }
+
+
+def ordered_results(dataset: list[dict], results_by_id: dict[str, dict]) -> list[dict]:
+    ordered = []
+    seen = set()
+    for item in dataset:
+        qid = str(item["id"])
+        if qid in results_by_id:
+            ordered.append(results_by_id[qid])
+            seen.add(qid)
+    ordered.extend(result for qid, result in results_by_id.items() if qid not in seen)
+    return ordered
 
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -139,6 +197,9 @@ def evaluate(
     results_path: Path,
     sleep_seconds: float,
     graphrag_llm_provider: str,
+    max_question_retries: int,
+    retry_until_success: bool,
+    only_route: str,
 ) -> None:
     with dataset_path.open("r", encoding="utf-8") as f:
         dataset = json.load(f)
@@ -150,7 +211,7 @@ def evaluate(
         GraphRAGConfig(llm_provider=graphrag_llm_provider)
     )
 
-    results = []
+    results_by_id = load_existing_results(results_path) if only_route != "all" else {}
     router_correct = 0
     router_total = 0
     answer_scores = []
@@ -165,27 +226,47 @@ def evaluate(
         expected_route = item.get("expected_route")
         answer_type = item.get("answer_type", "llm_judge")
 
+        if only_route != "all" and expected_route != only_route:
+            continue
+
         print(f"\n[{qid}] {question}")
 
         payload = None
-        for attempt in range(3):
+        attempt = 0
+        while retry_until_success or attempt < max_question_retries:
+            attempt += 1
             try:
                 payload = route_question(question, graphrag_answerer, sparql_module)
             except Exception as exc:
-                if "429" in str(exc) and attempt < 2:
-                    print(f"  Rate limited, waiting 30s... (attempt {attempt + 1}/3)")
-                    time.sleep(30)
+                if is_transient_error(exc) and (retry_until_success or attempt < max_question_retries):
+                    wait_seconds = retry_delay(attempt)
+                    max_label = "∞" if retry_until_success else str(max_question_retries)
+                    print(
+                        f"  Transient provider error, waiting {wait_seconds:.0f}s... "
+                        f"(attempt {attempt}/{max_label})"
+                    )
+                    time.sleep(wait_seconds)
                     continue
                 print(f"  ERROR: {exc}")
-                results.append({"id": qid, "question": question, "error": str(exc)})
-                write_results(results_path, results)
+                results_by_id[qid] = {
+                    "id": qid,
+                    "question": question,
+                    "expected_route": expected_route,
+                    "error": str(exc),
+                }
+                write_results(results_path, ordered_results(dataset, results_by_id))
                 break
 
             # GraphRAG catches 429 internally and returns it as a status field
             if "rate_limit" in payload.get("status", ""):
-                if attempt < 2:
-                    print(f"  Rate limited in pipeline, waiting 30s... (attempt {attempt + 1}/3)")
-                    time.sleep(30)
+                if retry_until_success or attempt < max_question_retries:
+                    wait_seconds = retry_delay(attempt)
+                    max_label = "∞" if retry_until_success else str(max_question_retries)
+                    print(
+                        f"  Rate limited in pipeline, waiting {wait_seconds:.0f}s... "
+                        f"(attempt {attempt}/{max_label})"
+                    )
+                    time.sleep(wait_seconds)
                     continue
             break
         if payload is None:
@@ -235,7 +316,7 @@ def evaluate(
                 print(f"  Relevance: {relevance}/10  |  Faithfulness: {faithfulness}/10")
                 print(f"  Rationale: {judged.get('rationale', '')}")
 
-        results.append({
+        results_by_id[qid] = {
             "id": qid,
             "question": question,
             "expected_route": expected_route,
@@ -244,8 +325,8 @@ def evaluate(
             "answer": answer,
             "score": score,
             "score_skipped": score_skipped,
-        })
-        write_results(results_path, results)
+        }
+        write_results(results_path, ordered_results(dataset, results_by_id))
 
         if sleep_seconds > 0:
             time.sleep(sleep_seconds)
@@ -263,8 +344,8 @@ def evaluate(
     print("=" * 70)
 
     # ── Save results ──────────────────────────────────────────────────────────
-    write_results(results_path, results)
-    print(f"\nDetailed results saved to {results_path.name}")
+    write_results(results_path, ordered_results(dataset, results_by_id))
+    print(f"\nDetailed results saved to {results_path.resolve()}")
 
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -297,6 +378,23 @@ def parse_args() -> argparse.Namespace:
         default="groq",
         help="LLM provider used inside GraphRAG scoring/answering (default: groq)",
     )
+    parser.add_argument(
+        "--max-question-retries",
+        type=int,
+        default=DEFAULT_QUESTION_RETRIES,
+        help="Maximum retries for transient provider errors per question (default: 12)",
+    )
+    parser.add_argument(
+        "--retry-until-success",
+        action="store_true",
+        help="Retry transient provider errors forever. Use only when you are okay waiting indefinitely.",
+    )
+    parser.add_argument(
+        "--only-route",
+        choices=("all", "sparql", "graphrag"),
+        default="all",
+        help="Evaluate only one expected route and preserve existing results for the others (default: all)",
+    )
     return parser.parse_args()
 
 
@@ -305,11 +403,17 @@ def main() -> None:
     if not args.dataset.exists():
         print(f"Dataset not found: {args.dataset}")
         sys.exit(1)
+    if args.max_question_retries < 1 and not args.retry_until_success:
+        print("--max-question-retries must be at least 1 unless --retry-until-success is set")
+        sys.exit(1)
     evaluate(
         args.dataset,
         args.output,
         args.sleep_between_questions,
         args.graphrag_llm_provider,
+        args.max_question_retries,
+        args.retry_until_success,
+        args.only_route,
     )
 
 

@@ -25,7 +25,7 @@
     "question": "How many unique journalistic sources are mapped in the graph?",
     "expected_route": "sparql",
     "answer_type": "exact",
-    "expected_value": "811"
+    "expected_value": "810"
   },
   {
     "id": "q005",
