@@ -120,6 +120,8 @@ QUERY STYLE RULES:
       { ?event conf:hasActor1 ?actor } UNION { ?event conf:hasActor2 ?actor }
   - ALWAYS add ORDER BY and LIMIT 20 when the query returns a list of entities
     (actors, countries, event types, etc.). Never return unbounded lists.
+  - ALWAYS scope COUNT to a specific pattern, never COUNT(*) on joined patterns.
+
 """
 
 
@@ -182,20 +184,26 @@ EXAMPLE 5
 Question: "Is Israel included in the events?"
 Query:
 PREFIX conf: <http://data-semantics-2526.org/acled/ontology#>
-SELECT
-  (COUNT(DISTINCT ?eventAsLocation) AS ?eventsInIsrael)
-  (COUNT(DISTINCT ?eventAsActor) AS ?eventsWithIsraeliActors)
-WHERE {
-  OPTIONAL {
-    ?eventAsLocation a conf:ConflictEvent ;
-                     conf:locatedIn ?country .
-    ?country conf:countryName "Israel" .
+EXAMPLE 5
+Question: "Is Israel included in the events?"
+Query:
+PREFIX conf: <http://data-semantics-2526.org/acled/ontology#>
+SELECT (SUM(?c) AS ?total) WHERE {
+  {
+    SELECT (COUNT(DISTINCT ?ev) AS ?c) WHERE {
+      ?ev a conf:ConflictEvent ;
+          conf:locatedIn ?country .
+      ?country conf:countryName "Israel" .
+    }
   }
-  OPTIONAL {
-    ?eventAsActor a conf:ConflictEvent .
-    { ?eventAsActor conf:hasActor1 ?actor } UNION { ?eventAsActor conf:hasActor2 ?actor }
-    ?actor conf:actorName ?actorName .
-    FILTER(CONTAINS(LCASE(?actorName), "israel"))
+  UNION
+  {
+    SELECT (COUNT(DISTINCT ?ev) AS ?c) WHERE {
+      ?ev a conf:ConflictEvent .
+      { ?ev conf:hasActor1 ?actor } UNION { ?ev conf:hasActor2 ?actor }
+      ?actor conf:actorName ?actorName .
+      FILTER(CONTAINS(LCASE(?actorName), "israel"))
+    }
   }
 }
 
@@ -276,7 +284,12 @@ def generate_sparql_query(question: str) -> str:
     system_msg = (
         "You are an expert in SPARQL and Knowledge Graphs. Your task is to "
         "translate natural language questions into valid SPARQL queries "
-        "for the ACLED Knowledge Graph. Always use SELECT, never ASK."
+        "for the ACLED Knowledge Graph. Always use SELECT, never ASK.\n\n"
+        "PERFORMANCE RULES (mandatory):\n"
+        "- NEVER combine two independent COUNT patterns in the same WHERE with OPTIONAL. "
+        "Use UNION of subqueries instead.\n"
+        "- Always scope COUNT(DISTINCT ...) to a single coherent pattern.\n"
+        "- NEVER use correlated OPTIONALs for independent aggregations."
     )
     prompt = f"""
 {ONTOLOGY_SCHEMA}

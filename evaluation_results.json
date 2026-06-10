@@ -1,0 +1,99 @@
+[
+  {
+    "id": "q001",
+    "question": "How many actors are there in the Knowledge Graph?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "There are 1,323 actors in the Knowledge Graph.",
+    "score": {
+      "exact_match": true,
+      "expected": "1323"
+    }
+  },
+  {
+    "id": "q002",
+    "question": "How many conflict events are there in total?",
+    "expected_route": "sparql",
+    "actual_route": "sparql",
+    "route_correct": true,
+    "answer": "There are 91,893 conflict events in total.",
+    "score": {
+      "relevance": 10,
+      "faithfulness": 10,
+      "rationale": "The answer directly addresses the question by providing a specific total number of conflict events."
+    }
+  },
+  {
+    "id": "q003",
+    "question": "Total fatalities in Yemen in 2022?",
+    "error": "429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions"
+  },
+  {
+    "id": "q004",
+    "question": "Which country had the most conflict events?",
+    "error": "429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions"
+  },
+  {
+    "id": "q005",
+    "question": "How many events involved Hamas?",
+    "error": "429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions"
+  },
+  {
+    "id": "q006",
+    "question": "Which actors caused the most fatalities?",
+    "error": "429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions"
+  },
+  {
+    "id": "q007",
+    "question": "What are the main conflict dynamics in Syria?",
+    "expected_route": "graphrag",
+    "actual_route": "graphrag",
+    "route_correct": true,
+    "answer": "Groq rate limit was reached during answer generation. Retrieval still selected these reports for validation: graphrag_community_002, graphrag_community_005, graphrag_community_001, graphrag_community_003. Retry later or lower --max-scorer-reports, --scorer-report-chars, or --answer-report-chars.",
+    "score": {
+      "relevance": 0,
+      "faithfulness": 0,
+      "rationale": "The answer does not address the question about conflict dynamics in Syria and instead reports an error message."
+    }
+  },
+  {
+    "id": "q008",
+    "question": "Describe the relationships between armed groups in Yemen.",
+    "expected_route": "graphrag",
+    "actual_route": "graphrag",
+    "route_correct": true,
+    "answer": "Groq rate limit was reached during answer generation. Retrieval still selected these reports for validation: graphrag_community_014, graphrag_community_016, graphrag_community_004, graphrag_community_005. Retry later or lower --max-scorer-reports, --scorer-report-chars, or --answer-report-chars.",
+    "score": {
+      "relevance": 0,
+      "faithfulness": 0,
+      "rationale": "The answer does not provide any information about the relationships between armed groups in Yemen, instead it reports an error message."
+    }
+  },
+  {
+    "id": "q009",
+    "question": "What patterns of violence are most common in Iraq?",
+    "expected_route": "graphrag",
+    "actual_route": "graphrag",
+    "route_correct": true,
+    "answer": "Groq rate limit was reached during answer generation. Retrieval still selected these reports for validation: graphrag_community_001, graphrag_community_005, graphrag_community_009, graphrag_community_012. Retry later or lower --max-scorer-reports, --scorer-report-chars, or --answer-report-chars.",
+    "score": {
+      "relevance": 0,
+      "faithfulness": 0,
+      "rationale": "The answer does not address the question about patterns of violence in Iraq, instead providing an error message about rate limits and report settings."
+    }
+  },
+  {
+    "id": "q010",
+    "question": "What are the main trends in the Middle East conflict landscape between 2015 and 2023?",
+    "expected_route": "graphrag",
+    "actual_route": "graphrag",
+    "route_correct": true,
+    "answer": "Groq rate limit was reached during answer generation. Retrieval still selected these reports for validation: graphrag_community_010, graphrag_community_011, graphrag_community_013, graphrag_community_014. Retry later or lower --max-scorer-reports, --scorer-report-chars, or --answer-report-chars.",
+    "score": {
+      "relevance": 0,
+      "faithfulness": 0,
+      "rationale": "The answer does not address the question about Middle East conflict trends and instead reports an error during answer generation."
+    }
+  }
+]
