@@ -14,14 +14,15 @@ Usage:
 
 import argparse
 import json
+import os
 import sys
 from pathlib import Path
 import re
 import time
-import requests
 from dotenv import load_dotenv
+from google import genai
 
-from router import GROQ_API_URL, load_sparql_module, require_groq_api_key, route_question
+from router import load_sparql_module, route_question
 from graphrag_terminal import GraphRAGAnswerer, GraphRAGConfig
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -31,10 +32,14 @@ from graphrag_terminal import GraphRAGAnswerer, GraphRAGConfig
 SCRIPT_DIR = Path(__file__).resolve().parent
 DEFAULT_DATASET = SCRIPT_DIR / "evaluation_dataset.json"
 DEFAULT_RESULTS = SCRIPT_DIR / "evaluation_results.json"
-JUDGE_MODEL = "llama-3.3-70b-versatile"
-REQUEST_TIMEOUT = 60
-MAX_RETRIES = 3
-RETRY_STATUS_CODES = {429, 500, 502, 503, 504}
+JUDGE_MODEL = "gemini-2.5-flash"
+MAX_RETRIES = 6
+BASE_RETRY_DELAY = 20.0
+
+env_path = SCRIPT_DIR / ".env"
+if not env_path.exists():
+    env_path = SCRIPT_DIR.parent / ".env"
+load_dotenv(dotenv_path=env_path)
 
 JUDGE_SYSTEM = """
 You are an expert evaluator for a Q&A system about ACLED Middle East conflict data.
@@ -50,40 +55,62 @@ Return ONLY a JSON object with exactly these keys:
 # 2. LLM-AS-JUDGE
 # ──────────────────────────────────────────────────────────────────────────────
 
-def post_with_retry(url: str, **kwargs) -> requests.Response:
-    timeout = kwargs.pop("timeout", REQUEST_TIMEOUT)
-    response = None
+def require_gemini_api_key() -> str:
+    api_key = os.getenv("GEMINI_API_KEY")
+    if not api_key:
+        raise ValueError("GEMINI_API_KEY not found in .env")
+    return api_key
+
+
+def setup_gemini():
+    return genai.Client(api_key=require_gemini_api_key())
+
+
+def generate_with_backoff(client, prompt: str) -> str:
     for attempt in range(MAX_RETRIES):
-        response = requests.post(url, timeout=timeout, **kwargs)
-        if response.status_code not in RETRY_STATUS_CODES or attempt == MAX_RETRIES - 1:
-            return response
+        try:
+            response = client.models.generate_content(
+                model=JUDGE_MODEL,
+                contents=prompt,
+                config={
+                    "temperature": 0.0,
+                    "response_mime_type": "application/json",
+                },
+            )
+            if not response.text:
+                raise RuntimeError("Gemini returned an empty response")
+            return response.text
+        except Exception as exc:
+            if attempt == MAX_RETRIES - 1:
+                raise
+            wait_seconds = BASE_RETRY_DELAY * (2 ** attempt)
+            if "429" in str(exc) or "RESOURCE_EXHAUSTED" in str(exc):
+                wait_seconds = max(wait_seconds, 70.0)
+            print(
+                f"  Judge error, waiting {wait_seconds:.0f}s... "
+                f"(attempt {attempt + 1}/{MAX_RETRIES})"
+            )
+            time.sleep(wait_seconds)
+    raise RuntimeError("Max retries exceeded")
 
-        retry_after = response.headers.get("Retry-After")
-        wait_seconds = float(retry_after) if retry_after and retry_after.isdigit() else 30.0
-        time.sleep(min(wait_seconds, 60.0))
 
-    if response is None:
-        raise RuntimeError("HTTP request was not executed")
-    return response
+def _parse_json_object(text: str) -> dict:
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        match = re.search(r"\{.*\}", text, flags=re.DOTALL)
+        if not match:
+            raise
+        return json.loads(match.group(0))
 
 
-def llm_judge(question: str, answer: str) -> dict:
-    headers = {
-        "Authorization": f"Bearer {require_groq_api_key()}",
-        "Content-Type": "application/json",
-    }
-    payload = {
-        "model": JUDGE_MODEL,
-        "messages": [
-            {"role": "system", "content": JUDGE_SYSTEM},
-            {"role": "user", "content": f"Question: {question}\n\nAnswer: {answer}"},
-        ],
-        "temperature": 0.0,
-        "response_format": {"type": "json_object"},
-    }
-    response = post_with_retry(GROQ_API_URL, headers=headers, json=payload)
-    response.raise_for_status()
-    return json.loads(response.json()["choices"][0]["message"]["content"])
+def llm_judge(client, question: str, answer: str) -> dict:
+    prompt = (
+        f"{JUDGE_SYSTEM.strip()}\n\n"
+        f"Question: {question}\n\n"
+        f"Answer: {answer}"
+    )
+    return _parse_json_object(generate_with_backoff(client, prompt))
 
 
 def _normalize_number(text: str) -> str:
@@ -107,13 +134,21 @@ def write_results(results_path: Path, results: list[dict]) -> None:
 # 3. EVALUATION LOOP
 # ──────────────────────────────────────────────────────────────────────────────
 
-def evaluate(dataset_path: Path, results_path: Path, sleep_seconds: float) -> None:
+def evaluate(
+    dataset_path: Path,
+    results_path: Path,
+    sleep_seconds: float,
+    graphrag_llm_provider: str,
+) -> None:
     with dataset_path.open("r", encoding="utf-8") as f:
         dataset = json.load(f)
 
     print("Loading pipelines...")
+    judge_client = setup_gemini()
     sparql_module = load_sparql_module()
-    graphrag_answerer = GraphRAGAnswerer(GraphRAGConfig())
+    graphrag_answerer = GraphRAGAnswerer(
+        GraphRAGConfig(llm_provider=graphrag_llm_provider)
+    )
 
     results = []
     router_correct = 0
@@ -186,7 +221,7 @@ def evaluate(dataset_path: Path, results_path: Path, sleep_seconds: float) -> No
             print(f"  Exact:  {'✓' if match else '✗'}  (expected: {expected_value})")
         else:
             try:
-                judged = llm_judge(question, answer)
+                judged = llm_judge(judge_client, question, answer)
             except Exception as exc:
                 score = {"skipped": True, "reason": f"judge_error: {exc}"}
                 score_skipped = True
@@ -256,6 +291,12 @@ def parse_args() -> argparse.Namespace:
         default=5.0,
         help="Seconds to wait between questions (default: 5)",
     )
+    parser.add_argument(
+        "--graphrag-llm-provider",
+        choices=("groq", "gemini"),
+        default="groq",
+        help="LLM provider used inside GraphRAG scoring/answering (default: groq)",
+    )
     return parser.parse_args()
 
 
@@ -264,7 +305,12 @@ def main() -> None:
     if not args.dataset.exists():
         print(f"Dataset not found: {args.dataset}")
         sys.exit(1)
-    evaluate(args.dataset, args.output, args.sleep_between_questions)
+    evaluate(
+        args.dataset,
+        args.output,
+        args.sleep_between_questions,
+        args.graphrag_llm_provider,
+    )
 
 
 if __name__ == "__main__":
