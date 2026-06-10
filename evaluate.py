@@ -32,7 +32,7 @@ from graphrag_terminal import GraphRAGAnswerer, GraphRAGConfig
 SCRIPT_DIR = Path(__file__).resolve().parent
 DEFAULT_DATASET = SCRIPT_DIR / "evaluation_dataset.json"
 DEFAULT_RESULTS = SCRIPT_DIR / "evaluation_results.json"
-JUDGE_MODEL = "gemini-2.5-flash"
+JUDGE_MODEL = "gemini-2.5-flash-lite"
 MAX_RETRIES = 6
 BASE_RETRY_DELAY = 20.0
 DEFAULT_QUESTION_RETRIES = 12

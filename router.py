@@ -22,6 +22,12 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
+from groq_key_rotation import (
+    current_groq_key_name,
+    groq_api_key_count,
+    require_groq_api_key,
+    rotate_groq_api_key,
+)
 from graphrag_terminal import GraphRAGAnswerer, GraphRAGConfig
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -34,8 +40,6 @@ if not env_path.exists():
     env_path = SCRIPT_DIR.parent / ".env"
 load_dotenv(dotenv_path=env_path)
 
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 ROUTER_MODEL = "llama-3.1-8b-instant"
 REQUEST_TIMEOUT = 60
@@ -45,12 +49,6 @@ RETRY_STATUS_CODES = {429, 500, 502, 503, 504}
 # ──────────────────────────────────────────────────────────────────────────────
 # 2. LOAD SPARQL MODULE (filename has parentheses, cannot use normal import)
 # ──────────────────────────────────────────────────────────────────────────────
-
-def require_groq_api_key() -> str:
-    if not GROQ_API_KEY:
-        raise ValueError("GROQ_API_KEY not found in .env")
-    return GROQ_API_KEY
-
 
 def post_with_retry(url: str, **kwargs) -> requests.Response:
     timeout = kwargs.pop("timeout", REQUEST_TIMEOUT)
@@ -105,10 +103,6 @@ Use "graphrag" for:
 
 
 def decide_route(question: str) -> str:
-    headers = {
-        "Authorization": f"Bearer {require_groq_api_key()}",
-        "Content-Type": "application/json",
-    }
     payload = {
         "model": ROUTER_MODEL,
         "messages": [
@@ -118,7 +112,23 @@ def decide_route(question: str) -> str:
         "temperature": 0.0,
         "response_format": {"type": "json_object"},
     }
-    response = post_with_retry(GROQ_API_URL, headers=headers, json=payload)
+
+    response = None
+    for key_attempt in range(max(groq_api_key_count(), 1)):
+        headers = {
+            "Authorization": f"Bearer {require_groq_api_key()}",
+            "Content-Type": "application/json",
+        }
+        response = post_with_retry(GROQ_API_URL, headers=headers, json=payload)
+        if response.status_code != 429:
+            break
+        if key_attempt < groq_api_key_count() - 1:
+            previous_key = current_groq_key_name()
+            rotate_groq_api_key()
+            print(f"[Groq] rate limit on {previous_key}; switching to {current_groq_key_name()}")
+
+    if response is None:
+        raise RuntimeError("Groq router request was not executed")
     response.raise_for_status()
     content = response.json()["choices"][0]["message"]["content"]
     parsed = json.loads(content)

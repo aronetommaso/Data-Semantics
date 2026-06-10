@@ -26,4 +26,4 @@ def upload_to_graphdb(file_path, repo_id):
 
 if __name__ == '__main__':
 
-    upload_to_graphdb('./cle/acled_populated_kg.ttl', 'acled-kg')
+    upload_to_graphdb('./cle/acled_kg.ttl', 'acled-kg')

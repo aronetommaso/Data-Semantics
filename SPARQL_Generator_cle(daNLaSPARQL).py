@@ -20,6 +20,12 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 from dotenv import load_dotenv
+from groq_key_rotation import (
+    current_groq_key_name,
+    groq_api_key_count,
+    require_groq_api_key,
+    rotate_groq_api_key,
+)
 
 # ──────────────────────────────────────────────────────────────────────────────
 # 1. CONFIGURATION
@@ -31,7 +37,6 @@ if not env_path.exists():
     env_path = SCRIPT_DIR.parent / ".env"
 load_dotenv(dotenv_path=env_path)
 
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 GRAPHDB_REPO_URL = os.getenv("GRAPHDB_REPO_URL", "http://localhost:7200/repositories/acled-kg")
 
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
@@ -319,12 +324,6 @@ LIMIT 1
 # 4. FUNCTIONS
 # ──────────────────────────────────────────────────────────────────────────────
 
-def require_groq_api_key() -> str:
-    if not GROQ_API_KEY:
-        raise ValueError("GROQ_API_KEY not found in .env")
-    return GROQ_API_KEY
-
-
 def post_with_retry(url: str, **kwargs) -> requests.Response:
     timeout = kwargs.pop("timeout", REQUEST_TIMEOUT)
     response = None
@@ -343,10 +342,6 @@ def post_with_retry(url: str, **kwargs) -> requests.Response:
 
 
 def call_groq(prompt: str, system_message: str = "") -> str:
-    headers = {
-        "Authorization": f"Bearer {require_groq_api_key()}",
-        "Content-Type": "application/json",
-    }
     messages = []
     if system_message:
         messages.append({"role": "system", "content": system_message})
@@ -357,7 +352,23 @@ def call_groq(prompt: str, system_message: str = "") -> str:
         "messages": messages,
         "temperature": 0.1,
     }
-    response = post_with_retry(GROQ_API_URL, headers=headers, json=payload)
+
+    response = None
+    for key_attempt in range(max(groq_api_key_count(), 1)):
+        headers = {
+            "Authorization": f"Bearer {require_groq_api_key()}",
+            "Content-Type": "application/json",
+        }
+        response = post_with_retry(GROQ_API_URL, headers=headers, json=payload)
+        if response.status_code != 429:
+            break
+        if key_attempt < groq_api_key_count() - 1:
+            previous_key = current_groq_key_name()
+            rotate_groq_api_key()
+            print(f"[Groq] rate limit on {previous_key}; switching to {current_groq_key_name()}")
+
+    if response is None:
+        raise RuntimeError("Groq request was not executed")
     response.raise_for_status()
     return response.json()["choices"][0]["message"]["content"]
 

@@ -25,6 +25,14 @@ from typing import Any
 import requests
 from dotenv import load_dotenv
 
+from groq_key_rotation import (
+    current_groq_api_key,
+    current_groq_key_name,
+    groq_api_key_count,
+    require_groq_api_key,
+    rotate_groq_api_key,
+)
+
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 DEFAULT_COMMUNITIES_PATH = SCRIPT_DIR / "leiden_graphrag_communities.json"
@@ -35,8 +43,8 @@ GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 DEFAULT_SCORER_MODEL = "llama-3.1-8b-instant"
 DEFAULT_ANSWER_MODEL = "llama-3.3-70b-versatile"
 DEFAULT_LLM_PROVIDER = "groq"
-DEFAULT_GEMINI_SCORER_MODEL = "gemini-2.5-flash"
-DEFAULT_GEMINI_ANSWER_MODEL = "gemini-2.5-flash"
+DEFAULT_GEMINI_SCORER_MODEL = "gemini-2.5-flash-lite"
+DEFAULT_GEMINI_ANSWER_MODEL = "gemini-3.5-flash"
 
 
 @dataclass(frozen=True)
@@ -119,7 +127,7 @@ class GraphRAGConfig:
 class GroqClient:
     """Small OpenAI-compatible client for Groq chat completions."""
 
-    def __init__(self, api_key: str, api_url: str = GROQ_API_URL, timeout: int = 90) -> None:
+    def __init__(self, api_key: str | None = None, api_url: str = GROQ_API_URL, timeout: int = 90) -> None:
         """Initialize the Groq client.
 
         Args:
@@ -156,10 +164,6 @@ class GroqClient:
             requests.HTTPError: If Groq returns a non-success status code.
         """
 
-        headers = {
-            "Authorization": f"Bearer {self.api_key}",
-            "Content-Type": "application/json",
-        }
         payload: dict[str, Any] = {
             "model": model,
             "messages": [
@@ -172,19 +176,32 @@ class GroqClient:
             payload["response_format"] = response_format
 
         response = None
-        for attempt in range(3):
-            response = requests.post(
-                self.api_url,
-                headers=headers,
-                json=payload,
-                timeout=self.timeout,
-            )
-            if response.status_code != 429:
-                break
+        for key_attempt in range(max(groq_api_key_count(), 1)):
+            api_key = self.api_key or current_groq_api_key()
+            headers = {
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json",
+            }
+            for attempt in range(3):
+                response = requests.post(
+                    self.api_url,
+                    headers=headers,
+                    json=payload,
+                    timeout=self.timeout,
+                )
+                if response.status_code != 429:
+                    break
 
-            retry_after = response.headers.get("Retry-After")
-            wait_seconds = float(retry_after) if retry_after and retry_after.isdigit() else 2.0 * (attempt + 1)
-            time.sleep(min(wait_seconds, 8.0))
+                retry_after = response.headers.get("Retry-After")
+                wait_seconds = float(retry_after) if retry_after and retry_after.isdigit() else 2.0 * (attempt + 1)
+                time.sleep(min(wait_seconds, 8.0))
+
+            if response is None or response.status_code != 429:
+                break
+            if key_attempt < groq_api_key_count() - 1:
+                previous_key = current_groq_key_name()
+                self.api_key = rotate_groq_api_key()
+                print(f"[Groq] rate limit on {previous_key}; switching to {current_groq_key_name()}")
 
         if response is None:
             raise RuntimeError("Groq request was not executed")
@@ -251,7 +268,10 @@ def load_environment(provider: str = DEFAULT_LLM_PROVIDER) -> str:
     load_dotenv(dotenv_path=env_path)
 
     provider = provider.lower()
-    env_key = "GEMINI_API_KEY" if provider == "gemini" else "GROQ_API_KEY"
+    if provider == "groq":
+        return require_groq_api_key()
+
+    env_key = "GEMINI_API_KEY"
     api_key = os.getenv(env_key)
     if not api_key:
         raise ValueError(f"{env_key} not found in .env")
