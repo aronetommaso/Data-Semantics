@@ -4,3 +4,8 @@
 *.ttl
 *.env.*
 *.json
+*.html
+*.owl
+*.txt
+*.jsonl
+*.rml
