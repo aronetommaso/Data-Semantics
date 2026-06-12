@@ -9,3 +9,7 @@
 *.txt
 *.jsonl
 *.rml
+*.gexf
+\merge_leiden_communities_attach_preserved.py
+\merge_leiden_communities.py
+\final_community_reports
